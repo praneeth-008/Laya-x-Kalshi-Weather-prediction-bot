@@ -34,79 +34,242 @@ class PilotStats:
             self.bytes_downloaded += n_bytes
 
 
+_GRID_CACHE: dict = {}
+_GRID_CACHE_STATS = {"hits": 0, "misses": 0, "uncertain_fingerprint": 0, "periodic_validations": 0, "invalidations": 0}
+_PERIODIC_REVALIDATE_EVERY = 500
+_MAX_PATCH_DISTANCE_KM = 10.0  # generous vs. HRRR's measured ~1km nearest-point / 3km native spacing
+
+_GRID_FINGERPRINT_SCALAR_KEYS = [
+    "gridType", "Ni", "Nj",
+    "latitudeOfFirstGridPointInDegrees", "longitudeOfFirstGridPointInDegrees",
+    "LoVInDegrees", "Latin1InDegrees", "Latin2InDegrees",
+    "DxInMetres", "DyInMetres",
+]
+
+
+def _grid_fingerprint(gid) -> str | None:
+    """A cheap, positive identifier of this message's grid definition.
+    Returns None (never a guess) if identity cannot be established with
+    confidence -- callers must treat None as "cache not usable here"."""
+    import eccodes
+
+    try:
+        md5 = eccodes.codes_get(gid, "md5GridSection")
+        if md5:
+            return f"md5:{md5}"
+    except Exception:
+        pass
+
+    values = {}
+    for k in _GRID_FINGERPRINT_SCALAR_KEYS:
+        try:
+            values[k] = eccodes.codes_get(gid, k)
+        except Exception:
+            return None  # any missing/unreadable key -> uncertain, no fingerprint
+    return "scalar:" + json.dumps(values, sort_keys=True, default=str)
+
+
+def _full_grid_search(lats, lons_wrapped, points: list[tuple[float, float]]) -> list[dict]:
+    """Ground-truth nearest-neighbor search: one vectorized NumPy lookup per
+    requested point over the full grid. Used on cache miss, on first
+    encounter of a fingerprint, and on periodic re-validation."""
+    import numpy as np
+
+    results = []
+    for lat, lon in points:
+        d2 = (lats - lat) ** 2 + (lons_wrapped - lon) ** 2
+        i = int(np.argmin(d2))
+        # Haversine-ish small-angle distance in km, consistent with the
+        # existing single-point decode_message()'s eccodes-reported distance
+        # (good enough at this scale).
+        dlat_km = (lats[i] - lat) * 111.0
+        dlon_km = (lons_wrapped[i] - lon) * 111.0 * abs(np.cos(np.radians(lat)))
+        distance_km = float((dlat_km ** 2 + dlon_km ** 2) ** 0.5)
+        results.append({"index": i, "grid_lat": float(lats[i]), "grid_lon": float(lons_wrapped[i]), "distance_km": distance_km})
+    return results
+
+
+def _validate_patch_distances(search_results: list[dict], points: list[tuple[float, float]], max_km: float = _MAX_PATCH_DISTANCE_KM) -> None:
+    """Every requested patch point, not just the center, must map to a grid
+    point within a sane distance -- raises (never silently continues) if not."""
+    for (lat, lon), r in zip(points, search_results):
+        if r["distance_km"] > max_km:
+            raise RuntimeError(
+                f"Grid sanity check failed: requested point ({lat}, {lon}) nearest grid point is "
+                f"{r['distance_km']:.3f} km away (max allowed {max_km} km) -- refusing to trust this mapping"
+            )
+
+
+def _entries_agree(cached: dict, fresh_results: list[dict], coord_tol: float = 1e-6, dist_tol: float = 1e-6) -> bool:
+    fresh_indices = [r["index"] for r in fresh_results]
+    if cached["indices"] != fresh_indices:
+        return False
+    for a, b in zip(cached["grid_lat"], [r["grid_lat"] for r in fresh_results]):
+        if abs(a - b) > coord_tol:
+            return False
+    for a, b in zip(cached["grid_lon"], [r["grid_lon"] for r in fresh_results]):
+        if abs(a - b) > coord_tol:
+            return False
+    for a, b in zip(cached["distance_km"], [r["distance_km"] for r in fresh_results]):
+        if abs(a - b) > dist_tol:
+            return False
+    return True
+
+
+def _build_cache_entry(search_results: list[dict], grid_ni: int | None, grid_nj: int | None) -> dict:
+    return {
+        "indices": [r["index"] for r in search_results],
+        "grid_lat": [r["grid_lat"] for r in search_results],
+        "grid_lon": [r["grid_lon"] for r in search_results],
+        "distance_km": [r["distance_km"] for r in search_results],
+        "grid_ni": grid_ni,
+        "grid_nj": grid_nj,
+        "validated_at": time.time(),
+        "hits_since_validation": 0,
+    }
+
+
 def decode_message_multi_point(raw_bytes: bytes, points: list[tuple[float, float]]) -> list[dict]:
-    """Decode one standalone GRIB2 message ONCE and extract nearest-gridpoint
-    values at MULTIPLE (lat, lon) points via a single vectorized NumPy
-    nearest-neighbor search, instead of calling eccodes' own
-    codes_grib_find_nearest() once per point.
+    """Decode one standalone GRIB2 message and extract values at MULTIPLE
+    (lat, lon) points, reusing a per-process cache of the Central Park patch's
+    grid indices when the message's grid identity has been positively
+    validated before (see _grid_fingerprint/_GRID_CACHE below).
 
-    DISCOVERED DURING PILOT BUILD: codes_grib_find_nearest() on HRRR's
-    ~1.9M-point CONUS grid takes ~2.4s PER CALL regardless of caching the
-    open GRIB handle -- calling it once per 3x3-patch point (9x) would have
-    made every single (run, forecast_hour, variable) work item take ~20s+
-    just for point extraction, making the pilot practically infeasible
-    (projected >100s of hours for HRRR alone). Pulling the full lat/lon/value
-    arrays once (via codes_get_array, ~1s) and doing all N nearest-point
-    lookups as one vectorized operation (~0.1s per point after that) cuts
-    this to a small, patch-size-insensitive fixed cost per message -- this
-    is what "the patch is nearly free" actually requires in practice, not
-    just true for remote bytes (which was already correctly established)."""
-    import os
-    import tempfile
+    Decodes directly from the in-memory byte range via
+    eccodes.codes_new_from_message() -- no temp file is created at all, which
+    is both faster and avoids a Windows-specific issue where a temp-file-based
+    GRIB handle would not release its underlying file lock synchronously with
+    codes_release(), causing os.unlink() to fail every time (observed: 100% of
+    calls in profiling). This also brings the code in line with this module's
+    own documented stream-and-discard policy ("no GRIB bytes ever touch disk").
 
+    CACHING (per-process only -- each ProcessPoolExecutor worker builds its
+    own cache in its own memory, no multiprocessing shared state):
+    the 9 Central-Park-patch grid indices, their coordinates, and their
+    distances from the requested points depend ONLY on the grid definition
+    (same for every message sharing that definition) and the requested
+    points themselves -- never on the message's actual data values, which are
+    always read fresh. A cache entry is only created after the full
+    nearest-neighbor search has been run and every patch point has passed the
+    distance sanity check (ground truth first, cache second, never the
+    reverse). On every use, the cache is re-validated in full every
+    _PERIODIC_REVALIDATE_EVERY hits, and disagreement invalidates and rebuilds
+    it rather than silently continuing with a stale mapping. A fingerprint
+    that cannot be established with confidence (missing/unreadable grid keys)
+    is never treated as a cache hit -- that message always falls back to the
+    full computation, uncached."""
     import eccodes
     import numpy as np
 
-    with tempfile.NamedTemporaryFile(suffix=".grib2", delete=False) as f:
-        f.write(raw_bytes)
-        tmp_path = f.name
+    gid = eccodes.codes_new_from_message(raw_bytes)
+    if gid is None:
+        raise RuntimeError("eccodes could not parse this byte range as a GRIB2 message")
     try:
-        with open(tmp_path, "rb") as f:
-            gid = eccodes.codes_grib_new_from_file(f)
-            if gid is None:
-                raise RuntimeError("eccodes could not parse this byte range as a GRIB2 message")
-            try:
-                variable = eccodes.codes_get(gid, "shortName")
-                level = eccodes.codes_get(gid, "level")
-                level_type = eccodes.codes_get(gid, "typeOfLevel")
-                units = eccodes.codes_get(gid, "units")
-                forecast_hour = eccodes.codes_get(gid, "forecastTime")
-                data_date = eccodes.codes_get(gid, "dataDate")
-                data_time = eccodes.codes_get(gid, "dataTime")
+        variable = eccodes.codes_get(gid, "shortName")
+        level = eccodes.codes_get(gid, "level")
+        level_type = eccodes.codes_get(gid, "typeOfLevel")
+        units = eccodes.codes_get(gid, "units")
+        forecast_hour = eccodes.codes_get(gid, "forecastTime")
+        data_date = eccodes.codes_get(gid, "dataDate")
+        data_time = eccodes.codes_get(gid, "dataTime")
 
+        fingerprint = _grid_fingerprint(gid)
+        cache_key = (fingerprint, tuple(points)) if fingerprint is not None else None
+        entry = _GRID_CACHE.get(cache_key) if cache_key is not None else None
+
+        if cache_key is None:
+            _GRID_CACHE_STATS["uncertain_fingerprint"] += 1
+        elif entry is None:
+            _GRID_CACHE_STATS["misses"] += 1
+        else:
+            _GRID_CACHE_STATS["hits"] += 1
+
+        if entry is not None:
+            entry["hits_since_validation"] += 1
+            if entry["hits_since_validation"] >= _PERIODIC_REVALIDATE_EVERY:
+                _GRID_CACHE_STATS["periodic_validations"] += 1
                 lats = eccodes.codes_get_array(gid, "latitudes")
                 lons = eccodes.codes_get_array(gid, "longitudes")
-                values = eccodes.codes_get_array(gid, "values")
                 lons_wrapped = (lons + 180) % 360 - 180
-
-                results = []
-                for lat, lon in points:
-                    d2 = (lats - lat) ** 2 + (lons_wrapped - lon) ** 2
-                    i = int(np.argmin(d2))
-                    # Haversine-ish small-angle distance in km, consistent
-                    # with the existing single-point decode_message()'s
-                    # eccodes-reported distance (good enough at this scale).
-                    dlat_km = (lats[i] - lat) * 111.0
-                    dlon_km = (lons_wrapped[i] - lon) * 111.0 * abs(np.cos(np.radians(lat)))
-                    distance_km = float((dlat_km ** 2 + dlon_km ** 2) ** 0.5)
-                    results.append(
-                        {
-                            "variable": variable, "level": level, "level_type": level_type,
-                            "units": units, "forecast_hour": forecast_hour,
-                            "data_date": data_date, "data_time": data_time,
-                            "requested_lat": lat, "requested_lon": lon,
-                            "grid_lat": float(lats[i]), "grid_lon": float(lons_wrapped[i]),
-                            "value": float(values[i]), "distance_km": distance_km,
-                        }
+                fresh = _full_grid_search(lats, lons_wrapped, points)
+                _validate_patch_distances(fresh, points)
+                if _entries_agree(entry, fresh):
+                    entry["hits_since_validation"] = 0
+                    entry["validated_at"] = time.time()
+                else:
+                    _GRID_CACHE_STATS["invalidations"] += 1
+                    _log(
+                        f"WARNING: grid cache mismatch detected for fingerprint {fingerprint!r} after "
+                        f"{_PERIODIC_REVALIDATE_EVERY} hits -- invalidating cached mapping and using freshly "
+                        f"validated indices (old={entry['indices']}, new={[r['index'] for r in fresh]})"
                     )
-                return results
-            finally:
-                eccodes.codes_release(gid)
+                    grid_ni = _safe_get(gid, "Ni")
+                    grid_nj = _safe_get(gid, "Nj")
+                    entry = _build_cache_entry(fresh, grid_ni, grid_nj)
+                    _GRID_CACHE[cache_key] = entry
+            search_results = [
+                {"index": i, "grid_lat": glat, "grid_lon": glon, "distance_km": d}
+                for i, glat, glon, d in zip(entry["indices"], entry["grid_lat"], entry["grid_lon"], entry["distance_km"])
+            ]
+        else:
+            lats = eccodes.codes_get_array(gid, "latitudes")
+            lons = eccodes.codes_get_array(gid, "longitudes")
+            lons_wrapped = (lons + 180) % 360 - 180
+            search_results = _full_grid_search(lats, lons_wrapped, points)
+            _validate_patch_distances(search_results, points)
+            if cache_key is not None:
+                grid_ni = _safe_get(gid, "Ni")
+                grid_nj = _safe_get(gid, "Nj")
+                _GRID_CACHE[cache_key] = _build_cache_entry(search_results, grid_ni, grid_nj)
+
+        values = eccodes.codes_get_array(gid, "values")
+        results = []
+        for (lat, lon), r in zip(points, search_results):
+            results.append(
+                {
+                    "variable": variable, "level": level, "level_type": level_type,
+                    "units": units, "forecast_hour": forecast_hour,
+                    "data_date": data_date, "data_time": data_time,
+                    "requested_lat": lat, "requested_lon": lon,
+                    "grid_lat": r["grid_lat"], "grid_lon": r["grid_lon"],
+                    "value": float(values[r["index"]]), "distance_km": r["distance_km"],
+                }
+            )
+        return results
     finally:
-        try:
-            os.unlink(tmp_path)
-        except OSError:
-            pass
+        eccodes.codes_release(gid)
+
+
+def _safe_get(gid, key):
+    import eccodes
+
+    try:
+        return eccodes.codes_get(gid, key)
+    except Exception:
+        return None
+
+
+def grid_cache_stats() -> dict:
+    """Snapshot of this process's grid cache, for diagnostics/testing only --
+    never used in the extraction logic itself."""
+    return {
+        "hits": _GRID_CACHE_STATS["hits"],
+        "misses": _GRID_CACHE_STATS["misses"],
+        "uncertain_fingerprint": _GRID_CACHE_STATS["uncertain_fingerprint"],
+        "periodic_validations": _GRID_CACHE_STATS["periodic_validations"],
+        "invalidations": _GRID_CACHE_STATS["invalidations"],
+        "distinct_fingerprints": len({k[0] for k in _GRID_CACHE}),
+        "distinct_cache_keys": len(_GRID_CACHE),
+        "entries": {
+            f"{k[0]}": {
+                "indices": v["indices"],
+                "grid_ni": v["grid_ni"], "grid_nj": v["grid_nj"],
+                "hits_since_validation": v["hits_since_validation"],
+                "validated_at": v["validated_at"],
+            }
+            for k, v in _GRID_CACHE.items()
+        },
+    }
 
 
 class Checkpoint:
