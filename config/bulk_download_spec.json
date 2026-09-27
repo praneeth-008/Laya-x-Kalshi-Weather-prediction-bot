@@ -1,0 +1,199 @@
+{
+  "_status": "DESIGN ONLY -- not approved for execution. See docs/bulk_download_spec.md and docs/bulk_storage_estimate.md for full reasoning. Do not build a downloader from this file without explicit approval.",
+  "_scenario": "BALANCED (optimized, recommended)",
+  "_audit_revision": "2026-09-26: archive-depth verified via small listing/HEAD requests (not bulk downloads); ECMWF start date corrected from 2023-01-18 to 2024-02-28 after discovering a real product-path schema change our code cannot read before that date; NBM cadence and GEFS variable set revised per a quantified cost audit -- both still PENDING_APPROVAL, not silently applied. See docs/bulk_storage_estimate.md for full detail.",
+  "target": {
+    "weather_target": "Central Park, New York City, daily maximum temperature",
+    "primary_station_id": "725053-94728",
+    "primary_station_icao": "KNYC",
+    "central_park_coordinates": {"lat": 40.7794, "lon": -73.9691, "note": "MEASURED from isd-history.csv registry record for 725053-94728; use identically across all sources for bulk extraction"},
+    "trading_settlement_target": "NOT DEFINED HERE -- explicitly out of scope; Central Park observed Tmax is not assumed identical to any historical Kalshi settlement value",
+    "auxiliary_predictor_stations": [
+      {"station_id": "725030-14732", "icao": "KLGA", "role": "predictor_only"},
+      {"station_id": "744860-94789", "icao": "KJFK", "role": "predictor_only"},
+      {"station_id": "725020-14734", "icao": "KEWR", "role": "predictor_only"}
+    ]
+  },
+  "common_historical_window": {
+    "start_date": "2023-01-01",
+    "end_date": "present",
+    "status": "MEASURED for HRRR/GFS/GEFS/NBM/observations (real bucket-content boundaries confirmed via small listing/HEAD requests); ECMWF deterministic uses its own corrected window (see ecmwf_deterministic.historical_period); AFD depth unchanged/UNRESOLVED",
+    "verification_required_before_extraction": false,
+    "note": "'present' as of this revision is 2026-09-26 (~1364 days from 2023-01-01), not the ~912 days assumed in the prior revision -- see docs/bulk_storage_estimate.md for both window lengths"
+  },
+  "sources": {
+    "hrrr": {
+      "include": true,
+      "priority": 3,
+      "historical_period": {"start": "2023-01-01", "end": "present", "status": "MEASURED (real wrfsfcf01.grib2 + .idx confirmed present at 2023-01-15, 2024-07-15, 2026-07-15; bucket content found back to at least 2015-01-15)"},
+      "runs_per_day": 24,
+      "runs_per_day_status": "CONFIRMED REQUIRED, not optional -- this project's own completeness-architecture work proved 1 run/day hides real intraday forecast information; do not reduce",
+      "run_hours": "all (0-23 UTC)",
+      "forecast_hour_selection": "target_day_only -- reuse expected_target_day_valid_times('hrrr', run_time) from data/weather_state.py",
+      "variables_core": ["TMP", "DPT", "UGRD", "VGRD", "PRES", "TCDC", "APCP", "DSWRF"],
+      "variables_optional_unresolved": ["CAPE", "PBL_HEIGHT"],
+      "grid_strategy": {
+        "primary_point": {"lat": 40.7794, "lon": -73.9691, "measured_nearest_grid_distance_km": 1.02},
+        "context_patch": {"size": "3x3", "reason": "near-zero incremental remote-read cost; resolves coastal/urban gradients on ~3km native grid"}
+      },
+      "availability_metadata": {"type": "S3_LAST_MODIFIED_PROXY", "confidence": "NORMAL"},
+      "remote_extraction_strategy": "idx-based GRIB2 byte-range fetch (data/hrrr.py pattern, unchanged)",
+      "storage_format": "partitioned Parquet: source/year/month/run_date"
+    },
+    "gfs": {
+      "include": true,
+      "priority": 4,
+      "historical_period": {"start": "2023-01-01", "end": "present", "status": "MEASURED (real bucket-start boundary found between 2021-01-15 [MISSING] and 2021-06-15 [EXISTS]; 2023-01-01 has ~19 months of margin)"},
+      "runs_per_day": 4,
+      "run_hours": [0, 6, 12, 18],
+      "forecast_hour_selection": "target_day_only -- do not fetch beyond target-day valid times despite GFS's +120h/+384h horizon",
+      "variables_core": ["TMP", "DPT", "UGRD", "VGRD", "PRES", "TCDC", "APCP", "DSWRF"],
+      "variables_optional_unresolved": ["CAPE", "PBL_HEIGHT"],
+      "grid_strategy": {
+        "primary_point": {"lat": 40.7794, "lon": -73.9691, "measured_nearest_grid_distance_km": 4.18},
+        "context_patch": {"size": "3x3", "reason": "near-zero incremental remote-read cost"}
+      },
+      "availability_metadata": {"type": "S3_LAST_MODIFIED_PROXY", "confidence": "NORMAL"},
+      "remote_extraction_strategy": "idx-based GRIB2 byte-range fetch (data/gfs.py pattern, unchanged)",
+      "storage_format": "partitioned Parquet: source/year/month/run_date"
+    },
+    "gefs": {
+      "include": true,
+      "priority": 6,
+      "historical_period": {"start": "2023-01-01", "end": "present", "status": "MEASURED (real bucket-start boundary found between 2020-01-15 [MISSING] and 2021-01-15 [EXISTS]; 2023-01-01 has ~2 years of margin)"},
+      "runs_per_day": 4,
+      "run_hours": [0, 6, 12, 18],
+      "members": {"expected_count": 31, "ids": ["gec00", "gep01", "gep02", "gep03", "gep04", "gep05", "gep06", "gep07", "gep08", "gep09", "gep10", "gep11", "gep12", "gep13", "gep14", "gep15", "gep16", "gep17", "gep18", "gep19", "gep20", "gep21", "gep22", "gep23", "gep24", "gep25", "gep26", "gep27", "gep28", "gep29", "gep30"], "verified": "MEASURED, exactly 31 in 2025-07-01 test", "reduce_to_summary_stats_at_extraction": false},
+      "forecast_hour_selection": "target_day_only, 3-hourly",
+      "product": "pgrb2sp25 (0.25deg compact 'small' product -- MEASURED used in feasibility test, confirmed to contain all 9 spot-checked surface variables)",
+      "variable_scenario": "INTERMEDIATE",
+      "variable_scenario_status": "PENDING_APPROVAL -- quantified savings vs FULL: -72.8% remote read (~0.87TB vs ~3.2TB over the original ~912-day window); see docs/bulk_storage_estimate.md section 7",
+      "variables_all_members": ["TMP", "DPT"],
+      "variables_control_member_only": {"member": "gec00", "variables": ["UGRD", "VGRD", "PRES", "APCP"], "reason": "wind/pressure/precip already available at full deterministic fidelity from HRRR/GFS/ECMWF; only temperature and dewpoint (most directly tied to Tmax and moist-heating effects) justify the full 31-member ensemble-uncertainty cost"},
+      "variables_optional_all_members_rejected_for_cost": ["TCDC", "DSWRF"],
+      "variables_optional_unresolved": ["CAPE", "PBL_HEIGHT"],
+      "alternative_scenarios_quantified": {
+        "FULL": {"variables_all_members": ["TMP", "DPT", "UGRD", "VGRD", "PRES", "APCP"], "remote_tb_912day_window": 3.2},
+        "TEMPERATURE_FOCUSED": {"variables_all_members": ["TMP"], "remote_tb_912day_window": 0.40},
+        "INTERMEDIATE_recommended": {"remote_tb_912day_window": 0.87}
+      },
+      "grid_strategy": {
+        "primary_point": {"lat": 40.7794, "lon": -73.9691, "measured_nearest_grid_distance_km": 4.18},
+        "context_patch": "none -- point only for all 31 members; patch deferred to avoid 9x row-count multiplier on an already-large ensemble"
+      },
+      "availability_metadata": {"type": "S3_LAST_MODIFIED_PROXY", "confidence": "NORMAL", "note": "MEASURED member/file-specific -- do not collapse to one run-level timestamp"},
+      "remote_extraction_strategy": "idx-based GRIB2 byte-range fetch per member (data/gefs.py pattern, unchanged)",
+      "storage_format": "partitioned Parquet: source/year/month/run_date"
+    },
+    "nbm": {
+      "include": true,
+      "priority": 5,
+      "historical_period": {"start": "2023-01-01", "end": "present", "status": "MEASURED (real bucket-start boundary found between 2020-01-15 [MISSING] and 2021-01-15 [EXISTS]; 2023-01-01 has ~2 years of margin)"},
+      "runs_per_day": 8,
+      "runs_per_day_status": "PENDING_APPROVAL -- recommended after a direct 7-consecutive-hourly-run investigation (2025-07-01, real byte-range fetches): temperature for a fixed target hour changed only ~0.0-0.05F between most consecutive runs (one +/-0.7F outlier), while cloud cover moved 15 percentage points over 6 hours including a 7-point swing within 3 hours. 8 runs/day (every 3h) resolves the observed cloud-cover swings at -66.7% remote-read cost vs hourly. Based on ONE day's sample -- re-check against 2-3 more active-weather days before finalizing.",
+      "run_hours": [0, 3, 6, 9, 12, 15, 18, 21],
+      "alternative_cadences_quantified": {"24_per_day": {"remote_tb_912day_window": 3.7}, "12_per_day": {"remote_tb_912day_window": 1.85}, "8_per_day_recommended": {"remote_tb_912day_window": 1.23}, "4_per_day": {"remote_tb_912day_window": 0.62}},
+      "forecast_hour_selection": "target_day_only; hourly to +36h then 3-hourly to +192h (MEASURED schedule)",
+      "variables_core": ["TMP", "DPT", "TCDC", "TMAX_direct", "TMP_stddev"],
+      "variables_optional": ["PRES", "WIND"],
+      "known_unresolved_issue": "direct NBM TMAX vs. hourly-TMP-reconstructed max discrepancy -- BOTH are preserved, not resolved here",
+      "grid_strategy": {
+        "primary_point": {"lat": 40.7794, "lon": -73.9691, "measured_nearest_grid_distance_km": 0.47},
+        "context_patch": {"size": "3x3", "reason": "near-zero incremental remote-read cost"}
+      },
+      "availability_metadata": {"type": "S3_LAST_MODIFIED_PROXY", "confidence": "NORMAL"},
+      "remote_extraction_strategy": "idx-based GRIB2 byte-range fetch (data/nbm.py pattern, unchanged; forecast_desc must be joined via ':'.join(parts[5:]) per the already-fixed bug)",
+      "storage_format": "partitioned Parquet: source/year/month/run_date"
+    },
+    "ecmwf_deterministic": {
+      "include": true,
+      "priority": 7,
+      "historical_period": {"start": "2024-02-28", "end": "present", "status": "MEASURED and CORRECTED -- a real product-path schema change was found: 0p4-beta (through ~2024-01) -> bare 0p25 (Feb 1-27, 2024) -> ifs/0p25 + aifs/ (2024-02-28 onward, confirmed stable through 2026-07-15). data/ecmwf.py's grib_key() only constructs the current (ifs/0p25) scheme's paths. Do NOT use 2023-01-01 or 2023-01-18 for this source without writing separate path logic for the two older schemes."},
+      "runs_per_day": 4,
+      "run_hours": [0, 6, 12, 18],
+      "run_hours_status": "CORRECTED -- a broader listing found all four hourly subfolders present even in mid-2023; the prior RUN_HOURS={0,12} in data/ecmwf.py was specific to the one date originally tested, not a real source limitation. data/ecmwf.py's RUN_HOURS constant should be updated in a future code-touching phase.",
+      "forecast_hour_selection": "target_day_only; 3-hourly to 144h then 6-hourly beyond",
+      "variables_core": ["2t", "mx2t3", "2d", "10u", "10v", "sp", "tp"],
+      "variables_optional_unresolved": ["cloud_cover", "shortwave_radiation", "CAPE", "PBL_HEIGHT"],
+      "grid_strategy": {
+        "primary_point": {"lat": 40.7794, "lon": -73.9691, "measured_nearest_grid_distance_km": 4.18},
+        "context_patch": "none -- deferred until archive durability is confirmed over a longer window"
+      },
+      "availability_metadata": {"type": "S3_LAST_MODIFIED_PROXY", "confidence": "LOW", "note": "MEASURED ~514 minute (~8.6h) average lag, far larger than every other source; never treat as true dissemination time"},
+      "remote_extraction_strategy": "JSON-lines idx-based GRIB2 byte-range fetch (data/ecmwf.py pattern, unchanged, including 503/429 retry-backoff)",
+      "storage_format": "partitioned Parquet: source/year/month/run_date"
+    },
+    "ecmwf_ensemble": {
+      "include": false,
+      "priority": null,
+      "status": "DEFERRED -- never demonstrated usable end-to-end (feasibility sample intentionally small: 3 of ~8 target-day steps, 1 run). Requires its own dedicated feasibility pass before inclusion.",
+      "expected_members": 51
+    },
+    "observations": {
+      "include": true,
+      "priority": 1,
+      "stations": [
+        {"station_id": "725053-94728", "icao": "KNYC", "role": "PRIMARY_TARGET_LOCATION", "historical_period": {"start": "2005-01-01", "end": "2025-12-31", "status": "MEASURED (isd-history.csv single clean station-id record; annual files re-confirmed present/stable for 2022/2023/2024/2025 via HEAD requests; 2026 annual file does NOT yet exist for ANY of the 4 stations, a publishing-lag artifact not specific to Central Park)"}, "continuity_note": "Central Park has 3 older fragmented predecessor ISD records (725033-94728: 1943-1997; 999999-94728: 1965-1997; 725060-94728: 2010-2012) plus a 1997-2005 gap -- NOT merged into this canonical id; pre-2005 history requires separate reconciliation work, not done here"},
+        {"station_id": "725030-14732", "icao": "KLGA", "role": "predictor", "historical_period": {"start": "1973-01-01", "end": "present", "status": "MEASURED, continuous single-id record"}},
+        {"station_id": "744860-94789", "icao": "KJFK", "role": "predictor", "historical_period": {"start": "1973-01-01", "end": "present", "status": "MEASURED, continuous single-id record"}},
+        {"station_id": "725020-14734", "icao": "KEWR", "role": "predictor", "historical_period": {"start": "1973-01-01", "end": "present", "status": "MEASURED, continuous single-id record"}}
+      ],
+      "fields": ["observation_time", "report_type_raw", "quality_control_version", "temperature_c", "temperature_qc_flag", "dewpoint_c", "dewpoint_qc_flag", "relative_humidity", "wind_direction_deg", "wind_speed_ms", "wind_gust_ms", "station_pressure_hpa", "sea_level_pressure_hpa", "precipitation_mm", "cloud_cover_raw", "visibility_m", "weather_codes_raw", "quality_flags_raw", "is_real_observation"],
+      "preserve_speci_and_irregular": true,
+      "resample_or_interpolate": false,
+      "availability_metadata": {"type": "OBSERVATION_TIME_PROXY", "note": "no available_time column exists in the ISD schema at all -- observation_time is the only timestamp"},
+      "remote_extraction_strategy": "yearly per-station CSV.GZ fetch (data/observations.py pattern, unchanged)",
+      "storage_format": "partitioned Parquet: source/year/station_id",
+      "raw_storage_policy": "KEEP_RAW"
+    },
+    "afd": {
+      "include": true,
+      "priority": 2,
+      "office": "OKX",
+      "product": "AFDOKX",
+      "historical_period": {"start": "2023-01-01", "end": "present", "status": "UNRESOLVED archive depth, matches common window"},
+      "preserve_full_raw_text": true,
+      "preserve_parsed_sections": true,
+      "preserve_every_issuance_including_closely_spaced": true,
+      "no_summarization": true,
+      "no_embeddings": true,
+      "no_llm_processing": true,
+      "availability_metadata": {"type": "ISSUANCE_TIME_PROXY", "note": "available_time column exists in schema but is 100% null; no independent availability signal exists"},
+      "remote_extraction_strategy": "IEM nwstext API fetch (data/afd.py pattern, unchanged)",
+      "storage_format": "Parquet: source/year/month for documents + sections",
+      "raw_storage_policy": "KEEP_RAW"
+    }
+  },
+  "point_in_time_metadata_schema": {
+    "required_fields": ["source", "run_time", "valid_time", "available_time", "availability_time_type", "forecast_hour", "member", "grid_id", "grid_latitude", "grid_longitude", "distance_from_central_park_km", "is_primary_central_park_grid", "variable", "value", "units", "source_object"],
+    "availability_time_type_allowed_values": ["S3_LAST_MODIFIED_PROXY", "OBSERVATION_TIME_PROXY", "ISSUANCE_TIME_PROXY"],
+    "rule": "run_time, valid_time, and available_time must never be collapsed into one timestamp"
+  },
+  "data_types": {
+    "float_precision": "float32",
+    "categorical_fields": ["source", "model", "product", "variable", "unit", "station_id", "ensemble_member"],
+    "ensemble_member_encoding": "small integer code (0=control, 1-30=perturbed), not string"
+  },
+  "raw_vs_processed_storage_policy": {
+    "hrrr": "RANGE_READ_STREAM_AND_DISCARD",
+    "gfs": "RANGE_READ_STREAM_AND_DISCARD",
+    "gefs": "RANGE_READ_STREAM_AND_DISCARD",
+    "nbm": "RANGE_READ_STREAM_AND_DISCARD",
+    "ecmwf_deterministic": "RANGE_READ_STREAM_AND_DISCARD",
+    "observations": "KEEP_RAW",
+    "afd": "KEEP_RAW"
+  },
+  "validation_rules": [
+    "expected_runs_per_day_present",
+    "expected_member_count_present (gefs == 31)",
+    "expected_forecast_hours_present (cross-check expected_target_day_valid_times)",
+    "no_duplicate_keys (source, run_time, valid_time, member, variable, grid_id)",
+    "no_silently_skipped_missing_runs_or_members",
+    "impossible_temperature_flagged_not_discarded",
+    "run_time_le_available_time",
+    "unit_consistency",
+    "central_park_grid_point_consistency",
+    "station_identity_consistency"
+  ],
+  "excluded_from_this_task": ["bulk_download_execution", "laya_calls", "jev_calls", "training", "fine_tuning", "neural_network_construction", "kalshi_prices", "trading_backtests", "settlement_logic_modification", "git_commit", "git_push"]
+}

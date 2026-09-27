@@ -317,6 +317,21 @@ def route_candlestick_endpoint(market: dict, cutoff: dict) -> str:
     return "historical" if parse_kalshi_ts(reference_ts) < parse_kalshi_ts(cutoff_ts) else "live"
 
 
+# Confirmed live (not from docs -- the official docs pages for both
+# candlestick endpoints omit this) via the API's own 400 response:
+#   {"error": {"code": "bad_request", "message": "bad request",
+#              "details": "requested time range with candlesticks:
+#              5762.016667, max candlesticks: 5000"}}
+# The limit is on the NUMBER of candles a single request can return, i.e.
+# on (end_ts - start_ts) / (period_interval * 60), not on elapsed wall
+# time -- so it only bites at period_interval=1 for markets open longer
+# than ~3.47 days (5000 minutes). Most NYC daily-high markets are open
+# ~1.5-2 days, but several 2023/2024-era events were open 4-5 days and
+# hit exactly this. Discovered during this project's own 1-minute bulk
+# download (8 of 1,364 events, 48 markets).
+MAX_CANDLES_PER_REQUEST = 5000
+
+
 def fetch_market_candlesticks(
     market: dict, period_interval: int, cutoff: dict, series_ticker: str = SERIES_TICKER
 ) -> tuple[list[dict], str, str | None]:
@@ -324,10 +339,20 @@ def fetch_market_candlesticks(
     endpoint per route_candlestick_endpoint(), covering the market's full
     open_time -> settlement_ts/close_time window.
 
+    Transparently splits the request into multiple chunks (see
+    MAX_CANDLES_PER_REQUEST) when the window would otherwise exceed
+    Kalshi's per-request candle cap, so the requested period is never
+    silently truncated. Chunk boundaries are advanced by +1 second past
+    the previous chunk's end_ts (candle timestamps are minute-aligned, so
+    this can't skip a real candle) and results are deduplicated by
+    end_period_ts as a second safety net against a boundary candle
+    appearing in two chunks.
+
     Returns (candlesticks, endpoint_path, error). On failure, candlesticks
     is [] and error holds the exact exception message -- callers are
     expected to log it and continue rather than let one bad market abort
-    an entire batch (see scripts/download_kalshi_hourly.py).
+    an entire batch (see scripts/download_kalshi_hourly.py /
+    scripts/download_kalshi_minute.py).
     """
     ticker = market["ticker"]
     if not market.get("open_time"):
@@ -345,12 +370,25 @@ def fetch_market_candlesticks(
         if route == "historical"
         else f"/series/{series_ticker}/markets/{ticker}/candlesticks"
     )
-    params = {"start_ts": start_ts, "end_ts": end_ts, "period_interval": period_interval}
-    try:
-        payload = kalshi_get(path, params=params)
-        return payload.get("candlesticks", []), path, None
-    except RuntimeError as exc:
-        return [], path, str(exc)
+
+    max_span_seconds = MAX_CANDLES_PER_REQUEST * period_interval * 60
+    all_candles: list[dict] = []
+    chunk_start = start_ts
+    while chunk_start <= end_ts:
+        chunk_end = min(chunk_start + max_span_seconds, end_ts)
+        params = {"start_ts": chunk_start, "end_ts": chunk_end, "period_interval": period_interval}
+        try:
+            payload = kalshi_get(path, params=params)
+        except RuntimeError as exc:
+            return [], path, str(exc)
+        all_candles.extend(payload.get("candlesticks", []))
+        if chunk_end >= end_ts:
+            break
+        chunk_start = chunk_end + 1
+
+    deduped = list({c.get("end_period_ts"): c for c in all_candles}.values())
+    deduped.sort(key=lambda c: c.get("end_period_ts") or 0)
+    return deduped, path, None
 
 
 def normalize_candlestick(candle: dict) -> dict:
@@ -394,6 +432,55 @@ def normalize_candlestick(candle: dict) -> dict:
         "volume": _count("volume_fp", "volume"),
         "open_interest": _count("open_interest_fp", "open_interest"),
     }
+
+
+def event_date(event_ticker: str):
+    """Derive a sortable date from a HIGHNY-/KXHIGHNY- ticker (e.g.
+    HIGHNY-23JUL01 -> 2023-07-01). strike_date is null for many older
+    events, so every script in this project dates events this way instead
+    -- confirmed to successfully date 100% of the 1,874 cached events."""
+    m = re.match(r"^(?:KX)?HIGHNY-(\d{2})([A-Z]{3})(\d{2})", event_ticker)
+    if not m:
+        return None
+    yy, mon, dd = m.groups()
+    try:
+        return datetime.strptime(f"20{yy}-{mon}-{dd}", "%Y-%b-%d").replace(tzinfo=timezone.utc)
+    except ValueError:
+        return None
+
+
+def load_checkpoint_json(path: Path) -> dict:
+    """Load a resumable download checkpoint, or start a fresh one."""
+    if path.exists():
+        with open(path, "r", encoding="utf-8") as f:
+            return json.load(f)
+    return {"events": {}, "started_at": datetime.now(timezone.utc).isoformat()}
+
+
+def save_checkpoint_json(path: Path, checkpoint: dict, max_retries: int = 5) -> None:
+    """Atomically save a checkpoint (write to a temp file, then replace).
+
+    Windows can transiently deny the replace() if another process (e.g. a
+    concurrent read of the checkpoint, an AV scan) briefly has the target
+    file open -- this actually happened during this project's first bulk
+    download. Retrying with a short backoff, rather than letting one
+    transient lock kill an hours-long download, is the hardening every
+    resumable downloader in this project should share.
+    """
+    checkpoint["last_updated_at"] = datetime.now(timezone.utc).isoformat()
+    path.parent.mkdir(parents=True, exist_ok=True)
+    tmp_path = path.with_suffix(".json.tmp")
+    with open(tmp_path, "w", encoding="utf-8") as f:
+        json.dump(checkpoint, f, indent=2)
+    last_exc = None
+    for attempt in range(max_retries):
+        try:
+            tmp_path.replace(path)
+            return
+        except PermissionError as exc:
+            last_exc = exc
+            time.sleep(0.5 * (attempt + 1))
+    raise last_exc
 
 
 def main() -> None:
