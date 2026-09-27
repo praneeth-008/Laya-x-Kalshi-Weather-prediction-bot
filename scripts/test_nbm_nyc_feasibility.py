@@ -26,7 +26,7 @@ sys.path.insert(0, str(PROJECT_ROOT))
 
 from data.nbm import (  # noqa: E402
     HOURLY_MAX_FH,
-    MAX_FORECAST_HOUR,
+    MAX_FORECAST_HOUR_FULL,
     RequestStats,
     decode_message,
     fetch_byte_range,
@@ -73,7 +73,7 @@ def investigate_structure_and_products(stats: RequestStats) -> None:
           "percentiles ONLY, no temperature -- verified by listing every variable in a real qmd idx file); "
           "'text' = bulletin text, not used here.")
     print(f"Forecast-hour schedule (OBSERVED via HEAD probes): hourly F001-F{HOURLY_MAX_FH:03d}, then 3-hourly to "
-          f"F192, then 6-hourly to F{MAX_FORECAST_HOUR} (11 days).")
+          f"F192, then 6-hourly to F{MAX_FORECAST_HOUR_FULL} (11 days).")
     print("Historical depth (OBSERVED): data exists for blend.20210101/, blend.20220101/, blend.20230101/; "
           "blend.20200101/ returns zero objects -- archive depth is at least back to 2021.")
 

@@ -58,6 +58,11 @@ data/processed/pilot/gfs/*
 data/processed/pilot/hrrr_apcp_1h/*
 !data/processed/pilot/hrrr_apcp_1h/manifest.json
 
+# NBM: same policy as GFS -- only the reproducibility manifest is tracked.
+!data/processed/pilot/nbm/
+data/processed/pilot/nbm/*
+!data/processed/pilot/nbm/manifest.json
+
 !data/processed/weather/
 data/processed/weather/*
 !data/processed/weather/pilot/

@@ -110,3 +110,38 @@ The frozen HRRR pilot output (835 parts, 1,500,192 rows) does not have `temporal
 - `source="hrrr"`, `variable` in {TMP, DPT, UGRD, VGRD, PRES, TCDC, DSWRF} -> `temporal_stat="instant"`, `temporal_window_hours=0`.
 - `source="hrrr"`, `variable="APCP"` -> `temporal_stat="accum"`, `temporal_window_hours=forecast_hour` (the cumulative-since-start quantity, NOT a fixed small window).
 - The separate `hrrr_apcp_1h` dataset's `variable="APCP_1H"` rows already carry `temporal_stat="accum"`, `temporal_window_hours=1` explicitly.
+
+---
+
+## NBM
+
+Status: production-readiness validated (small sample), full pilot not launched -- see `nbm_pilot_readiness.md` for the complete investigation. Table reflects the validated extraction design in `scripts/pilot_phase5_nbm.py`.
+
+| Canonical feature | GRIB id | Level | Units | temporal_stat | temporal_window_hours | Selection rule |
+|---|---|---|---|---|---|---|
+| TMP | `t` | 2 m above ground | K | instant | 0 | `level="2 m above ground"` excludes a `surface` (skin temp) duplicate and an `ens std dev` sibling |
+| DPT | `dpt` | 2 m above ground | K | instant | 0 | exclude `ens std dev` |
+| RH | `r` | 2 m above ground | % | instant | 0 | unique, no duplicate at all |
+| WIND | (scalar speed) | 10 m above ground | m/s | instant | 0 | `level="10 m above ground"` explicitly -- the SAME variable name exists at 30m/80m/a full boundary-layer product; level must always be stated |
+| WDIR | (scalar direction) | 10 m above ground | degrees | instant | 0 | same explicit-level requirement as WIND |
+| TCDC | `tcc` | surface | % | instant | 0 | `level="surface"`, exclude `ens std dev` -- **no averaged variant exists** (unlike GFS) |
+| APCP_1H | `tp` | surface | kg/m^2 | accum | 1 | `select_message_explicit(prefer="shortest_window")`, excluding any candidate with a `"prob"` qualifier (probability-of-exceedance, not an amount) -- present at every forecast_hour >= 1 |
+| APCP_6H | `tp` | surface | kg/m^2 | accum | 6 | `select_message_explicit(prefer="sixhour_window")` -- present only when this forecast hour's valid_time falls on an absolute UTC synoptic hour (00/06/12/18Z); legitimately absent otherwise, never a failure |
+| TMAX_PERIOD | `tmax` | 2 m above ground | K | **max** | 12 | `select_message_explicit(prefer="period_max")` -- exists ONLY for run_hour in {0, 12}; which 12h period is max vs. min alternates by run hour (see below) |
+| TMIN_PERIOD | `tmin` | 2 m above ground | K | **min** | 12 | `select_message_explicit(prefer="period_min")` -- same run-hour restriction |
+
+### NBM does not have a native cumulative-since-run-start APCP product
+
+Unlike HRRR and GFS (both of which publish a `"0-N hour/day acc fcst"` cumulative candidate), NBM's deterministic APCP amount only ever offers the 1-hour and (when aligned) 6-hour windowed products -- there is no cumulative-since-start amount to select even if one were wanted. This is a genuine structural difference from HRRR/GFS's APCP behavior, not an oversight in selection.
+
+### TMP vs. TMAX -- confirmed materially different, both retained
+
+Direct TMAX and `max(hourly TMP)` over the same window differed by 1.46F in a tested case (2025-06-06 12Z, 0-12h window: TMAX=85.32F vs. reconstructed=83.86F) -- confirmed via real data, not assumed. Both `TMP` (hourly) and `TMAX_PERIOD`/`TMIN_PERIOD` (00Z/12Z only) are retained as separate, non-substitutable features.
+
+### WIND/WDIR are not equivalent to HRRR/GFS's UGRD/VGRD
+
+NBM's core product has no `UGRD`/`VGRD` entries at all -- wind is published only as scalar speed (`WIND`) and direction (`WDIR`). Converting to u/v components for cross-source comparison would require an explicit trigonometric transform (`u = -speed*sin(dir)`, `v = -speed*cos(dir)`), which is not implemented; do not treat NBM wind and HRRR/GFS wind as directly comparable without doing so explicitly.
+
+### F0 does not exist
+
+`forecast_hour=0` is absent from NBM's schedule entirely (confirmed 404 at every run hour/date tested) -- there is no message to select and therefore no ambiguity, unlike HRRR's degenerate F0 APCP entry or GFS's `"anl"`-labeled F0 fields.

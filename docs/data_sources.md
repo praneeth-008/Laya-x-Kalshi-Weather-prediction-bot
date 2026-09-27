@@ -45,11 +45,22 @@ Status labels used below: **PILOT COMPLETE** (representative-day pilot run, FINA
 - **Completeness logic**: same target-day-only mechanism, source-aware (`expected_target_day_valid_times("gfs", ...)` branches explicitly for GFS's own schedule).
 - **Pilot result**: 5,836/5,836 work items DONE, 0 FAILED (132 initial failures, all the fh=0 `"anl"`-format issue, resolved and retried), 241 Parquet parts, 470,340 rows.
 
-## NBM -- STATUS: NOT STARTED
+## NBM -- STATUS: PRE-PRODUCTION VALIDATED (small sample + benchmark only; full 40-day pilot NOT launched)
 
-- Feasibility-tested only (`scripts/test_nbm_nyc_feasibility.py`, `scripts/investigate_nbm_cadence.py`).
-- Prior findings (from `config/bulk_download_spec.json`, marked `PENDING_APPROVAL`, not re-verified in this pilot): archive back to ~2021-01-15; recommended cadence 8 runs/day (every 3h) based on a one-day cloud-cover-swing investigation, explicitly flagged as needing re-checking against 2-3 more active-weather days before finalizing; forecast-hour schedule hourly to +36h then 3-hourly to +192h; nearest grid point measured ~0.47km from Central Park (finest of all sources tested); a documented `forecast_desc` join bug in `data/nbm.py` (`':'.join(parts[5:])`) already fixed in that module.
-- Do not treat any of the above as validated -- they are prior feasibility-test observations, not pilot-validated facts. No grid fingerprint, no distance threshold, no explicit product-selection audit exists for NBM yet.
+- **Provider / archive**: NOAA/MDL, `s3://noaa-nbm-grib2-pds` (public, unauthenticated HTTPS). NBM is a statistically post-processed BLEND of multiple NWP model/ensemble inputs, not a raw model.
+- **Path pattern**: `blend.{YYYYMMDD}/{HH}/{product}/blend.t{HH}z.{product}.f{FFF}.co.grib2` (+ `.idx`). Products: `core` (deterministic + single ens-std-dev field), `qmd` (percentile guidance, precip/wind/gust ONLY, confirmed no temperature), `text` (bulletins, unused).
+- **Grid**: Lambert Conformal, `Ni=2345, Nj=1597`, `Dx=Dy=2539.703m` (~2.54km) -- the finest grid of any source extracted so far.
+- **Run frequency**: 24 runs/day, but the **forecast-hour schedule is run-hour dependent** (a real correction to prior code -- see `nbm_pilot_readiness.md` section 1): full tier (`run_hour%6` in {0,1}, 8 runs/day) reaches F264; medium tier (`run_hour%6==3`, 4 runs/day) reaches F189; short tier (the remaining 12 runs/day) reaches only F36.
+- **Forecast-time spacing**: hourly F1-F36, then 3-hourly, then (full tier only) 6-hourly beyond F192. `forecast_hour=0` does not exist at all (confirmed 404 at every run hour/date tested).
+- **Variables**: TMP, DPT, RH, WIND, WDIR (scalar speed+direction, NOT UGRD/VGRD components), TCDC, APCP_1H, APCP_6H, TMAX_PERIOD/TMIN_PERIOD (00Z/12Z runs only). See `variable_semantics.md`.
+- **Availability method**: `S3_LAST_MODIFIED_PROXY`, NORMAL confidence, progressive arrival within a run (~62-63 min lag range observed, consistent with prior ~41-71 min feasibility estimate).
+- **Grid-selection behavior**: 3x3 patch produces 9 distinct grid cells (max observed distance 1.24km) -- resolves real spatial structure, similar to HRRR, unlike GFS.
+- **Validated grid fingerprint**: `md5:5bb2a8d01d638075eaa2ff7236270d44` (distinct from both HRRR's and GFS's).
+- **Distance threshold**: 5.0 km, independently derived from NBM's own `Dx=Dy` grid geometry (theoretical worst case ~1.8km) -- not inherited from HRRR (10km) or GFS (20km).
+- **Known edge cases**: APCP has probability-of-exceedance products that must be excluded (not just duplicate amount candidates like HRRR/GFS); WIND/WDIR exist at 4 different heights under the same variable name; TCDC has 3 unidentified `typeOfLevel=unknown` candidates alongside the wanted `surface` one; TMAX/TMIN exist only for 00Z/12Z runs with run-hour-dependent max/min alternation. Full detail in `nbm_pilot_readiness.md`.
+- **Completeness logic**: `data/weather_state.py`'s NBM branch now delegates directly to `data.nbm.available_forecast_hours(run_hour)` (fixed 2026-09-27, see `decisions.md`) -- one source of truth shared with extraction, no duplicate hardcoded schedule. 31 targeted completeness tests pass (all 3 tiers, boundary forecast hours, no-lookahead behavior); HRRR/GFS completeness regression-checked as unaffected.
+- **Worker count**: 20, independently benchmarked across 8/12/16/20/24 (workload is network-latency-bound, not CPU-bound -- CPU avg never exceeded ~41% even at 24 workers; throughput flat ~1.4-1.8 items/sec across the whole range with zero errors at every count). See `nbm_pilot_readiness.md` section 17.
+- **Pilot result**: not launched. Small validation sample (12 items, 8 workers): 0 failures, checkpoint/resume confirmed, 0 cached-vs-uncached mismatches, 0 temp-file leaks. Estimated full 40-day pilot: 31,578 work items, ~314GB estimated remote bytes read, ~32MB estimated local Parquet storage, ~5.3 hours estimated runtime at 20 workers (all estimates, from measured ~9.94MB/item average; remote bytes read != local storage retained).
 
 ## GEFS -- STATUS: NOT STARTED
 

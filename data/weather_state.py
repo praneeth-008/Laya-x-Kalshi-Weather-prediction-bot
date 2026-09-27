@@ -68,6 +68,8 @@ from zoneinfo import ZoneInfo
 import numpy as np
 import pandas as pd
 
+from data.nbm import available_forecast_hours as _nbm_available_forecast_hours
+
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 NYC_TZ = ZoneInfo("America/New_York")
 TARGET_LOCAL_DATE = datetime(2025, 7, 1).date()
@@ -119,11 +121,23 @@ def local_day_utc_bounds(local_date=TARGET_LOCAL_DATE, tz: ZoneInfo = NYC_TZ) ->
 #   GFS:  hourly through +120h (data/gfs.py: HOURLY_MAX_FH=120) -- always
 #         far enough for a next-day target, so effectively unconstrained
 #         here.
-#   NBM:  hourly through +36h, then 3-hourly through +192h (data/nbm.py:
-#         HOURLY_MAX_FH=36, MID_STEP_HOURS=3, MID_MAX_FH=192). VERIFIED
-#         live in this project's own canonical file: the 2025-06-30T12Z
-#         NBM run shows BOTH a 1h and a 3h step within the same run,
-#         exactly matching this schedule.
+#   NBM:  RUN-HOUR DEPENDENT (data/nbm.py: nbm_schedule_tier(), keyed by
+#         run_hour % 6) -- hourly through +36h for every run, then:
+#           full tier   (run_hour%6 in {0,1}): 3-hourly to +192h, then
+#                       6-hourly to +264h.
+#           medium tier (run_hour%6 == 3):     3-hourly to +189h, no
+#                       6-hourly extension.
+#           short tier  (run_hour%6 in {2,4,5}): stops at +36h.
+#         EMPIRICALLY VERIFIED against the live archive across all 24 run
+#         hours during NBM production-readiness validation (see
+#         docs/nbm_pilot_readiness.md) -- an earlier version of this
+#         comment/branch assumed one fixed schedule (hourly to +36h, then
+#         3-hourly to +192h) for every run hour, which is FALSE for 12 of
+#         the 24 (the short-tier hours never reach past +36h at all, and
+#         medium-tier hours stop at +189h, not +192h). Delegates to
+#         data.nbm.available_forecast_hours(run_hour) directly rather than
+#         re-hardcoding the schedule here, so there is exactly one
+#         validated source of truth for it.
 #   GEFS: 3-hourly throughout (data/gefs.py: FORECAST_STEP_HOURS=3).
 #   ECMWF deterministic: 3-hourly through 144h, then 6-hourly beyond
 #         (OBSERVED in the ECMWF feasibility test); irrelevant beyond
@@ -150,9 +164,7 @@ def _forecast_hour_candidates(source_name: str, run_time) -> list[int]:
     if source_name == "gfs":
         return list(range(0, 121))
     if source_name == "nbm":
-        hours = list(range(1, 37))
-        hours += list(range(39, 193, 3))
-        return hours
+        return _nbm_available_forecast_hours(hour)
     if source_name == "gefs":
         return list(range(0, 241, 3))
     if source_name in ("ecmwf_deterministic", "ecmwf_ensemble"):

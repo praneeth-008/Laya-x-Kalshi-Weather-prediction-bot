@@ -108,3 +108,35 @@ ADR-style record of the significant decisions made during this project so far. D
 - **Decision**: the 40-selected-day pilot exists to validate the extraction pipeline's correctness, not to serve as the final training dataset for the Tmax model.
 - **Why**: a systematic-but-small stratified sample is enough to surface edge cases cheaply (see `extraction_runbook.md`); full-history extraction is a separate, later decision to be made only after the pipeline is validated.
 - **Consequences**: no model training should begin against the current 40-day datasets as if they were the intended final training set without an explicit decision to do so.
+
+### NBM's forecast-hour schedule is run-hour dependent, not fixed
+- **Date**: 2026-09-27
+- **Decision**: corrected the assumption (in `data/nbm.py`) that every NBM run shares one schedule out to F264. `data/weather_state.py`'s NBM completeness branch was fixed in a follow-up pre-production phase (same date) to delegate to `data.nbm.available_forecast_hours(run_hour)` rather than carry its own duplicate, hardcoded schedule.
+- **Why**: empirically verified across all 24 run hours -- a 3-tier split keyed by `run_hour % 6` (full/medium/short), with most run hours (12 of 24) never reaching past F36 at all. The completeness branch is fixed to reuse the extraction module's schedule rather than duplicate it, so there is exactly one source of truth.
+- **Alternatives**: none -- this is a factual correction, not a design choice.
+- **Consequences**: `data/nbm.py::available_forecast_hours(run_hour)` is now run-hour-aware; `data/weather_state.py::_forecast_hour_candidates()`'s NBM branch now calls it directly. 31 targeted tests (all 3 tiers, boundary forecast hours F35/36/37/39/189/192/195/198/264/265, latest-seen-vs-latest-usable no-lookahead behavior) pass; HRRR/GFS completeness regression-checked as unaffected.
+
+### NBM worker count benchmarked independently at 20
+- **Date**: 2026-09-27
+- **Decision**: use 20 workers for the full NBM pilot (not GFS's or HRRR's counts, and not assumed to transfer).
+- **Why**: NBM's workload is network-latency-bound rather than CPU-bound -- CPU usage never exceeded ~41% average even at 24 workers, unlike HRRR's clear CPU-saturation peak. Throughput across 8-24 workers was flat (~1.4-1.8 items/sec) with zero errors and no S3 throttling at any tested count; 20 was the highest *stable* value across repeated trials, not a sharply-optimal peak.
+- **Alternatives**: 24 (marginally lower average throughput, more CPU with no benefit); 12 (comparable throughput, less headroom).
+- **Consequences**: full pilot launch should use `MAX_WORKERS=20`; the flat curve means this choice is not highly sensitive, so it is not worth further tuning before launch.
+
+### NBM APCP_1H and APCP_6H are both retained; no cumulative-since-start product exists
+- **Date**: 2026-09-27
+- **Decision**: extract both NBM precipitation windows (1-hour, always present; 6-hour, present at synoptic-aligned forecast hours) as separate features, and explicitly exclude probability-of-exceedance products from the amount extraction.
+- **Why**: both windows carry distinct information; NBM's amount product structurally has no cumulative-since-run-start candidate to select even if wanted (unlike HRRR/GFS).
+- **Consequences**: `APCP_1H`/`APCP_6H` as separate canonical features; `APCP_6H` is legitimately absent (not failed) at most forecast hours.
+
+### NBM direct TMAX/TMIN retained alongside hourly TMP
+- **Date**: 2026-09-27
+- **Decision**: retain both NBM's hourly `TMP` and its direct 12-hour period `TMAX`/`TMIN` products as separate features.
+- **Why**: empirically confirmed a 1.46F difference between direct TMAX and max(hourly TMP) over the same window -- not measurement noise, and consistent with TMAX being genuinely post-processed rather than a simple reconstruction.
+- **Consequences**: `TMAX_PERIOD`/`TMIN_PERIOD` extracted only for run_hour in {0, 12} (the only run hours that publish them), with run-hour-dependent max/min alternation handled explicitly, never assumed.
+
+### NBM WIND/WDIR kept as scalar speed/direction, not converted to U/V
+- **Date**: 2026-09-27
+- **Decision**: extract NBM's `WIND`/`WDIR` as-is (scalar speed and direction at 10m) rather than converting to U/V components to match HRRR/GFS's representation.
+- **Why**: NBM's core product has no native UGRD/VGRD fields at all; a conversion would introduce an unvalidated trigonometric transformation step rather than reflecting the source's actual native product.
+- **Consequences**: downstream code combining NBM wind with HRRR/GFS wind must perform an explicit, documented conversion -- never assume direct comparability.
