@@ -1,0 +1,71 @@
+{
+  "manifest_version": "1.0",
+  "dataset_name": "hrrr_pilot_40day",
+  "dataset_status": "FINAL_PASS",
+  "manifest_written_at_utc": "2026-09-27T21:16:07.126455+00:00",
+  "provenance": {
+    "git_commit": "36ba8cbf8edd5a8e5fdb5ea2c693bb75197fbc21",
+    "git_commit_short": "36ba8cb",
+    "git_branch": "main",
+    "working_tree_clean_at_extraction": true,
+    "provenance_status": "exact",
+    "notes": "Verified via this session's own audit trail: git status showed a clean working tree at commit 36ba8cb immediately before the production HRRR resume was launched. IMPORTANT RUNTIME OVERRIDE: the committed script's MAX_WORKERS default is 12 (scripts/pilot_phase3_hrrr.py); the actual run used MAX_WORKERS=24 via an uncommitted runtime wrapper that only overrode this one variable at import time -- the committed script's extraction logic itself was not modified. This override does not affect correctness (only concurrency), but reproducing the exact wall-clock throughput of this run requires the same override, not just this commit."
+  },
+  "target": {
+    "city": "NYC",
+    "station": "KNYC",
+    "latitude": 40.7794,
+    "longitude": -73.9691,
+    "timezone": "America/New_York"
+  },
+  "selected_days": {
+    "path": "data/processed/weather/pilot/selected_days.csv",
+    "count": 40,
+    "sha256": "90355ade1277f7d8fcf10f3482c92ba193f09bf693dd5c2057b704bc048e9015"
+  },
+  "source": {
+    "name": "hrrr",
+    "variables": [
+      "TMP",
+      "DPT",
+      "UGRD",
+      "VGRD",
+      "PRES",
+      "TCDC",
+      "APCP",
+      "DSWRF"
+    ],
+    "grid_fingerprint": "md5:78367561440d7c7b608b8532a02e4780",
+    "max_patch_distance_km": 10.0,
+    "availability_method": "S3_LAST_MODIFIED_PROXY",
+    "temporal_semantics_reference": "docs/variable_semantics.md#hrrr"
+  },
+  "work_items": {
+    "planned": 20836,
+    "done": 20836,
+    "failed": 0,
+    "row_count": 1500192,
+    "parquet_part_count": 835
+  },
+  "paths": {
+    "checkpoint": "data/processed/pilot/hrrr/pilot_hrrr_checkpoint.json",
+    "processed_data": "data/processed/pilot/hrrr/parts/",
+    "download_report": "data/processed/pilot/hrrr/pilot_hrrr_download_report.json"
+  },
+  "extraction_script": "scripts/pilot_phase3_hrrr.py",
+  "runtime_overrides": {
+    "MAX_WORKERS": 24,
+    "note": "committed default is 12; see provenance.notes"
+  },
+  "related_datasets": {
+    "hrrr_apcp_1h_backfill": "data/processed/pilot/hrrr_apcp_1h/manifest.json (additive, does not modify this dataset)"
+  },
+  "validation": {
+    "status": "FINAL_PASS",
+    "references": [
+      "docs/hrrr_pilot_manifest.md",
+      "docs/validation.md",
+      "docs/decisions.md"
+    ]
+  }
+}

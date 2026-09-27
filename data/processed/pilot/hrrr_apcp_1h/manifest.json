@@ -1,0 +1,66 @@
+{
+  "manifest_version": "1.0",
+  "dataset_name": "hrrr_apcp_1h_backfill",
+  "dataset_status": "FINAL_PASS",
+  "manifest_written_at_utc": "2026-09-27T21:16:07.126455+00:00",
+  "provenance": {
+    "git_commit": "a068fcb8b452f19975080bff22300577b58704f9",
+    "git_commit_short": "a068fcb",
+    "git_branch": "main",
+    "working_tree_clean_at_extraction": false,
+    "provenance_status": "historical provenance partially reconstructed",
+    "notes": "At the time this backfill actually ran, scripts/pilot_phase3b_hrrr_apcp_1h.py and the select_message_explicit()/parse_forecast_desc() additions to data/hrrr.py existed only as UNCOMMITTED working-tree changes (git status showed them as new/modified, untracked). They were committed unchanged afterward at a068fcb. This is based on this session's own action history (no edits were made to these files between extraction and commit) and is NOT independently verifiable from git history alone, since git does not retain uncommitted intermediate states. From commit a068fcb onward, the committed code and this dataset are consistent and reproducible together."
+  },
+  "target": {
+    "city": "NYC",
+    "station": "KNYC",
+    "latitude": 40.7794,
+    "longitude": -73.9691,
+    "timezone": "America/New_York"
+  },
+  "selected_days": {
+    "path": "data/processed/weather/pilot/selected_days.csv",
+    "count": 40,
+    "sha256": "90355ade1277f7d8fcf10f3482c92ba193f09bf693dd5c2057b704bc048e9015"
+  },
+  "source": {
+    "name": "hrrr",
+    "variables": [
+      "APCP_1H"
+    ],
+    "grid_fingerprint": "md5:78367561440d7c7b608b8532a02e4780",
+    "max_patch_distance_km": 10.0,
+    "availability_method": "S3_LAST_MODIFIED_PROXY",
+    "temporal_semantics_reference": "docs/variable_semantics.md#hrrr (APCP_1H section)"
+  },
+  "work_items": {
+    "full_hrrr_work_item_universe": 20836,
+    "eligible_planned": 19996,
+    "structurally_not_applicable_fh0": 840,
+    "structurally_not_applicable_reason": "HRRR APCP_1H is defined only for forecast_hour >= 1, because F0 has no preceding forecast interval -- not zero, not a failed extraction, not missing due to data loss.",
+    "done": 19996,
+    "failed": 0,
+    "row_count": 179964,
+    "parquet_part_count": 805
+  },
+  "paths": {
+    "checkpoint": "data/processed/pilot/hrrr_apcp_1h/pilot_hrrr_apcp_1h_checkpoint.json",
+    "processed_data": "data/processed/pilot/hrrr_apcp_1h/parts/",
+    "download_report": "data/processed/pilot/hrrr_apcp_1h/pilot_hrrr_apcp_1h_download_report.json"
+  },
+  "extraction_script": "scripts/pilot_phase3b_hrrr_apcp_1h.py",
+  "runtime_overrides": {
+    "MAX_WORKERS": 24,
+    "note": "matches scripts/pilot_phase3b_hrrr_apcp_1h.py's own committed default -- no override needed for this script"
+  },
+  "relationship_to_original_pilot": "Purely additive. Does not modify, replace, or depend on writing to data/processed/pilot/hrrr/ (the original 20,836-item, 835-part, 1,500,192-row dataset), which remains byte-for-byte unchanged.",
+  "validation": {
+    "status": "FINAL_PASS",
+    "references": [
+      "docs/hrrr_apcp_backfill.md",
+      "docs/variable_semantics.md",
+      "docs/validation.md",
+      "docs/decisions.md"
+    ]
+  }
+}

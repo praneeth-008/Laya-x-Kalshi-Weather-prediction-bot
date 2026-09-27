@@ -152,6 +152,19 @@ def parse_forecast_desc(desc: str) -> dict:
     project's existing policy of raising rather than silently continuing
     when something isn't understood."""
     desc = desc.strip()
+    if desc == "anl":
+        # "anl" (analysis) is GFS's forecast_desc for the model's initial
+        # state -- i.e. forecast_hour=0, before any forecast projection.
+        # Functionally an instantaneous value at end_hour=0, same as any
+        # other "N hour fcst" instant entry; GFS's own convention never uses
+        # "anl" for any forecast_hour other than 0, so this is not a guess.
+        # Only instantaneous fields have an "anl" entry -- APCP/DSWRF (both
+        # accumulation-based) have NO entry at all at forecast_hour=0
+        # (verified empirically), which find_message()/select_message_explicit()
+        # already handle gracefully by returning None (that variable is
+        # legitimately absent for that one work item, not a failure). See
+        # docs/gfs_pilot_readiness.md.
+        return {"kind": "instant", "start_hour": None, "end_hour": 0}
     m = _FORECAST_DESC_INSTANT.match(desc)
     if m:
         return {"kind": "instant", "start_hour": None, "end_hour": int(m.group(1))}

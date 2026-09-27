@@ -1,6 +1,6 @@
 # HRRR APCP_1H Backfill
 
-Status: investigation complete, backfill in progress. Additive to the frozen HRRR pilot -- no existing data deleted, replaced, or altered.
+Status: **complete.** 19,996/19,996 eligible work items DONE, 0 FAILED, 805 Parquet parts, 179,964 rows. Additive to the frozen HRRR pilot -- no existing data deleted, replaced, or altered (verified: 835 original parts / 20,836 original checkpoint entries unchanged).
 
 ## Background
 

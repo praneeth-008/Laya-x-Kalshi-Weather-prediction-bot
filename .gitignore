@@ -46,6 +46,18 @@ data/processed/pilot/*
 # enough to track; the actual extracted rows (parts/) are not.
 data/processed/pilot/hrrr/parts/*
 
+# GFS and the HRRR APCP_1H backfill: only the reproducibility manifest
+# (manifest.json, see docs/reproducibility.md) is tracked -- checkpoint,
+# download report, and all Parquet output stay untracked/local, same
+# policy as the bulk HRRR parts above.
+!data/processed/pilot/gfs/
+data/processed/pilot/gfs/*
+!data/processed/pilot/gfs/manifest.json
+
+!data/processed/pilot/hrrr_apcp_1h/
+data/processed/pilot/hrrr_apcp_1h/*
+!data/processed/pilot/hrrr_apcp_1h/manifest.json
+
 !data/processed/weather/
 data/processed/weather/*
 !data/processed/weather/pilot/

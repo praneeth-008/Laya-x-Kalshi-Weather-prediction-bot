@@ -1,6 +1,6 @@
 # GFS Pilot Production-Readiness — Decisions & Findings
 
-Status: production-readiness fixes implemented and tested at small scale. **Full 40-day pilot (5,836 work items) has NOT been run.**
+Status: production-readiness fixes implemented and validated at small scale (this document). **The full 40-day pilot has since been run to completion: 5,836/5,836 work items DONE, 0 FAILED, FINAL PASS.** See `data_sources.md` and `variable_semantics.md` for the final, post-run state (including the `forecast_hour=0` `"anl"` handling, which was fixed after this document was originally written -- see `decisions.md`). This document's original content below describes the pre-launch validation only; treat it as historical record of that validation, not as the current pilot status.
 
 ## 1. Grid-index caching
 
@@ -40,7 +40,7 @@ This was **not** implemented as a renamed variable (e.g. `DSWRF_avg`) to avoid b
 
 Investigated: RH is directly available and uniquely selectable in GFS at `2 m above ground` (`shortName=2r`, `units=%`, `stepType=instant`) with no duplicate-entry ambiguity — the same level string already used for TMP/DPT. No scientific or technical reason was found for its earlier exclusion from `CORE_VARS`; it was very likely dropped only to match HRRR's variable list. Per instruction, added to GFS's `CORE_VARS` only (not to HRRR, preserving explicit source identity). Cached-vs-uncached: 0 mismatches across 4 dates/forecast-hours (36 points), bit-exact. RH is also directly available in HRRR (verified, unique entry, not added there).
 
-## 6. CRITICAL — HRRR's own APCP has the same duplicate-entry issue, unresolved
+## 6. HRRR's own APCP had the same duplicate-entry issue (RESOLVED -- see update below)
 
 While investigating GFS's APCP duplicates for comparison, the same investigation was applied read-only to HRRR's own `.idx` files (no HRRR code or data touched). **HRRR's APCP also has two idx entries at every forecast hour beyond F1** — but in the OPPOSITE order from GFS:
 
@@ -52,10 +52,10 @@ HRRR fh=24: ['0-1 day acc fcst', '23-24 hour acc fcst']
 
 HRRR's `find_message()` (in `data/hrrr.py`, a separate function from GFS's, untouched by this phase) also takes the first idx match — which here is the **cumulative-since-run-start** entry, not the 1-hour windowed one. This means the already-committed, "FINAL PASS" 20,836-item HRRR dataset's APCP column is very likely recording cumulative precipitation since each run's own start, not a recent/windowed signal — the same class of problem this phase fixed for GFS, just silently going the other way for HRRR because idx ordering happened to differ.
 
-**This was NOT part of the approved scope for this phase and has NOT been fixed.** No HRRR code or data was modified. This needs its own explicit decision: whether to accept HRRR's APCP as "cumulative since run start" (a legitimate, well-defined quantity, just not the one likely assumed), add a corresponding fix + documented semantic column to HRRR (would not require re-running the pilot, only reinterpreting/relabeling existing data if the underlying values are already usable), or re-extract HRRR's APCP with an explicit selector mirroring GFS's fix. **Flagging for your decision, not resolving.**
+**UPDATE (post-dates this document's original writing): this was resolved in a later phase.** The decision made was to retain the existing cumulative APCP as-is (it is legitimate data) and additively backfill HRRR's direct 1-hour windowed product as a new `APCP_1H` feature, with `forecast_hour=0` explicitly excluded as structurally not-applicable. See `docs/hrrr_apcp_backfill.md`, `docs/variable_semantics.md`, and `docs/decisions.md` for the full resolution -- 19,996/19,996 eligible items DONE, 0 FAILED, no HRRR data modified in place.
 
-## 7. Unresolved items carried forward
+## 7. Unresolved items carried forward (as of this document's original writing -- see update above)
 
-- HRRR's APCP semantic issue (above) — highest-priority open item.
-- `data/hrrr.py`'s own `decode_message()` (single-point, used only by old feasibility test scripts, not the production path) still uses the temp-file approach and was not touched.
-- No downstream consumer code (weather_state.py, model input builders) has been updated to read `temporal_stat`/`temporal_window_hours` yet — these columns exist in the schema but nothing consumes them downstream so far.
+- ~~HRRR's APCP semantic issue (above)~~ -- **resolved**, see the update note above.
+- `data/hrrr.py`'s own `decode_message()` (single-point, used only by old feasibility test scripts, not the production path) still uses the temp-file approach and was not touched. Still true as of this documentation phase.
+- No downstream consumer code (weather_state.py, model input builders) has been updated to read `temporal_stat`/`temporal_window_hours` yet -- these columns exist in the schema but nothing consumes them downstream so far. Still true as of this documentation phase.
