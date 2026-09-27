@@ -1,0 +1,122 @@
+322 
+FXUS61 KOKX 041851
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+251 PM EDT Mon Aug 4 2025
+
+.SYNOPSIS...
+High pressure remains in control into the weekend.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Heights will continue to gradually build along the eastern
+seaboard through mid week, while surface high pressure
+strengthens across eastern Canada. Hazy conditions due to smoke
+from wildfires across western Canada will continue, however, 
+not expecting any significant reduction to surface visibility.
+
+Lows tonight will be close to normal in the 60s to around 70.
+The Pine Barrens region of LI has radiated well the last couple
+of nights and has been poorly resolved by the NBM. Blended with
+GFS/NAM MOS which have done better. Some high clouds filtering
+in from the SW should have minimal impact. 
+
+&&
+
+.SHORT TERM /TUESDAY THROUGH WEDNESDAY/...
+With upper level ridging along the eastern seaboard and a weak
+trough across the Ohio and Tennessee Valleys, expect some
+increase in high clouds through the period. NBM increases 
+clouds so much so that skies are forecast to go mostly cloudy 
+Tuesday night into Wednesday. 12Z GFS shows high RH values in 
+model time height cross sections across the area. This will 
+likely limit the extent of radiational cooling at night and 
+heating during the daytime. Any showers should remain north 
+across the higher elevations of New England. In addition, with 
+high pressure strengthening to the north across eastern Canada 
+during this time, east-northeast winds Tuesday night into 
+Wednesday will allow cooler maritime air to filter across the 
+area. 
+
+HiRes models also continue to support some smoke across the 
+area, but mainly confined aloft. This should keep the area hazy 
+into Tuesday. Improvements are expected by midweek, especially 
+near the surface due to an easterly flow.
+
+Highs Tuesday will be similar to what we saw Monday, in the mid
+to upper 80s away from the immediate coastline. This is near
+normal. Lows will in general be a touch warmer, in the 60s to 
+around 70. 
+
+&&
+
+.LONG TERM /WEDNESDAY NIGHT THROUGH MONDAY/...
+A decent stretch of sensible weather is in store as global models 
+advertise persistent sfc high pressure and a building upper ridge 
+through much of the period. 
+
+By Monday, the ridge aloft should start to break down as an upper 
+trough approaches from the west. Temps on Mon could reach the upper 
+80s/lower 90s, with dewpoints rising to the upper 60s/lower 70s, 
+yielding heat index values in the lower 90s. The combo of tropical 
+moisture, lift from the approaching upper trough, and some sfc-based 
+instability could lead to some afternoon showers and perhaps a tstm 
+mainly west of NYC. 
+
+&&
+
+.MARINE...
+Sub-SCA conditions are expected through at least Wednesday 
+morning. An easterly swell generated from low pressure out in 
+the western Atlantic (Tropical Storm Dexter) will gradually 
+build through the period with seas building to around 4 ft on 
+Wednesday. Long period easterly swell will likely keep seas on 
+the ocean around 4 ft into Friday. Combined seas may approach 5
+ft on the outermost ocean waters daytime Thu. The swell should 
+diminish to 3 ft from late Fri night into Sat.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through the weekend.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+The pressure gradient remains weak today. However, the pressure
+gradient does steepen a bit for Tuesday with low pressure well 
+out in the Atlantic and a strengthening high pressure area 
+moving across the Canadian Maritimes. 
+
+Lower waves, near 1 to 2 ft, and light winds keep a low rip current 
+risk for the ocean beaches today. The easterly winds Tuesday 
+could very well reach up to around 10 kt in the afternoon and 
+with the developing fetch and slightly building waves, to near 3
+ft, the rip current risk is moderate for the ocean beaches 
+Tuesday.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Air Quality Alert until 11 PM EDT this evening for CTZ005>012.
+NY...Air Quality Alert until midnight EDT tonight for NYZ067>075-
+     078>081-176>179.
+NJ...Air Quality Alert until 11 PM EDT this evening for NJZ004-006-
+     103>108.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...DW
+NEAR TERM...DW
+SHORT TERM...DW
+LONG TERM...BG
+AVIATION...JT
+MARINE...BG/DW
+HYDROLOGY...BG/DW
+TIDES/COASTAL FLOODING...//

@@ -1,0 +1,216 @@
+180 
+FXUS61 KOKX 140241
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+941 PM EST Thu Feb 13 2025
+
+.SYNOPSIS...
+Deepening low pressure will track across Canadian Maritimes 
+through Friday night, while high pressure gradually builds in 
+from the west. High pressure over the area Saturday morning 
+quickly gives way to a storm system approaching from the mid 
+section of the country. The associated warm front approaches 
+Saturday into Saturday night. Deepening low pressure will then 
+track to the north and west of the area Sunday, with a secondary
+coastal low developing nearby. A strong cold frontal passage 
+follows Sunday afternoon into early evening. High pressure then 
+slowly builds back in early next week. Low pressure may impact 
+the area mid week.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM FRIDAY MORNING/...
+A secondary cold front moved through the region with strong 
+northwest wind gusts of 35 to 40 kt. A strong WNW flow and will 
+persist through the night as deepening low pressure lifts up 
+into the Canadian Maritimes. Gusts will generally be 25-30 kt 
+overnight with a few higher gusts possible. 
+
+The main limiting factor for gust magnitude is the overnight 
+timing and weak llvl lapse rates. As a result, the fcst keeps 
+winds just blw advy lvls, but the numbers have been increased 
+fairly substantially abv the model guidance - particularly the 
+NBM. The grids indicate an initial surge in the 00-04Z range, 
+then settling down slightly into the mrng. This initial surge is
+where we could have some isold advy lvl gusts.
+
+Otherwise, skies will clear this eve with dry air and subsidence.
+Upstream stratus might hold together to produce some sct 3-4kft
+clouds overnight, but downsloping should limit coverage.
+
+With a well mixed bl, the NBM temps seems reasonable with local 
+adjustments.
+
+&&
+
+.SHORT TERM /6 AM FRIDAY MORNING THROUGH FRIDAY NIGHT/...
+Windy and dry or Fri with deep subsidence and a dry airmass. 
+Increasing mid and high clouds in the aftn. With this setup, 
+increased winds abv the blended guidance. H85 in the NAM roughly 
+45kt, slightly less in the GFS. As a result, gusts to around 40 mph 
+seems reasonable attm. 
+
+Winds do decrease significantly Fri eve and ngt as a 1030s high 
+ridges across the region. Fairly thick mid and high clouds however 
+from the next sys approaching, so this should limit radiational 
+cooling potential. 
+
+Fro Fri and Fri ngt went close to the NBM for temps which produces 
+highs in the 30s and lows in the teens and 20s.
+
+&&
+
+.LONG TERM /SATURDAY THROUGH THURSDAY/...
+Another amplified southern branch storm system will impact the
+area Saturday afternoon into Sunday. Low pressure over the Mid
+Mississippi Valley will be preceded by strong thermal forcing 
+that moves into the area Saturday ahead of the associated warm 
+front. There has clearly been a colder trend in the guidance
+over the last couple of days with probabilities increasing both
+with the NBM and long range ensemble forecast system (EPS, 
+GEFS, and GEPS) for an advisory level snowfall event for CT, 
+the Lower Hudson Valley, and interior NE NJ. Even the 12Z GFS 
+and NAM show this potential across NYC and LI before a changeover
+to all rain. However, confidence is lower for coastal locations
+due to retreating and weakening high pressure and an onshore 
+southerly component. Typically, these ingredients don't fair 
+well for a significant winter precipitation event. However,
+these type of systems of late with decent thermal forcing have
+provided accumulating snow before the elevated warm nose comes 
+in aloft. There is no doubt the precipitation will change over 
+to rain with a deep-layered strengthening W/SW flow ahead of the
+amplifying southern branch upper trough. How quickly that
+happens will be key to the amount of snow. In addition, there 
+now looks to the potential for significant icing across the 
+interior once the precipitation changes over rain. The surface 
+warm front is poised to stay south of the area through Saturday 
+night and arrives along the coast Sunday morning. However, it 
+now looks like the approaching upper forcing will result in the 
+quicker development of a secondary low along the coast Sunday in
+close proximity to the area. While this will not inhibit the 
+warm air from arriving aloft, it will likely slow down the 
+erosion of the low-level cold air across some of the interior, 
+especially across northern portions of the Lower Hudson Valley 
+and northern portions of Fairfield and New Haven counties in SW 
+CT. These locations have the potential for a tenth of an inch or
+more of ice accretion. The combination of snow and ice could 
+also necessitate a Winter Storm Watch within the next 24h for 
+some of these locations, and at the very least Winter Weather 
+Advisories. 
+
+As for temperatures, overnight lows Saturday morning will be in
+the teens inland to the lower/mid 20s along the coast. Temperatures
+will then be slow to rise and may not go above freezing until 
+late afternoon/early evening along the coast, and as late as 
+Sunday morning for the far interior. Temperatures on Sunday 
+then rise up into the upper 30s inland and upper 40s along the 
+coast. 
+
+Following a cold frontal passage Sunday afternoon and evening, 
+a much colder airmass arrives for next week. In fact, the NBM 
+has continued to trend down the last 24h and will continue to 
+go slightly colder at this time. A piece of arctic air associated
+with a polar vortex drops across the Great Lakes Sunday night 
+into Monday. This will be accompanied by a gusty WNW flow Sunday
+night into Tuesday. Highs will top out generally in the 20s with 
+lows in the single digits to teens beginning Tuesday morning,
+Winds chill values will be as low as the single digits at night
+and in the teens during the daytime.
+
+Cold high pressure builds in for Wednesday with some uncertainty
+with the southern branch storm track. Long term models differ
+in the timing and track of low pressure passing to the south
+late Wednesday into Thursday. There are low chances for snow 
+at this time.
+
+&&
+
+.AVIATION /03Z FRIDAY THROUGH TUESDAY/...
+High pressure builds into the region through Friday.
+
+VFR.
+
+Gusty W/NW winds through tonight, with occasional peak gusts 35
+to 40 kt this evening. Sustained winds and gusts diminish late 
+tonight into Friday morning, then increase again to 25-30 kt 
+after 14z. Then by late afternoon Friday winds and gusts 
+diminish, with gusts possibly ending by 00Z Saturday.
+
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Peak gusts 35 to 40 kt possible this evening.
+
+.OUTLOOK FOR 00Z SATURDAY THROUGH TUESDAY... 
+
+Friday Night: VFR.
+
+Saturday-Saturday Night: VFR early, the IFR in snow in the 
+afternoon. The snow should transition to rain along the coast in 
+the evening, and inland at night. A wintry mix may remain 
+inland through the night. 
+
+Sunday: IFR or lower. Rain with a chance of freezing rain inland in 
+the morning. LLWS possible. S Gusts 20-25 kt.
+
+Monday: VFR with WNW wind gusts 30-35 kt.
+
+Tuesday: VFR with WNW wind gusts 20-25 kt.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+A gale warning remains in effect for all the forecast waters as
+winds gust 35 to 40 kt. Gales are expected thru Fri, with winds
+and seas decreasing rapidly late Fri and Fri ngt.
+
+High pressure on Saturday morning gives way to another storm 
+system Saturday afternoon into Sunday. SCA conditions are 
+forecast to redevelop on the ocean waters late Saturday night 
+and across all waters Sunday in a strengthening southerly flow 
+ahead of an approaching cold front and deepening low pressure 
+passing to the northwest. However, behind a strong cold frontal
+passage late Sunday afternoon into evening, a westerly gale 
+will be possible across all waters Sunday night into Monday.
+
+&&
+
+.HYDROLOGY...
+While there are no significant hydrologic concerns at this time,
+this will need to be watched over the next couple of days with 
+the potential for 1.25 to 1.75" of liquid equivalent Saturday 
+into Sunday morning. Some of this will fall in the form of snow 
+and ice before transitioning to all rain. The liquid equivalent
+of the existing snowpack is about 0.25 to 0.75". However, this 
+is not all expected to rapidly melt and some of it will be 
+absorbed by the additional snowfall on Saturday. Gridded 
+flash flood guidance over a 6hr period is generally above 2 
+inches with the exception of NE NJ. Minor flooding of some of 
+the quicker responding rivers and streams is possible. WPC does
+have the area under a marginal risk for excessive rainfall.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Gale Warning until 4 PM EST Friday for ANZ331-332-335-338-340-
+     345-350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JMC/DW
+NEAR TERM...JMC/MET/DW
+SHORT TERM...JMC
+LONG TERM...DW
+AVIATION...MET
+MARINE...JMC/DW
+HYDROLOGY...JMC/DW

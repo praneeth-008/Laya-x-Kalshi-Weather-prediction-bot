@@ -1,0 +1,222 @@
+837 
+FXUS61 KOKX 011036
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+536 AM EST Sat Mar 1 2025
+
+.SYNOPSIS...
+A cold front passes across the area this afternoon. High 
+pressure then builds in through Monday, moving off the coast 
+through in the afternoon. High pressure then builds in through 
+Monday, moving off the coast by Tuesday. As strong low pressure 
+moves northeast toward the upper Great Lakes, a warm front will 
+approach Tuesday night and move through Wednesday morning, 
+followed by an cold frontal passage Wednesday night. Secondary 
+low pressure may develop nearby on Thursday and pass east of of 
+New England on Friday as high pressure attempts to build from 
+the west.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Low pressure passes to the north today dragging through the area
+this afternoon. There have been some light returns at times
+across the interior early this morning, but nothing more than a
+few sprinkles are possible. The cold front should begin moving 
+through the Lower Hudson Valley shortly after midday before 
+sweeping across the rest of the area by sunset. A brief shower 
+is possible late morning and then again with the frontal passage
+this afternoon. Breezy conditions are expected ahead of the 
+front along with temperatures rising into the lower and middle 
+50s across the area. With the flow becoming SW right ahead of 
+the front, some locations in the NYC metro could reach the upper
+50s to around 60. 
+
+Once the cold front passes, temperatures will begin to fall and
+NW winds will increase as the cold advection gets underway. 
+Cannot completely rule out a trailing shower with a few wet 
+snowflakes or graupel before sundown well inland. Temperatures 
+will then continue to fall through the rest of the night as 850 
+mb temperatures drop down to a range from -16C to -20C by 
+sunrise Sunday morning. The strongest winds will likely occur 
+the first half of the night with sustained speeds 15-25 mph with
+gusts 30-35 mph. There could be a few gusts close to 40 mph 
+immediately behind the cold front passage. Gusts should settle 
+to 20-25 mph by day break Sunday. Lows look to range from the 
+mid teens inland to around 20 closer to the coast. The winds 
+will make it feel like it is in the single digits early Sunday 
+morning.
+
+&&
+
+.SHORT TERM /SUNDAY THROUGH MONDAY NIGHT/...
+The main story for this period will be unseasonably cold 
+conditions. High pressure continues to build towards the area on
+Sunday, but there will be enough of a pressure gradient to 
+support another blustery day. NW winds are likely to gust 20-25 
+mph into the afternoon. Guidance has been trending colder over 
+the last several cycles, which makes sense given the anomalous 
+nature of the air mass. 850 mb temperatures are progged to be 
+close to the lowest observed across the area on March 2 per the 
+SPC Sounding Climatology. A full day of early March sunshine in
+combination with downsloping NW flow will give temperatures a 
+bit of a boost from the morning temperatures. Afternoon highs
+should reach the mid-upper 20s inland and lower 30s closer to 
+the coast. The current forecast has the NYC metro and much of
+Long Island briefly rising above freezing, but it is possible
+temperatures do not exceed 32 degrees. Wind chills will be in 
+the teens to low 20s in the afternoon. 
+
+The high pressure will settle over the northeast Sunday night.
+Outlying areas should decouple, but coastal areas may still have
+a light breeze through the night with the center of the high 
+still to the west. Lows will range from around 10 inland to the 
+middle and upper teens closer to the coast. Min wind chills by 
+day break Monday morning look similar to Sunday morning, mainly 
+in the single digits. The high remains overhead on Monday before
+moving offshore by early Tuesday morning. Some moderation of 
+the air mass is likely allowing temperatures to reach the middle
+and upper 30s for highs on Monday. Lows on Monday night will 
+also be warmer than Sunday night and generally in the 20s across
+the region.
+
+&&
+
+.LONG TERM /TUESDAY THROUGH FRIDAY/...
+Key Points:
+
+* Temperatures will be on the mild side from Tuesday through 
+  Thursday. 
+
+* A long duration moderate to locally heavy rainfall event will
+  take place from Tuesday night into Thursday with the approach
+  of a frontal system associated with strong low pressure 
+  moving through the upper Great Lakes. 
+
+Global models remain in close enough agreement to stay close to
+the NBM guidance with some adjustments. 
+
+A deep closed low over the Plains states will move E to the mid 
+Mississippi Valley by Wed AM, while downstream ridging builds
+over the area, with sfc high pressure moving farther out into 
+the Atlantic. Return flow and rising heights aloft will lead to 
+a milder day, with temps a good 10-15 degrees warmer than those 
+of Monday, from the mid 40s to lower 50s. A leading warm front 
+will approach Tue night and move through Wed AM with some light 
+to moderate rain. Large scale warm advection in a deep-layered S
+flow after warm fropa will continue to transport Gulf and 
+Atlantic moisture into the area, with the potential for bands of
+moderate to heavy rain Wed into Wed evening, with slight chance
+of thunder. High temps on Wed should be even milder, with 
+widespread 50s per NBM 75th percentile and possibly reaching 60 
+in parts of NE NJ. 
+
+The associated cold front will pass through late Wed night into
+Thu morning, with lingering showers possible through the day 
+especially over S CT and Long Island with the upper trough 
+passing overhead. ECMWF indicates possible secondary low 
+formation nearby, which could lead to more prolonged precip 
+mainly S CT and Long Island (rain mixing with or changing to 
+snow) and strong NW winds throughout Thu night into Fri as the 
+low pulls E of New England. Fri should be mainly dry and brisk, 
+with temps closer to average.
+
+&&
+
+.AVIATION /12Z SATURDAY THROUGH WEDNESDAY/...
+VFR as low pressure passes to the north today, dragging a
+strong cold across this afternoon. 
+
+S winds either side of 10 kt occurring attm, with some gusts
+over 20 kt at JFK, and LLWS (S winds 50 kt at FL020) likely til
+11Z-12Z. Winds then veer SW and increase after daybreak ahead 
+of an approaching cold front before shifting W and increasing 
+further immediately after fropa. Gusts up to at least 30 kt 
+expected after fropa, and some peak gusts over 35 kt are 
+possible from about 19Z- 22Z. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+A few gusts over 35 kt may be possible from about 19Z-23Z. 
+
+.OUTLOOK FOR 06Z SUNDAY THROUGH WEDNESDAY...
+
+Late tonight: VFR. NW winds G25-30kt in the evening, and G20-
+25kt after midnight. 
+
+Sunday: VFR. NW winds G20-25kt. 
+
+Monday: VFR.
+
+Tuesday: VFR. S winds G15-20kt in the afternoon. 
+
+Tuesday night: Chance of rain with MVFR cond. 
+
+Wednesday: Rain with IFR/LIFR cond. S winds G20-30 kt and LLWS. 
+Slight chance of a tstm in the evening. 
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+SCA conditions will continue on the ocean through this afternoon
+and develop on the Sound, Bays, and NY Harbor late this morning
+due to strengthening southerly flow. A cold front passes across
+the waters late this afternoon shifting the winds to the NW and
+increasing wind gusts to around 30 kt on the Sound, Bay, and 
+Harbor and around 35 kt on the ocean. The strongest winds on the
+ocean look to occur in a short period generally from 6pm this 
+evening through 1am Sunday. Have issued a gale warning for this 
+time period on the ocean. An isolated gale gust cannot be ruled 
+out on the non-ocean waters, but have held off on a gale warning
+for now. Elevated ocean seas are expected today, 5-8 ft, 
+continuing into tonight before subsiding on Sunday. Waves on the
+Sound may also reach 3-4 ft tonight. Winds will also subside 
+below SCA on the non-ocean Sunday morning, but could linger into
+early afternoon on the ocean. Conditions will be below SCA 
+levels late Sunday through Monday night with high pressure 
+building over the waters. Light freezing spray is expected late
+tonight through Sunday.
+
+SCA cond likely to develop on all waters daytime Wed as S flow 
+increases, with gusts 25-30 kt and ocean seas building from 2-3
+ft early in the morning to 6-8 ft by evening. Some minimal gale
+force gusts up to 35 are possible on the ocean Wed night as 
+seas build further, reaching 9-12 ft by late Wed night.
+
+&&
+
+.HYDROLOGY...
+A frontal system should bring about 1.0-1.5 inches of rain from
+Tue night into Thu. Potential for locally higher amounts closer
+to 2 inches exists with any heavier rain bands Wed 
+afternoon/evening.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory from 10 AM this morning to 6 AM EST 
+     Sunday for ANZ331-332-335-338-340-345.
+     Small Craft Advisory until 6 PM EST this evening for ANZ350-
+     353-355.
+     Gale Warning from 6 PM this evening to 1 AM EST Sunday for 
+     ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...BG/DS
+NEAR TERM...DS
+SHORT TERM...DS
+LONG TERM...BG
+AVIATION...DS
+MARINE...BG/DS
+HYDROLOGY...BG/DS

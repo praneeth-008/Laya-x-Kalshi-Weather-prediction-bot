@@ -1,0 +1,158 @@
+558 
+FXUS61 KOKX 252337
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+637 PM EST Sat Jan 25 2025
+
+.SYNOPSIS...
+High pressure over the region shifts to the south and east
+tonight as a cold front approaches from the northwest. The cold
+front moves across the area Sunday. High pressure briefly
+returns Sunday night into Monday. A cold frontal passage on 
+Tuesday is followed by a clipper on Wednesday. High pressure 
+then builds in through the rest of the week.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM SUNDAY MORNING/...
+The fcst is on track. Surface high pressure shifts well to the 
+south and east tonight in response to a northern stream upper 
+trough moving north of the Great Lakes with near zonal flow 
+across the region. A surface cold front also approaches. Very 
+weak warm advection, a southwest flow, and increased cloud cover
+will combine to keep temperatures relatively mild overnight, 
+with lows around normal levels. The deterministic NBM and MOS 
+guidance were blended for overnight lows.
+
+&&
+
+.SHORT TERM /6 AM SUNDAY MORNING THROUGH MONDAY/...
+With near zonal upper flow the surface cold front will pass
+through the region rather quickly Sunday. And with little
+moisture and lift, no precipitation is expected. Increased
+cloudiness from Saturday night into Sunday morning will
+dissipate with the frontal passage. The airmass change will be
+subtle with highs Sunday, and lows Sunday night near normal
+levels once again. There may be a few high clouds Sunday night
+in association with a weak vort max and shortwave moving 
+through the area.
+
+Weak upper troughiness persists Monday and yet another frontal 
+system approaches. Weak surface high pressure that builds in 
+briefly Sunday night shifts south Monday. Once again
+temperatures will be near, or just under normal, but with a
+gusty west flow temperatures will feel nearly 10 degrees colder.
+
+&&
+
+.LONG TERM /MONDAY NIGHT THROUGH SATURDAY/...
+Two main systems in the extended. The first is a cdfnt on Tue. 
+The modeling is generally dry, including the NBM pop output, but
+with steepening lapse rates and some llvl instability, thinking
+is that some sct activity possible. The NAM has some CAPE 
+modeled over the area. The best dpva however is N of the cwa, 
+and moisture is limited, so confidence is not high. As a result,
+manually went with sct 30 pops for Tue. 
+
+The next sys is a clipper on Wed. Best pcpn chances along and N
+of the sfc low track. Although the timing seems to be in pretty
+good agreement amongst the models, the exact position of the 
+low is still uncertain, with the 12Z ECMWF further N than the 
+GFS. Both models however bring the cwa into the warm sector 
+attm, with the track roughly along or N of the Mass Pike. Cannot
+rule out a track ending up further S, but for now will continue
+to follow the consensus modeling and keep the low N of the 
+area, resulting in milder temps and lower pcpn chances and 
+amounts. 
+
+The NBM was bringing in additional pops for Fri and Fri ngt 
+with the next sys in the pipeline, but based on the 12Z modeling
+this seems too soon so kept the fcst dry until Sat ngt, where 
+chances for a wintry mix were introduced.
+
+Otherwise, the fcst temps follow the NBM with minor tweaks. A bit 
+windy on Tue with mild wswly flow ahead of the cdfnt becoming
+nwly.
+
+&&
+
+.AVIATION /23Z SATURDAY THROUGH THURSDAY/...
+A weak warm front passes through late tonight into Sunday 
+morning with a weak cold front moving through later in the day.
+
+VFR. WSW winds mostly 5-10kt through early morning, then W winds
+increasing to around 15kt with gusts around 25kt late morning
+through Sunday afternoon. Winds diminish in the evening.
+
+     NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No unscheduled amendments expected.
+
+.OUTLOOK FOR 00Z MONDAY THROUGH THURSDAY...
+
+Sunday night: VFR.
+
+Monday-Tuesday: VFR. W-WSW gusts 20-25 kt.
+
+Wednesday: Chance of MVFR or lower in snow showers. W gusts 20-25kt
+
+Thursday: VFR. NW gusts 30 kt.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+An increasing pressure gradient force will allow for
+southwesterly wind gusts to approach SCA levels across all but
+the New York Harbor waters this evening. The increased pressure
+gradient is in response to high pressure shifting to the south 
+as low pressure approaches and passes to the north, with an 
+associated cold front. Also, ocean seas will be building to SCA 
+levels tonight. The cold front passes through the waters during 
+Sunday and a strong and gusty westerly flow develops in the wake
+of the front. Therefore, have expanded the SCA to encompass all
+the forecast waters during Sunday. High pressure building 
+behind the cold front late Sunday afternoon into Sunday night 
+will allow for winds and gusts to diminish, and the non ocean 
+waters should be below advisory levels by early evening. 
+However, ocean seas and gusts will be slower to subside, so have
+extended the ocean SCA until 06Z Monday. With high pressure 
+weakening during Monday with the approach of yet another frontal
+system wind gusts across the forecast waters, and ocean seas, 
+may increase up to SCA levels, and another advisory may be 
+needed.
+
+Gales are possible on Tue. A SCA may be needed on Wed, with the 
+possibility of gales on Thu. Cond close to SCA lvls on Fri.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts are expected tonight-Sat.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 6 PM EST Sunday for ANZ331-332-335-
+     340-345.
+     Small Craft Advisory from 7 AM to 6 PM EST Sunday for ANZ338.
+     Small Craft Advisory until 1 AM EST Monday for ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JMC/MET
+NEAR TERM...JMC/MET
+SHORT TERM...MET
+LONG TERM...JMC
+AVIATION...JC/DR
+MARINE...JMC/MET
+HYDROLOGY...JMC/MET

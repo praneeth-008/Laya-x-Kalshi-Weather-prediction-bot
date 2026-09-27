@@ -1,0 +1,180 @@
+124 
+FXUS61 KOKX 242331
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+731 PM EDT Thu Apr 24 2025
+
+.SYNOPSIS...
+High pressure moves over the area today and offshore tonight into 
+Friday. A frontal system approaches Friday night and moves across 
+Saturday. One cold front moves southeast of Long Island Saturday
+evening. A secondary cold front moves across early Sunday. High
+pressure then builds in through early next week. High pressure 
+shifts well offshore towards the middle of next week with a 
+frontal system moving towards the local area.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM FRIDAY MORNING/...
+Some isolated rain shower activity is expected to stay north of
+the region this evening. These are ahead of a frontal boundary
+which is also expected to stay well north of the local region.
+Some minor adjustments were made to temperatures and dewpoints
+to better match observed trends.
+
+High pressure continues to move offshore tonight. Clouds this
+evening are expected to decrease late, making for mostly clear 
+skies overnight. Light southerly flow turns more southwesterly 
+in response to the exiting high pressure out to the east. With 
+height rises and increasing 850 mb temps overnight, expecting 
+overnight lows to stay mild. Lows drop into the mid-50s for 
+most.
+
+&&
+
+.SHORT TERM /6 AM FRIDAY MORNING THROUGH SATURDAY/...
+Friday, southerly flow continues. Temperatures will be warm yet
+again with highs in the 70s to near 80, particularly inland, 
+with the cooler spots along the coasts. 
+
+A frontal system approaches on Friday, leading to increasing clouds 
+through the day. Friday night a warm front passes, increasing 
+showers across the CWA. Some timing discrepancies still exist with 
+the timing of the cold front, but expecting it to pass late in the 
+day or early evening Saturday. With strong lift and some hints of 
+instability in the available 12Z guidance, expecting a slight chance 
+for isolated thunderstorms with showers located along or just ahead 
+of the cold frontal passage Saturday afternoon and evening.
+About 0.5-1.0" are expected Friday night through Saturday
+evening. No major hydrologic issues are expected. 
+
+Warm temps overnight Friday are expected due to the cloud cover and 
+warm air advection from the passing warm front. Overnight lows will 
+be in the mid-50s to low-60s. Saturday will be cooler thanks to 
+rainfall and a nearing cold front. Highs then will be in the mid-60s 
+to low-70s.
+
+&&
+
+.LONG TERM /SATURDAY NIGHT THROUGH THURSDAY/...
+Strong upper level low approaches Saturday night and moves across 
+early Sunday. This slowly moves towards Nova Scotia Sunday afternoon 
+into Sunday night. Upper level ridge then builds in across the 
+region for Sunday night through early next week. This will 
+eventually give way to quasi-zonal flow for mid to late week.
+
+At the surface, a cold front is expected to be exiting southeast of 
+Long Island Saturday night. Increased POPs compared to previous 
+forecast as another trough or secondary cold front moves across 
+early Sunday. This will be accompanied by a steepening pressure 
+gradient as parent low deepens as it moves through Maine. Rain 
+showers linger Saturday night and then decrease late Saturday night 
+into early Sunday. NW winds will increase and become gusty with cold 
+air advection. Highest instability relatively speaking will be 
+shifting southeast of the region so left out mention of thunder 
+Saturday night after 8PM.
+
+Steep pressure gradient remains through Sunday. With cold pool aloft 
+with upper level low moving across, some more rain showers will be 
+possible. Models indicate mainly dry conditions but manually 
+increased POPs to slight chance. Also went higher than model 
+forecasts with cloud coverage with cyclonic flow aloft. Used 
+relatively cooler Superblend for the daytime high temperatures, 
+which will be limited to upper 50s to lower 60s with the gusty winds 
+and abundance of clouds the first half of the day.
+
+For next week, warming trend is evident in the forecast models with 
+the ridging developing across the area. Consistent model 850mb 
+temperature warming by the end of each day Monday into Tuesday. 
+Expect a sharp rising trend to daytime high temperatures each day. 
+Much of the region is in upper 60s to mid 70s for highs Monday and 
+well into the 70s to near 80 for Tuesday. Used specifically the NBM 
+50th percentile for high temperature forecasts on Monday and 
+Tuesday, which were relatively warmer compared to NBM alone.
+
+Uncertainty grows for mid to late week depending on the evolution of 
+an approaching frontal system. The ridging moves offshore and quasi-
+zonal flow will help steer this frontal system towards the region. 
+The system may linger nearby towards latter portion of week. Chances 
+for showers and perhaps even an isolated thunderstorms are in the 
+forecast Tuesday night through Wednesday. Chances for rain showers 
+forecast to continue into next Thursday.
+
+&&
+
+.AVIATION /00Z FRIDAY THROUGH TUESDAY/... 
+VFR. High pressure remains just offshore through tonight. Low 
+pressure gradually approaches on Friday
+
+Winds slowly weaken this evening as the direction becomes SW 
+under 10 kt. Outlying terminals should see light and variable 
+winds overnight. Winds become more S Friday with some seabreeze
+enhancement and bump back up to 10-12 kt.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+There is a low chance for HZ and a reduction in visibility due
+to smoke from the wildfire in eastern NJ.
+
+Timing of MVFR and -SHRA at the very end of the TAF may be off a
+few hours.
+
+.OUTLOOK FOR 00Z SATURDAY THROUGH TUESDAY...
+
+Friday Night-Saturday: MVFR or lower in showers. An isolated 
+thunderstorm possible Saturday. S-SSW gusts 15-25 kt, becoming 
+W-NW late day/evening.
+
+Sunday: VFR. NNW gusts 25-30 kt possible.
+
+Monday: VFR.
+
+Tuesday: VFR. SW gusts 20-25 kt in the afternoon.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Sub advisory conditions expected through Friday night. Marginal 
+small craft advisory conditions are possible late Saturday with the 
+frontal passage, mainly for 25 kt gusts on ocean waters and seas 5-6 
+feet. 
+
+For Saturday night, SCA conditions mainly for ocean seas, mainly 
+near 5 to 6 ft, with otherwise mainly below SCA conditions. Then for 
+Sunday, expecting widespread SCA wind gusts for all waters. Ocean 
+seas trend down to 4 to 5 ft Sunday. SCA wind gusts diminish Sunday 
+evening with eventually all waters below SCA Sunday night. All 
+waters remain in the forecast below SCA Monday through Tuesday 
+before SCA conditions make their return Tuesday night, mainly for 
+the ocean.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns throughout the forecast period.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...Air Quality Alert until midnight EDT tonight for NYZ069>075-
+     078>081-176>179.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JM/BR
+NEAR TERM...BR/JM
+SHORT TERM...BR
+LONG TERM...JM
+AVIATION...JT
+MARINE...JM/BR
+HYDROLOGY...JM/BR

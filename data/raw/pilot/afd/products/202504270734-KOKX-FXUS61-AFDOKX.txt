@@ -1,0 +1,186 @@
+630 
+FXUS61 KOKX 270734
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+334 AM EDT Sun Apr 27 2025
+
+.SYNOPSIS...
+Low pressure slowly moves off the northern New England coast
+today as high pressure builds in from the west through tonight.
+The high will then remain in control Monday before pushing off 
+the Mid-Atlantic coast Monday night into Tuesday. A frontal 
+system moves across the area Tuesday night into Wednesday 
+morning. High pressure briefly returns late Wednesday into 
+Thursday before another frontal system impacts the area for
+the end of the week.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Closed upper low/trough over the area early this morning will
+slide offshore through this evening. The cyclonic flow aloft 
+will lead to scattered to broken stratocu clouds through the day
+with the greatest coverage across the interior. Otherwise, the 
+main concern for today will be with strong, gusty NW flow. 
+Forecast soundings show mixing up to around 5 kft where winds 
+are likely to run between 35-40 kt. The mixing, cold advection, 
+and subsidence behind the departing upper low/trough will 
+support sustained winds and gusts just below advisory levels. 
+NBM deterministic guidance has been running too weak with winds 
+for the last several months, especially in cold advection and NW
+flow regimes. This appears to be no exception today and have 
+raised sustained winds and wind gusts a bit above the NBM 90th 
+percentile. Sustained NW winds 20-25 mph are likely with gusts 
+30-40 mph. Isolated gusts up to 45 mph are possible. Strong cold
+advection will lead to below normal temperatures in the middle 
+to upper 50s inland to around 60 degrees close to the coast. 
+
+The pressure gradient begins relaxing tonight as the
+aforementioned low pressure pushes further east allowing high 
+pressure to settle closer to the area. Lingering stratocu clouds
+in the evening should clear as the moisture trapped beneath a 
+subsidence inversion around 5 kft diminishes. Gusty conditions 
+will continue in the evening, but should begin dropping off 
+overnight. Winds will likely become light across the western 
+half of the area early Monday morning as the high builds in, but
+could still see breezy conditions hold on further east across 
+Long Island and southeast Connecticut. Lows will generally be in
+the 40s except for the NYC metro where lows will fall to the 
+low 50s. 
+
+&&
+
+.SHORT TERM /MONDAY THROUGH TUESDAY NIGHT/...
+Ridging at the surface and aloft will dominate the weather on 
+Monday. Winds will be much weaker compared to Sunday and
+generally shift to a light W or SW flow. The air mass will also
+moderate allowing warmer temperatures to return to the region. 
+High temperatures are expected to reach the lower 70s for much 
+of the area. The surface high will begin to shift to our south 
+and move off the Middle Atlantic coast Monday night. Other than 
+a few high clouds, skies will continue to be mostly clear. Lows 
+will be a bit milder compared to Sunday night and general in the
+upper 40s inland and lower 50s closer to the coast. 
+
+The upper ridge axis will remain over the area on Tuesday with
+high pressure remaining off the Middle Atlantic and Southeast 
+coasts. The next shortwave then pushes across the Great Lakes 
+Tuesday with its associated frontal system starting to approach.
+The frontal system nears the area Tuesday evening, but much of 
+the forcing passes well to our north. Model guidance has 
+continued to show diminishing QPF fields as the system arrives 
+Tuesday evening/Tuesday night. Will continue to show a slight 
+chance for showers Tuesday evening, but would not be surprised 
+if this time period ends up dry given the overall setup with 
+this system. Highs on Tuesday will continue above normal with 
+upper 70s and low 80s in NE NJ, Lower Hudson Valley, and NYC 
+metro. Elsewhere, highs will be in the upper 60s to middle 70s 
+due to increasing S flow off the colder ocean. Mild lows 
+expected Tuesday night in the 50s areawide.
+
+&&
+
+.LONG TERM /WEDNESDAY THROUGH SATURDAY/...
+Global models and their ensembles are in relatively good
+agreement with a flattened h5 ridge axis over us Wednesday 
+through Thursday, shifting to our east on Friday, then a trough 
+moving in on Saturday. The greatest potential impacts would 
+appear to be associated with an attendant surface low pressure 
+system that passes to our north during Friday and sends a cold 
+front through the region Friday afternoon or evening. Highest 
+overall chances (50-60%) of rain appear to be Thursday night 
+with the advance of a leading warm front, with a slightly lower
+probability Friday afternoon into evening with the cold front. 
+Thunder will be possible Friday afternoon into evening, but too 
+early to have high confidence in severe wx potential. Given 
+modeled shear and CAPE, strong wind gusts could be a factor. 
+
+NBM looked good for high temps, which will likely be at or
+above normal during the long term period. Greatest uncertainty 
+is on Friday, where even locations away from any potential 
+onshore flow influence show deterministic numbers below the 25th
+percentile, suggesting highs could be warmer than currently 
+forecast. Rainfall probability and timing during Friday factor 
+into this uncertainty.
+
+&&
+
+.AVIATION /08Z SUNDAY THROUGH THURSDAY/...
+High pressure builds in from the west through tonight.
+
+VFR. NW winds 20G25-30kt increase 25G35kt later this morning 
+and last through around sundown. Winds diminish this evening 
+with gusts ending after midnight. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Peak gusts mostly around 35kt through around 14z with around 40kt 
+possible thereafter until 00z.
+
+Winds likely favor left/south of 310 magnetic until around
+14-15z, then right/north of it thereafter.
+
+.OUTLOOK FOR 06Z MONDAY THROUGH THURSDAY...
+
+Late tonight: VFR. 
+
+Monday: VFR.
+
+Tuesday: Mainly VFR. Slight chance of MVFR with showers at
+night. SW gusts 20-25 possible in the afternoon and evening.
+
+Wednesday: VFR.
+
+Thursday: VFR during day. MVFR possible with a chance of 
+showers and slight chance of thunderstorms at night.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+No changes made to the SCA on the waters. NW winds will
+continue to increase through this morning with gusts around 30 
+kt continuing through this evening. A few gusts close to gale 
+force are possible nearshore. Winds will start weakening this 
+evening and should subside below 25 kt by around midnight. Ocean
+seas 5-6 ft today will subside below 5 ft tonight. Conditions 
+will then remain below SCA levels Monday into Monday night with 
+a weak pressure gradient. S flow increases on Tuesday ahead of 
+the next cold front. This will increase wind gusts to 25 kt, 
+mainly on the ocean, Tuesday evening into Tuesday night. Ocean 
+seas will also build to around 5 ft. 
+
+Conditions on the ocean fall below advisory thresholds likely by
+the end of Wednesday morning, with sub-advisory conditions for 
+the rest of the forecast period.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 10 PM EDT this evening for ANZ331-
+     332-335-338-340-345.
+     Small Craft Advisory until 3 AM EDT Monday for ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JC/DS
+NEAR TERM...DS
+SHORT TERM...DS
+LONG TERM...JC
+AVIATION...JC
+MARINE...JC/DS
+HYDROLOGY...JC/DS

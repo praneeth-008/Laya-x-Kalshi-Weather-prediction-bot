@@ -1,0 +1,189 @@
+223 
+FXUS61 KOKX 102022
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+422 PM EDT Thu Apr 10 2025
+
+.SYNOPSIS...
+High pressure off the coast will give way to a weakening low
+approaching from the west tonight. Another low developing over 
+the Mid Atlantic region on Friday will pass south and east of 
+Long Island on Saturday. The low will slowly drift farther out 
+to sea on Sunday, with weak high pressure building in through 
+Monday. A frontal system will approach from the west Monday 
+night, with a cold frontal passage expected late Monday night 
+into early Tuesday morning. Another cold front will move through
+Tuesday night. High pressure will remain centered to the west 
+thereafter through next Thursday. 
+
+&&
+
+.NEAR TERM /UNTIL 6 AM FRIDAY MORNING/...
+TEWR radar showing sprinkles approaching the NYC metro area attm
+from the SW. This area should expand in coverage as it moves NE,
+with chance PoP for the NYC metro area and likely/cat PoP this
+evening mainly NE of NYC. Once this area passes by NE NJ and the
+metro area may remain fairly dry for the rest of the night. 
+
+Temps inland still look marginal in terms of some light wintry
+precip, with a rain/snow mix possible and coating of
+accumulation possible, and as much as an inch in parts of wrn 
+Orange County where temps will be colder. 
+
+Low temps tonight will be mostly in the mid/upper 30s, with 
+some lower 30s well inland NW of NYC. 
+
+&&
+
+.SHORT TERM /6 AM FRIDAY MORNING THROUGH SATURDAY NIGHT/...
+As the low develops over the Mid Atlantic region, chances for 
+rain will increase through the day on Fri. Best chances for 
+rain still look to be from Fri night into early Sat morning as
+the low passes to the SE, and once again temps inland may be 
+marginal and allow for a rain/snow mix and some light 
+accumulation. A persistent NW flow gusting to 25 mph should 
+develop Fri night and continue into Sat, then back N Sat night 
+as the low then starts to pull out into the Atlantic. 
+
+It will remain cool with highs only in the 40s, and lows mostly
+35-40. 
+
+&&
+
+.LONG TERM /SUNDAY THROUGH THURSDAY/...
+Lingering showers for eastern areas expected for Sunday as the 
+coastal low is slow to move away from the area with an omega block 
+over much of the CONUS, with a building ridge over the mid-West. 
+With more in the way of clouds than sun and northerly flow, 
+temperatures will be seasonably cool, with highs in the 50s for much 
+of the area. Eastern areas may stay in the upper 40s for highs 
+thanks to rain and cloud cover.
+
+Deep layered ridging sets up as weak high pressure builds in at the 
+surface and the upper level ridge moves toward the region on Monday. 
+Expect dry conditions and generally seasonably warm temperatures, 
+with highs in the lower to middle 60s away from the coast, and upper 
+50s to around 60 along the coast.
+
+The next chance for light showers comes Monday night as a warm front 
+approaches. The looks to become warm sectored Monday night, with the 
+associated cold front moving through early Tuesday morning. Lows 
+Monday night will be warm with the southerly flow set up over the 
+area. Lows in the middle 40s to around 50 are expected. Highs will 
+be similar to Monday.
+
+Showers taper off Tuesday with the passage of the cold front and 
+weak high pressure building in thereafter. A secondary cold front 
+moves through late Tuesday night into Wednesday morning, but there 
+isn't much moisture associated with this feature, and it looks to 
+push through dry. 
+
+With high pressure building in and high pressure remaining to the 
+west of the region through next Thursday, an return to more normal 
+temperature for this time of year is expected for Wednesday and 
+Thursday.
+
+&&
+
+.AVIATION /20Z THURSDAY THROUGH TUESDAY/...
+High pressure shifts offshore this afternoon before a frontal 
+system impacts the area tonight and into Friday.
+
+VFR conditions expected through late this afternoon. MVFR and 
+eventually IFR moves in this evening after 00Z, but especially 
+toward 06Z Friday. SHRA expected to develop and become more 
+widespread after 06Z Friday with conditions lowering to IFR. A mix 
+with -SN is also possible tonight. SHRA continues into the day on 
+Friday with IFR conditions expected.
+
+S/SE winds around 10kt through this afternoon and evening with 
+occasional gusts up to 20kt. Winds slowly back to the E after 
+00Z Friday and increase overnight. Gusts pick back up on Friday
+to around 20 kt. 
+ 
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Amendments are possible this evening into Friday morning with 
+timing of SHRA and changing flight categories.
+
+.OUTLOOK FOR 18Z FRIDAY THROUGH TUESDAY...
+
+Friday: MVFR with periods of IFR. Rain. E flow 10-20kt.
+
+Saturday: MVFR or lower. Chance of light rain. NE winds 15-20 kt 
+possible.
+
+Sunday: MVFR possible with winds becoming NW.
+
+Monday and Tuesday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Gale watch issued for the ocean waters for Fri night-Sat as 
+persistent NE flow may gust as high as 35 kt, especially late 
+Fri night into Sat morning. Ocean seas during this time should 
+build to 6-9 ft. 
+
+SCA also issued for the non ocean waters Fri night into Sat with
+NE winds gusting to 25-30 kt. 
+
+Before the gale watch, SCA remains in effect for the ocean
+waters for Fri afternoon, as winds/seas start to surpass 25 kt 
+and 5 ft respectively. 
+
+SCA cond should continue on the ocean and the ern Sound/bays into
+Sat night, then on the ocean waters on Sunday, with gusts 25-30
+kt. Seas 4-6 ft are forecast for all ocean waters on Sunday
+which are expected to slowly diminish through the day, but 
+remain above 5 ft through the day. 
+
+Thereafter, SCA conditions are not expected until possibly
+Tuesday when winds may approach 25 kt, especially western
+coastal zones with the approach and passage of a cold front.
+
+&&
+
+.HYDROLOGY...
+QPF from tonight through Saturday night has trended downward,
+averaging around an inch for most places. Long duration of 
+this rainfall should preclude any impacts. 
+
+&&
+
+.TIDES/COASTAL FLOODING...
+Water levels may approach minor coastal flood benchmarks in
+parts of the NY Harbor area with the high tide cycle Fri night
+and Sat night due to persistent onshore flow and tidal piling. 
+This may occur on the back bays of Nassau Fri night as well. 
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory from 6 PM Friday to 6 PM EDT Saturday for 
+     ANZ331-332-335-338-340-345.
+     Small Craft Advisory from noon to 6 PM EDT Friday for ANZ350-
+     353-355.
+     Gale Watch from Friday evening through Saturday afternoon for 
+     ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...BG/JP
+NEAR TERM...BG
+SHORT TERM...BG
+LONG TERM...JP
+AVIATION...20
+MARINE...BG/JP
+HYDROLOGY...BG/JP
+TIDES/COASTAL FLOODING...BG

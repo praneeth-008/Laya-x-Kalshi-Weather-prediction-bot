@@ -1,0 +1,156 @@
+788 
+FXUS61 KOKX 050534
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1234 AM EST Sun Jan 5 2025
+
+.SYNOPSIS...
+The region will remain between low pressure to the north and
+high pressure to the south through the weekend. A quick moving 
+low will passes through the Mid Atlantic region on Monday and
+offshore Monday night. Behind it, strong Canadian high pressure
+will build from the west through late next week.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM THIS MORNING/...
+Gusts have come down considerably from earlier in the day when
+some locations achieved advisory levels. Still though, 
+expecting gusts of 20 to 30 mph due to a strong pressure 
+gradient between high pressure to the southwest and deepening 
+low pressure over the western Atlantic heading up 
+toward Newfoundland.  
+
+For temps, went with the NBM but made some local adjustments.
+Wind chills overnight in the teens and single digits.
+
+&&
+
+.SHORT TERM /6 AM THIS MORNING THROUGH 6 PM MONDAY/...
+Some sct-bkn Cu should develop during the day with steep llvl
+lapse rates. Continued windy, but speeds aloft are modeled to be
+less than those of Sat, so gusts should generally be blw 35 mph. 
+Stuck with the NBM for highs which yields mainly lower/mid 30s.
+
+As the next sys approaches from the W, increasing clouds can be
+expected Sun ngt, particularly late. A few flurries may break 
+out extreme swrn sections by sunrise, otherwise it should be dry
+per the model consensus. Winds will diminish considerably as 
+the pres grad relaxes. The NBM with the usual adjustments was 
+used for low temps, which produces numbers in the teens and 20s.
+
+&&
+
+.LONG TERM /MONDAY NIGHT THROUGH SATURDAY/...
+Key Points:
+
+* Low pressure passes to the south across the Mid Atlantic states on 
+  Monday with light snowfall possibly grazing southern portions of 
+  the forecast area. The trend continues toward little or no 
+  snowfall.
+ 
+* Cold, windy, and predominantly dry conditions expected through the 
+  upcoming week. 
+
+A well advertised low pressure system will pass to the south of the 
+area across the Mid Atlantic states on Monday. The trend the last 
+24h has been for a slight southward adjustment and a downward trend 
+in amounts for what would be a light snowfall event for southernmost 
+areas of the forecast area. Global models and their ensembles remain 
+in very good agreement with low probabilities for an advisory level 
+snowfall event (3 inches or more) with the LREF Grand Ensemble 
+(GEFS, GEPS, EPS) and NBM less than 10% for an inch or more for 
+southernmost portions of the NYC metro (which has the highest 
+probabilities). For greater than inch, probabilities are about 20% 
+and 40%, respectively. Bottom line here, everything is pointing to 
+little or no snow accumulation for a small portion of the forecast 
+area. This still needs to be watched due to the interaction of 
+multiple pieces of energy in the northern branch of the polar jet 
+across eastern Canada. A subtle shift of the low track north would 
+increase amounts, but by no means would this be a significant event 
+for the tri-state area.
+
+The bigger news will be an anomalously cold airmass and gusty W/NW 
+winds Tuesday through Thursday with temperatures about 10 degrees 
+below normal. NBM box and whisker plots show the deterministic highs 
+at or above the 75th percentile through the period, but closer to 
+the median (50th) for lows. In addition, 12Z global operational 2m 
+temperatures support a colder forecast.
+Thus, blended the NBM with its median for highs to get it a bit 
+lower. 
+
+The 12Z operational GFS and to a lesser extent the ECMWF, show a 
+potential late week storm system next weekend. This is of course 
+just something to watch and there will likely be many iterations 
+before locking in on something more definitive.
+
+&&
+
+.AVIATION /06Z SUNDAY THROUGH THURSDAY/...
+VFR with the region remaining between low pressure to the north and 
+high pressure to the south.
+
+W flow 15-20 kt with gusts 25-30 kt decrease slightly late tonight,
+then resume by 14Z and continue til 22Z-23Z. A few gusts over 
+30 kt are possible Sunday afternoon. WNW winds then gradually 
+diminish to 10 kt or less Sunday evening.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No unscheduled AMD expected. 
+
+OUTLOOK FOR 06Z MONDAY THROUGH THURSDAY...
+
+Late Sunday night: VFR. 
+
+Monday: Chance of light snow at the NYC metro 
+terminals/KHPN/KISP/KBDR with MVFR cond likely, IFR possible.
+Light accumulation up to an inch at NYC metros and KISP.
+
+Tuesday through Thursday: VFR. NW winds 15-20kt with daytime gusts 
+25-30 kt. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Have replaced Gale Warning on the ocean with SCA as winds at the
+buoys are slowly diminishing. SCA cond then likely thru at 
+least Sun eve, particularly on the ocean where seas will take 
+some time to subside. Because the SCA was already up for Sun, it
+was maintained to avoid poor messaging. 
+
+There is the potential for a prolonged W-NW gale across all 
+waters Tuesday into Thursday due to a strong pressure gradient 
+between building high pressure and low pressure over eastern 
+Canada.
+
+&&
+
+.HYDROLOGY...
+No significant hydrologic issues anticipated.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 7 PM EST this evening for ANZ331-
+     332-335-338-340-345-350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JMC/DW
+NEAR TERM...JMC/DW
+SHORT TERM...JMC
+LONG TERM...DW
+AVIATION...BG/DR
+MARINE...JMC/BG/DW
+HYDROLOGY...JMC/DW

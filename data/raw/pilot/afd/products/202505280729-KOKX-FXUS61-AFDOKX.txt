@@ -1,0 +1,174 @@
+259 
+FXUS61 KOKX 280729
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+329 AM EDT Wed May 28 2025
+
+.SYNOPSIS...
+High pressure will remain offshore today. Meanwhile, low 
+pressure and its associated frontal system will approach from 
+the west, moving over the area tonight into Thursday. A series 
+of low pressure systems move through the region Thursday night 
+through Saturday night. Weak high pressure returns Sunday into 
+early next week.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM THIS MORNING/...
+No significant changes with the evening update. Just a few minor 
+adjustments to reflect current observations. 
+
+Otherwise, high pressure remains east of the region tonight. 
+Meanwhile, low pressure and an upper level trough approach from
+the west. It will remain cloudy overnight. Warm air advection 
+ahead of the trough, along with some forcing may result in a 
+sprinkle or light rain around daybreak, but most of the 
+measurable rain should hold off until after sunrise. 
+Temps tonight will fall into the 50s. 
+
+&&
+
+.SHORT TERM /6 AM THIS MORNING THROUGH 6 PM THURSDAY/...
+The region will remain stuck between low pressure and upper 
+level trough to the west and surface high pressure and ridging 
+aloft to the east. Expect a cloudy day, with rain chances slowly
+increasing, mainly across the western half of the CWA through 
+the daytime. Portions of CT and Long Island may remain dry 
+through much of the day, as the precipitation runs into drier 
+air. Expect cooler temperatures with highs only in the 60s. 
+There is a chance interior CT reaches the lower 70s if cloud 
+cover is thinner across this area. 
+
+Rain chances then increase, with likely PoP tonight into 
+Thursday as the low finally moves over the area. The forecast
+guidance does differ a bit on the amplitude of the shortwave 
+and associated energy moving across the area. A flatter guidance
+generally brings in less precip overall as the forcing is 
+weaker, while a slightly more amplified solutions have a bit 
+more precip along. Even with these differences, QPF amounts 
+remain low, generally remaining below a half inch, CWA wide. 
+Temperatures tonight will fall into the 50s and Thursday climb 
+into the upper 60s and lower 70s.
+
+&&
+
+.LONG TERM /THURSDAY NIGHT THROUGH TUESDAY/...
+A full amplitude trough, with an embedded closed low, from eastern 
+Canada into the Gulf coast states Thursday night gradually builds 
+to the east coast Friday and remains into late Sunday before moving 
+offshore Sunday night into early next week.
+With a series of vort maxes rotating through the upper low and 
+trough, a series of lows will track along a nearly stationary 
+frontal boundary from off the New England coast into the mid 
+Atlantic. The last of the waves moves through Saturday bringing a 
+cold front across the region. So a long period of unsettled weather 
+is expected from Thursday night into Saturday night.
+With rising heights aloft Sunday night into the beginning of next 
+week, and surface high pressure building into the region, dry 
+weather returns. Followed the NBM deterministic guidance, which has 
+trended lower for daytime highs Friday and Saturday, with 
+temperatures generally below normal. Night time lows will be near 
+normal.
+
+&&
+
+.AVIATION /07Z WEDNESDAY THROUGH SUNDAY/...
+High pressure to the east will gradually give way to weak low
+pressure approaching from the Mid Atlantic region and then
+passing just south of Long Island late tonight. 
+
+VFR most of today as OVC high/mid level clouds gradually lower.
+There is a chance of some light rain at KEWR as early as
+14Z-15Z, then expanding northeast into the NYC metro area early
+this afternoon and points north/east during the late day hours.
+MVFR cigs arrive at the NYC metros by about 21Z-22Z, with IFR
+cigs there and at KISP/KHPN by 03Z. Farther north/east, expect 
+cigs to lower to MVFR this evening, with IFR at KBDR/KSWF after
+midnight. 
+
+Light S flow should increase to 5-10 kt by this afternoon, then
+back SE from late afternoon into this evening. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+High confidence on timing of lowering cigs late today into this
+evening. Winds could back SE sooner than fcst especially closer
+to the coast. 
+
+.OUTLOOK FOR 06Z THURSDAY THROUGH SUNDAY...
+
+Late tonight: Rain likely with IFR cond expected, except mainly MVFR
+at KGON. 
+
+Thursday: Chance of showers. IFR cond in the morning improve to
+MVFR in the afternoon, and to VFR late at the NYC metros. 
+
+Thursday night: VFR/IFR cigs possible late. 
+
+Friday: MVFR/IFR cigs likely. 
+
+Friday night and Saturday: Chance of showers and possibly a 
+tstm. MVFR cond likely, IFR possible. SW-W winds G15-20kt in 
+the afternoon. 
+
+Sunday...VFR.
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+No changes to winds and seas with this update.
+
+Winds and seas will remain below SCA levels today with high 
+pressure in control. Increasing SE flow tonight into Thursday 
+may lead to wind gusts close to 25 kt and seas building to near 
+5 ft on the ocean. The flow may weaken a bit on Thursday, but 
+seas will remain elevated. 
+
+Ocean seas remain at SCA levels Thursday night as southerly 
+winds continue ahead of a cold front. With the passage of the 
+cold front winds shifts to SW to W and ocean seas gradually 
+diminish below 5 feet by Friday morning. Ocean seas briefly 
+remain below SCA levels Friday, then with increasing southerly 
+winds ahead of another front ocean seas likely build to advisory
+levels late Friday night into Saturday. Ocean seas remain 
+elevated Saturday night, and gradually subside below 5 feet west
+to east during Sunday as winds shift to the west to southwest.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts expected through early next week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+There is a low rip current risk at ocean beaches today with 1-2
+ft seas and winds generally 10 kt or less. The rip current 
+development risk increases to high for Thursday due to a 
+building southeast swell and southeast winds.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...BC/MET
+NEAR TERM...BC/MET
+SHORT TERM...BC
+LONG TERM...MET
+AVIATION...BG
+MARINE...BC/MET
+HYDROLOGY...BC/MET
+TIDES/COASTAL FLOODING...

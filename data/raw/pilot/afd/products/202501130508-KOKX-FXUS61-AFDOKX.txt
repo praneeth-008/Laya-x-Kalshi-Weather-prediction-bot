@@ -1,0 +1,214 @@
+015 
+FXUS61 KOKX 130508
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1208 AM EST Mon Jan 13 2025
+
+.SYNOPSIS...
+High pressure will gradually weaken and shift more south of the
+area overnight. A wave of low pressure approaches from SE 
+Canada Monday into Monday night. A cold front will pass across 
+the region late Monday into Monday night. Another cold front 
+moves across late Tuesday. High pressure builds in from the west
+Tuesday night and remains in control through Wednesday night. A
+frontal system approaches from the northwest Thursday and 
+dissipates over the region Friday. Another more potent frontal 
+system impacts the region next weekend.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM THIS MORNING/...
+Temperatures have become much warmer than forecast. Low 
+temperatures have been raised in response. Otherwise, the 
+forecast through early this morning remains on track. 
+
+For tonight a weak pressure gradient remains as high pressure axis 
+moves in and center of high pressure shifts south of the area. The 
+center of the high will be moving towards the Southeast US coast.
+
+With mid level ridge axis moving east of the region, more trough 
+pattern takes shape. This will lead to decreasing subsidence. Mid 
+level low will be approaching from South Central Canada. 
+
+Would expect to have increasing and abundance of clouds coming
+over the ridge. While surface light winds will promote more 
+radiational cooling, the extra cloud coverage will partially 
+mitigate this. 
+
+Have a blend of NBM and MOS consensus for the area low 
+temperatures tonight, ranging from lower 20s to lower 30s. This
+will make for a less vast range of lows and keep temperatures 
+slightly warmer for rural and outlying locations. Dry conditions
+expected to prevail.
+
+&&
+
+.SHORT TERM /6 AM THIS MORNING THROUGH 6 PM TUESDAY/...
+Jet streak translates close to the region, staying just south 
+of the area Monday through Monday night.
+
+Mid level zonal flow expected Monday through Monday night with the 
+mid level low moving from near northern Minnesota to the eastern 
+Great Lakes.
+
+At the surface, low pressure travels eastward just north of the 
+Great Lakes. The low eventually gets to Southern Quebec to near 
+Maine by early Tuesday. An associated cold front moves across
+the local area Monday night.
+
+High pressure strengthens to the west of the low. The local 
+region will have a strengthening pressure gradient between the 
+low and high. A gusty WNW to NW flow develops as a result Monday
+afternoon into Monday night.
+
+Clouds will increase Monday into Monday night but decrease
+later Monday night into Tuesday with surface high pressure
+briefly building in. However, the center of the high pressure 
+stays well to the south and west of the region. Another cold
+front then approaches, moving across late Tuesday. While not
+much cloud increase is expected, this front will reinforce the
+very cold airmass moving in with strong cold air advection.
+
+Used a blend of MAV and MET MOS guidance and added an extra
+degree for the high temperature forecast on Monday. Increasing
+WSW flow Monday and higher vertical mixing should allow for a
+relatively warmer day than the previous day. Forecast highs
+range mainly in the low to mid 40s.
+
+For lows Monday night, took a blend of NBM, consensus of raw
+model data, as well as the MAV and MET MOS. While winds staying
+up in the boundary layer and some extra clouds may be limiting
+factors, there is still increasing cold air advection indicated
+by the models. The net result are lows about the same as the 
+previous night but wind chills will be much more apparent here.
+
+Tuesday, dry conditions, gusty westerly flow and much colder
+than the previous day. Highs only getting to near freezing. 
+Tight pressure gradient between low pressure in the Canadian 
+Maritimes and high pressure west of the Great Lakes.
+
+&&
+
+.LONG TERM /TUESDAY NIGHT THROUGH SUNDAY/...
+Mainly dry conditions for the first part of the long term as 
+high pressure builds in at the surface from the Mid-west Tuesday
+night. Meanwhile, a cutoff upper low and associated trough 
+pushes east. A surface trough moves through Wednesday. With weak
+lift, no precipitation is expected, just a reinforcing shot of 
+cold air. Temperatures through Thursday will be below normal, 
+ranging from the upper 20s to just above freezing for high 
+temperatures. Additionally, as the surface low associated with 
+the upper low deepens offshore and the incoming high also 
+strengthens, conditions will be blustery, mainly for Wednesday. 
+NW winds of 10 to around 15 mph are expected, with gusts 20-30 
+mph. Combined with the wind, temperatures will feel like the 
+teens and 20s during the day on Wednesday, and it will feel 
+slightly warmer for Thursday as the wind diminish. 
+
+Deep layered riding aloft late Thursday night into Friday 
+morning out ahead of an approaching frontal system from central 
+Canada. This deep layered ridging aids in the dissipation of the
+frontal system for Friday, with dry conditions continuing, but 
+a SW flow Thursday night into Friday morning will allow 
+temperatures to warm to near seasonable levels. 
+
+The next chance for widespread precipitation comes next weekend
+as another more potent frontal system impacts the region. As is
+typically the case, there are timing and placement issues with 
+any features, so stuck close to NBM.
+
+&&
+
+.AVIATION /05Z MONDAY THROUGH FRIDAY/...
+VFR as high pressure remains through the overnight and slides 
+south and east on Monday. A weak cold front passes through the 
+region Monday afternoon into Monday evening.
+
+Winds W to NW back to more W, remaining under 10kt. Winds 
+become SW late tonight/toward Monday morning, and increase to 
+around or just under 10 kt. With the passage of the cold front 
+winds remain WNW and increase with gusts up to 25kt likely. 
+Timing of the cold frontal passage is uncertain and may vary an 
+hour or two from forecast.
+
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No unscheduled AMD expected. Cold front passage Monday afternoon may 
+vary an hour or two from forecast timing.
+
+
+.OUTLOOK FOR 00Z TUESDAY THROUGH FRIDAY...
+
+Monday night: VFR. W-NW winds G15-25kt.
+
+Tuesday through Wednesday: VFR. NW winds 15G25kt. 
+
+Wednesday night: VFR. NW winds G20kt in the evening. 
+
+Thursday and Friday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+No changes to winds and seas at this time.
+
+Sub-SCA conditions continue with the weak pressure gradient 
+across the waters tonight into Monday morning. Then chances 
+increase for SCA conditions on the ocean Monday afternoon 
+through Monday night as pressure gradient tightens between low 
+pressure northwest of the region and high pressure southwest of 
+the region. Non-ocean waters could also get SCA level wind gusts
+Monday night, but felt these may be more marginal and 
+occasional. Therefore, only have SCA for the ocean Monday 
+afternoon through Monday night at this time.
+
+For Tuesday, SCA will likely be needed for this day with
+widespread 25-30 kt gusts expected for all marine zones.
+
+Widespread SCA wind gusts expected for all marine zones on
+Tuesday.
+
+Strong pressure gradient over the waters Tuesday night will likely 
+allow SCAs to continue over all waters through much of Wednesday. 
+Non-ocean waters may wind gusts fall below 25 kt by sunset Wednesday 
+night and ocean waters a few hours later.
+
+Waves on the ocean waters peak Tuesday night at 4 to 7 ft and 4 to 5 
+ft over the central sound waters. Waves diminish Wednesday, falling 
+below 5 ft over all ocean waters by Wednesday night.
+
+&&
+
+.HYDROLOGY...
+Dry conditions continue through Tuesday. No hydrologic problems 
+expected.
+
+No hydrologic impacts expected into the beginning of next
+weekend.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory from noon today to 6 AM EST Tuesday for 
+     ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JM/JP
+NEAR TERM...JM/JP/BR/MET
+SHORT TERM...JM
+LONG TERM...JP
+AVIATION...MET
+MARINE...JM/JP
+HYDROLOGY...JM/JP

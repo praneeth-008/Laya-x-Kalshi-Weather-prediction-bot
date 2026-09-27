@@ -1,0 +1,190 @@
+223 
+FXUS61 KOKX 221555
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1155 AM EDT Tue Jul 22 2025
+
+.SYNOPSIS...
+High pressure continues building in this afternoon, moving 
+overhead tonight and offshore later Wednesday. The high will 
+remain in control through early Friday. A cold front moves 
+through late Friday with another frontal system possibly 
+impacting the area for the weekend.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+High pressure continues to gradually build this afternoon, 
+becoming centered over the area tonight. Aloft, heights begin to
+rise later this afternoon, and more so tonight as a large scale 
+ridge starts to build in.
+
+The dry and cooler conditions will continue through tonight,
+although not quite as cool in some places as last night. 
+Maintaining slight chance PoPs for this afternoon over portions
+of NYC and surrounding areas, mainly SW portions of the 
+forecast area. Few reasons for this. Yesterday, guidance greatly
+underestimated the interaction between a shortwave and a sea 
+breeze boundary which led to a broken line of low topped 
+convective showers. While a bit of a different set up today, 
+there will likely be sea breeze boundaries around and could even
+have the northern edge of an inverted surface trough nosing 
+into our area, all while potentially having a weak shortwave 
+move through aloft. Also there remains a shallow layer of 
+instability just above the LCL. Not much confidence, but given 
+what happened yesterday and the CAMs at least hinting at some 
+isolated shower activity, maintaining slight chance PoPs.
+
+Winds go real light tonight with high pressure centered over the
+area. It may be oriented in a way where the flow, while light, 
+becomes more onshore, so did not go below NBM. However, 
+potential is there for conditions to be more favorable for 
+radiational cooling than currently forecast and this will result
+in lower temperatures, particularly across the interior.
+
+&&
+
+.SHORT TERM /WEDNESDAY THROUGH THURSDAY NIGHT/...
+High pressure moves offshore on Wednesday, but remains in control 
+through the short term period. The upper level ridge continues 
+to build in and heights rise steadily through Thursday before 
+the axis shifts through.
+
+Hot and humid conditions return, with Thursday looking like the 
+potential start of heat headlines. Stuck with NBM temperatures and 
+dewpoints as dewpoints actually look more reasonable than they
+have been, upper 60s to low 70s. These dewpoints, with highs in
+the upper 80s to low 90s, will result in max apparent 
+temperatures of 95 to 100 for most locations other than eastern 
+LI and eastern CT.
+
+The pressure gradient tightens a bit on Thursday ahead of a cold 
+front and gusty conditions are expected with gusts up to 20-25
+mph.
+
+&&
+
+.LONG TERM /FRIDAY THROUGH MONDAY/...
+No significant changes to the long term forecast so the NBM was 
+generally followed.
+
+Key Messages:
+
+ * Showers & thunderstorms possible with cold front Fri/Fri night 
+then again from the front stalling to the south on the weekend.
+
+ * Heat index may exceed 100 by Friday for much of the area.
+
+A series of midlevel shortwaves pass Friday into the weekend.
+
+A low passing into east Quebec Friday moves into the North 
+Atlantic Friday night into Saturday. This low brings through a 
+cold front late Friday into Friday night. The cold front then 
+stalls south of the area into Saturday. This will bring the 
+chance for showers and thunderstorms, particularly in the 
+afternoons and early evenings Friday through Sunday.
+
+Temperatures will warm into Friday in response to the high 
+moving east and higher heights aloft. Heat index values may 
+exceed 100 for large portions of the area on Friday with some 
+spots possibly exceeding 105. This means we should see solid 
+heat advisory criteria on Friday with heat warning criteria 
+possibly being met in some areas. The heat, while lower, will 
+still be strong into Saturday with heat index values of 95-100 
+expected. Temperatures lower a bit more on Sunday with highs in 
+the middle to upper 80s.
+
+&&
+
+.AVIATION /16Z TUESDAY THROUGH SATURDAY/...
+High pressure builds in from the northwest today and remains
+overhead through tonight. The high moves off the coast 
+Wednesday.
+
+VFR through the forecast period. Low chance of MVFR ceilings
+along the coast toward Wednesday morning. Did not include in the
+TAFs at this time.
+
+Any remaining NE or E winds around 10 kt shift SE this afternoon
+and remain generally 10-15 kt or less. Afternoon to late day 
+sea breezes likely at KBDR, KGON, KJFK, and KISP. Winds light to
+light and variable tonight. Light SE/S wind pick back up after 
+14Z Wednesday around 10 kt. Some gusts to 20kt are possible
+Wednesday afternoon but not confident enough in frequency and 
+occurrence to include in the TAFs at this time.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Late day, 22Z/23Z, sea breeze likely at KJFK. Winds remain SE 
+at the other sites. Some gusts to 20kt possible Wednesday
+afternoon.
+
+.OUTLOOK FOR 18Z WEDNESDAY THROUGH SUNDAY... 
+
+Wednesday: VFR. Low chance MVFR ceilings early in the morning 
+along the coast. 
+
+Thursday: VFR. South winds G20-25kt, highest at the coast.
+
+Friday: VFR likely through morning, possibly followed by periods of 
+sub VFR in showers and thunderstorms for the afternoon and evening.
+
+Saturday: VFR with scattered showers and thunderstorms during
+the afternoon and at night.
+
+Sunday: Mainly VFR. MVFR or lower possible in any showers or
+storms during the afternoon.
+
+Detailed information, including hourly TAF wind component 
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Sub-Small Craft Advisory criteria expected through Wednesday with 
+with a relatively weak pressure gradient in place. A southwesterly
+flow picks up on Thursday ahead of an approaching cold front 
+and there is potential for 25 kt gusts on all waters, with the 
+highest confidence being of the ocean waters. Winds may approach
+SCA gusts on the waters again late Friday. Sub-SCA conditions 
+expected thereafter.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through early next week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+The rip current risk has been upgraded to moderate today as
+forecast easterly wind speeds have trended up slightly.
+WaveWatch guidance has also consistently been higher than NWPS with
+the easterly wave component so went with a blend. This
+combination looks to have the potential for a lower end moderate
+risk. For Wednesday, kept low risk for now but this may need to
+be upgraded to moderate if the expected southerly flow 
+trend higher.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...MET/JT
+NEAR TERM...JE/JT
+SHORT TERM...JT
+LONG TERM...MET
+AVIATION...MW
+MARINE...MET/JT
+HYDROLOGY...MET/JT
+TIDES/COASTAL FLOODING...

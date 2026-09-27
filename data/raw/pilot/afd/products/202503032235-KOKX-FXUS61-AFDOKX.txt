@@ -1,0 +1,190 @@
+847 
+FXUS61 KOKX 032235
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+535 PM EST Mon Mar 3 2025
+
+.SYNOPSIS...
+High pressure shifts offshore tonight into Tuesday. Strong low 
+pressure moving through the upper Great Lakes region will send a 
+warm front through on Wednesday, followed by a cold front Thursday 
+morning. High pressure will then gradually build in as it passes to 
+the south through Friday. A weak frontal system then passes through 
+on Saturday. Weak high pressure follows for Sunday and Monday.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM TUESDAY MORNING/...
+The forecast is mostly on track. Just some minor adjustments
+made to hourly temperatures and dewpoints based on the latest
+obs and trends.
+
+High pressure shifts offshore tonight, resulting in a very weak 
+return flow. Tricky temperature forecast tonight. While winds will 
+be light, there will be the southerly component to them. Also, mid 
+and high level clouds start to move into the area very late tonight. 
+Previous forecast was colder than the newer MOS guidance, so have 
+trended the forecast a bit warmer. This gives lows in the upper 
+teens in the usual cold spots and lows in the 20s to low 30s 
+elsewhere.
+
+&&
+
+.SHORT TERM /6 AM TUESDAY MORNING THROUGH WEDNESDAY NIGHT/...
+Strong low pressure approaches from the west on Tuesday. The 
+daylight hours will be dry, with the southerly flow gradually 
+increasing and broken mid to high level clouds around. Strong warm 
+advection kicks in and high temperatures look to reach the 50s 
+across northeast NJ, the Lower Hudson Valley and NYC, with the 
+middle to upper 40s expected across LI and southern CT with more of 
+the marine influence.
+
+As the strong low tracks to our northwest, it will bring a warm 
+front through on Wednesday and a cold front by early Thursday 
+morning. Light overrunning rain likely starts ahead of the warm 
+front Tuesday night. A period of more steady and heavier rain is 
+expected sometime between Wednesday afternoon into early Wednesday 
+night out ahead of the cold front. Deep strong lift combines with 
+anomalous moisture to bring the chance of moderate to locally heavy 
+rain showers. The strong southerly flow will bring in a plume of 
+moisture characterized by pwats around 1.25 inches and dewpoints in 
+the lower 50s. Per SPC's Sounding Climatology Page, this pwat value 
+would be higher than the max moving average and the daily max for 
+the OKX 3/6 00z upper air sounding. At this time, flooding is not 
+expected, but rainfall rates of 1/2 to 3/4 of an inch in an hour 
+could lead to some nuisance urban and poor drainage flooding.
+
+Strong winds are also possible with this system. A LLJ peaks over 
+the area Wednesday evening through early Wednesday night with 60 to 
+70 knots at 925mb. There is an inversion in place, and the question 
+is exactly how much can mix down. Taking 50-60% of the 925 LLJ 
+leaves us just short of Wind Advisory criteria over Long Island at 
+this time.
+
+There does look to be weak instability aloft. Will leave slight 
+chance of thunder in for now for western locations late 
+Wednesday afternoon and early evening.
+
+&&
+
+.LONG TERM /THURSDAY THROUGH MONDAY/...
+Cyclonic flow aloft in the wake of the departing cold front 
+maintains a chance of a shower mainly north of city during Thursday. 
+After a lull in winds, W to NW gusts begin to pick up as early as 
+late in the day, but more so Thursday night as the pressure gradient 
+tightens over the region. Gusts 30-35 mph anticipated during the 
+night into Friday morning, then winds subside Friday afternoon as 
+the pressure gradient weakens. High temperatures for both Thursday 
+and Friday above normal. 
+
+A weak low center then approaches late Friday night and passes 
+through during Saturday. Slight chance PoPs for this period. Any 
+precip would be light and would likely be in the form rain at the 
+coast and a rain/snow mix inland. 
+
+The most likely scenario for Sunday appears to be another area of 
+low pressure emerging off the east coast, but this time in the 
+vicinity of the Carolinas. Only the 12z GFS introduces a scenario 
+where this low passes just south of the forecast area as a southern 
+stream shortwave attempts to phase with northern stream energy. All 
+other guidance supports the low passing well off to our south. Will 
+therefore continue with a dry forecast for Sunday, especially with 
+this being only first GFS run to show this alternate scenario. Weak 
+high pressure then keeps dry weather in the forecast through Monday.
+
+&&
+
+.AVIATION /00Z TUESDAY THROUGH SATURDAY/...
+High pres builds over the Atlc thru Tue.
+
+VFR thru the TAF period.
+
+SW flow tngt. Winds generally aob 11kt, but a few gusts possible 
+thru 00Z particularly NYC terminals. Winds back to the SSW on Tue, 
+with increasing speeds in the aftn. Some gusts to around 20-25 kt 
+possible. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Ocnl gusts possible thru 00Z.
+
+.OUTLOOK FOR 18Z TUESDAY THROUGH SATURDAY...
+
+Rest of Tuesday: Becoming MVFR Tue ngt. SSW flow increasing thru the 
+period, especially aloft with LLWS possible aft 6Z Wed.
+
+Wednesday: MVFR becoming IFR and lower with periods of rain. Isold 
+tstms possible. LLWS can be expected. SSW winds 20-30 kt with some 
+gusts around 40kt, especially S shore. 
+
+Thursday: Mainly VFR with gusty W flow.
+
+Friday: VFR with W flow.
+
+Saturday: VFR with NW flow.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+High pressure shifts offshore tonight into Tuesday and results in a 
+southerly return flow. The flow strengthens ahead of an approaching 
+frontal system, with SCA criteria expected on the ocean waters by 1 
+PM Tuesday. The flow continues to strengthen, and by 1 PM Wednesday 
+gale conditions are possible on all waters. There is now a Gale 
+Watch in effect for all waters. Peak wind gusts are expected 
+Wednesday evening, with gusts up to 40 kt possible. Peak seas on the 
+ocean will be late Wednesday night into Thursday morning, up to 14 
+feet. Waves on the northern half of the LI Sound look to top out 
+around 5 feet.
+
+Winds may briefly subside below SCA levels Thursday morning but 
+should increase again in the afternoon and evening with a steepening 
+pressure gradient. SCA conditions are likely Thursday night into 
+Friday with potential of gales, especially on the ocean waters, and 
+lasting into Friday morning. Winds should start to weaken late 
+Friday and may fall below SCA levels late Friday night. Seas will be 
+hazardous between 8-12 ft on the ocean Thursday into Friday morning 
+and then subside closer to 5 ft Friday night. Waves on the LI Sound 
+may build to 3-6 ft Thursday night. A westerly flow near 15 kt then 
+sustains sub-advisory conditions through Saturday.
+
+&&
+
+.HYDROLOGY...
+A frontal system impacting the region Wednesday and Wednesday night 
+should produce QPF of 1.0 to 1.5 inches, with the higher totals 
+expected inland. Rainfall rates could approach 1/2 to 3/4 inch in 
+spots at the time of heaviest rainfall, which would lead to nuisance 
+urban and poor drainage flooding.
+
+No hydrological impacts are expected thereafter.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Gale Watch from Wednesday afternoon through late Wednesday 
+     night for ANZ331-332-335-338-340-345.
+     Small Craft Advisory from 1 PM Tuesday to 6 AM EST Wednesday 
+     for ANZ350-353-355.
+     Gale Watch from Wednesday morning through late Wednesday night 
+     for ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JC/JT
+NEAR TERM...JT
+SHORT TERM...JT
+LONG TERM...JC
+AVIATION...JMC
+MARINE...JC/JT
+HYDROLOGY...JC/JT

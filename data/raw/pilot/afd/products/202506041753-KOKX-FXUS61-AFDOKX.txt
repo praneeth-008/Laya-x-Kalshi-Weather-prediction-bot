@@ -1,0 +1,205 @@
+820 
+FXUS61 KOKX 041753
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+Issued by National Weather Service Mount Holly NJ
+153 PM EDT Wed Jun 4 2025
+
+.SYNOPSIS...
+Offshore high pressure remains in place through early Thursday.
+Thereafter, multiple areas of low pressure approach and move
+near the area going through the weekend and into early next week.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+High pressure stays in control offshore. South to southwest 
+flow for all locations going into early this afternoon. 
+Expecting winds to become gusty along the coast, especially Long
+Island by mid to late this afternoon.
+
+Smoke aloft making its way east across the region, now mainly 
+over Long Island and Southern Connecticut going into early this 
+afternoon as indicated by visible satellite. Smoke aloft expected
+to continue moving east, eventually east of the area by tonight
+according to HRRR.
+
+Temperatures were running earlier a few degrees less than
+forecast with smoke aloft being more prevalent and mitigating
+total sunshine. With smoke aloft moving east, should see more
+sun for this afternoon, allowing for temperatures to rebound. 
+
+Max temperatures were only slightly adjusted to account for
+recent trends. Made Eastern Long Island slightly warmer and
+Southwest Connecticut coast slightly cooler. Basically,
+southern coastline stays in the 70s while for NYC Metro, 
+interior and northern parts of Long Island, more 80s can be
+expected.
+
+For tonight, high pressure remains offshore but weakens. Sky
+conditions initially are mostly clear but an increase in clouds
+is expected overnight. Guidance not indicating too much in the
+way of low level clouds or fog overnight into early Thursday.
+Cloud increase will be upper level clouds. With surface flow
+remaining SW and the cloud increase, used consensus of short
+term guidance for a relatively warmer solution. Lows tonight
+into early Thursday stay mainly in the 60s.
+
+&&
+
+.SHORT TERM /THURSDAY/...
+Thursday, again, slight increase in 850mb temperatures so 
+warming trend at the surface. However one mitigating factor will
+be increasing clouds ahead of low pressure both from the west 
+and from the south. Still expect highs to get well into 80s 
+except along coast where highs will be near 80.
+
+Dry conditions continue Thursday.
+
+&&
+
+.LONG TERM /THURSDAY NIGHT THROUGH WEDNESDAY/...
+The synoptic ridge pattern gradually shifts to more of a trough
+structure with rain eventually returning to the forecast late 
+week, for parts of the weekend as well as early next week. 
+
+A cold front approaches from the west Thursday through early 
+Friday. The front then returns back north thereafter and slows 
+down heading into the weekend. This will become part of another 
+low pressure system approaching from the southwest. This low's 
+associated cold front moves near the area for the first half of 
+the weekend with additional low pressure development along it.
+
+The low and cold front move east of the area Sunday into Sunday
+but another low and associated frontal system move near the area
+for early next week.
+
+Mainly dry conditions for Thursday night.
+
+For Long Island and Southeast CT, possible patchy fog and low 
+level stratus again for late Thursday night into Friday morning.
+
+Showers and thunderstorms more probable Friday through Friday night. 
+Closer to the coast, thunderstorms mostly slight chance with more 
+maritime influence.
+
+Highest chances of showers Saturday through Saturday night. 
+Thunderstorms possible as well, but relatively higher chance away 
+from the coast.
+
+Chances for showers decrease Sunday into Sunday night but increase 
+thereafter for early next week.
+
+Think fog will be more prevalent late Friday night into 
+Saturday morning, have patchy fog for entire area.
+
+For rest of temperatures, another quite warm day forecast Friday
+with highs well into the 80s but relatively cooler trend 
+thereafter for weekend into early next week with daytime highs 
+more in the 70s. Flow becomes more northerly Sunday and then
+more easterly early next week.
+
+&&
+
+.AVIATION /18Z WEDNESDAY THROUGH MONDAY/...
+High pressure remains offshore through tonight.
+
+VFR conditions are forecast through the TAF period.
+
+Winds are mainly south to southwest near 10 to 15 kt this 
+afternoon into early evening with occasional gusts to 20 kt.
+Some locations have more southeast flow such as KEWR and KBDR.
+
+Winds diminish to around 5 kt or less tonight and remain 
+generally southwest although some terminals away from NYC will 
+have more variable wind direction.
+
+Smoke aloft from Canadian wildfires making its way east of NYC
+terminals going into late this afternoon into the evening. The
+smoke aloft shifts east of the area tonight. However, low level
+visibility will not be impacted.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Gusts in the TAF may just be occasional.
+
+.OUTLOOK FOR 18Z THURSDAY THROUGH MONDAY... 
+
+Thursday: Possible brief MVFR/IFR east of NYC
+terminals early Thursday morning in fog/stratus. SW wind gusts 
+15-20kt Thursday afternoon into early evening.
+
+Friday: Possible MVFR/IFR with chance of showers/tstms. 
+Possible brief MVFR/IFR east of NYC terminals early Friday 
+morning in fog/stratus. 
+
+Saturday: Possible MVFR/IFR with showers likely. Chance of 
+tstms. Patchy fog early Saturday.
+
+Sunday: Possible MVFR/IFR with a chance of showers.
+
+Monday: VFR initially, then possible showers with MVFR 
+possible afternoon into night.
+
+Detailed information, including hourly TAF wind component 
+forecast, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+No changes to winds and seas at this time.
+
+Conditions expected to remain below SCA thresholds on all 
+waters through Friday night. Gusts to 20 kt develop each day on 
+most waters mid to late week. Some occasional 25 kt gusts will 
+be possible.
+
+Winds remain below SCA thresholds thereafter through the
+upcoming weekend. However, with the continued SW fetch, seas
+will build on the ocean with the forecast showing some 5 ft
+ocean seas for this weekend. So, SCA will be possible.
+
+&&
+
+.HYDROLOGY...
+No hydrologic concerns through Thursday. Thereafter, with an
+increasingly humid and warm airmass in place, layer PW gradually
+increase. PW values approach 1.5 inches Thursday night and
+eventually reach near 1.75 inches Saturday. This will allow for
+any thunderstorms to easily produce heavy downpours. This would
+lead to potential minor flooding in low lying, urban, and poor 
+drainage areas with excessive runoff. There is a marginal flood 
+risk for Saturday through Saturday night.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+There is a low risk for the development of rip currents at the
+NYC, Nassau, and Southwestern Suffolk ocean beaches today, and 
+a moderate risk at the Southeastern Suffolk ocean beaches. A 
+moderate risk is forecast for Thursday at all the ocean beaches.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Air Quality Alert until 11 PM EDT this evening for CTZ005>011.
+NY...Air Quality Alert until 11 PM EDT this evening for NYZ067>075-
+     176-178.
+NJ...Air Quality Alert until 11 PM EDT this evening for NJZ002-004-
+     006-103>108.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JM
+NEAR TERM...JM
+SHORT TERM...JM
+LONG TERM...JM
+AVIATION...JM
+MARINE...JM/MET
+HYDROLOGY...JM
+TIDES/COASTAL FLOODING...

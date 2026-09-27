@@ -1,0 +1,193 @@
+813 
+FXUS61 KOKX 101923
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+323 PM EDT Tue Jun 10 2025
+
+.SYNOPSIS...
+A cold front moves through this evening followed by weak high 
+pressure building in across the area for the rest of tonight 
+through midweek into Thursday. Another cold front passes through 
+Thursday night into early Friday and then becomes nearly 
+stationary near the region into early next week.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Much of the showers and isolated storms are continuing to push
+east this afternoon and evening ahead of the surface cold front
+expected to move through this evening. 
+
+Given the ample cloud cover today, there hasn't been much in 
+the way of surface heating to generate a lot of instability. 
+There will be a brief break in the clouds behind the departing 
+showers where some weak instability may develop enough to 
+sustain a few isolated storms with the approach of the cold 
+front from the west. The best chance to see any additional 
+showers or storms will be mainly for the western portion of the 
+CWA, specifically the Lower Hudson Valley. 
+
+While not likely, a strong to locally severe storm isn't
+completely ruled out through early this evening. Any shower or
+storm should dissipate quickly by or shortly after sunset as the
+environment becomes more stable. Some residual fog is possible
+tonight as light winds and ample BL moisture from preceding rain
+may be difficult to scour out until tomorrow morning. Lows
+tonight will be in the upper 50s to the middle 60s.
+
+&&
+
+.SHORT TERM /WEDNESDAY THROUGH WEDNESDAY NIGHT/...
+Skies will be generally clearing behind the departing cold front
+to the east by Wednesday morning. Upper level flow should become
+more zonal as the trough begins to pull out of the area. This 
+should allow for heights to rise and surface high pressure to 
+build into the area. A light westerly wind with ample sunshine
+will allow for a fairly dramatic rise in temperatures for much
+of the area. Highs tomorrow will be in the 80s everywhere with
+the warmest spots near the NYC metro rising into the upper 80s.
+A drop in dew points should allow heat index values to remain
+close to the air temperature.
+
+High pressure continues to build into the area by Wednesday
+night allowing for generally light W/SW flow through the night.
+Temperatures will remain fairly warm with low temperatures
+across the area in the middle 60s with the NYC metro possibly 
+not dropping out of the low 70s.
+
+&&
+
+.LONG TERM /THURSDAY THROUGH MONDAY/...
+Surface high pressure will remain over there region Thursday with 
+mostly dry conditions during the daytime. It will be the warmest day 
+of the week with temperatures in the 80s and lower 90s. Can not rule 
+out a few mid 90s across the NYC/NJ Metro areas. 
+
+A cold front is forecast to move through the region late Thursday 
+night into early Friday morning, and then become nearly stationary 
+to the south of the area, through the Mid Atlantic region and the 
+Delmarva, into early next week. The front may set off a few showers 
+and thunderstorms as it moves across the region. Will carry just 
+some slight chance POPs for now. 
+
+Aloft, a mid and upper level trough, will remain across eastern 
+Canada, and into Northern New England, with a nearly zonal flow 
+across the Midwest, and into the Northeast, and Mid Atlantic region. 
+There is some uncertainty as to how far south the frontal boundary 
+will setup. 
+
+A series of waves of low pressure are expected to track along the 
+frontal boundary. The main question will be exactly how far south 
+the front moves. This will have an impact on how much precipitation 
+we see this weekend. The NBM has chance POPS each period from Friday 
+night through Tuesday, while each day should not be a rainout.
+
+Also, the placement of the boundary will affect temperatures, mainly 
+Saturday through the end of the forecast and is noted with the 
+uncertainty in highs and low seen in the spread of possibilities 
+with the NBM guidance. As a result of the uncertainty, and no 
+targets of opportunity, have stayed close to the NBM deterministic 
+guidance.
+
+&&
+
+.AVIATION /19Z TUESDAY THROUGH SUNDAY/...
+A cold front moves through this evening. Weak high pressure
+builds in thereafter.
+
+Continued improvement is expected with VFR for NYC terminals and
+west by the late afternoon. A few hours later for BDR and ISP 
+and likely not until this evening for GON.
+
+Shower and thunderstorm activity is now mainly east of the
+terminals. A cold front then approaches this evening bringing 
+another chance of showers and thunderstorms, with isolated 
+coverage at best. Confidence has lowered in thunder for JFK and
+LGA so have replaced VCTS with VCSH. Showers and thunderstorms 
+will weaken as they head farther east.
+
+Winds will primarily be light from the E or VRB until the front
+approaches from the west this evening, allowing winds to shift 
+to the W to SW, then W to WNW after 00Z (later for eastern 
+terminals. The flow will be weak, and winds may go light and 
+variable across most, if not all terminals tonight. Sea breeze 
+on Wednesday for at least JFK, ISP, BDR and GON. Confidence is 
+low at this time for other terminals.
+
+     NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Amendments likely throughout the entire TAF period for changing
+flight categories.
+
+Confidence in thunder has decreased for JFK and LGA so have
+replaced VCTS with VCSH. However, an isolated thunderstorm can 
+not be completely ruled out.
+
+.OUTLOOK FOR 18Z WEDNESDAY THROUGH SUNDAY... 
+
+Wednesday - Thursday: VFR with gusty W flow. 
+
+Friday: VFR except in scattered showers and thunderstorms.
+
+Saturday - Sunday: MVFR cigs or lower likely with chance of 
+showers.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+SCA conditions develop tonight into Wednesday morning over 
+parts of the ocean, east of Fire Island Inlet. Otherwise sub- 
+SCA conditions are forecast for rest of ocean and non-ocean 
+waters for the short term through Wednesday. For Wednesday 
+afternoon, all waters forecast to be below SCA.
+
+With a weak pressure gradient force expected across the forecast 
+waters, as a frontal boundary remains in the vicinity of the ocean 
+waters, winds and seas are expected to remain below SCA levels
+thereafter through the rest of the week.
+
+&&
+
+.HYDROLOGY...
+Other than localized poor drainage flooding concerns with any
+briefly heavy thunderstorms this afternoon, no widespread 
+hydrologic impacts are expected through next Tuesday.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+A moderate risk for rip current development remains through this 
+evening at ocean beaches.
+
+The moderate risk for rip current development continues Wednesday 
+and Thursday at ocean beaches. Winds will be S-SSW 10-15 kt on 
+Wednesday with seas around 4 ft and a 7-8 second period. Winds will 
+be a bit weaker on Thursday and may become SW with seas 3 to 4
+ft.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory from 8 PM this evening to noon EDT 
+     Wednesday for ANZ350-353.
+
+&&
+
+$$
+
+SYNOPSIS...BC/MW
+NEAR TERM...MW
+SHORT TERM...MW
+LONG TERM...BC
+AVIATION...JT
+MARINE...BC/MW
+HYDROLOGY...BC/MW
+TIDES/COASTAL FLOODING...

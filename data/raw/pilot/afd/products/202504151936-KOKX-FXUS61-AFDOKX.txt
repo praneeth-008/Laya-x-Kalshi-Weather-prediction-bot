@@ -1,0 +1,218 @@
+714 
+FXUS61 KOKX 151936
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+336 PM EDT Tue Apr 15 2025
+
+.SYNOPSIS...
+A series of weak troughs of low pressure pivot through for mid 
+week. High pressure builds Wednesday night into Thursday and 
+moves offshore early Friday. A warm front moves through Friday 
+night followed by a cold front Saturday night. High pressure 
+returns for Sunday. Another frontal system may impact the area 
+Monday into Tuesday. 
+
+&&
+
+.NEAR TERM /THROUGH WEDNESDAY/...
+For early this evening there may still be a few isolated sprinkles/ 
+showers, possibly even an isolated thundershower or two. Inverted V 
+type soundings yield the chance for some stronger gusts with any 
+stronger reflectivity / low top convection. However, with the lower 
+portion of the column getting drier overall with cold advection any 
+activity should dissipate quickly without the aid of daytime 
+heating. With a pressure gradient still in place winds will remain 
+gusty. There may be a particular hour or two where the gusts subside 
+some, but overall expect gusts to stay in place along with the 
+prospects of some gusts still up to 35 mph at times. With the winds 
+remaining in place temperatures should only get back mainly into the 
+upper 30s to lower 40s, but it will feel a good 7 to 10 degrees 
+colder with the wind.
+
+For Wednesday a deep layered W flow will continue as low pressure 
+will continue to move through the Canadian maritimes and the NW 
+Atlantic. This, along with high pressure back over the Tennessee 
+Valley the region will remain in a fairly tight pressure gradient. 
+This will keep gusty conditions in place with winds likely gusting 
+to around 30 to 35 mph throughout much of the day. A W to WNW flow 
+this time of year can typically lead to warmer than expected 
+temperatures. However, a strong cP air mass will be building across 
+and should keep temperatures below average with mainly lower half of 
+the 50s for daytime highs. With the cold pool aloft expect a good 
+deal of strat-cum yielding broken cloud cover much of the time, 
+especially further west-northwest, with intervals of scattered cloud 
+cover at times further east.
+
+&&
+
+.SHORT TERM /WEDNESDAY NIGHT THROUGH THURSDAY/...
+The pressure gradient will be slow to completely relax, thus expect 
+breezy conditions to remain in place. Although there will likely be 
+more of a relaxation at times, especially away from the coast 
+Wednesday night. The current thinking has the winds staying up 
+enough that frost formation should be avoided along with any freeze. 
+But if winds subside more than expected perhaps portions of Orange, 
+Putnam, Northwestern Passaic, and portions of Northern Fairfield 
+counties could get to freezing. Otherwise lows should primarily be 
+in the upper half of the 30s to around 40 under partly cloudy to 
+mostly clear skies.
+
+For Thursday it will not be as windy as the previous few days, but a 
+breeze out of the WNW should linger through the early afternoon. 
+High pressure will continue to gradually build in with the winds 
+gradually subsiding for the afternoon into the evening. There will 
+be plenty of sunshine due to synoptic scale sinking motion and some 
+subsidence provided by a WNW wind. With air mass modification expect 
+temperatures to recover into the upper half of the 50s and lower 
+60s. 
+
+&&
+
+.LONG TERM /THURSDAY NIGHT THROUGH TUESDAY/...
+Key Messages:
+
+ * Quiet, cool, and dry Thursday night under high pressure.
+
+ * A frontal system brings isolated to scattered light showers 
+   Friday afternoon into early Saturday night. 
+
+ * A warm front leads to highs in the 70s to near 80 in some spots 
+   Saturday. 
+
+ * Average temps and dry weather Sunday under high pressure. 
+
+ * Another frontal system brings another shot at wet weather Monday 
+   into Tuesday.
+
+An upper-level ridge builds Thursday night and remains through the 
+weekend before a longwave upper-level trough with an associated 
+shortwave impact us Monday into Tuesday. 
+
+At the surface, high pressure dominates Thursday night, positioned 
+to our south. This brings mainly clear skies, light winds, and cool 
+temperatures Thursday night with lows in the low-30s to low-40s.
+
+Friday through Saturday, a frontal system moves through the northern 
+Great Lakes into Ontario then into Quebec. This brings a warm front 
+through Friday night followed by a cold front Saturday night. 
+
+Along the warm front, isolated to scattered light showers are 
+expected Friday afternoon and may linger on-and-off through Saturday 
+before the cold front. The warm front along with very high heights 
+aloft help contribute to strong warm air advection. Highs Saturday 
+are currently projected to be in the low-70s to near 80, except out 
+east on Long Island and SE CT where highs may only reach the low/mid-
+60s. Lows also look warmer due to the warm front passage Friday 
+night in the mid-40s to mid-50s. 
+
+A few more showers are possible as a cold front passes Saturday 
+night, before things dry out into Sunday with weak high pressure 
+returning at the surface. On Sunday, highs bounce back closer to 
+climatological norms in the low-60s to upper-50s.
+
+Timing and placement of another frontal system expected to impact us 
+Monday into Tuesday still varies among the available 12Z global 
+guidance. For now, sticking with chance POPs during this time frame 
+with temperatures close to climatological norms.
+
+&&
+
+.AVIATION /20Z TUESDAY THROUGH SUNDAY/...
+A cold front continues moving across the terminals this afternoon. 
+High pressure then gradually builds in through Wednesday.
+
+VFR through the TAF period. 
+
+SW-W winds will continue to increase for the remainder of the 
+afternoon, becoming 15-25 kt with gusts 30-35 kt. Winds will then 
+settle to the W becoming 15-25 kt with gusts 30-35 kt. Showers are 
+also possible late this afternoon and early evening. These showers 
+may contain stronger winds with gusts 40-45 kt, especially from the 
+NYC metro terminals on NW. Have handled this potential with a 
+PROB30, mainly from 20z-00z. The shower potential diminishes by 01z. 
+
+W-WNW winds will remain gusty overnight, 25-30 kt, although some 
+outlying terminals could see gusts briefly end or weaken early 
+Wednesday morning. WNW winds around 20 kt with gusts around 30 kt 
+expected on Wednesday. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Gusts 40-45 kt possible in scattered showers 20z-00z. An isolated 
+thunderstorm also possible during this time frame. 
+
+Sustained winds and gusts likely weaken somewhat overnight, but 
+gusts could still reach 30 kt at times. 
+
+.OUTLOOK FOR 18Z WEDNESDAY THROUGH SUNDAY...
+
+Wednesday Afternoon-Night: VFR. WNW winds G25-30kt in the afternoon 
+and early evening, diminishing at night.
+
+Thursday: VFR. NW winds G15-20kt.
+
+Friday: Mainly VFR. Chance of showers late afternoon and night, 
+mainly inland. S winds G15-20kt.
+
+Saturday: Mainly VFR. Chance of showers, mainly inland. SW winds G20-
+25kt.
+
+Sunday: VFR. NW wind gusts 15-20 kt possible.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+There remains the potential for short fused Marine Weather 
+Statements with any low top convection that attempts to fire up 
+early this evening. Gale Warnings are in place for all waters 
+through tonight. Confidence overall has increased some for gale 
+force gusts during portions of this evening and tonight. Small craft 
+conditions out east ramp up to low end gales towards late evening. 
+Still a tricky wind forecast in terms of the total duration of gales 
+beginning very late this afternoon and not only through tonight, but 
+even into Wednesday. For now only have the Gale warning going 
+through 10z, but this can be re-evaluated later. There looks to be 
+at least 3 to 4 hours where gales are expected. Gusts continue into 
+Wednesday but may be more marginal in terms of gales, at least more 
+marginal at times. Into Wednesday night some waters will be hovering 
+around SCA criteria, although peak gusts do lower. Sub- SCA 
+conditions become more prevalent later Thursday into Thursday night.
+
+Sub-SCA conditions are expected on Friday. Friday night, winds 
+and waves climb to SCA levels on ocean waters. Winds gust 
+25-30kt Friday night through Saturday on ocean waters. They drop
+below 25kt Saturday night. Waves climb 5-7 ft Friday night and 
+stay above 5 ft through Saturday night on ocean waters. All 
+waters will then be below SCA levels Sunday.
+
+&&
+
+.HYDROLOGY...
+At this time there are no hydrologic concerns through early next
+week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Gale Warning until 6 AM EDT Wednesday for ANZ331-332-335-338-
+     340-345-350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JE/BR
+NEAR TERM...JE
+SHORT TERM...JE
+LONG TERM...BR
+AVIATION...DS
+MARINE...JE/BR
+HYDROLOGY...JE/BR

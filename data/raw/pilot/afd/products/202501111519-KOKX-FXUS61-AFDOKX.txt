@@ -1,0 +1,154 @@
+339 
+FXUS61 KOKX 111519
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1019 AM EST Sat Jan 11 2025
+
+.SYNOPSIS...
+Low pressure will pass well south and east today. High pressure
+will then build in tonight and settle over the area on Sunday
+before weakening on Monday. A pair of cold fronts will move
+across from Monday night into Wednesday. High pressure will
+build in from Thursday into Friday. 
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Radar and sfc obs show light snow confined mostly to SE CT and 
+the forks of Long Island, with just lingering flurries there and
+in a few spots across the Hudson Valley and interior SW CT into
+early afternoon. Snowfall accumulations look to be an inch 
+across some parts of interior S CT, to under a half inch most 
+elsewhere. 
+
+Dry conditions should prevail this afternoon, with skies
+remaining mostly cloudy as the northern stream trough and 
+energy swing across. Temperatures should rise into the lower/mid
+30s. Northwest winds will also increase with gusts to 20-25 mph
+possible late in the day. 
+
+The region will then lie between the departing low offshore and 
+high pressure building in the from the south and west. A brisk
+NW wind continue, with frequent gusts at 20-25 mph mainly closer
+to the coast. Low temperatures fall to the lower/mid 20s for 
+most spots and to the upper 20s in the NYC metro. 
+
+&&
+
+.SHORT TERM /SUNDAY THROUGH MONDAY NIGHT/...
+High pressure will be in control both at the surface and aloft
+into Sunday night as an upper ridge settles over the region. 
+This will allow for dry conditions, weak winds and temperatures 
+to at or just above normal. Highs will be in the upper 30s to 
+around 40. Lows Sunday night will be near normal, in the 20s for
+most spots, and around 30 in the NYC metro. 
+
+The ridge axis moves offshore on Monday with the surface high
+weakening over the area. A closed upper low will swing across
+the Great Lakes late day Mon into Mon night, sending a cold
+front across. Based on the latest global model and ensemble 
+consensus, the front should be moving through or just east of
+the area late Mon night into early Tue morning. A nearly zonal
+flow aloft will prevent moisture return, so other than a slight
+increase in clouds, the front will move through dry. CAA kicks
+in behind the front with temperatures and dew points starting 
+to fall by daybreak Tuesday. W winds will also shift to the NW and
+start increasing by daybreak as well. 
+
+&&
+
+.LONG TERM /TUESDAY THROUGH FRIDAY/...
+Key Point(s):
+
+* Dry and seasonably cold weather prevails.
+
+The basic premise of a Western CONUS ridge and Eastern CONUS
+trough continues into the long term period. There may be some 
+transient upper level ridging into the Eastern seaboard and our 
+region towards the tail end of the period as NWP consensus 
+attempts to pull the upper level trough back a bit further west 
+towards the start of next weekend. Essentially a dry and cold 
+period with reinforcements of cP air arriving from the Canadian 
+prairies. The mid week period will be the coldest in the 
+extended as day time temperatures will struggle to get to 
+freezing at the coast for a multi-day period, which will likely 
+be Wednesday and Thursday. Wednesday will likely be the coldest 
+day of the period, especially when you factor in the wind as the
+500 mb upper low and vort max swings through late Tue and in 
+its wake the pressure gradient is likely to be strongest into 
+the day Wednesday. Wednesday's wind chills may not get out of 
+the teens. Otherwise predominantly dry with sub chance PoP
+through at least the start of next weekend.
+
+&&
+
+.AVIATION /15Z SATURDAY THROUGH WEDNESDAY/...
+Low moving well offshore. High pressure starts to build in from
+the west. Light snow tapering off. Leftover low ceilings at 
+mainly MVFR levels but some terminals are just into VFR and some
+locally lower near the IFR level. Expecting a return to VFR 
+from west to west going into this afternoon. VFR continues 
+tonight through the rest of the TAF period.
+
+Winds becoming NW near 5-10 kt going into this afternoon. Winds
+pick up late this afternoon to 10-15 kt with gusts near 20-25 
+kt. The gusty winds continue tonight.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+VFR conditions may return earlier than what is reflected in 
+TAFs. 
+
+OUTLOOK FOR 12Z SUNDAY THROUGH WEDNESDAY...
+
+Sunday-Monday: VFR.
+
+Tuesday-Wednesday: VFR. NW wind gusts 20-30 kt.
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Mostly tranquil conditions this morning as light snow ends out
+east. Winds will begin to increase this afternoon with wind 
+gusts reaching 25-30 kt on the ocean this evening into tonight. 
+Winds likely average around 20 kt on the non-ocean waters, but 
+there is chance for 25 kt gusts on the eastern Sound as well.
+Winds weaken on Sunday and will remain below SCA levels through
+Mon. Marginal SCA winds are possible on the ocean by late 
+Mon night. 
+
+SCA cond likely to redevelop on Tue and continue through Wed or
+Wed night before subsiding towards Thursday morning. A period of
+gales is possible, especially out on the ocean waters Tue night
+into a portion of Wed. 
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns attm. 
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory from 6 PM this evening to 6 AM EST Sunday 
+     for ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JE/BG/DS
+NEAR TERM...BG
+SHORT TERM...DS
+LONG TERM...JE
+AVIATION...JM/JE
+MARINE...JE/BG/DS
+HYDROLOGY...JE/BG/DS

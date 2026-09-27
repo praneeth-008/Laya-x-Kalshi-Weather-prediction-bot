@@ -1,0 +1,188 @@
+887 
+FXUS61 KOKX 250351
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1051 PM EST Fri Jan 24 2025
+
+.SYNOPSIS...
+High pressure builds in from the southwest late tonight into 
+the morning, then shift east of the area later in the day.
+A frontal system moves across Sunday. A pair of cold fronts 
+moves across for mid week with a weak low possibly on the second
+cold front moving through quickly. High pressure builds for 
+late in the week.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM SATURDAY MORNING/...
+Once again another challenging night on where lows will finally
+settle with generally clear skies and light winds. Have dropped
+lows across the interior with single digit lows encompassing a 
+larger area. Coastal locations will drop into the teens except
+for the lower 20s NYC metro. Otherwise, high pressure builds in
+from the southwest overnight. 
+
+&&
+
+.SHORT TERM /6 AM SATURDAY MORNING THROUGH SUNDAY/...
+High pressure will continue building in from the west on Saturday. 
+Surface winds become more westerly with more SW direction switch 
+later in the day. Max temperatures are forecast to be slightly 
+colder than those of the previous day, lower 30s along the coast and 
+upper 20s across the interior.
+
+For Saturday night, clouds will be on the increase as an upper level 
+shortwave and surface frontal system approach from the north and 
+west. This will mitigate the radiational cooling. Winds lighten 
+across the interior but remain nearly steady along the coast from 
+the southwest. Less of a spatial range in low temperatures expected 
+with upper teens across parts of the interior to upper 20s within 
+much of NYC using a consensus of MOS.
+
+For Sunday, the upper level shortwave moves across as does a surface 
+frontal system. This disturbance will be lacking moisture and have 
+most positive vorticity advection north of the area. As a result, 
+the vertical forcing for the local region will be weaker and the 
+forecast just has an increase in clouds and a slight chance of snow 
+showers for eastern sections as they will be closer to the positive 
+vorticity advection. 
+
+High temperatures forecast on Sunday from a consensus of MOS range 
+from the upper 30s across much of the interior to lower 40s along 
+much of the coast. Models indicate warmer 850mb temperatures 
+compared to the previous day and the pressure gradient will be 
+tighter, allowing for a deeper westerly flow that will allow for 
+more mixing as westerly winds will be more breezy. Highs will 
+probably be established by early afternoon and then be more steady 
+as cold air advection increases mid to late afternoon.
+
+&&
+
+.LONG TERM /SUNDAY NIGHT THROUGH FRIDAY/...
+A dry and seasonable weather regime prevails in the long term. It 
+likely turns colder later in the period as temperatures may dip back 
+below seasonal levels getting towards late Wed through Fri.
+
+The northern branch of the jet stream will remain dominant 
+throughout. With energy closed off in the southern branch across the 
+SW CONUS there should continue to be the lack of a moisture source 
+for the northern branch to work with. The polar jet stream is 
+expected to remain nearby throughout the period.
+
+The question throughout this period revolves around uncertainty 
+around the degree and timing of another shot of cold air and the 
+potential return of below normal temperatures. The National Blend of 
+Models (NBM) continues to show an substantial increase in spread 
+with temperatures beginning Tuesday night and through the late week 
+timeframe. As far as the details a pair of cold fronts arrives with 
+more of a traditional polar boundary as advertised by the GFS and 
+DWD global deterministic guidance for Tuesday. The ECMWF and GEM are 
+a bit delayed with any frontal boundary on Tuesday. Towards late 
+Wednesday the global deterministic guidance comes into better 
+agreement with a stronger boundary slipping further south than its 
+predecessor and arriving sometime Wednesday or possibly Wednesday 
+night. The NBM shows a downward trend in temperatures Wednesday 
+night through the first half of Friday. However the spread in 
+temperatures and thus the uncertainty increases earlier than that 
+for late Tue. This is mainly due to the progression of the first 
+cold frontal boundary. In any event, the boundary should be moisture 
+starved with a dry air mass out in front of it. Given the large 
+uncertainty with temperatures later in the week did follow NBM / 
+Consensus blended guidance closely. If the colder cluster of the 
+ensemble guidance is correct, then single digit to around zero wind 
+chills may return towards Thursday and Thursday night.
+
+&&
+
+.AVIATION /04Z SATURDAY THROUGH WEDNESDAY/...
+High pressure builds in from the southwest late tonight into 
+the morning, then shifts east of the area later on Saturday.
+
+VFR. Mid and upper deck lowers Saturday afternoon and evening. 
+
+Winds will generally be light and variable to light N-NW. Winds
+will then shift to the SW around 10 kt late morning into the 
+early afternoon with gusts up to 20kt possible.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Winds direction may be highly variable overnight at light 
+speeds. 
+
+Gusts may be more occasional than frequent on Saturday.
+
+.OUTLOOK FOR 00Z SUNDAY THROUGH WEDNESDAY...
+
+Saturday Night: VFR. 
+
+Sunday-Tuesday: VFR. W-WSW gusts 20-25 kt.
+
+Wednesday: Chance of MVFR or lower in snow showers. W gusts
+20-25kt. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Expecting a prevalence of sub-SCA conditions on the forecast marine 
+zones through Saturday morning with a weak pressure gradient in 
+place. 
+
+Winds and ocean seas then increase as pressure gradient tightens 
+between departing high pressure and incoming low pressure to the 
+north and west Saturday into Saturday night. Some 25 kt gusts 
+are forecast late day on the ocean, but frequency just expected 
+to be occasional. Gusts to 25 to 30 kt expected to become more 
+frequent on the ocean Saturday night. Ocean seas also forecast 
+to build to near 5 ft Saturday night.
+
+The low stays well north of the waters on Sunday but will be in 
+closer proximity to the local waters. The pressure gradient tightens 
+between this low and another high starting to approach from the 
+south and west. More of a gusty westerly flow is expected. Gusts to 
+25 to 30 kt expected to be more widespread. Ocean seas forecast
+to build to near 6 ft Sunday.
+
+SCA is currently in effect for the ocean waters Saturday night 
+through Sunday. With SCA gusts expected to be more marginal and 
+intermittent on the non-ocean waters, held off on SCA issuance for 
+non-ocean zones.
+
+A brief period of sub advisory conditions is possible Sunday night. 
+However, small craft conditions should re-develop across all waters 
+Monday and carry into Tuesday morning on a west to west-southwest 
+wind. Late Monday and Monday night occasional gusts to gale force 
+are possible for portions of the ocean waters. Sub small craft 
+conditions should then return to the non-ocean waters by Tuesday 
+night with small craft seas likely still lingering for much of the 
+ocean into a good portion of Wednesday.
+
+&&
+
+.HYDROLOGY...
+No significant hydrologic impacts through next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory from 6 PM Saturday to 6 PM EST Sunday for 
+     ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JE/JM/DW
+NEAR TERM...JE/JM/DW
+SHORT TERM...JM
+LONG TERM...JE
+AVIATION...DW
+MARINE...JE/JM
+HYDROLOGY...DW

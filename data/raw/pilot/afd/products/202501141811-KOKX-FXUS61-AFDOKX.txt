@@ -1,0 +1,208 @@
+465 
+FXUS61 KOKX 141811
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+111 PM EST Tue Jan 14 2025
+
+.SYNOPSIS...
+A series of surface troughs pass today into tomorrow morning 
+before high pressure takes over late tomorrow into tomorrow night.
+An approaching frontal system dissipates to the west of the area 
+Thursday into Thursday night. High pressure will then briefly 
+build into the area on Friday ahead of another frontal system that
+passes through the area on Saturday. A series of frontal waves 
+will then pass near or south and east of the area late Sunday into
+Monday.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+A low pressure system in southern Quebec moves east into the 
+Canadian Maritimes today, as high pressure noses in from the 
+southwest. As the low moves further into the Canadian Maritimes, 
+the pressure gradient over our area will increase, leading to 
+increasing breezy NW flow with wind gusts tonight maxing out 
+around 25-30 mph. 
+
+Cold air advection will also aid in gusty NW flow, but also lead to 
+colder temperatures. Highs today will be in the low-30s (south and 
+east) and in the upper-20s for northwestern interior locations. Lows 
+tonight will drop into the mid-20s to upper-teens. 
+
+An midlevel trough over Michigan today will dig into the northeast 
+this evening into tonight, aiding in strong winds and cold air 
+advection. The midlevel trough will also bring some positive 
+vorticity advection. At the same time, this evening into tonight a 
+surface trough will also pass over the area. Both of these will act 
+to increase cloud cover this evening into early tonight. Dry air 
+looks to be very strong, keeping precipitation chances down. Its 
+very likely we stay dry. However, trough may allow from so lake-
+effect streamers to make it just far enough to impact the area. The 
+chances of this look low, so have kept only slim chances for 
+isolated flurries in the forecast this evening into early tonight. 
+No accumulation is expected.
+
+&&
+
+.SHORT TERM /WEDNESDAY THROUGH WEDNESDAY NIGHT/...
+An increased pressure gradient remains over the area tomorrow 
+morning as surface low pressure moves east of the Canadian Maritimes 
+and high pressure noses more into the area from the southwest. 
+Another surface trough is also expected to pass in the morning, but 
+expecting to stay dry. Breezy NW flow will continue in the morning 
+with gusts again peaking 25-30 mph. 
+
+As the mid-level trough moves east of the area offshore later in the 
+day, surface high pressure is then able to center itself more over 
+the region, leading to a decreased pressure gradient and weakening 
+winds. Mainly sunny skies are also expected as a result. Highs 
+tomorrow remain on the cold side of things in the low-30s to upper-
+20s. 
+
+A modest mid-level ridge centers itself over the northeast tomorrow 
+night in response to a larger upper-level trough digging into the 
+Great Lakes region. Lows, again, return to the low-20s to upper-
+teens tomorrow night.
+
+&&
+
+.LONG TERM /THURSDAY THROUGH TUESDAY/...
+The last in a series of shortwave troughs will drop across the 
+Northeast Thursday with the associated frontal system dissipating to 
+the west of the forecast area. Expect an increase in cloud cover 
+during the afternoon and evening hours with perhaps a chance of 
+flurries or a brief snow shower. However, have kept the forecast dry 
+at this time. The upper trough will then lift out late Thursday 
+night into Friday morning with brief upper ridging and surface high 
+pressure building across the area. This will also mark the start of 
+a short warmup with temperatures by Saturday 5 to 8 degrees above 
+normal.
+
+At the same time, Pac energy that briefly breaks down the ridge 
+across western Canada and the PAC NW along with northern branch 
+energy descending south across central Canada will carve out a 
+longwave trough encompassing much of the Lower 48 over the weekend. 
+Guidance has come into better agreement with a more progressive cold 
+front at the leading edge of the trough that tracks across the area 
+Saturday afternoon/night. Expect mainly rain showers in a 
+strengthening deep-layered southerly flow.
+
+Differences then arise with the orientation on what will be a 
+positively tilted upper trough covering most of the country. The 00Z 
+Canadian continues to dig jet energy along the backside of the upper 
+trough much farther west as compared to the ECMWF and GFS, taking 
+the energy across the intermountain west Saturday into Sunday and 
+then out into the Central Rockies by early next week. This results 
+in a strongly-tilted positive upper trough that sends waves of low 
+pressure along an arctic front toward the area early next week. 
+However, the GFS and ECMWF allow the arctic air to spread out to the 
+south and east quicker with the frontal boundary much farther south 
+and arctic high pressure encompassing much of the country east of 
+the Rockies by early next week. This scenario would keep the storm 
+track displaced well south and east. For the time, like the NBM have 
+maintained low chances for snow Sunday night into Monday. 
+
+Arctic air spills into the area Sunday night into Monday with highs 
+likely not getting above freezing on Monday.
+
+&&
+
+.AVIATION /18Z TUESDAY THROUGH SUNDAY/...
+Persistent pattern remains with low pressure to the north and east 
+and high pressure to the south and west through the TAF period. This 
+tight pressure gradient will keep gusty WNW-NW winds through the TAF 
+period.
+
+Outside of some possible snow flurries late this afternoon into this 
+evening, dry conditions are expected through the TAF period. 
+VFR conditions are expected through the TAF period as well.
+
+Winds will be generally direction 290-310 through the TAF period 
+with sustained wind speeds of near 15-20 kt and gusts near 25-30 kt. 
+Highest of winds expected this afternoon into early evening and 
+again late Wednesday morning into Wednesday afternoon with more
+of a lull in the winds for mid evening into overnight.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Wind direction could fluctuate between 300 and 320 degrees magnetic 
+through this afternoon.
+
+Peak gusts 3-5 kts higher than gusts in TAF are possible during
+the TAF period.
+
+Timing of gusts closer to 30 kt and gusts closer to 25 kt could be a 
+few hours off from TAF.
+
+.OUTLOOK FOR 18Z WEDNESDAY THROUGH SUNDAY...
+
+Wednesday afternoon-Wednesday night: VFR. NW wind gusts
+initially near 25 kt eventually lower closer to 20 kt Wednesday
+night and then eventually diminish.
+
+Thursday-Friday: VFR.
+
+Saturday: Chance for MVFR or lower at times. Chances for mainly rain 
+showers along the coast, likely rain showers all terminals in the 
+afternoon to early evening, chances for wintry mix north and west of 
+NYC terminals. SW wind gusts 15-20 kt during the day.
+
+Sunday: Chance for MVFR or lower at times with chance of snow.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+SCA conditions remain on all waters through today, tonight and into 
+the day tomorrow. Early tonight, peak wind gusts may reach 34 kts on 
+ocean waters. There is still some uncertainty if we'll achieve gale-
+force wind gusts on ocean waters tonight into early tomorrow. 
+Therefore, the Gale Watch has been maintained due to confidence 
+being too low to upgrade to a Gale Warning. Early tomorrow night 
+winds may drop below 25 kts on non-ocean waters followed by ocean 
+waters later in the night tomorrow. 
+
+Light freezing spray is possible in most of the Long Island Sound 
+and part of the ocean starting today and remains possible until 
+tomorrow night. Thereafter, winds will weaken, reducing chances for 
+freezing spray. 
+
+Expect sub-SCA conditions as a frontal system dissipates to the west 
+on Thursday and high pressure builds over the area on Friday. A 
+strong frontal system moving into the area Saturday will be preceded 
+by a strengthening S/SW flow, which could produce SCA conditions 
+Saturday night.
+
+&&
+
+.HYDROLOGY...
+No significant hydrologic impacts expected into early next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 6 PM EST Wednesday for ANZ331-332-
+     335-338-340-345.
+     Small Craft Advisory until 7 PM EST this evening for ANZ350-
+     353-355.
+     Gale Watch from 7 PM EST this evening through Wednesday 
+     morning for ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...BR/DW
+NEAR TERM...JMC/BR
+SHORT TERM...BR
+LONG TERM...DW
+AVIATION...JM
+MARINE...BR/DW
+HYDROLOGY...BR/DW

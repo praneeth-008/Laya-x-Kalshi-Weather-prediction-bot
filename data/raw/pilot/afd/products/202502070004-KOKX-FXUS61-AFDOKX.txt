@@ -1,0 +1,202 @@
+134 
+FXUS61 KOKX 070004
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+704 PM EST Thu Feb 6 2025
+
+.SYNOPSIS...
+Low pressure departs northeast as a cold front moves through
+early Friday. High pressure builds back into the area for late
+Friday into Friday night. Low pressure, passing through the 
+region, impacts the area Saturday night into Sunday afternoon. 
+High pressure returns Sunday night into Monday. A series of lows
+pass south of Long Island Tuesday through Thursday.
+
+&&
+
+.NEAR TERM /THROUGH FRIDAY/...
+With light flow and a saturated boundary layer fog was
+widespread across the region, with patchy of reducing
+visibilities to around 1/2 mile. Updated the weather to include
+the lower visibilities. Otherwise, the forecast is on track.
+
+Low pressure exits northeast tonight as high pressure 
+approaches from the west through Fri. A cold front from the 
+departing low is expected to pass early Fri. 
+
+Between the high and low, a strong pressure gradient will set up 
+on Fri and remain tight until Fri evening until high pressure
+becomes more centered over the area. 
+
+NW winds will reach their peak daytime Fri after the frontal 
+passage. Peak winds will be 15-20 mph with gusts 25-35 mph. 
+
+While the precip has ended, some fog lingers will low overcast 
+clouds. As winds start to pick up later tonight, the fog will 
+clear and clouds will become more broken. 
+
+SW winds will continue to lead to warming temperatures through
+this evening with temperatures not cooling much or remaining 
+steady into the night, from right around freezing to the upper
+30s. Highs on Fri will be in the mid 30s to lower 40s. 
+
+&&
+
+.SHORT TERM /FRIDAY NIGHT/...
+As high pressure centers over the area, NW winds go light and
+skies become mostly clear, with a few increasing clouds closer
+to daybreak. 
+
+Colder temperatures will result, with lows from the mid teens to
+mid 20s. 
+
+&&
+
+.LONG TERM /SATURDAY THROUGH THURSDAY/...
+Confidence is increasing in active period with several chances
+for wintry weather.
+
+Key Points:
+
+* Winter storm watches are in effect for the entire region from
+  Saturday night through Sunday morning. Warning level snow 
+  amounts are more likely across the Lower Hudson Valley and 
+  southern Connecticut, with warning level snow possible across 
+  northeastern New Jersey, New York City, and Long Island.
+
+* The accumulating snow may transition to a wintry mix along 
+  the coast Saturday evening into Saturday night.
+
+* A series of lows may pass south of Long Island Tuesday 
+  through Thursday with chances of snow.
+
+A fast and nearly zonal flow continues across the region
+Saturday through Thursday, bringing several lows across or 
+near the region. Guidance continues to be fairly consistent with
+the systems, especially for the low impacting the area Saturday
+night into Sunday afternoon. The main low approaches late day 
+Saturday, and transfers to the coast Saturday night. And with 
+cold air in place, and a slightly southern track snowfall totals
+have increased, especially across the inland regions. A wintry 
+mix is possible along the coast as warm air advection increases 
+Saturday night and above freezing air at 850mb nears the coast. 
+Also, with the potential of drier air moving in at the mid and 
+upper levels along the coast late Saturday night snowfall rates 
+will not be optimal with drier air in the snow growth region. 
+And, depending on the track of the mid level low colder air may 
+remain near the coast and dry air intrusion will become more 
+limited, and higher snowfall is possible. With strong upper 
+level forcing inland and in the snow growth region, and less dry
+air will lead to the higher snow totals across the interior. 
+With higher confidence in reaching warning level snowfall total 
+across the interior, and at least advisory level snow and sleet 
+totals along the coast with the potential of reaching warning 
+levels, Winter Storm Watches have been posted for the entire 
+region Saturday night through Sunday morning.
+
+A brief period of dry weather will be likely behind the storm
+from Sunday night into Monday evening. Then with the fast flow
+a series of lows may impact the region from late Monday night 
+through Thursday, with additional snowfall possible, especially 
+with the Tuesday system as cold air remains in place. 
+Temperatures through the extended period remain below normal.
+
+&&
+
+.AVIATION /00Z FRIDAY THROUGH TUESDAY/...
+Low pressure will move to the northeast this evening. A cold
+front will move across early Fri. High pressure follows 
+thereafter.
+
+IFR/LIFR cigs will persist into much of tonight. Most of these
+conditions are forecast to improve late tonight from west to
+east. 
+
+SW winds 5-10 kt (a little higher at KJFK) will persist until
+late tonight, then as the front moves through winds should
+become west late tonight, then increase to 15-20 kt with gusts
+25-30 kt after 13Z-14Z. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+AMD possible to refine timing of flight cat changes tonight. A
+few gusts over 30 kt possible 15Z-22Z Fri. 
+
+.OUTLOOK FOR 00Z SATURDAY THROUGH TUESDAY... 
+
+Friday night: VFR. NW winds 10-15G20kt in the evening,
+then diminishing to less than 10 kt. 
+
+Saturday: VFR. 
+
+Saturday night: Snow developing, with IFR vsby expected and LIFR 
+vsby at times in moderate snow. Precip transitions to a wintry
+mix for the NYC metros/KISP mainly after midnight. Accumulations
+over 6 inches likely at KSWF/KHPN/KBDR/KGON. Lesser
+accumulations of 3-5 inches likely at the NYC metros/KISP but
+cannot rule out as much as 6 inches. 
+
+Sunday: Snow ending early. Cond improving to VFR. NW winds
+G15-20kt. 
+
+Monday: Mainly VFR.
+
+Tuesday: Chance of snow in the afternoon, becoming likely at
+night. IFR cond likely, LIFR possible. Potential once again for
+significant accumulation. 
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+No changes to winds and seas at this time.
+
+SCA advisory is up tonight for ocean waters and up for all 
+waters by daytime Fri. SCA drops early Fri night. Winds will 
+exceed SCA criteria with gusts peaking around 30 kts and waves 
+on the ocean 5-7 feet.
+
+Marginal SCA conditions are possible on the ocean waters Sunday
+into Sunday evening as low pressure impacts the waters. Then 
+with high pressure building into the waters sub SCA conditions 
+are expected late Sunday night into Monday night. Low pressure 
+impacts the waters Tuesday, however, winds and seas are likely 
+to remain below advisory levels Tuesday and Tuesday night.
+
+&&
+
+.HYDROLOGY...
+A winter storm impacts the region Saturday night through Sunday
+afternoon with total liquid of around 3/4 inches areawide. 
+Otherwise, there are no hydrologic concerns through the forecast
+period.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Winter Storm Watch from Saturday evening through Sunday 
+     morning for CTZ005>012.
+NY...Winter Storm Watch from Saturday evening through Sunday 
+     morning for NYZ067>075-078>081-176>179.
+NJ...Winter Storm Watch from Saturday evening through Sunday 
+     morning for NJZ002-004-006-103>108.
+MARINE...Small Craft Advisory from 6 AM Friday to 1 AM EST Saturday for 
+     ANZ331-332-335-338-340-345.
+     Small Craft Advisory until 1 AM EST Saturday for ANZ350-353-
+     355.
+
+&&
+
+$$
+
+SYNOPSIS...BR/MET
+NEAR TERM...BR/MET
+SHORT TERM...BR
+LONG TERM...MET
+AVIATION...BG
+MARINE...BR/MET
+HYDROLOGY...BR/MET

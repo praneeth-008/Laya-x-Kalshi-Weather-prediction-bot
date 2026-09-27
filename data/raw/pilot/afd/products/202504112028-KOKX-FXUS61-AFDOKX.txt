@@ -1,0 +1,233 @@
+420 
+FXUS61 KOKX 112028
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+428 PM EDT Fri Apr 11 2025
+
+.SYNOPSIS...
+Low pressure along the Mid Atlantic coast this evening will track
+slowly northeast through the weekend, passing to the south and 
+east of Long Island Saturday, and then to the east of New England 
+on Sunday. Weak high pressure builds in for Monday. A frontal 
+system will approach from the west Monday night, with a cold 
+frontal passage expected late Monday night into early Tuesday 
+morning. Another cold front will move through Tuesday night. High 
+pressure then remains centered to the south and west thereafter 
+through next Thursday. Another storm system may impact the region 
+late in the week into next weekend. 
+
+&&
+
+.NEAR TERM /THROUGH SATURDAY/...
+Deepening low pressure along the Mid Atlantic coast will lift
+slowly north and east through the weekend, passing to the south
+and east of LI on Saturday. While not a very deep system from a
+minimum pressure stand point, it does have lot going for it 
+with deformation and strong frontogenetic forcing to the north 
+and west of the low track. There is a strong easterly low-level 
+jet (cold conveyor belt) on the order of 50 kt that lifts 
+through the area overnight, with a strong warm conveyor belt on
+the east side of the low track. This will bring widespread 
+moderate to occasionally heavy precipitation across the area as
+the main band of precipitation rotates north and west off the 
+ocean this evening. On average, expect around an inch of liquid 
+equivalent. Easterly winds will ramp up along the coast with 
+gusts up to 35 mph after midnight, then gradually subsiding on 
+Saturday as the low-level jet lifts north and gradually weakens.
+
+There will also be a period of wintry weather across the 
+interior late tonight into the morning, specifically across 
+northern portions of the Lower Hudson Valley, but also a wintry
+mix of wet snow, sleet, and rain from western Passaic in NJ, 
+east across the interior of southern CT. Much of this area will 
+see little or no accumulation following daytime highs in the 
+mid 40s to around 50. Even low temperatures will stay above 
+freezing across this area with lows in the mid 30s. However, 
+thermo profiles and strong upper lift supports a few hours of 
+moderate to heavy wet snow across portions of Orange and Putnam
+counties in NY, as well as western Passaic county in NJ,
+especially for elevations above 750 ft, where snowfall amounts 
+of 2 to 4 inches will be possible. Lower elevations could see 1 
+to 2 inches. SLR will initially be 3:1 and may get as high 6
+or 7:1. As a result, a Winter Weather Advisory has been issued 
+for the overnight hours into Saturday morning for these counties.
+A changeover to snow and/or a wintry mix is expected from 2 to 
+4 am. Farther to the south toward the coast, the boundary layer
+will remain sufficiency warm along with a strengthening warm 
+nose aloft. The latter of which will not arrive across interior 
+portions of SW CT and the Lower Hudson Valley until after 
+daybreak Saturday with the loss of the deep-layered lift.
+
+For Saturday, a dry slot in the mid levels pushes up from the 
+south with precipitation transitioning to mainly light rain and
+drizzle during form late morning into the afternoon. 
+Temperatures rebound in the lower and mid 40s for highs. 
+
+&&
+
+.SHORT TERM /SATURDAY NIGHT/...
+With the upper trough passing through the area Saturday night 
+and weak low-level lift, there will be a chance of light rain 
+and/or drizzle, especially across LI and CT. Winds will become 
+northerly behind the surface low with conditions expected to 
+gradually dry out from west to east. Lows will be in the upper 
+30s to lower 40s. 
+
+&&
+
+.LONG TERM /SUNDAY THROUGH FRIDAY/...
+Surface low pressure slowly slide east on Sunday, however the 
+lingering upper level trough and low are a bit slower to move east. 
+Expect a partly to mostly cloudy day, along with a chance some 
+showers possible across the eastern parts of CT and Long Island. By 
+afternoon, as the low moves further away, some breaks in the clouds 
+will be possible, especially further west. Max temperatures will 
+rise into the middle 50s.
+
+Sunday night through Monday night, the forecast guidance is in good 
+agreement with an upper level ridge moving over the area. With weak 
+high pressure over the area, expect dry conditions on Monday.
+
+An upper level trough will help push a cold front through during the 
+earlier hours of Tuesday morning. Ahead of it, a 50% chance of warm 
+advection rainfall. Still a chance of showers during the rest of 
+Tuesday with a cyclonic flow aloft, but most of the day should be 
+dry. Moderate to high confidence of no significant impacts 
+anticipated with this system, even if a rumble of thunder can't be 
+ruled out during Monday night.
+
+A stronger, but moisture-starved cold front follows for late Tuesday 
+night, then upper ridging doesn't return until Wednesday night into 
+Thursday, resulting in a slow return of high pressure. Dry weather 
+expected for Tuesday night through Thursday. Another low pressure 
+system is expected to impact the region Friday into early next 
+weekend. 
+
+Stuck fairly close to the NBM. Temperatures remain in the 50s and 
+60s for highs. 
+
+&&
+
+.AVIATION /20Z FRIDAY THROUGH WEDNESDAY/...
+High pressure off the northern New England coast weakens late 
+tonight as low pressure along the mid Atlantic coast tracks slowly 
+north to northeast tonight through Saturday.
+
+Predominately MVFR ceilings and at times VFR into early this 
+evening, with VFR and at time MVFR to the east of the NYC terminals, 
+becomes MVFR this evening. Mainly dry, with scattered light rain 
+around the NYC metro area into early this evening. Rain moves in 
+from the south this evening with conditions lowering to MVFR and 
+then IFR by late tonight. Timing of the lowering conditions is 
+uncertain and may be off a couple of hours, depending on movement of 
+the low to the south. IFR then remains through the forecast period. 
+There is a low chance of LIFR along the coast late tonight into 
+Saturday morning.
+
+E-ENE winds 10-15 kt with occasional gusts up to 20 kt possible.
+Gusts become more frequent early this evening 20-25 kt, and by late 
+tonight 25 to around 30 kt, with the highest winds along the coast. 
+Winds back to NE this evening, and to N toward 18Z Saturday. A 
+period of LLWS is likely at KISP, KBDR, and KGON 06Z to 14Z, with 
+winds at 2K ft up to 50 kt.
+
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Occasional gusts up to 20 kt this afternoon, becoming frequent this 
+evening. Gusts to around 30 kt possible late tonight. And there may 
+be a brief period of LLWS around 07Z at KJFK and KLGA, with 2K ft 
+winds 060 at 50 kt. Timing of flight category changes could be off 
+by 1-2 hours.
+
+.OUTLOOK FOR 18Z SATURDAY THROUGH WEDNESDAY...
+
+Saturday afternoon: IFR. Rain tapers to a chance of showers Saturday 
+night, becoming MVFR late at night. NE/N winds 10-20 kt with gusts 
+to around 25 kt.
+
+Sunday: MVFR early becoming VFR. Chance of showers east of the NYC 
+terminals.
+
+Monday: VFR. Chance of showers late at night.
+
+Tuesday: VFR. Slight chance of showers. W wind gusts 20-25 kt.
+
+Wednesday: VFR. NW wind gusts around 25 kt. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+A strengthening easterly flow between low pressure approaching
+from the Mid Atlantic and high pressure retreating to the 
+northeast will produce an easterly gale on the ocean waters 
+tonight into Saturday, with a SCA elsewhere. Seas on the ocean 
+will peak around 7 to 10 ft. 
+
+Low pressure will the move farther offshore and east of New 
+England on Sunday, with seas gradually falling below 5 ft Sunday
+afternoon. Sub- advisory conditions are then expected through 
+Monday night. Next chance of SCA conditions will be on Tuesday, 
+mainly on the ocean for both winds and seas, but there could be 
+a few gusts to 25kt on the other waters as well. The SCA 
+conditions are expected through Wednesday before falling back 
+below advisory criteria Wednesday night into Thursday.
+
+&&
+
+.HYDROLOGY...
+QPF from tonight through Saturday will averaging around an inch
+for most places. Long duration of this rainfall should preclude
+any impacts.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+A coastal low will combine with astronomically higher tides to 
+potentially bring a round of minor coastal flooding for both the 
+Saturday morning and Saturday evening tide cycles. The full moon 
+takes place Saturday evening. There will be more of an easterly 
+component to the sfc winds for the 1st high tide Saturday morning, 
+with a gradually increasing northerly component to the easterly flow 
+during Saturday evening. This should make total water levels very 
+similar for both high tide cycles. However, blended guidance 
+(Stevens, ETSS) for most tidal locations is leaning towards a very 
+slight higher total water level for the evening high tide at most 
+gauges. For simplicity purposes went ahead and issued coastal flood 
+statements for both the Saturday morning and Saturday evening / 
+night cycles for the south shore bays of Nassau and SW Suffolk 
+County, and for Staten Island and Hudson County in NE NJ as we get 
+close enough to minor benchmarks to at least warrant a statement. 
+Used an ETSS and Stevens 75th percentile blend in deriving the total 
+water levels.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...Winter Weather Advisory from 2 AM to 10 AM EDT Saturday for 
+     NYZ067-068.
+NJ...None.
+MARINE...Small Craft Advisory until 6 PM EDT Saturday for ANZ331-332-
+     335-338-340-345.
+     Small Craft Advisory until 6 PM EDT this evening for ANZ350-
+     353-355.
+     Gale Warning until 6 PM EDT Saturday for ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...BC/DW
+NEAR TERM...DW
+SHORT TERM...DW
+LONG TERM...BC
+AVIATION...MET
+MARINE...BC/DW
+HYDROLOGY...BC/DW
+TIDES/COASTAL FLOODING...JE

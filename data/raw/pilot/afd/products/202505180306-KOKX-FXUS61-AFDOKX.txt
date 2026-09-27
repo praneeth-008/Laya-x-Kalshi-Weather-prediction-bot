@@ -1,0 +1,176 @@
+369 
+FXUS61 KOKX 180306
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1106 PM EDT Sat May 17 2025
+
+.SYNOPSIS...
+A cold front moves east of the area overnight. Low pressure 
+slowly moves across New England on Sunday sending a series of 
+surface troughs across the area. The low slowly exits the New 
+England coast on Monday as high pressure gradually builds in 
+from the northwest through Tuesday. Another frontal system 
+impacts the area Wednesday into Thursday, then exits northeast 
+into Friday.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM SUNDAY MORNING/...
+A cold front is now exiting far eastern portions of the region.
+Any instability is getting shunted east with the front pushing
+through.
+
+The cold front will continue to move offshore overnight. This 
+which will bring an end any shower activity and usher in much
+drier air on a W to WNW flow. The drier air will prevent low 
+cloud and fog development and lead to a partly cloudy to mostly
+clear overnight once any lingering mid and high clouds depart. 
+Lows look to fall into the lower to middle 50s inland and the 
+upper 50s to around 60 close to the coast.
+
+&&
+
+.SHORT TERM /6 AM SUNDAY MORNING THROUGH MONDAY NIGHT/...
+The low pressure system will slowly move across New England on 
+Sunday. High pressure will be located well to our west with the
+area under the influence of cyclonic flow at the surface and 
+aloft. Sunday should start out mostly sunny before becoming 
+mostly cloudy into the afternoon. The lingering cold pocket 
+aloft may be enough to generate a few brief showers across the 
+interior in the afternoon and evening. The pressure gradient 
+will steepen through the afternoon as thew low begins pushing 
+towards the Canadian Maritimes. This will set the stage for 
+gusty W winds, 25 to 30 mph, especially in the afternoon and 
+early evening. High temperatures will be close to seasonable 
+levels in the upper 60s and lower 70s. 
+
+The low will only slowly move east Sunday night and may become 
+nearly stationary near the Maritimes Monday and Monday night.
+High pressure slowly builds towards the region during this time
+frame. The region will lie between the two systems which will 
+allow breezy W-NW winds to continue through Monday. Gusts on 
+Monday are likely to be similar to those on Sunday and generally
+25-30 mph. Temperatures will also be similar to those observed 
+on Sunday. The atmosphere continues to dry out Sunday night 
+through Monday with the anticipation of skies becoming mostly 
+clear to start next week.
+
+&&
+
+.LONG TERM /TUESDAY THROUGH SATURDAY/...
+Key Message:
+
+ * A frontal system may will bring rainfall Wednesday & Thursday, 
+   possibly into Friday. 
+
+High pressure on Tuesday will gradually break down into Tuesday 
+night ahead of an approaching frontal system. Overall, it should be 
+a pleasant day with highs in the mid-60s to low-70s. Mostly sunny to 
+start with increasing clouds in the afternoon and evening. Overcast 
+skies will lead to less efficient radiational cooling Tuesday night 
+with lows in the mid-50s to upper-40s. 
+
+Most 12Z guidance has honed in on a time frame for impacts from a 
+frontal system, but track still varies somewhat. A low over KY/OH 
+late Tuesday will approach the area Tuesday night and pass near or 
+to the south of the area Wednesday into Thursday, pushing more north 
+and/or east of the area on Friday. This will bring a period of wet 
+weather. Given elevated PWATs and ample lift, there is a chance for 
+a period of moderate rainfall. With some hints at marginal 
+instability, a few isolated thunderstorms may occur on Wednesday. 
+Confidence in showers is higher by midday Wednesday into Thursday 
+afternoon, but confidence is lower Thursday night and especially 
+Friday as some models have the low lingering in the area a little 
+longer, while others bring the low to a quick exit. 
+
+Overall, temperatures will be near or slightly below normal levels 
+Tuesday through Friday.
+
+&&
+
+.AVIATION /03Z SUNDAY THROUGH THURSDAY/...
+A cold front gets east of the region overnight.
+
+VFR tonight, with mainly VFR and some pockets of MVFR cigs possible 
+Sunday for northern terminals. VFR is expected to prevail for most 
+terminals on Sunday. Isolated SHRA can't be ruled out, but shouldn't 
+be impactful and is not included in TAFs at this time.
+
+With the cold frontal passage the winds have shifted to the W/NW, 
+with gusts from time to time before becoming more frequent towards 
+12-13z Sunday. Gusts lock in during the day Sunday with upwards of 
+30kt gusts possible, especially for Sunday afternoon and evening.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Low chance of brief MVFR ceilings Sunday.
+
+.OUTLOOK FOR 00Z MONDAY THROUGH THURSDAY...
+
+Sunday night: Slight chance of showers inland for the early evening 
+with MVFR possible, otherwise mainly VFR. W winds G20-30kt.
+
+Monday - Tuesday: VFR. Monday NW winds G20-25kt into the evening.
+
+Wednesday: MVFR or lower with showers likely, especially in the 
+afternoon, a slight chance of thunderstorms in the afternoon. E wind 
+gusts 15-20kt.
+
+Thursday: MVFR or lower possible in showers.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Other than brief gusts behind the cold front, conditions on the
+waters should remain below SCA levels. An increasing pressure 
+gradient on Sunday will promote gusty W flow and gusts 25-30 kt.
+Winds will likely become NW Sunday night and continue to gust 
+25-30 kt. Have therefore extended the SCA on Sunday through 
+Sunday night. The gusty winds should continue on Monday with a 
+further extension of the SCA probable. Winds weaken Monday 
+evening bringing gusts below 25 kt. Ocean seas build to marginal
+SCA levels Sunday and Sunday night and then slowly subside 
+Monday and Monday night. 
+
+Winds and seas remain below advisory levels on all the forecast 
+waters Tuesday into early Wednesday. 
+
+With the approach of a frontal system Wednesday, easterly flow
+will be increasing. By late day, SCA conditions may develop on 
+the ocean waters. With the increased and persistent east flow 
+into Thursday, winds and seas on the ocean waters will likely be
+at SCA levels. As low pressure tracks northeast of the area 
+Thursday night a northerly flow develops and winds diminish. 
+However, ocean seas are likely to remain elevated into Thursday 
+night.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory from 6 AM Sunday to 6 AM EDT Monday for 
+     ANZ331-332-335-338-340-345-350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...BR/DS 
+NEAR TERM...JE/DS 
+SHORT TERM...DS
+LONG TERM...BR
+AVIATION...JE 
+MARINE...BR/DS 
+HYDROLOGY...BR/DS

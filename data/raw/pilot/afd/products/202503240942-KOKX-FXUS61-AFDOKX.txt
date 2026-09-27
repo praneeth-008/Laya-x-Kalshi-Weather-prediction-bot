@@ -1,0 +1,213 @@
+465 
+FXUS61 KOKX 240942
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+542 AM EDT Mon Mar 24 2025
+
+.SYNOPSIS...
+A developing low tracks across the area today. Another low will 
+track south of the area late Tuesday night into Wednesday. High
+pressure then builds in from the southwest on Thursday, passing
+to the south on Friday as a weak disturbance passes to the 
+north. A frontal system is forecast to impact the area over the 
+weekend.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Removed any mention of snow for this mrng. Otherwise, the fcst
+is on track. 
+
+Biggest change with the mrng fcst is to reduce wintry pcpn 
+across the interior. Temps have been rising with the thickening 
+of clouds and waa. Dewpoints are still in the 20s across the 
+interior, so there is some room for temps to drop a few degrees 
+with the pcpn this mrng. However, radar indicates the bulk of 
+the pcpn on a trajectory to impact srn portions of the cwa early
+this mrng. By the time the steadier pcpn gets here aft around 
+12Z, it should be warm enough for all rain just about 
+everywhere.
+
+Jet streak comes thru today and enhances lift. Timeheights show
+deep lift to around h25. There is also a little elevated 
+mucape, albeit blw 100 J/kg per the NAM. Could get an isold tstm
+with this setup. With coverage expected to be 10 percent or 
+less, and confidence low, have kept tstms out of the fcst attm. 
+Would prefer to see mucape aoa 100 to include.
+
+Strongest winds today at the S coast with the frontal boundary and 
+developing sfc low modeled to be over the Sound or srn CT. Despite 
+the inversion, if there is any embedded convection, could see some 
+higher gusts around 40kt on the waters or on LI. There is 50kt at 
+around 1500ft to work with per the NAM.
+
+The pcpn tapers off quickly this eve with the HREF pops used. The 
+rain should end most areas before sunset, then partly cloudy 
+overnight with some mid and high clouds lingering. 
+
+Max/min temps today and tngt the NBM.
+
+&&
+
+.SHORT TERM /TUESDAY THROUGH WEDNESDAY/...
+Deep mixing on wly flow will warm temps into the 50s for the entire 
+area Tue. This is despite h85 at around -2C. Increasing high clouds 
+ahead of the next sys for Tue ngt and Wed.
+
+As an h5 trof digs into the Northeast, low pres develops somewhere 
+near the delmarva and tracks newd over the ocean. There is a 
+clustering of the NAM, GFS, and ECMWF near or SE of the benchmark. 
+This could allow for some pcpn to develop Tue ngt into Wed, with the 
+potential for some snow with decreasing thicknesses. The progressive 
+nature of the sys will be a limiting factor with the sys. Right now 
+pops are in the chc category. Did go with rain or snow wording 
+despite lows in the upr 30s at the coasts. The models may be a bit 
+too warm this far out based on the 00Z consensus track. The NBM is 
+curious placing the highest snow amounts in the nwrn zones, while at 
+the same time having nearly zero, and in some cases zero, qpf. This 
+is a signal that there is a good deal of uncertainty within the 
+ensemble still. 
+
+Any pcpn with the ocean low exits Wed aftn per the current consensus 
+timing. This is still several periods out so this could change. Went 
+with the NBM for high temps Wed, although if the GFS verifies, temps 
+aloft are a bit too cold to produce the NBM numbers, with highs
+in the 40s more realistic.
+
+&&
+
+.LONG TERM /WEDNESDAY NIGHT THROUGH SUNDAY/...
+Global models remain in good agreement for the first half of this 
+period as a longwave trough extending south from eastern Canada into 
+the Mid Atlantic states on Wednesday lifts out to the north and east 
+through Friday. This will result in a dry period Wednesday night 
+through Friday, minus a sprinkle late Thursday into Thursday night 
+with a weak upper level disturbance. Highs will start off close to 
+normal on Thursday and then are forecast to get well into the 50s in 
+a mild SW flow. However, like 24h ago, differences remain with a 
+frontal boundary that is expected to be in close proximity to the 
+area over the weekend and with the potential for some light 
+overrunning precipitation. The latter of which looks to be mostly 
+rain, but this will depend on the southern extent of polar high 
+pressure that briefly builds to the north Friday night, sending a 
+backdoor cold front across the area. 
+
+NBM box and whisker plots for Saturday and Sunday show 10 to 20 
+degree spreads between the 25th and 75th percentiles, most notable 
+for the high temperatures. This shows the potential for highs across 
+the area anywhere from the 40s to lower 70s during this time. There 
+is also quite a variance between the NBM deterministic (cooler) and 
+its median during this time. The operational global 2m temps are 
+generally colder during this time. Bottom line, there is a 
+significant amount of uncertainty with the placement of the polar 
+front this weekend and the temperature forecast. The 00Z globals did 
+show better agreement in the positioning. We will see how this 
+carries over the next several cycles. For the moment, temperatures 
+during this time reflect the NBM deterministic forecast.
+
+&&
+
+.AVIATION /10Z MONDAY THROUGH FRIDAY/...
+
+Latest observations across the area support conditions deteriorating
+more slowly at the terminals. The 09Z amendments reflected this
+trend. The latest HRRR guidance shows this could even be later 
+than the amendments are showing, however, still wanted to be 
+cautious and not completely go with this solution.
+
+Otherwise, a frontal system will impact the terminals through 
+much of today.
+
+Ceilings will gradually lower into the morning as rain develops 
+first with MVFR ceilings, then lowering to IFR. It may take several 
+hours longer for the eastern terminals, especially at KGON which may 
+not go sub-VFR until the 13Z-14Z timeframe. There is plenty of low-
+level dry in place initially so amendments for timing are expected. 
+
+For KSWF, a wintry mix at the onset should go over to all rain in 
+the 10Z-12Z timeframe. Surface temperatures are above freezing and 
+precipitation will initially be light. Little or no accumulation 
+expected. 
+
+S/SE wind speeds initially near 5-10 kt, increasing to 10-15 kt 
+along coast, without much change farther inland. Gusts near coast 
+near 20 kt, with a brief window were gusts can reach up to 30 kt 
+after 12Z. Gusts will likely lower late morning into the afternoon 
+as a low-inversion strengthens as warmer air moves in aloft. 
+
+Southerly low level wind shear expected for from 12-20Z, with 40-50 
+kt SW winds at 2kft just for some coastal terminals, KJFK, KLGA, 
+KISP and KGON.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Timing of categorical changes could vary by 1-2 hours. Chance of 
+LIFR cigs late morning into the afternoon.
+
+Brief window where gusts could reach 30 kt in the morning(11Z-14Z).
+
+.OUTLOOK FOR 09Z TUESDAY THROUGH FRIDAY...
+
+Late Monday night: VFR.
+
+Tuesday: Mainly VFR. Chance of MVFR to IFR with a wintry mix late 
+Tuesday night. W wind gusts near 20 kt during the day.
+
+Wednesday: Possible wintry mix early with MVFR to IFR. Precipitation 
+transitions to mainly rain with MVFR to IFR possible before tapering 
+off in afternoon. VFR returns at night. Afternoon NW wind gusts 15-
+20 kt.
+
+Thursday: VFR.
+
+Friday: VFR. W wind gusts 15-20 kt.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+A SCA for all areas today, ending from W to E as low pres tracks 
+near the Sound. Ocnl gale gusts possible on the ocean and LI 
+bays. Winds decrease blw 25kt all waters tngt, but seas on the 
+ocean stay aoa 5 ft. Winds mrgnl on Tue, but seas will likely 
+stay at SCA lvls for most of the ocean thru the day. Winds 
+likely blw SCA lvls thru Wed, but seas will be close to 
+thresholds on the ocean.
+
+Sub advisory conditions remain on the forecast waters Wednesday 
+night into Thursday, then an increasing W/SW flow could bring seas 
+on the ocean close to 5 ft, especially east of Fire Island Inlet. 
+The flow weakens Friday evening.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts expected through the end of the week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 6 PM EDT this evening for ANZ331-
+     332-340-345.
+     Small Craft Advisory until noon EDT today for ANZ335-338.
+     Small Craft Advisory until 6 AM EDT Tuesday for ANZ350.
+     Small Craft Advisory until 6 AM EDT Tuesday for ANZ353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JMC/DW
+NEAR TERM...JMC
+SHORT TERM...JMC
+LONG TERM...DW
+AVIATION...DW
+MARINE...JMC/DW
+HYDROLOGY...JMC/DW

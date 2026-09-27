@@ -1,0 +1,163 @@
+564 
+FXUS61 KOKX 091805
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+205 PM EDT Wed Apr 9 2025
+
+.SYNOPSIS...
+High pressure through Thursday will give way to a broad area of
+low pressure from Friday into the weekend. A transitory high 
+pressure ridge will build in on Monday. Another frontal system 
+may impact the area on Tuesday.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Zonal flow aloft for the period with high pressure centered to our 
+south over the Mid-Atlantic, shifting offshore this afternoon. High 
+confidence in a dry and sunny day today that won't feel as cold as 
+it did yesterday as temperatures will be a little warmer in most 
+cases with lighter winds. 
+
+Clouds increase tonight, helping prevent temperatures falling as low 
+as they did this morning. No frost/freeze headlines needed. NBM with 
+some minor local adjustments looked good for temps.
+
+&&
+
+.SHORT TERM /THURSDAY THROUGH FRIDAY NIGHT/...
+Main story for the short term period will be rainfall for Friday and 
+Friday night, but right now potential impacts look rather limited. 
+Before then, a mostly cloudy but mainly dry day for Thursday. 
+
+Good agreement among the models for a digging 500mb trough to our 
+west Thursday night into Friday with a closing upper low that slowly 
+shifts east, eventually passing through this weekend. Attendant 
+surface low strengthens over the Mid-Atlantic Friday into Friday 
+night and likely shifts offshore to our south late at night. There 
+appears to be at least some chance of rainfall Thursday night 
+through Friday morning, followed by rain becoming likely generally 
+SW to NE across the forecast area Friday afternoon into night. Looks 
+like the period with the highest potential for impacts is during the 
+late night hours when lift could be enhanced via an east to west 
+oriented low level jet and perhaps some synoptic scale lift with an 
+approaching left exit region of an upper jet streak. Mitigating 
+factors for heavy rain include modest PWAT values during this time 
+and no strong signals for either convection occurring or for flash 
+flood guidance values being reached. NBM probability for 1 inch of 
+rainfall in a 6-hour period during Friday night is only around 10% 
+and has been this way for a few days now. With that said, individual 
+deterministic guidance from the 00z suite shows better chances of 
+reaching this threshold somewhere within or near the forecast area.
+WPC maintains a marginal (5%) risk for flash flooding to occur here 
+during this period.
+
+Models are in good agreement that the pressure gradient doesn't get 
+tight enough for wind concerns at this time. The strength of the low 
+level jet doesn't look too concerning either, especially with a 
+strong low level inversion. It will nevertheless probably be breezy 
+for coastal areas for both day and night. NBM looked good for 
+temperatures through the short term period.
+
+&&
+
+.LONG TERM /SATURDAY THROUGH WEDNESDAY/...
+The large low pressure system impacting the area into Saturday 
+morning should begin to push eastward with most of the heavier 
+precipitation ending by Saturday afternoon. The large upper level 
+trough that the low pressure was forced by will meander over the 
+East Coast through at least Sunday night. This overhead trough will 
+allow for the surface low pressure system, at this point centered 
+east of the area, to slowly occlude. The added cool air aloft will 
+provide for the chance for additional light rain showers through 
+Sunday, though any showers may end up being more scattered with some 
+breaks of sun.
+
+Accompanied with the overhead trough will be temperatures that will 
+be largely below average. High temperatures on Saturday will only be 
+in the upper 40s to near 50. Some subtle moderation is expected for 
+Sunday with highs in the middle to possibly upper 50s.
+
+The trough pushes to the east on Monday with a ridge forcing surface 
+high pressure to build in. This will result in both dry conditions 
+with warming temperatures through Tuesday. Highs Monday will be in 
+the 60s to near 70 possible for the NYC metro, with temperatures on 
+Tuesday in the upper 60s to low 70s for the NYC metro and NE NJ.
+
+Another frontal system looks to impact the area as the primary low 
+passes to the north of the area sometime on Tuesday. This may bring 
+another chance of showers before the cold front ushers in cooler air 
+once again for Wednesday.
+
+&&
+
+.AVIATION /18Z WEDNESDAY THROUGH MONDAY/...
+High pressure builds over the Atlc thru Thu.
+
+VFR thru the TAF period. 
+
+WNW winds backing to the W and diminishing thru the day. Winds
+become lgt and vrb tngt, then become SE and strengthen thru the
+day on Thu.
+ 
+     NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Ocnl gusts possible thru 20Z.
+
+.OUTLOOK FOR 18Z THURSDAY THROUGH MONDAY...
+
+Rest of Thursday: MVFR possible by late Thu ngt with -RA
+possible. SE winds about 10-15kt. 
+
+Friday: MVFR with periods of IFR. Rain. E flow 10-20kt.
+
+Saturday: MVFR or lower. Chance of light rain. NE wind gusts 
+15-20 kt possible.
+
+Sunday: MVFR possible with winds becoming NW.
+
+Monday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Winds and seas diminish today. SCA allowed to expire for the
+eastern ocean waters as seas have just come below 5 ft, and all
+other zones will be prevailing below criteria through Thursday.
+
+Next chance of SCA cond arrives late Thursday night, becoming 
+likely for Fri with the approach of low pressure and persisting
+into Sat with ocean seas 5-8 feet expected. Any 25-kt gusts Sat
+morning should diminish by afternoon. Ocean seas will remain
+above 5 ft through at least Sunday night.
+
+&&
+
+.HYDROLOGY...
+Rainfall from Fri afternoon through Sat afternoon of 1-2 inches
+should lead to only limited minor impact.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JC/BG/MW
+NEAR TERM...JC/BG
+SHORT TERM...JC
+LONG TERM...MW
+AVIATION...JMC
+MARINE...JC/BG/MW
+HYDROLOGY...JC/MW

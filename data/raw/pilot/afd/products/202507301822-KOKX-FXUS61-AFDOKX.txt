@@ -1,0 +1,249 @@
+268 
+FXUS61 KOKX 301822
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+222 PM EDT Wed Jul 30 2025
+
+.SYNOPSIS...
+A cold front will slowly approach the area today, arriving 
+tonight, then stalling nearby or over the area into Thursday. A 
+frontal wave then develops late Thursday and passes to the south
+and east through Friday evening. High pressure settles over the
+region this weekend and remains in place into early next week.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+At the surface, weak high pressure offshore loses its influence as a 
+cold front approaches the area. A prefrontal trough arrives late 
+this afternoon/evening followed by a slow-moving cold front which 
+looks to stall nearby or over the area late tonight. 
+
+Aloft, an upper-low moves east through Quebec, leading to gradually 
+falling heights today into tonight and a flatter, more zonal flow. 
+Some 00Z guidance hint a subtle shortwave may pass within this flow 
+this afternoon/evening.
+
+Prior to the arrival of a pre-frontal trough, one more day of warmer 
+temperatures is expected. 850mb temps remain around 20C which is 
+about 6C above the average. Highs are currently projected to be in 
+the low/mid 90s for much of the area while spots around the NYC 
+metro may reach the mid/upper 90s. Areas in urban NE NJ looks to 
+fall solidly in the upper 90s. Given midday and afternoon dewpoints 
+fall in the upper 60s to low 70s, heat indices will range between 99 
+to 102 for much of the area. Some coastal spots may only reach 95 to 
+99 aided by a sea breeze. A Heat Advisory is in effect for the 
+entire area, except in NE NJ, where an Extreme Heat Warning has been 
+carried. Here, heat indices could reach 105. 
+
+As a prefrontal trough arrives, timed in tandem with a subtle 
+shortwave passing aloft, isolated to scattered showers and 
+thunderstorms are possible this afternoon and evening. The primary 
+area will be N & W of NYC, with only slight chances down to the
+coast. SPC has the area in a Marginal Risk for a few storms may
+possibly reaching severe criteria for winds/hail. However, 
+while instability looks good, other parameters like bulk shear 
+and mid- level lapse rates look poor, in addition to a weak 
+trigger for these storms. 
+
+Following the prefrontal trough, a slow-moving cold front will 
+arrive and stall over the area late tonight. Given the weak nature 
+of the front and the loss of daytime heating, it looks likely we'll 
+stay dry into the night, tonight.
+
+&&
+
+.SHORT TERM /THURSDAY THROUGH FRIDAY NIGHT/...
+A stalled front is expected to linger over the area Thursday into 
+Friday. A low will develop to our southwest and gradually track west 
+and then south of the area through this time period. Friday night, 
+this low will exit out to sea, clearing any lingering rain. 
+
+The synoptic pattern looks good for a prolonged rainfall event with 
+the area under the right entrance of a jet streak Thursday through 
+Friday with shortwave energy passing aloft. Instability does not 
+look particularly strong Thursday through Friday. Still anticipating 
+convection, but confidence in persistent heavy downpours is low. 
+Despite this, WPC does still have the area under a Slight Risk for 
+Excessive Rainfall. PWATs will range from 1.75-2.25" through this 
+period.
+
+Following a dry Wednesday night, rainfall should start Thursday 
+morning, becoming more widespread late Thursday afternoon into 
+Thursday night. Rainfall should gradually clear north Thursday 
+evening into early Thursday night.
+
+Temperatures will cool significantly Thursday into Friday,
+compared to Wednesday. Highs reach the mid to low 80s on 
+Thursday then remain limited to the upper 60s to low 70s on 
+Friday.
+
+&&
+
+.LONG TERM /SATURDAY THROUGH WEDNESDAY/...
+Cooler and noticeably drier air will work in out of southeastern 
+Canada as a rare late summer high builds down and delivers drier 
+conditions with noticeably lower humidity into the weekend. Saturday 
+morning will have a hint of early fall to it with temperatures to 
+start in the middle 60s to around 70 on a north to northeast wind 
+with clear skies. Northern and northwestern interior locations for 
+both Saturday and Sunday mornings will have temperatures down into 
+the middle and upper 50s. Temperatures Saturday afternoon recover to 
+close to 80, which is about 5 degrees or so below average for the 
+start of August. Temperatures should then slowly warm into next week 
+with afternoon max temperatures likely returning to seasonable 
+levels into the lower and middle 80s. Went with the NBM guidance 
+throughout the period.
+
+&&
+
+.AVIATION /18Z WEDNESDAY THROUGH MONDAY/...
+A cold front moves into the region tonight and stalls out within the 
+area Thursday. 
+
+Outside of showers and thunderstorms, expecting mainly VFR 
+conditions before 12Z Thursday. The showers and thunderstorms are 
+possible across western terminals from KBDR on west within the 20Z 
+to 00Z time window. Brief MVFR to possibly IFR conditions are 
+possible with some thunderstorms.
+
+For 12Z Thursday through the end of the TAF period, more showers and 
+potential thunderstorms are expected to develop and become a greater 
+coverage for the latter half of the day. MVFR will be possible 
+early, eventually becoming likely after 18Z Thursday. Brief IFR
+will be possible as well with some thunderstorms.
+
+Regarding winds, southerly flow near 10 kt, except near 15 kt for 
+KJFK expected this afternoon into early evening. Then winds become 
+light at 5 kts or less with variable direction for the rest of 
+tonight and into early Thursday morning. Thereafter, winds become 
+more NE-E near 10 kt.
+
+     NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Higher confidence with TSRA for TEB and EWR, less confidence with 
+TSRA for LGA and JFK for late this afternoon into early this
+evening.
+
+Timing of showers and thunderstorms could be off by 1-2 hours 
+compared to forecast.
+
+.OUTLOOK FOR 18Z THURSDAY THROUGH MONDAY... 
+
+Thursday afternoon and Thursday night: MVFR to IFR. Heavy showers 
+and embedded thunderstorms. Occasional E gust to near 15-20 kt.
+
+Friday: MVFR to IFR. Heavy showers and isolated embedded 
+thunderstorms, mainly early, becoming less intense by mid to 
+late day. Showers taper off at night. NE wind gusts near 15-20 
+kt.
+
+Saturday: VFR. NE wind gusts 15-20 kt early becoming less frequent 
+in the afternoon. All wind gusts diminish by evening.
+
+Sunday and Monday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Conditions are expected to remain below Small Craft Advisory 
+criteria through Thursday night. A wave of low pressure developing 
+on a stalled front south of Long Island late Thursday night will 
+deepen and pass south and east through Friday evening. Small Craft 
+Advisory conditions are likely to develop on the ocean waters during 
+Friday and then continue into Friday night. Once the wave passes to 
+the east, conditions will be improving west to east, falling below 
+advisory level winds Friday night while waves may not drop below 
+advisory levels on ocean waters through Friday night.
+
+Ocean seas are currently progged to linger near 5 to 6 ft early 
+Saturday morning, otherwise with the high building over the waters 
+through the weekend look for sub advisory seas to return all ocean 
+waters by Saturday afternoon and evening with seas settling closer 
+to 3 to 4 ft. Sub advisory conditions will prevail on Sunday with 
+ocean seas averaging close to 3 ft.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through Wednesday. 
+
+More persistent and widespread moderate to heavy rainfall is 
+possible Thursday afternoon into Friday. WPC has outlined the entire 
+region in a slight risk of excessive rainfall Thursday into Friday 
+morning, and localized to isolated areas of flash flooding could 
+develop where the heaviest axis of rainfall sets up. Currently there 
+is the potential for 2 to 3 inches across the lower Hudson Valley 
+into northeastern New Jersey, and 1 to 2 inches farther south and 
+east. Some areas could receive higher amounts. There remains some 
+uncertainty as to where this axis will be. Otherwise, anticipating 
+more of a nuisance flood threat, particularly in the typical urban 
+and poor drainage areas.
+
+Dry weather returns Friday night with no hydrologic concerns
+through early next week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+There is an overall low rip current risk for ocean beaches
+through Thursday due to a 1 ft S/SE swell and 1 to 2 ft wind 
+waves.
+
+&&
+
+.CLIMATE...
+Record High Temperatures for Wednesday, July 30
+----------------------------------------------------
+Newark       101/1949
+Bridgeport    95/1949
+Central Park *98/1988
+LaGuardia     99/1988
+Kennedy       96/2002
+Islip         95/1988
+
+* Also occurred in previous years
+
+Record Minimum Temperatures for Wednesday, July 30 
+----------------------------------------------------
+Central Park........80 (2002)
+LaGuardia...........81 (2019,2002)
+Kennedy.............79 (2006,1995)
+Islip...............76 (2002)
+Newark..............81 (2002)
+Bridgeport..........76 (2002)
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Heat Advisory until 8 PM EDT this evening for CTZ005>012.
+     Air Quality Alert until 11 PM EDT this evening for CTZ009>012.
+NY...Heat Advisory until 8 PM EDT this evening for NYZ067>075-
+     078>081-176>179.
+     Air Quality Alert until 11 PM EDT this evening for NYZ069>075-
+     078>081-176>179.
+NJ...Heat Advisory until 8 PM EDT this evening for NJZ002.
+     Air Quality Alert until 11 PM EDT this evening for NJZ002-004-
+     006-103>108.
+     Extreme Heat Warning until 8 PM EDT this evening for NJZ004-
+     006-103>108.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JE/BR
+NEAR TERM...BR
+SHORT TERM...BR
+LONG TERM...JE
+AVIATION...JM
+MARINE...JE/BR
+HYDROLOGY...JE/BR
+TIDES/COASTAL FLOODING...
+CLIMATE...

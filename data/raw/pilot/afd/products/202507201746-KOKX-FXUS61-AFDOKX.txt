@@ -1,0 +1,189 @@
+894 
+FXUS61 KOKX 201746
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+146 PM EDT Sun Jul 20 2025
+
+.SYNOPSIS...
+A warm front pushes through the area this morning, followed by 
+a cold frontal passage this evening. High pressure builds in 
+Monday into Tuesday, and centers over the area Tuesday night 
+into Wednesday. The high shifts offshore Wednesday night into 
+Thursday. A low passing into east Quebec Friday will bring 
+through a cold front late Friday into Friday night.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+A warm front pushes northeast of the region this afternoon, 
+allowing temps to warm to the upper 80s and lower 90s. Max 
+Apparent Ts expected to rise into the upper 90s with isolated 
+100 as Tds hold in the lower to mid 70s. This is below the one 
+day Heat Advisory criteria.
+
+Falling heights ahead of deep shortwave pivoting towards 
+northern New England this aft/eve with 1500 J/kg of MLCAPE
+already indicated for the western half of the area via SPC 
+mesoanalysis, accompanied by left front quad of 70 kt ulj 
+should be suitable forcing for isolated to scattered severe 
+thunderstorms along a cold front approaching late in the day in 
+a marginal to moderately unstable, moderately sheared (0-6km 
+bulk shear of 30 to 40 kt), with mid- level dry air. Environment
+is conditionally favorable for strong to damaging wind gusts, 
+with the limiting factors for coverage being a lack of a 
+distinct shortwave, a skinny CAPE profile with weak lapse rates.
+A slight risk has been maintained across the same areas as 
+previous forecasts for NYC north and west, with the primary 
+threat being damaging wind gusts.
+
+Showers and thunderstorms are likely done by midnight with a
+much cooler and drier airmass filtered in behind the cold 
+front on gusty NW flow.
+
+&&
+
+.SHORT TERM /MONDAY THROUGH TUESDAY NIGHT/...
+Some of the more comfortable weather days of the summer are expected 
+in the short term period with dry conditions, sunny skies, 80 degree 
+highs and cool nights.
+
+As high pressure builds in on Monday the pressure gradient will 
+briefly be tight and a breezy northwest flow is expected at least on 
+Monday morning. Some decent mixing is seen in forecast soundings, 
+but with winds not too strong aloft only expecting about 20 mph
+gusts at the surface.
+
+The high will bring with it a cooler and drier airmass. NBM was 
+followed for highs. Monday highs will be about normal and for 
+Tuesday they will be a few degrees below normal. Dewpoints and lows 
+were adjusted slightly to account for NBM biases. Monday night could 
+be the coolest night in a while with low to mid 50s possible across 
+the interior and upper 50s to mid 60s elsewhere. Dewpoints look
+to bottom out in the 40s and low 50s Monday night. At this time
+it looks like Tuesday night will be a bit warmer due to a 
+return flow kicking in.
+
+&&
+
+.LONG TERM /WEDNESDAY THROUGH SUNDAY/...
+Key Messages:
+
+ * Temps climb Wed into Thu. Heat index may exceed 100 by Fri.
+
+ * Dry through Thu night. 
+
+ * Showers & thunderstorms possible with cold front Fri/Fri
+   night. 
+
+In the upper-levels, a ridge builds in from the west and
+amplifies through Wednesday night. This ridge then flattens 
+Thursday into Thursday night. Shortwave energy passes late 
+Friday into Friday night.
+
+At the surface, high pressure centers over the area into 
+Wednesday, then shifts offshore Wednesday night into Thursday. A
+low passing into east Quebec Friday moves into the North 
+Atlantic Friday night into Saturday. This low brings through a 
+cold front late Friday into Friday night. 
+
+Wednesday through Friday, temperatures will warm each day in 
+response to the high moving east and higher heights aloft. Heat 
+index values may exceed 95 on Thursday for parts of the area, then 
+exceed 100 for large portions of the area on Friday. 
+
+With ample heating, shortwave energy passing aloft, high dewpoints & 
+atmospheric moisture, and lift from an approaching/passing cold 
+front, scattered showers and thunderstorms are expected late Friday 
+into early Friday night.
+
+&&
+
+.AVIATION /18Z SUNDAY THROUGH FRIDAY/...
+A cold front approaches this afternoon and moves through this 
+evening.
+
+Mainly VFR to start the afternoon. A isolated-scattered line of 
+convection is then expected between 19Z and 02Z along and ahead of 
+the approaching cold front, with a severe wind gust threat possible 
+but confidence remains too low to include in TAFs at this time. This 
+thunderstorm chance is being handled with PROB30 for most terminals, 
+this includes the city terminals. A tempo group for TSRA was used in 
+TAFs for KSWF, KHPN, and KGON as the risk of thunderstorm occurrence 
+is slightly higher for these terminals. The cold front will clear 
+KSWF around 23Z, NYC terminals 00-01Z, and LI and CT terminals 01-
+02Z with any brief MVFR conditions quickly returning to VFR. 
+
+S to SW winds for this afternoon mainly around 10kt. A few 
+occasional gusts for the coastal terminals remains a possibility but 
+was not included in TAFs for this afternoon. Winds become NW tonight 
+behind the cold front 10-13kt with G20kt for city terminals 
+overnight, with gusts less likely or more occasional for outlying 
+terminals. NW gusts prevail at all terminals towards 13-14z on 
+Monday morning.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Amendments may be needed for TSRA activity this afternoon and the 
+first half of the evening (until 01-02z).
+
+.OUTLOOK FOR 18Z MONDAY THROUGH FRIDAY... 
+
+Monday: Mainly VFR. NW winds 10-15g20kt.
+
+Monday night through Thursday: VFR. 
+
+Friday: VFR likely through morning, possibly followed by periods of 
+sub VFR in showers and thunderstorms for the afternoon and evening.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Winds and waves look to stay below Small Craft Advisory criteria 
+through the week with a weak pressure gradient in place.
+Occasional nearshore gusts to 25 kt possible late tonight thru
+Monday afternoon in NW flow.
+
+However, there is potential for strong to possibly a few severe
+thunderstorms late this afternoon and evening. Locally stronger
+wind gusts and higher waves are possible in any thunderstorms.
+
+&&
+
+.HYDROLOGY...
+At this time, there are no hydrologic concerns through the week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+Mainly a low rip current risk this afternoon, with the 
+exception being for the eastern Suffolk ocean beaches where a 
+moderate risk is more likely by afternoon with lingering E to SE
+8 second period swells. A low rip current risk is expected for 
+all ocean beaches on Monday with more of a land breeze out of 
+the northwest.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...BR/JT
+NEAR TERM...JT/NV
+SHORT TERM...JT
+LONG TERM...BR
+AVIATION...JE
+MARINE...BR/JT
+HYDROLOGY...BR/JT
+TIDES/COASTAL FLOODING...

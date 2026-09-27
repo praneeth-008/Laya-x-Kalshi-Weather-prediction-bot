@@ -1,0 +1,297 @@
+782 
+FXUS61 KOKX 130010
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+710 PM EST Wed Feb 12 2025
+
+.SYNOPSIS...
+Low pressure and its associated frontal system impact the area 
+tonight into Thursday. High pressure then builds in Thursday 
+night through Friday before shifting offshore early Saturday. 
+Another storm system then impacts the area later Saturday into 
+Sunday. High pressure slowly builds back in early next week. Low
+pressure may impact the area for the middle of next week.
+
+&&
+
+.NEAR TERM /THROUGH THURSDAY/...
+Winter Weather Advisory remains in effect for the interior from
+7pm this evening through 9am Thursday morning.
+
+High pressure over southeast Quebec will continue to ridge down
+into New England into early this evening. At the same time, low
+pressure developing over the southeast will begin moving toward
+the Tennessee and Ohio Valleys. The associated warm front will 
+also begin to approach from the Middle Atlantic. Warm advection 
+north of the warm front will increase this evening which will 
+lead to precipitation development from southwest to northeast.
+
+The timing of the precip has not changed too much from the 
+previous forecast. Model guidance has continued to trend warmer 
+leading to a decrease in snow/sleet accumulation for the first 
+half of tonight. Followed thermal profiles closer to the NAM as 
+the GFS can tend to run too cold in regimes with increasing 
+warming aloft. Another factor that has been weighed into this 
+forecast package and has led to the decrease in snow/sleet 
+amounts is limited saturation in the snow growth zone. 
+
+There is some lingering dry air noted in soundings with much
+of the lift the first part of tonight falling below this zone. 
+Some snow development is possible at the onset this evening 
+areawide, but it may begin as a mix with sleet or even just be 
+sleet for a period of time. Near the coast the precip will 
+quickly change to rain as warmer air moves in both at the 
+surface and aloft. The snow/sleet combo may continue inland a 
+few hours longer before strengthening S-SW winds bring in a 
+warm nose from around 5-10kft, which effectively ends the snow 
+and yields a transition to liquid. The depth of the cold below 
+the warm nose is not deep enough to refreeze any of the melted 
+snow to sleet. Therefore, interior locations may see a period of
+freezing rain overnight which supports the ongoing Advisory. 
+Most of the area should be plain rain by day break Thursday 
+except for some of the usual colder locations well inland. 
+Temperatures should rise for the rest of the morning as the warm
+front lifts to the north. It may take longest for it clear the 
+interior, but expect temperatures there to reach the low 40s by 
+afternoon. Rain continues Thursday morning, but should taper off
+quickly from west to east late morning into the afternoon. The 
+trailing cold front should quickly pass through late in the day.
+Temperatures peak in the 40s before starting to fall by evening
+with the cold front passage.
+
+Little to no snow/sleet accumulation expected across NYC
+metro and the coast with an inch or less inland. Generally a 
+glaze of ice accretion is expected in the Advisory area. 
+
+Areas of fog are also possible late tonight into Thursday as
+the warmer air moves over the lingering snow pack.
+
+&&
+
+.SHORT TERM /THURSDAY NIGHT THROUGH FRIDAY NIGHT/...
+Dry and breezy conditions expected Thursday night into Friday
+as high pressure slowly builds into the area. Temperatures 
+Thursday night should fall into the 20s. High temperatures on 
+Friday will be much cooler compared to Thursday with readings 
+below normal in the mid to upper 30s.
+
+&&
+
+.LONG TERM /SATURDAY THROUGH WEDNESDAY/...
+Another amplifying southern branch storm system will lift out of
+the Mid Mississippi Valley Saturday, tracking to the north and 
+west of the forecast area Saturday night into Sunday. At the 
+same time, the polar vortex descends south and east out of central
+Canada. Shortwave energy out ahead of it interacts with the 
+aforementioned low with explosive deepening Sunday into Sunday 
+night. There is some uncertainty with how quickly the cold air 
+to start on Saturday retreats to the northeast, but strong 
+thermal forcing will produce widespread precipitation across the
+area beginning Saturday afternoon and night. This will likely 
+begin as snow everywhere with a changeover from south to north 
+starting at the coast late afternoon with most locations
+becoming all rain around or shortly after midnight. There could
+be a few pockets of surface temperatures around freezing well 
+north and west of the NYC metro until around daybreak. Thus, 
+looking at the potential for an advisory level event inland 
+with a combination of snow and ice. Coastal locations are 
+expected to see a quicker changeover with perhaps a light 
+snowfall accumulation during the afternoon hours Saturday. 
+
+For Sunday, the area gets into the warm sector as low pressure 
+passes to the north and west with a gusty southerly flow, especially
+for coastal locations. There is even a low chance at this time 
+for an embedded thunderstorms just south of the area in warm 
+conveyor belt showers. This will be refined as we get closer to 
+the event. Highs on Sunday in the warm sector are forecast to 
+get will into the 40s and possibly the lower 50s across NYC and 
+LI. A strong cold front will then pass through late Sunday 
+afternoon and evening. There are some timing issues with the 12Z
+operational runs with the GFS being the fastest. At this time, 
+saw no reason to defer from the NBM. More importantly, a piece 
+of arctic air associated with the polar vortex dropping across 
+the Great Lakes Sunday night into Monday will bring in a much 
+colder airmass for the first half of next week. This will be 
+accompanied by a gusty WNW flow Sunday night into Tuesday. Highs
+will top out in the upper 20s to lower 30s with lows getting 
+into the teens for Tuesday and Wednesday mornings. Leaned a bit 
+colder than the NBM based on 2m temps in many of the operational
+runs and the magnitude of the cold air coming down with 85h 
+temps over the area on Tuesday around -20C.
+
+Cold high pressure builds in for Wednesday with some uncertainty
+with the southern branch storm track. The GFS is aggressive in 
+taking low pressure up the east coast late Wednesday. This 
+hinges on the amount of energy left in the northern branch back 
+across the Great Lakes and the amount of phasing and/or interaction
+between the two stream. However, it is much too early to have 
+any certainty at this point in time, but something to watch. For
+the time, there are low chances for snow late Wednesday.
+
+&&
+
+.AVIATION /00Z THURSDAY THROUGH MONDAY/...
+A developing low along the southeastern coast approaches the region 
+tonight, and passes thru the area on Thursday.
+
+VFR is possible at the start of the TAF period, with MVFR ceilings 
+expected to develop soon after. MVFR with a period of sleet and snow 
+early this evening, and transitioning to plain rain from south to 
+north 04Z through 08Z with IFR, possibly LIFR manly in fog with 
+lowered ceilings. At KSWF a period of freezing rain is possible 
+before going over to plain rain early Thursday morning. Timing of 
+the precipitation type changeover is uncertain and may be later than 
+forecast. Once precipitation ends conditions will fairly quickly 
+return to VFR late Thursday afternoon.
+
+Less than 1 inch of snow/sleet accumulation expected north of New 
+York City, with little to none along the coast. A glaze of ice is 
+possible at KSWF.
+
+NE/E flow flow tonight likely becomes L/V as the low tracks through 
+the terminals, then W/NW behind the low. Gusts to around 30 kt 
+expected late Thu.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Amendments likely for changing flight categories thru the TAF 
+period. Timing of changeover to plain rain uncertain with amendments 
+likely.
+
+Little to no snow/sleet accums expected this evening.
+
+Peak gusts to around 30 kt possible late Thu.
+
+.OUTLOOK FOR 00Z FRIDAY THROUGH MONDAY... 
+
+Thursday night: VFR. W/NW gusts 25 to 30 kt, occasional gusts up to 
+35 kt along the coast.
+
+Friday: VFR. NW wind gusts to 30 kt during the day.
+
+Saturday - Sunday: Low pres could bring a wintry mix changing to 
+rain mainly late Sat into Sun. The rain could be locally hvy.
+LLWS possible along with IFR.
+
+Monday: VFR with gusty W flow.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+E flow continues to increase tonight leading to SCA conditions
+on all waters. The flow on the non-ocean waters should decrease
+below SCA levels Thursday morning, but continue to be strong 
+enough for 25 kt gusts on the ocean. Ocean seas will also remain
+elevated during day Thursday. NW flow then increases Thursday 
+night leading to gales on the ocean and the likelihood of 
+another round of SCA conditions on the non-ocean waters. Have 
+issued a Gale Warning for Thursday night on the ocean. Since 
+there is currently an SCA for tonight on the non- ocean with a 
+lull in the strongest flow Thursday, have held off on any 
+advisory on the non-ocean for Thursday night at this time. Winds
+should remain at SCA levels Friday, but should start weaken 
+through the afternoon. Seas will remain elevated.
+
+Sub-SCA conditions may linger into early evening Friday for the
+eastern ocean waters, otherwise high pressure builds in through
+Saturday morning before giving way to another storm system
+Saturday afternoon into Sunday. SCA conditions are forecast to
+redevelop on the ocean waters late Saturday night and across 
+all waters Sunday in a strengthening southerly flow ahead of an 
+approaching cold front and deepening low pressure passing to the
+northwest. Gales are possible on the ocean Sunday afternoon, 
+but temperature profiles may be too inverted to mix down gale 
+force winds to the surface. However, behind a strong cold frontal
+passage late Sunday afternoon into evening, a westerly gale will
+be possible across all waters Sunday night into Monday.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through the period.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+With a recent full moon and increasing easterly to
+southeasterly flow, this will allow for building waves and 
+increase the surge tonight into early Thursday. Result will be 
+higher total water levels across the coast. Surge models have 
+trended a few tenths of a foot higher than the previous day. 
+Minor coastal flooding is expected for much of the coastline 
+early Thursday as forecast surge reaches around 2 feet.
+
+The total water level forecast for early Thursday reaches or
+exceeds minor flood benchmarks for much of the coastline. The 
+total water level forecast took a blend of ETSS, ESTOFS, 50th 
+and 95th NY HOPS ensemble surge guidance. Wanted to go above the
+average due to anticipated extra surge. Plus, previous high 
+tide cycle earlier today with respect to the NY HOPS surge 
+ensemble, ended up verifying more within the upper bounds of 
+that ensemble.
+
+Have issued coastal flood advisories where total water level 
+forecast exceeds minor coastal flood benchmarks by at least a
+few tenths of a foot. The total water level in some locations 
+within the advisory may approach close to respective moderate 
+coastal flood benchmarks such as within some parts of the South 
+Shore Bays but all coastline forecasts at this time for early 
+Thursday high tide are below moderate coastal flood benchmarks.
+Have issued coastal flood statements where total water level 
+forecast approaches to just touches respective minor coastal 
+flood benchmarks.
+
+Concerning erosion, just minor beach erosion expected with
+some minor beach flooding but dune erosion is not expected. The
+ocean waves are forecast to increase to 6 to 9 ft late tonight 
+into early Thursday but will not be breaking directly against 
+coast. The strongest winds tonight into early Thursday will be 
+more easterly and not as perpendicular to the shoreline. When 
+the winds become more southerly Thursday and more perpendicular 
+to the shoreline, they will be decreasing.
+
+Winds further become westerly behind a cold front Thursday 
+afternoon, and that will really decrease the surge. Subsequent
+high tide cycles are not expected to have any coastal flooding 
+for late Thursday through Friday night.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Winter Weather Advisory until 9 AM EST Thursday for CTZ005>008.
+     Coastal Flood Advisory from 9 AM to 2 PM EST Thursday for 
+     CTZ009.
+NY...Winter Weather Advisory until 9 AM EST Thursday for NYZ067>070.
+     Coastal Flood Advisory from 9 AM to 2 PM EST Thursday for 
+     NYZ071.
+     Coastal Flood Advisory from 6 AM to 11 AM EST Thursday for 
+     NYZ074-075.
+     Coastal Flood Advisory from 6 AM to noon EST Thursday for 
+     NYZ178-179.
+NJ...Winter Weather Advisory until 9 AM EST Thursday for NJZ002-103.
+     Coastal Flood Advisory from 6 AM to 11 AM EST Thursday for 
+     NJZ006-106-108.
+MARINE...Small Craft Advisory until 6 AM EST Thursday for ANZ331-332-
+     335-338-340-345.
+     Small Craft Advisory until 6 PM EST Thursday for ANZ350-353-
+     355.
+     Gale Warning from 6 PM Thursday to 6 AM EST Friday for ANZ350-
+     353-355.
+
+&&
+
+$$
+
+SYNOPSIS...DS/DW
+NEAR TERM...DS/DW
+SHORT TERM...DS
+LONG TERM...DW
+AVIATION...MET
+MARINE...DS/DW
+HYDROLOGY...DS/DW
+TIDES/COASTAL FLOODING...JM

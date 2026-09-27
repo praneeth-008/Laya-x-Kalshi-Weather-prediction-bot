@@ -1,0 +1,158 @@
+970 
+FXUS61 KOKX 022351
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+Issued by National Weather Service Mount Holly NJ
+751 PM EDT Mon Jun 2 2025
+
+.SYNOPSIS...
+Offshore high pressure remains through midweek. High pressure
+then weakens, allowing for a frontal system to approach from the
+west. The associated cold front enters within the area late this
+week and may linger nearby through the weekend before moving
+east of the area early next week.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM TUESDAY MORNING/...
+Updated for current conditions. 
+
+Surface trough moves across this evening. High pressure then
+builds thereafter but will have its center well south of the
+region. This will keep a relatively warmer airmass in place.
+Despite light northerly winds and mostly clear sky conditions,
+lows tonight expected to be several degrees warmer than the
+previous night, ranging from mid 40s to upper 50s.
+
+&&
+
+.SHORT TERM /6 AM TUESDAY MORNING THROUGH TUESDAY NIGHT/...
+Offshore high pressure remains with dry conditions continuing. 
+The region becomes established with a persistent SW flow. Warm 
+air advection will increase as a a result. Tuesday's forecast 
+highs are about 5 to 8 degrees warmer than the previous day, 
+ranging from upper 70s to lower 80s for a majority of the 
+region. Tuesday night, likewise, expect the warming trend to 
+continue as lows just will be mainly from lower 50s to lower 
+60s.
+
+Side note, there has been recent smoke aloft reported from
+Canadian wildfires. This has resulted in some haze in the sky
+but not significant enough to result to reduce visibilities at 
+the surface. The HRRR model shows a relative increase in smoke 
+Tuesday afternoon through Tuesday night so perhaps another hazy 
+sunset is in store for Tuesday evening.
+
+&&
+
+.LONG TERM /WEDNESDAY THROUGH MONDAY/...
+The synoptic ridge pattern gradually shifts to more of a trough
+structure with rain eventually returning to the forecast late
+week and towards the weekend. 
+
+At the surface, offshore high pressure remains dominant 
+Wednesday but eventually weakens Thursday into Friday. A frontal
+system from the west then approaches with its associated cold 
+front. This cold front lingers around the area after it moves in
+before eventually shifting east of the area late weekend towards
+early next week. Rain shower chances highest Friday through 
+Saturday night and then these rain shower chances lower 
+thereafter.
+
+Warming trend continues to start with the warmest forecast
+temperatures Wednesday through Friday, with upper 80s to near
+90 for some locations. Lower temperature trend thereafter with 
+more rain shower chances in the forecast and eventually more 
+northerly flow late weekend into early next week.
+
+There is a slight chance of thunderstorms Thursday, Friday as
+well as the first half of the weekend. The more trough synoptic
+pattern will allow for greater moisture in the atmosphere with
+higher PW values. With warmer temperatures forecast Thursday and
+Friday, more low level instability would be available for
+thunderstorm growth.
+
+&&
+
+.AVIATION /00Z TUESDAY THROUGH SATURDAY/...
+High pressure builds tonight into Tuesday morning, then moves quickly
+offshore Tuesday afternoon.
+
+VFR.
+
+Sea breezes end early this evening, with the winds then becoming
+light and variable at all the terminals by the overnight. A
+light NW flow develops Tuesday morning before winds briefly
+become light and variable before becoming southerly by
+afternoon, with sea breeze enhancement. The exception is KSWF
+which will remain light and variable much of Tuesday with a
+light westerly flow in the afternoon.
+
+Smoke aloft from Canadian wildfires is likely, especially during
+Tuesday. Low level visibility will not be impacted.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+No unscheduled amendments expected.
+
+
+.OUTLOOK FOR 00Z WEDNESDAY THROUGH SATURDAY... 
+
+Tuesday night through Thursday: VFR.
+
+Friday: Possible MVFR/IFR with chance of showers/tstms.
+
+Saturday: Possible MVFR/IFR with showers likely. Chance of 
+tstms.
+
+&&
+
+.MARINE...
+Only minor changes to the winds through tonight, mainly lowering
+wind speeds.
+
+Conditions expected to remain below SCA thresholds on all waters
+through Thursday night.
+
+Thereafter, conditions trends go up with seas on the ocean. So,
+SCA will become more probable Friday through the first half of
+the weekend on the ocean. Non-ocean zones are forecast to remain
+below SCA thresholds.
+
+&&
+
+.HYDROLOGY...
+No hydrologic concerns through midweek. Late week, there are low
+probabilities for thunderstorms and forecast models indicates PW
+values near 1.5 to 1.75 inches. Some locally heavy rain is
+possible, especially with thunderstorms, with minor flooding
+possible.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+There is a low risk for the development of rip current at the
+ocean beaches Tuesday and Wednesday.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JM
+NEAR TERM...JM/MET
+SHORT TERM...JM
+LONG TERM...JM
+AVIATION...MET
+MARINE...JM/MET
+HYDROLOGY...JM
+TIDES/COASTAL FLOODING...

@@ -1,0 +1,220 @@
+089 
+FXUS61 KOKX 172108
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+508 PM EDT Mon Mar 17 2025
+
+.SYNOPSIS...
+High pressure builds in tonight and settles over the area Tuesday 
+and Tuesday night, remaining into Wednesday, then weakening early 
+Thursday as a cold front approaches. A low will develop along the 
+cold front as both of them pass over our area Thursday, exiting 
+northeast Friday into Friday night. Weak high pressure returns over 
+the weekend with another low impacting the region on Monday.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM TUESDAY MORNING/...
+The only changes made with this early evening update were to
+adjust dewpoints to better match the current trend of dewpoints
+dropping west to east behind the exiting boundary. Other than 
+that, the forecast still remains on track. 
+
+Surface trough of low pressure with a wind shift to NW and dry 
+weather behind it will shift east of Montauk heading into this 
+evening. Dry weather otherwise for the night as high pressure builds 
+in behind the departing trough. The pressure gradient should be 
+strong enough to keep winds from decoupling from aloft, but cold air 
+advection should still allow overnight temperatures to fall into the 
+30s across the entire forecast area. Even some upper 20s anticipated 
+well NW of the city.
+
+&&
+
+.SHORT TERM /6 AM TUESDAY MORNING THROUGH TUESDAY NIGHT/...
+Deep-layered ridging through the period with the surface ridge axis 
+over us by the end of the day. Resulting light boundary layer winds 
+are expected to allow for sea breeze development during the 
+afternoon, but late enough such that the higher side of guidance was 
+used for much of Long Island. Highs mostly in the upper 50s to lower 
+60s across the entire forecast area with sunny conditions and mixing 
+up to 925mb where temps are 6-8C. 
+
+With the surface ridge still overhead, light to calm winds and a 
+clear sky will lead to strong radiational cooling in the typical 
+spots away from the metropolitan area. Lows ranging from the mid 40s 
+in the city, to 25-30 in the Pine Barrens and spots across the 
+northernmost zones.
+
+&&
+
+.LONG TERM /WEDNESDAY THROUGH MONDAY/...
+Key Points: 
+* Above seasonal temps with sunshine Wed.
+* A developing low along a cold front brings rain Thursday night 
+  with a possible transition to snow on the back side of the system 
+  in the interior.
+* Gusty NW winds Fri-Fri Night.
+* Dry and near-seasonal over the weekend. 
+* Uncertainty surrounds a low that could impact us on Monday.
+
+A ridge is centered over the area to start Wednesday with surface 
+high pressure nosing in from the Canadian Maritimes. This high 
+pressure gradually weaken s through Wednesday night as the ridge 
+moves offshore in response to an approaching trough early Thursday. 
+
+A large part of Wednesday will be sunny before clouds start to 
+increase later in the afternoon and into the night as high pressure 
+gradually weakens. Highs will be above average in the under light 
+easterly flow in the morning that transitions to southeasterly flow 
+Wednesday afternoon and evening. Given the direction of the flow, 
+coastal locations will reach the low/mid-50s from cooler marine air 
+while interior locations that won't get this air reach the low/mid-
+60s. Lows Wednesday night will be somewhat moderated by 
+partly/mostly cloudy skies in the mid-40s to upper-30s. 
+
+Low pressure moves into the Great Lakes on Thursday and into Canada 
+Thursday night, dragging a cold front over the area Thursday night. 
+Low pressure will develop along the front over our area or just 
+before the front reaches our area, then tracking over the CWA, 
+depending on which model solution you are looking at. This 
+developing low is aided by a southern stream jet in which it 
+develops along the left exit region of the jet streak. Eventually 
+the deep trough over the Central-Eastern US moves over the area 
+Friday, leading the surface low to exit northeast towards the 
+Canadian Maritimes later Friday into Friday night. 
+
+With strong southerly flow prior to the low/front arrival, PWATs 
+should be maxed out around the time of the frontal passage between 
+0.8" to 1.10" which is around the 90th percentile and the max moving 
+average for this time of year based on SPC's Sounding Climatology 
+Page. Since this coincides with the front, expecting numerous rain 
+showers with the front and developing low into Thursday night. 
+Eventually this rain will clear out with the exiting low Friday 
+morning, however, it may not be all rain. As the low exits 
+northeast, it deepens. This leads to an increasing pressure gradient 
+late Thursday night into Friday morning. This strong NW flow could 
+help colder air to advect in quicker on the back side of the low 
+leading to some snowfall in interior locations through mid-morning 
+Friday before precip gets shut off. Location of the low and timing 
+still vary a little in model guidance, so its hard to pinpoint 
+amounts at this time. But a trace to a few inches of snow look to be 
+reasonable to achieve late Thursday night into Friday morning in the 
+interior if the colder air filters in as expected. Total QPF amounts 
+currently look to range from 0.5" to 1.5". Not much more is expected 
+due to the progressive nature of the system. 
+
+As the low passes the area Thursday night winds increase early 
+Friday and remain strong through the day. They gradually taper 
+Friday night as the pressure gradient weakens. Expecting peak NW 
+winds on Friday to be 20-25 mph with gusts 35 to 45 mph. However, 
+its important to note that they could end up being slightly weaker 
+if the low does not deepen enough after exiting the region. 
+
+Highs Thursday will still be above average in the mid-50s to low-
+60s. They cool into the low/mid-30s as a front passes Thursday 
+night. Friday will be colder as a result with highs in the low/mid-
+40s. 
+
+Mainly zonal flow takes over into the weekend, staying dry. 12Z 
+guidance then diverges on a solution for another frontal system 
+which may impact us on Monday. Highs will mainly be in the 50s with 
+lows in the 30s to 40s.
+
+&&
+
+.AVIATION /21Z MONDAY THROUGH SATURDAY/...
+A cold front and wave of low pressure to the east of the area 
+continues to track slowly eastward into Tuesday. Meanwhile, high 
+pressure to the west gradually builds through Tuesday.
+
+Conditions were generally MVFR across the region, with local IFR 
+lingering until late afternoon east of the New York terminals.
+Conditions will continue to slowly improve from west to east, 
+becoming VFR throughout by late evening. Timing of the improving 
+conditions may be off by an hour or so. Once VFR develops, VFR 
+continues through the remainder of the forecast.
+
+Gusty NW winds around 15 kt, gust generally 20-25 kt, with a few 
+gusts up to 30 kt possible into this evening. Winds and gusts 
+diminish toward 12Z Tuesday, and back to W toward 18Z Tuesday.
+
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Unscheduled AMD likely for timing of improving conditions through 
+this evening.
+
+
+.OUTLOOK FOR 18Z TUESDAY THROUGH SATURDAY...
+
+Tuesday afternoon through Wednesday: VFR.
+
+Thursday: IFR/LIFR cigs possible in the morning mainly E of the NYC 
+metros, and MVFR to IFR NYC metros and W. Chance of showers late in 
+the day, and likely at night, with MVFR to IFR conditions.Snow 
+showers possible well inland late Thursday night. S winds 10-15 kt 
+with G20-25 kt, winds shifting W and NW during the evening into the 
+night.
+
+Friday: MVFR, possibly IFR, with a chance of rain showers along the 
+coast, and snow/rain showers inland, ending west to east through the 
+day, and becoming VFR. NW wind 15-25 kt with G30-40kt, diminishing 
+at night.
+
+Saturday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+NW winds around 15kt expected tonight with advisory-level gusts on 
+the ocean and on NY Harbor. There could be a few gusts to 25kt this 
+evening over the remaining waters, particularly parts of Western LI 
+Sound, but probably not widespread or long enough in duration to 
+warrant a SCA. The advisory has otherwise been extended on the ocean 
+east of Fire Island Inlet to include Tuesday night as seas remain 
+elevated due to a lingering swell. Meanwhile winds will be light 
+Tuesday and Tuesday night as a ridge of high pressure extends 
+through the area.
+
+SCA criteria is not expected to be met Wed-Wed night. 
+
+On the ocean, waves will climb above 5 feet on Thursday, peaking at 
+8-9 feet Fri, eventually dropping below 5 feet Saturday afternoon. 
+
+Winds will reach SCA criteria late Thursday night through Friday 
+night, dropping below SCA levels Saturday. A period of gales is 
+possible on all waters Friday.
+
+&&
+
+.HYDROLOGY...
+There are currently no hydrologic concerns through the start of
+next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until midnight EDT tonight for ANZ338.
+     Small Craft Advisory until 6 AM EDT Wednesday for ANZ350-353.
+     Small Craft Advisory until 6 PM EDT Tuesday for ANZ355.
+
+&&
+
+$$
+
+SYNOPSIS...JC/BR
+NEAR TERM...JC/BR
+SHORT TERM...JC
+LONG TERM...BR
+AVIATION...MET
+MARINE...JC/BR
+HYDROLOGY...JC/BR

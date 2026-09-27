@@ -1,0 +1,181 @@
+725 
+FXUS61 KOKX 290852
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+352 AM EST Wed Jan 29 2025
+
+.SYNOPSIS...
+A clipper low passes to the north today and drags a cold front 
+through the area this afternoon. High pressure briefly builds in 
+tonight through Thursday. A frontal system impacts the area on 
+Friday, with another, weaker one likely late Sunday into Monday.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+A clipper low is currently centered over the Great Lakes while the 
+associated warm front is pushing north through the area. The 
+overrunning snow ahead of the warm front is a bit farther south than 
+previously forecast. Despite having decent returns on radar, with 
+dewpoint depressions still about 15 degrees, much of this does not 
+seem to be reaching the ground. This is confirmed by area cams and 
+ASOS obs. Anything that did/does fall will be light with 
+possibly a light coating across some far northern locations 
+locations. This overrunning precipitation is currently pushing 
+through eastern CT and should be out of the area by 4 AM.
+
+The low continues to push east and will drag a cold front through 
+the area this afternoon. W/SW winds pick up ahead of the front with 
+deep mixing expected. There is very good agreement with mixing up to 
+at least 800mb, with many models showing peak mixing up to 700mb. 
+Not expecting winds to make it to the surface from the top of the 
+layer, but even taking the 925mb winds is enough for 45 mph gusts. 
+Given this, and the fact that winds overperformed slightly 
+yesterday, a Wind Advisory has been issued and is in effect 
+from 9am this morning until 10pm tonight for widespread 45 to 50
+mph wind gusts. The peak of the gusts will likely be this 
+afternoon.
+
+Very weak instability forms ahead of the cold front and this 
+will likely aid in afternoon scattered showers. For most this 
+will fall as rain, but locations up in the Lower Hudson Valley 
+could see snow or a rain/snow mix. The nature of this may also 
+be more squall like, similar to yesterday, but again this threat
+is more for north and west of the area.
+
+Heights start to rise aloft tonight as the flow flattens. High 
+pressure starts to build in at the surface. Winds gradually lower 
+through the night, but remain gusty with 20 to 30 mph gusts
+after midnight.
+
+&&
+
+.SHORT TERM /THURSDAY THROUGH THURSDAY NIGHT/...
+High pressure continues to build in on Thursday and then pushes 
+east Thursday night. A warm front from the next system 
+approaches the area Thursday night. There is potential for some 
+precipitation from this system to start as early as late 
+Thursday night. If this is the case, some freezing rain is 
+possible for any locations that drop to freezing ahead of the 
+system. This would likely be the higher elevations of northeast 
+NJ and then the Lower Hudson Valley into southwest CT. This 
+threat will continue to be monitored, but for now only light ice
+accumulation is expected.
+
+&&
+
+.LONG TERM /FRIDAY THROUGH TUESDAY/...
+The modeling has trended swd with the track of the weak sfc low on 
+Fri. This will allow the llvl cold air to remain locked in across 
+the interior during the mrng hours, with fzra the result. The 
+concern is that the swd trend continues, allowing nrn areas to stay 
+fzra for most of the day. Dropped temps slightly from the NBM due to 
+an expected warm bias in a CAD scenario. There is still time for the 
+models to latch onto a consistent track - and when that occurs the 
+higher res models will be in range to contribute to the 2m temp fcst.
+
+The NBM has high pops for Fri ngt as the sys exits, which could lead 
+to the impression that some decent snow could fall as temps drop. 
+However, the modeling has been consistent that the h7 dry slot comes 
+thru, cutting off any significant pcpn. Because of this, have 
+included the transition to wintry wx, but have very little in the 
+way of snow accums attm.
+
+Dry and seasonably cool on Sat. Normal highs are about 40 for the 
+climate sites. Fair wx to start Sun, then a warm front approaches 
+and passes late Sun ngt. Some lgt snow possible, perhaps mixed with 
+rain at the coasts. 
+
+Thermal ridge builds in on Mon, so some milder high temps fcst and 
+the NBM was followed. The city could hit 50. 
+
+The next cold front comes thru Mon ngt per the 00Z runs. The front 
+is moisture starved so the modeling indicates a dry fropa.
+
+Fair and seasonal on Tue, albeit windy, with high pres building in 
+all the way from wrn Canada.
+
+&&
+
+.AVIATION /08Z WEDNESDAY THROUGH SUNDAY/...
+A cold frontal passage occurs this aftn. 
+
+S-SW winds veering more SW with gusts 20-25kt by the start of the 
+morning push. Winds increase further through the morning push and 
+gradually veer more westerly. The winds then shift WNW in the 
+afternoon with gusts generally around 35kt and a peak gust of 40-
+45kt.
+
+   NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Winds probably favor north/right of 310 magnetic at KJFK/KLGA/KTEB 
+after around 19z. Equal chances for left or right of 310 magnetic at 
+KEWR.
+
+.OUTLOOK FOR 06Z THURSDAY THROUGH SUNDAY...
+
+Late Tonight: VFR. NW G25-30kt eve, then 20-25kt overnight.
+
+Thursday: VFR into the eve. NW winds G20kt in the morning. A wintry 
+mix developing overnight with MVFR or lower.
+
+Friday: Wintry mix changing to rain with MVFR or lower, changing to 
+light snow after midnight before ending. SW winds G20kt NYC 
+metro/coast.
+
+Saturday: Becoming VFR in the morning. NW winds G20kt until around 
+midday.
+
+Sunday: Chance MVFR or lower cond mainly at night, with snow 
+changing to a wintry mix or rain. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+A Gale Warning is in effect for all waters as gusts up to 40 kt
+are expected today. The Gale Warning is in effect through the 
+first half of tonight before winds finally lower to SCA levels. 
+25 kt gusts can then be expected into early Thursday. With cold
+air working into the area, light freezing spray is expected
+tonight across the LI Sound and ocean waters. Quiet marine 
+conditions expected the rest of Thursday through the first half 
+of Thursday night when the next frontal system approaches.
+
+A SCA will likely be needed for Fri and Sat on the ocean, with mrgnl 
+winds elsewhere. All waters blw SCA lvls Sun into Mon. 
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through early next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Wind Advisory from 9 AM this morning to 10 PM EST this evening 
+     for CTZ005>012.
+NY...Wind Advisory from 9 AM this morning to 10 PM EST this evening 
+     for NYZ067>075-078>081-176>179.
+NJ...Wind Advisory from 9 AM this morning to 10 PM EST this evening 
+     for NJZ002-004-006-103>108.
+MARINE...Gale Warning until 1 AM EST Thursday for ANZ331-332-335-338-
+     340-345-350-353-355.
+     Small Craft Advisory until 6 AM EST early this morning for 
+     ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JMC/JT
+NEAR TERM...JT
+SHORT TERM...JT
+LONG TERM...JMC
+AVIATION...JMC
+MARINE...JMC/JT
+HYDROLOGY...JMC/JT

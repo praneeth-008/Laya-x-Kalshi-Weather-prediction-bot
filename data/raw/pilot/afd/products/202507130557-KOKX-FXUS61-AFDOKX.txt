@@ -1,0 +1,179 @@
+147 
+FXUS61 KOKX 130557
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+157 AM EDT Sun Jul 13 2025
+
+.SYNOPSIS...
+High pressure remains along the New England coast into Sunday
+morning, then drifts east through Monday as a cold front moves
+into the region late Monday. The frontal boundary likely 
+remains just offshore through mid week. Another frontal system 
+may then impact the area towards the end of the week.
+
+&&
+
+.NEAR TERM /THROUGH TODAY/...
+Surface high pressure remains along the New England coast
+tonight with a light flow across the region, and a warm and
+humid airmass remaining in place. Any convection across the
+Lower Hudson Valley will be weakening and dissipating early this
+evening with the loss of daytime heating. Any storms that do
+develop will be slow moving, and have the potential to produce
+briefly heavy rainfall. With the airmass in place, and a light
+southerly flow, low clouds are expected to develop along and
+offshore of the coast, and drift inland late tonight into Sunday
+morning.
+
+&&
+
+.SHORT TERM /TONIGHT THROUGH 6 PM MONDAY/...
+Any low clouds and possibly fog will dissipate Sunday morning 
+as low level mixing increases.
+
+The surface high off the New England coast drifts east late 
+Sunday into Monday as the upper ridge axis moves offshore and 
+heights gradually fall with the approach of an upper trough. 
+Much of the energy with the trough will be passing to the north 
+during Monday, and the trough weakens. A weak, and weakening
+cold front moves into the region either late Monday or Monday
+evening. And a warm and humid airmass remains through Monday,
+becoming unstable late morning into the afternoon with CAPE
+increasing to over 1000 J/kg. Precipitable water values will be
+around 2 inches Monday. With the weakening front, and little
+forcing convection will be more scattered, and opted for areal
+coverage wording. There will once again be the potential for any
+of the storms to produce briefly heavy rainfall, however the
+steering flow does increase Monday, and storms are expected to
+be moving southeast 20 to 25 mph.
+
+&&
+
+.LONG TERM /MONDAY NIGHT THROUGH SATURDAY/...
+***Key Points***
+
+*While still some uncertainty, there is at least potential for 
+ a heat wave Tuesday through Friday for many areas with Max Heat
+ Index values each day between 95 and 100 (Heat Advisory 
+ criteria).
+
+*Relatively active pattern with chances for several days of 
+ afternoon showers and thunderstorms.
+
+A cold front will just be passing through at the start of the long 
+term period. This boundary will likely stall just offshore and 
+linger for several days. A frontal system may then impact the area 
+later in the week. Aloft, the pattern stays the same through the 
+period. Although we are under some high heights, we are somewhat on 
+the eastern end of a broad upper level trough centered over central 
+Canada and few shortwaves likely pass through.
+
+With strong Bermuda high in place, a S/SW flow will allow plenty of 
+moisture to be sent our way. This combined with above normal high 
+temperatures brings some potential for a heat wave. NBM dewpoints 
+are likely too high but even after manually lowering afternoon 
+dewpoints when mixing is expected still seeing some 95-100 heat 
+index values. However, there still is uncertainty especially given 
+the potential for convection and slight inconsistencies in a late 
+week frontal system among the guidance.
+
+Too early to talk specifics when it comes to severe or flooding 
+concerns with the aforementioned convection. These details will be 
+ironed over the next few days. There is plenty of moisture around 
+with pwats 1.75-2.00+ for much of the period so any convection that 
+does develop will likely be able to produce heavy downpours. As for 
+severe, while we are pretty unstable, shear looks weak through much 
+of the period.
+
+&&
+
+.AVIATION /06Z SUNDAY THROUGH THURSDAY/...
+Weak high pressure remains in place offshore through Sunday,
+slowly drifting east through the day and into Sunday night.
+
+Mostly MVFR tonight. Some IFR mainly east of the city terminals.
+For Sunday, conds improve to VFR for most by noon. There is a
+chance the KGON does not improve to VFR on Sunday, though the
+current forecast is for a brief period of VFR between 22Z 
+Sunday and 00Z Monday. MVFR conditions move back into the area 
+Monday night, with a chance of IFR for most terminals, but 
+confidence is not high enough to put in the forecast just yet.
+
+SE winds under 10 kt, becoming light and variable or a 
+light E flow overnight. SE winds for Sunday at around 10 kt. 
+There may be isolated gusts to around 15 kt during the late 
+morning into the afternoon.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Moderate confidence in conds lowering to at least MVFR for all
+terminals, however lower confidence in IFR chances and timing.
+For KJFK, IFR might not occur at all, or prevail for a few hours
+overnight. For KLGA/KEWR/KTEB, tempo IFR cigs possible for a few
+hours after midnight. If IFR occurs at any of these 3 terminals,
+chances are that it won't prevail for more than a few hours. 
+
+.OUTLOOK FOR 06Z MONDAY THROUGH THURSDAY... 
+
+Sunday night: Mostly MVFR, but IFR possible east of the city
+terminals.
+
+Monday: MVFR or lower in the afternoon and early evening with 
+showers and thunderstorms likely.
+
+Tuesday-Thursday: Mainly VFR. Showers or thunderstorm possible in 
+the afternoon and evening.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+With a weak pressure gradient, winds and waves likely remain below 
+Small Craft Advisory criteria tonight through next week. 
+However, a relatively active pattern is expected next week with
+chances of afternoon showers and thunderstorms for several 
+days. Winds and waves will be higher in any storms.
+
+&&
+
+.HYDROLOGY...
+Isolated thunderstorms across the Lower Hudson Valley Sunday 
+afternoon have the potential of producing localized heavy 
+rainfall as the storms will be slow moving. And any potential 
+flooding will also be localized. For Monday, there is a chance 
+of minor flooding with heavy rainfall potential across a larger 
+area as a cold front approaches during the day. However, any 
+flooding will be localized. At this time there are no hydrologic
+concerns Monday night through the week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+The rip current risk on Sunday is moderate with an onshore flow
+near 10 kt, a 3-4 ft swell from the southeast at a 7 to 8 sec,
+and an added long period onshore swell.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...MET/JT
+NEAR TERM...MET
+SHORT TERM...MET
+LONG TERM...JT
+AVIATION...JP
+MARINE...MET/JT
+HYDROLOGY...MET/JT
+TIDES/COASTAL FLOODING...

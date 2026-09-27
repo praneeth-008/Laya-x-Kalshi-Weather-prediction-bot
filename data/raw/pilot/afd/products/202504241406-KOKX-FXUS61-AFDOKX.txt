@@ -1,0 +1,191 @@
+080 
+FXUS61 KOKX 241406
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1006 AM EDT Thu Apr 24 2025
+
+.SYNOPSIS...
+High pressure moves over the area today and offshore tonight 
+into Friday. A frontal system approaches Friday night and moves 
+across Saturday. High pressure follows Sunday into early next 
+week. Another frontal system may move across the area mid next 
+week.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Temperatures and dewpoints were adjusted slightly with this 
+update. Otherwise, the forecast remains on track. 
+
+Double barrel high pressure over the region this morning gets 
+further east late this afternoon into tonight. A return flow of 
+sorts attempts to get going. With the synoptic flow expected to 
+be fairly light, look for a hybrid sea breeze to develop with a 
+southerly flow off the cooler ocean, especially for the 
+afternoon. By late in the afternoon a wide spread in 
+temperatures should be anticipated, with mainly 60s and a few 
+middle and upper 50s across coastal sections. Temperatures are 
+expected to be considerably cooler across eastern coastal 
+sections for the late day and early evening with a wind off the 
+colder ocean. Across western and interior locations 70s are 
+expected, with mainly middle and upper 70s for daytime maxes. 
+
+Subtle height rises (especially at the 700 mb level) are indicated 
+by global NWP through tonight and into Friday morning as the upper 
+jet remains north of the region. Temperatures at 850 mb will remain 
+around 10 C. With high pressure at the sfc over the Western Atlantic 
+the low level winds will be more out of the SW tonight. Overall the 
+winds will be light and temperatures should remain mild tonight with 
+mainly 50s, with some upper 40s for eastern most portions of the 
+area.
+
+&&
+
+.SHORT TERM /FRIDAY THROUGH SATURDAY/...
+On Friday the synoptic flow increases some out of the south. 
+Temperatures further inland and west are expected to be noticeably 
+warmer as opposed to locations further east and closer to the 
+coast. The warmest locations will likely be in the upper 70s and 
+lower 80s, with cooler readings from NYC on east and along coastal 
+sections of CT and LI where 60s and lower 70s are likely. At this 
+point there appears to be enough mid and upper level ridging taking 
+place into Friday to keep the region dry. However a frontal system 
+off to the west begins to draw closer late in the day and into 
+Friday night. This should lead to an increase in mid level clouds 
+mainly during the afternoon hours. During Friday night clouds should 
+lower with mainly chance showers for much of the night, with PoPs 
+increasing late at night as pre-frontal forcing and ascent ahead of 
+the boundary begin to increase some. With cloud cover and a 
+southerly flow regime look for mild temperatures Friday night with 
+temperatures holding steady and perhaps even rising a few degrees 
+with mainly 50s to around 60 for the metro.
+
+On Saturday the cold front will slowly make its way through eastern 
+portions of the area by evening as a progressive shortwave moves 
+north of the area. Rain showers will be likely for much of the 
+area Saturday with possible isolated thunderstorms during the 
+afternoon and evening hours ahead of the frontal passage. Cloud 
+cover preceding the cold front will put a limit on any sfc based
+CAPE / convective chances and organization. Given the shower 
+activity and cloud cover, high temperatures will be cooler 
+overall than previous days with highs mainly ranging from the 
+middle 60s to lower 70s. Total rainfall accumulations at this 
+time are expected to on the order of around a half inch, and 
+perhaps up to 0.75 inches.
+
+&&
+
+.LONG TERM /SATURDAY NIGHT THROUGH WEDNESDAY/...
+There has been little change to the forecast thinking Saturday night 
+through the middle of next week. 
+
+A cold front will continue pushing offshore Saturday evening.
+The upper trough trails behind the front, but any lingering precip 
+east of the NYC metro in the evening should quickly end as the 
+forcing and deepest moisture move offshore. The upper trough will 
+move over the region early Sunday and then off the coast Sunday 
+night. High pressure will follow, but will remain over the Great 
+Lakes and Ohio Valley on Sunday as low pressure lingers near the New 
+England coast associated due to the slower progression of the upper 
+trough. The high pressure will build over the the area Sunday night 
+into Monday along with ridging aloft. The upper ridge will likely 
+remain in place through Tuesday, but the surface high gradually 
+works its way offshore. The latest model consensus then takes the 
+next shortwave across the Great Lakes and up into southeast Canada 
+by mid next week. The associated frontal system may then move across 
+the area next Wednesday. Current precip probabilities are low due to 
+the best forcing remaining well to our north.
+
+Temperatures on Sunday should return to seasonable levels in the 
+lower and middle 60s. A warming trend will then occur through 
+Tuesday as temperatures rebound into the upper 60s and lower 70s 
+Monday with upper 70s to around 80 on Tuesday away from the coast. 
+This trend may continue into next Wednesday, but will be dependent 
+on the timing of the aforementioned frontal system and exact wind 
+direction.
+
+&&
+
+.AVIATION /14Z THURSDAY THROUGH MONDAY/...
+VFR. High pressure remains over the area this morning, then 
+drifts offshore through tonight. 
+
+Light NE-E flow becomes SE and gradually increases through the rest 
+of this morning. Winds will continue veering to the SSE-S this 
+afternoon with speeds 10-13 kt. Winds slowly weaken this evening as 
+the direction becomes SW under 10 kt. Outlying terminals should see 
+light and variable winds overnight. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+NE flow may linger 1-2 hours longer at KLGA into early 
+afternoon before shifting to the SE.
+
+There is a low chance for HZ and a reduction in visibility due
+to smoke from the wildfire in eastern NJ.
+
+.OUTLOOK FOR 12Z FRIDAY THROUGH MONDAY...
+
+Friday: VFR. S winds G15-20 kt in the afternoon and evening.
+
+Friday Night-Saturday: MVFR or lower in showers. An isolated 
+thunderstorm possible Saturday. S-SSW gusts 15-25 kt, becoming 
+W-NW in the afternoon/evening.
+
+Sunday: VFR. N gusts 20-25 kt possible.
+
+Monday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+
+&&
+
+.MARINE...
+With high pressure nearby and getting east of the waters sub 
+advisory conditions will prevail through the day Friday with ocean 
+seas not much above 2 ft throughout. By late Friday and Friday 
+evening a southerly flow increases with gusts potentially 
+approaching 20 kt for some of the southern coastal waters. Small 
+craft conditions will become increasingly likely Friday night, at 
+least out on the ocean as the pressure gradient increases ahead of 
+an approaching frontal boundary. More widespread small craft 
+conditions are anticipated on Saturday with ocean seas climbing to 5 
+to 7 ft. SW winds will switch quickly to the NW from west to east 
+with the passage of a cold front by the late afternoon / early 
+evening Saturday.
+
+Marginal SCA wind gusts on the ocean may continue Saturday evening, 
+but overall winds should end up below 25 kt late Saturday night into 
+Sunday. Ocean seas will remain 5-6 ft Saturday night before 
+subsiding below 5 ft Sunday morning. Conditions will then remain 
+below SCA levels into early next week.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns throughout the forecast period.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...Air Quality Alert until midnight EDT tonight for NYZ069>075-
+     078>081-176>179.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JE/DS
+NEAR TERM...JE/BR
+SHORT TERM...JE
+LONG TERM...DS
+AVIATION...DS
+MARINE...JE/DS
+HYDROLOGY...JE/DS

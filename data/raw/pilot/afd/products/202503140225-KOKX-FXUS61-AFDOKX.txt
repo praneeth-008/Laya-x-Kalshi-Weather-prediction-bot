@@ -1,0 +1,225 @@
+729 
+FXUS61 KOKX 140225
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1025 PM EDT Thu Mar 13 2025
+
+.SYNOPSIS...
+A high pressure ridge along the coast will shift inland tonight
+as weak low pressure passes by well to the southeast. The high 
+will return to the coast on Friday, then weaken Friday night 
+into Saturday. A warm front will lift through late Saturday, 
+followed by a complex frontal system for Sunday into the first 
+half of Monday. High pressure will return later Monday into 
+Tuesday, before moving offshore on Wednesday. Another frontal 
+system will approach on Thursday.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM FRIDAY MORNING/...
+With the cloud cover across the coastal areas, and lowering,
+temperatures will mot drop off as much as forecast, and raised 
+overnight lows a few degrees. Increased cloud cover across Long
+Island and into the NYC metro region as offshore low clouds 
+have begun to move inland, and will spread north and west into 
+tonight. Otherwise, only minor updates were done for current 
+conditions.
+
+A high pressure ridge along the Connecticut coast and into
+northeastern New Jersey will remain nearly stationary overnight.
+Meanwhile, a weak low passes well to the southeast, with winds 
+backed to the NE.
+
+&&
+
+.SHORT TERM /6 AM FRIDAY MORNING THROUGH FRIDAY NIGHT/...
+As the weak offshore low moves east the sfc high should
+reposition itself along the coast on Fri, with any AM clouds
+along the coast scattering by afternoon. With a mostly sunny
+afternoon and heights rising aloft expect a milder day, with
+high temps 50-55 along the coast and 55-60 inland. 
+
+As the high weakens late Fri into Fri night a light return SE-S
+flow should develop, with an increase in low clouds especially
+closer to the coast. Low temps will range from the lower 40s
+invof NYC to the 30s elsewhere.
+
+&&
+
+.LONG TERM /SATURDAY THROUGH THURSDAY/...
+Key Points:
+
+* Overall an above normal temperature regime, especially during
+  the daytime and further west across the region.
+
+* A complex frontal systems impacts the region Sunday PM into
+  Monday AM.
+
+A central US trough lifts northeast this weekend and will impact
+the region Sun night / early Monday. This will be followed by 
+Central US ridging by Monday, which will progress east and 
+amplify through mid week. Another Pacific based trough then 
+approaches with a complex frontal system towards Thu / Thu night
+with global NWP maintaining timing differences among the 
+various camps.
+
+Occluded low pressure will drive up into the Midwest and Western 
+Great Lakes to begin the period. An extensive warm front will 
+emanate from the storm system all the way to the Eastern 
+Seaboard. A broad southerly based synoptic flow regime sets up 
+along the east coast and our area. Temperatures will overall 
+average above normal, however half of the area will have a 
+southerly wind coming off the colder ocean, thus this will 
+modify temperatures quite a bit. Much of the higher res guidance
+as is WPC does analyze a warm front embedded in the southerly 
+flow late in the day Saturday. This may be enough of a focusing 
+mechanism and convergence zone to initiate some shower activity 
+across the region on Saturday along with some diffuse mid level 
+energy. Have gone with low end chance PoPs with shower activity 
+mainly for Saturday afternoon and evening. Later Saturday night 
+into Sunday morning should be shower free for the most part as 
+the area gets firmly in the warm sector. The synoptic flow will 
+then increase ahead of an approaching cold front on Sunday. The 
+winds increase through the day as the pressure gradient tightens
+ahead of the cold frontal boundary. NBM and LREF probabilistic 
+guidance suggests a 40 to 50 percent chance of wind gusts at or 
+slightly greater than 40 mph for the NYC metro and coastal 
+sections. A surge of higher PWATs and theta-e moves up from the 
+Piedmont and the Lower Mid Atlantic. Therefore have introduced a
+swath of slight chance of thunder for late Sunday / first half 
+of Sunday for W / SW portions of the area. Any convection would 
+likely be elevated with stable air getting into a good portion 
+of the area on a southerly sfc flow. There is a fairly good 
+chance of a period of moderate to perhaps even heavy rain for 
+Sunday evening into a portion of the overnight into Monday 
+morning from west to east ahead of the boundary. Probabilistic 
+precip guidance from the NBM and LREF is suggestive of a 50 to 
+70 percent chance of an inch of rain, with a reasonable worst 
+case (10 to 20% chance) of up to two inches. 
+
+The frontal system is expected to get off the coast sometime
+during the day Monday with some subtle timing difference among
+global NWP. It is likely by afternoon some clearing gets into 
+portions of the area. With a W flow have gone a bit above NBM 
+temp guidance on Monday, and also on Tuesday on a W to SW flow. 
+There is a chance if the sfc wind direction has enough of a W 
+component that temperatures could be underdone by quite a bit on
+Tuesday with a pacific air mass source region. With an 
+amplifying mid and upper level ridge temperatures should 
+continue to average above normal into Wednesday, with guidance 
+more suggestive of a southerly component to the winds which 
+could keep eastern sections much cooler than western locations 
+for both Wednesday and Thursday. Thus later next week day time 
+temperature may be significantly above normal further west, and 
+only slightly above normal further east across the area. The 
+ridge does break down late Wednesday as the next frontal system 
+approaches. This system would be bring the next chance or 
+likelihood of rain towards Thu or Thu night depending on the 
+speed and progression of the system.
+
+&&
+
+.AVIATION /03Z FRIDAY THROUGH TUESDAY/...
+High pressure remains in control tonight into Friday, moving 
+offshore late Friday afternoon and into Friday night.
+
+Stratus has moved into Long Island and along the Connecticut
+coast with MVFR ceilings, 1500 to 2500 ft. Farther inland
+conditions remain VFR, but will lower as the stratus advances
+and develops west and north. Timing of the MVFR ceilings inland
+remains uncertain and confidence is low. KSWF likely remains
+VFR overnight. Conditions improve to VFR Friday morning, 
+however, timing of the improvement may be off an hour or two, 
+and possible conditions remain MVFR well into the afternoon, 
+especially along the coast.
+
+Light NE flow remains overnight, then the winds veer to E late 
+Friday morning, and then SE late in the day. Winds will be light
+through the forecast, around 5 kt.
+
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Low confidence on the timing of MVFR ceilings tonight, and may 
+be quicker than forecast, especially at KJFK, and possible later
+at KTEB. Timing of improvement back to VFR Friday morning may 
+be off by an hour or two, and possible that MVFR remains much of
+the day.
+
+.OUTLOOK FOR 00Z SATURDAY THROUGH TUESDAY...
+
+Friday night: VFR early, then becoming MVFR late evening and
+overnight.
+
+Saturday: MVFR in the morning, VFR in the afternoon. Chance of 
+rain showers during the afternoon and at night. S winds 
+G20-30kt at night.
+
+Sunday: MVFR with showers and LLWS mainly in the afternoon.
+Chance of showers. S winds G25-35kt.
+
+Sunday night: MVFR/IFR in rain/showers, a thunderstorm possible.
+LLWS and S winds G30-40kt. Winds becoming SW and diminishing 
+late. 
+
+Monday: Sub VFR possible in AM, otherwise becoming VFR. Showers
+ending west to east during the afternoon. 
+
+Tuesday: VFR.
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+No changes to the winds and seas at this time.
+
+SCA on the ocean extended into early Fri afternoon. Seas there
+remain at 5-7 ft, highest in the NY Bight on E flow 15-20 kt, 
+and will take longer to subside below 5 ft as flow backs NE 
+tonight and slowly diminishes, then becomes light SE-S later 
+Fri into Fri night. 
+
+SCA conditions should again develop from south to north across 
+the waters Saturday night as a southerly fetch strengthens. 
+Conditions are likely to quickly ramp up to gales, first on the 
+ocean and then also for the near shore non-ocean waters Sunday 
+afternoon. With an inversion likely on the waters gusts to storm
+force seem unlikely at this time. The cold front will likely 
+begin to swing through late Sunday night / early Monday morning 
+with the winds lowering and switching to the W, then NW into the
+day Monday. Elevated small craft seas will continue on the 
+ocean through at least Tuesday morning, with sub small craft 
+seas likely returning either late Tuesday or Tuesday night.
+
+&&
+
+.HYDROLOGY...
+Potential exists for a widespread 1 inch rainfall event from
+late Sunday into the first half of Monday, with a 10-20 
+percent chance (reasonable worst case scenario) of up to 2 
+inches. At this time only localized minor nuisance/urban type 
+flooding is anticipated.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 2 PM EDT Friday for ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JE/BG
+NEAR TERM...BG/MET
+SHORT TERM...BG
+LONG TERM...JE
+AVIATION...MET
+MARINE...JE/BG/MET
+HYDROLOGY...JE

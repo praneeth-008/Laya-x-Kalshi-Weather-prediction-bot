@@ -1,0 +1,217 @@
+326 
+FXUS61 KOKX 131105
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+705 AM EDT Sun Jul 13 2025
+
+.SYNOPSIS...
+The region will remain between a frontal system to the northwest and 
+a departing high pressure area to the northeast. The associated cold 
+front approaches Monday and moves across Monday night into early 
+Tuesday. The frontal boundary then stays within the vicinity of the 
+region through midweek. A cold front may approach the area by 
+the end of the week.
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+The local area will be in between high pressure southeast Nova 
+Scotia and a frontal system traversing slowly within SE Canada. 
+The warm front is already well north and east of the region. 
+The local region has light easterly flow today overall. 
+
+Not expecting much in the way of measurable rainfall today. 
+Think that most locations will not receive measurable rain. 
+However, multiple CAMs indicate as well as more larger scale 
+coarse resolution models small discrete areas of QPF or 
+reflectivity traversing the local area. From BUFKIT sounding 
+analysis, there is still drier air between 5 and 25 kft above 
+the ground. From 5kft to the ground, there is enough depth of 
+moisture to have some drizzle or rain sprinkles. The easterly 
+flow is helping trap moisture in the low levels underneath an 
+inversion around 5kft.
+
+Otherwise, NBM has been too aggressive with its POPs for showers and 
+thunderstorms. CAMs show a general lack of convection in the local 
+area. Lowered manually the NBM POPs and now just in and around NW 
+Orange has the chance for showers and thunderstorms.
+
+For temperatures, used the NBM but manually lowered for locations 
+within Southern Connecticut and Eastern Long Island. These locations 
+will be on the lower end of high temperatures in the upper 70s while 
+the warmest spots are in NE NJ and portions of the interior with 
+highs in the upper 80s. 
+
+With the humid airmass, heat indices or apparent temperatures still 
+will be a few degrees warmer than the actual temperatures. However, 
+the max heat indices are mostly in the lower 90s, below heat 
+advisory criteria.
+
+&&
+
+.SHORT TERM /6 PM THIS EVENING THROUGH TUESDAY NIGHT/...
+For tonight, the flow becomes more southeast. Clouds remain abundant 
+and some patchy fog and drizzle may develop along parts of the 
+region. Otherwise, small chance of a shower or thunderstorm to the 
+northwest by Orange County NY.
+
+Min temperatures were from NBM ranging only from the upper 
+60s to lower 70s.
+
+For early next week, frontal system from SE Canada approaches with 
+an associated cold front. This cold front approaches from Monday and 
+moves into the area Monday night. Chances for showers and 
+thunderstorms increase across a larger fraction of the region. The 
+front slows down as it exits early Tuesday. Continued chances for 
+showers and thunderstorms.
+
+Downward trend in POPs Tuesday into Tuesday night as cold front 
+pushes farther south of Long Island.
+
+Airmass gradually getting warmer early next week with synoptic flow 
+becoming more southerly. Highs more in the 80s with some places 
+reaching near 90 for Tuesday. Corresponding heat indices get more 
+near the low to mid 90s, especially Tuesday.
+
+&&
+
+.LONG TERM /WEDNESDAY THROUGH SATURDAY/...
+***Key Points***
+
+*While still some uncertainty, there is the potential for a heat 
+wave to continue Wednesday through Friday for many areas with max h 
+eat index values between 95 and 100 (2-day Heat Advisory Criteria) 
+for Wednesday and Friday and 100 to 105 possible for Thursday (1-day 
+Heat Advisory criteria).
+
+*Relatively active pattern with chances for several days of 
+afternoon showers and thunderstorms.
+
+A frontal boundary will likely stall just offshore and linger in the 
+area Wednesday into Thursday. A frontal system may then impact the 
+area later in the week. Aloft, the pattern stays the same through 
+the period. Although we are under some high heights, we are somewhat 
+on the eastern end of a broad upper level trough centered over 
+central Canada and few shortwaves likely pass through.
+
+With strong Bermuda high in place, a S/SW flow will allow plenty of 
+moisture to be sent our way. This combined with above normal high 
+temperatures brings some potential for a heat wave, with heat index 
+of 95-100 currently expected Wednesday and Thursday, and 100 to 105 
+for many spots on Thursday. However, there still is uncertainty 
+especially given the potential for convection and slight 
+inconsistencies in a late week frontal system among the guidance.
+
+Too early to talk specifics when it comes to severe or flooding 
+concerns with the aforementioned convection. These details will be 
+ironed over the next few days. There is plenty of moisture around 
+with pwats 1.50-2.00+ for much of the period so any convection that 
+does develop will likely be able to produce heavy downpours. As for 
+severe, while we are pretty unstable, shear looks weak through much 
+of the period.
+
+&&
+
+.AVIATION /12Z SUNDAY THROUGH THURSDAY/...
+Weak high pressure remains in place offshore through Sunday,
+slowly drifting east through the day and into Sunday night.
+
+Mostly MVFR through daybreak. Some IFR mainly east of the city 
+terminals. For today, conds improve to VFR for most by noon. 
+There is a chance the KGON does not improve to VFR, though the 
+current forecast is for a brief period of VFR between 22Z today
+and 00Z Monday. MVFR conditions move back into the area tonight,
+with a chance of IFR for most terminals, but confidence is not 
+high enough to put in the forecast just yet.
+
+SE winds under 10 kt, becoming light and variable or a 
+light E flow through daybreak. SE winds today at around 10 kt. 
+There may be isolated gusts to around 15 kt during the late 
+morning into the afternoon.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Low chance for IFR conditions through daybreak. For KJFK, IFR 
+might not occur at all, or prevail for a few hours overnight. 
+For KLGA/KEWR/KTEB, tempo IFR cigs possible through daybreak. 
+If IFR occurs at any of these 3 terminals, chances are that it 
+won't prevail for more than a few hours. 
+
+.OUTLOOK FOR 06Z MONDAY THROUGH THURSDAY... 
+
+Sunday night: Mostly MVFR, but IFR possible east of the city
+terminals.
+
+Monday: MVFR or lower in the afternoon and early evening with 
+showers and thunderstorms likely.
+
+Tuesday-Thursday: Mainly VFR. Showers or thunderstorm possible in 
+the afternoon and evening.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Marine weather statement for patchy dense fog until 10AM EDT for
+ocean waters between Moriches Inlet and Montauk Point.
+Visibilities will be reduced below a mile at times,
+
+Weak pressure gradient continues with sub-SCA conditions on all
+waters through early week.
+
+With a weak pressure gradient, winds and waves likely remain below 
+Small Craft Advisory criteria Wednesday through Thursday. A 
+strengthening southwesterly flow ahead of an approaching cold front 
+Thursday night will allow seas to build to 5 ft, especially from 
+Fire Island to Montauk Point.  Additionally, a relatively active 
+pattern is expected next week with chances of afternoon showers and 
+thunderstorms for several days. Winds and waves will be higher in 
+any storms.
+
+&&
+
+.HYDROLOGY...
+Around a quarter to half inch of rain from late tonight through
+Tuesday with locally higher amounts.
+
+Possible minor flooding Monday into Monday night. Marginal risk
+for flash flooding. PWATS get slightly above 2 inches. Parallel
+flow low to mid levels allowing training of cells. HREF showing
+potential for hourly rainfall rates getting to around 1 inch per
+hour Monday evening.
+
+In the long term, localized hydrologic impacts are possible due to 
+thunderstorms from Wednesday through next weekend.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+For Atlantic Ocean beaches, the rip current risk today and 
+Monday is moderate with an onshore flow near 10 kt, a 3 ft swell
+from the southeast at a 7 to 8 sec, and added onshore swells, 
+one of which is a long period swell.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JM/JP
+NEAR TERM...JM
+SHORT TERM...JM
+LONG TERM...JP/JT
+AVIATION...JP
+MARINE...JM/JP
+HYDROLOGY...JM/JP
+TIDES/COASTAL FLOODING...

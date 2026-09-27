@@ -1,0 +1,207 @@
+169 
+FXUS61 KOKX 031006
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+506 AM EST Mon Mar 3 2025
+
+.SYNOPSIS...
+High pressure over the area will slowly move off the coast late
+today into Tuesday. Strong low pressure moving through the upper
+Great Lakes region will send a warm front through Wednesday
+morning, followed by a cold front late Wednesday night into
+Thursday morning. High pressure will then gradually build in as it
+passes to the south through Friday. A weak frontal system will
+pass through this weekend. 
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+As high pressure settles over the area today in the wake of an
+upper trough passage, NW winds will diminish and then become W 
+late this afternoon. Weak warm advection will lead to high temps
+under mostly sunny skies similar to those of Sunday across 
+eastern Long Island/CT (lower 30s) and only slightly warmer 
+elsewhere (mid/upper 30s).
+
+Mostly clear skies will continue most of tonight, with light
+winds, leading to strong radiational cooling. An upper ridge 
+will be building toward the area, but as a warm front passes 
+well north and an embedded mid level shortwave approaches, there
+should be an increase in mid level clouds late especially from 
+NYC north/west, but too late to have much impact on temps,
+though as weak S-SW flow commences temps could hold steady or
+slowly rise late along the coast. Lows will range from around 
+30 in NYC, to 15-20 well inland and in the Long Island Pine 
+Barrens region. 
+
+&&
+
+.SHORT TERM /TUESDAY THROUGH WEDNESDAY NIGHT/...
+Tue should be a partly to mostly cloudy day as broken high and
+mid level clouds continue to overspread the area from the west.
+Low level WAA on S-SW flow will lead to a noticeably milder day,
+with highs in the lower 50s in NYC/NE NJ and the mid/upper 40s
+elsewhere. Temps fall Tue night to the lower 40s in NYC and the
+mid 30s well inland, and lows may occur late in the evening or
+around midnight before holding steady or slowly rising as WAA
+continues. 
+
+Rain with the warm conveyor belt out ahead of an approaching
+cold front system should move in daytime Wed, with likely PoP 
+NW of NYC by late morning, then categorical PoP for most of the 
+area in the afternoon especially late and into the evening. The
+rain could become locally heavy, and isolated elevated thunder
+is possible mainly from western Long Island and SW CT on west.
+S winds will also be increasing through the day and into the 
+evening as a strong LLJ with H9 speeds 75-80 kt moves across. 
+Expect at least some strong wind despite a sfc-based inversion,
+with gusts at least as high as 35-40 mph for the NYC metro and 
+Long Island from late afternoon and evening, and 30-35 mph 
+inland. If the inversion is weaker cannot rule out somewhat 
+stronger winds and the eventual need for a wind advisory for NYC
+metro, Long Island, and possibly coastal CT. Rain tapers off to
+showers after midnight. 
+
+High temps on Wed should be in the 50s, with lows Wed night in
+the mid/upper 40s. 
+
+&&
+
+.LONG TERM /THURSDAY THROUGH SUNDAY/...
+Key Points:
+
+* The strong low and its associated cold front will push
+  offshore on Thursday bringing an end to any lingering 
+  showers Thursday morning.
+
+* Windy conditions are expected late Thursday into Friday as
+  high pressure gradually builds towards the region.
+
+* Mainly dry conditions prevail next weekend with just a weak  
+  frontal system passing across the area.
+
+A highly amplified upper trough will swing across the east coast
+on Thursday, helping to push the deep moisture and lift 
+offshore in the morning. The associated cold front will also 
+continue to push offshore. The trough lifts towards the 
+Maritimes on Friday as a progressive ridge slides across the 
+region. Another shortwave will quickly follow next weekend. 
+Guidance has continued to illustrate a relatively flat shortwave
+that moves across the region with weak lift and little to no 
+precipitation. The associated weak front and low pressure pass 
+through sometime Saturday into Saturday night with a high 
+pressure ridge following on Sunday. Have kept PoPs no higher 
+than slight chance on Saturday with the aforementioned weak 
+front. Temperatures profiles support any precip that does 
+develop to be in the form of rain except maybe a few wet 
+snowflakes well inland Saturday morning. 
+
+NW winds will increase late Thursday into Thursday night.
+Sustained winds 15-25 mph are possible with gusts 30-35 mph. A 
+few gusts to 40 mph are also possible. These winds may continue 
+into a portion of Friday before weakening into the start of the 
+weekend. The warmest day of the period will be Thursday with 
+highs well into the 50s. The air mass should cool down by Friday
+with temperatures in the middle to upper 40s. Slightly warmer 
+temperatures are possible to start next weekend before trending 
+back closer to normal next Sunday behind the departing weak 
+front. 
+
+&&
+
+.AVIATION /10Z MONDAY THROUGH FRIDAY/...
+VFR with high pressure in control through early Tuesday morning. 
+
+NW winds 10 kt or less at NYC metro terminals and around 5-7 kt 
+elsewhere through day break. NW flow then increases to near 10 
+kt this morning and early afternoon. The wind direction will 
+back towards the W and SW late afternoon into the early evening.
+The flow weakens to around 5 kt or less overnight.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Timing of wind shifts to the W-SW may be off by 1-2 hours. 
+
+.OUTLOOK FOR 06Z TUESDAY THROUGH FRIDAY...
+
+Late Monday night-Tuesday: VFR. SW winds G15-20 kt Tuesday 
+afternoon. 
+
+Tuesday night: MVFR possible, especially late with a chance of a 
+shower well NW of the NYC metro terminals. S winds G15-20 kt 
+possible.
+
+Wednesday: Showers with IFR/LIFR at times and LLWS expected. 
+S winds G25-35kt. The strong winds will likely occur in the 
+afternoon through the night and closer to the coast. 
+
+Thursday: Chance of showers with MVFR possible. W winds G20kt in
+the afternoon, becoming NW G25-30kt at night. 
+
+Friday: VFR. NW G25-30 kt, gradually diminishing in the
+afternoon and evening.
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Quiet through tonight with diminishing NW-W winds. As high 
+pressure passes off the Mid Atlantic coast on Tue, S-SW flow
+increasing to near 20 kt should build seas to 5 ft Tue
+afternoon/night. Some gusts to 25 kt area also possible on the 
+ocean in the afternoon and early evening. 
+
+As a strong frontal system approaches on Wed, S flow will continue
+to increase, with the strongest winds in the late afternoon and
+evening as a low level jet passes overhead. Sustained S winds of
+25-30 kt expected with gusts at least 35-40 kt on the 
+ocean/south shore bays and up to 30 kt elsewhere. If an expected
+sfc-based inversion is weaker than fcst, somewhat stronger 
+winds could occur, with a period of at least 35-kt gusts on all 
+waters and as high as 40-45 kt on the ocean. As winds increase, 
+ocean seas should build to 7-9 ft by late day, then as high as 
+10-13 ft Wed night, and some 5-6 footers also possible on Block 
+Island Sound east of Orient. 
+
+Winds may briefly subside below SCA levels Thursday morning but
+should increase again in the afternoon and evening with a 
+steepening pressure gradient. SCA conditions are likely Thursday
+night into Friday with potential of gales, especially into 
+Friday morning. Winds should start to weaken late Friday and may
+fall below SCA levels late Friday night. Seas will be hazardous
+between 8-12 ft on the ocean Thursday into Friday morning and 
+then subside closer to 5 ft Friday night. Waves on the LI Sound 
+may build to 3-6 ft Thursday night. 
+
+&&
+
+.HYDROLOGY...
+A frontal system impacting the region Wednesday and Wednesday
+night should produce QPF of 1.0 to 1.5 inches, with the higher
+totals expected inland. Rainfall rates could approach 1/2 to 3/4
+inch in spots at the time of heaviest rainfall, which would lead
+to nuisance urban and poor drainage flooding. 
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...BG/DS
+NEAR TERM...BG
+SHORT TERM...BG
+LONG TERM...DS
+AVIATION...JM/DS
+MARINE...BG/DS
+HYDROLOGY...BG/DS

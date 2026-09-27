@@ -1,0 +1,211 @@
+072 
+FXUS61 KOKX 060038
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+738 PM EST Wed Feb 5 2025
+
+.SYNOPSIS...
+High pressure over the area will give way to low pressure that 
+impacts the area late tonight into Thursday. The low's cold 
+front passes through the waters late Thursday night into early 
+Friday morning followed by high pressure building into the
+region through Friday night. Another area of low pressure
+impacts the area Saturday night into Sunday. High pressure
+builds back in Sunday night and Monday. A series of low 
+pressure systems pass near the area Monday night through 
+Wednesday.
+
+&&
+
+.NEAR TERM /THROUGH THURSDAY/...
+High pressure was beginning to move slowly offshore and mid and
+high cloudiness was increasing. Aloft, a fast, nearly zonal 
+flow was sending a disturbance from the Mid Mississippi Valley
+and will move into the Ohio and Tennessee Valleys overnight, as
+seen on the water vapor loops. As it approaches Thursday 
+morning, a weak secondary low will take shape south of LI, 
+passing to the east in the afternoon. Warm advection 
+precipitation will break out across the area from SW to NE, 
+approximately 5 to 8 am. It will begin as snow everywhere for 
+about a 2 to 3 hour period, then transition over to rain. Far 
+interior locations, may not changeover to plain rain until early
+afternoon, and by that time it will be mainly pockets of light 
+rain and/or drizzle. Models vary with how quickly the warm air 
+comes in aloft, with the 12Z NAM particularly aggressive, while 
+the GFS and HREF solutions hold on to the colder air a bit 
+longer. We are talking about a matter of 1-2 hours difference, 
+but with a fast system that can be significant. So a slightly 
+colder solution, and a 1 to 2 inch snowfall event may end up 
+closer 3 or 4 inches. However, taking a middle road approach, 
+somewhere between the colder and warmer solutions seems prudent 
+at this time. However, with a strong SW flow aloft, the warmer 
+NAM solution is not out of play. Thus, staying with a 1 to 2 
+inch snowfall with the higher end across CT, the Lower Hudson 
+Valley and NE NJ. Coastal locations as is typical with these SE 
+flow events often see the boundary layer warm to above freezing 
+before before that happens aloft. Thus, across LI and the NYC 
+metro, expect any freezing rain to be real brief. Ice accretion 
+amounts across the interior are expected to range from a few 
+hundredths of an inch to as much as a tenth well north and west 
+of the NYC metro. All winter advisories remain in effect with no
+changes in timing. Highs will top out in the mid 30s to around 
+40.
+
+&&
+
+.SHORT TERM /THURSDAY NIGHT/...
+Behind the departing offshore low Thursday night, a cold 
+frontal passage will follow late as low pressure passes to the
+north across eastern Canada. Skies will also be clearing with
+temperatures remaining on the warm side in the lower to mid 
+30s. In fact, most locations will not drop below freezing until
+Friday night. Any refreezing will be limited across far 
+interior locations.
+
+&&
+
+.LONG TERM /FRIDAY THROUGH WEDNESDAY/...
+The long term period remains active with the upper flow nearly 
+zonal and as a series of shortwaves and weak, low amplitude, 
+trough move through the flow. Guidance remains in good agreement
+with the system for Saturday night into Sunday, and fairly 
+similar to the previous forecast, and probabilities have been 
+increased to near 100%. With cold air in place a wintry mix of 
+snow, freezing rain, and rain is expected. However, there is 
+some uncertainty with the track of the low, and trends have been
+slightly farther to the north. With a more northern track plain
+rain will be possible across metropolitan New York City and 
+across Long Island. Temperatures are non diurnal Saturday night 
+as the low tracks near the region, and the system's warm front 
+nears coastal Long Island. A longer period of freezing rain will
+be possible inland, and possibly closer to the coast, if the 
+warm front remains farther to the south. A cold airmass moves in
+with building high pressure, and temperatures will be several 
+degrees below normal. With the cold airmass in place, and a 
+series of waves of low pressure tracking along a stationary 
+frontal boundary to the south, will bring the potential for a 
+prolonged period of snow late Monday night into Wednesday. There
+is a lot of uncertainty with the track of these lows which will
+impact how far north precipitation will extend and whether or 
+not a mix will be possible along the coast. With this 
+uncertainty have used the deterministic NBM for temperatures 
+and precipitation types Monday night through Wednesday.
+
+&&
+
+.AVIATION /00Z THURSDAY THROUGH MONDAY/...
+Low pressure approaches late tonight, and comes nearby and 
+through towards the late morning and early afternoon. The low 
+pushes off the New England coast Thursday evening.
+
+VFR for most of tonight, with sub VFR developing towards the start 
+of the morning push. Expect MVFR cigs with -SN by 9-11Z. IFR follows 
+shortly thereafter by 12-13Z. Snow transitions to sleet and/or 
+freezing rain around 13-15Z. Have chosen PROB30s for FZRA at KJFK 
+and KLGA, with the higher probability of FZRA for the more western 
+and northern terminals. Transition to plain rain takes place for the 
+city terminals from 15-16Z, but should stay freezing rain at KSWF 
+for some time afterwards. Precip to end as DZ towards 18-20Z with 
+LIFR now expected. LIFR should hold into a portion of the evening 
+push with fog at some terminals, except for KSWF where improvement 
+happens sooner.
+
+Light and variable winds for a good portion of tonight. Winds pick 
+up to around 5-10 kts from the E/SE late in the overnight into the 
+morning. For the afternoon as the low begins to get further east the 
+winds briefly go ENE at most terminals, then shift to WSW late in 
+the day and for early Thursday evening.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Amendments may be possible by early in the morning for the timing of 
+category changes and the onset of snow Thursday morning and for p-
+type timing changes.
+
+.OUTLOOK FOR 0Z FRIDAY THROUGH MONDAY... 
+
+Thursday night: sub VFR early, becoming VFR. 
+
+Friday: VFR. W winds G20-25kt. 
+
+Saturday: Chance of snow with IFR cond in the afternoon. Snow 
+changing to a wintry mix expected at night. 
+
+Sunday: Precip should change over to all rain by daybreak Sunday 
+except for KSWF. MVFR to IFR at times. Becoming VFR as precip ends 
+during Sunday afternoon.
+
+Monday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+High pressure over the area moves offshore overnight as a 
+frontal system approaches from the west. SE winds strengthen 
+after midnight with the potential for winds briefly closing in 
+on 25 kt for a few hours. Wind then diminish as weak low 
+pressure form close to the waters and heads east in the 
+afternoon. West winds strengthen Thursday night with gusts 
+increasing to 20 to 25 kt. A building southerly swell brings 5 
+ft seas into the ocean waters east of Moriches Inlet Thursday 
+afternoon and across the remaining ocean zones at night. Thus, a
+SCA has been issued for all oceans waters, beginning Thursday 
+afternoon on the eastern waters and then the remaining ocean 
+waters at night.
+
+Strong west to northwest flow, in the wake of a cold front, is 
+expected Friday with SCA conditions on all waters. With high 
+pressure quickly building in late Friday into Friday night gusts
+fall below advisory levels on all the waters Friday evening, 
+with ocean seas elevated into late Friday night. Sub SCA 
+conditions will be on all the waters toward Saturday morning and
+through the day Saturday as high pressure builds overhead. With
+another low pressure system quickly approaching Saturday night 
+small craft conditions become likely on the ocean waters with an
+increasing southerly flow, and continue through Sunday as the 
+low moves through the region. Small craft gusts will be marginal
+on the Long Island Sound late Sunday. Ocean seas remain 
+elevated at SCA levels into Sunday night, and subside below by 
+Monday morning in a diminishing northwest flow as high pressure 
+builds. Monday sub SCA conditions are expected across all the 
+forecast waters.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through the forecast period.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Winter Weather Advisory from 4 AM to 1 PM EST Thursday for 
+     CTZ005>012.
+NY...Winter Weather Advisory from 4 AM to 1 PM EST Thursday for 
+     NYZ067>071.
+     Winter Weather Advisory from 4 AM to 11 AM EST Thursday for 
+     NYZ072>075-078-080-176>179.
+NJ...Winter Weather Advisory from 4 AM to 1 PM EST Thursday for 
+     NJZ002-004-103>105-107.
+     Winter Weather Advisory from 4 AM to 11 AM EST Thursday for 
+     NJZ006-106-108.
+MARINE...Small Craft Advisory from 1 PM Thursday to 6 AM EST Friday for 
+     ANZ350.
+     Small Craft Advisory from 6 PM Thursday to 6 AM EST Friday for 
+     ANZ353-355.
+
+&&
+
+$$
+
+SYNOPSIS...MET/DW
+NEAR TERM...MET/DW
+SHORT TERM...DW
+LONG TERM...MET
+AVIATION...JE
+MARINE...MET/DW
+HYDROLOGY...MET/DW

@@ -1,0 +1,180 @@
+974 
+FXUS61 KOKX 092343
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+743 PM EDT Wed Apr 9 2025
+
+.SYNOPSIS...
+High pressure along the coast through Thursday will slowly give
+way to weakening low pressure over the Ohio Valley and a warm 
+front to the south. Low pressure over the Mid Atlantic states on
+Friday will then slowly lift north and east through Saturday,
+passing to the east on Sunday. High pressure will briefly build
+across on Monday before a frontal system moves through from late
+Monday night into Tuesday. High pressure will again build in
+from the southwest for the middle of next week.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM THURSDAY MORNING/...
+Sfc high pressure will remain just off the coast tonight. A 
+S-SW flow mainly along the coast and in the metro area 
+expected, with winds becoming light/vrb inland. In the zonal
+flow aloft mid level clouds should make it into the area from W
+PA and OH especially from NYC north/west. Temps should be 
+warmer than those of last night in most places, mainly mid 30s 
+to around 40, except inland and across the Long Island Pine 
+Barrens where radiational cooling will allow temps to fall to 
+the mid 20s to lower 30s once again.
+
+&&
+
+.SHORT TERM /6 AM THURSDAY MORNING THROUGH THURSDAY NIGHT/...
+An upper trough crossing the Great Lakes should slowly amplify
+during this time. WAA between this system and the offshore high
+should allow for further increase in clouds, perhaps some 
+afternoon sprinkles from NYC north/west with the best chances 
+well inland. Temps while warmer than recent days will still be 
+below normal, with highs mostly in the lower 50s, and upper 40s
+along the immediate south shores of Long Island and SE CT. 
+
+GFS quicker than the NAM to bring rain in Thu afternoon/night
+and wetter overall. Have split the difference between the two
+but even this looked too aggressive with the high to the east
+slow to budge, so tempered with slightly lower NBM PoP. This
+give chance PoP for all areas during Thu evening, then likely 
+from NYC west late Thu night. Sfc temps should cool off to 
+35-40 but with warming temps aloft expect p-type to be all rain.
+
+&&
+
+.LONG TERM /FRIDAY THROUGH WEDNESDAY/...
+Global models are all in good agreement with closing off an 
+upper low over the Mid Atlantic states on Friday, then lifting 
+it slowly north and east through the weekend. However, there are
+some differences with the positioning of the surface low, with 
+the 12Z GFS tucked closer to the upper low, tracking it closer 
+to the coast. The GEFS mean and most of its members are farther 
+east, supporting the operational consenus. This difference is 
+also reflected in the positioning of the warm conveyor belt 
+rains coming in off the Atlantic. The GFS is farther to the 
+west, in line upper jet dynamics and upper difluence, focusing 
+some heavy rainfall across NE NJ, NYC, the Lower Hudson Valley 
+and SW CT Friday night. The operational runs of the ECMWF and 
+Canadian are father west with this axis and also focus the 
+heaviest overrunning rains farther to the east across eastern LI
+and SE CT, even moreso over SE New England. Bottom line, there 
+is some uncertainty with the axes of heaviest rain late Friday 
+into Saturday. A consensus forecast, using the NBM, gives much 
+of the area 1.00 to 1.50 inches through Saturday. However, did 
+cut down the higher amounts (2 inches) of the NBM across western
+areas due to the uncertainty and location of the western axis. 
+WPC has the entire forecast area in a Marginal Risk of Excessive
+Rainfall. Current thinking is flooding will mainly be of the 
+minor nuisance variety. Any thunderstorms look to be isolated 
+and across eastern LI and SE CT where there is marginal 
+instability. Rain diminishes in intensity Saturday afternoon and
+night to light rain and/or drizzle, which may continue into 
+Sunday, especially for the eastern half of the forecast area. In
+addition, a gusty easterly flow up to 25 mph is expected across
+coastal locations Friday into Saturday.
+
+A weak high pressure ridge will then move across the area 
+Monday, followed by a frontal system impacting the area late 
+Monday night into Tuesday with a low chance of showers. Low 
+pressure departs to the north across eastern Canada on 
+Wednesday, with high pressure building in from the southwest.
+
+For temperatures, daytime highs will be in the upper 40s to 
+lower 50s Friday and Saturday, which is on the cool side. Lows 
+though will be closer to normal due to the cloud cover, in the 
+upper 30s inland and the lower to mid 40s along the coast. Expect
+a warmup into Tuesday ahead of the cold front with highs 
+getting into the 60s and possibly around 70 for the NJ/NYC metro
+north into the Lower Hudson Valley. This is about 5 to 10 degrees
+above normal.
+
+&&
+
+.AVIATION /00Z THURSDAY THROUGH MONDAY/...
+High pressure settles nearby tonight and slowly pushes offshore into 
+Thursday.
+
+VFR thru the TAF period for the 24 hour TAF sites. MVFR conditions 
+may arrive towards the end of the TAF period for the 36 hour TAF 
+sites.
+
+NW winds go light and variable inland with S to SW winds along the 
+coast settling primarily under 5 kt late tonight. The winds then 
+become primarily SE and strengthen through the day Thursday.
+ 
+     NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+No amendments are expected through 22z Thursday. Amendments are 
+possible Thursday evening.
+
+.OUTLOOK FOR 0Z FRIDAY THROUGH MONDAY...
+
+Thursday night: MVFR may develop with -RA possible. 
+SE winds about 10-15kt. 
+
+Friday: MVFR with periods of IFR. Rain. E flow 10-20kt.
+
+Saturday: MVFR or lower. Chance of light rain. NE winds 15-20 kt 
+possible.
+
+Sunday: MVFR possible with winds becoming NW.
+
+Monday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Sub SCA cond expected on all waters through Thu night, with 
+winds becoming S-SW tonight (with some gusts close to 20 kt on 
+the western ocean waters) this evening, backing SE Thu 
+afternoon/evening, then E (with some gusts to 20 kt on the 
+ocean) late Thu night as high pressure over the waters slowly 
+retreats.
+
+A strengthening easterly flow will bring SCA conditions to the
+ocean waters Friday into Saturday with gusts up to 30 kt and
+seas building to 6 to 9 ft on the ocean on Saturday. Conditions
+look more marginal for the non-ocean waters. SCA seas will 
+likely linger Saturday night into Sunday on the ocean with a 
+gradually weakening NE flow.
+
+&&
+
+.HYDROLOGY...
+Rainfall from Friday evening through Saturday afternoon will 
+average from 1 to 1 1/2 inches. These amounts should limit any 
+flooding to the minor nuisance variety. However, there is a fair
+amount of uncertainty with the location of the higher rainfall 
+axes during this event. These details should be better resolved 
+as we draw closer to the event.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...BG/DW
+NEAR TERM...BG/DW
+SHORT TERM...BG
+LONG TERM...DW
+AVIATION...JE
+MARINE...BG/DW
+HYDROLOGY...BG/DW

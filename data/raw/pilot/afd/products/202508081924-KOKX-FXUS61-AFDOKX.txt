@@ -1,0 +1,134 @@
+926 
+FXUS61 KOKX 081924
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+324 PM EDT Fri Aug 8 2025
+
+.SYNOPSIS...
+High pressure will remain in control through the weekend. THe
+high will then slowly weaken as a frontal system approaches mid
+to late next week.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM SATURDAY MORNING/...
+An elongated E-W high pressure ridge extending through the Mid
+Atlantic and Northeastern states to S of Nova Scotia will 
+remain in control. Expect mostly clear skies with good 
+radiational cooling as SE winds 5-10 mph become light NE. 
+Low temps should not be too much different from those of last 
+night, ranging from the lower 60s invof NYC and along the 
+immediate coast, to the 50s elsewhere. Some patchy river valley 
+fog may be possible.
+
+&&
+
+.SHORT TERM /6 AM SATURDAY MORNING THROUGH SATURDAY NIGHT/...
+With the sfc high remaining in control and heights slowly 
+rising, expect another mostly sunny day with temps Sat/Sat night
+a little warmer than those of Fri/Fri night, with highs mostly 
+in the lower/mid 80, and lows from the mid/upper 60s invof NYC
+to the mid 50s well inland and across the Long Island Pine
+Barrens. Another night of onshore flow (SE-S) may promote more
+patchy fog development outside of the urban corridor late Sat
+night.
+
+&&
+
+.LONG TERM /SUNDAY THROUGH FRIDAY/...
+Not much change in the forecast with a high amplitude ridge
+(+2-3SD) in place across the eastern third of the country at 
+the onset of the period. The ridge is bookended by an upper low
+east of New England and a trough over the Central and Northern
+Plains. It will gradually break down through the period between
+the two with the westerlies sending a cold front through late 
+Thursday into Friday. 
+
+Expect mainly dry conditions with increasing heat and humidity 
+through mid week. Often, the NBM can be too high with dew points
+and over the last couple of days it has adjusted dew points 
+slightly downward for next week. This likely due to its bias 
+correction, especially from recent performance. Regardless, 
+there still remains a chance for heat indices to meet heat 
+advisory criteria, specifically for the criteria of two 
+consecutive day at 95 to 99. However, the areal coverage has 
+been decreasing. Temperatures during this time will average 5-10
+degrees above normal.
+
+A late day shower or thunderstorm is possible mainly NW of NYC 
+Wednesday-Friday afternoons/evenings. Highs will generally be 
+in the upper 80s to lower 90s away from the Atlantic facing 
+beaches with lows in the 60s and lower 70s.
+
+&&
+
+.AVIATION /20Z FRIDAY THROUGH WEDNESDAY/...
+VFR through the TAF period with high pressure remaining in
+control. 
+
+Local sea breezes have developed across the coastal terminals,
+shifting winds to more of a S to SSE direction. As of 18Z, the
+sea breeze boundary was just south and east of KLGA and expect 
+winds to shift more to the SSE there over the next hours. Away 
+from the coast, winds should be more of a SE direction, around 
+10 kt. Occasional gusts of 15 to 20 kt are possible. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+S to SSE winds across these terminals as sea breezes move
+through. Occasional gusts of 15 to 20 kt possible this
+afternoon.
+
+.OUTLOOK FOR 18Z SATURDAY THROUGH WEDNESDAY... 
+
+Saturday - Wednesday: VFR.
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Sub-SCA conditions are expected through the middle of next 
+week. Winds will generally remain weak through the period. NHC 
+continues to monitor an area east of the Carolinas for potential
+tropical cyclone development. The probability of development 
+remains low (see NHC website). Model consensus takes this low 
+well east of the waters. Expect an easterly swell during this
+time.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through next week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+A continued easterly swell of 3-4ft at 8-9s should produce a 
+moderate rip current risk into this evening. Easterly swells 
+will subside some over the weekend, possibly lowering enough 
+for a low rip current risk for some locations on Sunday.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...BG/DW
+NEAR TERM...BG
+SHORT TERM...BG
+LONG TERM...DW
+AVIATION...JP
+MARINE...BG/DW
+HYDROLOGY...BG/DW
+TIDES/COASTAL FLOODING...

@@ -1,0 +1,134 @@
+662 
+FXUS61 KOKX 080520
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+120 AM EDT Fri Aug 8 2025
+
+.SYNOPSIS...
+High pressure will remain in control through the weekend, then 
+slowly weakens as a frontal system approaches mid to late next 
+week.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM THIS MORNING/...
+High pressure will remain in control, providing dry conditions 
+and clear skies. In combination with the light winds overnight, 
+radiational cooling is expected across the outlying areas and 
+NBM is too warm for most locations, so went with the more 
+reliable MAV/MET MOS blend.
+
+&&
+
+.SHORT TERM /6 AM THIS MORNING THROUGH SATURDAY NIGHT/...
+With high pressure stretching in from the east and continuing 
+to be in control, a general persistence forecast was followed 
+for Friday through Saturday night with high pressure. Little in
+the way of clouds through the period with highs generally in 
+the 80s and dew points in the 50s to low 60s. Radiational 
+cooling for Friday night for the usual spots and MAV/MET MOS 
+blend was used in the outlying areas. This may be the case
+Saturday night as well, however with uncertainty with any clouds
+and wind speeds this far out, followed NBM for Saturday night.
+
+&&
+
+.LONG TERM /SUNDAY THROUGH THURSDAY/...
+The main change in the extended is to delay a weakening cold 
+front approaching the area for the middle of next week. In fact,
+with the upper air pattern trending slower with the ridge 
+across the east, it's quite possible the front will continue to 
+slow down or even just wash out before getting here. The reason 
+for the slowdown partly resides on an area of low pressure 
+cutting off over the western Atlantic, creating a block and 
+amplifying the upstream ridge across the eastern third of the 
+country. The overall trend in the globals the last 24h has been 
+slower. This is reflected in the NBM guidance which was closely 
+followed.
+
+In addition, surface low pressure east of the Carolinas is 
+being monitored by NHC. There is a low probability for tropical 
+development at this time. This low interacts and gets absorbed 
+by the aforementioned upper trough/low. Model consensus keeps 
+the system well east of the area.
+
+What this means for us is increasing heat and humidity through 
+the period with heat indices potentially meeting heat advisory 
+criteria for parts of the area Tuesday through Thursday. 
+Temperatures during this time will average 5-10 degrees above 
+normal.
+
+A late day shower or thunderstorm is possible mainly NW of NYC 
+Wednesday/Thursday afternoon/evening. Highs will generally be in
+the upper 80s to lower 90s away from the Atlantic facing 
+beaches with lows in the 60s and lower 70s.
+
+&&
+
+.AVIATION /06Z FRIDAY THROUGH TUESDAY/...
+VFR through the TAF period with high pressure remaining in
+control. 
+
+Winds generally 5 kt or less through early morning. Light NE
+winds at day break will gradually increase and become E-SE late
+morning through the afternoon with speeds around 10 kt. Winds
+diminish this evening and become light and variable overnight. 
+
+  NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Timing of wind shift from NE to E-SE may be off by 1-2 hours. 
+
+.OUTLOOK FOR 06Z SATURDAY THROUGH TUESDAY... 
+
+Late tonight - Tuesday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Sub-SCA conditions are expected through Saturday night. Winds 
+will generally remain weak through the weekend. 
+
+Sub-SCA conditions are expected to continue into early next 
+week. Winds will generally remain weak through the weekend. NHC 
+is monitoring an area for potential tropical cyclone development.
+The probability of development is low at this time (see NHC 
+website). Model consensus takes this low well east of the 
+waters.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through the middle of next 
+week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+A continued easterly swell of 3-4ft 7-8s will produce a moderate 
+risk for rip currents into Saturday.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JP/DW
+NEAR TERM...JM/JP/MW
+SHORT TERM...JP
+LONG TERM...DW
+AVIATION...DS
+MARINE...JP/DW
+HYDROLOGY...JP/DW
+TIDES/COASTAL FLOODING...

@@ -1,0 +1,221 @@
+990 
+FXUS61 KOKX 021148
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+748 AM EDT Fri May 2 2025
+
+.SYNOPSIS...
+A warm front moves across the region this morning. A cold front
+approaches tonight. This cold front eventually moves within the
+region this weekend but will stall. A large cut-off low 
+pressure system will allow for continued unsettled conditions 
+to the area through at least mid-week.
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+Lull in the rain shower activity. No precipitation across the
+area early this morning.
+
+With the approach and eventual passage of the warm front, there
+is expected to be advection of warmer and more moist air.
+There has been low cloud and some fog development. Unsure of 
+how much the fog will extend in the area as well as how dense it
+could get but do think localized dense fog will be possible. 
+The fog is forecast to be patchy throughout the morning along 
+the coastal zones.
+
+Otherwise, the region will be within the warm sector of an
+approaching low. The associated cold front will begin to
+approach from the west.
+
+There could be some daytime showers and thunderstorms with the
+instability increasing and a pre-frontal trough especially for 
+more interior locations as well as NYC Metro which will be where
+the warmest temperatures are expected. High temperatures here 
+are forecast to reach the low to mid 80s. Elsewhere within the 
+area, high temperatures will be mainly near 70 to 80 except more
+in the 60s along the immediate shorelines.
+
+&&
+
+.SHORT TERM /6 PM THIS EVENING THROUGH SUNDAY NIGHT/...
+Mid level cutoff low approaches the region tonight through the
+weekend. At the surface, a cold front moves in and eventually 
+stalls out. The position of the front looks to be generally 
+within the northern half of the region for the latter half of 
+this upcoming weekend.
+
+Rain showers and a chance of thunderstorms is the main weather
+story this weekend.
+
+Atmospheric flow becomes more southerly through the weekend. 
+This will help establish a more moist low level environment. 
+
+Numerical weather prediction models show instability will be
+higher at the surface across the interior during the day, but
+also indicate elevated instability at night across a large
+portion of the region. Keeping thunderstorms in the forecast but
+probabilities range from slight chance to chance.
+
+850mb temperatures are warmer for Saturday and lower for 
+Sunday. Warmest days of the short term forecast period are 
+forecast Saturday. Much of the area is in 70s to 80s for high 
+temperatures Saturday. Sunday's high temperatures range from 
+the upper 60s to mid 70s.
+
+As the mid level cutoff low approaches, ahead of it, shortwaves
+move across with associated positive vorticity advection. Some
+enhancement shower activity and the possibility of stronger to
+perhaps even severe thunderstorms due to more shear. SPC has
+western parts of the region in a marginal risk for severe
+thunderstorms for Saturday into Saturday night.
+
+&&
+
+.LONG TERM /MONDAY THROUGH THURSDAY/...
+The extended period will be dominated by a large cut-off low 
+pressure system which will bring periods of rain, possibly with 
+embedded thunderstorms, through at least the middle of next 
+week.
+
+Additionally, a surface high pressure over the Western Atlantic 
+combined with the surface low pressure to our west will allow for a 
+continuous S/SE flow through the timeframe. This will advect a 
+continuous stream of moisture from the sub-tropical Atlantic, 
+resulting in overcast skies and periods of rain through the period. 
+When it is not raining, there may be ample enough low level moisture 
+to produce drizzle and/or fog, especially at night.
+
+With the upper trough just to the west, there may be enough 
+instability each afternoon and evening for there to be isolated to 
+embedded thunderstorms, especially in any more organized convection 
+that forms, mainly for the western portions of the area. 
+
+Due to the inherent uncertain nature of a spinning but nearly 
+stationary cut off low pressure system, it remains especially 
+difficult to pinpoint any periods of more persistent or heavier 
+rainfall or thunderstorms. At this time, global models seem to 
+suggest that the Sunday night - Tuesday night timeframe may have the 
+best combination of moisture and lift to allow for a more widespread 
+steadier to locally heavy rainfall, but this may change in future 
+runs. WPC has the area in a marginal risk for excessive rainfall 
+during this timeframe. 
+
+Models also suggest that a widespread 2-3 inches of rainfall is 
+possible for much of the area, especially for western areas which 
+may be more favorable for convection at any given time. Locally 
+upwards of 4 inches isn't ruled out, though this accumulated 
+rainfall is over the entire extended period, generally from Saturday 
+night through Wednesday.
+
+The low pressure is expected to move out of the area sometime 
+Wednesday night through Friday morning. Despite ample cloud cover 
+and rainfall, temperatures through the timeframe should be fairly 
+seasonable to slightly below average, with highs each day generally 
+in the 60s, possibly a bit warmer for the NYC metro. Lows each night 
+will remain in the 50s, courtesy of the ample amounts of moisture.
+
+&&
+
+.AVIATION /12Z FRIDAY THROUGH TUESDAY/...
+A warm front is lifting through the area this morning. A cold 
+front to the west will then gradually draw closer tonight.
+
+Low clouds and fog are hanging tough along the CT coastline and
+at KHPN/KLGA just north of the warm front. These should scatter
+out this morning but timing is uncertain and AMD will be
+possible. 
+
+Winds shift S-SW 5-10 kt this morning after fropa. Then coastal
+sea breezes are likely this afternoon, with a SW flow gusting
+either side of 20 kt inland as cigs improve. 
+
+Winds back S and lighten up tonight. Coastal terminals could 
+see return of IFR/LIFR cond late. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Unscheduled AMD possible to fine tune improvements in flight 
+cat at KLGA and winds elsewhere this morning. Higher confidence
+in VFR and in winds for this afternoon. 
+
+.OUTLOOK FOR 12Z SATURDAY THROUGH TUESDAY...
+
+Saturday: Showers/tstms likely in the afternoon and at night. 
+MVFR or lower cond expected. S winds G20-25kt in the afternoon 
+at KJFK/KISP and G15-20kt elsewhere. 
+
+Sunday: Showers/tstms with MVFR or lower cond expected.
+
+Monday: Showers/tstms likely with MVFR or lower cond expected.
+E-NE winds G20-25kt. 
+
+Tuesday: MVFR or lower cond possible with chance of
+showers/tstms. S winds G15-20kt.
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+SCAs remain the same as previously forecast. This may be more of
+a marginal SCA where gusts and seas will be near but at times
+may settle just below SCA thresholds on the ocean. Wavewatch
+does have 5 ft seas developing for parts of the ocean tonight.
+BUFKIT soundings show around 30-35 kt just above inversion and
+think this could be partially mixed down with any rain showers. 
+Not enough evidence to change the SCA.
+ 
+More SCA conditions are forecast on Saturday on the ocean. 
+However, want to see how well conditions verify with forecast
+today before changing or potentially extending the marine
+headlines.
+
+Non-ocean zones remain below SCA through tonight but may get
+pretty close to SCA thresholds for winds on Saturday.
+
+SCA conditions are possible through Saturday night before waves 
+subside and gusts largely drop below SCA thresholds for Sunday. 
+Increasingly S/SE flow on Monday may allow for near SCA gusts for 
+all the waters and wave heights on the ocean nearing 5 feet once 
+again.
+
+&&
+
+.HYDROLOGY...
+Rain this weekend will be higher north and west of NYC and lower
+across the eastern sections.
+
+Long duration rainfall this weekend through midweek will likely 
+result in a widespread 2-3 inches of rainfall, possibly locally 
+higher in any thunderstorms. WPC has the area in a marginal risk for 
+excessive rainfall Sunday through Tuesday. While flash flooding 
+isn't expected, minor urban or poor drainage flooding is possible at 
+any point Saturday through Wednesday.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory from 4 PM this afternoon to 6 AM EDT 
+     Saturday for ANZ350-353.
+     Small Craft Advisory from 4 PM this afternoon to midnight EDT 
+     tonight for ANZ355.
+
+&&
+
+$$
+
+SYNOPSIS...JM/MW
+NEAR TERM...JM
+SHORT TERM...JM
+LONG TERM...MW
+AVIATION...BG
+MARINE...JM/MW
+HYDROLOGY...JM/MW

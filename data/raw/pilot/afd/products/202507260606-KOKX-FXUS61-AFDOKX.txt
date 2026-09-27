@@ -1,0 +1,170 @@
+017 
+FXUS61 KOKX 260606
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+206 AM EDT Sat Jul 26 2025
+
+.SYNOPSIS...
+High pressure remains over the area through early Sunday. A weak 
+frontal system then approaches Sunday. High pressure returns to
+the area for Monday into Tuesday. A cold front approaches from 
+the west on Tuesday afternoon and moves offshore Tuesday 
+evening. A second cold front follows late Wednesday into early 
+Thursday with high pressure returning to end the week. 
+
+
+&&
+
+.NEAR TERM /THROUGH TODAY/...
+The cold front is pushing offshore this morning and winds have 
+shifted north/northwest as high pressure builds to the north. As a 
+result, a drier airmass continues to work into the region bringing 
+dewpoints some 5-10 degrees lower than on Friday. Dry conditions are 
+expected for the day with a bit more comfortable temperatures and 
+humidity levels, with highs in the mid 80s for most, and the upper 
+80s for the urban corridor. Given the lower dewpoints, heat indices 
+today will be near the actual temperature. 
+
+High clouds will be on the increase this afternoon into this evening 
+in advance of the next frontal system to impact the area Sunday. 
+
+&&
+
+.SHORT TERM /TONIGHT THROUGH MONDAY/...
+Weak upper ridging becomes more of a zonal flow aloft as a shortwave 
+approaches from the west. Aforementioned surface high pressure is 
+slow to move east Sunday morning as a trough/warm front and 
+associated low pressure system approach from the west. Precip 
+chances thus increase on Sunday morning from west to east as the 
+front slides near the area. Instability per BUFKIT soundings looks 
+weak in the AM, so any thunder looks isolated initially. Mid and low 
+level dry air also looks to remain entrenched for at least part of 
+Sunday AM, so precip may have some difficulty initially. Model 
+soundings do show an appreciable increase in PWAT, with over 2" by 
+Sunday afternoon along with a modest increase in instability (MUCAPE 
+500-1000J) and shear (0-6km shear values ~30kts) with the 
+approaching shortwave. SPC maintains a marginal risk of severe 
+thunderstorms for the area on Sunday. 
+
+With cloud cover around, highs will be mainly in the low 80s, with a 
+more humid feel as dewpoints rebound into the low 70s by Sunday 
+evening under the southerly flow.
+
+An increase in heat and humidity on Monday as weak ridging builds 
+back in behind the departing shortwave. Dry weather is expected. 
+However, h850 temperatures approach 20-21C Monday afternoon with 
+dewpoint in the mid 70s (per NBM). Thus, heat indices of 100-105 for 
+northeast NJ and 95-100 elsewhere look possible once again.
+
+&&
+
+.LONG TERM /MONDAY NIGHT THROUGH FRIDAY/...
+The NBM was followed with no changes.
+
+Key Points: 
+
+* High heat and humidity will continue on Tuesday, potentially 
+  lingering into Wednesday. The peak of the heat currently looks to 
+  occur on Tuesday with max heat index values 100 to around 105F. 
+  Wednesdays heat index values remain below 100.
+
+* A few showers and thunderstorms are possible Tuesday afternoon and 
+  evening with a weak cold front. The threat for showers and 
+  thunderstorms continues Wednesday, potentially lingering into 
+  Thursday as a stronger cold front moves into the area. 
+
+* Temperatures trend down to end the week with potential of below 
+  normal temperatures. Humidity levels also should be much lower 
+  than the first half of the week. 
+
+&&
+
+.AVIATION /06Z SATURDAY THROUGH WEDNESDAY/...
+High pressure briefly builds into the region today. A warm front 
+approaches the area from the west tonight. 
+
+Winds will start off from the north around 10 kt or less. Winds will 
+veer into Saturday becoming SE by afternoon 7-10 kt. Tonight, winds 
+become light at most terminals from the south. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Timing of winds veering today may vary by 1-2 hours. 
+
+.OUTLOOK FOR 06Z SUNDAY THROUGH WEDNESDAY... 
+
+Saturday night - Sunday: Mainly VFR. MVFR or lower possible in 
+any showers or thunderstorms.
+
+Monday: VFR.
+
+Tuesday - Wednesday: Mainly VFR with possible MVFR or lower in 
+showers and thunderstorms each afternoon.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+.OUTLOOK FOR 00Z SUNDAY THROUGH WEDNESDAY... 
+
+Saturday night - Sunday: Mainly VFR. MVFR or lower possible in 
+any showers or thunderstorms.
+
+Monday: VFR.
+
+Tuesday - Wednesday: Mainly VFR with possible MVFR or lower in 
+showers and thunderstorms each afternoon.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+A brief period of 20 kt gusts are possible in wake of a frontal 
+passage Saturday night into Sunday morning. Otherwise, sub SCA 
+conditions are likely through Monday. A relatively weak pressure gradient Tuesday 
+through the end of the week will lead to conditions staying 
+below SCA levels.
+
+&&
+
+.HYDROLOGY...
+Showers and thunderstorms associated with a frontal system could 
+produce locally heavy downpours on Sunday that result in nuisance 
+flooding. WPC maintains a marginal risk of excessive rainfall, but 
+the overall widespread flood threat appears low at this time.
+
+There are currently no hydrologic concerns next week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+A moderate rip current risk continues for Saturday with a 
+mixture of lingering 1 to 2 ft S wind swell and a developing 3 
+ft wind wave. 
+
+A moderate rip current risk continues for Sunday with 1 to 2 ft
+E wind wave and residual 1ft S/SE wind swell.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...BC/DBR
+NEAR TERM...DBR
+SHORT TERM...DBR
+LONG TERM...
+AVIATION...BC 
+MARINE...BC/DBR 
+HYDROLOGY...BC/DBR 
+TIDES/COASTAL FLOODING... 
+CLIMATE...

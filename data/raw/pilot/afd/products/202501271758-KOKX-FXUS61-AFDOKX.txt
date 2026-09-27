@@ -1,0 +1,198 @@
+680 
+FXUS61 KOKX 271758
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1258 PM EST Mon Jan 27 2025
+
+.SYNOPSIS...
+Low pressure moves through southeast Canada into tonight,
+dragging a cold front through on Tuesday. Another clipper low 
+passes through Tuesday night into Wednesday. High pressure then
+gradually builds in from the west through Thursday. Low pressure 
+may impact the region Friday into the first half of the weekend 
+before another front pushes it out to sea. Canadian high 
+pressure builds in for Sunday.
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+Forecast on track this afternoon. High pressure then continues 
+to weaken as a strong 970mb surface low moves through southeast 
+Canada. While the low will pass well north of the area, winds 
+gradually increase and back to the southwest in response to the 
+tightening pressure gradient. Sustained winds at 15 to 20 mph 
+with gusts around 25 mph expected this afternoon.
+
+Plenty of subsidence through the column today will allow for sunny 
+skies. Highs will be in the upper 30s to low 40s.
+
+&&
+
+.SHORT TERM /6 PM THIS EVENING THROUGH WEDNESDAY NIGHT/...
+As mentioned, strong low pressure will pass well to our north, but 
+it will drag a cold front through our area on Tuesday. Winds ahead 
+of that front continue to strengthen tonight. A strong LLJ forms 
+late this evening, with the axis roughly oriented from just south of 
+Long Island, up through eastern Suffolk County and then into RI and 
+Cape Cod. Latest guidance continues to show 40 to 45 knots at 950mb. 
+The NAM still shows the strongest LLJ with 45 to 50 knots at 950mb, 
+but this is an outlier. Over the relatively warmer waters there is 
+high confidence tonight of 40+ knot gusts making it to the
+surface with forecast soundings showing mixing up to 925mb+, 
+but with an expected inversion over land, gusts likely stay 
+below wind advisory criteria. Across eastern Suffolk County and 
+southeastern CT, gusts up to 40 mph are expected, with isolated
+45+ mph gusts possible. Elsewhere, gusts will range from 25 to 
+35 mph. After sunrise Tuesday, while the strong LLJ will push 
+east, deep mixing will allow for widespread 35 mph gusts. There 
+is still some uncertainty with exactly when the cold front moves
+through, but it will likely be sometime in the late morning or 
+early afternoon on Tuesday. The best chances for any 
+precipitation with this front will be across the interior, but 
+slight chance PoPs extend down to the coast. This would fall as 
+light rain or snow showers depending on location. Some of the 
+activity could be more in the form of squalls, but the bulk of 
+this activity is expected to stay north and west of the area. 
+This potential will continue to be monitored as guidance does 
+show very weak SBCAPE values with decent low level 
+frontogenesis resulting in non-zero snow squall parameter values.
+Regardless, any snow that does fall would likely not result in 
+more than a dusting.
+
+Weak high pressure briefly builds in for the start of Tuesday night, 
+but will quickly be followed by a clipper low diving down from the 
+northwest. This system will once again bring gusty winds to the area 
+as well as rain and snow showers. The best chances for any 
+accumulation will be across the interior, but will once again be 
+light. Current forecast has up to half an inch of snowfall across 
+eastern CT.
+
+&&
+
+.LONG TERM /THURSDAY THROUGH SUNDAY/...
+A cold front that moved through Wednesday night will push farther 
+south on Thursday. Though with timing differences in models, the 
+front may still be within the forecast area Thursday morning. High 
+pressure builds in behind the front while an upper level trough off 
+the coast of New England pushes east. 
+
+The front lifts back north as a warm front Thursday night as low 
+pressure over southern Canada moves east across northern New England 
+into Friday, and weakens as it does so. Meanwhile, a more potent low 
+over the Mid-West moves toward the region Thursday night. This low 
+may impact the region as early as Friday evening, but there is a 
+great deal timing and placement differences, so stuck close to NBM 
+in regards to POPs. 
+
+Eventually, a cold front moves through from the northwest, pushing 
+the low out approaching the area from the Mid-West out to sea Sunday 
+morning, and high pressure builds in for the rest of Sunday. This 
+could end up suppressing the low to the south of the forecast area, 
+and we would be on the northern fringes of the low. 
+
+Temperatures and precipitation types during this time frame is 
+highly dependent on exactly where the fronts will be. For now, 
+expect slightly below normal temperatures on Thursday, slightly 
+above normal for Friday as the warm front lifts north of the area, 
+then back down to near normal on Saturday and slightly cooler for 
+Sunday.
+
+&&
+
+.AVIATION /18Z MONDAY THROUGH SATURDAY/...
+Weak high pressure remains in place today, then a cold front 
+approaches tonight and moves through on Tuesday.
+
+VFR. W-SW winds around 15kt will gust to around 25kt this
+afternoon into the evening. The gusts are forecast to continue
+through the overnight, however, can not rule out the gusts 
+subsiding for a few hours. Winds become more W-NW Tuesday
+morning with speeds around 20kt, with gusts 30-32kt.
+
+LLWS from 00Z to 09Z tonight at 2 kft from the SW at 50 kt.
+
+     NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Gusts may be occasionally higher than forecast. 
+
+.OUTLOOK FOR 18Z TUESDAY THROUGH SATURDAY...
+
+Tuesday afternoon: Mainly VFR. WNW 15-25 kt, gusts around 30 
+kt, with chc 35 kt along the coast. Winds subside PM. 
+
+Wednesday: Chance of MVFR or lower in light snow, especially across 
+the northern terminals. WSW gusts around 25 kt.
+
+Thursday: VFR. NW gusts 20-25 kt Thursday.
+
+Friday and Saturday: Sub-VFR in rain. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Winds increase this afternoon and peak tonight through Tuesday.
+The Gale Warning now includes all waters except the western LI 
+Sound and NY Harbor and starts at 6 PM. Ahead of the gales, a 
+Small Craft Advisory has been issued for all waters starting at 
+1 PM for 25 kt wind gusts.
+
+For the gale warning, 35 to 40 kt gusts are expected, with a few 
+isolated gusts up to 45 kt possible for the far eastern LI Sound and 
+eastern ocean zone. Given the strong winds, seas on the ocean likely 
+reach 7 to 10 feet, with waves on the Sound reaching 4 to 6 
+feet.
+
+Winds and waves briefly lower below SCA criteria Tuesday night 
+before increasing again Wednesday into Wednesday night with the 
+passing of a clipper low. There is potential for gales once again, 
+mainly on the ocean waters. Confidence is low at this time and will 
+leave out of the HWO.
+
+SCA conditions on the ocean waters for Thursday as waves 4 to 8 ft 
+diminish through the day, possibly dropping below 5 ft for most of 
+the ocean waters by Thursday evening as high pressure builds in over 
+the waters. Waves increase to above 5 ft late Thursday night from 
+Fire Island to Montauk Point as low pressure approaches from the 
+west and remain above 5 ft through the day Friday and possibly at 
+least the first half of Friday night.
+
+Winds will largely be below 25 kt across the non-ocean waters 
+through the period, though occasional gusts to 25 kt are possible. 
+Winds of 25 to 30 kt over the ocean early Thursday morning diminish 
+by late morning or early afternoon, but increase to around 25 kt 
+once again late Thursday night into Friday diminishing Friday
+night.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through the weekend.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 6 PM EST this evening for ANZ331-
+     332-340-345-350-353-355.
+     Gale Warning from 6 PM this evening to 1 PM EST Tuesday for 
+     ANZ331-332-340-345-350-353-355.
+     Small Craft Advisory until 6 PM EST Tuesday for ANZ335-338.
+
+&&
+
+$$
+
+SYNOPSIS...JP/JT
+NEAR TERM...DS/JT
+SHORT TERM...JT
+LONG TERM...JP
+AVIATION...BC
+MARINE...JP/JT
+HYDROLOGY...JP/JT

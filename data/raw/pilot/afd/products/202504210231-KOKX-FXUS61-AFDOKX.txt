@@ -1,0 +1,219 @@
+956 
+FXUS61 KOKX 210231
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1031 PM EDT Sun Apr 20 2025
+
+.SYNOPSIS...
+High pressure builds in through tonight and gradually slides east on 
+Monday. A weak frontal system approaches Monday night, with the 
+associated cold front moving through Tuesday evening into Tuesday 
+night. This is followed by high pressure Wednesday through Friday.
+High pressure moves offshore Friday night in response to our next
+frontal system that impacts us Friday into Saturday. High pressure
+follows Saturday night into Sunday.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM MONDAY MORNING/...
+The forecast remains on track through tonight. 
+
+Vigorous northern stream closed low slides east from Quebec and
+through the Canadian Maritimes, while southern upper ridging 
+builds back towards the region. 
+
+Canadian high pressure noses in tonight, but may not have the
+most ideal radiational cooling conditions due to a fair amount
+of high clouds. They are initially thin, but look to thicken up
+heading into the second half of the night. Frost looks unlikely
+as temperatures should remain high enough where the growing
+season has begun. Temps tonight will range from the middle to
+upper 30s inland and the 40s elsewhere.
+
+&&
+
+.SHORT TERM /6 AM MONDAY MORNING THROUGH MONDAY NIGHT/...
+A vigorous closed upper low over the SW US lifts into the upper
+Great Lakes on Monday. At the surface, a resultant low pressure
+system takes a similar track, sliding NE through the Great Lakes,
+with its associated warm front lifting thru Monday, followed by
+occluded/cold front approaching Monday night.
+
+Strengthening return SE flow develops Monday as high pressure
+slides offshore. Maritime flow off mid 40 degree waters, and 
+developing/ne advecting stratus under a strong low-level 
+inversion and elevated warm frontal passage, will likely result 
+in temps running a few degrees below seasonable across the 
+region on Monday (mid 50s along southern and eastern coasts to 
+around 60 interior). NBM deterministic, generally in the lowest 
+25th quartile, still looks good based on above. 
+
+Some hi res guidance continues to hint as the potential for a 
+few showers or sprinkles late Monday AM with an elevated warm 
+frontal passage, especially inland, but soundings are rather 
+dry with ridging surface and aloft, so not expecting much out of
+this activity. LLJ strengthens ahead of approaching frontal 
+system, with surface warm front approaching and entering the 
+region Monday Night. Modest theta e advection and lift over 
+this boundary will bring potential for scattered showers Monday 
+night. Limited forcing and moisture, and lack of instability, 
+will keep QPF light, generally at or under a tenth of an inch.
+
+&&
+
+.LONG TERM /TUESDAY THROUGH SUNDAY/...
+Key Messages:
+
+ * Tuesday will be the warmest day of the week (mid-70s/low-80s).
+
+ * Fair weather under high pressure Wed-Thu.
+
+ * A frontal system Fri-Sat will bring rain chances. Slight 
+   chances for thunderstorms on Sat. 
+
+ * Cooler temps (near average) return by Sunday with dry weather. 
+
+A line of spotty showers along a prefrontal trough quickly exit east 
+Tuesday morning, leaving things dry starting Tuesday midday. We'll 
+remain warm-sectored until the actual cold front approaches and 
+passes through Tuesday evening into Tuesday night. 
+
+Tuesday into Tuesday night we'll remain under mainly zonal flow 
+aloft, but both 500mb heights and 850mb temps will remain 
+anomalously high. Under light to occasionally breezy westerly flow 
+Wednesday, highs may climb into middle to upper 70s throughout much 
+of the CWA. Some areas of urbanized NE NJ could reach the lower 80s. 
+Coastal sections of Long Island an southern Connecticut (especially 
+towards the east) may only reach the lower 70s to lower 60s given 
+the nearby marine influence. 
+
+The cold front will move through Tuesday night, but does not appear 
+particularly strong. Despite high pressure building in behind the 
+front into Tuesday night, may continue to see cloud cover (at least 
+partly cloudy) given synoptic lift from our location within the 
+right entrance region of a small jet streak to our north. THis 
+should further weaken and move off Wednesday with high pressure 
+strengthening, so expecting mainly sunshine as the day progresses on 
+Wednesday. 
+
+High confidence in a dry period Wednesday through Friday given high 
+pressure at the surface should be centered over the region with a 
+subtle ridge aloft with heights aloft being anomalously high. Winds 
+should be light during this period under a weak pressure gradient 
+with temperatures close to or slightly above average with daily 
+highs in the lower 60s to middle 70s. Given the colder ocean waters 
+and light synoptic flow, as well as sunny to mostly sunny skies, 
+could see sea breezes occur Wednesday through Friday. This would 
+keep daily highs to just the 60s on Long Island and coastal 
+Connecticut. 
+
+High pressure moves off shore and exits late Friday into Friday 
+night in response to an approaching frontal system. A weak trough 
+will dig into the Great Lakes on Friday then strengthen and become a 
+close upper-low in NE Canada by Saturday. A low at the surface with 
+develop with this trough over the Great Lakes on Friday, then track 
+with it into Quebec on Saturday, strengthening as it tracks eastward 
+in Canada. 
+
+12Z global guidance appears to be in agreement on placement with 
+this low with only small discrepancies in timing of the associated 
+warm and cold fronts. This low is expected to bring a warm front 
+through late Friday into Friday night followed by a sharp cold front 
+Saturday late afternoon or evening.
+
+Rain showers may be spotty to scattered in coverage following the 
+warm front late Friday into Friday night. Then a final line of rain 
+showers will develop along and pass with the cold front Saturday. 
+Added a slight chance for thunderstorms on Saturday. COnfidence is 
+low in thunderstorms occurring, but given we'll be warm-sectored 
+prior to the cold front on Saturday, we could see some thunderstorms 
+develop in the area of greatest lift, focused along the cold front. 
+Model guidance is split on if we'll have enough instability for 
+this. The 12Z ECMWF seems to have good amounts of MUCAPE ahead of 
+the cold front while the 12Z GFS has none. Confidence in the chance 
+for thunderstorms will increase as the event nears. 
+
+Following the cold front, clouds will clear west to east Saturday 
+night into Sunday as high pressure builds in from the west behind 
+the exiting cold front and cold air advection occurs under a steady 
+NW flow. Temperatures will also be cooler Saturday night into 
+Sunday, as a result, nearing climatological averages or slightly 
+below climatological norms by Sunday.
+
+&&
+
+.AVIATION /03Z MONDAY THROUGH FRIDAY/...
+High pressure over the terminals tonight will push moves 
+overhead on Monday. A warm front approaches Monday night. 
+
+Mainly VFR through the TAF period. There is a chance for MVFR
+conditions with showers Monday evening. 
+
+Winds will continue to veer to the N and then NNE tonight with 
+speeds generally falling to around 5 kt at NYC terminals
+overnight. Winds elsewhere will be light and variable. The flow
+will become SE Monday morning after 12z and increase through 
+the day. Wind speeds around 10-13 kt are expected in the 
+afternoon. Gusts up to 20 kt are possible, mainly at NYC and 
+coastal terminals. 
+
+     NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+Gusts Monday afternoon/evening may end up occasional. 
+
+Timing of potential showers and MVFR Monday evening may be off
+by 1-3 hours. 
+
+.OUTLOOK FOR 00Z TUESDAY THROUGH FRIDAY...
+
+Monday Night: MVFR developing with potential showers. IFR
+possible overnight. 
+
+Tuesday: Lingering shower possible early, mainly east of NYC
+terminals. Becoming VFR in the morning. SW-W wind gusts 15-20 
+kt possible.
+
+Wednesday and Thursday: VFR.
+
+Friday: Chance of MVFR and showers, mainly in the afternoon into
+the night.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Conditions will remain below SCA levels through Monday 
+afternoon as high pressure moves across the waters. Seas may 
+build toward 5 ft on the ocean Monday night with a frontal 
+passage, but latest guidance continues to run just shy of SCA.
+
+SCA criteria is not expected to be met Tuesday through Friday
+night.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic issues through this week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...BR/DR
+NEAR TERM...DR/DS
+SHORT TERM...DR
+LONG TERM...BR
+AVIATION...DS
+MARINE...BR/DR
+HYDROLOGY...BR/DR

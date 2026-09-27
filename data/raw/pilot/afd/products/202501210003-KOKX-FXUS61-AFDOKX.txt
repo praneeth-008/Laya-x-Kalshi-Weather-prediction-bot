@@ -1,0 +1,185 @@
+934 
+FXUS61 KOKX 210003
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+703 PM EST Mon Jan 20 2025
+
+.SYNOPSIS...
+High pressure will gradually build in from the west through 
+midweek. The high will move over the local region Wednesday 
+night and then offshore on Thursday. A low pressure system then 
+travels offshore Thursday night into early Friday. High pressure
+returns thereafter into Saturday and then moves offshore Sunday.
+Low pressure approaches Sunday night into next Monday with an 
+accompanying cold front moving across.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM TUESDAY MORNING/...
+Minor adjustments for cloud coverage and hourly temperatures to
+better match with observed trends. The forecast overall remains
+on track.
+
+An upper trough dominating eastern North America will result in
+the coldest airmass thus far this winter season. Deepening low
+pressure lifts north of the Canadian Maritimes tonight, while
+arctic high pressure over the Plains bleeds eastwards across the
+Mid Atlantic states. This will result in a gradually weakening
+WNW flow. Some instability stratocu this evening will eventually
+dissipate. While there is a snowpack and anomalously cold 
+airmass across the region, radiational cooling will be limited 
+by 5-10kt of wind. If some locations do decouple, lows could 
+drop to around zero across the interior and the Pine Barrens 
+Region of LI. For the time, expect lows in the single digits 
+inland and 10 to 15 along the coast. 
+
+In terms of zone averages, wind chill values are expected to 
+remain short of cold weather advisory criteria, which is -10
+degrees F or lower for all but LI and the metro NYC, where it 
+is -5 degrees F or lower. Values will not be too far off. 
+Isolated locations could reach -10 degree to -13 degree wind 
+chills across parts of the interior and could reach -5 degree 
+to -9 degree wind chills along parts of the coast outside of 
+NYC. However, most wind chills expected to be around zero 
+degrees along the coast and from near zero to -5 degrees across
+the interior.
+
+&&
+
+.SHORT TERM /6 AM TUESDAY MORNING THROUGH WEDNESDAY NIGHT/...
+Another piece of energy pivoting eastward through the longwave 
+upper trough will lift across the Northeast Tuesday night into 
+Wednesday. This will maintain an airmass that is about 10-15 
+degrees below normal with highs in the upper teens to around 20 
+both Tuesday and Wednesday, with lows Tuesday night near zero 
+inland, single digits at the coast, and around 10 for the NYC 
+metro. This will be another night that optimal radiational 
+cooling will be limited by winds staying up just a bit and a 
+period of cloudiness to start the night. The backing of the 
+upper flow ahead of the incoming upper trough will expand the 
+cloud shield north and west of a frontal system well offshore 
+during the daytime hours Tuesday. Expect partly to mostly cloudy
+skies by afternoon. There is a chance that some anafrontal 
+precipitation offshore could work close to the east end of LI 
+for a low chance of light snow during the evening hours Tuesday.
+This chance will be short-lived though as the clouds will work 
+quickly back offshore during the late evening into early morning
+hours as the upper trough axis approaches. The latter of which 
+will send a reinforcing cold air into the region for Wednesday.
+
+&&
+
+.LONG TERM /THURSDAY THROUGH MONDAY/...
+Main jet stream south of the region and mid level trough in the 
+Northeast will remain in the regional weather pattern Wednesday 
+night through Friday night. The pattern shifts thereafter to more 
+zonal aloft and less of a trough structure going into the weekend. A 
+shortwave trough approaches next Monday.
+
+At the surface, the arctic cold airmass across the region midweek 
+will begin to moderate towards the end of this week. The low level 
+winds weaken midweek and then more of a SW flow develops. 
+Temperatures first get to near to above freezing for some eastern 
+parts of the region Thursday and then much of the region Friday. 
+Temperatures rise more into the 30s this weekend into next Monday, 
+potentially reaching lower 40s on Sunday and for next Monday.
+ 
+Regarding the low temperatures, much of the region in single digits 
+to teens Wednesday night and Thursday night, followed by mostly in 
+the teens Friday night. For the nights thereafter, lows forecast are 
+more in the 20s for a majority of the region. While winds will be 
+light, wind chills still will be several degrees less than actual 
+temperatures. Some sub-zero wind chills in the forecast Wednesday 
+night across parts of the interior with otherwise single digits to 
+near 10 for Wednesday night, Thursday night, and Friday night for 
+much of the area. Wind chills mostly in the teens for the nights 
+thereafter during the weekend for the local region.
+
+An area of low pressure passes offshore Thursday night. This is 
+expected to remain far enough offshore but some forecast models show 
+a closer approach, bringing a slight chance of snow along the 
+southeast coastal sections of the local region Thursday afternoon 
+into Thursday night. Mainly dry conditions are expected however.
+
+Another surface low pressure area approaches from the west next 
+Monday along with an accompanying cold front. There are timing 
+differences between forecast models with the timing and movement of 
+the low pressure and front. This will allow for a another slight 
+chance of snow as wet bulb cooling and thicknesses show more snow 
+compared to rain. However, forecast models do not have much moisture 
+associated with the front, with some models keeping the area dry. 
+
+Max temperature forecast on Thursday, NBM/NBM50 blend, which is 
+slightly cooler than NBM. Otherwise, NBM followed for the 
+temperature forecast during the long term.
+
+&&
+
+.AVIATION /00Z TUESDAY THROUGH SATURDAY/...
+VFR as high pressure builds from the west. 
+
+W to NW flow at 10 to 15 kt in the metro terminals through about
+03Z-05Z, then 10 kt or less for the remainder of the forecast
+period. Some gusts are lingering, especially for KLGA and they
+look to continue through 03Z as well, but should generally 
+diminish as the evening progresses. Otherwise, winds will remain
+W to NW through the forecast period at 10 kt or less. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No unscheduled AMD expected.
+
+.OUTLOOK FOR 00Z WEDNESDAY THROUGH FRIDAY...
+
+Tuesday night through Friday: VFR. 
+
+Saturday: VFR. W winds 10-15G20kt NYC metro/coastal terminals. 
+
+Detailed information, including hourly TAF wind component 
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+WNW winds will gradually diminish through this evening with SCAs
+only remaining for the ocean, where there are some residual
+higher seas. Non-ocean zones expected to remain below SCA
+thresholds tonight. The ocean SCA remains in effect through all
+of tonight and into very early Tuesday. High pressure will then
+continue to gradually build in with sub-SCA conditions through 
+midweek for all waters.
+
+Expecting well below SCA criteria with weak pressure gradient and 
+high pressure moving overhead Wednesday night into Thursday for
+all waters. Return SW flow develops thereafter with continued 
+sub-SCA conditions for all waters. Forecast has a potential 
+return to SCA conditions across the ocean waters for the 
+weekend, more probable for Sunday. Otherwise, sub-SCA conditions
+will continue for non-ocean waters.
+
+&&
+
+.HYDROLOGY...
+No hydrologic issues anticipated.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 7 AM EST Tuesday for ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JM/DW
+NEAR TERM...JM/DW
+SHORT TERM...DW
+LONG TERM...JM
+AVIATION...JP
+MARINE...JM/DW
+HYDROLOGY...JM/DW

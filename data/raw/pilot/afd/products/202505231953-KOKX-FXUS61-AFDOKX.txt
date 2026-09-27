@@ -1,0 +1,237 @@
+341 
+FXUS61 KOKX 231953
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+353 PM EDT Fri May 23 2025
+
+.SYNOPSIS...
+Low pressure over New England will slowly track into the
+Canadian Maritimes through Saturday, then stall and gradually 
+weaken through Sunday. Weak high pressure will build into the 
+region on Monday and Tuesday. By midweek, high pressure moves
+offshore into the Atlantic with another low pressure system 
+approaching from the west. Low pressure remains near the area 
+mid to late next week.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM SATURDAY MORNING/...
+Anomalous upper low remains over the northeast through the
+start of the weekend. The associated surface low will only 
+slowly track towards the Canadian Maritimes tonight. A shortwave
+within the upper low will continue sliding across the area into
+early this evening. Some light rain will accompany the trough, 
+mainly over the Lower Hudson Valley and Southern Connecticut. 
+Immediately behind the shortwave will be some partial clearing,
+especially close to the coast and NYC metro. The brief sun and 
+heating should lead to weak instability between 5-10kft. This 
+instability may be enough to develop some low topped convection 
+into the evening with freezing levels around 5-6 kft. Any 
+lightning will be very isolated at worst since the instability 
+is very shallow. The HRRR has been very consistent with the 
+shallow convective development early this evening across NE NJ 
+before shifting over the NYC metro and western Long Island 
+through sunset. Loss of heating after sunset should weaken the 
+already shallow convection, but a few lingering showers are 
+possible since there will continue to be spokes of energy 
+rotating around the larger upper low. Across CT shower activity 
+may be isolated this evening since there may be some subsidence 
+behind the aforementioned shortwave. 
+
+Any isolated showers should end by midnight with skies
+remaining partly cloudy. Low temperatures will be cool and 
+continue below normal in the lower to middle 40s inland and 
+upper 50s and low 50s near the coast.
+
+&&
+
+.SHORT TERM /6 AM SATURDAY MORNING THROUGH SUNDAY/...
+The upper low and associated surface low continue tracking
+to the Canadian Maritimes through Saturday. Several pieces of 
+energy/shortwaves will likely rotate around the upper low. 
+Cyclonic flow aloft will be maintained which will again yield 
+mostly cloudy skies by afternoon. The shortwaves, cyclonic flow,
+and cold pocket aloft will also support potential for isolated 
+to scattered showers, mainly in the afternoon and evening. There
+once again is weak instability 5-10kft in forecast soundings, 
+but appears to shallow for thunder potential. Have gone slightly
+above NBM PoPs to include chance probabilities inland with 
+slight chance closer to the coast. Temperatures are likely to 
+moderate a bit more compared to recent days with readings in the
+lower and middle 60s, still around 5 to 10 degrees below normal
+for this time of year. There will also be a steeper pressure 
+gradient and deeper mixing on Saturday, supporting wind gusts 
+20-30 mph, strongest near the coast. Any shower could promote a 
+stronger gust with a drier subcloud layer.
+
+Isolated-scattered showers should end after sunset with loss
+of heating and instability. Skies will become mostly clear with
+temperatures falling into the 40s inland and lower 50s closer 
+to the coast. 
+
+Low pressure will still spin over the Maritimes as it slowly
+weakens on Sunday. High pressure gradually builds towards the 
+region. There will still be shortwaves and pieces of energy 
+moving around the upper low. There will also continue to be 
+afternoon stratocu which could create mostly cloudy conditions 
+at times. Have introduced a slight chance PoP N and W of the NYC
+metro into southern CT for as an isolated shower cannot be 
+ruled out. Temperatures continue to moderate with highs in the 
+middle to upper 60s with some low 70s possible in NE NJ. 
+
+&&
+
+.LONG TERM /SUNDAY NIGHT THROUGH FRIDAY/...
+Upper level trough pattern remains Sunday night through Monday
+with a strong shortwave passing south of the region. Less 
+positive vorticity advection is apparent behind this shortwave 
+in the forecast models. 
+
+Upper levels transition to more of a ridging pattern thereafter 
+through the middle of next week. Model differences arise in the 
+magnitude of ridging and how fast it weakens. 
+
+At the surface, low pressure is forecast to shift farther east
+of Nova Scotia and Newfoundland Sunday night. High pressure 
+builds in from the Great Lakes as this low departs farther away 
+through Monday. The center of high pressure gets within close 
+proximity to the local area Monday night through Tuesday. The 
+high pressure area moves offshore towards Tuesday night and 
+continues to move farther offshore out into the Atlantic 
+Wednesday.
+
+Dry conditions are expected to prevail Sunday night through
+early next week. Temperatures are forecast to rebound closer to
+normal values. Daytime highs will be reaching more into the 70s
+for more areas comparing Memorial Day to Tuesday.
+
+For the middle to late portion of next week, another low pressure 
+area will be approaching. Aloft, the ridge weakens with strong
+cutoff low approaching the Great Lakes. This will invoke a 
+troughing pattern aloft to return to the local region. At the 
+surface, multiple areas of low pressure approach, one from the 
+Great Lakes and one from the mid-Atlantic. Both appear to be 
+rather weak in magnitude. Thursday night into Friday next week 
+appear to have more southerly synoptic flow develop and increase
+with a tightening of the height gradient. There are still model
+differences here with timing differences of rainfall and low 
+pressure areas.
+
+Rain returns to the forecast Tuesday night through Friday.
+Slight chances of rain showers Tuesday night increases to a 
+chance of rain showers Wednesday through Friday of next week. 
+Dewpoints gradually reach more into the 50s mid to late week. 
+Air will start to feel more humid. Despite the chances for rain 
+showers, daytime temperatures trend from near normal Wednesday 
+to above normal Thursday and Friday of next week.
+
+&&
+
+.AVIATION /20Z FRIDAY THROUGH WEDNESDAY/...
+Low pressure will continue to slowly track off the eastern New 
+England coast, while another weak low over the eastern Great 
+Lakes tracks east across New England. 
+
+VFR at all but KSWF/KISP/KGON as of 1930Z. There is potential for 
+iso/sct showers through this evening. VFR conditions expected 
+tonight and into Saturday.
+
+W winds increasing to 10-15 kt gusting to 15-20kt this afternoon, 
+particularly western terminals, diminish to 10 kt or less overnight. 
+Gusts then pick up again daytime Sat to 20-25kt. 
+
+  ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No unscheduled AMD expected. 
+
+.OUTLOOK FOR 18Z SATURDAY THROUGH WEDNESDAY...
+
+Saturday: VFR. W winds 15G20-25kt.
+
+Sunday: MVFR. NW winds 10-15G20kt. 
+
+Monday: VFR. NW winds 10-15 kt.
+
+Tuesday: VFR.
+
+Wednesday: Chance of showers with possible MVFR cond. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Main change to SCA headline on the ocean is to extend through
+6 pm Saturday. Have also added the NY Harbor and LI South Shore
+Bays for Saturday as wind gusts will likely end up near 25 kt 
+late morning into the afternoon. Seas should start to build back
+to near 5 ft tonight and then winds increase late tonight 
+through Saturday morning with gusts 25 kt expected. Winds and 
+seas should subside Saturday evening. Conditions on the LI Sound
+and eastern LI Bays should remain below SCA levels through 
+Saturday evening. All waters should then end up below SCA 
+Saturday night through Sunday.
+
+Pressure gradient remains relatively weak Sunday night through
+the middle of next week, keeping below SCA conditions on the 
+forecast waters.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts expected through next week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+Water levels could touch or fall just short of minor
+coastal flooding benchmarks with this evening high tide cycle 
+for southern portions of Nassau County and SW CT. No statement 
+has been issued.
+
+Farther down the road, there is potential for localized
+minor coastal flooding Sun into early next week with approach 
+of the new moon, causing areas to need as little as 1/4 ft of 
+tidal departure for minor coastal flooding.
+
+The OKX surf zone forecast season begins today with a high
+rip current risk for all the ocean beaches. Various 
+contributing factors include a 4-ft/9-sec E swell and an 
+opposing WSW 10-15 flow in the afternoon leading to chaotic 
+conditions. Surf temps have cooled off to the lower/mid 50s, 
+which should keep most people out of the water anyway. 
+
+The rip current risk for Saturday should be moderate as onshore
+seas gradually subside. 
+
+Outlook for the rest of the Memorial Day weekend: Rip risk
+likely reduces to low for Sunday, and a low risk for Memorial 
+Day, as onshore swells continue to subside.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...High Risk for Rip Currents until 9 PM EDT this evening for NYZ075-
+     080-081-178-179.
+NJ...None.
+MARINE...Small Craft Advisory from 6 AM to 6 PM EDT Saturday for ANZ338-
+     345.
+     Small Craft Advisory from 8 PM this evening to 6 PM EDT 
+     Saturday for ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JM/DS
+NEAR TERM...DS
+SHORT TERM...DS
+LONG TERM...JM
+AVIATION...20/BG
+MARINE...JM/DS
+HYDROLOGY...JM/DS
+TIDES/COASTAL FLOODING...

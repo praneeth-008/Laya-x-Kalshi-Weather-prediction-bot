@@ -1,0 +1,168 @@
+014 
+FXUS61 KOKX 131458
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1058 AM EDT Thu Mar 13 2025
+
+.SYNOPSIS...
+High pressure remains over the Northeast retreats further out into 
+the Atlantic through Friday. A warm front lifts through the region 
+Saturday. A cold front approaches on Sunday and passes through late
+at night into Monday morning. High pressure then follows for 
+early next week.
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+High pressure centered over eastern Maine and New Brunswick 
+will move east. A ridge extending SW from the high along the 
+Northeast coast into the Mid Atlantic will remain in place and
+be enhanced by a weak low passing to the south. It will remain
+dry today, with some high clouds passing overheard. An E
+maritime flow will however keep temps from rising very much,
+with highs from the mid 40s across eastern Long Island and along
+much of the coast, to the lower 50s from NYC west and in the CT
+River valley. 
+
+&&
+
+.SHORT TERM /6 PM THIS EVENING THROUGH SATURDAY NIGHT/...
+The high will continue to slowly drift E off SE Canada through
+Friday. Along with weak ridging aloft, conditions likely remain
+dry into Friday night. Thereafter, the high drifts farther out 
+into the Atlantic as a warm front approaches from the south. A 
+warm front approaches Friday night into Saturday morning and 
+lifts north Saturday into Saturday night.
+
+With more in the way of sun and winds shifting from the east to
+the southeast (albeit a light flow), Friday will see warmer 
+temperatures as compared to Thursday. Expect highs in the middle
+to upper 50s away from the coast. Coastal areas will see highs 
+in the upper 40s to lower around 50 thanks to the relatively 
+cooler waters.
+
+Continued light southeasterly flow ahead of the approaching warm 
+front Friday night into Saturday morning will allow moisture to 
+increase in the lower levels. Fog and drizzle is possible during
+this time frame. Fog should burn off mid to late Saturday 
+morning. 
+
+Milder conditions expected, with highs in the 50s.
+
+&&
+
+.LONG TERM /SUNDAY THROUGH WEDNESDAY/...
+Amplified 500mb trough approaches on Sunday with its axis shifting 
+through the forecast area during Monday. Associated cold front 
+approaches during the day Sunday and passes through during Sunday 
+night into Monday. This will bring showers, focused mostly during 
+the time frame of Sunday afternoon and night, with areas east of the 
+city likely still with showers Monday morning. CAPE is limited and 
+will leave out the mention of thunder for the time being. Areas west 
+of the Hudson would more likely have a chance of thunder, perhaps in 
+the evening hours with any lingering instability from daytime 
+heating and deep lift increasing. Rain could be heavy at times 
+nevertheless with PWATs increasing to around 1.50 inches and 
+enhanced lift with a low level jet and right-entrance of a jet 
+streak aloft. See the hydrology section below for potential impacts 
+from the rain.
+
+The other thing to keep an eye on during Sunday night is the 
+potential for strong winds. 925mb jet of at least 60-70kt currently 
+progged to shift through. Area waters are still cold, but with 
+surface temps at least in the 50s, the low level inversion might not 
+be as strong as it usually is during the cold season and allow for 
+strong winds to mix down from aloft. Chance of at least advisory 
+levels winds exists, primarily from around the city to coastal 
+locations eastward.
+
+High pressure builds in behind the system Monday afternoon and keeps 
+us dry through Wednesday. High temperatures through the long term 
+will be above normal.
+
+&&
+
+.AVIATION /15Z THURSDAY THROUGH MONDAY/...
+A weak wave of low pressure lingers nearby to the south today.
+
+VFR during the daytime, then MVFR cigs possible mainly tonight
+and mainly from KJFK on east tonight with the better chances at
+KISP/KGON. Tempo MVFR will however be possible during the
+daytime hours for the city terminals and KISP.
+
+ENE winds 10-15kt for the coastal terminals, but closer to 10kt
+inland. Winds back toward NE this evening, mostly around 10kt.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Occasional gusts up to around 20kt for KJFK/KLGA through the
+daytime hours. MVFR cigs may move in quicker than forecast,
+especially right along the coast.
+
+.OUTLOOK FOR 12Z FRIDAY THROUGH MONDAY...
+
+Friday: Chance of MVFR in the morning, otherwise VFR.
+
+Saturday: MVFR possible. Slight chance of rain showers. S gusts 20-
+30kt at night. 
+
+Sunday: MVFR with showers and LLWS mainly in the afternoon. Patchy 
+sub VFR possible with chance of showers. S winds gust 25-35kt.
+
+Sunday night: MVFR/IFR in rain/showers. LLWS and S winds gust 30-
+40kt. Winds becoming SW and diminishing late.
+
+Monday: Sub VFR possible in AM, otherwise becoming VFR. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Ocean seas on will remain between 5-7 ft today and 4-6 ft
+tonight, via combo of onshore flow and swell. Seas could still
+be as high as 5 ft Fri morning so the SCA may have to be 
+extended through then. 
+
+Sub-advisory conditions then expected through Friday night for 
+all waters, before increasing once again late Saturday with 
+strengthening southerly flow. SCA conditions return by Sunday 
+with 25-30 kt gusts developing on all waters. 
+
+Good chance of gales on all waters Sunday and Sunday night with
+a tight pressure gradient and strong low level jet in 
+association with a cold front passing through during Sunday 
+night. SCA conds then remain on the ocean waters for Monday, 
+mainly due to lingering swell.
+
+&&
+
+.HYDROLOGY...
+There is the potential for 1-2 inches of rainfall Sunday into 
+Monday, with most of this falling from late day Sunday through 
+Sunday night/early Monday morning. Heavy downpours will be possible 
+during this time with a chance of minor urban/poor drainage 
+flooding.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 6 AM EDT Friday for ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JC/JP
+NEAR TERM...BG
+SHORT TERM...JP
+LONG TERM...JC
+AVIATION...BC/JC
+MARINE...BG/JC/JP
+HYDROLOGY...JC/JP

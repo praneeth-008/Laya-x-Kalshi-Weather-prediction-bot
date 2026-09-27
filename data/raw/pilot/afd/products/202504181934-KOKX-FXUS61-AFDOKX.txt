@@ -1,0 +1,192 @@
+839 
+FXUS61 KOKX 181934
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+334 PM EDT Fri Apr 18 2025
+
+.SYNOPSIS...
+A warm front moves north of the area tonight, with a cold front 
+moving through Saturday evening. High pressure builds over the 
+northeast Sunday into Monday. A frontal system then moves across 
+the region Monday night into Tuesday. High pressure returns for 
+Wednesday and Thursday with potential of another frontal system 
+for the end of next week.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM SATURDAY MORNING/...
+The pressure gradient remains tight over the area tonight with high 
+pressure shifting farther southeast offshore and a low tracking to 
+our north and west. The orientation of these surface features will 
+gradually shift the winds to more of a SW/W direction. The area will 
+become warm sectored over night with a warm front passing to the 
+north. Mid and upper level sky cover increases and winds stay up so 
+temperatures will not be able to drop too much. Lows from NYC 
+and north and west will bottom out in the mid to upper 50s with 
+Long Island and CT mainly in the lower 50s.
+
+&&
+
+.SHORT TERM /6 AM SATURDAY MORNING THROUGH SUNDAY/...
+Towards daybreak, some shortwave energy rounding the top of a
+mid-level ridge will pass overhead. Some CAMs are hinting at 
+some showers across the interior. Thinking the 12z HRRR is way 
+too aggressive and went more in line with the 12z ARW for PoPs 
+Saturday morning.
+
+Aforementioned low pressure to our north will continue moving east 
+and drag a cold front toward the area. Out ahead of the front, deep 
+SW/W flow through the layer will help the area warm up. The NBM 
+deterministic temperature guidance continues to trend upward while 
+still falling at or below the NBM25th percentile for MaxT. Given the 
+anomalous warm air mass and the upward trending NBM have bumped up 
+MaxTs a few degrees. Used a blend of the previous forecast, the 
+NBM90th, the HRRR and bias corrected guidance. One concern though is 
+the amount of cloud cover that will be around tomorrow. This may 
+cause highs to end up a few degrees low than forecast.
+
+With the warm, moist airmass ahead of the cold front, the area looks 
+to become marginally unstable. MLCAPE values look to max out around 
+500J/kg, mainly across the interior. Some convective activity looks 
+to fire up along the approaching cold front/pre frontal trough and 
+move into our area. The activity is forecast to enter the Lower 
+Hudson Valley area around 5 to 7 pm. The thinking right now is any 
+of this earlier activity would be able to produce lighting with some 
+of the CAPE profile getting into the -10 to -20 layer. Forecast 
+soundings show a decrease in CAPE at this level after 8pm, so went 
+only showers after that. At this time, no organized severe 
+convection is expected.
+
+The cold front moves through Saturday night and then high pressure 
+builds in through Sunday. Cooler and drier air mass filters in 
+and temperatures will be back down in the 60s.
+
+&&
+
+.LONG TERM /SUNDAY NIGHT THROUGH FRIDAY/...
+There has been little change to the overall forecast thinking in
+the long term and have stuck close to the previous forecast/NBM.
+
+Deep layered ridging will be in place Sunday night and gradually 
+slide east of the area by late Monday. A progressive shortwave and 
+associated frontal system will then move across the region Monday 
+night into Tuesday. The warm front will lift to our north early 
+Tuesday with the trailing cold front passage likely occurring 
+Tuesday afternoon and evening. The shortwave lifts over southeast 
+Canada Tuesday night into Wednesday leaving behind a SW flow aloft. 
+There were some hints at another shortwave for Thursday in previous 
+model cycles. However, the latest guidance has shifted towards 
+ridging, which potentially could last through the end of the week. 
+
+For sensible weather, mainly dry conditions are expected with the 
+highest probabilities of showers occurring Monday night into Tuesday 
+morning with the aforementioned warm front. The trailing cold front 
+appears to have limited moisture and lift to work with so it likely 
+comes through dry Tuesday afternoon and evening. Have left in low 
+probabilities (20-30 percent) Thursday night into Friday, consistent 
+with the NBM. However, it is very possible these probabilities are 
+adjusted down if ridging ends up persisting for the rest of the 
+week, similar to much of the 12z guidance. 
+
+Temperatures on Monday will likely be the coolest for this period 
+due to onshore flow from retreating high pressure. Highs will be a 
+bit below normal in the upper 50s to around 60 degrees. Temperatures 
+for the rest of the week look to range from the middle 60s to lower 
+70s, warmest away from the immediate coast.
+
+&&
+
+.AVIATION /19Z FRIDAY THROUGH WEDNESDAY/...
+A warm frontal passage occurs tngt. A cold front approaches late Sat 
+aftn.
+
+VFR thru at least 18Z Sat, then there is a chc for MVFR in isold-sct 
+shwrs mainly aft 22Z. A prob30 was included for the shwrs, but due 
+to high uncertainty was kept VFR for now.
+
+If the activity does develop close to 21-23Z, there could also be 
+some isold tstms particularly KSWF.
+
+Strong S winds into this eve. Winds decrease aft 23Z, then veer to 
+the WSW thru 12Z Sat. Increasing WSW winds thru the day on Sat.
+
+LLWS tngt with wind speeds 45-50kt at 2kft, ending aft 12Z Sat. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Wind direction and speed at KEWR more uncertain than usual thru 00Z 
+with sea breeze flow opposing S flow. Amendments have been made to 
+better adjust timing, but further amendments are possible.
+
+.OUTLOOK FOR 18Z SATURDAY THROUGH WEDNESDAY...
+
+Saturday: Mainly VFR. Slight chance of showers aft 20Z. SW winds 
+gusting to around 30kt.
+
+Sunday: VFR. NW wind gusts 15-20kt possible.
+
+Monday: VFR, then sub VFR possible at night with a chance of showers.
+
+Tuesday: Becoming VFR with W winds.
+
+Wednesday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Small Craft Advisories in effect on all waters tonight except
+the western and central Sound and Peconic and Gardiners Bays.
+Once nearshore gusts pick up Saturday morning then those areas
+will be added to the Advisory. Additionally, all non-ocean
+waters tonight could see a lull in wind gusts.
+
+SCA conditions gradually lower Saturday night, with some 5-7ft
+seas lingering in the ocean zones. Conditions will then remain 
+below SCA levels Sunday night through the middle of next week 
+with a relatively weak pressure gradient over the waters.
+
+&&
+
+.FIRE WEATHER...
+SPS for CT and NY remains in effect until 7 PM this evening.
+Although still windy tomorrow, RH will be higher so not
+expecting any headlines for Saturday. Continue to exercise 
+caution handling any potential ignition sources, including 
+machinery, cigarettes, and matches. Any fires that ignite will 
+have the potential to spread quickly.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic issues through next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory from 8 AM to 8 PM EDT Saturday for ANZ331-
+     332-340.
+     Small Craft Advisory until 8 PM EDT Saturday for ANZ335-338-
+     345.
+     Small Craft Advisory until 8 AM EDT Sunday for ANZ350-353.
+     Small Craft Advisory until 8 AM EDT Sunday for ANZ355.
+
+&&
+
+$$
+
+SYNOPSIS...DS/JT
+NEAR TERM...JT
+SHORT TERM...JT
+LONG TERM...DS
+AVIATION...JMC
+MARINE...DS/JT
+FIRE WEATHER...JT
+HYDROLOGY...DS/JT

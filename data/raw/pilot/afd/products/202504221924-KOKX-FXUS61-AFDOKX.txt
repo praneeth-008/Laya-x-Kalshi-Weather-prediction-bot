@@ -1,0 +1,157 @@
+191 
+FXUS61 KOKX 221924
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+324 PM EDT Tue Apr 22 2025
+
+.SYNOPSIS...
+A cold front pushes through tonight followed by high pressure 
+building in on Wednesday. High pressure begins to move offshore late 
+Thursday into early Friday. A frontal system will move across the 
+area late Friday into Saturday, followed by high pressure Sunday 
+into Monday.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM WEDNESDAY MORNING/...
+A weak cold front will continue to gradually make its way through 
+the area through this evening, though skies will remain mostly sunny 
+to partly cloudy. A light NW flow will persist through tonight, 
+though the light flow may end up becoming light and variable or calm 
+at some locations. THis may result in some outlying spots to cool a 
+bit more than coastal or more urban locations. Lows tonight will 
+generally be in the upper 40s to low 50s closer to the NYC metro. 
+Outlying locations may cool into the middle to possibly lower
+40s.
+
+
+&&
+
+.SHORT TERM /6 AM WEDNESDAY MORNING THROUGH WEDNESDAY NIGHT/...
+Surface high pressure will build into the area into Wednesday 
+with mid-level flow remaining fairly zonal. This will result in 
+a slightly cooler airmass than Tuesday, though it should be much
+clearer, especially along the coast. High temperatures will 
+rise into the low 70s for much of the interior. NE NJ and the 
+NYc metro may rise into the middle 70s with Long Island and the 
+immediate coast topping out in the middle to upper 60s. 
+
+High pressure overhead will result in fairly light flow which will 
+allow for seabreezes to dominate the flow for the coast. The 
+relatively cold ocean will prevent coastal areas from rising too 
+high in temperature and is the reason highs will be lower in these 
+locations.
+
+High pressure continues to dominate into Wednesday night with light 
+flow and clear skies. Low temperatures Wednesday night will be in 
+the middle 40s to lower 50s with the warmer spots being in and 
+around the NYC metro.
+
+
+&&
+
+.LONG TERM /THURSDAY THROUGH TUESDAY/...
+The 12Z global models haven't changed much from their prior 00Z 
+runs. They continue to fluctuate with the timing of the frontal 
+system for late Friday into Saturday. The 12Z GFS is still the 
+fastest of the globals, by about 12h. The timing seems to hinge on 
+the complex interaction of southern branch PAC NW energy and 
+multiple pieces of northern branch energy dropping across central 
+Canada toward the end of this week. Remained close to the NBM during 
+this time. 
+
+High pressure offshore at the start of this period will retreat out 
+into the Atlantic while the aforementioned frontal system brings a 
+chance of showers into the area Friday afternoon with the most 
+likely timeframe after midnight Friday through the day on Saturday. 
+Marginal instability could result in isolated thunderstorms north 
+and west of the NYC metro Saturday afternoon. Onshore flow and weak 
+lapse rates should limit coverage, but kept slight chance for 
+thunder for much of the area given the uncertainty in timing of the 
+front. High pressure then builds in from the west Sunday into 
+Monday. 
+
+Temperatures remain above normal through Saturday, warmest Thursday 
+night through Friday night (5 to 10 degrees). A return closer to 
+normal is expected Sunday into Monday following the frontal
+system.
+
+&&
+
+.AVIATION /19Z TUESDAY THROUGH SUNDAY/...
+A cold front passes moves offshore this evening. high pressure then 
+builds in through Wednesday. 
+
+VFR through the TAF period. 
+
+S-SSW sea breezes will continue at south coastal terminals (KJFK, 
+KISP, KBDR, and KGON through 22z. Winds elsewhere will continue 
+becoming W and WNW through this evening, 10-15 kt. Gusts to around 
+20 kt remain possible at terminals away from the south coasts. Winds 
+this evening at all terminals will be WNW-NW with speeds settling to 
+around 10 kt before diminishing overnight. 
+
+The flow may become light N overnight before becoming NW Wednesday 
+morning, then backing towards the W-WSW in the afternoon. Sea 
+breezes are likely at coastal terminals in the afternoon. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Timing of WSW-W wind shift at JFK may be off by 1-2 hours. 
+
+End time of gusts at KLGA, KEWR, and KTEB may be off by 1-2 hours. 
+
+Timing adjustments to Wednesday afternoon sea breeze likely. 
+
+.OUTLOOK FOR 18Z WEDNESDAY THROUGH SUNDAY...
+
+Wednesday Afternoon-Thursday: VFR.
+
+Friday: VFR during the day. A chance of MVFR and showers, at night.
+
+Friday Night-Saturday: MVFR or lower in showers. An isolated 
+thunderstorm possible Saturday. SW gusts 15-20 kt possible. 
+
+Sunday: VFR. N gusts 15-20 kt possible.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Light flow with high pressure building overhead will result in sub-
+SCA conditions through at least Friday. The next chance for SCA 
+conditions will be Friday night into Saturday night with a frontal 
+system moving across the waters. However, these conditions would 
+only be marginal, should they occur. They will subside by Sunday 
+morning, remaining below SCA criteria into the beginning of next 
+week.
+
+&&
+
+.HYDROLOGY...
+At this time there are no hydrologic concerns through early next
+week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...BR/MW
+NEAR TERM...MW
+SHORT TERM...MW
+LONG TERM...BR
+AVIATION...DS
+MARINE...BR/MW
+HYDROLOGY...BR/MW

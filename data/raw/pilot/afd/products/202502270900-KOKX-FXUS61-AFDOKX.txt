@@ -1,0 +1,205 @@
+106 
+FXUS61 KOKX 270900
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+400 AM EST Thu Feb 27 2025
+
+.SYNOPSIS...
+A warm front pushes north of the area this morning followed by a 
+cold front that pushes through this evening. Weak high pressure 
+builds in tonight, lingering into tomorrow. Low pressure passes to 
+our north Saturday sending another warm front our way Friday night 
+followed by another cold front midday into afternoon Saturday. High
+pressure builds in from the west for the rest of the weekend 
+into early next week. The high pressure moves offshore towards 
+the middle of next week, followed by an approaching strong 
+frontal system thereafter.
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+A strong LLJ is sending a warm front through early this morning. 
+Lows have already been achieved now that a warm front is advancing. 
+Much of this rain located along and north of the warm front boundary 
+will clear the area this morning, following the warm front north. We 
+may see a brief reprieve with only isolated showers before showers 
+return as a prefrontal trough pushes in mid/late this morning into 
+the early afternoon. A last round of rain is expected as the cold 
+front pushes through late this afternoon into the evening. 
+
+Overall, expecting less than a tenth of an inch of QPF this morning 
+through the evening for southern areas, such as Long Island. Areas 
+in the interior should still see amounts above 0.10" but likely no 
+more than 0.25". 
+
+Winds are expected to increase later this morning into the early 
+afternoon from the SW before the cold front arrives with peak wind 
+gusts along the coast reach close to 30 mph. 
+
+&&
+
+.SHORT TERM /6 PM THIS EVENING THROUGH SATURDAY/...
+Clouds clear and things dry out early tonight as the cold front 
+exits east and high pressure begins to settle in. Lows will be in 
+the mid/upper-30s tonight with some slight cold air advection from 
+the west, but these temps are still above average.
+
+W/WNW winds will pick up closer to daybreak on Friday as the 
+pressure gradient from the low departing over the Canadian Maritimes 
+increases. Winds eventually relax as high pressure becomes more 
+centered over the area Friday afternoon, weakening the pressure 
+gradient. Highs on Friday will be a little cooler than previous days 
+in the 40s. 
+
+Heights drop Friday night into Saturday as a longwave trough 
+approaches from the west. An Alberta Clipper Low located over the 
+Great Lakes Friday night eventually passes to our east and northeast 
+on Saturday. This low brings another warm front through Friday night 
+and a cold front Saturday, sometime around the midday timeframe, 
+based on the latest model guidance. 
+
+Forcing looks best with warm air advection and positive vorticity 
+advection Friday night for precipitation. Better chances for 
+precipitation are in the interior with only slight chances towards 
+the southern part of the area, given the distance from the low and 
+the best forcing. Its possible we see a rain-snow mix in the 
+interior Friday night before temps warm, but most should see just 
+rain. 
+
+The cold front, which looks to arrive midday Saturday, has much 
+lower chances for precipitation given that model guidance has dry 
+air filtering in before the cold front's arrival. Saturday may stay 
+dry for most, with only slight chances for rain in the interior. 
+
+Temperatures cool Saturday afternoon and evening following the 
+passage of the cold front as a longwave trough aloft settles over 
+the northeast with drying air. 
+
+&&
+
+.LONG TERM /SATURDAY NIGHT THROUGH WEDNESDAY/...
+Key Points
+
+* Significant temperature decrease Saturday night with lows by 
+  Sunday morning in the teens to mid 20s.
+
+* Below normal highs Sunday and Monday staying in the 30s on average.
+
+* Temperatures trending warmer for midweek, returning to above 
+  normal.
+
+* Heavy rain possibility for midweek system next week.
+
+Mid level trough remains over the region for the rest of the 
+weekend. The trough moves east of the region Monday. Ridging takes 
+over through midweek. Deep trough approaches Wednesday night next 
+week.
+
+Dry conditions prevail for Saturday night through early next week 
+with high pressure gaining more control.
+
+Precipitation chances return to the forecast for Tuesday night 
+through Wednesday night. This will be all in form of rain. 
+
+POPs are already pretty high with this event, a strong incoming 
+frontal system. Lots of meridional southerly flow ahead of it, so 
+rain showers could be heavy at times. Still too early for exact 
+timing and rainfall amounts. 
+
+&&
+
+.AVIATION /09Z THURSDAY THROUGH MONDAY/...
+A warm front will continue to approach the region, eventually
+moving through by late morning. A cold front will approach late
+in the afternoon and move through early in the evening. 
+
+A greater coverage of rain showers is expected after daybreak 
+for the morning and afternoon.
+
+Period of MVFR cigs before warm front. These cigs should arrive
+at the NYC metros/KISP from about 11Z-12Z until 14Z, 
+KHPN/KBDR/KGON from about 12Z-15Z, and could last slightly 
+longer just after fropa.
+
+Winds should become E-NE into this morning before warm fropa, 
+then briefly SE just ahead of fropa. S-SW winds after fropa 
+mostly 10-15G20kt but with some higher gusts possible along the 
+coast especially at KJFK. After fropa in the evening winds shift
+WNW with gusts up to 20 kt. 
+
+     NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Rain showers and MVFR timing could vary a few hours from TAF.
+
+.OUTLOOK FOR 06Z FRIDAY THROUGH MONDAY...
+
+Late tonight: VFR. 
+
+Friday: Mainly VFR. WNW winds G20kt daytime. 
+
+Saturday: VFR. S-SW winds G15-20kt daytime, becoming W-NW late
+day and at night.
+
+Sunday: VFR. NW winds G15-20kt. 
+
+Monday: VFR. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Increasing S flow ahead of an approaching cold front will bring SCA 
+conditions to the ocean waters Thursday with gusts 25-30 kt and and 
+seas building to 7-10 ft. Elsewhere, expect marginal SCA conditions 
+across the eastern bays, eastern sound (east of the CT River),and 
+Great South Bay during the daytime hours. Winds diminish in the 
+evening, but seas will remain high.
+
+Small craft conditions should carry though a good portion of Friday 
+with ocean seas ranging from 4 to 6 ft as any small craft gusts on 
+the ocean diminish by afternoon. A brief period of sub advisory 
+conditions is likely late Friday afternoon and evening before small 
+craft conditions return as a southerly flow increases into Saturday 
+morning. Small craft seas will be in place on the ocean Saturday 
+with marginal small craft gusts likely on a portion of the non-ocean 
+waters.
+
+Long term, Saturday night through Monday night, non-ocean zones 
+below SCA. Ocean SCA conditions probable Saturday night into Sunday. 
+Sunday night through Monday night, sub-SCA conditions forecast for 
+all waters. 
+
+&&
+
+.HYDROLOGY...
+No issues expected through early next week. Too much uncertainty for 
+any specific rain amounts or potential impacts regarding middle of 
+next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory from 7 AM this morning to 7 PM EST this 
+     evening for ANZ332.
+     Small Craft Advisory from 10 AM this morning to 4 PM EST this 
+     afternoon for ANZ340-345.
+     Small Craft Advisory until 10 PM EST Friday for ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JM/BR
+NEAR TERM...BR
+SHORT TERM...BR
+LONG TERM...JM
+AVIATION...JM
+MARINE...JM/BR
+HYDROLOGY...JM/BR

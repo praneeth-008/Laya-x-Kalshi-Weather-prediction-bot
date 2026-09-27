@@ -1,0 +1,167 @@
+848 
+FXUS61 KOKX 071139
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+639 AM EST Fri Mar 7 2025
+
+.SYNOPSIS...
+Low pressure gradually departs to the northeast through tonight. A 
+cold front moves through Saturday morning followed by high pressure 
+building in through Sunday morning. A surface trough moves through 
+Sunday night. High pressure will then remain in control Monday 
+through Wednesday. Another frontal system approaches towards the end 
+of the week.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Forecast on track this morning. Some flurries that are streaming
+into the area from the northwest should be limited now to the
+Lower Hudson Valley and interior CT.
+
+Heights rise aloft today as the upper level trough axis is finally 
+to our east. By late tonight heights lower a bit ahead of an 
+approaching shortwave. At the surface, low pressure continues to 
+gradually depart to the northeast and the pressure gradient over the 
+area remains tight during the daytime hours. The gradient slackens a 
+bit overnight as a weakening frontal system gets absorbed into the 
+broader low to our northeast.
+
+Strong winds continue today with the tight pressure gradient and 
+deep mixing. The Wind Advisory remains in effect until 4 PM. 
+Forecast wind gusts have not changed much from the previous 
+forecasts. Model soundings show mixing up to around 850mb through 
+the day across our whole area. Winds at that height are 40 to 50 kt 
+through the morning hours and then drop a few kt for the afternoon. 
+For hourly wind gust forecast went with a blend of NAM 900mb winds 
+and the NBM90th percentile wind gusts. This gave several hours of 
+widespread 45-50 mph gusts. Isolated gusts of 55 mph are likely, 
+with the potential for a few 60 mph gusts, mainly through the 
+morning hours. We decouple tonight and will get a lull in the gusty 
+winds.
+
+The aforementioned weakening frontal system approaches the area 
+tonight along with another cold front. As a result, we may see some 
+light rain/snow showers. Have slight chance to chance PoPs 
+everywhere except southern CT. No snow accumulation is expected at 
+this time.
+
+&&
+
+.SHORT TERM /SATURDAY THROUGH SUNDAY NIGHT/...
+The aforementioned cold front moves through Saturday morning and we 
+once again get deep mixing in CAA. Winds aloft are not as strong, so 
+not expecting Wind Advisory levels, but still likely see gusts up to 
+35 mph. Gusts were derived the same way as mentioned above.
+
+High pressure noses in from the south through Sunday morning, but 
+then another shortwave and surface trough move through Sunday night. 
+This likely does not result in any showers and should just bring 
+increased cloud cover. Gusty winds expected again Sunday during the 
+day, but topping out at 30 mph.
+
+Stuck close to NBM for temps during this period.
+
+&&
+
+.LONG TERM /MONDAY THROUGH THURSDAY/...
+High pressure remains in control Monday through Wednesday. However, 
+a weak low and trough pass to our north on Monday, along with a low 
+pressure passing south of the region Monday night and Tuesday. Both 
+are expected to remain far enough away to have no impacts here. A 
+gradual warmup occurs during this period with highs Monday getting 
+into the 50s, with 50s and 60s on Tuesday and Wednesday. There is 
+some uncertainty with the timing of a cold front on Thursday into 
+Thursday night. Will continue to carry just chance POPs for now. 
+Temperatures will remain rather mild with temperatures reaching the 
+50s and 60s once again on Thursday.
+
+&&
+
+.AVIATION /11Z FRIDAY THROUGH TUESDAY/...
+High pressure slowly builds back into the area.
+
+VFR. 
+
+WNW gusts mainly between 35-40kt today. Winds start to 
+diminish late afternoon and evening. There may be a period
+tonight where the gusts end for a few hours, mainly after 06z,
+however gusts develop once again Saturday morning with gusts in
+the middle and upper 20kt range.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Gusts could prevail a few kt lower than forecast through this 
+afternoon.
+
+.OUTLOOK FOR 12Z SATURDAY THROUGH TUESDAY...
+
+Saturday: VFR with W winds G15-20kt possible.
+
+Sunday - Monday: VFR.
+
+Tuesday: Mainly VFR, SW-S winds.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Gale conditions continue through the day for all waters with 35 to 
+40 kt W-NW gusts. There will be a lull in winds tonight, although a 
+Small Craft Advisory will be needed on the ocean waters for the 
+lingering 5 ft seas. By Saturday, gusts reach 30 kt, with potential 
+for gales late in the day for the eastern LI Sound, Peconic and 
+Gardiners Bays and the ocean zone south of Montauk. Confidence is 
+still not high enough for a watch, but have mentioned in the HWO. 
+There will then be another lull Saturday night before SCA gusts 
+return again on Sunday, with 25 to 30 kt gusts.
+
+Sub-SCA conditions are expected across all waters Monday into 
+Tuesday morning. Seas may build back to SCA levels late Tuesday into 
+Tuesday night as low pressure passes well south of the area. Seas 
+fall back below 5ft on Wednesday. SCA conditions return towards the 
+end of the week with the approach of a cold front.
+
+&&
+
+.FIRE WEATHER...
+Although the area saw 1-2 inches of rain on Wednesday, windy and dry 
+conditions today and Saturday will allow for an increased risk in 
+fire spread. Both days will see min RH values around 30 percent. 
+Gusts on Friday are expected to reach 45 to 50 mph, with gusts on 
+Saturday around 30 to 35 mph. However, in coordination with fire 
+partners, no products are expected at this time.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through the middle of next
+week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Wind Advisory until 4 PM EST this afternoon for CTZ005>012.
+NY...Wind Advisory until 4 PM EST this afternoon for NYZ067>075-
+     078>081-176>179.
+NJ...Wind Advisory until 4 PM EST this afternoon for NJZ002-004-006-
+     103>108.
+MARINE...Gale Warning until 6 PM EST this evening for ANZ331-332-335-
+     338-340-345-350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...BC/JT
+NEAR TERM...JT
+SHORT TERM...JT
+LONG TERM...BC
+AVIATION...BC
+MARINE...BC/JT
+FIRE WEATHER...
+HYDROLOGY...BC/JT

@@ -1,0 +1,275 @@
+810 
+FXUS61 KOKX 290853
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+453 AM EDT Tue Jul 29 2025
+
+.SYNOPSIS...
+High pressure remains nearby through Wednesday. A cold front 
+moves through Wednesday night, stalling nearby to the south. A 
+frontal wave then develops along it and slowly passes by on 
+Thursday and Thursday night. High pressure begins to press further
+south during Friday while building into the region. The high 
+settles over the area during the weekend and into early next week.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Heat and humidity persist today with mid level ridging in place
+across the Central and Eastern US today, and weak surface high 
+pressure centered off to the south.
+
+No headline changes with this update. Heat Advisory remains in 
+effect for the entire region, with the exception of most of 
+northeast New Jersey, where an Extreme Heat Warning is in place. 
+
+With 850mb temps progged around or just above 20C, and 925 mb temps 
+in the mid to upper 20s, afternoon surface temperatures likely can 
+climb into the low to mid 90s for most away from the immediate 
+coastline, and upper 90s in the urban metro, including NYC. A few 
+locales in NE NJ could touch triple digits.
+
+Similar to Monday, expecting dew pts to mix down a good 3 to 5 
+degrees under national blended guidance, but temperatures into the 
+90s and dew pts at least in the mid to upper 60s should allow heat 
+indices to approach or exceed 100F across much of the region. 
+Warning areas likely top 105F. Daily record highs are possible 
+at some sites as well. See the Climate section further down for 
+more detail.
+
+Light WSW surface flow, or SW along the coast, expected thru 
+the day under mostly sunny skies. While omitted from forecast, 
+can't entirely rule out a pop up shower this afternoon with some
+subtle low level convergence as a weak boundary or surface 
+trough moves through, but cap appears sufficient to mitigate 
+anything more significant.
+
+Limited overnight relief, with lows in the 70s, or near 80 in and 
+around the NYC metro. Conditions remain dry, under relatively clear 
+skies.
+
+&&
+
+.SHORT TERM /WEDNESDAY THROUGH THURSDAY NIGHT/...
+One last day of high heat and humidity expected Wednesday.
+
+Heat Advisory and Extreme Heat Warning continue for respective zones 
+with similar conditions expected relative to Tuesday, though heat 
+indices may fall just shy of 105F in warning locales Wednesday.
+
+By late Wednesday, a cold front begins to move into the area from 
+the northwest, likely building cu and eventually initiating showers 
+and thunderstorms ahead of the advancing boundary. Some of 
+these storms could be strong to severe, with the primary threat
+being damaging wind gusts. Heavy rainfall is also possible with
+this activity, and could result in localized nuisance flooding. 
+SPC and WPC each have the region in a marginal risk for severe 
+weather and excessive rainfall.
+
+The front attempts to push through the area Wednesday night, but
+likely stalls somewhere in the vicinity. Cooler temperatures
+usher in by Thursday, but unsettled conditions continue as a 
+frontal wave develops along the stalled boundary and makes its 
+way through the area late Thursday and into Friday. This will 
+result in additional showers and storms, which likely falls 
+heavy at times with deep tropical air mass in place. Still 
+disagreements with global ensembles on placement of axis of 
+heaviest rainfall though, which will need to be resolved, but 
+up to several inches of QPF possible where the axis sets up.
+
+&&
+
+.LONG TERM /FRIDAY THROUGH MONDAY/...
+Some shower activity is likely early on Friday, with activity 
+decreasing in all likelihood for the afternoon and evening as the 
+frontal boundary with associated low pressure begins to get 
+suppressed to the south and east. Cooler and noticeably drier air 
+will work in out of southeastern Canada as a rare late summer high 
+builds down and delivers drier conditions with noticeably lower 
+humidity into the weekend.
+
+Any mid level energy gets off the Mid Atlantic coast during the 
+first half of Friday. There remains a good number of global guidance 
+members keeping rain / shower activity around through a good portion 
+of Friday morning, especially further east. The consensus appears to 
+be that the activity decreases with gradual improvement Friday 
+afternoon into Friday evening. Guidance consensus has clearing skies 
+Friday night into Saturday morning. Saturday morning will have a 
+hint of early fall to it with temperatures to start in the upper 
+half of the 60s to around 70 on a north wind with clear skies. 
+Northern and northwestern interior locations for both Saturday and 
+Sunday mornings will have temperatures down into the upper half of 
+the 50s. Temperatures Saturday afternoon recover to close to 80, 
+which is about 5 degrees or so below average for the start of 
+August. Temperatures should then slowly warm later in the period 
+into Sunday and Monday with afternoon max temperatures likely 
+returning to seasonable levels into the lower and middle 80s. Went 
+with the NBM throughout the period as its output seemed to go well 
+with mass fields.
+
+&&
+
+.AVIATION /09Z TUESDAY THROUGH SATURDAY/...
+Weak high pressure remains in control through the TAF period. A 
+surface trough will linger nearby on Tuesday.
+
+VFR for most terminals through the forecast period. KGON will vary 
+between MVFR or IFR in low stratus, with possibly some fog for a few 
+more hours. Additionally, there may be an isolated shower or 
+thunderstorm that develops Tuesday afternoon, mainly around NYC. 
+Confidence is too low at this time to even include a PROB30. Thus 
+will continue with VFR conditions prevailing.
+
+Weak flow persists early this morning, with the general flow turning 
+more W / WSW later today, with potential for a seabreeze at some 
+terminals which turns the flow more S or SW, especially for the more 
+coastal terminals. Winds go light and mostly variable towards late 
+evening.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Lower confidence wind direction forecast than usual given the 
+frontal boundary/surface trough that will be nearby the terminals 
+today.
+
+Cannot completely rule out an isolated shower or thunderstorm 
+this afternoon.
+
+
+.OUTLOOK FOR 06Z WEDNESDAY THROUGH SATURDAY... 
+
+Tuesday night: VFR.
+
+Wednesday-Friday: Mainly VFR through the day Wednesday. Chances of 
+showers/thunderstorms through much of this period beginning 
+Wednesday evening. Chances peak Thursday afternoon into Thursday 
+night and possibly Friday morning. Potential for MVFR or lower in 
+any shower/storm. Conditions improve late Friday and Friday night.
+
+Saturday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Conditions are expected to remain below Small Craft Advisory 
+criteria through Thursday night.
+
+Small craft conditions are likely on the ocean Friday, with marginal 
+small craft conditions for the eastern non-ocean waters. As high 
+pressure builds and the pressure gradient decreases, look for sub 
+advisory conditions to arrive quickly Friday night on the non-ocean 
+waters. Seas are currently progged to linger near 5 ft on the 
+central and eastern ocean waters Friday night into Saturday morning, 
+otherwise with the high building over the waters through the weekend 
+look for sub advisory seas to return to the ocean by Saturday 
+afternoon and remain in place through the remainder of the
+weekend.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through tonight.
+
+Showers and thunderstorms late Wednesday and Wednesday night may
+result in localized hydrologic concerns. More persistent and 
+widespread moderate to heavy rainfall is possible Thursday into
+Friday. WPC has outlined the entire region in a slight risk of 
+excessive rainfall, and localized to isolated areas of flash 
+flooding could develop where the heaviest axis of rainfall sets
+up. Otherwise, anticipating more of a nuisance flood threat, 
+particularly in the typical urban and poor drainage areas.
+
+Dry weather returns late Friday and into the weekend with no 
+additional hydrologic concerns for the weekend into early next
+week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+There is an overall low rip current risk for ocean beaches today and 
+Wednesday with only 1 to 2 feet offshore wave heights and a low wind 
+wave contribution.
+
+&&
+
+.CLIMATE...
+Record High Temperatures for Tuesday, July 29
+----------------------------------------------------
+Newark       100/1949
+Bridgeport    96/2002
+Central Park  99/1949
+LaGuardia     97/1949
+Kennedy       99/2002
+Islip         96/2002
+
+
+Record High Temperatures for Wednesday, July 30
+----------------------------------------------------
+Newark       101/1949
+Bridgeport    95/1949
+Central Park *98/1988
+LaGuardia     99/1988
+Kennedy       96/2002
+Islip         95/1988
+
+* Also occurred in previous years
+
+
+The following are record high minimum temperatures through 
+Wednesday, July 30.
+
+Record Minimum Temperatures for Tuesday, July 29 
+----------------------------------------------------
+Central Park........79 (2002)
+LaGuardia...........82 (2002)
+Kennedy.............76 (2022,2002,1995,1949) 
+Islip...............77 (1995)
+Newark..............79 (2002)
+Bridgeport..........78 (1995)
+
+Record Minimum Temperatures for Wednesday, July 30 
+----------------------------------------------------
+Central Park........80 (2002)
+LaGuardia...........81 (2019,2002)
+Kennedy.............79 (2006,1995)
+Islip...............76 (2002)
+Newark..............81 (2002)
+Bridgeport..........76 (2002)
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Heat Advisory until 8 PM EDT Wednesday for CTZ005>012.
+     Air Quality Alert from 11 AM this morning to 11 PM EDT this 
+     evening for CTZ009>012.
+NY...Heat Advisory until 8 PM EDT Wednesday for NYZ067>075-078>081-
+     176>179.
+     Air Quality Alert from 11 AM this morning to 11 PM EDT this 
+     evening for NYZ069>075-078>081-176>179.
+NJ...Heat Advisory until 8 PM EDT Wednesday for NJZ002.
+     Air Quality Alert from 11 AM this morning to 11 PM EDT this 
+     evening for NJZ002-004-006-103>108.
+     Heat Advisory until 11 AM EDT this morning for NJZ004-006-
+     103>108.
+     Extreme Heat Warning from 11 AM this morning to 8 PM EDT 
+     Wednesday for NJZ004-006-103>108.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JE/DR
+NEAR TERM...DR
+SHORT TERM...DR
+LONG TERM...JE
+AVIATION...JE
+MARINE...JE/DR
+HYDROLOGY...JE/DR
+TIDES/COASTAL FLOODING...
+CLIMATE...

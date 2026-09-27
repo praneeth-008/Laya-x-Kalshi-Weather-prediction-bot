@@ -1,0 +1,172 @@
+453 
+FXUS61 KOKX 100450
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1150 PM EST Sun Feb 9 2025
+
+.SYNOPSIS...
+Low pressure over the western Atlantic continues to pull away 
+from the area while high pressure builds in from the west 
+through Tuesday morning. A series of lows will then impact the 
+area Tuesday night through the weekend.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM MONDAY MORNING/...
+Special Weather Statement remains in effect for icy conditions 
+on area roadways through the Monday morning commute due to the 
+refreezing of melted snow/ice.
+
+Low pressure continues to exit well out into the western 
+Atlantic tonight, with surface high pressure over the Central 
+US building east. 
+
+Mid level clouds well north of low pressure will keep much of 
+the night mostly cloudy. 
+
+Overnight lows range from the low to mid 20s along the coast to
+the teens inland.
+
+&&
+
+.SHORT TERM /6 AM MONDAY MORNING THROUGH MONDAY NIGHT/...
+High pressure continues to build into the region from the Midwest
+Monday.
+
+Skies will feature more sun than on Sunday, though sct cu 
+development in the afternoon should preclude entirely sunny skies.
+Conditions remain dry. Temperatures top out in the mid 30s for 
+most with the BL mixing to about 850 mb. The light snowpack will
+likely continue to constrain temps a bit, so went a couple of 
+degrees cooler than blended guidance.
+
+The high moves overhead Monday night and winds lighten or calm. 
+Temperatures fall back a few degrees more than recent nights, but 
+incoming high level moisture well ahead of the next system may limit 
+more efficient radiative cooling. Overnight lows progged in the low 
+teens well inland, to low 20s along the coast.
+
+&&
+
+.LONG TERM /TUESDAY THROUGH SUNDAY/...
+Zonal flow aloft for Tuesday and Tuesday night will help keep a weak 
+area of low pressure to our south as it develops near the Mid-
+Atlantic coast and heads east into the western Atlantic. The right- 
+entrance region of a strong upper jet streak will be over us and 
+allow for expansion of the low's precip shield into the forecast 
+area. Light snow likely Tuesday night for approx the southern half 
+of the forecast area with a 40-50% chance of snow for the northern 
+half. Snow accumulations up to 2 inches expected.
+
+Surface high pressure builds slightly to our northeast during 
+Wednesday with upper confluence. Thinking is that surface ridging 
+over here will be strong enough to hold off any precipitation 
+through the daytime hours, but decided to leave in a slight chance 
+of snow for some areas. Precip is then expected Wednesday night and 
+Thursday with a familiar pattern of primary low pressure passing to 
+our NW while a weaker secondary low shifts nearby or through the 
+forecast area. This would send an elevated warm nose through, 
+changing snow to a wintry mix Wednesday night before an eventual 
+changeover to rain on Thursday as enough warm air pushes in. Right 
+now it appears that snow/sleet accumulations would be on the light 
+side before the changeover to rain. Can't rule out a little freezing 
+rain north and west of the city either.
+
+Colder air filters back in from the NW Thursday night as high 
+pressure builds back in behind the departing storm. Dry weather will 
+be likely for this period as models have trended faster with the 
+storm. Dry weather then remains for Friday and Friday night with 
+high pressure in control. Another storm then likely brings a wintry 
+mix possibly by the end of the day Saturday, but more likely 
+Saturday night and Sunday. Not so sure that this will be another 
+case of a primary/secondary low center bringing in a warm nose 
+aloft, so kept precip types simplified to rain, snow or a mix of the 
+two.
+
+&&
+
+.AVIATION /06Z MONDAY THROUGH FRIDAY/...
+Low pressure over the western Atlantic will continue to pull 
+away from the area while high pressure builds in from the west 
+into Monday.
+
+Any lingering low end VFR stratus (around 4 kft) scatters out 
+by daybreak, mainly north and west of the NYC terminals. VFR 
+expected through the TAF period.
+
+W/NW winds less than 10 kt overnight will become purely NW
+Monday morning, increasing to 10-12 kt with some gusts 15-20 kt
+developing late morning into early afternoon. Winds diminish
+early Monday evening with high pressure building in from the
+west. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Winds at times tonight, especially through 08Z may be more 
+westerly.
+
+Amendments possible for timing of gusts which could be 1-2 hours 
+different from TAF. Gusts Monday afternoon may very well just be 
+intermittent.
+
+.OUTLOOK FOR 06Z TUESDAY THROUGH FRIDAY... 
+
+Late Monday Night: VFR.
+
+Tuesday: Mainly VFR during the day. Increasing chance of snow 
+at night, eventually becoming likely, mainly at the coastal 
+terminals. IFR/LIFR conditions possible.
+
+Wednesday: Chance of snow with IFR/MVFR early. Brief return to
+VFR possible. However, another chance of snow/wintry mix with 
+IFR to MVFR at night. E gusts 15-20 kt afternoon and at night 
+along coast.
+
+Thursday: MVFR/IFR in a wintry mix to rain mainly during the day. NW 
+wind gusts 15-20 kt developing at night.
+
+Friday: VFR. NW wind gusts 15-20 kt during the day.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+The flow lightens tonight as high pressure builds in and allows
+wind and seas to lower as well. Expect sub-SCA conditions 
+expected on all waters through Wednesday. An onshore flow 
+increases Wednesday night into Thursday morning with the 
+approach of low pressure approaching from the south and west. 
+Advisory-level gusts anticipated on all waters during this 
+period. Winds then shift offshore Thursday afternoon after a 
+brief lull before increasing once again Thursday night with SCA 
+conditions probable on all waters. Winds weaken on Friday with 
+advisory conditions remaining mostly on the ocean waters.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through the forecast period.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JC/DR
+NEAR TERM...JC/DR/DW
+SHORT TERM...DR
+LONG TERM...JC
+AVIATION...DW
+MARINE...JC/DR
+HYDROLOGY...JC/DR

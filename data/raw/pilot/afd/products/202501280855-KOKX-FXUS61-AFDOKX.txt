@@ -1,0 +1,174 @@
+123 
+FXUS61 KOKX 280855
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+355 AM EST Tue Jan 28 2025
+
+.SYNOPSIS...
+Strong low pressure passing well to our north will drag a cold front 
+through the area today. Brief, weak surface ridging builds in this 
+evening before a clipper low moves through the area late tonight 
+through Wednesday. High pressure builds in thereafter through 
+Thursday. A frontal system impacts the area on Friday, with 
+another one possible by the end of the weekend.
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+A strong 970mb surface low is currently moving through eastern 
+Canada as it's cold front approaches our area from the west. The 
+system is accompanied by a potent middle level vortmax that can be 
+seen very clearly on water vapor satellite imagery currently moving 
+into western NY.
+
+Winds have steadily increased as the pressure gradient over the area 
+tightens. A LLJ has formed, with the axis over the southern half of 
+the area. The stronger NAM appears to be verifying the best. The NAM 
+has steadily been a bit stronger with the 950mb winds and the OKX 
+radar is currently sampling up to 50 kt at 2kft. Given the inversion 
+over land, much of this is not making it to the ground as obs show 
+gusts right now around 30 to 35 mph. The best chance at any 40 to 
+isolated 45 mph gusts this morning will be across eastern Suffolk 
+County and southeastern CT. After sunrise, the bulk of the LLJ will 
+be east of the area, but with deep mixing much of the area will see 
+35 to 40 mph gusts through the day. There will be a very brief 
+window this morning where the LLJ will still be over the area as we 
+begin to mix out and gusts could reach Wind Advisory criteria 
+(46mph), but have held off in issuance for now as this will likely be 
+isolated.
+
+With the passing of the cold front, guidance continues to show the 
+potential for snow showers/squalls this morning. The best chance for 
+this will be north and west of the area, but there is potential for 
+some of the activity to make it into our area as it weakens. Strong 
+low level frontogenesis and low values of SBCAPE are leading to non-
+zero Snow Squall Parameter values over our area. Not anticipating 
+any significant impacts. A few spots could see a quick dusting, but 
+this looks isolated. The convective activity could also help bring 
+down a few isolated stronger gusts to 45 mph due to the lingering 
+low level dry air.
+
+&&
+
+.SHORT TERM /6 PM THIS EVENING THROUGH THURSDAY/...
+A broad upper level trough remains over the area through Wednesday. 
+Very brief surface ridging builds in tonight, but is quickly 
+followed by the next system. A clipper low, and associated vortmax 
+rotating through the broader upper level trough, will move through 
+late tonight through Wednesday. The associated warm front pushes 
+north of the area tonight and warm advection may lead to an area of 
+light snow along and ahead of the front. There may then be a lull in 
+precipitation until the cold front moves through during the day. 
+Isolated to scattered snow and/or rain showers are forecast, with 
+the potential for some of this activity to be in the form of squalls 
+also. Another gusty day is expected with widespread 35 to 40 mph 
+gusts.
+
+The upper level flow starts to flatten out Wednesday night into 
+Thursday and high pressure builds in at the surface. A sunny but 
+cold day is expected Thursday, with highs back down in the 30s.
+
+&&
+
+.LONG TERM /THURSDAY NIGHT THROUGH MONDAY/...
+A frontal sys approaches from the W Thu ngt. WAA pcpn is modeled to 
+overspread the area, so expect a wintry mix Thu ngt changing to rain 
+on Fri as the entire cwa is warm sectored. With the low over the 
+cntrl CONUS progged to track well N of the cwa, CAD is expected to 
+be minimal. A change in track however could alter that, but it is 
+not fcst attm.
+
+Rain on Fri tapers off Fri ngt, perhaps as snow or rasn. The area is 
+dry slotted so snow accums are expected to be minimal if any. 
+
+Colder for Sat behind the sys, then a Pacific/nrn stream hybrid 
+potentially impacts the cwa Sun into Mon. Variations in the progged 
+track right now, with the ECMWF slightly faster and further N than 
+the GFS. With this pattern, some snow turning to a mix/rain would be 
+expected late Sun and Sun ngt, then the pcpn ends for Mon. NBM pops 
+were followed.
+
+&&
+
+.AVIATION /09Z TUESDAY THROUGH SATURDAY/...
+A cold front moves across the area today.
+
+VFR. Increasing SW-WSW winds with gusts around 25kt, veering more 
+westerly after the morning push with a slight chance of a snow 
+shower and brief vsby reduction until around noontime. Winds veer 
+further towards WNW for the afternoon. Gusts from approx 14-17z 
+could peak 35-40kt. 
+
+     NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Gusts may only be ocnl thru 12Z.
+
+Winds this afternoon prevailing south/left of 310 magnetic.
+
+.OUTLOOK FOR 06Z WEDNESDAY THROUGH SATURDAY...
+
+Late tonight: Chance of MVFR or lower in light snow after midnight, 
+mainly across the northern terminals.
+
+Wednesday: Chance of MVFR or lower in light snow or rain. WSW gusts 
+25-30kt.
+
+Thursday: VFR. NW gusts 20-25 kt in the morning.
+
+Friday: Sub-VFR in rain. 
+
+Saturday: Morning sub-VFR and snow possible along with N gusts 
+around 20kt, otherwise VFR.
+
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+A Gale Warning remains in effect on all waters except the western LI 
+Sound and NY Harbor where a Small Craft Advisory is in effect. For 
+the Gale Warning, winds will likely gust 35 to 40 kt, with potential 
+for 45 kt gusts over the eastern LI Sound and eastern ocean zone. 
+Seas increase through the morning, peaking at 8 to 10 ft.
+
+Winds lower to SCA levels by this afternoon and then below SCA by 
+early tonight. The lull will be brief as another low pressure system 
+will bring gusty winds late tonight through Wednesday night. 
+Additional SCA are expected, with the potential for gales. Winds 
+fall below SCA levels once again on Thursday.
+
+A SCA will likely be needed for Fri and Sat, then winds and seas 
+diminish on Sun. Winds increase on Mon with a SCA possible
+again.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through the start of next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Gale Warning until 1 PM EST this afternoon for ANZ331-332-340-
+     345-350-353-355.
+     Small Craft Advisory until 6 PM EST this evening for ANZ335-
+     338.
+
+&&
+
+$$
+
+SYNOPSIS...JMC/JT
+NEAR TERM...JT
+SHORT TERM...JT
+LONG TERM...JMC
+AVIATION...JMC
+MARINE...JMC/JT
+HYDROLOGY...JMC/JT

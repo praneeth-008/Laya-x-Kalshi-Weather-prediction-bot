@@ -1,0 +1,168 @@
+360 
+FXUS61 KOKX 272344
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+744 PM EDT Tue May 27 2025
+
+.SYNOPSIS...
+High pressure will remain offshore on Wednesday. Meanwhile, low
+pressure and its associated frontal system will approach from 
+the west, moving over the area Wednesday night into Thursday. A 
+series of low pressure systems move through the region Thursday 
+night through Saturday night. Weak high pressure returns Sunday 
+into early next week.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM WEDNESDAY MORNING/...
+No significant changes with the evening update.
+
+High pressure remains east of the region tonight. Meanwhile, 
+low pressure and an upper level trough approaches from the west.
+It will remain cloudy overnight. Warm air advection ahead of 
+the trough, along with some forcing may result in a sprinkle or 
+light rain around daybreak, but most of the measurable rain 
+should hold off until after sunrise. Lows tonight will fall into
+the 50s.
+
+&&
+
+.SHORT TERM /6 AM WEDNESDAY MORNING THROUGH THURSDAY/...
+The region will remain stuck between low pressure and upper 
+level trough to the west and surface high pressure and ridging 
+aloft to the east. Expect a cloudy day, with rain chances slowly
+increasing, mainly across the western half of the CWA through 
+the daytime. Portions of CT and Long Island may remain dry 
+through much of the day, as the precipitation runs into drier 
+air. Expect cooler temperatures with highs only in the 60s. 
+There is a chance interior CT reaches the lower 70s if cloud 
+cover is thinner across this area. 
+
+Rain chances then increase Wednesday night into Thursday as the
+low finally moves over the area. Expect POPs to increase and 
+become likely. The forecast guidance does differ a bit on the 
+amplitude of the shortwave and associated energy moving across 
+the area. A flatter guidance generally brings in less precip 
+overall as the forcing is weaker, while a slightly more 
+amplified solutions have a bit more precip along. Even with 
+these differences, QPF amounts remain low, generally remaining 
+below a half inch, CWA wide. Temperatures Wednesday night will 
+fall into the 50s and Thursday climb into the upper 60s and 
+lower 70s.
+
+&&
+
+.LONG TERM /THURSDAY NIGHT THROUGH TUESDAY/...
+A full amplitude trough, with an embedded closed low, from eastern 
+Canada into the Gulf coast states Thursday night gradually builds 
+to the east coast Friday and remains into late Sunday before moving 
+offshore Sunday night into early next week.
+With a series of vort maxes rotating through the upper low and 
+trough, a series of lows will track along a nearly stationary 
+frontal boundary from off the New England coast into the mid 
+Atlantic. The last of the waves moves through Saturday bringing a 
+cold front across the region. So a long period of unsettled weather 
+is expected from Thursday night into Saturday night.
+With rising heights aloft Sunday night into the beginning of next 
+week, and surface high pressure building into the region, dry 
+weather returns. Followed the NBM deterministic guidance, which has 
+trended lower for daytime highs Friday and Saturday, with 
+temperatures generally below normal. Night time lows will be near 
+normal.
+
+&&
+
+.AVIATION /00Z WEDNESDAY THROUGH SUNDAY/...
+High pressure situated to the south and east of the area will 
+gradually give way to a frontal system approaching from the SW 
+into Wednesday. 
+
+VFR forecast through Wednesday morning, then MVFR conditions 
+are expected to develop in rain late Wednesday
+afternoon/evening, especially the NYC terminals. IFR conditions
+will be possible after 00z. It may remain VFR across the 
+eastern terminals.
+
+S-SW less around 5kt overnight. Winds will the back to the SSE 
+at 5 to 10 kt in the morning, becoming ESE in the afternoon. 
+Winds are then expected to become more E Wednesday night.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Timing and lowering categories Wednesday afternoon may be later
+than forecast. Wind shift could also be delayed. 
+
+.OUTLOOK FOR 00Z THURSDAY THROUGH SUNDAY...
+
+Wednesday night and Thursday: Rain likely. MVFR conditions 
+expected, IFR possible late at night into the morning. E-SE 
+winds G15-20kt at the NYC metro/coastal terminals at night.
+
+Friday: Mainly VFR. Slight chance of showers. MVFR or lower cigs
+possible toward evening at the coastal terminals. 
+
+Friday night and Saturday: Chance of showers and possibly a 
+tstm. MVFR cond likely, IFR possible. SW winds G15-20kt in 
+the afternoon. 
+
+Sunday...VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+No changes to winds and seas with this update.
+
+Winds and seas will remain below SCA levels through Wednesday 
+with high pressure in control. Increasing SE flow Wednesday 
+night into Thursday may lead to wind gusts close to 25 kt and 
+seas building to near 5 ft on the ocean. The flow may weaken a 
+bit on Thursday, but seas will remain elevated. 
+
+Ocean seas remain at SCA levels Thursday night as southerly 
+winds continue ahead of a cold front. With the passage of the 
+cold front winds shifts to SW to W and ocean seas gradually 
+diminish below 5 feet by Friday morning. Ocean seas briefly 
+remain below SCA levels Friday, then with increasing southerly 
+winds ahead of another front ocean seas likely build to advisory
+levels late Friday night into Saturday. Ocean seas remain 
+elevated Saturday night, and gradually subside below 5 feet west
+to east during Sunday as winds shift to the west to southwest.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts expected through early next week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+There is a low rip current risk at ocean beaches through Wednesday 
+with 1-2 ft seas and winds generally 10 kt or less.
+The rip current development risk increases to high for Thursday
+due to a building southeast swell and southeast winds.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...BC/MET
+NEAR TERM...BC/MET
+SHORT TERM...BC
+LONG TERM...MET
+AVIATION...BC
+MARINE...BC/MET
+HYDROLOGY...BC/MET
+TIDES/COASTAL FLOODING...

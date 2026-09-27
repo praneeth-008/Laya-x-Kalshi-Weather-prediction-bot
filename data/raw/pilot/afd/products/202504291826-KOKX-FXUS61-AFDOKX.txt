@@ -1,0 +1,220 @@
+658 
+FXUS61 KOKX 291826
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+226 PM EDT Tue Apr 29 2025
+
+.SYNOPSIS...
+A cold front approaches from the west this afternoon and passes
+through late tonight into early Wednesday morning. High 
+pressure then returns for much of Wednesday and Thursday. A warm
+front approaches Thursday night and lifts through the region on
+Friday, with an attendant cold front following during Saturday.
+Thereafter, high pressure attempts to build in from the west 
+into early next week.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Only some cosmetic adjustments with regard to temps, dew points,
+and winds with tightening Ambrose style jet into this afternoon
+as the forecast remains primarily on track.
+
+SW-S winds into this afternoon with high pressure centered off 
+the Mid- Atlantic coast. With mostly sunny conditions and mixing
+up to 900- 850mb for western portions of the forecast area 
+unaffected by an onshore flow, went a few degrees above 
+deterministic NBM, which has been consistently below its 25th 
+percentile for the past several runs. Highs ranging from the 
+low-mid 80s in the urban corridor of NE NJ to the upper 60s for 
+the south-facing shores of LI and SE CT.
+
+Given the deep mixing expected through the day for the warmest 
+areas, dew points are expected to remain mostly 40-45 despite a 
+persistent SW flow. This deeper mixing and warm temperatures will 
+cause RH values to drop to 25-35% this afternoon. This dry air 
+combined with wind gusts 25-30 mph may allow for the elevated risk 
+of fire spread. As such, a collaborated SPS for Northeast NJ, the 
+Lower Hudson Valley and CT is posted to address this potential this 
+afternoon into early evening.
+
+Weakening convection ahead of an approaching cold front brings 
+chances (20-40%) of residual showers pushing into the forecast area 
+tonight. A rumble of thunder still cannot be ruled out over the 
+Lower Hudson Valley and vicinity during the earlier evening hours. 
+Any convection that survives will likely be below severe thresholds.
+
+&&
+
+.SHORT TERM /WEDNESDAY THROUGH THURSDAY NIGHT/...
+The cold front is expected to be in the vicinity of eastern LI at 
+sunrise Wednesday. Building surface high pressure follows through 
+the day and remains in control through Thursday as ridging continues 
+aloft. Dry weather through at least Thursday afternoon. For highs on 
+Wednesday, went closer to the warmer 50th percentile NBM given the 
+progged temps at the top of the mixed layer and a NW flow. 
+Deterministic NBM looked good for Thursday with an onshore flow and 
+more clouds around vs Weds. 
+
+Surface low pressure shifts NE through the eastern Great Lakes 
+Region during Thursday night. A leading warm front is progged to 
+reach part of the forecast area by daybreak Friday. Increased 
+moisture with 850mb theta-e advection and isentropic lift bring 
+chances (40-50%) of light rain or showers mainly after midnight. 
+Can't rule out an isolated rumble of thunder with some elevated 
+instability, but it appears that any rainfall will more likely be 
+relatively on the lighter side as guidance has consistently shown 
+modest qpf totals for several days now.
+
+&&
+
+.LONG TERM /FRIDAY THROUGH MONDAY/...
+Digging trough into the Great Lakes region with a couple embedded 
+shortwaves sends a frontal system toward the region late this week.
+Associated warm front lifts thru locally Friday morning, with 
+scattered showers possible to start before drying for the bulk of 
+the afternoon. Attendant cold front then approaches late in the day, 
+instigating another round of showers and perhaps tstorms as well 
+ahead of the boundary Friday evening and night. Guidance is also 
+converging on a frontal wave of low pressure developing along the 
+boundary as it moves east, producing additional wet weather 
+Saturday. The probability for severe weather is low. QPF outside any 
+convective maxima thru this time should largely remain under an 
+inch, though the slower progression of the entire system could 
+enhance totals just a bit further.
+
+Considerable uncertainty in the forecast moving into early next 
+week, hinging on whether the associated upper low is able to 
+sufficiently pass east, or cut off from the flow and meander nearby 
+for several days. EPS and GEPS lean toward a cutoff solution, 
+leading to a much more dreary outlook. Meanwhile, the bulk of 00Z 
+GEFS members keep the system moving east, with high pressure quickly 
+building in behind it early next week. Associated Pac energy remains 
+offshore, and better sampling should help resolve the solution over 
+the next day or two as it moves into British Columbia. 
+
+The region lies in the warm sector of the system on Friday and sets 
+up the mildest day of the period. Temperatures away from maritime 
+influence, generally west of the Hudson River, likely climb into the 
+upper 70s and lower 80s, with potential for mid 80s. Cooler along 
+the immediate coast with onshore southerly flow, closer to 70. The 
+region should fall back to more typical conditions behind the system 
+early next week as high pressure attempts to return, though 
+temperatures could be cooler should a meandering upper low remain 
+nearby.
+
+&&
+
+.AVIATION /18Z TUESDAY THROUGH SUNDAY/...
+A cold front approaching from the west late this afternoon will
+pass through late tonight into early Wednesday morning. High
+pressure will then returns for much of Wednesday. 
+
+VFR for the most part, though there is a chance that a 
+weakening line of showers/tstms ahead of the front may make it
+as far east as KSWF with MVFR cond and brief gusty winds. 
+
+SW-S flow should increase to over 15 kt with gusts up to 25 kt.
+Winds will be stronger at KJFK/KISP, sustained 20-25 kt with
+gusts just over 30 kt from about 20Z-21Z til 24Z. Winds veer SW
+ahead of the approaching front, then shift W-NW and become gusty
+by daybreak Wed if not sooner with gusts over 20 kt. Think 
+these gusts will carry into the afternoon. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Brief G35kt at KJFK and G30kt at KLGA both possible from about
+21Z-24Z. 
+
+.OUTLOOK FOR 18Z WEDNESDAY THROUGH SUNDAY...
+
+Wednesday afternoon: VFR. NW winds G20kt. 
+
+Wednesday night and Thursday: VFR. 
+
+Thursday night: Chance of showers after midnight with MVFR cond
+possible. 
+
+Friday: Chance showers/tstms with MVFR or lower cond from mid
+afternoon into the night. S winds G20kt at the NYC metros and
+along the coast. 
+
+Saturday: Showers likely and possibly a tstm with MVFR or lower
+cond expected. 
+
+Sunday: Chance of showers with MVFR cond likely. 
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+South to SW winds increase into the afternoon with SCA conditions
+developing on all waters this afternoon. A cold front then passes
+through late tonight into Wednesday morning with gusts still 
+above 25 kt and elevated seas on the ocean. SCA has been 
+extended to parts of Wednesday on the ocean. Only other 
+adjustment to the SCA was to extend it through the entire night 
+for most of the non-ocean waters. A period of sub-advisory 
+conditions then follows for all waters for much of Weds 
+afternoon through Thursday night as a high pressure ridge shifts
+through the region.
+
+Strengthening southerly flow associated with an approaching frontal 
+system could introduce a period of SCA conditions on the ocean 
+beginning Friday, with wind gusts up to 25 kt and seas 5 to 6 ft. 
+Winds lighten Friday night, but elevated seas may linger into the 
+weekend.
+
+&&
+
+.FIRE WEATHER...
+Dry conditions with the combination of low relative humidity values 
+between mostly 25 and 35 percent and frequent wind gusts of 25 to 30 
+mph will create an elevated risk for fire spread this afternoon into 
+early evening. Special Weather Statements are in effect for 
+most of the area (excludes NYC and LI).
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through the forecast period.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+Astronomically high tides will couple with a modest S/SW flow to 
+allow water levels to approach or a low probability of just 
+touching minor flood thresholds in the most vulnerable locales 
+of coastal Nassau, Queens, and Fairfield during this evening's 
+high tide cycle. No headlines have been issued at the present
+time.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 6 AM EDT Wednesday for ANZ331-332-
+     340-345.
+     Small Craft Advisory until 2 AM EDT Wednesday for ANZ335-338.
+     Small Craft Advisory until 2 PM EDT Wednesday for ANZ350-353.
+     Small Craft Advisory until 11 AM EDT Wednesday for ANZ355.
+
+&&
+
+$$
+
+SYNOPSIS...JC/DR
+NEAR TERM...JC/JE
+SHORT TERM...JC
+LONG TERM...DR
+AVIATION...BG
+MARINE...JC/DR
+FIRE WEATHER...
+HYDROLOGY...JC/DR
+TIDES/COASTAL FLOODING...

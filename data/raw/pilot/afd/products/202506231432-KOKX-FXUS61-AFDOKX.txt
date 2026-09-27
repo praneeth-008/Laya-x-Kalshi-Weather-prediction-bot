@@ -1,0 +1,219 @@
+218 
+FXUS61 KOKX 231432
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1032 AM EDT Mon Jun 23 2025
+
+.SYNOPSIS...
+High pressure continues to build into and south of the region into 
+Tuesday. A cold front briefly stalls close to the area on 
+Wednesday before working slowly south Thursday into Friday across 
+the northern Mid Atlantic states. The front will then return north
+over the weekend, stalling close to the area.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+* Extreme Heat continues for the entire area.
+
+The area remains under a large building upper level ridge with
+surface high pressure to the southwest. Low level moisture
+remains extremely high with dew points in the middle 70s for
+much of the area. As daytime heating begins, rapid warming of
+the surface is expected to occur under mostly clear skies. 
+Temperatures are expected to rise well into the 90s for much of 
+the area with western portions of the area possibly hitting 
+100. Heat index values today will generally be in the 105-110 
+range for much of the area with the exception of the immediate 
+coast, mainly Long Island and SE coastal CT. Extreme Heat 
+Warnings continue for these areas.
+
+Heat advisories are in effect for SE coastal CT and much of Long
+Island. Opted to expand the heat advisory to northeastern
+Suffolk given the extent of heating from the previous day
+precluding the heating expected today and Tuesday.
+
+Lows tonight will be in the 70s to near 80 for the NYC metro.
+
+&&
+
+.SHORT TERM /TUESDAY THROUGH WEDNESDAY NIGHT/...
+* Extreme Heat headlines continue into Tuesday.
+
+* Heat lessens Wednesday but still remains hot.
+
+Not much of a significant change in the airmass expected for
+Tuesday as compared to Monday. The most significant change is a
+slight lessening of the afternoon dew points due to a bit more
+mixing of the lower atmosphere. Despite lower dew points,
+surface temperatures may actually end up being a few degrees
+hotter than Monday in most places. NE NJ, the Lower Hudson
+Valley, and the NYC metro may rise into the low 100s. Even Long
+Island is expected to rise into the middle to upper 90s given a
+light W/SW flow. The combination of slightly hotter temperatures
+and slightly lower dew points will result in heat index values
+nearly identical to Monday for most places, but perhaps hotter
+for coastal locations, mainly Long Island. Lows Tuesday night 
+will be in the middle 70s for most to low 80s for the NYC 
+metro.
+
+By Wednesday morning, the ridge begins to break down a bit and
+push south as the mid-levels flatten out a bit. Mid-level energy
+may approach the area from the west with a slow moving weak
+surface front moving into the area from the north. This may 
+result in the increased chance for showers and thunderstorms to 
+develop during the afternoon and evening. 
+
+As for the heat, temperatures Wednesday will not be as hot as
+Monday or Tuesday but will still be hot enough to possibly
+result in heat headlines continuing, though more in the form of
+Heat Advisories as opposed to Extreme Heat Warnings. Highs will
+be in the low to middle 90s for most with upper 90s possible for
+the more urban areas. Lows Wednesday night will be a touch
+cooler than previous nights with lows in the upper 60s to middle
+70s.
+
+&&
+
+.LONG TERM /THURSDAY THROUGH SUNDAY/...
+Key Points:
+
+* A more unsettled weather pattern likely develops Thursday  through 
+  the upcoming weekend.
+
+A confluent upper flow between the northern and southern branches of 
+the polar jet will allow high pressure across eastern Canada to 
+expand into the Northeast on Thursday. This will likely give a 
+stalled frontal boundary across the area the needed push to sag 
+slowly south into the Northern Mid Atlantic by Friday. This is where 
+it is expected to park itself before returning north as a warm front 
+on Saturday. There is some uncertainty in the 00Z global guidance as 
+to how far south the front initially gets and then when it returns 
+north on Saturday, which could have a significant impact on 
+temperatures. The NBM is showing a large range between the 25th and 
+75th percentiles for temperatures, especially away from the coast 
+for Thursday and Saturday. The forecast area resides at the southern 
+edge of the westerlies during this time. The magnitude of any 
+shortwave energy will largely determine the position of the 
+boundary. It will also be unsettled with high PW air in place and a 
+boundary with potential waves to focus showers and thunderstorms. It 
+is too early to be specific with details but bouts of heavy rainfall 
+across the area is a possibility. It will also remain quite humid 
+with dew points in the 60s. 
+
+NBM deterministic temperatures during this time are generally skewed 
+toward the 25th percentile (cooler) while the median is skewed 
+toward the higher (warmer) temperatures. Using the deterministic 
+values in the forecast, daytime highs are generally at or just below 
+normal, while lows are a bit above. This is due to the close 
+proximity of the front, cloud cover, and rain chances.
+
+&&
+
+.AVIATION /15Z MONDAY THROUGH FRIDAY/...
+High pressure remains in control. 
+
+VFR thru TAF period.
+
+Light northerly/vrb winds with seabreezes developing except 
+KSWF. Speeds largely at or under 10 kt.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Timing of seabreeze may vary by 1-3 hours.
+
+KLGA may hold on to a NE wind around 5 kt into early afternoon.
+
+.OUTLOOK FOR 12Z TUESDAY THROUGH FRIDAY... 
+
+Tuesday: VFR.
+
+Wednesday: Chance of showers/tstms in the afternoon/evening mainly 
+for KSWF/KHPN/KTEB/KEWR. 
+
+Thursday and Friday: Chance of showers/tstms mainly in the 
+afternoon/evening. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Sub-SCA conditions are expected through Friday night across all
+of the forecast waters.
+
+&&
+
+.HYDROLOGY...
+A boundary in close proximity to the area Thursday into 
+Saturday will have to be monitored for potential bouts of heavy 
+rainfall.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+There is the potential for isolated minor coastal flooding during 
+the nighttime high tide cycles this week. This is due to high 
+astronomical tides associated with a new moon on June 25. There
+is little wind forcing at this time to produce much surge. A 
+coastal flood statement is possible during this time for SW CT 
+and the south shore back bays of Nassau.
+
+There is a low risk for the development of rip currents at all 
+the ocean beaches for both today and Tuesday.
+
+&&
+
+.CLIMATE...
+Increasing heat may result in record high temperatures through
+Tuesday.
+
+Monday's Record Highs (June 23):
+EWR  99 / 2024
+BDR  91 / 2010
+NYC  96 / 1888
+LGA  95 / 2024 and previous years
+JFK  94 / 2010
+ISP  91 / 1999
+
+Tuesday's Record Highs (June 24):
+EWR  97 / 1966
+BDR  94 / 1966
+NYC  96 / 1888
+LGA  96 / 2013
+JFK  97 / 2010
+ISP  96 / 1966
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Air Quality Alert until 11 PM EDT this evening for CTZ005>012.
+     Extreme Heat Warning until 8 PM EDT Tuesday for CTZ005>010.
+     Heat Advisory until 8 PM EDT Tuesday for CTZ011-012.
+NY...Extreme Heat Warning until 8 PM EDT Tuesday for NYZ067>075-176-
+     178.
+     Heat Advisory until 8 PM EDT Tuesday for NYZ078>080-177-179.
+     Air Quality Alert until 11 PM EDT this evening for NYZ069>075-
+     078>081-176>179.
+NJ...Extreme Heat Warning until 8 PM EDT Tuesday for NJZ002-004-006-
+     103>108.
+     Air Quality Alert until 11 PM EDT this evening for NJZ002-004-
+     006-103>108.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...DW/MW
+NEAR TERM...MW
+SHORT TERM...MW
+LONG TERM...DW
+AVIATION...JMC/DW
+MARINE...DW/MW
+HYDROLOGY...DW/MW
+TIDES/COASTAL FLOODING...
+CLIMATE...

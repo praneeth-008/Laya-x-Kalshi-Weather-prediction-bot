@@ -1,0 +1,219 @@
+499 
+FXUS61 KOKX 162250
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+550 PM EST Thu Jan 16 2025
+
+.SYNOPSIS...
+A weak frontal system passes across the region tonight. High 
+pressure briefly returns on Friday ahead of another frontal
+system Saturday into Saturday night. A coastal low then likely 
+impacts the region Sunday into Sunday night, followed by high 
+pressure through the middle of next week.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM FRIDAY MORNING/...
+The forecast is mainly on track. Only bumped up PoPs by about
+10% across some coastal and eastern sections for this evening. 
+Also changed the wording to scattered snow showers instead of 
+"chance" of snow showers as snow is falling in some areas where 
+radar returns appear, but not everywhere due to a lack of low 
+level moisture. In any case, accumulations will remain very 
+light.
+
+An upper level trough will continue moving across the region 
+tonight. A weak frontal system will accompany the upper trough, 
+with both systems offshore by daybreak Friday. Moisture is a 
+limiting factor along with overall weak lift heading this evening.
+The expectation is for at least some snow showers continuing to
+make it to the ground amidst the virga. The CAMs continue to 
+hint at a slight increase in simulated reflectivity and 
+organization of snow showers across central and eastern Long 
+Island. This appears tied to a weak wave of low pressure on the 
+frontal boundary helping to increase moisture and convergence. 
+These snow showers will quickly pass through over the next few 
+hours. A few lingering flurries are possible towards midnight, 
+but dry conditions are forecast overnight into early Friday 
+morning.
+
+A coating to a few tenths of an inch of snow accumulation are 
+possible. Snow amounts could be slightly higher across eastern
+Long Island where one half up to an inch cannot be ruled out. 
+Overall this is a light event with liquid equivalent amounts 
+averaging around a few hundredths of an inch or less. 
+
+The upper trough passing to the east late tonight will allow
+clouds to begin clearing early Friday morning. There will only 
+be a slight increase in NW flow behind the system with lows 
+ranging from the teens inland and lower to middle 20s elsewhere.
+
+&&
+
+.SHORT TERM /6 AM FRIDAY MORNING THROUGH SATURDAY NIGHT/...
+A ridge of high pressure both aloft and at the surface will
+move across the region on Friday. The air mass is not as cold 
+as recent days, which will allow temperatures to approach normal
+highs in the upper 30s to around 40 degrees. The ridging is 
+quite progressive and will move offshore Friday night in 
+response to the next upper trough/shortwave approaching from the
+Great Lakes region. Clouds begin increasing from west to east 
+Friday night with temperatures in the 20s inland and lower 30s 
+near the coast. 
+
+The shortwave will send the next frontal system into the area
+on Saturday. A warm front lifts north of the area early on 
+Saturday helping to bring in warmer temperatures. Most of the 
+region will have high temperatures in the middle to upper 40s 
+except for the interior of the Lower Hudson Valley where highs 
+may just reach 40 degrees. The approaching front and lift from 
+the shortwave will yield increasing chances for rain, especially
+the eastern half of the area where moisture return is greatest.
+The forcing will be quick to move across the area in the 
+afternoon and evening with rain amounts up several hundredths 
+to a few tenths, highest across Long Island and southeast 
+Connecticut. This will largely be an all liquid event, but some 
+colder air Saturday evening across the interior could bring a 
+brief rain/snow shower as the shortwave energy passes through 
+the area. Otherwise, mostly cloudy conditions prevail overnight 
+Saturday with some clearing late. Lows will be in the 20s inland
+and around 30 at the coast.
+
+&&
+
+.LONG TERM /SUNDAY THROUGH THURSDAY/...
+The trend among deterministic models and their ensemble
+means continues for low pressure passing close enough to bring 
+us a good chance of precipitation Sunday into Sunday night with 
+an overall wetter solution. A 500mb shortwave rotates around the
+periphery of a large polar vortex over Canada and passes either
+through or nearby the area during Sunday night. Although most 
+of the guidance tracks the surface near or SE of the 40N/70W 
+benchmark, the positioning of a strong upper jet or coupled jet 
+streaks may create enough large scale upper divergence over the 
+region such that even inland areas could have a likelihood of 
+precipitation. PoPs have been raised from the previous forecast,
+however likely PoPs have been limited to LI and SE CT for the 
+time being.
+
+Too early to have high confidence in snow the accumulation
+potential with trends not yet firmly established and with the 
+potential for some mixed precip at the coast. A lack of 
+downstream blocking resulting in a progressive system also 
+factors into accumulations as they would be mitigated by the 
+forward speed of the storm. With all of this said, the chances 
+of getting an advisory-level snowfall here Sunday into Sunday 
+night are at least increasing.
+
+An arctic airmass filters into the region and lingers through
+the middle of next week. Dry weather anticipated as another 
+storm system gets suppressed by high pressure, but well-below 
+temperatures are expected. After highs only in the 20s on 
+Monday, highs only in the teens for most spots Tuesday and 
+Wednesday. Adding to the chill will be gusty winds which may 
+lead to advisory-level wind chills for both Monday and Tuesday 
+nights. Given the tightness of the pressure gradient progged by 
+the models, NBM winds may be too low through Wednesday thus wind
+chills may end up lower than currently forecast. Didn't stray 
+too far from NBM for sustained winds, but bumped up the gusts 
+more noticeably due to the strong cold advection. 
+
+Winds on Thursday should be lighter as a high pressure ridge
+reaches the east coast, centered to our south. This would begin
+to bring us some relief with a W to SW flow helping high 
+temperatures reach mostly 25-30.
+
+&&
+
+.AVIATION /00Z FRIDAY THROUGH TUESDAY/...
+A frontal system, approaching from the west, moves offshore
+tonight, passing south and east late tonight. High pressure 
+builds back in for Friday.
+
+Becoming MVFR with light snow showers late afternoon into this 
+evening, and continue with PROB30. There is a low chance of 
+brief IFR conditions with the snow. Little to no accumulation 
+expected, one to two tenths of an inch. Light snow and lowered 
+conditions may be an hour earlier than forecast. Also, better 
+chances of IFR will be at KISP and KGON this evening as low 
+pressure develops south of Long Island.
+
+Winds SW to W 10-14 kt become westerly later this evening, and
+then NW around 10 kt after the snow ends.
+
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Amendments possible with lowering conditions in snow showers into 
+this evening. Low chance of IFR 00Z to 03Z.
+
+
+.OUTLOOK FOR 18Z FRIDAY THROUGH TUESDAY...
+
+Friday afternoon: VFR.
+
+Saturday: MVFR or lower at times with rain likely during the 
+afternoon, possible snow at night before ending. S wind gusts around 
+20 kt during the day.
+
+Sunday: Chance for MVFR or lower at times with increasing chances of 
+snow, with rain/snow mix for coastal terminals late day into the 
+evening.
+
+Monday: Mainly VFR, MVFR possible early morning. NW wind gusts near 
+20 kt.
+
+Tuesday: VFR. W wind gusts around 20 kt.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Conditions will remain below SCA levels on the waters through
+Friday as the pressure gradient will be weak. An approaching 
+frontal system on Saturday will help increase southerly winds 
+and bring a chance of SCA conditions for at least the ocean. The
+front pushes offshore Saturday evening with winds falling below
+SCA levels into Sunday morning. 
+
+Waves on the ocean may build up to 5 feet starting during the
+day Sunday ahead of low pressure passing SE of the waters 
+Sunday night into Monday. A better chance for advisory 
+conditions across all waters arrives Sunday night into Monday 
+with the closest approach of the storm. The current wind 
+forecast for Monday through at least Monday night, particularly 
+for wind gusts, might be too conservative at this point, but 
+there's too much uncertainty to go significantly higher than 
+NBM. The combination of the pressure gradient on the backside of
+the low and strong cold advection could bring gales across all 
+waters during this period. Winds diminish on Tuesday, but at 
+least SCA conds appear to be likely.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts are expected into the middle of next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JC/DS
+NEAR TERM...JC/DS
+SHORT TERM...DS
+LONG TERM...JC
+AVIATION...MET
+MARINE...JC/DS
+HYDROLOGY...JC/DS

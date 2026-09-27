@@ -1,0 +1,159 @@
+456 
+FXUS61 KOKX 040549
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1249 AM EST Tue Feb 4 2025
+
+.SYNOPSIS...
+A cold front approaching from central NY and northern PA
+overnight will pass through by daybreak. High pressure will 
+then build from the Great Lakes through Wednesday. A low 
+pressure system will produce a wintry mix Wednesday night and 
+Thursday. Another low may impact the area this weekend.
+
+&&
+
+.NEAR TERM /OVERNIGHT/...
+A fast, nearly zonal upper flow through the week will feature a
+series of clipper lows bringing reinforcing shots of cold air 
+into the region, with brief warm-ups in between. The first of 
+these will send a cold front across the area before daybreak. 
+There is some lift along and ahead of the front, but the airmass
+is moisture-starved and not expecting anything more than spotty
+sprinkles. Low level warm advection ahead of the front and a 
+gradually strengthening SW flow will keep temperatures mainly 
+above freezing, as well as produce advection low clouds across 
+eastern Long Island and SE CT. Otherwise there will also be 
+plenty of mid and high level clouds streaming in from the west.
+
+&&
+
+.SHORT TERM /TODAY THROUGH 6 PM WEDNESDAY/...
+Following a cold frontal passage, strong cold advection will be
+ushered in on a gusty NW flow today. Expect gusts by late 
+morning and afternoon of 25-35 mph. Temperatures to start will 
+be in the mid 30s to lower 40s and will only rise a few more 
+degrees through the day. Gusts gradually diminish overnight as
+temperatures get back to near normal, with lows by morning in
+the upper teens inland to the lower 20s at the coast. 
+
+High pressure then settles across the area on Wed with
+increasing high/midlevel clouds ahead of the next frontal 
+system approaching from the west. Highs will only top out in the
+lower/mid 30s, which is about 5 degrees below avg. 
+
+&&
+
+.LONG TERM /WEDNESDAY NIGHT THROUGH MONDAY/...
+There are two systems to watch. The first arrives Wed ngt and 
+Thu. There is no significant change to the fcst thinking based 
+on the 12Z modeling. Snow begins Wed ngt, most likely aft 
+midnight, then transitions to a wintry mix late at ngt and 
+during Thu mrng from S to NW. Went with snow accums of around 2 
+inches across the interior, with lesser amounts elsewhere. There
+is room for upward adjustment across the interior as the 
+initial snow could add up quickly. Also, a period of fzra is 
+expected across the interior, particularly nwrn areas locked out
+of the onshore sely flow. At the coasts, the onshore flow is 
+expected to warm the bl enough to greatly reduce the chances for
+fzra, where more of a snow to sleet and rain to rain transition
+is anticipated attm.
+
+A cfp occurs late Thu ngt into Fri, cooling off temps again for Fri 
+with gusty nwly winds. Gusts around 40mph seem reasonable attm with 
+with h85 winds in the GFS about 40 kt. 
+
+The next sys is progged for the weekend - the current modeling 
+suggests mainly Sat ngt and Sun. Did stick with the NBM pops 
+which keeps some chances for the day on Sat due to uncertainty 
+this far out. Again, this is a WAA laden Pacific based sys so 
+expect another wintry mix type event.
+
+Another shot of cold air then looks poised to infiltrate the
+region during the beginning of next week.
+
+&&
+
+.AVIATION /06Z TUESDAY THROUGH SATURDAY/...
+A cold front will move through overnight before the start of the
+AM push. 
+
+A period of IFR/LIFR in low clouds for KISP/KGON until 08Z-09Z,
+otherwise mainly VFR. LLWS likely until 08Z with WSW winds 45 kt
+at FL020. Sfc winds generally SW to start, shifting W-NW and
+increasing for the AM push. NW winds G20-30kt for this
+afternoon. 
+
+...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No amendments expected. 
+
+.OUTLOOK FOR 06Z WEDNESDAY THROUGH SATURDAY... 
+
+Late tonight: VFR with diminishing NW winds. 
+
+Wednesday: VFR. 
+
+Wednesday night: MVFR or lower cond in light snow, mixing with sleet 
+late for most terminals, with rain also mixed in at KEWR/KJFK. 
+
+Thursday: MVFR or lower cond as precip changes to freezing
+rain/sleet and then rain at KSWF, and to plain rain elsewhere. 
+
+Thursday night: Rain ending. West winds G20kt late. 
+
+Friday: VFR. NW winds G25kt. 
+
+Saturday: Chance of snow with IFR cond in the afternoon. Mixed
+precip becoming likely at night. 
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Winds and seas have begun to build in a SW flow ahead of an 
+approaching cold front, with SCA cond on the ocean E of Fire 
+Island Inlet (seas up to 5 ft and gusts just shy of 25 kt as of
+midnight). SCA cond develop on all waters on Wednesday in a 
+strong NW flow, with gusts up to 30 kt possible. Winds and seas
+then gradually lower Tue night into Wed with high pressure 
+building from the NW, with sub-SCA conditions on all waters
+daytime Wed. 
+
+Winds and seas increase on Thu, with SCA possible, especially on
+the ocean. NW gales are possible on Fri behind a cold front.
+Winds and seas fall blw SCA lvls on Sat, then may ramp up again
+on Sunday with another sys. 
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through next weekend.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory from 9 AM this morning to 10 PM EST this 
+     evening for ANZ331-332-335-338-340-345.
+     Small Craft Advisory until 1 AM EST Wednesday for ANZ350-353.
+     Small Craft Advisory from 6 AM this morning to 1 AM EST 
+     Wednesday for ANZ355.
+
+&&
+
+$$
+
+SYNOPSIS...JMC/DW
+NEAR TERM...JE/DW
+SHORT TERM...DW
+LONG TERM...JMC
+AVIATION...JE/BG
+MARINE...JMC/DW
+HYDROLOGY...JMC/DW

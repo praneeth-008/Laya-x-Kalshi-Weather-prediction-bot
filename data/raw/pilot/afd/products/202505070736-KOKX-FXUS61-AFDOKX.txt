@@ -1,0 +1,171 @@
+153 
+FXUS61 KOKX 070736
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+336 AM EDT Wed May 7 2025
+
+.SYNOPSIS...
+Weak cold front and surface trough pass today as low pressure exits 
+into New England. Weak high pressure takes hold tonight. A stalled 
+cold front with developing low pressure impacts us Thursday 
+afternoon into Friday. Low pressure exits northeast Friday
+night into Saturday morning. A weak cold front will cross
+Saturday night, with high pressure building in for early next 
+week.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Patchy areas of fog may continue into mid-morning before clearing. 
+
+A weak occluded surface low in northern New York with a mid-level 
+shortwave aloft will exit northeast into New England this afternoon 
+along with its triple point, located closer to us this morning. This 
+may bring a few light showers or drizzle this morning, but expected 
+any precip to remain isolated. 
+
+As the surface low exits this afternoon and evening into New 
+England, a surface trough will pass with PWATs increasing to around 
+1.0". This may be just enough to bring a few isolated showers to the 
+area later today, with the best chances in the interior, closer to 
+the circulation of the low. 
+
+Tonight, the low will continue to exit into the Canadian Maritimes 
+with high pressure briefly nosing in from the north in Canada. Light 
+winds could allow for another night of patchy fog.  
+
+Highs today will be in the low/mid-70s with lows in the 50s
+tonight.
+
+&&
+
+.SHORT TERM /THURSDAY THROUGH FRIDAY NIGHT/...
+
+Key Messages:
+
+ * A stalled front and low pressure to bring prolonged period of 
+   rainfall Thursday afternoon into Friday night.
+
+ * Periods of moderate to locally heavy rainfall possible.
+
+ * 1-2" expected with locally higher totals possible.
+
+A cold front will set up over the area on Thursday and stall over or 
+nearby into Friday. At the same time, a Mid-Atlantic low will pass 
+along the front during this time frame. An upper-level trough will 
+also dig into northern New York Thursday, becoming closed and moving 
+nearby Thursday night into Friday. The upper-low and surface low 
+will then become stacked on Friday as it phases with a southern
+jet stream, then exit northeast Friday night. 
+
+Low pressure along the stalled front will lead to periods of showers 
+Thursday afternoon into Friday, with showers tapering west to east 
+Friday night as the system exits. Some timing discrepancies still 
+exist among the 00Z guidance, with some quicker than others with the 
+system's exit. Thunderstorms will be possible in the afternoon and 
+evening on both Thursday and Friday with marginal instability and 
+shear in place. 
+
+00Z guidance vary with QPF amounts. Periods of moderate to locally 
+heavy rainfall are possible given lift from the stalled front, 
+marginal instability, positive vorticity advection from the nearby 
+closed upper-low, some orographic enhancement of precip with 
+easterly flow Thursday night into early Friday, and warm air 
+advection at 850mb Friday afternoon and evening. PWATs should peak 
+around 1.25 to 1.45" which is right at or above the 90th percentile 
+per SPC's Sounding Climatology Page. 
+
+Current forecasted QPF is between 1-2" Thursday afternoon through 
+Friday night. Its quite possible some areas could receive a few 
+inches more than this, depending on where the heaviest 
+showers/thunderstorms set up. 00Z CAMs are hinting at some 
+banded higher amounts late Thursday into Thursday night north 
+and west of NYC, particularly in the Lower Hudson Valley. As a 
+result, WPC has gone with a Slight Risk for Excessive Rainfall 
+for parts of Orange county with and Marginal Risk for the 
+remainder of the area on Thursday. Friday also carries a 
+Marginal Risk for the entire area. 
+
+&&
+
+.LONG TERM /SATURDAY THROUGH TUESDAY/...
+Conditions continue to improve Saturday morning as low pressure 
+departs to the north. While there may be a few leftover showers 
+Saturday morning, expect a drying trend.
+
+Another shortwave likely crosses the area Saturday night with 
+associated weak cold frontal passage, with Canadian high pressure 
+building into its wake and gradually rising heights. 
+
+The high will keep conditions dry through Monday night. The next 
+chance of precip comes on Tuesday or Wednesday with the 
+approach of the next low pressure system.
+
+Temperatures on Saturday will remain around seasonable levels, 
+however temperatures warm to above normal for the rest of the long 
+term. 
+
+&&
+
+.AVIATION /08Z WEDNESDAY THROUGH SUNDAY/...
+Conditions continue to improve Saturday morning as low pressure 
+departs to the north. While there may be a few leftover showers 
+Saturday morning, expect a drying trend.
+
+Another shortwave likely crosses the area Saturday night with 
+associated weak cold frontal passage, with Canadian high pressure 
+building into its wake and gradually rising heights. 
+
+The high will keep conditions dry through Monday night. The next 
+chance of precip comes on Tuesday or Wednesday with the 
+approach of the next low pressure system.
+
+Temperatures on Saturday will remain around seasonable levels, 
+however temperatures warm to above normal for the rest of the long 
+term. 
+
+&&
+
+.MARINE...
+Sub SCA conditions likely on Thu under a weak pressure 
+gradient.
+
+Next potential for SCA conditions is Friday into Friday Night, 
+particularly on the ocean waters, with coastal low pressure. 
+
+Conditions fall below SCA levels on Saturday and remain below SCA 
+levels through the start of next week. 
+
+&&
+
+.HYDROLOGY...
+Widespread moderate to locally heavy rainfall is possible Thursday 
+afternoon into Friday night. Total rainfall amounts will be 1-2", 
+but could be locally higher for areas north and west of NYC. Flood 
+impacts are expected to be minor for most, limited to only low-
+lying, poor drainage, nuisance issues. We could see isolated flash 
+flood impacts late Thursday into Thursday night for parts of the far 
+interior north and west of NYC where banded precipitation could
+set up.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...BC/BR
+NEAR TERM...BR
+SHORT TERM...BR
+LONG TERM...BC
+AVIATION...BC
+MARINE...BC/BR
+HYDROLOGY...BC/BR

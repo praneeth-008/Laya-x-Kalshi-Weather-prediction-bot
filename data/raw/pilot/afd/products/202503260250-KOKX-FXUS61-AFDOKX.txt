@@ -1,0 +1,227 @@
+855 
+FXUS61 KOKX 260250
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1050 PM EDT Tue Mar 25 2025
+
+.SYNOPSIS...
+A surface trough passes over the area tonight between low 
+pressures to our north and south. Another surface trough is 
+expected tomorrow afternoon/evening in response to a low exiting
+to the northeast. High pressure builds in from the southwest 
+tomorrow night. High pressure slides offshore Thursday night as 
+a frontal boundary slowly approaches and stalls nearby into the 
+weekend. A series of disturbances will develop along a complex 
+frontal boundary to the west as a warm front lifts north of the 
+area Sunday night into Monday. The trailing cold front sweeps 
+through Monday night followed by high pressure building on 
+Tuesday.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM WEDNESDAY MORNING/...
+For this update just a few minor adjustments in the hourly
+forecast database to better reflect latest obs and expected
+trends, especially with cloud cover going through the evening.
+Otherwise, forecast remains on track.
+
+A weak surface low passes to our north in southern Quebec this 
+evening into tonight. At the same time, a surface low develops along 
+the mid-Atlantic coast this evening and tracks to our south over the 
+Atlantic Ocean tonight as it strengthens. This southern low develops 
+as an upper level trough amplifies over the Great Lakes and moves 
+towards the northeast as a closed upper-low develops and moves into 
+the Niagara Peninsula area tonight. 
+
+A surface trough passes tonight between the low to our north and to 
+our south. The strengthening low to our south will also pass close 
+enough to lead to slightly increased moisture across eastern zones 
+with PWATs to the east around 0.4-0.5". Given slightly higher 
+moisture, PVA aloft around the base of the amplifying trough, lift 
+from the surface trough, and the nearby pass of the low to the 
+south, we could see light rain overspread eastern Long Island and SE 
+CT tonight. Precip should be light enough that only trace amounts of 
+rain are expected. 
+
+W/SW winds this evening should continue to weaken into early tonight 
+before turning north in response to the surface trough passing and 
+low pressure moving more east to our south late tonight. 
+
+Low temps tonight will partially hinge on cloud cover which will be 
+higher southeast and lower southwest. Lows will be in the upper-30s 
+to lower-40s tonight from NYC metro and Long Island to S CT. 
+Interior S CT and the Lower Hudson Valley should cool to the low-30s 
+to upper-20s given lower cloud cover.
+
+&&
+
+.SHORT TERM /6 AM WEDNESDAY MORNING THROUGH WEDNESDAY NIGHT/...
+Tomorrow, an amplified upper-level trough will center itself over 
+the area with a closed upper-low very close to the CWA to our north. 
+A surface low will exit northeast tomorrow afternoon, dragging 
+another surface trough through the area. 
+
+Expecting scattered cloud cover with spotty shower coverage along 
+the surface trough in the interior that becomes more isolated 
+towards the southern coastlines. Showers should be aided by PVA from 
+the nearby upper-low Wednesday afternoon to evening. Not expecting 
+much if any accumulation with these showers, as they will be light. 
+However, temperatures will be colder on Wednesday which could lead 
+to some snow mixing in in the interior. 
+
+Strong WNW flow is expected tomorrow afternoon/evening under a 
+stronger pressure gradient from a low exiting northeast. Pretty 
+notable cold air advection aloft at 850mb and 700mb with the trough 
+bringing 500mb heights down over the area 530-538 mb, which returns 
+a height anomaly of around -20 dam. This should keep highs on 
+Wednesday around the low-50s to upper-40s. Near-seasonal to slightly 
+below seasonal values. 
+
+Cold air advection continues Wednesday night under clear skies as 
+high pressure moves in the the region from the southwest in response 
+to an exiting upper-level trough. With clear skies, light NW flow, 
+and cold air advection, should see better radiational cooling. Lows 
+Wednesday night will be in the mid-30s to mid-20s.
+
+&&
+
+.LONG TERM /THURSDAY THROUGH TUESDAY/...
+High pressure settles nearby Thursday providing seasonably cool 
+conditions are temperatures are expected to run a bit below normal 
+for late March, despite a good amount of sunshine and a westerly 
+flow. There is some uncertainty around how high temperatures will 
+ultimately get during the late morning and afternoon on a westerly 
+wind. The air mass is cP in nature, but often this time of year with 
+the higher sun angle and downsloping winds temperatures can 
+overachieve. Thus would not be surprised if temperatures can get as 
+much as 5 degrees or so warmer than currently forecast. A frontal 
+boundary and a weak disturbance will then draw closer Thursday night 
+and ultimately pass through by Friday morning. There may be enough 
+mid level moisture down to around 5 kft that a few light showers or 
+a few sprinkles could work in during Thursday night, thus have some 
+coverage of slight chance PoPs. Otherwise, the expectation is that 
+is stays mainly dry Thursday night and through the day Friday. 
+
+The boundary will ultimately stall either over the region or just 
+south of the area Friday night and into the start of the weekend. 
+This will lead to another shower / sprinkle chance Friday night into 
+early Saturday morning, and thus carry chance to slight chance PoPs 
+through the timeframe and into the day Saturday. A southern branch 
+feature / shortwave then approaches for Saturday night into Sunday 
+morning. The ECMWF has been slower with the approach of this feature 
+compared to the GFS guidance. This should reintroduce the relatively 
+higher chance of shower activity for Saturday into a portion of 
+Sunday. The question for Sunday then becomes as the low pressure 
+attempts to develop off to the west, will this help get the warm 
+front north of the area late in the weekend. Based on the time of 
+year, this may get delayed or may not even occur. Another shortwave 
+originating out of the Pacific branch of the jet stream then 
+approaches and should develop or redevelop low pressure further east 
+towards Monday. Depending on how far east things progress will 
+ultimately determine how unsettled it will be to begin next week. 
+For now have likely PoPs for a portion of Sunday night, and carry 
+chance PoPs for much of the area into MondaY.
+
+The entire complex frontal system and any subsequent waves of low 
+pressure should progress off the coast into Monday night, with a 
+drier NNW flow regime as Canadian high pressure builds in for 
+Tuesday. Overall forecast confidence is below average through the 
+entire long term period with multiple questions around low level 
+boundary positioning, and mid level shortwave timing
+inconsistencies.
+
+&&
+
+.AVIATION /03Z WEDNESDAY THROUGH SUNDAY/...
+Weak low pressure passes well to our southeast late tonight.
+Weak high pressure builds in Wednesday.
+
+VFR is expected through the TAF period. There is a possibility 
+of SHRA for coastal terminals tonight, mainly KJFK, KISP, and 
+KGON. No impact to flight categories is expected. Another low 
+chance of SHRA possible for westernmost terminals Wednesday 
+afternoon, though not high enough confidence in occurrence and
+impacts to categories to include in the TAFs at this time.
+
+W to SW flow at or around 10 kt this evening becoming light 
+from the NW tonight. Some terminals may become light and
+variable. W winds expected Wednesday morning, starting off at 5
+to 10 kt, but increasing to 10 to 15 kt by late morning into 
+the afternoon. Gusts of around 20-25kt are possible for the 
+westernmost terminals including the NYC metro and KSWF in the 
+afternoon. Any gusts diminish by 22Z Wednesday-00Z Thursday.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+No unscheduled amendments expected.
+
+.OUTLOOK FOR 03Z THURSDAY THROUGH SUNDAY...
+
+Wednesday night: VFR. Gusts diminishing.
+
+Thursday: VFR.
+
+Friday: VFR. W wind gusts 15-20 kt.
+
+Saturday: VFR during the day, MVFR possible at night. E to SE wind 
+gusts 15 to 20 kt. 
+
+Sunday: MVFR or lower possible in light rain. E to SE 
+wind gusts 15 to 20 kt.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+There is one remaining SCA on the eastern ocean. SSE swell above 5 
+ft will remain on the eastern ocean until at least late this
+evening, then the SCA should expire. Winds and seas then remain
+below SCA criteria Wed and Wed night. 
+
+No advisories are anticipated across the coastal waters later this 
+week. Sub advisory conditions are anticipated to last through much 
+of the weekend with peak winds out on the ocean approaching 20 kt at 
+times Saturday through Sunday. Small craft conditions may return on 
+the ocean towards Sunday night.
+
+&&
+
+.FIRE WEATHER...
+WNW winds will be similar in strength to that observed on Tuesday or 
+slightly weaker while relative humidities will be slightly higher 
+than observed on Tuesday. This should translate to reduced fire 
+weather concerns on Wednesday, but there is still some small concern 
+for increased brush fire risk given fuels have already had a day to 
+dry out from the higher winds observed on Tuesday. This will also be 
+the case if RH drops lower than forecasts or winds become stronger 
+than forecast.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts are expected through the upcoming weekend.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 11 PM EDT this evening for ANZ350.
+
+&&
+
+$$
+
+SYNOPSIS...JE/BR
+NEAR TERM...BR/MW
+SHORT TERM...BR
+LONG TERM...JE
+AVIATION...MW
+MARINE...JE/BR
+FIRE WEATHER...
+HYDROLOGY...JE/BR

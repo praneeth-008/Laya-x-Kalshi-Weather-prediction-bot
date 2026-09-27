@@ -1,0 +1,224 @@
+678 
+FXUS61 KOKX 142345
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+745 PM EDT Mon Apr 14 2025
+
+.SYNOPSIS...
+A frontal boundary approaches and pushes through late tonight. 
+A series of weak troughs of low pressure pivot through by mid 
+week. High pressure builds in to the west Wednesday night and 
+slides south of the area Thursday, and pushes offshore Thursday 
+night and Friday. A frontal system may impact the region Friday 
+night through Saturday night. High pressure returns for Sunday. 
+Another frontal system may impact the area late Monday.
+
+&&
+
+.NEAR TERM /THROUGH TUESDAY/...
+Forecast on track with updates for current conditions, mainly
+for temperatures and dew points.
+
+A high pressure ridge slides east this evening with the 500 mb 
+ridge passage working through early. Any sfc ridging gets 
+offshore with mid level height falls increasing closer to 
+midnight. This all takes place as a fairly deep upper level low 
+pivots just north of the Western Great Lakes into far Southern 
+Canada. Therefore clouds lower and thicken quickly as indicated 
+by BUFKIT profiles and NWP. The higher res NWP indicates rain 
+shower activity arriving towards midnight with much, if not all 
+of the evening dry from the city on east. Further west a few 
+showers could arrive by 02-03z. The showers should only last 3 
+to 4 hours as the boundary responsible should pivot through 
+fairly quickly early Tuesday morning. The boundary which will be
+primarily an elevated warm / occluded front by the time it 
+arrives will produce showers but with an overall lack of 
+instability and the cold pool aloft lagging behind some there is
+not an expectation for any thunder late tonight. The winds 
+ahead of the boundary will be primarily out of the south, but 
+then begin to veer towards daybreak. With clouds and a southerly
+flow temperatures will average at least a few degrees above 
+normal with mainly upper 40s to lower 50s for lows.
+
+The boundary at the sfc gets east of the area quickly Tuesday 
+morning with the winds starting to gust towards late morning and
+around midday. The winds during the afternoon should gust to 
+around 35 mph, with a few gust perhaps getting briefly to 40 mph
+towards 21- 22z. The lowest levels will gradually get drier 
+through the day, that by afternoon a quasi V-type sounding is 
+indicated via BUFKIT profiles. There are some indications of mid
+level CAPE as mid and upper levels cool as the upper level low 
+generates somewhat of a synoptic B type sounding with lowering 
+near sfc dew points. This indicates a chance of some scattered 
+lower top type convection. Any activity would be widely 
+scattered with only minimal CAPE available at around 100 j/kg. 
+With the cloud layer quite dry any shower activity may be able 
+to generate localized 40 to 45 kt gusts, but with coverage in 
+question as the average RH in the column lowers through the 
+afternoon. In summary, the degree of coverage of any shower / 
+convective activity is in doubt resulting in a lower confidence 
+forecast. Will therefore go with chance PoPs and for now will 
+keep out any enhanced wording with regard to any strong wind 
+gusts or small hail / graupel potential. If confidence of 
+occurrence grows subsequent shifts can add any necessary details
+into the official forecast. Variable amounts of clouds are 
+anticipated into the late afternoon with temperatures climbing 
+above normal with lots of lower and middle 60s, with a few upper
+60s possible which is above normal for mid April.
+
+&&
+
+.SHORT TERM /TUESDAY NIGHT THROUGH WEDNESDAY/...
+For early Tuesday evening there may still be a few isolated 
+sprinkles/ showers but with the lower portion of the column 
+getting drier overall with cold advection. With a pressure 
+gradient still in place winds will remain gusty overall. With 
+the winds remaining in place temperatures should only get back 
+into the upper 30s to lower 40s, but it will feel a good 7 to 10
+degrees colder with the wind.
+
+On Wednesday a deep layered W to NW flow will continue as low 
+pressure will continue to move through the Canadian maritimes 
+and the NW Atlantic. This, along with high pressure back over 
+the Tennessee Valley the region will remain in a fairly tight 
+pressure gradient. This will keep breezy conditions in place 
+with winds likely gusting to around 30 mph throughout much of 
+the day. A W to WNW flow this time of year can typically lead to
+warmer than expected temperatures. However, a strong cP air 
+mass will be building across and should keep temperatures below 
+average with mainly lower half of the 50s for daytime highs 
+despite a fair amount of sunshine.
+
+&&
+
+.LONG TERM /WEDNESDAY NIGHT THROUGH MONDAY/...
+Generally a tranquil extended period as high pressure will be 
+building into area Wednesday night, and moving offshore Thursday
+night into Friday. There is a little more uncertainty with the 
+forecast for Friday night through Saturday night as an upper 
+trough passing north of the region is now a little more 
+amplified, and a zonal flow may set up across the region, 
+allowing a frontal boundary to linger across the region. While 
+there is some forcing along the frontal boundary, moisture is 
+more limited, and light precipitation will be possible for an 
+extended period of time. A high amplitude ridge then builds in 
+for Sunday into Monday, and may slow the eastward progression of
+the next system for the beginning of next week. The 
+deterministic NBM guidance was generally followed with few 
+targets of opportunity early in the period, and with uncertainty
+later in the forecast period. Only went toward the 75th and 
+90th percentiles for winds and gusts Wednesday night and 
+Thursday, with the potential for gusty conditions.
+
+Temperatures will only be up to 5 degrees below normal 
+Wednesday night through Thursday night, and then with a return 
+flow and increasing southerly wind temperatures increase to 
+above normal Friday night through Saturday night, with 
+Saturday's highs potentially 10 to 15 degrees above normal.
+
+&&
+
+.AVIATION /00Z TUESDAY THROUGH SATURDAY/...
+A frontal system will impact the area late tonight into 
+Tuesday.
+
+VFR conditions into late tonight/early hours of Tuesday.
+However, an approaching warm front is expected to bring IFR 
+conditions into the area beginning around 08Z and continuing 
+into Tuesday morning, to 14Z/15Z, except at KSWF which remains 
+well north of the warm front, and probably does not even have 
+MVFR conditions, and have bee more optimistic in the TAF. 
+Showers are forecast to impact the terminals from 04Z to 09Z. 
+Instability is weak and a thunderstorm seems unlikely at this 
+time. Conditions improve to VFR for all but KGON in the 12Z-14Z 
+timeframe. It may take until mid afternoon, 19Z, at KGON for 
+VFR.
+
+S/SW winds will be around 10 kt this afternoon with local seabreeze 
+enhancements likely. KEWR and KTEB may shift more to the SE late 
+this afternoon and early this evening. Winds for a time overnight 
+may go light and variable, especially across the NYC terminals and 
+KISP as the warm front will be in close proximity. WSW winds 
+gradually ramp up in the morning to 10-15kt with G20kt, then 20-25kt 
+G30-35kt in the afternoon following a cold frontal passage. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+There is a chance that ceilings will not be as low as forecast
+late tonight and may be more around 1K ft. Onset of higher winds
+and gusts early Tuesday morning may be an hour or two earlier.
+And a few gusts during the afternoon may approach 40kt in gusty
+showers.
+
+
+.OUTLOOK FOR 00Z WEDNESDAY THROUGH SATURDAY...
+
+Tuesday night: VFR. W winds G25-35kt early in the evening, 
+diminishing to G20-25kt late.
+
+Wednesday: VFR. WNW winds G25-30kt. 
+
+Thursday: VFR. NW winds G20-25kt.
+
+Friday: VFR. Chance of showers at night. S winds G15-20kt.
+
+Saturday: Chance of MVFR in showers. SW winds G15-20kt. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+No changes to winds and seas at this time.
+
+Small craft conditions develop from west to east quickly 
+Tuesday. A few marginal gale force gusts are possible for some 
+of the western waters late in the day and into a portion of 
+Tuesday evening. Otherwise, small craft conditions should 
+persist at least through the day Wednesday and possibly into a 
+portion of Wednesday night as low pressure tracks north and high
+pressure builds to the west. Ocean seas east of Fire Island 
+Inlet may linger about 5 feet until toward Thursday morning. 
+Therefore, will not extend the SCA into Wednesday night at this 
+time, as timing is uncertain. 
+
+Winds and seas remain below advisory levels through Friday. 
+Then with an increasing southerly flow ahead of the next frontal
+system small craft conditions will be developing on the ocean 
+waters Friday night, and continue through Saturday. And, gusts 
+will be near 25 kt across the Long Island bays, and eastern Long
+Island Sound Friday night through Saturday. Conditions then 
+subside late Saturday through Saturday night, falling below 
+advisory levels by Sunday morning, as high pressure builds into 
+the forecast waters.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns throughout the forecast period.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory from 2 PM Tuesday to 6 PM EDT Wednesday 
+     for ANZ331-332-340-345-350-353.
+     Small Craft Advisory from noon Tuesday to 6 PM EDT Wednesday 
+     for ANZ335-338-355.
+
+&&
+
+$$
+
+SYNOPSIS...JE/MET
+NEAR TERM...JE/MET
+SHORT TERM...JE
+LONG TERM...MET
+AVIATION...MET
+MARINE...JE/MET
+HYDROLOGY...JE/MET

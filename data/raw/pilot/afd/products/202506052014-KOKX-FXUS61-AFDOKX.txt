@@ -1,0 +1,198 @@
+948 
+FXUS61 KOKX 052014
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+414 PM EDT Thu Jun 5 2025
+
+.SYNOPSIS...
+A cold front slowly approaches the area Friday before passing 
+through on Saturday. Weak high pressure then briefly follows 
+for Sunday followed by a series of weak lows passing to the 
+south and east Sunday night into Monday. A slow moving frontal 
+system will then work across the area Tuesday into Wednesday.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM FRIDAY MORNING/...
+Mostly sunny skies this afternoon will continue to facilitate 
+temperatures remaining in he 80s through the evening, gradually 
+cooling off overnight. Ample instability is present for the 
+northern portions of the area, but lack of a surface trigger is 
+preventing convection from developing on a widespread scale. 
+Isolated showers and storms are possible this afternoon and 
+early evening but once the sun sets and strong surface heating 
+ceases, the chance for any showers or storms drops off 
+dramatically. Lows tonight will be warm, in the middle to upper 
+60s for most and in the low 70s for the NYC metro.
+
+&&
+
+.SHORT TERM /6 AM FRIDAY MORNING THROUGH SATURDAY/...
+The large-scale ridging over the area shifts offshore tomorrow with 
+subtle lowering heights aloft as mid-level troughing pushes into the 
+Great Lakes region. Downstream of the surface cold front, several 
+pre-frontal troughs are expected to be the focus for convection for 
+the next couple of days. Generally, mostly to partly sunny skies 
+Friday is expected to allow ample surface heating and the 
+development of instability on the order of 1000-2000 J/kg or higher 
+for interior portions of the area. Despite the ample instability, 
+there will be fairly little shear (20kt or less) with fairly slow 
+mid-level flow.
+
+Additionally, a strong seabreeze is expected to develop under the 
+light synoptic flow and should be able to move deep into the 
+northern portions of the CWA. While this may partially be a trigger 
+for storms to develop, south of the seabreeze, the cooler air off of 
+the ocean will stabilize the lower atmosphere, preventing convection 
+from being able to sustain itself. As such, a good portion of the 
+CAMs have the strongest and most numerous convection north of the 
+CWA, though the LHV and CT remain in the marginal risk for severe 
+storms, which remains possible but mainly for any storms prior 
+to the seabreeze passage. Highs tomorrow will be in the 80s once
+again, though any spots reaching 90 should be limited if any. 
+
+Residual convection may move into northern and western portions of 
+the CWA during the evening but once surface heating shuts off, 
+convection should be on a rapidly weakening trend. 
+
+The cold front approaches the area Friday night from the west that 
+will result in a cloudier sky for Saturday. Models differ a bit as 
+to how much residual convection will be around by Saturday morning, 
+but either way, cloud cover should limit the amount of surface 
+heating taking place on Saturday. This should limit any stronger to 
+severe convection to more of showers with embedded convection. 
+
+Given the general slower storm motion with possible repeated rounds 
+of convection, WPC has a marginal risk of excessive rainfall. This 
+may result in local hydrologic concerns, though widespread issues 
+are not expected.
+
+&&
+
+.LONG TERM /SATURDAY NIGHT THROUGH THURSDAY/...
+Stayed close to the  NBM with global models in good overall 
+agreement with the large scale mass fields. However, there are 
+some timing and placement issues as can be expected at this 
+juncture in time. At the start of the period, shortwave ridging 
+will pass through the area on Sunday with weak surface high 
+pressure. There is some uncertainty with the location of a 
+weak surface low passing to the south Sunday night into Monday 
+morning. The 12Z GFS is far enough to the south to keep the area
+dry, while the ECMWF is far enough north to bring a high 
+probability of rainfall into the region. For the time, NBM has 
+a 20-30 percent chance of showers and/or rain during this time,
+but no higher than a 10 percent chance of rainfall amounts greater
+than 0.50". For the rest of Monday through the first half Tuesday
+rain chances will be low, but then increase as a frontal system
+works into the area. The best chance at this time looks to be 
+Tuesday afternoon/evening. Instability is marginal at this time 
+with strengthening deep-layer shear as an upper trough approaches
+from the Great Lakes. The latter of which will drive a cold 
+front through the area toward daybreak Wednesday with drier air
+to follow for midweek. 
+
+Much of the period will feature weak onshore flow, intervals of 
+clouds, and rain chances. This will keep daytime highs mainly 
+in the 70s Sunday into Tuesday with lows warming into the lower 
+60s during this time. Humidity will be on the rise as well. 
+Temperatures will warm Wednesday into Thursday with a westerly 
+surface wind component and building heights aloft.
+
+&&
+
+.AVIATION /20Z THURSDAY THROUGH TUESDAY/...
+High pressure remains offshore into this evening, while a cold front 
+slowly approaches tonight into Friday.
+
+VFR conditions mainly prevail through the TAF period. Can't 
+completely rule out a shower or thunderstorm late this afternoon at 
+KSWF as well as a shower tonight, but confidence remains too low to 
+include in TAF. Possible brief MVFR/IFR well east of NYC terminals 
+towards KGON early Friday morning in stratus/fog.
+
+SW winds around 10kt through late afternoon, but a little stronger 
+for KLGA and KJFK closer to 12-13kt at times. Winds then become 
+lighter this evening, veering more SW. Stronger southerly sea 
+breezes are anticipated and develop earlier on Friday.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Sea breeze meanders within a few miles of KEWR and KTEB during this 
+afternoon - winds could potentially prevail SW, SE or vary between 
+the two directions at times until 21-22z.
+
+.OUTLOOK FOR 18Z FRIDAY THROUGH TUESDAY... 
+
+Friday afternoon: Mainly VFR, with the chance of showers/tstms 
+potentially resulting in brief MVFR/IFR for NYC terminals and points 
+north and west later in the afternoon. 
+
+Friday night: Pockets of MVFR/IFR with chance of showers/tstms. 
+
+Saturday: Possible MVFR/IFR with showers likely. Chance of tstms. 
+Patchy fog early Saturday.
+
+Sunday: Mainly VFR during the day, with sub-VFR possible at night in 
+showers and low clouds.
+
+Monday: Mostly VFR, with pockets of sub-VFR possible in showers.
+
+Tuesday: Sub-VFR likely in showers.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Winds and waves are expected to remain generally below SCA levels on 
+all waters through at least late Friday night. Waves approach 5 feet 
+on the ocean early Saturday morning.
+
+Thereafter, expect sub-advisory conditions through the middle 
+of next week. Waves of low pressure passing to the south and 
+a southerly swell will keep seas on the ocean 3 to 4 ft. Chances
+increase for marginal SCA conditions for seas around 5 ft Tuesday
+night into Wednesday.
+
+&&
+
+.HYDROLOGY...
+No widespread hydrologic impacts are expected through Saturday,
+although thunderstorms could produce locally heavy rain Friday 
+and possibly Saturday.
+
+Showers and thunderstorms Tuesday into Tuesday night may produce at 
+least minor nuisance flooding. Low confidence at this time regarding 
+potential impacts this far ahead in time.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+There is a moderate rip current risk thru Fri with waves
+generally in the 2-3 ft range but winds mainly aob 10kt.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Air Quality Alert until 11 PM EDT this evening for CTZ005>012.
+NY...Air Quality Alert until 11 PM EDT this evening for NYZ067>075-
+     078>081-176>179.
+NJ...Air Quality Alert until 11 PM EDT this evening for NJZ002-004-
+     006-103>108.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...DW/MW
+NEAR TERM...MW
+SHORT TERM...MW
+LONG TERM...DW
+AVIATION...JE
+MARINE...DW/MW
+HYDROLOGY...DW/MW
+TIDES/COASTAL FLOODING...

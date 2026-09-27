@@ -1,0 +1,217 @@
+031 
+FXUS61 KOKX 200255
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+955 PM EST Sun Jan 19 2025
+
+.SYNOPSIS...
+Deepening low pressure off the Mid Atlantic coast will quickly
+pass to the east of the area tonight and up into the Canadian 
+Maritimes by daybreak Monday. An arctic airmass will then build 
+in through mid week with high pressure building in from the west. 
+High pressure moves overhead Wednesday night into Thursday and 
+then offshore thereafter. A frontal system passes offshore Friday 
+before another high builds in from the west for next weekend.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM MONDAY MORNING/...
+Made some slight adjustments with POPs and weather for snow.
+South Fork changing over to snow now. Heaviest of snow across
+mainly Southern Connecticut New Haven to New London and Suffolk
+County Long Island for late this evening. Snow mostly light to
+the west but still continuing into late this evening. 
+
+For interior NE NJ, Lower Hudson Valley and interior SW CT, 
+thinking there is potential for some snowfall totals near 8 
+inches within this region. Lower end of snowfall range for
+southern coasts of Long Island, mostly in the 3 to 4 inch 
+range.
+
+The low will pass quickly to the east this evening and up into 
+the Canadian Maritimes by daybreak Monday.
+
+Liquid equivalent amounts on average area expected to range 
+from 0.4 to 0.6" with some localized enhancements. Ratios will 
+vary quite a bit at the start with temperatures in 30s, but at 
+some point should get into the 15-10:1 range as temperatures 
+fall. Expect snowfall amounts of 3 to 5 inches along the coast 
+and 5 to 8 inches across the interior. Still no changes are 
+planned to the hazards at this time. The snow will become light 
+and end around midnight for NYC and points north and west and 3 
+to 4 am far eastern areas. 
+
+Temperatures will tumble into the upper teens to around 20 by 
+daybreak with N-NW winds gusting 20 to 25 mph, possibly up to 
+30 mph. Wind Chill values fall into the single digits overnight
+and possibly as low as zero for the interior. These values fall
+short of Cold Weather Advisory (-5F at the coast and -10F 
+inland).
+
+&&
+
+.SHORT TERM /6 AM MONDAY MORNING THROUGH MONDAY NIGHT/...
+Low pressure strengthens as it moves northeast into the Canadian 
+Maritimes with strong high pressure moving in from the west. This 
+tight pressure gradient will keep a gusty westerly flow, with cold 
+aid advection increasing.
+
+Weather will be dry and very cold. Temperatures expected to be well 
+below normal.
+
+Arctic airmass encompasses the area with NW winds ushering in colder 
+air. There will be strong cold air advection. Any leftover snowmelt
+will refreeze and lead to slippery conditions for any untreated
+surfaces. Temperatures forecast in single digits to lower teens
+for morning with wind chills several degrees colder. Max temperatures
+forecast only in the low to upper 20s. Went below MOS for the 
+high temperatures. With gusty westerly flow continuing, wind 
+chills will be at most, mainly within the lower teens on Monday.
+
+For Monday night, the cold air advection continues. The westerly 
+gusty flow continues as well. Forecast lows are in the single digits 
+to lower teens for much of the area. The minimum wind chills are 
+mostly below zero with some locations near -5 to -10 degrees 
+towards early Tuesday morning.
+
+&&
+
+.LONG TERM /TUESDAY THROUGH SUNDAY/...
+Mainly dry and very cold to start Tuesday through Thursday, with
+some moderation of the airmass Friday into next weekend.
+
+Main upper jet remains south of the region Tuesday through Friday, 
+with then a return to more zonal flow.  Main trough in mid levels 
+remains over the Northeast Tuesday into Wednesday and then another 
+trough develops, moves in latter half of the week but more zonal for 
+next weekend.
+
+Looks like the core of this arctic airmass will be across the local 
+region Tuesday through Wednesday. Strong high pressure will continue 
+to slowly build in from the west and move overhead Wednesday night 
+into Thursday. Gusty westerly flow Tuesday will subside Tuesday 
+night into Wednesday. Winds become nearly calm Wednesday night and 
+change direction to more SW.
+
+The strong high pressure will still have its core to the west of the 
+region Tuesday night into Wednesday but a passing wave of low 
+pressure far offshore may result in brief snow to far southeast 
+parts of the region. Some models are indicating the far southeast 
+portions of the region on the northern fringe of the precipitation 
+from the low. Chances are low for any snow and expecting mainly
+dry conditions to prevail.
+
+Forecast highs are only in the teens Tuesday and get closer to 20 
+for Wednesday. Max wind chills Tuesday mostly in single digits and 
+then more in the teens for Wednesday. Lows Tuesday night mostly in 
+the single digits and then for Wednesday night interior is mostly in 
+single digits with coast mostly near 10. Minimum wind chills Tuesday 
+night below zero for most areas, and a greater fraction getting near 
+-5 to -10 degrees, locally near -15 degrees for isolated locations.
+
+Low pressure system passes offshore Thursday night and then farther 
+out into the Atlantic Friday into next weekend. There could be some 
+snow across far southeastern sections of the region, just a slight 
+chance, with otherwise dry conditions continuing.
+
+Across the local area, another high pressure area builds in from the 
+west for Friday into next weekend. Mainly dry weather conditions are 
+expected. 
+
+The airmass is forecast to moderate Thursday and thereafter into 
+next weekend. High temperatures forecast return to mostly mid to 
+upper 20s much of the area Thursday, but southeast sections lower 
+30s. Then forecast highs Friday lower 30s areawide and then rising 
+more within the 30s for next weekend.
+
+&&
+
+.AVIATION /02Z MONDAY THROUGH FRIDAY/...
+High pressure builds in as low pressure pushes east of the area
+tonight. 
+
+MVFR to IFR conditions will improve through the rest of the
+night as low pressure moves east, away from the area. High
+pressure builds with gusty winds behind the low, generally
+around 25 kt. Gusts may drop off briefly prior to and just after
+daybreak, but are expected to return Monday.
+
+Expected Snowfall Accumulations:
+
+NYC terminals, BDR, ISP: 3-6" HPN: 4-8" SWF: 5-8"
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Amendments likely for changing flight categories in snow. 
+Gusts of 25 to around 30 kt. 
+
+.OUTLOOK FOR 00Z TUESDAY THROUGH FRIDAY...
+
+Monday night: VFR. NW winds diminishing with gusts up to 25 kt
+early in the evening.
+
+Tuesday: VFR. W wind gusts around 20 kt.
+
+Wednesday: Chance of MVFR or lower in -SN, particularly coastal 
+terminals.
+
+Thursday: VFR.
+
+Friday: Mainly VFR, Chance of MVFR in light snow.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Deepening low pressure passes to the east of the waters this
+evening and then up into the Canadian Maritimes by daybreak.
+Arctic high pressure will begin to build in from west. This will
+is a strong N/NW flow overnight with gusts on all waters
+25-30kt on Monday. 
+
+SCA conditions continue on the ocean Monday night. Wind gusts 
+will be marginal for SCA for non-ocean marine zones Monday 
+night. Some lingering SCA conditions possible on the ocean 
+Tuesday with otherwise mainly sub-SCA conditions Tuesday onward 
+through Friday night. Some potential SCA conditions on the 
+ocean Tuesday night and Friday night.
+
+Freezing spray potential for some of the waters Monday through 
+Monday night.
+
+&&
+
+.HYDROLOGY...
+No hydrologic issues are anticipated through Saturday.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Winter Storm Warning until 4 AM EST Monday for CTZ005>008.
+     Winter Weather Advisory until 4 AM EST Monday for CTZ009>012.
+NY...Winter Storm Warning until 4 AM EST Monday for NYZ067>070.
+     Winter Weather Advisory until 4 AM EST Monday for NYZ071>075-
+     078>081-176>179.
+NJ...Winter Storm Warning until 4 AM EST Monday for NJZ002-004-
+     103>105-107.
+     Winter Weather Advisory until 4 AM EST Monday for NJZ006-106-
+     108.
+MARINE...Small Craft Advisory until 6 PM EST Monday for ANZ331-332-335-
+     338-340-345.
+     Small Craft Advisory until 7 AM EST Tuesday for ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...DW/JM
+NEAR TERM...JM/DW
+SHORT TERM...JM/DW
+LONG TERM...JMC/JM
+AVIATION...JP
+MARINE...JM/DW
+HYDROLOGY...JM/DW

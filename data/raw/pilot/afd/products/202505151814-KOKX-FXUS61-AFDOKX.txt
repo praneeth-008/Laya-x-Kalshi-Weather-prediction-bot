@@ -1,0 +1,184 @@
+786 
+FXUS61 KOKX 151814
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+214 PM EDT Thu May 15 2025
+
+.SYNOPSIS...
+A warm frontal boundary moves in from the south this evening and
+stalls within the area. Associated weak low pressure moves
+across late tonight into early Friday. Thereafter a surface
+trough moves across Friday and another one moves across
+Saturday. A cold front approaches Saturday afternoon and moves 
+across Saturday night. High pressure will gradually return early
+next week as low pressure lingers just east of New England. A 
+frontal system may approach during the middle of next week.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Fog has dissipated, still lingering over parts of the ocean 
+waters. Shower coverage has been limited to mostly isolated to 
+widely scattered coverage. Thunderstorms have been isolated at 
+most. For most locations, a cloudy mainly dry day expected for 
+the rest of the afternoon. 
+
+For tonight, with any instability decreasing with the loss of
+diurnal heating, shower and thunderstorm coverage is expected to
+considerably decrease with the absence of any significant
+synoptic lift. 
+
+Winds become light and variable direction. Another night of low
+clouds and fog is expected across the area. Will go with 
+relatively warmer guidance for low temperatures tonight.
+
+&&
+
+.SHORT TERM /FRIDAY THROUGH SATURDAY NIGHT/...
+Unsettled weather continues through the short term period. 
+Brief zonal flow aloft follows the departing trough, but another
+upper level low approaches. The associated surface low will 
+impact the area through Saturday night. There is quite a bit of 
+uncertainty as far as PoPs and thunder during this period. The 
+most uncertainty is with Friday morning and afternoon as 
+guidance continues to show a decaying line of showers and 
+thunderstorms approaching tonight into Friday morning. If this 
+activity does make it, the best chances will be for northeast NJ
+and the Lower Hudson Valley. There may be additional chances 
+for showers and thunderstorms in the afternoon, but confidence 
+in this is decreasing as lift looks weak.
+
+The upper level low gets closer on Saturday and moves overhead 
+Saturday night. A cold front also moves through Saturday night. 
+While conditions may become more conducive to showers and 
+thunderstorms on Saturday there is still uncertainty and the 
+mesoscale setup will become better resolved over the next few days, 
+which should help give more confidence on the evolution of potential 
+convection. If the current timing holds, any showers/thunderstorms 
+will likely be out of the area or dissipate by around midnight.
+
+Warmer temps are expected on Friday and Saturday, highs in the
+70s and potentially lower 80s for northeast NJ on Saturday.
+
+&&
+
+.LONG TERM /SUNDAY THROUGH WEDNESDAY/...
+Key Points:
+
+* Temperatures will mainly run above normal through the weekend
+  before trending closer to normal early next week. 
+
+A blocky synoptic pattern will continue through the middle of
+next week.  
+
+The system that impacts the area Friday and Saturday will push 
+east of the area on Sunday and then remain near or just off the 
+New England coast early next week. Lingering cyclonic flow aloft
+Sunday may be enough to produce a diurnally driven isolated 
+shower well inland in the afternoon. Upper ridging will build 
+just to our west early next week with another trough amplifying 
+over the western states. The proximity of the ridging and upper 
+low just offshore should keep conditions dry Monday into 
+Tuesday. The NBM indicates an increase in precip probabilities 
+on Wednesday which may be overdone given the nearby ridging 
+which may take some time to break down. Will indicate a low 
+probability for now with potential of another frontal system 
+attempting to approach mid next week.
+
+&&
+
+.AVIATION /18Z THURSDAY THROUGH TUESDAY/...
+Low pressure weakens and passes near or just south of Long
+Island this evening. Another weak low approaches late Friday
+morning.
+
+Generally IFR across the terminals with a chance of MVFR into
+late this afternoon at the NYC metro terminals and KSWF. LIFR
+possible east of the NYC terminals with a chance of IFR.
+Conditions lower this evening across the region with LIFR, and
+at times late tonight VLIFR. Conditions will be improving to
+MVFR Friday morning. There will be a chance of showers with
+thunderstorms Friday afternoon. Low confidence forecast with
+timing and conditions for tonight.
+
+Winds light E/SE become light and variable throughout this
+evening. A light south flow develops Friday morning.
+
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Amendments expected for changing flight categories throughout
+the TAF period.  
+
+.OUTLOOK FOR 18Z FRIDAY THROUGH TUESDAY...
+
+Friday afternoon: MVFR with showers and a slight chance of 
+tstms.
+
+Saturday: MVFR. possibly IFR in the morning, becoming VFR in the
+afternoon with showers likely, and a chance of thunderstorms
+with MVFR.
+
+Sunday: Mainly VFR. Slight chance of showers inland. W winds
+G20-25kt.
+
+Monday - Tuesday: VFR. Monday NW winds G20-25kt.  
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+A Dense Fog Advisory remains in effect for the ocean waters
+until 4PM EDT. Dense fog will likely lower visibilities to less
+than 1 NM. Visibilities have improved but the fog has been
+slower to decrease across the ocean. Another round of fog is
+expected tonight into early Friday which could be dense.
+
+The Small Craft Advisory continues across the ocean waters with
+Sandy Hook to Fire Island Inlet ocean segment SCA ending at 4 
+PM and the rest of the ocean waters SCA expires at 6 PM.
+
+Conditions then remain below SCA levels through next Monday with a 
+relatively weak pressure gradient over the waters.
+
+&&
+
+.HYDROLOGY...
+Additional heavy downpours expected with any thunderstorms that
+develop today. Localized minor flooding possible with not much 
+steering flow. This activity is not expected to reach flash 
+flooding levels and should diminish as we head towards sunrise. 
+Shower and thunderstorm coverage will likely increase this 
+afternoon and heavier downpours are possible again. At this 
+time, flash flooding is not expected with that activity either.
+
+There are currently no hydrologic concerns Friday through early
+next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 6 PM EDT this evening for ANZ350-
+     353.
+     Dense Fog Advisory until 4 PM EDT this afternoon for ANZ350-
+     353-355.
+     Small Craft Advisory until 4 PM EDT this afternoon for ANZ355.
+
+&&
+
+$$
+
+SYNOPSIS...DS/JM 
+NEAR TERM...JM/JT 
+SHORT TERM...JT 
+LONG TERM...DS 
+AVIATION...MET 
+MARINE...JM/DS/JT 
+HYDROLOGY...DS/JT

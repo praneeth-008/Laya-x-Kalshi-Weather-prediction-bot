@@ -1,0 +1,224 @@
+982 
+FXUS61 KOKX 261440
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1040 AM EDT Sat Apr 26 2025
+
+.SYNOPSIS...
+A frontal system impacts the region through this evening. High 
+pressure builds towards the area on Sunday, settling overhead
+Sunday night through Monday. The high pushes off the Mid-
+Atlantic Coast Monday night. The next frontal system approaches 
+Tuesday and moves across the area Tuesday night through 
+Wednesday. High pressure returns Wednesday night into Thursday. 
+Another frontal system may impact the area the end of next week.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Updated mainly to add isolated thunderstorms across the eastern
+portion of the region where storms have been occurring.
+
+Low pressure will move over New England today with its
+associated warm front lifting to our north early this morning. 
+The trailing cold front will then follow in the afternoon and 
+evening. Middle level shortwave energy and thermal forcing 
+support showers early this morning, some of which could be 
+moderate at times. Latest observational and model trends
+indicate these showers may shift east of the area a bit quicker
+with a relative min in coverage, at least closer to the coast
+for the rest of the morning. Have adjusted PoPs accordingly to
+match these trends. Interior locations could see showers 
+continuing, closer to surface low and greater surface 
+convergence. 
+
+Showers this afternoon may end up scattered with some broken 
+bands along and ahead of the cold front. Felt the NBM PoPs were 
+too high given the consensus of the latest CAMs, which supports 
+the idea of scattered coverage of showers with potential of a 
+few bands. There may also be a few thunderstorms, as some 
+instability develops aloft. This is due to falling heights as a 
+result of a vigorous closed upper low approaching from the NW. 
+Some breaks in the clouds are possible this afternoon, 
+especially along and just ahead of the cold front. These breaks 
+could briefly increase instability. Some question remains as to 
+how far east any thunderstorms may occur. However, the falling 
+heights aloft support elevated CAPE over coastal locations 
+influenced by the marine layer. Will mention a slight chance of 
+thunder afternoon/early evening across Long Island and Southern 
+Connecticut and a chance west of there with a bit more 
+instability. 
+
+SPC has included NYC and NE NJ in a marginal risk for a severe 
+thunderstorm wind gust, but think the the threat is very 
+limited for these areas. The potential appears greater further 
+south of the area and more towards central and southern NJ. 
+Some locally heavy downpours are possible, but the progressive 
+nature of the system will limit potential impacts to just some 
+minor urban flooding. Outside of showers and any thunderstorms, 
+S-SSW winds could gust 20 to 30 mph, especially near the coast. 
+
+The cold front will quickly move offshore this evening bringing
+an end to any lingering showers or convection. Dry conditions 
+return tonight with a gusty NW flow. Have continued to go close 
+to the upper end of the guidance resulting in gusts 25-30 mph, 
+potentially 35 mph in a few spots near the coast with cold 
+advection and a steepening pressure gradient overnight.
+
+&&
+
+.SHORT TERM /SUNDAY THROUGH MONDAY NIGHT/...
+The upper closed low/trough will continue swinging across the 
+northeast Sunday morning. The system should emerge off the New 
+England coast Sunday evening. High pressure will slowly build 
+towards the area from the Great Lakes and Ohio Valley through 
+Sunday. The region will lie between low pressure near the New 
+England coast and the high to our west. Gusty NW winds are
+expected on Sunday with deep mixed and continuing cold 
+advection. Sustained winds 15-25 mph with gusts 30-35 mph are 
+likely and a few spots could reach 40 mph. A subsidence 
+inversion around 5 kft traps enough moisture to keep mainly 
+broken stratocu clouds for much of the day on Sunday. Highs will
+be below normal in the upper 50s to lower 60s. 
+
+Ridging builds both aloft and at the surface Sunday night into 
+Monday. The pressure gradient gradually relaxes, but the boundary 
+layer likely will remain mixed enough to keep breezy conditions 
+through the night. The subsidence inversion weakens Sunday night
+and skies should become mostly clear. Lows will be in the 40s 
+for most spots with temperatures around 50 in the NYC metro. 
+High pressure over the area on Monday moves off the Middle 
+Atlantic coast Monday night. Dry conditions will continue, but
+a warming trend commences with highs returning to above normal 
+levels on Monday in the upper 60s and lower 70s.
+
+&&
+
+.LONG TERM /TUESDAY THROUGH FRIDAY/...
+No changes were made to the forecast Tuesday through the end
+of the week. 
+
+Upper level ridge axis moves over the area Tuesday, with a warm 
+front lifting north of the area Tuesday night, followed pretty 
+quickly by the cold front Wednesday. The passage of the cold
+front looks moisture starved, lacks a strong upper level 
+trough, and with the surface low passing well north and west of 
+the region in southern Quebec, much of the forcing with this 
+front will be well north of the area. Therefore, not looking at 
+a lot of precipitation. In fact, while there might be some light
+rain showers Tuesday night in association with the warm front, 
+the passage of the cold front may move through dry. 
+
+High pressure builds in for Wednesday through Wednesday night
+as another upper ridge moves through the northeast Thursday 
+night, which allows the next frontal system to approach for the 
+end of next week.
+
+As for temperatures, they will be above normal increase through
+mid week, with Tuesday being the warmest. Highs will be in the 
+70s away from the coast, and 60s along the coast. Temperatures 
+fall back to seasonable on Thursday, with 60s expected region-
+wide, with slightly warmer readings expected for Friday.
+
+&&
+
+.AVIATION /15Z SATURDAY THROUGH WEDNESDAY/...
+A cold front moves through this evening.
+
+Mainly IFR with localized LIFR categories through early
+afternoon. Some improvement to MVFR possible this afternoon. IFR
+conditions then possible again with any TSRA with cold frontal
+passage this evening. VFR thereafter with the passage of the 
+cold front this evening and into the overnight. Showers 
+possible at any given time through early this evening. TSRA 
+also possible starting this afternoon for all but 
+KISP/KBDR/KGON. 
+
+S winds around 15kt increase a little this afternoon and 
+veer closer to SW with gusts 20-25kt. Winds shift W-NW behind 
+the front with gusts 25-30kt. Gusts increase to up to 30-35kt
+for Sunday.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Amendments likely through this evening for changing categories
+and any TSRA development. Improvement back to MVFR and VFR may 
+be off by 1-2 hours.
+
+Gusts may be only occasional through early afternoon.
+
+.OUTLOOK FOR 15Z SUNDAY THROUGH WEDNESDAY...
+
+Sunday: VFR. NW wind gusts 25-30 kt. Wind gusts lower to near 
+20 kt in the evening and diminish overnight.
+
+Monday: VFR.
+
+Tuesday: Mainly VFR. Possible MVFR at night with possible
+showers. SW wind gusts 15-20 kt in the afternoon at night. Wind
+gusts up to 25 kt possible at times for afternoon into evening.
+
+Wednesday: VFR. W-NW wind gusts 15-20 kt.
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Updated to include isolated thunderstorms this morning over the
+ocean waters east of Fire Island Inlet, and the eastern Sound, 
+and eastern Long Island bays.
+
+Increasing S-SSW flow is expected today and have gone ahead 
+with including all waters in an SCA. While gusts may be marginal
+on the harbor and central/western Sound, felt there is enough 
+potential for gusts to reach close to 25 kt. Gusts 25-30 kt are 
+likely on the ocean, LI Bays, and eastern Sound. A few gale 
+gusts cannot be ruled out east of Moriches Inlet, but not enough
+confidence to put up a gale warning at this time. Winds may 
+briefly drop below SCA levels this evening, but then ramp back 
+up tonight behind a cold front passage. This will increase winds
+back to SCA levels on all waters and continue through Sunday. A
+few gale gusts cannot be ruled out, but similar to this today 
+confidence is very low at this time for a warning. Decided to 
+extend the SCA through 6pm Sunday despite there likely being a 
+lull on the non-ocean waters for a time tonight. Any lull with 
+SCA winds on the ocean will occur with elevated seas. 
+
+Winds and seas will subside below SCA levels Sunday evening into 
+Sunday night. High pressure building over the waters early next
+week will lead to conditions below SCA levels through Tuesday. 
+Wind gusts of 25 to 30 kt are possible over the ocean and south 
+shore bays Tuesday night with the approach and passage of a cold
+front. Waves build to 5 to 6 ft on the ocean waters during this
+time frame. Waves slowly diminish Tuesday night, falling below 
+SCA criteria on Wednesday.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 6 PM EDT Sunday for ANZ331-332-335-
+     338-340-345-350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JP/DS
+NEAR TERM...DS/MET
+SHORT TERM...DS
+LONG TERM...JP
+AVIATION...MW
+MARINE...JP/DS/MET
+HYDROLOGY...JP/DS

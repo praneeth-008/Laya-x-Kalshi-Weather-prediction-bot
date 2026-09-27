@@ -1,0 +1,209 @@
+688 
+FXUS61 KOKX 270943
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+543 AM EDT Tue May 27 2025
+
+.SYNOPSIS...
+High pressure remains in control today before moving offshore 
+tonight into Wednesday. Low pressure and its associated frontal 
+system approach on Wednesday, moving over the area Wednesday
+night into Thursday. A series of low pressure systems move 
+through the region Friday into the start of the weekend. Weak 
+high pressure returns Sunday into early next week.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Ridging builds over the region today as the next upper low
+spins over the Northern Plains through tonight. At the same 
+time, a broad trough associated with the upper low will slowly 
+move across the southeast. Surface high pressure will remain 
+over the area before slowly shifting offshore tonight. High 
+clouds will begin moving in from the south and west this morning
+and gradually thicken through the afternoon. These clouds will 
+create a filtered sunshine for the first half of the day, with 
+conditions becoming mostly cloudy in the afternoon and evening. 
+Light winds this morning will shift to a light S flow from both 
+afternoon sea breezes and due to the surface high beginning to 
+move offshore. Highs will range from the middle to upper 70s 
+away from the coast and generally lower 70s closer to the coast.
+
+Warm advection ahead of the aforementioned upper trough
+increases along with approaching middle level shortwave energy.
+Model time heights indicate a fairly deep subcloud layer 
+through day break Wednesday, especially from the city west where
+forcing starts to become organized. Cannot completely rule out 
+a sprinkle from the NYC metro on west, but do not expect 
+measurable rain and have left PoPs below 15 percent. Lingering 
+ridging aloft and at the surface will also inhibit the eastward 
+progression of any showers overnight with measurable rain more 
+than likely well to our southwest. Otherwise, mostly cloudy to 
+overcast conditions are expected with lows in the 50s.
+
+&&
+
+.SHORT TERM /WEDNESDAY THROUGH THURSDAY/...
+Model guidance has been struggling with how much rain will be
+able to make it into the area on Wednesday. This is due to the 
+continuation of ridging aloft and from lingering surface ridging
+from the high offshore. Some lingering dry subcloud air will 
+remain at least Wednesday morning, but may remain into the 
+afternoon. Southeast CT and eastern Long Island are likely to 
+remain completely dry through the afternoon due to the closer 
+proximity to the surface ridge axis and drier air. Some spotty 
+light showers are possible, especially in the afternoon, from 
+around the NYC metro on north and west. Otherwise, it will be 
+cloudy with cooler temperatures in the middle to upper 60s for 
+most spots. There is a chance interior CT reaches the lower 70s 
+if cloud cover is thinner across this area. 
+
+Shower chances should increase Wednesday night into Thursday
+morning as a dampening shortwave axis and weak thermal forcing 
+settle overhead. Guidance differs on the amplitude of the 
+shortwave and associated energy with the ECMWF and CMC keeping 
+it flat with the main shortwave over the Great Lakes. The GFS 
+and NAM are slightly more amplified with the trough although 
+differ on the timing on when it moves overhead. The flatter 
+guidance generally brings in less precip overall as the forcing 
+is weaker. The slightly more amplified solutions have a bit more
+precip along with a weak secondary low pressure developing near
+Long Island. The NBM PoPs appears reasonable given the noted 
+model differences, which yields PoPs in the high chance to low 
+likely category Wednesday night and Thursday morning. SW flow 
+aloft and a weak frontal system likely linger into Thursday 
+afternoon supporting the continued chance of showers. 
+
+Average rainfall amounts late Wednesday through Thursday
+afternoon are light and are around a quarter to a third of an 
+inch. 
+
+Temperatures on Thursday will be slightly below normal in the
+middle to upper 60s for much of the area with lower 70s 
+possible in NE NJ.
+
+&&
+
+.LONG TERM /THURSDAY NIGHT THROUGH MONDAY/...
+One weak upper trough to the north will be exiting Thu
+night, with shortwave ridging briefly over the area on Fri 
+before a more significant upper trough approaches from the west 
+Fri night and moves across on Sat. A 30-40 PoP for showers Thu 
+night will lower to slight chance for daytime Fri with the brief
+upper ridging over the area, then ramp back up to 40-50 percent
+Fri night into Sat evening. Latest deterministic global model 
+guidance indicates potential for some heavy rain late Fri night 
+with the approach of the trough to the west and associated sfc 
+low passage, then again Sat afternoon/evening via a trailing 
+cold front. 
+
+Mainly dry conditions expected Sunday and Monday as sfc high 
+pressure returns. through early next week.
+
+Temps through the period should be close to or just above normal, 
+with highs in the 70s, and lows from the 50s to lower 60s.
+
+&&
+
+.AVIATION /10Z TUESDAY THROUGH SATURDAY/...
+High pressure will remain over the area today. 
+
+VFR. Light winds overnight. Light ENE sound breeze should 
+develop at KLGA this morning and last into early afternoon.
+SE-S breezes develop from late morning into the afternoon. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Timing of S sea breeze this afternoon at KLGA a little uncertain
+and could occur a little earlier than fcst. 
+
+.OUTLOOK FOR 06Z WEDNESDAY THROUGH SATURDAY...
+
+Late tonight: VFR.
+
+Wednesday: Chance of showers with MVFR cond in the afternoon at
+the NYC metro and lower Hudson Valley terminals. SE winds 
+G15-20kt at the NYC metro/coastal terminals. 
+
+Wednesday night and Thursday: Showers likely. MVFR cond expected,
+IFR possible late at night into the morning. E-SE winds 
+G15-20kt at the NYC metro/coastal terminals.
+
+Friday: Mainly VFR. Slight chance of showers. MVFR or lower cigs
+possible toward evening at the coastal terminals. 
+
+Friday night ad Saturday: Chance of showers and possibly a 
+tstm. MVFR cond likely, IFR possible. SW winds G15-20kt in 
+the afternoon. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Winds and seas will remain below SCA levels through Wednesday
+afternoon with high pressure in control. Increasing SE flow 
+late Wednesday into Wednesday night may lead to wind gusts close
+to 25 kt and seas building to near 5 ft on the ocean. The flow 
+may weaken a bit on Thursday, but 5 ft ocean seas. 
+
+Ocean seas 5-6 ft should last into Thu night and possibly into
+early Fri morning E of Moriches Inlet. Another round of 
+hazardous ocean seas of 5-6 ft is possible Sat into Sat night 
+with the approach/passage of low pressure.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts expected through Friday.
+
+There is potential for some locally heavy rain low pressure 
+passes nearby Fri night, followed by a trailing cold front on 
+Sat. It is too early to know exactly where the heavier rain 
+could occur as this will be dependent on the sfc low track.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+Astronomical tides will start decreasing into tonight as
+the new moon occurred on Monday evening. The next high tide of 
+concern will be tonight. However, there is little to no surge 
+forecast with high pressure nearly overhead into tonight. 
+Forecast tide levels from NYHOPS, STOFS, and ETSS are also all 
+coming in just below minor benchmarks for the most vulnerable 
+locations of the Western Long Island Sound shore in SW CT and LI
+south shore back bays. No additional coastal flood statements 
+have been issued at this time. 
+
+Increasing easterly flow late Wednesday into Wednesday night
+could lead to water levels touching minor coastal flood 
+benchmarks across the south shore back bays and western LI 
+Sound. However, astronomical tides continue to fall so any 
+impacts look localized. 
+
+There is a low rip current risk at ocean beaches through
+Wednesday with 1-2 seas and winds generally 10 kt or less.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...BG/DS
+NEAR TERM...DS
+SHORT TERM...DS
+LONG TERM...BG
+AVIATION...BG
+MARINE...BG/DS
+HYDROLOGY...BG/DS
+TIDES/COASTAL FLOODING...

@@ -1,0 +1,200 @@
+865 
+FXUS61 KOKX 011850
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+250 PM EDT Tue Jul 1 2025
+
+.SYNOPSIS...
+A cold front will approach late today into this evening and
+dissipate over the area on Wednesday. Another cold front will
+approach on Thursday and move through by Thursday evening. High
+pressure will then build in for Independence Day and into the
+weekend. Another frontal system may impact the area early 
+next week. 
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Attm seeing temps in the lower 90s invof NYC and in the 
+mid/upper 80s elsewhere. Dewpoints are running higher than 
+anticipated, leading to widespread heat index values 95-99 away 
+from the immediate south shore of eastern Long Island and SE CT,
+and some 100+ values at KEWR/KJFK. 
+
+Convective initiation is starting in a few spots, with a couple
+of cells along a boundary stretching SW-NE from Hunterdon 
+County NJ up into Fairfield CT, also to the south across central
+NJ/ SE PA and to the north across the Catskills. Activity to 
+the south may clip the lower reaches of NYC toward 20Z, while 
+activity along the boundary over our CWA may also start to 
+increase in coverage, and storms in the Catskills approach 
+Orange/Putnam/N Fairfield/N New Haven. Coverage should be 
+scattered at most initially as upper level forcing, low level 
+moisture convergence in the pre-frontal trough over the area, 
+and mid level lapse rates are all weak, then may increase after 
+20Z-21Z as a weak mid level shortwave trough over eastern PA 
+gets closer. No severe tstm watches are in effect for the area 
+yet, but expectation is that a few storms may produce locally 
+damaging winds and heavy rain in a very moist air mass with PW 
+up to 2.1 inches and precip efficiency of 1.7 inches
+
+There could be another pulse of convection later in the 
+evening/overnight, but it would likely be primarily non-severe
+due to lack of daytime heating/mixing and as previous activity 
+will have worked the air mass over. 
+
+There is also a slight risk of excessive rainfall across much 
+of the area, mostly via high instantaneous rainfall rates, also
+where any training of cells can occur given deep layer SW flow
+with mid level flow no stronger than 30-35 kt. 
+
+With the cold front more or less slowing late at night look for
+a damp and cloudy, muggy night with low temperatures/dewpoints
+both in the upper 60s/lower 70s. 
+
+&&
+
+.SHORT TERM /WEDNESDAY THROUGH WEDNESDAY NIGHT/...
+Will still have likely PoP across Long Island/SE CT and chance 
+PoP for the rest of the area except well NW of NYC as the front
+slowly moves into the area and washes out. By afternoon most of
+the area should be dry except perhaps eastern Long Island, 
+where a chance for showers and possibly a tstm could linger 
+into the afternoon. Temps will be cooler than those of Tue, with
+highs in the mid 80s north/west of NYC where the sun should peek
+out in the afternoon, with mostly lower 80s elsewhere, and 
+upper 70s right along the shoreline of SE CT and eastern Long 
+Island. Dewpoints will still be running in the upper 60s to near
+70 for NYC metro and coastal sections, and dropping into the 
+mid 60s in the afternoon north/west, with heat index values no 
+higher than 90 in some isolated spots in the urban corridor.
+
+Wed night looks mostly clear, and a little cooler at least 
+outside of the NYC metro area, with lows from the lower 70s in 
+the metro area to the lower 60s across the interior. Dewpoints 
+will continue to fall slightly, to the lower/mid 60s. 
+
+&&
+
+.LONG TERM /THURSDAY THROUGH MONDAY/...
+**Key Points**
+
+* A frontal system will impact the area Thursday, with a marginal 
+  risk of severe thunderstorms.
+
+* A dry Independence Day and weekend ahead, with normal to slightly 
+  above normal temperatures and increasing humidity through the 
+  period.
+
+The NBM was largely followed with this update with no major
+changes. An upper low dives south from eastern Canada into New 
+England to start the period. Attendant surface low pressure well
+to the north then drags a cold front through the area Thursday 
+afternoon which should initiate a period of showers and 
+thunderstorms. Model soundings do indicate some marginal lapse 
+rates/ MUCAPE (500-1000 J/kg) and 0-6km bulk shear (~30 kts.) by
+Thursday afternoon as an upper level jet streak passes nearby. 
+This may be enough to initiate some organized, isolated strong 
+to severe thunderstorms, and SPC maintains a marginal risk over 
+the entire area given the potential for strong/damaging winds 
+with any storm. With PWATs around 1.25" and steering flows near 
+30kts, the probability of flash flooding looks quite low.
+
+Thereafter, upper ridging commences with rising heights through
+the weekend. Friday looks a bit cooler with lower humidity 
+(Tds in the upper 50s and lower 60s) and warming temperatures 
+(and humidity) each day through Monday.
+
+&&
+
+.AVIATION /18Z TUESDAY THROUGH SUNDAY/...
+A cold front approaches from the west today and stalls over the
+area into Wednesday morning.
+
+VFR to start the afternoon. Scattered SHRA, with possible TSRA,
+develops into late aft and could lead to MVFR or IFR vsbys at 
+times. Best window for TSRA generally btwn 19Z and 01Z Wed. SHRA
+persist into the overnight, and MVFR cigs likely prevail late 
+tonight until daybreak or so, then improvement and return to VFR
+thru mid morning.
+
+Winds SW 10-15 kt this afternoon with gusts around 20 kt. Flow
+becomes lighter tonight, and speeds remain at or under 10 kt on
+Wed.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Start time of potential shra/tstm this afternoon could be off 
+an hour or two.
+
+Timing of improvement Wed AM could be off by a few hours.
+
+Isolated shra/tsra possible late Wed afternoon.
+
+.OUTLOOK FOR 18Z WEDNESDAY THROUGH SUNDAY... 
+
+Wednesday PM: Mainly VFR. Isolated SHRA/TSRA possible late aft.
+
+Thursday: Possible showers and thunderstorms with brief MVFR or 
+lower possible day into early eve, higher chances north and west of 
+NYC terminals.
+
+Friday-Sunday: VFR.
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+As a cold front approaches, S flow will increase, with ocean
+seas building to 4-5 ft and perhaps a few gusts close to 25 kt
+on the outer waters mainly E of Fire Island Inlet late this 
+afternoon into tonight. SCA remains in effect there through 
+tonight. Tstms may pose a hazard of gusty winds, lightning, 
+heavy rain, and locally rough seas into tonight as well, 
+especially late today and this evening. 
+
+Generally tranquil conditions expected thereafter outside of any
+tstms on Thu. 
+
+&&
+
+.HYDROLOGY...
+There is a slight risk of excessive rainfall for most of the
+area through tonight. With high PW in place, instantaneous
+rainfall rates should be high, with a localized risk of flash
+flooding in stronger thunderstorms. Repeating/training cells 
+could lead to a higher risk, which is possible given deep layer 
+SW flow with speeds getting over 30 kt in the mid levels. 
+
+&&
+
+.TIDES/COASTAL FLOODING...
+There is a high risk of rip currents today, and this could also
+be the case into Wednesday, with wave heights not coming down 
+much, along with a lingering 9-second E swell component.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...High Risk for Rip Currents until 9 PM EDT this evening for NYZ075-
+     080-081-178-179.
+NJ...None.
+MARINE...Small Craft Advisory until 6 AM EDT Wednesday for ANZ350-353.
+
+&&
+
+$$
+
+SYNOPSIS...BG/DBR
+NEAR TERM...BG
+SHORT TERM...BG
+LONG TERM...DBR
+AVIATION...DR
+MARINE...BG/DBR
+HYDROLOGY...BG/DBR
+TIDES/COASTAL FLOODING...

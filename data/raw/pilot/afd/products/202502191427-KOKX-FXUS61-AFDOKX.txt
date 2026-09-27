@@ -1,0 +1,167 @@
+868 
+FXUS61 KOKX 191427
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+927 AM EST Wed Feb 19 2025
+
+.SYNOPSIS...
+High pressure builds in from the south and west today. Deepening low 
+pressure along the Mid Atlantic coast passes well south and east of 
+the area Thursday and Thursday night. Thereafter, a large dome 
+of high pressure over the mid section of the country builds in 
+through the weekend. A series of clipper lows will then approach
+from the Great Lakes early next week.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Forecast on track this morning. Broad sheared polar trough 
+extending from the Northern Plains to New England remains in 
+place today. At the surface, the tight pressure gradient slowly 
+relents as a piece of a strong 1050 mb high centered over the 
+Central US builds in from the Mid Atlantic while sprawling low 
+pressure exits into the North Atlantic toward Greenland. This 
+will allow winds to lighten from the brisk conditions the region
+has experienced the past couple of days.
+
+Temperatures will remain sub freezing into this afternoon. Forecast
+highs are in the upper 20s to around 30. While winds weaken into
+the afternoon, wind chills will still make it feel like it is in
+the teens to around 20 this afternoon.
+
+Into tonight, a closed upper low trough digs south of the Great 
+Lakes, with surface low pressure developing over the South, before
+pushing offshore tonight. High cloud canopy gradually thickens and
+lowers thru the day with the associated moisture advection aloft.
+Expecting conditions to remain dry overnight.
+
+&&
+
+.SHORT TERM /THURSDAY THROUGH THURSDAY NIGHT/...
+Guidance continues to point towards deepening low pressure tracking 
+well south and east of the region Thursday, with little to no 
+snowfall locally the most likely scenario. The only exception may
+be across far eastern Long Island, mainly the South Fork, where
+a light snowfall remains an unlikely, but possible, solution.
+
+Perhaps more likely than from the surface low, potential exists
+for snow showers to develop as the vigorous parent upper low 
+passes over the region into Thursday evening. Moisture 
+convergence along a weak inverted trough extending back from the
+surface low may also aid this possibility with additional lift.
+Hi res CAMs hint at isolated to scattered snow showers moving 
+thru late day and during the evening hours. Any activity that 
+does develop is expected to be light, and accumulation, if any, 
+is likely limited to a coating at best in areas that do see 
+precip. Otherwise, overcast Thursday night into Friday morning 
+with temperatures in the teens and 20s.
+
+&&
+
+.LONG TERM /FRIDAY THROUGH TUESDAY/...
+* A gradual warmup into early next week. 
+
+A departing storm system over the north Atlantic will be followed by 
+a confluent, progressive upper flow across the eastern half of the 
+country. This will allow strong high pressure (1040mb+) centered 
+over the mid section of the country on Friday to build east and 
+gradually weaken through the weekend. A gusty NW flow can be 
+expected on Friday between the departing low and building high, with 
+gusts of 20 to 30 mph. The high passes to the south Sunday into 
+Monday. A series of mid level shortwaves then drop out of the 
+Canadian Rockies, sending clipper lows out of the Great Lakes and 
+into the Northeast early next week. There is a low chance of rain 
+and/or snow during this time. There are some small timing 
+differences early next week and for the most part stayed close to 
+the National Blend of Models. 
+
+Temperatures during this time period will start out 5-10 degrees 
+below normal, but gradually warm up through the weekend and into 
+early next week. By next Tuesday, expecting readings about 5-8 
+degrees above normal, with highs in the mid 40s to around 50, and 
+lows in the 30s.
+
+&&
+
+.AVIATION /15Z WEDNESDAY THROUGH SUNDAY/...
+VFR as high pressure builds in from the southwest this afternoon.
+Low pressure then passes well south and east of the area 
+Thursday into Thursday night.
+
+WNW winds mostly left of 310 magnetic at 10-15 kt with gusts to
+around 20 kt will begin to diminish mid to late afternoon as a 
+mid level deck overspread the terminals. Winds then become NW-N  
+tonight at less than 10 kt. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Gusts may be more occasional through this afternoon. 
+
+.OUTLOOK FOR 12Z THURSDAY THROUGH SUNDAY...
+
+Thursday: Chance MVFR or lower in light snow mainly for the 
+terminals E of the NYC metros during the afternoon and evening
+hours, otherwise VFR. NW winds G20-25kt at night. 
+
+Friday: VFR. NW winds G20-25 kt.
+
+Saturday and Sunday: VFR. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Winds on the Sound, Bays, and Harbor are continuing to weaken
+below 25 kt. Have therefore cancelled the Advisory here. There
+may be an occasional gust on the eastern Sound east of the CT
+River, but this looks to be isolated. Otherwise, the SCA on the
+ocean continues through 1 PM. Thereafter, sub SCA conditions 
+persist thru Thursday with lighter flow and seas. Light freezing
+spray remains possible everywhere through this morning as well.
+
+Small Craft Advisory conditions likely return Thursday night into 
+Friday in the wake of deepening offshore low pressure as it tracks 
+northeast into the North Atlantic. SCA conditions continue 
+through Friday for all waters, then will be limited to mainly 
+the ocean through Friday night. Sub advisory conditions then 
+prevail through the upcoming weekend with a weaker pressure 
+gradient as a high pressure ridge is followed by a weak trough.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts are expected through the week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+Low water conditions gradually improve with lightening winds, 
+but water levels during low tides today may still run 1 to 1.5 
+ft below MLLW along parts of the Western LI Sound and the 
+Peconic and Gardiners Bays.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 1 PM EST this afternoon for ANZ350-
+     353-355.
+
+&&
+
+$$
+
+SYNOPSIS...DR/DW
+NEAR TERM...DR/DS
+SHORT TERM...DR
+LONG TERM...DW
+AVIATION...IRD/DW
+MARINE...DR/DW
+HYDROLOGY...DR/DW
+TIDES/COASTAL FLOODING...

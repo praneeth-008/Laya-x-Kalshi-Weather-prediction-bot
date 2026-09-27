@@ -1,0 +1,227 @@
+462 
+FXUS61 KOKX 100238
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1038 PM EDT Mon Jun 9 2025
+
+.SYNOPSIS...
+A wave of low pressure will lift a frontal boundary north through 
+the area tonight into Tuesday morning, with a cold front following
+Tuesday evening. High pressure then builds in on Wednesday and 
+remains near the region through Thursday. Meanwhile low pressure 
+passing well to the north will send a cold front through the 
+region late Thursday night into early Friday. The front then 
+becomes nearly stationary into the beginning of next week, with a 
+series of lows moving along the stalled front.
+
+&&
+
+.NEAR TERM /THROUGH TUESDAY/...
+Updated the forecast through tonight to add areas of fog with
+visibilities 1 1/2 to 2 miles, which may lower and become 
+locally dense overnight. Also, with drizzle being reported added
+that to the weather as well.
+
+Heights gradually fall aloft as a broad upper level trough 
+approaches. At the surface, a wave of low pressure is approaching 
+from the south along a frontal boundary. This boundary will move 
+north through the area tonight into Tuesday morning.
+
+Shower activity is ongoing mainly portions of the Lower Hudson 
+Valley into Connecticut. And this activity should continue to 
+decrease through the evening as an embedded shortwave moves 
+east of the area. However, given the easterly flow and weak 
+overall lift, some drizzle and or sprinkle activity could 
+continue through the night. Also, in combination with the 
+onshore component of the flow, the pressure gradient weakens 
+quite a bit tonight. This gives increased confidence in fog, 
+especially because some is being observed along the coast 
+already. Difficult to say at this time exactly how low the 
+visibility will get, but dense fog is definitely not out of the 
+question.
+
+The main show in the near term will be heavy downpours Tuesday
+morning into the early afternoon. The aforementioned broad 
+upper level trough continues approaching and more embedded 
+shortwaves will move into the area. By this time, the frontal 
+boundary will be north of the area and pwats across the southern
+half of the area will surge to 1.75 to 1.90 inches. According 
+to SPC Sounding Climatology, this is well above the 90th 
+percentile for June 10th and right around the daily max that has
+been observed. Along with this available moisture, there is 
+also deep lift with continued falling height and an upper level 
+jet streak placing us right under the right rear quadrant. All 
+of this will lead to widespread moderate showers with embedded 
+heavy downpours. Timing for this is mainly 5am to 1pm for NYC 
+north and west and then 7am to 4pm for locations north and east 
+of NYC. At this time there is just an isolated threat for flash
+flooding, with the main threat being minor poor drainage
+flooding. See Hydrology section below. Have lowered thunder 
+chances down to slight chance with the morning activity. All 
+instability appears to be elevated and weak and really only 
+expecting some isolated rumbles of thunder. Additionally, the 
+bulk of the CAPE profile looks to be below -10C.
+
+The rest of the day then looks mostly dry, with maybe some
+lingering isolated lighter showers. There will however likely 
+be isolated showers/thunderstorms when the cold front moves 
+through in the evening. This will depend on how well we can 
+clear out and how unstable we can get in the afternoon ahead of 
+the front. The CAMs are hinting at clearing out enough and even 
+reaching 500-1000 J/kg of MLCAPE in the Lower Hudson Valley. 
+This aligns with the model reflectivity fields showing a few 
+cells pop up along the cold front, also mainly in the Lower 
+Hudson Valley. This activity should be really isolated and the 
+lack of moisture will likely work against development. Pwats 
+drop pretty quick in the afternoon once the morning showers move
+east. By 00z pwats likely drop down to 1 inch or lower. At this
+time severe weather is not expected, but given decent shear it 
+can not be completely ruled out yet.
+
+&&
+
+.SHORT TERM /TUESDAY NIGHT THROUGH WEDNESDAY/...
+High pressure gradually builds in thereafter leading to dry 
+conditions and a warming trend. The flow aloft becomes zonal 
+with some slight height rises. Stuck close to the NBM for this 
+period, with just a slight upward adjustment with temperatures 
+for the interior on Wednesday. Also lowered Td a bit given the 
+NBM high bias for drier regimes.
+
+&&
+
+.LONG TERM /WEDNESDAY NIGHT THROUGH MONDAY/...
+The long term forecast period will be dominated by a mid and 
+upper level trough, mainly across eastern Canada, and into 
+Northern New England, with nearly zonal flow across the Midwest,
+and into the Northeast, and Mid Atlantic region. Global 
+guidance is fairly similar through the extended period. A cold 
+front is forecast to move through the region late Thursday night
+into early Friday morning, and then become nearly stationary to
+the south of the area, through the Mid Atlantic region and the 
+Delmarva, into early next week. There is some uncertainty as to 
+how far south the frontal boundary will setup. The will affect 
+the track of waves of low pressure that are forecast to track 
+along the boundary. And some guidance that the front may drift 
+farther south late in the weekend into early next week. Also, 
+the placement of the boundary will affect temperatures, mainly 
+Saturday through Monday, with more uncertainty in highs and low 
+seen in the spread of possibilities with the NBM guidance. As a 
+result of the uncertainty, and no targets of opportunity, have 
+stayed close to the NBM deterministic guidance.
+
+&&
+
+.AVIATION /03Z TUESDAY THROUGH SATURDAY/...
+Mainly LIFR-IFR conditions are expected to persist overnight in 
+response to a warm frontal boundary very slowly moving through the 
+area. A light onshore flow will also contribute to the development 
+of fog overnight, possibly dense with visibilities 1/2 SM or less.
+
+Showers and thunderstorms are then expected to develop right around 
+the morning push moving from west to east, with the heaviest 
+activity between about 14-18Z. Rainfall may be heavy at times 
+maintaining reduced visibilities across the airspace. As the 
+activity diminishes into the afternoon, ceilings and visibilities 
+will improve to MVFR, followed by improvement to VFR by late in the 
+day. A cold front then approaches Tuesday evening, but convective 
+activity is not expected to be as widespread as the broken line of 
+convection is currently forecast to weaken.
+
+Winds will primarily be light from the east to east-southeast until 
+the front approaches from the west Tuesday evening, allowing winds 
+to veer to the west-southwest.
+
+     NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Amendments possible throughout the entire TAF period for changing 
+flight categories especially with ongoing shower and drizzle 
+activity.
+
+
+.OUTLOOK FOR 00Z WEDNESDAY THROUGH SATURDAY... 
+
+Tuesday night: VFR with SW-W winds.
+
+Wednesday - Thursday: VFR with gusty W flow. 
+
+Friday - Saturday: VFR except in scattered showers and
+thunderstorms.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+A Dense Fog Advisory remains in effect for all waters as 
+confidence in 1 mile or less visibilities remains high. For 
+now, the hazard is in effect until 6AM Tuesday morning, but it 
+may need to be extended into Tuesday morning. And with the dense
+fog advisory added areas of dense fog to the weather.
+
+Winds and waves likely remain below Small Craft Advisory 
+criteria through Wednesday. There is a brief period late Tuesday
+night into Wednesday morning where the eastern ocean waters 
+could see 5 ft seas.
+
+With a weak pressure gradient force expected across the forecast 
+waters, as a frontal boundary remains in the vicinity of the ocean 
+waters, winds and seas are expected to remain below SCA levels.
+
+&&
+
+.HYDROLOGY...
+Showers and thunderstorms Tuesday morning through the early 
+afternoon will bring moderate to locally heavy downpours to the 
+area. While average total rainfall is expected to be between 
+0.50 and 1.00 inches, any isolated stronger shower or 
+thunderstorm has the potential to put down 0.75 to 1 inch in an 
+hour. The WPC continues to highlight the area in a marginal risk
+and the biggest threat is minor urban and poor drainage 
+flooding, with an isolated threat for flash flooding.
+
+No hydrologic impacts are expected Tuesday night through next 
+Monday.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+A moderate risk of rip current development remains through this
+evening.
+
+For the ocean beaches the moderate risk for the development of 
+rip currents remains for Tuesday. However, with increasing south
+to southwest winds and building surf across the southeastern
+Suffolk ocean beaches the risk may be increased to high.
+
+For Wednesday: the moderate rip current development risk 
+remains for the ocean beaches of New York City, and Nassau 
+county. There is a chance that the threat increases to high for 
+the Nassau ocean beaches with increasing southerly flow. And 
+for the Suffolk county ocean beaches the rip current risk is 
+forecast to be high.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Dense Fog Advisory until 6 AM EDT Tuesday for ANZ331-332-335-
+     338-340-345-350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...MET/JT
+NEAR TERM...MET/JT
+SHORT TERM...JT
+LONG TERM...MET
+AVIATION...JE
+MARINE...MET/JT
+HYDROLOGY...MET/JT
+TIDES/COASTAL FLOODING...

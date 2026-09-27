@@ -1,0 +1,160 @@
+697 
+FXUS61 KOKX 142329
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+629 PM EST Tue Jan 14 2025
+
+.SYNOPSIS...
+High pressure builds west of the region through Wednesday. An 
+approaching frontal system dissipates as it approaches from the 
+west on Thursday. High pressure then briefly builds into the 
+area Friday before a cold front moves through this weekend. A 
+series of frontal waves may pass near or south and east of the 
+area early next week.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM WEDNESDAY MORNING/...
+Remaining blustery and cold tonight. Other than a stray flurry,
+dry conditions persist. Forecast on track and previous discussion
+follows.
+
+With the low and mid lvl flow just N of W, it seems unlikely 
+that lake moisture will spill into the cwa early this eve. 
+However, with the upr trof passing a bit later, did maintain the
+mention of chc flurries despite the relatively high cloud bases
+around 4000 ft. Deep subsidence aft 4-6Z with some decreasing 
+clouds overnight as a result. Stuck close to the NBM for temps 
+with the winds keeping things mixed. 
+
+Wind chills in the single digits most areas overnight.
+
+&&
+
+.SHORT TERM /6 AM WEDNESDAY MORNING THROUGH WEDNESDAY NIGHT/...
+Sct-bkn flat cu is likely to develop on Wed with steep llvl lapse 
+rates. With more of a nwly flow, cannot completely rule out as stray 
+flurry making it down to the cwa, however, the chances are too low 
+attm to include in the fcst. 
+
+Continued windy with h85 around 30kt. This should produce gusts 
+around 25 mph, so bumped up the gust factor in the grids to account 
+for this. Otherwise, NBM temps seemed reasonable so were used for 
+highs.
+
+The cycle repeats for Wed ngt with lessening clouds again. Winds 
+will decrease, particularly late, as the weakening high ridges into 
+the cwa. Went with the NBM and typical local adjustments for lows, 
+which produces teens most areas. Wind chills in  the single digits 
+and teens.
+
+&&
+
+.LONG TERM /THURSDAY THROUGH TUESDAY/...
+No significant changes to forecast thinking late this week into next.
+The last in a series of shortwaves will drop across the Northeast 
+Thursday with the associated frontal system dissipating to the west 
+of the forecast area. Expect an increase in cloud cover during the 
+afternoon and evening hours with perhaps a chance of flurries or a 
+brief snow shower, otherwise dry conditions persist. The trough then 
+lifts out into Friday morning with brief upper ridging and surface 
+high pressure building across the area, allowing a brief warm up 
+thru Saturday with 40s returning to coastal locales in the afternoon.
+
+Meanwhile, Pacific energy that briefly breaks down the ridge across 
+western Canada and the PNW, along with northern branch energy 
+descending south across central Canada, will carve out a longwave 
+trough encompassing much of the Lower 48 into early next week. 
+Guidance is in good agreement that progressive cold front along the 
+leading edge of the trough tracks across the area Saturday 
+afternoon/night. With milder air in place, rain showers likely in a 
+strengthening deep-layered southerly flow. 
+
+A trailing wave along the arctic boundary may then attempt deepen as 
+it slips off the Southeast coast Sunday into Sunday night, and it's 
+not out of the question the region is grazed by the northern 
+periphery of the moisture axis. Global ensemble systems keep this 
+system weak however, and any associated QPF locally would be light.
+Lots of solutions at thereafter into next week, though the 
+underlying theme will be the invading arctic air, perhaps the 
+coldest so far this season, settling in through at least mid next 
+week.
+
+&&
+
+.AVIATION /23Z TUESDAY THROUGH SUNDAY/...
+Persistent pattern remains with low pressure to the north and east 
+and high pressure to the south and west through the TAF period. 
+
+Gusty WNW-NW winds and VFR conditions expected through the TAF 
+period.
+
+Winds will be generally direction 290-310 through the TAF period 
+with sustained wind speeds of near 15-20 kt and gusts near 25-30 kt. 
+
+Gusts have started to diminish a bit this evening but are
+expected to increase once again Wednesday morning. The strongest
+winds will be from late Wednesday morning into Wednesday 
+afternoon. There may be a lull in the gusts overnight.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Peak gusts 3-5 kts higher than gusts in TAF are possible during
+the TAF period.
+
+.OUTLOOK FOR 00Z THURSDAY THROUGH SUNDAY...
+
+Wednesday night: VFR. Gusty NW winds gradually diminish.
+
+Thursday-Friday: Mainly VFR.
+
+Saturday: MVFR or lower at times with rain likely, possible snow at 
+night. SW wind gusts 15-20 kt during the day.
+
+Sunday: Chance for MVFR or lower at times with possible rain/snow.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Winds thru Wed with winds diminishing Wed ngt. A SCA is in effect 
+for all waters thru the day on Wed, and might need to be extended 
+into the eve on the ocean if seas remain aoa 5 ft. In addition, some 
+lgt freezing spray remains possible thru Wed ngt with a colder 
+airmass building in. 
+
+Expect sub-SCA conditions as a frontal system dissipates to the west 
+on Thursday and high pressure builds over the area on Friday. A 
+strong frontal system moving into the area will be preceded by a 
+strengthening S/SW flow that could lead to 25 kt gusts Saturday. 
+Ocean seas may build toward 5 ft by Sunday.
+
+&&
+
+.HYDROLOGY...
+No significant hydrologic impacts expected into early next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 6 PM EST Wednesday for ANZ331-332-
+     335-338-340-345-350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JMC/DR
+NEAR TERM...JMC
+SHORT TERM...JMC
+LONG TERM...DR
+AVIATION...JM/BR
+MARINE...JMC/DR
+HYDROLOGY...JMC/DR

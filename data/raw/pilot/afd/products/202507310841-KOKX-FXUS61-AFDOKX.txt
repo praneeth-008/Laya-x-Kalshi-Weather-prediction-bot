@@ -1,0 +1,211 @@
+605 
+FXUS61 KOKX 310841
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+441 AM EDT Thu Jul 31 2025
+
+.SYNOPSIS...
+A cold front slowly moves across the region early this morning, 
+stalling to the south this afternoon. A wave of low pressure travels 
+along the front impacting the area this afternoon into Friday 
+morning. High pressure builds in behind the exiting system late 
+Friday and remains in control through Saturday night. High
+pressure remains nearby through the first half of next week.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Key Points:
+
+* A FLOOD WATCH is in effect from 2pm this afternoon until 8am Fri.
+
+* A period of moderate to locally heavy rainfall is possible this 
+  afternoon into early tonight night. A widespread 1.5-3 inches of 
+  rainfall is likely, with locally higher amounts. Rainfall rates 
+  could exceed 2+ inches across part of the area.
+
+A frontal boundary is slowly sagging south through the area early 
+this morning and is expected to stall nearby to the south this 
+afternoon. Simultaneously, a frontal wave will develop near the 
+Delmarva region and track eastward to our southwest this afternoon. 
+The development of this low pressure wave will be aided by its 
+location in the right entrance region of a jet streak located to our 
+north. By daybreak Friday, this frontal wave will begin a 
+progressive exit offshore to our southeast. 
+
+A Flood Watch will take effect this afternoon and remain in place 
+through Friday morning for the window of heaviest rainfall 
+anticipated. Expected rainfall across the area will be around 1.5 to 
+3 inches. Isolated amounts of up to 5 inches are possible. Rainfall 
+rates of 1-2 inches are likely across the area. Rainfall rates could 
+exceed 2"/hr across parts of Long Island, NYC, and Union, Essex, & 
+Hudson counties. 00Z CAMs bring higher instability to these southern 
+areas this afternoon and evening. MUCAPE here may range from 1,000-
+2,000 J/kg this afternoon and evening before quickly dropping off. 
+While less instability is expected for areas north, 0-6 km Bulk 
+Shear across the entire CWA could range from 50-70 kt, which is 
+enough to anticipate convection anywhere today. Though, still the 
+best chances for this are to the south. The anticipated convection 
+lines up with the best window for the highest rainfall rates, which 
+may lie between 2pm to midnight today. Tall skinny CAPE profiles 
+support this. PWATs should range from 2 to 2.5 inches, which is 
+anomalously high. 
+
+The stalled front to our south will begin to push further away to 
+our south into late Thursday night as a frontal wave starts to 
+progressively exit to our southeast. This leads to heavy rainfall 
+tapering NW to SE due to lack of forcing and loss of instability. 
+Area-wide showers may still linger into late Thursday night, but 
+will no longer be intense. However, should any areas experience 
+flooding prior to this, the additional rainfall may only prolong 
+flooding. Rainfall will begin to taper altogether NW to SE by 
+daybreak Friday. 
+
+A 30-40 kt NE/ENE-oriented LLJ may enhance winds late Thursday into 
+Thursday night with winds gusting 25 to 35 mph.
+
+Temperatures will be cooler today with highs topping off in the 
+mid/low 80s for areas south and only reaching the mid/upper 70s for 
+northern interior locations.
+
+&&
+
+.SHORT TERM /FRIDAY THROUGH SATURDAY NIGHT/...
+A wave of low pressure will exit progressively out to sea to our 
+southeast early on Friday. This will lead to rainfall tapering NW to 
+SE Friday morning. Most should be dry by Friday afternoon. Any 
+lingering showers into the afternoon would likely be for far 
+southeastern locations of Suffolk and New London counties. 
+
+High pressure builds in late Friday and will then remain in control 
+through Saturday night. This will lead to clear skies by Friday 
+night with plenty of sunshine on Saturday. Abnormally cool 
+temperatures on Friday with highs in the mid/low 70s could lead
+to possible record minimum high temperatures being broken or 
+tied. Saturday may see a few return to the low 80s, but fair 
+weather for the start of the weekend.
+
+&&
+
+.LONG TERM /SUNDAY THROUGH WEDNESDAY/...
+High pressure will remain in control through the second half of the 
+weekend and into the first half of next week. A quasi-zonal regime 
+aloft will take shape with a low amplitude trough developing in the 
+Midwest and the Ohio valley Monday and Tuesday. This feature should 
+not draw close enough to result in any sensible weather change until 
+mid week the earliest, towards Wednesday. Thus look for dry 
+conditions through at least Tuesday night and seasonable 
+temperatures throughout the period.
+
+&&
+
+.AVIATION /09Z THURSDAY THROUGH MONDAY/...
+A cold front slowly pushes in this morning and stalls over the 
+region today, before pushing just to the south Thursday night. 
+
+Generally VFR conditions prevail through this morning. Cannot rule 
+out showers, thus a PROB30 group is in place for late this morning 
+and towards midday. This afternoon showers / rain become more 
+widespread with a PROB30 group for TSRA. Flight categories will be 
+IFR and MVFR, with IFR cigs likely towards 00z. Rain continues 
+through the night with the steadiest / heaviest rain subsiding 
+towards 04z at most terminals. A lighter rain prevails for the 
+remainder of the Thursday night. 
+
+Winds will be light for the early morning, mainly at or below 5 kt 
+with a few coastal terminals just above 5 kt. An easterly flow picks 
+up today to around 10kt. The winds increase further after 00z 
+Friday, with gusts towards towards and after 04z Saturday.
+
+  NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+There remains uncertainty in the timing of gusts arriving after 00z 
+out of the E/NE.
+
+.OUTLOOK FOR 06Z FRIDAY THROUGH MONDAY... 
+
+Thursday night: IFR and MVFR in rain. Winds NE 10-17g20-25kt.
+
+Friday: MVFR to IFR. Showers ending early with winds NE10-17g25kt.
+
+Saturday: VFR. NE winds gusts 15-20 kt early, diminishing by 
+afternoon.
+
+Sunday-Monday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Winds on all waters with waves on ocean waters are expected to climb 
+today, reaching SCA criteria by this evening and remaining so 
+through Friday evening. A few isolated gale-force gusts are 
+possible on Friday. A SCA is issued for all waters starting late
+tonight through Friday evening. Winds are then expected to drop
+below 25 kt early Friday night, but 5 ft waves could linger 
+through early Saturday morning on ocean waters. Thereafter, all 
+waters will be below SCA criteria under high pressure Saturday 
+into Saturday night. 
+
+Sub advisory conditions take place on the coastal waters for the 
+second half of the weekend and into the first half of next week with 
+a light pressure gradient due to a high pressure regime remaining in 
+control.
+
+&&
+
+.HYDROLOGY...
+* Flood Watch in effect from 2pm today through 8am Friday.
+
+A widespread moderate to heavy rainfall is expected Thursday 
+afternoon into Friday. Rainfall amounts of 1.5 to 3 inches with 
+localized amounts up to 5 inches across the southern portions of the 
+CWA will be possible. Rainfall rates could exceed 2+ inches per 
+hour. 
+
+WPC has outlined the entire region in a slight risk of excessive 
+rainfall for much of the area, with a moderate risk for NE NJ. 
+Urban, poor drainage and riverine flash flooding will be possible. 
+
+Dry weather returns Friday night with no hydrologic concerns through 
+early next week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+There is an overall low rip current risk for ocean beaches today 
+due to a 1-3 ft S/SE swell and 1 to 2 ft wind waves. Rip 
+currents likely increase to high by Friday given increased 
+waves, 5 ft surf height, and a persistent 15-25kt E/NE flow.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Air Quality Alert from 11 AM this morning to 11 PM EDT this 
+     evening for CTZ005>012.
+     Flood Watch from 2 PM EDT this afternoon through Friday 
+     morning for CTZ005>012.
+NY...Flood Watch from 2 PM EDT this afternoon through Friday 
+     morning for NYZ067>075-078>081-176>179.
+NJ...Flood Watch from 2 PM EDT this afternoon through Friday 
+     morning for NJZ002-004-006-103>108.
+MARINE...Small Craft Advisory from 8 PM this evening to 8 PM EDT Friday 
+     for ANZ331-332-335-338-340-345-350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JE/BR
+NEAR TERM...BR
+SHORT TERM...BR
+LONG TERM...JE
+AVIATION...JE
+MARINE...JE/BR
+HYDROLOGY...JE/BR
+TIDES/COASTAL FLOODING...
+CLIMATE...

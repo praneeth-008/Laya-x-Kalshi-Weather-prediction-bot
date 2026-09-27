@@ -1,0 +1,229 @@
+906 
+FXUS61 KOKX 150758
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+358 AM EDT Tue Jul 15 2025
+
+.SYNOPSIS...
+A weak front sags south of the area this morning, but remains 
+nearby through Wednesday as a Bermuda high remains anchored well
+offshore. The boundary will lift north Wednesday Night, with a
+trough moving through Thursday and then a cold front moves 
+through Thursday Night into Friday. This front remains just 
+south of the area through the weekend while high pressure 
+attempts to build. Another cold front moves through late Sunday 
+night into early Monday morning.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Shortwave trough axis slowly slides east this morning, with weak 
+surface trough sagging south as well. 
+
+Lingering shower activity, slight chance of thunder, across 
+NYC/NJ metro, LI and S CT early this morning expected to push se
+of the region by mid to late morning. With shortwave upper 
+ridging building in, and mid-level drying, only an isolated 
+shra/tsra threat in the aft/eve along seabreeze boundary and 
+higher terrain. 
+
+Seasonable temps (mid to upper 80s) and humid conditions (lower 70 
+Tds) continue today into tonight. Tds could end up being a bit lower 
+than forecast across interior based on mid-level drying and weak 
+offshore flow. This yields heat indices in the lower 90s to 
+around 95F across much of the region today. After collab with 
+neighboring offices have held off on heat advisory for today 
+with only marginal coverage of 95 HI for NYC and pts N&W, where 
+Tds could end up slightly lower than NBM deterministic. 
+
+Patchy stratus/fog development possible tonight/Wed Am in the moist 
+and weak flow environment. 
+
+
+&&
+
+.SHORT TERM /WEDNESDAY THROUGH THURSDAY NIGHT/...
+Key Points: 
+
+* Moderate to high potential of 95F to low 100F heat indices (Heat 
+  Advisory) Wed thru Fri. 
+
+* Low to moderate potential for 105F heat indices (Extreme Heat 
+  Watch/Warning) on Thu.
+
+Shortwave ridging surface/aloft slides east during the day on 
+Wednesday, with a southern plains shortwave approaching the 
+region Wed eve and crossing the area Wed Night. 
+
+At the surface weak high pressure on Wed will give way to an 
+approaching warm front Wed eve, pushing north of the region Wed
+Night into Thu AM. A warm advective SW flow establishes around 
+Bermuda high with likelihood for start of a mid to late week 
+heat wave.
+
+Between morning stratus and aft/eve convection a period of 
+partial clearing likely to lift widespread daytime temps in the
+upper 80s to lower 90s, and Tds in the mid 70s. Widespread heat
+indices in the upper 90s to lower 100s F likely. Potential for 
+105F heat indices appears low and sparse.
+
+Scattered late day into overnight convection likely with passage of 
+southern shortwave and warm front. Isolated severe threat and 
+localized flash flood threat late Wed aft/eve for NYC and points
+west in a moderately unstable and moist airmass. Convective 
+intensity should diminish overnight as it translates east, but 
+locally strong tsra and minor flood threat would still exist 
+with moistening profiles and marginal elevated instability. 
+
+Tri-State region is likely under an active zonal upper flow on 
+Thursday and in the midst of hot and very humid airmass on 
+Thursday on the periphery of Bermuda ridging and ahead of 
+approaching trough axis. With active flow aloft, convective 
+debris and timing/placement of pre-frontal trough axis and 
+convective initiation will be forecast challenges for amount of 
+sunshine. With that said, 850mb temps will be approaching 19c, 
+and with even limited sunshine supporting mixing to that level,
+temps in the upper 80s and lower 90s are likely, with Tds 
+potentially pooling into the mid to upper 70s. This would yield 
+widespread heat indices of 100 to around 105F, presenting a low 
+to moderate potential for extreme heat watch/warning level. 
+Potential for aft/eve convection once again, with isolated 
+severe threat and localized flash flood threat Thu aft/eve for
+much of the area in a moderately unstable and moist airmass.
+
+
+Have stuck close to NBM deterministic T and Tds for Wed and Thu
+based on convection and cloud cover timing challenges. NBM 
+deterministic also lies within a fairly tight 25 to 25th NBM 
+ensemble range for much of the area, outside of LI. 
+
+&&
+
+.LONG TERM /FRIDAY THROUGH MONDAY/...
+***Key Points***
+
+* Increasing likelihood for heat indices to exceed 95F Friday across 
+  much of the region.
+
+* Unsettled pattern with chances for afternoon showers and 
+  thunderstorms continue for Friday. Saturday looks mainly dry, with 
+  better chances for showers and thunderstorms Sunday.
+
+A slow moving cold front moves through on Friday, continuing 
+chances for showers and thunderstorms. The front remains south 
+of the area Saturday and much of Sunday before another front 
+approaches Sunday and moves through late Sunday night into early
+Monday morning. With weak high pressure building in, much of 
+the area will be dry for Saturday, though an isolated shower or 
+thunderstorm cannot be ruled out mainly N and W of NYC. Another 
+cold front approaches for Sunday, giving the area better chances
+for showers and thunderstorms late Sunday through the beginning
+of next week with the front remaining nearby.
+
+While nothing remarkable for mid July, temperatures 
+Fri likely top the upper 80s to lower 90s for most, and with dew 
+points forecast at least into the upper 60s and lower 70s, heat 
+indices should achieve mid to upper 90s.
+
+One caveat may be the unsettled pattern, with showers and 
+thunderstorms possible each afternoon through late week with nearby 
+frontal boundaries, though the overall severe risk appears low. 
+However, deep layer moisture should keep PWATs near or above 2 
+inches, and with it, the potential for higher rainfall rates with 
+any convective activity.
+
+&&
+
+.AVIATION /07Z TUESDAY THROUGH SATURDAY/...
+A weak cold front remains over the region through Tuesday.
+
+A fair amount of uncertainty in the flight category forecast 
+overnight as conditions may vary from IFR (mainly for eastern 
+terminals) to VFR (across city terminals, with brief IFR to 
+MVFR) tonight. Add to that the saturated ground from the heavy 
+rain yesterday, which may aid in development of fog across NE 
+NJ. The question is whether this will advect or develop over the
+city terminals as the night progresses. VFR for Tuesday into 
+Tuesday night outside any possible showers/tstms.
+
+Light and variable winds overnight, becoming S-SSW 5-10kt 
+Tuesday. 
+
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Amendments expected with overall low confidence in flight 
+category forecast tonight/early Tuesday morning. MVFR could 
+prevail all night with brief IFR possible.
+
+.OUTLOOK FOR 06Z WEDNESDAY THROUGH SATURDAY... 
+
+Tuesday Night: VFR during the afternoon/evening with a chance 
+of a shower/thunderstorm. MVFR or lower possible, especially 
+east of NYC metro at night. 
+
+Wednesday-Friday: MVFR or lower in any afternoon/evening 
+showers/thunderstorms.
+
+Saturday: Mainly VFR. 
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Sub-SCA conditions through Thursday in a weak pressure regime,
+although ocean seas will likely build to 3 to 4 ft late Wed into
+Thu with persistent 15 to 20 kt S/SW flow, possibly around 5 ft
+by Thu Night. Marginal SCA gusts possible Wed late aft/eve and 
+more likely Thu aft/eve with coastal jet formation. 
+
+A return to sub-SCA for Friday likely with offshore flow and
+subsiding S swell in wake of cold frontal passage. Sub SCA conds
+continue into the weekend with weak pressure gradient.
+
+Otherwise, afternoon/evening showers/tstms through the period 
+could produce locally higher winds/seas at times.
+
+&&
+
+.HYDROLOGY...
+Water levels expected to continue to recede below minor flood
+levels across flashy NE NJ river basin this morning.
+
+Localized flash flood potential from scattered aft/eve 
+convection Wed thru Fri.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+The rip current risk is low today, with a mix of 1 ft SE swell
+with 2 ft s wind waves. 
+
+After a low risk rip current risk to start on Wednesday likely 
+increases to moderate in the aft/eve with strengthening S flow 
+and building 2 to 3 ft S wind waves.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JP/NV
+NEAR TERM...NV
+SHORT TERM...NV
+LONG TERM...JP
+AVIATION...JP
+MARINE...JP/NV
+HYDROLOGY...JP/NV
+TIDES/COASTAL FLOODING...

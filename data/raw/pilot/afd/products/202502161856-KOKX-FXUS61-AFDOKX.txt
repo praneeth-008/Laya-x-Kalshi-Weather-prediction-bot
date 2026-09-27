@@ -1,0 +1,234 @@
+617 
+FXUS61 KOKX 161856
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+156 PM EST Sun Feb 16 2025
+
+.SYNOPSIS...
+Deepening low pressure will track across the area today and 
+then up into the Canadian Maritimes tonight. The low will be
+nearly stationary on Monday before lifting out to the northeast
+Monday night. Strong high pressure dives south into the middle 
+of the country Tuesday into Wednesday and gradually noses into 
+the region. Low pressure then emerges out of the Gulf states and
+emerges off the Southeastern US coast. This low strengthens as 
+it lifts northeast and tracks just offshore into Thursday. The 
+low pulls away Thursday night with high pressure building into 
+next weekend.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Temperatures across interior southern Connecticut have mainly
+risen to or above freezing, with just pockets of temperatures
+below freezing. With no widespread freezing rain expected have
+allowed the winter weather advisory to expire.
+
+Also, with the HRRR showing a line of convection possible this
+afternoon, and isolated thunderstorms already having moved
+through the region, converted slight chance thunder to 
+isolated.
+
+The warm front continues to move slowly northward and at 16Z was
+moving into central New Jersey, and into the ocean water, north
+of buoy 44025, and eastward just south of Long Island. The front
+will move northward, and is expected to briefly lift toward the
+south shore of Long Island. 
+
+Deepening low pressure centered over north central Pennsylvania
+at 16Z will pass north and west of the area with a secondary 
+low over the Delaware bay in association of the warm front. 
+This low will undergo rapid intensification as it heads up into
+the Canadian Maritimes tonight. Ahead of the low and trailing 
+cold front, will be a strengthening LLJ, with a 75-85 kt core at
+925 mb passing near or over far eastern LI this afternoon. 
+Strong thermal forcing will provide additional rounds of rain, 
+possibly embedded with thunderstorms. The best chance will from 
+NYC and points east late this morning and into this afternoon 
+with warm conveyor belt rains surging in from the south. Expect 
+the warm front to enhance the lift along the coast with moderate
+to heavy showers and then again areawide with a pre-frontal 
+trough this afternoon ahead of the cold front. The area will 
+initially be capped by a strong low- level inversion, however, 
+as the warm front pushes through eastern sections, it will 
+weaken and allow for the potential for wind advisory level winds
+(gusts up to 50 mph) to briefly impact coastal locations. 
+
+By the time the cold front passes this evening, much of the 
+area is forecast to have received 1.5 to 2 inches of liquid 
+equivalent, with the highest amounts across LI and CT. Behind 
+the cold front this evening, strong west winds will develop with
+the potential for 40-50 kt gusts associated with strong pressure
+rises immediately behind it. Winds at the top of mixed layer 
+for the remainder of the night will be around 50 kt, and on 
+average about 40 kt through the layer. However, have cancelled 
+the High Wind Watch and replaced with a Wind Advisory. NBM and 
+HREF probabilities for winds of 50kt show only low chances. It 
+would also be unlikely to consistently mix down from the top of
+the mixed layer with the possible exception of some of the 
+higher elevations north and west of NYC.
+
+Much colder air returns tonight with temperatures dropping back
+below freezing and into the 20s by daybreak Monday.
+
+&&
+
+.SHORT TERM /MONDAY/...
+Strong low pressure will remain over the Canadian maritimes 
+Monday with Wind Advisory level winds to continue with gusts 
+40-50 mph. Temperatures will be running about 7 to 10 degrees 
+below normal for Mid Feb for Monday.
+
+&&
+
+.LONG TERM /MONDAY NIGHT THROUGH SATURDAY/...
+* Quite cold Monday night through Wednesday with well below normal 
+  temperatures.
+
+* The potential remains for a significant winter storm towards mid 
+  week (Wed night into Thursday), although the latest trend is 
+  further east.
+
+Windy conditions continue as a strong pressure gradient remains over 
+the area due the departing low that will spin over the Canadian 
+Maritimes Monday night and strong arctic high pressure 
+(1050-1054 mb) that builds in from southern Canada. W winds of 
+15 to 25 mph are forecast, with gusts around 35 mph in the 
+evening. Winds diminish through the night as the pressure 
+gradient relaxes a bit into Tuesday morning.
+
+The high continues to nose in from the north and west Tuesday and 
+Wednesday, keeping the region dry. As the modified arctic air moves 
+south, a baroclinic zone sets up over the southern states, allowing 
+low pressure to begin to take shape. This low then treks east along 
+the gulf states, crosses the Fl panhandle, then gets along and off 
+the Southeast US coast Wednesday night. The low then tracks 
+northeast into Thursday, pulling away from the area Thursday night.
+
+The 0z 16 Feb runs shows the guidance that was previously more 
+bullish on a significant Mid Atlantic and Southern New England 
+snowstorm (ECMWF, UKMET, CMC) had adjusted east some. The 0z ECMWF 
+ensembles are showing a trend in its past 3 or 4 runs of being a bit 
+further east. The differences overall appear to be more with the sfc 
+progs and not as much at 500 mb. The difficulty in this particular 
+situation appears to rest with how the northern branch closed low 
+interacts with any suppressed Pacific energy. Will the Pacific 
+energy get too far out ahead of the northern branch system where
+the interaction will be less and the northern branch closed low
+will then have less lower and mid level moisture to work with? 
+This is the million dollar question. Have adjusted the timing 
+of the system and now move it along quickly. Thus, have now 
+lowered PoPs for Thu night as there is good agreement among the 
+various global camps to exit the system faster.
+
+Behind the system expect it to be brisk and cold for Thu night 
+into Friday on a NW flow regime. Wind chills will likely be 
+primarily in the single digits to around 10 for Friday morning. 
+Temperatures will remain below normal into the start of next 
+weekend with a cP air mass in place.
+
+&&
+
+.AVIATION /19Z SUNDAY THROUGH FRIDAY/...
+A warm front lifts through the city and eastern terminals this 
+afternoon. A strong cold frontal passage will take place early 
+in the evening. High pressure slowly builds behind the front on
+Monday.
+
+Widespread IFR/LIFR conditions continue at most terminals
+through this afternoon with vsby lowering to IFR at times in
+rain and fog before the warm frontal passage. Cold front moves
+through the area terminals between 23-00Z with CIGS improving 
+to MVFR, then VFR. 
+
+LLWS from the SW increase this afternoon to 30-50 knots. Will
+continue to mention in TAFs for KJFK, KISP, KBDR, and KGON due 
+to proximity to the low level jet. Winds become S-SW and gusty 
+after warm fropa, then shift W with cold fropa early this 
+evening and increase to 20-30 kt with gusts 35-45 kt. Winds
+remain gusty through late Monday, then begins to diminish 
+Monday night.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Amendments may be needed for changing flight categories this
+afternoon/evening. 
+
+.OUTLOOK FOR 18Z MONDAY THROUGH FRIDAY...
+
+Monday: VFR. W winds G35-40kt, diminishing at night.
+
+Tuesday: VFR. W winds G25 kt. 
+
+Wednesday: VFR. 
+
+Wednesday night: Becoming IFR in snow.
+
+Thursday: MVFR / IFR in snow. N winds G20kt, becoming NW G25kt late 
+in the day and at night. 
+
+Friday:VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Gale warnings are in effect for all the non-ocean waters through
+Monday night.
+
+Storm Warning in effect for the ocean waters through Monday 
+afternoon.
+
+A storm system will impact the area with a strengthening 
+southerly flow today, followed by strong west winds later this 
+evening. Expect a period of pre-frontal SW gale/storm-force 
+gusts this afternoon, following by a westerly gale/storm-force 
+gusts tonight into Monday. Expect gusts 40-50kt with season on 
+the ocean building to 11 to 19 ft on the ocean tonight, and 5 to
+8 ft on LI Sound. 
+
+With a strong W flow low water benchmarks may be approached in 
+a couple of locations for the Monday night and early Tuesday low
+tide cycles. Gale conditions prevailing Monday night will give 
+way to small craft conditions into early Tuesday morning. Small 
+craft conditions will likely persist through the day on Tuesday,
+with sub advisory conditions gradually developing from west to 
+east Tuesday night into Wednesday morning. Ocean seas get down 
+to around 2 ft. by Wednesday afternoon. Small craft conditions 
+will likely return Thursday into Thursday night as storm system 
+gets off the coast and a NW flow increases.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts are anticipated from this weekend's storm 
+system and through the week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Wind Advisory from 6 PM this evening to 6 PM EST Monday for 
+     CTZ005>012.
+NY...Wind Advisory from 6 PM this evening to 6 PM EST Monday for 
+     NYZ067>075-078>081-176>179.
+NJ...Wind Advisory from 6 PM this evening to 6 PM EST Monday for 
+     NJZ002-004-006-103>108.
+MARINE...Gale Warning until midnight EST Monday night for ANZ331-332-
+     335-338-340-345.
+     Storm Warning until 1 PM EST Monday for ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JE/DW
+NEAR TERM...MET/DW
+SHORT TERM...DW
+LONG TERM...JE
+AVIATION...20
+MARINE...JE/DW
+HYDROLOGY...JE/DW

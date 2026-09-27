@@ -1,0 +1,243 @@
+528 
+FXUS61 KOKX 292344
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+744 PM EDT Tue Jul 29 2025
+
+.SYNOPSIS...
+Weak high pressure will remain in control into Wednesday. A cold 
+front will then slowly approach from the northwest Wednesday 
+night, stalling nearby on Thursday. A frontal wave then develops
+Thursday night, and passes to the south and east through Friday
+evening. High pressure builds in from the northwest Saturday, 
+and moves offshore Sunday. The high remains offshore into early 
+next week.
+
+&&
+
+.NEAR TERM /THROUGH WEDNESDAY/...
+Heat headlines remain unchanged with advisories for all but NE 
+NJ (minus western Passaic), where there is an extreme heat
+warning.  
+
+A warm upper ridge encompassing the southern two thirds of the 
+country will begin to get suppressed southward in coming days 
+as heights fall in response to an upper trough across eastern 
+Canada. In the meantime, hot and humid conditions will persist
+into Wednesday in a deep-layered westerly flow. 85H temps will 
+remain around 20C. 
+
+Lows tonight will generally be in the 70s with a few locations 
+across the NYC/NJ metro getting no lower than 80. This combined
+with dew points in the upper 60s to lower 70s will continue to 
+make even the nighttime hours uncomfortable.
+
+High on Wednesday will be very close to what we experienced on 
+Tuesday, with the upper 80s to lower 90s near the coast, and 
+the mid to upper 90s elsewhere. A few locations may eclipse 100,
+especially across urban NE NJ. Readings will be close to 
+records for some locations. 
+
+Widely scattered to scattered convection will be a possibility
+in the afternoon, mainly north and west of the NYC metro.
+Strengthening mid-level flow and marginal CAPE will support a 
+few strong and/or severe storms. However, LFCs will be high with
+a mid/upper level warm nose. There is also not much of trigger 
+outside of a thermal trough and differential heating across the
+hills north and west. The cold front will remain well northwest
+of the area at this time. SPC has the area under a marginal 
+risk for severe with the main threat being damaging wind gusts.
+
+&&
+
+.SHORT TERM /WEDNESDAY NIGHT/...
+Cold front will approach from the northwest Wednesday night, 
+interacting with a marginally unstable airmass with gradually 
+falling heights. Then limiting factor will be the loss of 
+daytime instability and better forcing to the north of the 
+forecast area. Expect scattered coverage of showers and 
+thunderstorms. The better chance looks to be after midnight as 
+the front begins to enter the far northwest zones. Widespread 
+showers and possible thunderstorms looks to be later on 
+Thursday. 
+
+Wednesday night will remain warm and humid with lows in the 
+upper 60s to lower 70s and similar dew points.
+
+&&
+
+.LONG TERM /THURSDAY THROUGH TUESDAY/...
+A cold front will be moving through the region during Thursday, and 
+then stall somewhere to the south of New York City and Long Island. 
+A frontal wave develops and passes slowly to the south and east 
+during late Thursday night into Friday evening. There will be the 
+potential for moderate to heavy rainfall across much of the region 
+late Thursday through Friday with the combination of an upper level 
+right rear jet passing to the north, and the frontal boundary and 
+wave of low pressure to the south. The flow will be nearly zonal, 
+with a storm motion west to west/northwest, and any showers and 
+convection training over the same areas, enhancing rainfall totals. 
+See the HYDROLOGY section for details on rainfall and potential 
+impacts. Also, there is a thunderstorm potential with the best 
+instability and CAPE near and south of wherever the frontal boundary 
+sets up. With this uncertainty have used coverage wording for 
+thunderstorms Thursday and Friday.
+
+Weak upper ridging begins to build late Friday night into Saturday 
+with surface high pressure approaching from the northwest. This high 
+will settle over the region Saturday and move offshore Sunday. Dew 
+points will be falling into the 50s for Saturday and Sunday, and 
+slowly increase into the beginning of next week as a weak return 
+flow sets up. With the high moving in temperatures will return to 
+near seasonal normal levels Saturday into early next week.
+
+&&
+
+.AVIATION /00Z WEDNESDAY THROUGH SUNDAY/...
+A weak surface trough remains over the area tonight. A cold
+front then gradually approaches on Wednesday.
+
+Generally looking at VFR through the forecast period. However,
+there is potential for some showers/thunderstorms to bring MVFR
+or lower vsbys Wednesday afternoon/early evening. Confidence has
+increased at KSWF so a TEMPO has been included in the TAF.
+Elsewhere went PROB30 for now.
+
+Winds go light and variable tonight. Winds pick up out of the
+S/SW on Wednesday up to 10 kt. 
+
+     NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Low confidence wind direction forecast tonight, but winds will
+be light, 5 kt or less.
+
+Higher confidence in thunder tomorrow is at KTEB and KLGA,
+uncertainty if any activity gets farther south than that.
+
+.OUTLOOK FOR 00Z THURSDAY THROUGH SUNDAY... 
+
+Wednesday night: Mainly VFR, chances of showers.
+
+Thursday: Rain chances peak Thursday afternoon into Thursday 
+night. Potential for MVFR or lower in any shower/storm. 
+
+Friday: MVFR or lower in AM, conditions improve to VFR for the 
+afternoon and evening.
+
+Saturday and Sunday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Conditions are expected to remain below Small Craft Advisory 
+criteria through Thursday night. A wave of low pressure 
+developing on a stalled front south of Long Island late Thursday
+night will deepen and pass south and east through Friday 
+evening. Small Craft Advisory conditions are likely to develop 
+on the ocean waters during Friday and then continue into Friday 
+night. Once the wave passes to the east conditions will be 
+improving west to east, falling below advisory levels late 
+Friday night into Saturday morning. There is also a chance of 25
+kt gusts on the far eastern Long Island Sound waters during 
+Friday evening into Friday night.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through Wednesday. 
+
+More persistent and widespread moderate to heavy rainfall is 
+possible Thursday afternoon into Friday. WPC has outlined the entire 
+region in a slight risk of excessive rainfall Thursday into Friday 
+morning, and localized to isolated areas of flash flooding could 
+develop where the heaviest axis of rainfall sets up. Currently there 
+is the potential for 2 to 3 inches across the lower Hudson Valley 
+into northeastern New Jersey, and 1 to 2 inches farther south and 
+east. Some areas could receive higher amounts. There remains some 
+uncertainty as to where this axis will be. Otherwise, anticipating 
+more of a nuisance flood threat, particularly in the typical urban 
+and poor drainage areas.
+
+Dry weather returns Friday evening and continues into the beginning 
+of next week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+There is an overall low rip current risk for ocean beaches
+through Thursday due to a 1 ft S/SE swell and 1 to 2 ft wind 
+waves.
+
+&&
+
+.CLIMATE...
+Record High Temperatures for Tuesday, July 29
+----------------------------------------------------
+Newark       100/1949 *New record high of 101 reported*
+Bridgeport    96/2002
+Central Park  99/1949
+LaGuardia     97/1949 *New record high of 100 reported*
+Kennedy       99/2002
+Islip         96/2002 *Tied Record high today* 
+
+
+Record High Temperatures for Wednesday, July 30
+----------------------------------------------------
+Newark       101/1949
+Bridgeport    95/1949
+Central Park *98/1988
+LaGuardia     99/1988
+Kennedy       96/2002
+Islip         95/1988
+
+* Also occurred in previous years
+
+Record Minimum Temperatures for Wednesday, July 30 
+----------------------------------------------------
+Central Park........80 (2002)
+LaGuardia...........81 (2019,2002)
+Kennedy.............79 (2006,1995)
+Islip...............76 (2002)
+Newark..............81 (2002)
+Bridgeport..........76 (2002)
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Heat Advisory until 8 PM EDT Wednesday for CTZ005>012.
+     Air Quality Alert until 11 PM EDT this evening for CTZ009>012.
+     Air Quality Alert from 11 AM to 11 PM EDT Wednesday for 
+     CTZ009>012.
+NY...Heat Advisory until 8 PM EDT Wednesday for NYZ067>075-078>081-
+     176>179.
+     Air Quality Alert until 11 PM EDT this evening for NYZ069>075-
+     078>081-176>179.
+     Air Quality Alert from 11 AM to 11 PM EDT Wednesday for 
+     NYZ069>075-078>081-176>179.
+NJ...Heat Advisory until 8 PM EDT Wednesday for NJZ002.
+     Air Quality Alert until 11 PM EDT this evening for NJZ002-004-
+     006-103>108.
+     Air Quality Alert from 11 AM to 11 PM EDT Wednesday for NJZ002-
+     004-006-103>108.
+     Extreme Heat Warning until 8 PM EDT Wednesday for NJZ004-006-
+     103>108.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...MET/DW
+NEAR TERM...DW
+SHORT TERM...DW
+LONG TERM...MET
+AVIATION...JT
+MARINE...MET/DW
+HYDROLOGY...MET/DW
+TIDES/COASTAL FLOODING...
+CLIMATE...

@@ -1,0 +1,229 @@
+560 
+FXUS61 KOKX 080038
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+838 PM EDT Sat Jun 7 2025
+
+.SYNOPSIS...
+A cold front push east of the area this evening. Weak high 
+pressure then briefly follows for Sunday, followed by an area of
+low pressure passing to the south and east Sunday night into 
+Monday. A slow moving frontal system will work across the area 
+Tuesday into Tuesday night. High pressure returns Wednesday and 
+remains near the region through Friday. Another frontal system 
+may affect the region late Friday into the weekend.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM SUNDAY MORNING/...
+Shortwave aloft and cold front pushes east through 10pm. An 
+additional 1/2", locally 1 to 1 1/2+" across Suffolk County 
+through 10pm before cold front passes through and pushes heavy 
+downpours and embedded thunderstorms offshore. Minor urban and 
+poor drainage flood threat with this activity, otherwise no 
+widespread hydrologic issues through Monday night. 
+
+Otherwise, drier airmass advects into the region overnight on 
+northerly winds in wake of cold front. This should help dense 
+fog along oceanfront and far SE portions of the CWA to scour out
+late this evening, but with winds lightening overnight, could 
+have some patchy fog development overnight where heavy rain 
+occurred.
+
+Less muggy conditions tonight, with lower tds and temps dropping 
+into the upper 50s across interior and LI pine barrens, and 
+lower 60s elsewhere. 
+
+&&
+
+.SHORT TERM /6 AM SUNDAY MORNING THROUGH MONDAY NIGHT/...
+Weak high pressure builds across the area on Sunday, but then 
+weakens with the approach of a broad area of low pressure 
+approaching from the south and west. It should remain dry for most 
+of the day with rain chances increasing late in the afternoon over 
+the western parts of the forecast area. 
+
+Conditions should be dry for most of the day on Monday, then chances 
+increase Monday night as a cold front moves closer to the area.
+
+Temperatures on Sunday will be in the low to mid 70s with nighttime 
+lows in the upper 50s to low 60s. Temperatures will be a few degrees 
+cooler on Monday with highs in the upper 60s to low 70s.
+
+&&
+
+.LONG TERM /TUESDAY THROUGH SATURDAY/...
+Great Lakes closed low drifts into southern Ontario on Tuesday and 
+then shears NE through southern Quebec Tuesday Night into Wednesday 
+ahead of next northern stream shortwave/closed moving east through 
+southern Canada. Good model agreement in an associated trough axis 
+approaching Tuesday/Tue eve and pivoting through late Tue night/Wed.
+
+At the surface, a surface trough/cold front associated with the 
+Great Lakes low, and southern surface wave tracking NE along the 
+front will approach and cross the area on Tuesday. Large scale 
+synoptic lift from approaching trough, NE shearing southern stream 
+shortwave, and modest RRJ ULJ lift of a +1-1 1/2 std PWATs airmass 
+will be sufficient for increasing shower activity from SW to NE Tues 
+Am. Overall, basin average model QPF is light, but potential for 
+locally heavy downpours and elevated thunder, particularly N&W of 
+NYC with best coincidence of mid/upper forcing, weak elevated 
+instability, orographic enhancement of E/SE low-level flow, and 
+storm motion aligning with the slow moving frontal boundary. WPC Day 
+4 marginal risk of excessive rainfall dropping into northern 
+portions of the LoHud seems reasonable to start. Overall, best upper 
+level forcing and instability seems to lag the surface features, 
+minimizing a localized flash flood threat farther SE towards the 
+coast. Strong to severe threat appears limited despite strong shear 
+profiles, due to weak instability. Shower/thunderstorm activity 
+should taper from W to E later Tue aft/early eve as the surface 
+wave, trough axis/cold front slides through.
+
+Thereafter, warming temp for Wed thru Fri, possibly Sat as region 
+lies on southern edge of westerlies, with heights gradually rising 
+under the influence of SE US ridging and high pressure sliding in 
+from the West. Temps likely several degrees above seasonable Wed 
+(upper 70s/lower 80s), and as much as 10 to 15 degrees above normal 
+for Thu/Fri away from south coasts (mid to upper 80s), lower 80s for 
+the south coast. Have blended in a slight bit of the NBM 50th with 
+the NBM deterministic, since the NBM deterministic lies below the 
+10th percentile of the NBM ensemble. Low probability (less than 30%) 
+of exceeding 95F heat index across NYC/NJ metro an points N&W for 
+Thu-Sat.
+
+Next feature of note will be a combo of a northern stream shortwave 
+approaching from Hudson Bay Friday Night into Saturday, and 
+potential southern plains closed low partially shearing NE towards 
+the area. This will bring potential for a a weak cold front/pre-
+frontal trough to approach as early as late Friday, and subsequent 
+cold front to approach/linger through Sat Night before pushing 
+through. Inherently low predictability on these convectively 
+enhanced shortwave interactions this far out, but low chance pops 
+are warranted to address this threat.
+
+&&
+
+.AVIATION /00Z SUNDAY THROUGH THURSDAY/...
+A cold front will continue to track across southern and eastern most 
+terminals this evening. The front stalls offshore and to the south 
+late tonight and into Sunday. 
+
+A slow transition continues from sub VFR to VFR for the remainder of 
+this evening, with sub VFR hanging in longer across eastern most 
+terminals like KISP and KGON for much of tonight with low stratus 
+and fog. Low confidence remains in fcst for tonight and into Sunday 
+with regard to whether low stratus and fog completely gets out of 
+eastern most terminals. Also pockets of MVFR and IFR likely for KHPN 
+and KSWF for a portion of tonight with patchy fog. 
+
+Another low confidence fcst Sunday with low clouds residing nearby 
+along and just off the coast and over the ocean, but most areas 
+still expected to stay VFR for the first half of the day. Sub VFR 
+conditions (mainly MVFR) is then expected to return at some point 
+Sunday afternoon, with timing uncertain.
+
+Winds tonight will be NE and light, generally less than or around 5 
+kt, before becoming more E on Sunday at 8 to 13 kt.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Amendments possible throughout the entire TAF period for changing flight 
+categories, especially during Sunday afternoon and early 
+Sunday evening.
+
+.OUTLOOK FOR 00Z MONDAY THROUGH THURSDAY... 
+
+Sunday afternoon: Mainly VFR to start, with MVFR likely to return. 
+Chance for rain Sun night with MVFR or lower. 
+
+Monday: Becoming VFR with light E flow.
+
+Tuesday: MVFR or lower possible with shwrs and tstms. Varying winds 
+with a frontal sys.
+
+Wednesday - Thursday: VFR with W flow. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Dense fog continues across the central and eastern ocean 
+waters, southern and eastern bays of LI, and E LI Sound this 
+evening, with gradual improvement from NW to SE through 10pm to 
+midnight as cold front pushes offshore and drier airmass advects
+over the waters.
+
+Marginal SCA ocean seas are expected to fall below SCA tonight
+into Sunday morning, but potential for a period of SCA ocean seas
+to develop Sunday Night into Monday on easterly winds.
+Conditions should gradually fall below SCA Monday.
+
+Potential for 5 ft seas Tuesday night into Wednesday, mainly in S 
+swells as a result of a slow moving frontal system. Marginal 
+nearshore SCA gusts possible during the day Wed in offshore flow 
+behind cold front. Seas should then fall below SCA conditions late 
+Wednesday as high pressure builds towards the water, continuing thru 
+Friday.
+
+&&
+
+.HYDROLOGY...
+An additional 1/2", locally 1 to 1 1/2+" across Suffolk County
+through 10pm before cold front passes through and pushes 
+heavy downpours and embedded thunderstorms offshore. Minor 
+urban and poor drainage flood threat with this activity, 
+otherwise no widespread hydrologic issues through Monday night. 
+
+Showers and embedded thunderstorms Tuesday may produce a basin wide 
+1/4 to 1/2" of rain. Localized 1+" amounts possible, particularly 
+N&W of NYC, presenting a low and localized threat of flash flooding 
+on Tuesday.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+A High Rip Current Risk continues through Sunday evening for 
+all locations along the oceanfront.
+
+SE swells remain at 3-4 ft on Sunday, mixed with a long period 
+SE background swell and a building 2 to 3 ft E wind wave. This 
+should maintain a moderate to high risk of rips with a west to 
+east sweep of 3 to 4 ft, occasionally 5 ft breaking surf. An E 
+to W longshore current will likely become favored in the 
+afternoon.
+
+A moderate to possibly high rip risk likely on Monday with 3-4 
+ft ESE wind waves building, and a background of 1-2 ft SE/S 
+swells. E to W longshore current would be favored.
+
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...High Risk for Rip Currents through Sunday evening for NYZ075-080-
+     081-178-179.
+NJ...None.
+MARINE...Dense Fog Advisory until 11 PM EDT this evening for ANZ332-340-
+     345-350-353-355.
+     Small Craft Advisory until 11 PM EDT this evening for ANZ350-
+     353.
+     Small Craft Advisory until 8 PM EDT this evening for ANZ355.
+
+&&
+
+$$
+
+SYNOPSIS...20/NV
+NEAR TERM...NV
+SHORT TERM...20
+LONG TERM...NV
+AVIATION...JE
+MARINE...20/NV 
+HYDROLOGY...20/NV 
+TIDES/COASTAL 
+FLOODING...NV

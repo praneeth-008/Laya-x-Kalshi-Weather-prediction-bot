@@ -1,0 +1,198 @@
+100 
+FXUS61 KOKX 160552
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+152 AM EDT Mon Jun 16 2025
+
+.SYNOPSIS...
+High pressure shifts off the New England coast while a stationary
+front remains draped to the south over the Mid Atlantic early this
+week. A warm front moves through during Wednesday, followed by a 
+cold front on Thursday night. High pressure will then be in 
+control Friday through the upcoming weekend.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM THIS MORNING/...
+High pressure remains off to the north and east tonight as a 
+weak area of low pressure over the Ohio River Valley slides east
+along a quasi stationary front over the southern Mid Atlantic.
+
+Area of light rain and sprinkles continues to move across
+portions of of NYC, parts of NE NJ, and southwestern LI this 
+evening. Most places that observe the light rain will just see a
+trace, but a few spots could see a hundredth or two.
+
+Saturated low levels below 700 mb will maintain plenty in the 
+way of cloud cover, and very weak convergence could spur 
+additional pockets of drizzle or light rain tonight, but 
+coverage likely much more isolated. 
+
+Temperatures largely remain steady overnight along the coast, 
+generally around 60, though parts of the far interior could slip
+into the mid 50s.
+
+&&
+
+.SHORT TERM /6 AM THIS MORNING THROUGH 6 PM TUESDAY/...
+Flow remains easterly on Monday as the center of high pressure to 
+the north shifts off into the northwest Atlantic. Subtle height 
+rises with weak ridging aloft moving overhead.
+
+Similar conditions to the close of the weekend, with cloud cover and 
+cooler conditions. Lack of significant forcing should mitigate most 
+precip development, but can't still can't rule out spotty light rain 
+at any point in the period. Weak shortwave energy moving east 
+thru the Mid Atlantic may instigate higher coverage, mainly to 
+the south and west over NJ and PA, but this activity could work
+in locally. Otherwise, generally remaining overcast over the 
+south and west, with potential for thinning and maybe even peeks
+of sun possible into southeastern CT.
+
+The onshore marine flow and cloud cover will continue to limit 
+temperatures, though a bit milder than Sunday, still running a 
+good 10 degrees below normal for mid June, with afternoon highs 
+topping out around 70 for most, and near 60 overnight.
+
+&&
+
+.LONG TERM /TUESDAY NIGHT THROUGH SUNDAY/...
+A shortwave will somewhat flatten an h5 ridge over the area on 
+Tuesday. Plenty of moisture will be available, bringing chances of 
+showers, but not anticipating thunderstorms as models agree with very 
+limited to no CAPE. The shower threat increases Tuesday night 
+through Wednesday with the approach of a warm front and associated 
+lift, as well as few rounds of shortwave lift. The threat lowers for 
+Wednesday afternoon with the warm front to the north and shortwave 
+lift to our east. CAPE ramps up Wednesday afternoon as we'll be in 
+the warm sector, but with less mechanical lift and some capping due 
+to ridging in the wake of the shortwave passage, the thunderstorm 
+threat would appear to be limited. With that said, the moisture 
+content will be high Tuesday through Wednesday, so any showers could 
+produce locally heavy rainfall. 
+
+A shortwave then amplifies the h5 flow on Thursday with a trough 
+axis approaching from the west, eventually passing through on 
+Friday. An associated cold front is expected to pass through during 
+Thursday night, but before then, a pre-frontal trough may act as a 
+focus for convective development in an increasingly unstable air 
+mass. SBCAPEs could climb to 1500-2500 J/kg away from the coast, and 
+when combined with shear profiles, organized strong to severe 
+thunderstorms could be possible. Machine-learning probability models 
+and SPC's day 5 convective outlook support this severe thunderstorm 
+threat. NBM has backed off on overall rain chances from yesterday's 
+guidance, but is still showing at least a 40% chance from around the 
+city to the Lower Hudson Valley and NE NJ. Leaned more toward the 
+25th percentile NBM for highs on Thursday for most spots as the 
+cooler deterministic numbers have been trending upward over the past 
+couple of days. h8 temps progged at around 19C without too much 
+convective debris should allow for highs in the mid 90s in the 
+typically warmest spots. This coupled with dewpoints around 70 could 
+have some heat impacts.
+
+High pressure then builds in for Friday and remains in control 
+through the weekend. Only a weak cold front may pass through during 
+Friday night, but without much of consequence. If there's any chance 
+of a shower or thunderstorm, it would more likely occur Friday 
+afternoon with a cold pool aloft and steepening lapse rates. NBM 
+limits PoPs to a slight chance well NW of the city Friday afternoon. 
+Heights rise through the weekend, so a warming trend gets underway 
+with highs ranging from the mid 80s at the coast to lower 90s inland 
+for Sunday.
+
+&&
+
+.AVIATION /06Z MONDAY THROUGH FRIDAY/...
+A weak ridge of high pressure will remain across the terminals 
+into Monday, while a stationary front and waves of low pressure 
+along it remain to the south.
+
+Mainly VFR, with areas of MVFR around the NYC metro terminals,
+with IFR at KGON. Low confidence forecast through this evening
+with the flight categories and timing of changes. Conditions are
+expected to lower to MVFR toward morning, and remain MVFR
+through Monday. Little improvement is expected, with perhaps a
+brief period of VFR Monday morning. Then conditions likely lower
+to IFR Monday evening. Periods of light rain and drizzle will
+continue along the coast through the overnight.
+
+Light NE to E winds, generally less then 10kt continue through
+the forecast period. Winds may back more to the ESE for a time 
+Monday afternoon, especially near the coast.
+
+    NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Low confidence with timing and flight categories through this
+evening.
+
+Low chance for IFR ceilings early Monday morning. Amendments 
+likely for flight category changes through Monday evening.
+
+.OUTLOOK FOR 06Z TUESDAY THROUGH FRIDAY... 
+
+Late Monday Night: Mainly IFR, with local MVFR possible.
+
+Tuesday: MVFR-IFR possible. A chance of showers, mainly at 
+night.
+
+Wednesday: Chance of IFR in the morning, otherwise MVFR to VFR 
+in the afternoon with a chance of showers and thunderstorms. 
+
+Thursday: Mainly VFR. Chance of afternoon/evening showers and 
+thunderstorms. SW G15-20kt. 
+
+Friday: VFR. W G15-20kt. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Weak pressure gradient results in conditions remaining below 
+Small Craft Advisory (SCA) criteria through Monday night.
+
+For Tuesday through Saturday, winds and seas continue to prevail 
+below SCA levels on the forecast waters. However, ocean seas and 
+gusts may approach SCA levels late day Thursday into Thursday night 
+with an increasing southwest flow ahead of a cold front.
+
+&&
+
+.HYDROLOGY...
+Locally heavy downpours will be possible in any thunderstorms 
+Wednesday and Thursday as the air mass will have plenty of moisture. 
+The flash flooding threat will be mitigated by the speed of any 
+cells and lack of a training signal in addition to the overall 
+chances of showers and thunderstorms. So while flash flooding is not 
+anticipated at this time, minor poor drainage flooding will still be 
+possible both days.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+The rip current risk is moderate both Monday and Tuesday at
+Atlantic ocean beaches due to E flow, 3-4 ft seas at 7-8s.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JC/DR
+NEAR TERM...DR/DS
+SHORT TERM...DR
+LONG TERM...JC
+AVIATION...MET
+MARINE...JC/DR
+HYDROLOGY...JC/DR
+TIDES/COASTAL FLOODING...

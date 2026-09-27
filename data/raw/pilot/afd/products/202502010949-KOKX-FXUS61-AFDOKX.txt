@@ -1,0 +1,211 @@
+540 
+FXUS61 KOKX 010949
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+449 AM EST Sat Feb 1 2025
+
+.SYNOPSIS...
+Low pressure moves well out into the Northern Atlantic and
+deepens today. High pressure will build in today into tonight
+from the Great Lakes. This high pressure area will move offshore
+Sunday into Sunday night, eventually getting to southeast of the
+Canadian Maritimes. Low pressure approaches Sunday into Sunday
+night from Southeast Canada with its associated warm front
+moving across Sunday night. The warm front shifts north of the
+area Monday with an associated cold front moving across Monday
+night. High pressure will build from the northwest on Tuesday, 
+then move east on Wednesday as a complex frontal system 
+approaches from the southwest from later Wednesday into 
+Thursday. High pressure should return on Friday. 
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+Northerly flow starting to become gusty behind a departing wave
+of low pressure. Outside of perhaps some very light rain for
+eastern portions of the region into early this morning, the
+precipitation has ended. With drier air moving in on this
+northerly flow, fog will breakup and visibilities will continue
+to increase going into this morning.
+
+Temperatures have not changed too much but do expect some
+lowering going into this morning and then another decrease of
+temperatures this afternoon.
+
+High pressure from the Great Lakes will be building in through 
+the day. The relatively tight pressure gradient between this
+high pressure area and an area deepening low pressure out in the
+Northern Atlantic will create a gusty NW flow, advecting in
+colder air throughout the day. 
+
+Expecting actually colder temperatures this afternoon compared
+to this morning. Used a colder blend of guidance for high
+temperatures which will be set in the morning and range mainly
+in the low to upper 30s. Low 30s for the interior and upper 30s
+along the coast and within NYC.
+
+Some mid level ridging will allow for more subsidence and drying
+atmospheric column will make for a sunnier day. But with cold
+air advection, actual temperatures will be colder than the
+previous day and apparent temperatures will certainly feel much
+colder than the previous day. The highest the forecast wind 
+chills reach today is the upper teens to upper 20s. 
+
+&&
+
+.SHORT TERM /6 PM THIS EVENING THROUGH MONDAY NIGHT/...
+Expecting potentially 2 precipitation events during the short
+term. Temperatures colder for tonight and Sunday, then quickly
+rebound and moderate Sunday night through Monday night. 
+Temperatures average below normal tonight and Sunday, then above
+normal Sunday night, Monday, and Monday night.
+
+The mid level ridging continues tonight into early Sunday. A
+less amplified mid level shortwave moves across Sunday night.
+Nearly zonal flow follows in the mid levels Monday through
+Monday night. A strong shortwave approaches by early Tuesday but
+has much of its energy well north of the region.
+
+At 850mb, relatively colder air around -10 to -12 degrees C
+first half of tonight, increases overnight into Sunday. The
+increasing trend continues Sunday night into Monday with
+increasing SW to W winds, increasing the low level warm air
+advection. The temperatures decrease again Monday night.
+
+At the surface, high pressure continues building in tonight,
+with its center going to right north of the local area by early
+Sunday. Then, this high pressure area will eventually shift to
+more east of the region, getting out into the Gulf of Maine 
+late Sunday and southeast of the Canadian Maritimes Sunday 
+night.
+
+Meanwhile a complex low pressure area and associated frontal
+system will be approaching the region for Sunday night into
+Monday night. Associated warm front moves across Sunday night
+and associated cold front moves across Monday night. 
+
+Higher POPs and more precipitation are forecast with the warm
+front and much less with the cold front. The first precipitation
+event of this forecast for Sunday night could produce up to near
+1 to 1.5 inches of snow for the interior with little to no snow
+(less than 0.3 inches of snow) along the coast.
+
+Regarding temperatures, tonight with anticipated optimal
+radiational cooling conditions, used the relatively cooler MET
+guidance for lows tonight. This conveys a more vast range and is
+colder than the MAV guidance. Used a combination of MAV, MET,
+and NBM for high temperatures Sunday, more of NBM and raw model
+temperature blend Sunday night and then multiple blends of model
+data for temperatures Monday and Monday night.
+
+&&
+
+.LONG TERM /TUESDAY THROUGH FRIDAY/...
+Fairly good model consensus continues on a fast zonal flow aloft 
+over the CONUS, with an embedded shortwave trough bringing sensible 
+wx during mid to late week. After a cold frontal passage early Tue 
+AM, strong high pressure will build down from the NW for later Tue 
+into Wed, with colder air arriving by Tue night after a relatively 
+mild but brisk day with highs in the 40s. 
+
+Given the fast flow aloft have brought in precip chances well ahead 
+of deterministic model fcst, with chance of light snow Wed mainly in 
+the afternoon, and categorical PoP for Wed night/Thu AM. As the high 
+retreats and warmer air moves in especially aloft, partial 
+thicknesses suggest we should see a transition to a wintry mix, 
+becoming all rain for NYC metro/Long Island late Wed night and 
+throughout by daytime Thu, with temps on Thu rising to the upper 
+40s/lower 50s. Precip chances wane Thu night, with fair wx and temps 
+closer to the seasonal avg for for Fri. 
+
+&&
+
+.AVIATION /09Z SATURDAY THROUGH WEDNESDAY/...
+Deepening low pressure will move east of the area as strong high 
+pressure builds from the upper Great Lakes. 
+
+Widely varying cond attm, with LIFR cigs at KGON/KSWF and MVFR 
+elsewhere, as winds shift to the N behind the departing low. 
+
+VFR at most terminals by 13Z, taking longer at KISP/KGON to the east 
+and KSWF to the northwest (15Z-16Z). 
+
+NNW winds should increase 15-20 kt with gusts 25-30 kt. A few higher 
+gusts up to 35 kt are possible especially this morning. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Amendments still possible for timing of flight cat changes and 
+increase in N-NW winds. 
+
+.OUTLOOK FOR 06Z SUNDAY THROUGH WEDNESDAY...
+
+Late tonight: VFR. NW winds 10-15 kt with gusts 20-25kt early in the 
+evening, then diminishing.
+
+Sunday: Chance of MVFR or lower cond at night in rain and/or snow.
+
+Monday and Tuesday: VFR. 
+
+Wednesday: Chance of light snow with MVFR or lower cond mainly in 
+the afternoon. 
+
+Wednesday night: MVFR or lower cond likely. Precip type snow 
+initially, changing to a wintry mix in the evening, then to rain at 
+the NYC metro/Long Island terminals late. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+With the relatively tight pressure gradient between approaching
+high pressure from the north and west and deepening low pressure
+well to the north and east, a gusty NW flow will reach SCA
+levels for all waters throughout today. SCA already in effect on
+the ocean and after 6AM goes into effect for all forecast
+waters.
+
+The SCA continues into tonight with continued gusty NW winds.
+Non-ocean SCA extended until 8PM to account for frequent early
+evening gusts near 25 kt anticipated. Then, non-ocean waters go
+below SCA thresholds after 8PM while the ocean waters remain
+with SCA. Western ocean zone SCA goes until 1AM EST while the 
+the eastern ocean zones continue for the entire overnight.
+
+A relatively weak pressure gradient will keep conditions below
+SCA on all waters Sunday through Monday night.
+
+NW winds on Tue could gust close to 25 kt on the ern ocean waters 
+daytime Tue, otherwise sub SCA cond expected Tue-Wed.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns at this time.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 8 PM EST this evening for ANZ331-
+     332-335-338-340-345.
+     Small Craft Advisory until 6 AM EST Sunday for ANZ350-353.
+     Small Craft Advisory until 1 AM EST Sunday for ANZ355.
+
+&&
+
+$$
+
+SYNOPSIS...BG/JM
+NEAR TERM...JM
+SHORT TERM...JM
+LONG TERM...BG
+AVIATION...BG
+MARINE...BG/JM
+HYDROLOGY...BG/JM

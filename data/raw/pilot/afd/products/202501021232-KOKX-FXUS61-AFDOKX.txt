@@ -1,0 +1,195 @@
+241 
+FXUS61 KOKX 021232
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+732 AM EST Thu Jan 2 2025
+
+.SYNOPSIS...
+Strong low pressure will move northward into the Canadian Maritimes 
+today and then will retrograde into SE Canada tonight into Friday. A 
+disturbance moves through Friday into Friday night with weak high 
+pressure building in thereafter briefly for Saturday. High 
+pressure will remain to the south and west this weekend while 
+strong low pressure remains over Atlantic Canada. Another low 
+will pass to the south through the Mid Atlantic region late 
+Sunday night into Monday, followed again by high pressure 
+remaining to the south and west and low pressure across eastern 
+Canada.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Another windy day expected today into this evening. Wind gusts 
+reaching up to 40 to 50 mph across the region, maximum gusts 
+likely late morning through early evening with daytime mixing. 
+The pressure gradient will be tight between strong low pressure 
+moving northward into the Canadian Maritimes and high pressure 
+well to the southwest of the region.
+
+In addition, with mid level positive vorticity advection with a
+shortwave moving in, will have just enough moisture to give 
+sprinkles or snow flurries to the region for some locations. 
+The sprinkles or flurries will vary depending on temperatures 
+and ensuing wet bulb cooling. 
+
+High temperatures today from MOS consensus, mainly in the lower
+40s.
+
+More mid level zonal flow and leaning towards more negative
+vorticity advection tonight. Mainly dry conditions are expected.
+Boundary layer remains gusty, mitigating the low temperature
+range, mainly ranging from lower to upper 20s. By late evening
+and into overnight, expecting wind gusts to be decreasing more
+with gusts more in the 30 to 40 mph range.
+
+&&
+
+.SHORT TERM /FRIDAY THROUGH SATURDAY NIGHT/...
+More trough development expected in the mid levels Friday
+through Friday night. A strong shortwave moves south of the
+region Friday night.
+
+For Saturday, shortwave activity and positive vorticity remain
+active south of the region but may move near from the northwest
+Saturday night into early Sunday. Overall mid level flow across
+the region remains northwesterly.
+
+At the surface, low pressure retrogrades more within SE Canada
+Friday. However, another low moves across the Appalachians
+Friday and then further develops offshore well southeast of the
+local area Friday night. Then, weak high pressure briefly builds
+in for Saturday into Saturday night.
+
+Across the region, weather remains quite breezy and getting
+progressively colder. Not expecting advisory level winds, more
+in the 25 to 30 mph range for gusts. Forecast high temperatures
+for Friday are mainly in the mid 30s to near 40 and are mainly in
+the low to mid 30s for Saturday.
+
+&&
+
+.LONG TERM /SUNDAY THROUGH WEDNESDAY/...
+Key Points:
+
+* Cold with persistent NW flow through the period.
+
+* Some light snow is possible on Monday as low pressure passes to 
+  the south. 
+
+The big picture aloft late this weekend shows high latitude 
+blocking, with upper ridging across Greenland and a deep closed low 
+not too far from 50N/50W, also split flow across the western CONUS 
+with a broad upper ridge off the West Coast and a closed low moving 
+eastward in the southern stream through the Plains states. 
+
+Conds will be brisk/dry on Sunday with the area under a pressure 
+gradient between high pressure off the south/west and strong low 
+pressure over Atlantic Canada, then we should see at least a 
+glancing blow from the southern stream sys late Sunday night into 
+Mon. With northern stream energy remaining bottled up across Canada 
+this sys should remain progressive/weaker and keep moving eastward 
+through the Mid Atlantic region, close enough to forecast chance PoP 
+for light snow accumulation mainly for the NYC metro area and Long 
+Island for this time frame.
+
+The ECMWF suggests only light accumulations at most, but the model 
+has been trending slowly northward over the last several forecast 
+cycles, which could open the door to a worst-case advy level 
+snowfall for western Long Island through NYC metro and NE NJ, which 
+is being shown by the ensemble 90th percentile forecast. At any 
+rate, the axis of heavier snow with this system should remain 
+well south. 
+
+Dry/cold wx expected for Tue-Wed with persistent NW flow between 
+high pressure off to the SW and persistent low pressure over eastern 
+Canada.
+
+&&
+
+.AVIATION /13Z THURSDAY THROUGH MONDAY/...
+VFR as low pressure continues to move NE and away from the area
+overnight, and high pressure slides to the south and west
+daytime Thu into Thu night. 
+
+W flow 10-15 kt with G20-25kt should increase by 14Z to 15-25 
+kt with G35-40 kt. Winds gradually diminish after 23Z-24Z but 
+remain gusty. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Occasional G40kt possible today. 
+
+OUTLOOK FOR 12Z FRIDAY THROUGH MONDAY...
+
+Friday through Sunday: Mainly VFR. W winds G20-25kt. 
+
+Monday: Chance of light snow. MVFR cond likely, IFR possible at
+the NYC metros/KISP. 
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Low water advisories issued for the low tide cycle late today 
+into this evening. Blended TWL guidance suggests abnormally low
+water levels of 2 to 2.5 ft below MLLW along parts of NY Harbor
+and the western Sound. This could cause issues for moored boats
+and shallow water navigation. 
+
+Adjustments made to ocean gale warnings and some of the non-
+ocean water gale warnings. They go more into tonight. 
+
+By Friday, SCA conditions expected for most waters but NY Harbor
+and Western LI Sound will be more marginal for SCA as gusts
+there only reach near 20 kt.
+
+For Friday night, briefly sub-SCA for all waters. Then, SCA 
+conditions are forecast once again for all waters Saturday into 
+Saturday night.
+
+SCA cond on all waters daytime Sunday, with NW flow gusting to 
+25-30 kt and ocean seas 4-7 ft, should gradually abate Sunday 
+evening, with quiet cond on all waters late Sunday night into 
+Mon as low pressure passes to the south. Minimal SCA cond likely
+in the wake of this sys on the ocean, with NW flow once again 
+gusting to 25 kt and ocean seas approaching 5 ft farther 
+offshore.
+
+&&
+
+.HYDROLOGY...
+No significant hydrologic issues anticipated.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Wind Advisory until 10 PM EST this evening for CTZ005>012.
+NY...Wind Advisory until 10 PM EST this evening for NYZ067>075-
+     078>081-176>179.
+NJ...Wind Advisory until 10 PM EST this evening for NJZ002-004-006-
+     103>108.
+MARINE...Gale Warning until midnight EST tonight for ANZ331-335-340-345.
+     Gale Warning until 4 AM EST Friday for ANZ332-350-353.
+     Low Water Advisory from 7 PM to 9 PM EST this evening for 
+     ANZ335.
+     Gale Warning until 10 PM EST this evening for ANZ338.
+     Low Water Advisory from 4 PM this afternoon to 6 PM EST this 
+     evening for ANZ338.
+     Gale Warning until 1 AM EST Friday for ANZ355.
+
+&&
+
+$$
+
+SYNOPSIS...BG/JM
+NEAR TERM...JM
+SHORT TERM...JM
+LONG TERM...BG
+AVIATION...BG
+MARINE...BG/JM
+HYDROLOGY...BG/JM
+TIDES/COASTAL FLOODING...

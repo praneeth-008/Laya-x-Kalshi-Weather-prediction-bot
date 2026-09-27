@@ -1,0 +1,190 @@
+287 
+FXUS61 KOKX 011123
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+723 AM EDT Tue Apr 1 2025
+
+.SYNOPSIS...
+High pressure builds across the region through Wednesday. A 
+warm frontal passage occurs early Thursday. High pressure 
+briefly builds in from the north on Friday. A frontal boundary 
+near or over the region will bring unsettled conditions this 
+weekend. The front should begin moving offshore early next week.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+The cold front has pushed offshore. Lingering light rain across
+Long Island will also end quickly as drier air continues to work
+under a modest NW flow. Increasing NW winds with peak gusts 
+around 35 kt per obs and 20-30kt of wind modeled thru 3000 ft 
+agl. Subsidence should help keep the breeze going thru the aftn 
+hours, although the strongest flow should be before 18Z. Deep 
+mixing should produce the warmest temps at sea lvl today, 
+particularly the S facing coasts. Went with the NBM numbers for 
+highs. 
+
+High pres ridges into the area tngt, with the center of the high 
+strengthening over QC. Any significant mid clouds are modeled to 
+not reach the cwa until close to 12Z. Despite the weak pres grad, 
+this should help winds decouple for most areas overnight. As a 
+result, went with a blend of the MOS for low temps, which was colder 
+than the NBM.
+
+&&
+
+.SHORT TERM /WEDNESDAY THROUGH THURSDAY/...
+Return flow sets up on Wed with thickening mid and high clouds. With 
+the cool airmass reinforced by the llvl flow off the Atlc, highs in 
+the 40s per the NBM seemed reasonable. 
+
+Llvl moisture continues to increase Wed ngt ahead of an approaching 
+warm front. As the theta-e ridge builds in, chances for shwrs to 
+develop overnight, particularly late per the 00Z model timing. At 
+the same time, stratus and fog are likely to develop with the 
+advecting marine layer. 
+
+The warm front lifts or jumps thru the cwa on Thu. Another 20-plus 
+degree difference from W to E again as about 200-220 degree llvl 
+flow develops. E cstl areas could get quite breezy with the synoptic 
+flow enhanced by the differential heating component. Sustained winds 
+around 20kt with gusts around 30 possible. With the jet over Canada 
+and the sfc boundary N of the cwa, a completely dry aftn is possible 
+and the fcst pops reflect this.
+
+&&
+
+.LONG TERM /THURSDAY NIGHT THROUGH MONDAY/...
+Key Points:
+
+*Confidence is increasing for mainly dry conditions.
+
+*An unsettled pattern will then set up for the upcoming weekend with 
+potential of improvement early next week. 
+
+*Periods of showers are likely on Saturday and may continue at times 
+Sunday into Sunday night. 
+
+*Temperatures will generally run above normal through the period 
+with Saturday having the greatest potential for below normal. 
+
+Model guidance is slowly coming into better agreement for late this 
+week into early next week. The greatest uncertainty lies with the 
+exact timing and placement of a frontal boundary along with waves of 
+low pressure riding along it for the upcoming weekend. 
+
+The upper level pattern will consist of mean troughing over the 
+western CONUS with a strong ridge over the southeast and Western 
+Atlantic. The region will lie between these features with a series 
+of mid level shortwaves and associated pieces of energy passing 
+through into the weekend. The ridge looks to weaken late in the 
+weekend and especially early next week as the mean upper trough 
+settles over the eastern seaboard.
+
+The first low pressure will be moving across southeastern Canada 
+Thursday night helping to drag a cold front across the area. Showers 
+are possible with the passage of the front Thursday night. Rainfall 
+amounts on average should be a few hundredths to a few tenths. The 
+front then sags south on Friday as high pressure briefly builds down 
+from southern Canada. The high then retreats Friday night into 
+Saturday as the aforementioned frontal boundary begins approaching 
+as a warm front. The warm advection and energetic middle level flow 
+will support the likelihood of showers on Saturday. There may be some 
+weak waves along the front, which may continue the potential showers 
+into Saturday night. The modeling then diverges with the placement 
+of the warm front on Sunday. There is a chance the boundary lifts 
+over or just north of the area. It is also possible the boundary 
+stalls near or just south of Long Island. This results in greater 
+uncertainty with temperatures and degree of instability, if any, for 
+Sunday. The boundary lifting north could lead to an increase in 
+instability for a portion of the area and a chance for a few 
+thunderstorms. The boundary remaining south would likely limit 
+instability and any thunderstorm potential. For now have continue to 
+show a chance of showers through Sunday. Another wave of low 
+pressure may also form to our southwest at some point Sunday into 
+Sunday night and then pass over or near the area Sunday night. The 
+low should be able to drag the boundary offshore to start next week 
+with potential for improving conditions. The latest NBM probably 
+for greater than 1 inch of rain in any 24 hour period this weekend 
+is low and generally 10 percent or less.
+
+&&
+
+.AVIATION /12Z TUESDAY THROUGH SATURDAY/...
+High pressure then gradually builds in through Wednesday morning.
+
+Mainly VFR with any lingering MVFR ceilings improving through
+13z. 
+
+NW winds 15-20 kt with gusts 25-30 kt into early afternoon. A
+few peak gusts up to 35 kt possible this morning. Gusts will 
+begin to weaken after 19-20z and should end early this evening.
+NW winds will continue to weaken tonight, becoming N-NNE late
+tonight into early Wednesday morning with speeds under 10 kt. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+Gusts could be a few kt higher at times into the afternoon.
+
+End time of gusts early evening may be off by 1-2 hours. 
+
+.OUTLOOK FOR 12Z WEDNESDAY THROUGH SATURDAY...
+
+Wednesday: Mainly VFR during most of the day. MVFR or lower possible 
+at night with a chance of showers. SE wind gusts 15-20 kt afternoon 
+into evening near the coast. 
+
+Thursday: MVFR or lower with possible showers in the morning and 
+then again at night.  SW wind gusts 15-20kt, highest along the coast 
+day into evening.
+
+Friday: MVFR possible early, then VFR.
+
+Saturday: MVFR or lower with showers likely.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+A sca remains in effect for all waters today. Extended the end time 
+on the protected waters thru the day. There could be an ocnl gust to 
+35 kt thru around 14Z. The ocean stays at sca lvls tngt, then all 
+waters stay blw sca lvls for most of Wed. Winds and waves quickly 
+build Wed eve, with a sca likely needed on the ocean Wed ngt thru 
+Thu. Winds may be close to criteria elsewhere on Thu.
+
+Winds on the waters will remain below SCA levels Thursday night 
+through Saturday. Seas on the ocean will likely be 5-7ft Thursday 
+night, but should begin subsiding Friday morning with seas below 5 
+ft late Friday through Saturday.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts are expected through the upcoming weekend.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 5 PM EDT this afternoon for ANZ331-
+     332-335-338-340-345.
+     Small Craft Advisory until 6 AM EDT Wednesday for ANZ350-353-
+     355.
+
+&&
+
+$$
+
+SYNOPSIS...JMC/DS
+NEAR TERM...JMC
+SHORT TERM...JMC
+LONG TERM...DS
+AVIATION...DS
+MARINE...JMC/DS
+HYDROLOGY...JMC/DS

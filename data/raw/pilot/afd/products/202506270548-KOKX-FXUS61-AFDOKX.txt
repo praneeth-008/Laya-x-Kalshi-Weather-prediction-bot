@@ -1,0 +1,220 @@
+287 
+FXUS61 KOKX 270548
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+148 AM EDT Fri Jun 27 2025
+
+.SYNOPSIS...
+High pressure over New England will remain in control through 
+Friday. A warm front will then begin to approach Friday night, 
+lift through Saturday morning, and stall to the north. As a 
+frontal wave passes Saturday into Saturday night, the front will
+drift back south and stall over the area Sunday into Sunday 
+night. The warm front will surge north Monday into Tuesday in 
+response to a passing Canadian low. A cold front will pass 
+Tuesday night, followed by high pressure during mid week.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM THIS MORNING/...
+Just a slight chance of showers across southern and western
+sections of the forecast area with a weak shortwave providing
+some lift. Mostly cloudy otherwise with lows generally in the
+60s.
+
+&&
+
+.SHORT TERM /6 AM THIS MORNING THROUGH 6 PM SATURDAY/...
+Winds on Fri should veer more to the SE, with skies remaining 
+mostly cloudy and only the slight chance of an afternoon showers
+from NYC north/west. Do not expect much difference in high 
+temps compared to those of Thu afternoon, perhaps slightly 
+cooler across Long Island and slightly warmer across interior S 
+CT, with highs generally 70-75.
+
+With the approach of the warm front Fri night, expect a non- 
+diurnal temp curve, with evening lows in the lower/mid 60s. then
+temps remaining steady or slowly rising overnight to the 
+mid/upper 60s, with dewpoints also following suit. Also expect 
+chance of showers and possible tstms with the approaching front,
+and some patchy fog along the coast.
+
+&&
+
+.LONG TERM /SATURDAY NIGHT THROUGH THURSDAY/...
+Key Messages:
+
+* Warmer temperatures from a warm front Saturday. 
+
+* Showers and thunderstorms with brief heavy downpours Saturday
+  into Saturday night. 
+
+* Mostly dry Sunday into early Monday.
+
+* Unsettled weather returns late Monday into Tuesday night. 
+
+* Drying out mid-week next week.
+
+On Saturday, a warm front that was stalled to our south advances 
+through in the morning and stalls to our north in the afternoon.
+This will lead to southerly flow that will advect in warmer, 
+wetter air. Confidence in the warm front's passage has been low 
+confidence prior to this, but most 12Z guidance now agrees on 
+its passage north through our area. High temperatures have been 
+adjusted slightly higher than the deterministic NBM (which is 
+still on the cool side around the 25th percentile). Highs on 
+Saturday are now forecast to be in the upper-80s for 
+southwestern portions of the CWA (near NYC and NE NJ) and are in
+the low-80s/upper-70s for northeastern portions of the CWA 
+(near SE CT). 
+
+As the warm front passes on Saturday, a frontal wave passes to 
+our north. This occurs in tandem with a mid-level shortwave that
+increases upper-level energy aloft. Given warmer temperatures 
+and higher dewpoints, scattered to numerous showers and 
+thunderstorms are forecast Saturday into Saturday night. Some of
+which could produce brief heavy downpours. Therefore, WPC has 
+gone with a marginal risk for excessive rainfall for areas N & W
+of NYC where some of the best dynamics are expected. MLCAPE 
+could peak to around 2000-2500 J/kg in this area. Given warm 
+temperatures and ample moisture, this could lead to efficient 
+rainfall rates. In addition to available instability, expected 
+shear and sounding profiles look conducive for possible isolated
+severe weather N&W of NYC Saturday evening, and possibly 
+extending east of NYC. Primary risk would be for damaging winds.
+As a result, SPC has issued a marginal risk for severe weather 
+for the western half of our CWA. 
+
+The warm front advances back south Saturday night. This front 
+then stalls over the area Sunday into Sunday night. Weak high 
+pressure takes hold during this period as the frontal wave exits
+northeast. This period will be mainly dry, though an isolated 
+shower can not be ruled out. Temperatures have been forecasted 
+closer to the NBM given slight variations in where Saturday 
+morning and stalls north. A frontal wave passes Saturday into 
+Saturday night. Saturday night, the warm front pushes back south
+and stalls over our area Sunday into Sunday night with weak 
+high pressure present. We'll be warm sectored as the warm front 
+surges north Monday in response to a passing Canadian low. This 
+lasts into Tuesday until a cold front passes Tuesday night. High
+the front stalls over us on Sunday among available 12Z 
+guidance. 
+
+The stalled front surges back north as a warm front Monday, 
+being captured by an occluded Canadian low and mid-level 
+shortwave. This leaves us warm-sectored until a cold front 
+passes Tuesday night. Expecting more unsettled weather through 
+this timeframe.
+
+Following the cold front Tuesday night, high pressure takes 
+hold again, leaving us dry for the middle of the week. 
+Temperatures are currently forecast to remain around or slightly
+above climatological norms Sunday through mid-week next week.
+
+&&
+
+.AVIATION /06Z FRIDAY THROUGH TUESDAY/...
+High pressure builds in from the northeast overnight into Friday,
+as a frontal boundary remains draped to the south over the Mid 
+Atlantic.
+
+Marginal MVFR cigs develop overnight into early morning at most
+terminals, with improvement expected by 15Z Fri. Cigs then lower
+once again after 3Z Sat, with light rain developing from west to
+east. Cigs and potentially vsbys go IFR into Sat AM.
+
+Winds remain E to NE through the overnight and morning, with 
+gusts developing by mid morning, likely remaining less than 
+20 kt. Winds gradually veer SE into the afternoon, with gusts
+diminishing by 00Z Sat.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Amendments possible for timing of MVFR cigs into early Friday 
+morning, and then for the timing of improvement back to VFR.
+
+Gusts on Friday may be more occasional at times.
+
+.OUTLOOK FOR 06Z SATURDAY THROUGH TUESDAY... 
+
+Late Friday night: MVFR ceilings early, lowering to IFR late. 
+Vsby restrictions also likely late.
+
+Saturday: IFR or lower in the morning. Showers likely with a
+chance of thunderstorms and MVFR in the afternoon and evening.
+
+Sunday and Monday: Mainly VFR. A chance of showers and
+thunderstorms late Monday afternoon.
+
+Monday night and Tuesday: Showers and thunderstorms with MVFR
+possible, especially Tuesday afternoon and evening. 
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+SCA remains in effect for the ocean waters and has been extended
+into Fri night. Seas 4-5 ft should peak at 5-7 ft from very 
+late tonight into Fri morning while persistent E flow increases
+to 20-25 kt. Winds drop below 25 kt by Fri afternoon, but seas
+should take until late Fri night to subside below 5 ft.
+
+&&
+
+.HYDROLOGY...
+Brief heavy downpours are possible late Saturday into Saturday
+night, and could lead to isolated instances of nuisance 
+flooding in urban, low lying, and/or poor drainage locations.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+Coastal Flood Advisories are in effect for tonight's high tide
+cycle along the shorelines of NY Harbor, Jamaica Bay, and S 
+Nassau, well as along the western Sound in Westchester and 
+Fairfield in SW CT, with up to a foot of inundation expected. 
+
+Coastal Flood Statement was also issued for up to a half foot 
+of inundation along the vulnerable areas along the Peconic and 
+Shinnecock Bays. Water levels near Riverhead could be locally 
+higher, with up to a foot of inundation possible there. 
+
+Additional spotty minor coastal flooding is possible again
+during the Friday evening high tide cycle, as water levels come
+down slightly. 
+
+There is a high rip current risk for all south shore Long Island
+and NYC beaches Friday. Surf heights of 3-3.5 feet with a long
+shore current will lead to this high risk. Surf height lowers to
+2 feet on Saturday with onshore flow, so the rip current risk 
+will lower to moderate on Saturday.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Coastal Flood Advisory until 3 AM EDT early this morning for 
+     CTZ009.
+NY...Coastal Flood Advisory until 3 AM EDT early this morning for 
+     NYZ071.
+     High Risk for Rip Currents from 6 AM EDT this morning through this 
+     evening for NYZ075-080-081-178-179.
+NJ...None.
+MARINE...Small Craft Advisory until 6 AM EDT Saturday for ANZ350-353-
+     355.
+
+&&
+
+$$
+
+SYNOPSIS...BG/BR
+NEAR TERM...JC/BG
+SHORT TERM...BG 
+LONG TERM...BR 
+AVIATION...DR/MET 
+MARINE...BG/BR 
+HYDROLOGY...BG/BR 
+TIDES/COASTAL FLOODING...

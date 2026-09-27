@@ -1,0 +1,149 @@
+549 
+FXUS61 KOKX 140549
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+149 AM EDT Mon Apr 14 2025
+
+.SYNOPSIS...
+Weak high pressure will build from the west through Monday. A cold
+front will follow from Monday night into Tuesday, and a secondary
+cold front will move through Tuesday night. High pressure passing
+to the south Wednesday and Thursday will move offshore on Friday
+as another frontal system approaches. This system will impact
+the region from Friday night into Saturday night. High pressure
+will return for Sunday.
+
+&&
+
+.NEAR TERM /THROUGH TODAY/...
+As high pressure begins to build to the west, a drier NW flow 
+will continue, becoming SW-S Mon afternoon. An upper level 
+ridge will build overhead after midnight and continue through 
+much of the day on Monday. This will be accompanied by weak 
+surface high pressure that will keep Monday dry and skies mostly
+clear. The ridge will start to slide east of the area late 
+Monday evening. After low temps tonight from the upper 30s to
+mid 40s, highs on Mon will be in the 60s.
+
+&&
+
+.SHORT TERM /TONIGHT THROUGH 6 PM TUESDAY/...
+Monday night, another upper level trough approaches from the 
+west. The associated surface low over the Great Lakes region 
+will push a cold front into the area. This front is expected to 
+bring another round of rain showers to the region. There may 
+also be a few rumbles of thunder however, confidence is not high
+on any convection. Any thunder would be isolated.
+
+While Tuesday should remain mostly dry, some additional shower 
+activity will be possible as a secondary cold front move across 
+the region. High temperatures on Tuesday will be in the low to 
+middle 60s.
+
+&&
+
+.LONG TERM /TUESDAY NIGHT THROUGH SUNDAY/...
+Tranquil conditions expected for much of the long term as a dry 
+secondary cold front moves through the region Tuesday night.
+High pressure then dominates into Friday. Another frontal system 
+impacts the area Friday night into Saturday night, with high 
+pressure returning Sunday.
+
+Meanwhile, an upper level trough moves through the northeast into 
+early Wednesday morning, with heights beginning to rise Wednesday 
+as the trough axis moves offshore. This is a little slower than 
+previous forecasts. A building region to the west Wednesday into 
+Thursday weakens and moves through Thursday night into Friday 
+morning. Another trough approaches Friday night and moves through, 
+mainly to the north, Saturday night.
+
+Generally used the NBM deterministic guidance with only leaning 
+toward the 90th percentile for winds and gusts late Tuesday night 
+into Wednesday night in the wake of the secondary cold front. While a 
+cooler airmass moves in with the front, and a cyclonic flow remains 
+into Wednesday, temperatures have trended upward a few degrees, 
+with temperatures now about 2 to 8 degrees below normal. 
+Temperatures return to above normal Friday as high pressure along 
+the Carolina coast moves slowly offshore and a return flow 
+strengthens, and remain well above into Saturday as another frontal 
+system impacts the region.
+
+&&
+
+.AVIATION /06Z MONDAY THROUGH FRIDAY/...
+VFR as weak weak high pressure builds from the west. A cold
+front moves through tonight. 
+
+NW winds less than 10 kt should gradually shift to W and then 
+SW by Monday morning, and increase to 10-15 kt mainly closer to
+the coast in the afternoon, with a more southerly sea breeze 
+possible in spots. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+No unscheduled amendments expected. Late day, after 20Z, sea breeze 
+possible.
+
+
+.OUTLOOK FOR 06Z TUESDAY THROUGH FRIDAY...
+
+Tonight: MVFR or possibly lower in showers, mainly late 
+(towards daybreak Tuesday).
+
+Tuesday: Mainly VFR. W winds G20-25kt.
+
+Wednesday: VFR. WNW winds G25-30kt. 
+
+Thursday: VFR. NW winds G15-20kt.
+
+Friday: VFR. Chance of showers at night. 
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Sub SCA conditions should prevail through at least Tue morning.
+Seas may start to build close to 5 ft on the eastern ocean
+waters late Tuesday afternoon with the passage of a cold front. 
+
+SCA cond are possible on the forecast waters, especially on the
+ocean, from Tuesday night through Wednesday evening in the wake
+of a secondary cold front passage Tuesday night. Conditions 
+will be subsiding across the non ocean waters later Wednesday 
+night as low pressure well to the north slowly weakens and high 
+pressure builds in from the west. On the ocean waters SCA 
+conditions will be ending late Wednesday night into early 
+Thursday morning. Once conditions fall below advisory tranquil 
+conditions will remain on the waters through Friday evening. 
+Late Friday night/toward Saturday morning SCA conditions may be 
+developing on the ocean waters as a southerly flow increases 
+ahead of an approaching frontal system.
+
+&&
+
+.HYDROLOGY...
+No significant hydrologic impacts expected.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...BC/BG/MET
+NEAR TERM...BC/BG/MET
+SHORT TERM...BC
+LONG TERM...MET
+AVIATION...JP
+MARINE...BC/BG/MET
+HYDROLOGY...BC/MET

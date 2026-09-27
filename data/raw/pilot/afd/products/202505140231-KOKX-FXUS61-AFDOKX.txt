@@ -1,0 +1,215 @@
+292 
+FXUS61 KOKX 140231
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1031 PM EDT Tue May 13 2025
+
+.SYNOPSIS...
+Low pressure will slowly drift closer through Wednesday before
+weakening into Thursday. Another frontal system will move across
+from Friday into Saturday. High pressure will gradually return early
+next week as low pressure lingers just east of New England. 
+
+&&
+
+.NEAR TERM /THROUGH WEDNESDAY/...
+Forecast remains on track this evening. Made some minor 
+adjustments to slow down timing of higher PoPs overnight. This 
+is due to lingering surface ridging and dry air impacting the 
+progression of the showers. 
+
+A closed upper level low over the Ohio and TN valleys and Western 
+Appalachians will slowly draw closer throughout the course of 
+tonight. At the same time a high pressure ridge off the New England 
+coast which has been holding will edge further off shore. This 
+gradually paves the way for increased forcing to slowly work in from 
+the WSW. An onshore E flow will continue through tonight. 
+Increased convergence towards the frontal boundary nearby will 
+result in an overall increase in shower coverage, but this may
+not occur to very late tonight or even early Wednesday morning.
+Otherwise, a mild night with cloud cover and an onshore flow 
+results in above average temperatures with lows in the middle 
+and upper 50s, to around 60 in the metro.
+
+During Wednesday look for the steadiest rain to arrive for most of 
+the area during the morning and a portion of the afternoon. What 
+drives the vertical motion leading to more enhanced shower / rain 
+activity will be increased warm advection at 850 mb. Further east 
+and northeast more widespread and consistent rain will arrive into 
+the afternoon and into Wednesday evening. There do remain some 
+timing difference among the various HREF members and high res 
+guidance. BUFKIT soundings are not very suggestive of thunder for 
+the most part early on, with only the slightest hint of elevated 
+instability. Showalter indices approach zero late in the day and 
+perhaps this is the greatest chance at seeing some quasi-embedded 
+convective elements in the precip shield. Thus, carried only slight 
+chance thunder mainly for the southern 2/3 of the area into 
+Wednesday and Wednesday night.
+
+&&
+
+.SHORT TERM /WEDNESDAY NIGHT THROUGH THURSDAY/...
+During Wednesday night the more widespread rain / shower activity 
+should decrease in coverage for the most part. But with the upper 
+level portion of the disturbance moving slowly and any vorticity 
+becoming concentric with PVA decreasing look for shower activity 
+coverage overall to decrease, especially later at night. The surface 
+low should continue to slowly weaken in response to the upper level 
+trough deamplifying. With cloud cover and a moist SE to E low level 
+flow continuing temperatures will remain elevated with lows once 
+again in the upper half of the 50s to around 60.
+
+On Thursday clouds linger with the remnants of the sfc low remaining 
+to the immediate south. With the lack of a true forcing mechanism 
+look for just a chance of scattered to isolated shower activity. 
+Cannot rule out an isolated thunderstorm or two. The day however 
+does not appear to be a washout with an overall decrease in shower 
+activity from the previous 24 hours. Temperatures with the onshore 
+flow continuing will range from the upper 60s to lower 70s, near 
+normal for this time of year.
+
+&&
+
+.LONG TERM /THURSDAY NIGHT THROUGH TUESDAY/...
+Key Points:
+
+* An unsettled weather regime likely continues through the 
+  upcoming weekend, potentially next Monday.
+ 
+* It will not be a washout Friday and Saturday despite chances 
+  for showers (possibly a thunderstorm each afternoon and 
+  evening).
+
+* Diurnally driven isolated to scattered showers remain 
+  possible Sunday and Monday afternoon.
+
+* Temperatures will mainly run above normal through early next 
+  week. 
+
+A blocky synoptic pattern will continue through early next week.
+The upper trough/upper low that impacts the area midweek will 
+continue to weaken as it slides across the northeast Thursday night. 
+Another upper low and associated trough over the Northern Plains 
+will then gradually slide eastward towards the Great Lakes Friday 
+into Saturday and then move across New England late this weekend. 
+Surface low pressure over the Northern Plains on Friday will send a 
+warm front across the area. Shortwave energy associated with the 
+front is weak and dampened out by ridging over the eastern seaboard. 
+Have largely capped PoPs off at chance with potential of showers 
+mainly Friday afternoon and evening. Some CAPE may be available for 
+a slight chance of thunder. Low pressure weakens as it moves towards 
+the region this weekend due to the system becoming vertically 
+stacked. The associated cold front will likely move across the 
+region late Saturday into Saturday night. This will bring additional 
+chances for showers and possibly a few thunderstorms as 
+probabilities for SBCAPE to exceed 500 J/kg are higher in the NBM. 
+The highest probabilities for precip and thunder currently exist 
+north and west of the NYC metro. 
+
+The lingering upper low and surface system should push offshore 
+Sunday into early next week. Cyclonic flow and potential of a 
+lingering cold pool aloft may support diurnally driven isolated to 
+scattered showers Sunday and Monday afternoons. The upper low and 
+trough may linger offshore next Tuesday with ridging building just 
+to our west. Given a consensus of building heights aloft, have kept 
+the forecast dry for next Tuesday and went slightly lower than the 
+NBM PoPs. 
+
+Temperatures will be in the upper 70s to around 80 away from the 
+immediate coast, with low to middle 70s along the coast, Friday and 
+Saturday. Westerly flow on Sunday should allow the entire area to 
+reach the middle and upper 70s. Temperatures trend a bit cooler 
+early next week, but still may remain above normal, especially on 
+Monday.
+
+&&
+
+.AVIATION /03Z WEDNESDAY THROUGH SUNDAY/...
+A weak frontal boundary will remain nearly stationary into
+tonight near the NYC metro terminals while weak low pressure 
+approaches from the south. 
+
+VFR or MVFR to start at most terminals. Earlier rain showers 
+had dissipated for the most part, but a more organized band
+should move into the NYC metro area this evening and slowly
+overspread the rest of the area overnight into daytime Wed, with
+slight chance of thunder daytime Wed as well. Flight cat should
+deteriorate to IFR at the NYC metros after 02Z-03Z and at 
+points farther north/east after 05Z-06Z, and remain that way 
+through the rest of the fcst period. LIFR cigs are possible 
+mainly at the coastal terminals from very late tonight into most
+of Wed morning. 
+
+Winds should be either side of 10 kt through tonight, then 
+10-15 kt with gusts over 20 kt daytime Wed. Direction will 
+generally be from the E or ESE.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Timing of lower cigs will likely require amendment. 
+
+.OUTLOOK FOR 00Z THURSDAY THROUGH SATURDAY...
+
+Wednesday night: Low stratus/fog with IFR/LIFR cond at times. 
+Periods of rain with slight chance of tstms. 
+
+Thursday: MVFR possible with chance of showers and possibly 
+a tstm. 
+
+Friday and Saturday: Chance of MVFR and showers. Slight chance
+of tstms each afternoon into early evening. 
+
+Sunday...Mainly VFR. 
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Sub advisory conditions continue through tonight. However, ocean 
+seas begin to build during Wednesday with small craft conditions 
+developing from west to east across the ocean waters along with
+gusts for portions of the ocean gusting to 25 kt. Ocean seas 
+will range primarily from 5 to 6 feet with small craft seas 
+likely lingering through the day Thursday.
+
+Conditions will be below SCA levels by Thursday night, and
+remain so into the upcoming weekend with a relatively weak 
+pressure gradient over the waters.
+
+&&
+
+.HYDROLOGY...
+There are no concerns at this time regarding hydrologic impacts from 
+rainfall tonight through Thursday with around 1 inch of rainfall 
+expected across western and southwestern portions of the area. Lower 
+rainfall totals are expected across the remainder of the area.
+
+There are also no hydrologic concerns Thursday night through 
+early next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory from 11 AM Wednesday to 6 PM EDT Thursday 
+     for ANZ350.
+     Small Craft Advisory from 6 AM Wednesday to 6 PM EDT Thursday 
+     for ANZ353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JE/BG/DS
+NEAR TERM...JE/BG/DS
+SHORT TERM...JE/BG
+LONG TERM...DS
+AVIATION...BG
+MARINE...JE/BG/DS
+HYDROLOGY...JE/DS

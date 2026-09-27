@@ -1,0 +1,163 @@
+121 
+FXUS61 KOKX 010404
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1204 AM EDT Fri Aug 1 2025
+
+.SYNOPSIS...
+A wave of low pressure travels along a slow moving frontal 
+boundary through this morning. High pressure builds in behind 
+the exiting system later today and remains in control through 
+the first half of next week. Unsettled weather may return by 
+late next week.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM FRIDAY MORNING/...
+With the frontal boundary getting just south of Long Island the
+northeast flow picks up a bit more overnight with a more stable
+environment. The last of any meaningful rainfall lifts out 
+during the next few hours, with quarter inch rainfall rates or 
+thereabouts still lingering but exiting the northern most 
+portions of Southern CT. Also the last pulse of moderate rain / 
+rain showers sweeps across southeastern portions of the CWA 
+(mainly LI) over the next couple of hours. Otherwise the area 
+will be left with a lighter and more stratiform rain for the 
+remainder of the overnight. NW portions of the CWA completely 
+dry out towards daybreak. NE winds will be gusty, especially 
+further east and closer to the coast for the remainder of the 
+overnight into the early morning hours. With the front now 
+getting a bit further south have lowered dew point and 
+temperatures slightly in the forecast hourly database for the 
+next few hours. Less of a muggy feel, but still damp with 
+showers / light rain with low temperatures down to mainly 60 to 
+65.
+
+&&
+
+.SHORT TERM /6 AM FRIDAY MORNING THROUGH FRIDAY NIGHT/...
+The front will continue to gradually sink south during the day 
+on Friday as the low exits to the east. Any lingering rainfall 
+Friday morning will come to an end, with likely only a few 
+lingering showers across far eastern Long Island and southeast 
+Connecticut by afternoon. Skies will clear through the day as 
+high pressure begins to build in from the northwest. 
+
+Temperatures will be noticeably cooler on Friday, with highs
+only rising into the mid 70s. Under mostly clear skies, 
+overnight lows will range from the mid 50s in typically colder 
+outlying locations to the mid 60s in NYC.
+
+&&
+
+.LONG TERM /SATURDAY THROUGH THURSDAY/...
+Surface high pressure and zonal flow aloft will result in dry
+weather and seasonable temperatures through at least Tuesday.
+Thereafter, an upper trough over the Midwest begins to push east
+towards the region on Wednesday, with rain chances returning to
+the area Wednesday night into Thursday.
+
+Followed the NBM with little change during this period.
+
+&&
+
+.AVIATION /04Z FRIDAY THROUGH TUESDAY/...
+A cold front will be situated south of the area through Friday
+morning. High pressure begins to build in Friday afternoon.
+
+Expect MVFR conditions to possibly transition to high end IFR 
+tonight as showers move through the forecast area. There is a 
+good deal of uncertainty in the visibility forecast, but 
+visibility should lower when a heavier shower moves through. 
+Conditions slowly improve Friday morning, and more so Friday 
+afternoon with a return to VFR as the cold front slowly moves 
+offshore and then high pressure builds in behind it.
+
+NNE to ENE winds 10-20 kts with gusts to around 25 kts to start
+out. Gusts may be more occasional through 04Z. Winds shift more
+to the NE tonight and are expected to remain gusty into early 
+Friday afternoon before diminishing by mid to late afternoon. 
+
+
+  NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Amendments likely for changes in flight rule categories through
+Friday morning. Gusts may be more occasional through 04Z.
+
+.OUTLOOK FOR 00Z SATURDAY THROUGH TUESDAY... 
+
+Friday night: VFR. NE winds around 10 kt with gusts to around 15
+kt early.
+
+Saturday-Tuesday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+A Small Craft Advisory remains in effect on all waters through 
+Friday evening. Winds will become ENE this evening and increase,
+with gusts to around 30 kt expected on the ocean waters and 25 
+kt elsewhere. Seas will also begin to build, reaching 5 ft on 
+the ocean by daybreak Friday. Winds will subside Friday evening,
+but seas could remain elevated through Saturday morning. 
+Thereafter, sub-SCA conditions are expected on all waters 
+through early next week as high pressure remains in control.
+
+&&
+
+.HYDROLOGY...
+Widespread rainfall amounts of 1/2 to 2 inches with scattered 
+amounts of 3-4" have been observed across NE NJ, NYC, and Long 
+Island this afternoon from the heavy rainfall and pockets of
+flash flooding observed earlier. However, the risk of additional
+heavy rainfall and flooding has since ended. Any additional
+rainfall will be light to occasionally moderate with peak hourly
+rainfall rates generally under a quarter inch and decreasing
+through the night.
+
+Dry weather returns Friday night with no hydrologic concerns 
+through early next week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+There is moderate to high risk for rip current development at 
+the ocean beachfront, predominantly from a strong e to w 
+longshore current from 5-7ft ENE wind waves. This will 
+generally only produce a 1 to 3 ft breaking surf. A high risk 
+has been forecast for the eastern LI beaches, based on 
+climatology, and likely higher breaking wave in the 2 to 4 ft 
+range with a bit more orthogonal impact. 
+
+Wind swell is expected to subside a bit on Saturday, but 
+becoming a bit more due easterly, maintaining a moderate to 
+high risk of rip current development along the ocean beaches and
+a more widespread 2 to 3 ft breaking surf.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...High Risk for Rip Currents from 6 AM EDT Friday through Friday 
+     evening for NYZ081.
+NJ...None.
+MARINE...Small Craft Advisory until 8 PM EDT Friday for ANZ331-332-335-
+     338-340-345-350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...FEB
+NEAR TERM...FEB/JE/JM
+SHORT TERM...FEB
+LONG TERM...FEB
+AVIATION...JP
+MARINE...FEB
+HYDROLOGY...FEB/JM
+TIDES/COASTAL FLOODING...

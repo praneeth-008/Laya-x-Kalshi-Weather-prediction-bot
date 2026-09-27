@@ -1,0 +1,205 @@
+503 
+FXUS61 KOKX 161453
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1053 AM EDT Mon Jun 16 2025
+
+.SYNOPSIS...
+High pressure gradually weakens and shifts farther east through 
+Tuesday as a stalled frontal boundary remains well to our south. The 
+boundary eventually lifts north as a warm front, moving through the 
+area sometime Wednesday. A cold front moves through the region 
+Thursday night. High pressure will then be in control Friday 
+through the upcoming weekend.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Not much change with the surface features today. High pressure 
+continues to nose in from the northeast and may just shift/weaken 
+slightly. A stalled frontal boundary remains well offshore. Aloft, 
+heights look to rise slightly as shortwave ridging builds in.
+
+Continues to be a tough precip forecast as Sunday seemed to 
+overperform a bit. There is plenty of moisture around in the low 
+levels, specifically for western LI, NYC and northeast NJ which is 
+farther away from the high pressure influence. The question just 
+remains if there is enough lift around again today. Weak convergence 
+in the low levels may be enough for light rain so have kept slight 
+chances in the forecast.
+
+Plenty of clouds around again today, with some breaks of sun 
+possible for eastern CT once again. Given very little change in 
+flow, cloud cover and airmass today, blended in Sunday's observed 
+highs with NBM and 10th percentile NBM highs. This gave just a few 
+degrees warmer than Sunday. Stuck with straight NBM for lows tonight 
+with radiational cooling not expected.
+
+&&
+
+.SHORT TERM /TUESDAY THROUGH WEDNESDAY NIGHT/...
+High pressure weakens further on Tuesday and the flow becomes more 
+southeasterly. Additionally, some shortwave energy approaches aloft. 
+With plenty of moisture still around this will allow for shower 
+activity, mainly north and west of NYC. Given clouds and potential 
+showers went with the cooler side of NBM guidance for highs.
+
+Some uncertainty as we head into Wednesday morning with an 
+approaching warm front and potential wave of low pressure. Pwats
+surge Wednesday morning, with new 00z guidance a tad lower but 
+still well above average for this time of year, about 2 inches. 
+Guidance has also come in with a less potent shortwave and less
+QPF than runs 24 hours ago. This is good news for any sort of 
+heavy rainfall threat, but heavier downpours with any showers 
+can not be ruled out. It looks like there is then potential for 
+another shortwave to approach later in the afternoon/evening. 
+This could trigger more showers and thunderstorms, especially 
+given the destabilization that is expected to take place during 
+the day. It is worth noting that the CSU machine learning severe
+outlook product does have western portions of our area outlined
+in a 5% risk for damaging winds.
+
+With the warm front pushing through, a deep W/SW flow and some 
+clearing, temperatures will likely be back up in the 80s across the 
+area. Although we may be clear Wednesday night, the moist 
+airmass will likely keep temperatures from dropping below the 
+upper 60s.
+
+&&
+
+.LONG TERM /THURSDAY THROUGH SUNDAY/...
+Timing of a cold frontal passage through the region remains 
+consistent from previous forecasts, with the passage expected 
+Thursday night. An amplifying shortwave moves out of the upper 
+Midwest Thursday and tracks across the region Thursday night into 
+Friday morning. And a cold front moves through the region Thursday 
+night. With a warm and humid airmass in place for Thursday, and a 
+vigorous vort max passing mainly to the north, showers and 
+thunderstorms will become likely across the the lower Hudson Valley 
+and into northeastern New Jersey Thursday afternoon. Surface CAPE 
+increases to 1500 to around 2000 J/kg by late Thursday afternoon 
+with shear 25 to 30kt. And atmospheric profiles show inverted V with 
+a low level jet. Strong to locally severe thunderstorms will be 
+possible late day into the early evening across these areas with 
+damaging winds the main threat, and the Storm Prediction Center 
+continues to highlight a 15% outlook for severe weather into Western 
+Orange county, and into portions of western northeast New Jersey. 
+Brief periods of heavy rainfall will also be possible with the 
+storms, however, the threat of flooding is expected to be minimal 
+with the quick movement of the storms and no training of cells 
+expected. 
+
+Otherwise, the remainder of the extended period will be generally 
+quiet, except for a slight chance of thunderstorms inland Sunday 
+afternoon as a surface trough develops and becomes the focus for 
+lift. Temperatures will be above average Thursday into the upcoming 
+weekend.
+
+&&
+
+.AVIATION /15Z MONDAY THROUGH FRIDAY/...
+A weak ridge of high pressure remains across the terminals and a 
+stationary front will remain off to the south with waves of low 
+pressure along it. The front begins to move north as a warm front 
+during Tuesday.
+
+There remains a few pockets of low end VFR for a few northeastern 
+terminals into a portion of this afternoon, otherwise widespread 
+MVFR, with pockets of IFR prevail. There will be occasional pockets 
+light rain or drizzle throughout the day and into this evening for 
+some terminals, mainly at the NYC metro terminals and across Long 
+Island. Low confidence forecast continues through today and tonight 
+with regard to the timing of specific flight categories, especially 
+for this afternoon and early this evening. Confidence increases for 
+widespread IFR, and LIFR for the city and coastal terminals 
+overnight. Very little to no improvement is anticipated during 
+Tuesday morning.
+
+Winds will generally be E to NE 7-13kt this afternoon, with a few 
+gusts possible across eastern most coastal terminals. The winds 
+overall will be lighter tonight, generally closer to 5 kt or 
+slightly less late.
+
+
+    NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Low confidence with exact flight categories and specific timing 
+through this evening.
+
+Amendments likely for flight category changes through tonight.
+
+Periods of light rain or drizzle through this afternoon, with no 
+specific timing.
+
+
+.OUTLOOK FOR 12Z TUESDAY THROUGH FRIDAY... 
+
+Tuesday: IFR, with some pockets of MVFR likely. A chance of showers, 
+mainly at night.
+
+Wednesday: Chance of IFR in the morning, otherwise VFR. A chance of 
+showers and thunderstorms with MVFR. 
+
+Thursday: VFR. Chance of afternoon/evening showers and thunderstorms 
+with MVFR.
+
+Friday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+A weak pressure gradient will result in winds and waves remaining 
+below Small Craft Advisory criteria through Wednesday night.
+
+Ocean seas east of Moriches Inlet may briefly reach SCA levels 
+Thursday evening as southwest winds ahead of a cold front increase. 
+Otherwise winds and seas will remain below advisory levels across 
+the forecast waters Thursday through Friday night.
+
+&&
+
+.HYDROLOGY...
+At this time there are no hydrologic concerns through the
+Wednesday night.
+
+Locally heavy downpours will be possible in any thunderstorms 
+Thursday afternoon into the evening across portions of the lower 
+Hudson Valley and into northeastern New Jersey with a moisture laden 
+atmosphere in place and warm cloud processes dominating. However, 
+the risk of flooding will be mitigated by the speed of any cells and 
+lack of overall cell training.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+Rip current risk remains at moderate for today and Tuesday. While 
+winds will be mainly parallel to the coast, the resultant 4 ft 8s 
+wave will be enough for a moderate risk. The winds become a bit more 
+southeasterly on Tuesday and with the onshore component expecting 
+moderate again.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...MET/JT
+NEAR TERM...JT
+SHORT TERM...JT
+LONG TERM...MET
+AVIATION...JE
+MARINE...MET/JT
+HYDROLOGY...MET/JT
+TIDES/COASTAL FLOODING...

@@ -1,0 +1,225 @@
+665 
+FXUS61 KOKX 050843
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+343 AM EST Wed Mar 5 2025
+
+.SYNOPSIS...
+Deepening low pressure will track to our north and west and send a 
+pre-frontal trough through the area this evening and then a 
+cold front Thursday morning. The low slowly departs to the 
+northeast through Friday. A weak frontal system then passes 
+nearby on Saturday. Another low pressure system should pass well
+to the south on Sunday as weak high pressure moves in through 
+early next week.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Deepening low pressure approaches from the west today. It is 
+currently located over the Middle Mississippi Valley and will track 
+northeastward over the Great Lakes. As it lifts, the associated 
+upper level low will open up and become negatively tilted. Out ahead 
+of the low, the pressure gradient gradually tightens and a 
+strengthening southerly wind will advect in an anomalous amount
+of moisture for this time of year.
+
+There is great agreement across the CAMs that a batch of showers 
+will move through from west to east late this afternoon through 
+early tonight ahead of a pre-frontal trough. Given the anomalous 
+moisture (dewpoints near 50 degrees and pwats around 1.25 
+inches) and strong, deep lift, moderate to locally heavy showers
+are expected. See hydrology section below. There is very little
+instability aloft, but will keep mention of isolated thunder in
+the forecast as it can not be ruled out.
+
+While a strong low level jet will move over the area, a decent 
+inversion will keep much of this wind aloft. 65 to 75 knots is 
+progged at 925mb. Gusts will likely not be higher than 50-60% of 
+those values, which falls short of Wind Advisory criteria. Gusts 
+peak this evening and overnight, with 40 mph gusts possible across 
+Long Island and 30 to 35 mph gusts elsewhere.
+
+The deep S/SW flow will allow some western and interior areas to
+warm up to the upper 50s and potentially hit 60. Across Long
+Island and Southern CT the onshore flow will keep temps in the
+low to mid 50s, still above normal for early March. Areas on the
+immediate coastline likely do not make it out of the 40s.
+
+&&
+
+.SHORT TERM /THURSDAY THROUGH FRIDAY/...
+The cold front moves through Thursday morning, with the upper level 
+trough axis lagging behind. This will allow for some cloud 
+cover and lingering rain shower chances. A strong northwest flow
+doesn't pick up until Thursday night. Went higher than NBM 90th
+percentile with forecast soundings showing mixing up to 850mb 
+in strong CAA. Current forecast has widespread 45 mph gusts. 
+Have held off with any Wind Advisory for now given the marginal
+values.
+
+Above normal temps continue Thursday and Friday. Highs will be
+in the upper 40s and 50s.
+
+&&
+
+.LONG TERM /FRIDAY NIGHT THROUGH TUESDAY/...
+A weak trough and low will pass south of the area Friday night into 
+Saturday morning. While it will remain mostly dry, can not rule out 
+a brief rain or snow shower during this period. Otherwise, expect m 
+mostly sunny conditions for Saturday afternoon with highs in the 
+middle and upper 40s. Model consensus then keeps a stronger area of 
+low pressure and associated precip well to our south on Sunday. 
+
+A fast flow aloft brings uncertainty regarding the timing and 
+strength of weak clipper-type lows or troughs potentially shifting 
+nearby during the Sunday night through Monday period. In any case, 
+moisture is limited, so will go with a dry forecast for the time 
+being. Ridging at the surface and aloft with a SW flow then brings 
+us milder weather for Tuesday. The dry conditions will continue into 
+Wednesday.
+
+&&
+
+.AVIATION /09Z WEDNESDAY THROUGH SUNDAY/...
+**HIGH IMPACT AVIATION WEATHER WEDNESDAY AFTERNOON/NIGHT**
+
+Deepening low pressure over the Mid Mississippi Valley will lift 
+into the Great Lakes today, sending a strong frontal system into the 
+area.
+
+Still maintaining a mainly VFR forecast until late afternoon or 
+early evening. The exception will remain at KHPN and KSWF where 
+conditions are expected to lower more quickly toward daybreak. That 
+being said, it's still not out of the question for lower conditions 
+to develop sooner or at least be occasional. The outlier is whether 
+the low-levels moisten quicker with the high dew point air moving 
+across the ocean waters. In addition, a weak secondary warm front 
+works up the coast in the afternoon.
+
+A strong southerly wind field ahead of the low and approaching cold 
+front will result in LLWS developing toward morning and continuing 
+into tonight. A this time of year, with the cold ocean waters and 
+warm air moving across them, there will be a strong inversion in 
+place. This will limit the magnitude of the wind getting to the 
+surface, but still expect gusts of 25 to 35 kt in the afternoon and 
+at night. Isolated gusts up to 40 kt at the coastal terminals. Winds 
+at top of the inversion around 2000 ft will peak at 55 to 65 kt.
+
+Heavy showers are expected with a pre-frontal trough and strong low-
+level jet during the evening hours Wednesday. An isolated 
+thunderstorm is possible, but confidence is too low to put in any 
+TAFs at this time.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Amendments likely today with the changing of flight categories and 
+onset of gusts. MVFR or lower may develop earlier than forecast.
+
+.OUTLOOK FOR 06Z THURSDAY THROUGH SUNDAY...
+
+Late tonight: Mainly IFR with improvement for the NYC and Lower 
+Hudson Valley terminals toward 12Z Thu. Southerly winds will subside 
+from west to east.
+
+Thursday: Mainly VFR. Gusty WNW winds developing in the afternoon, 
+increasing to 15-20 kt G25-35 kt. A few gusts to around 40 kt 
+possible at night. 
+
+Friday: VFR. W winds G25-30kt.
+
+Saturday: VFR with W winds G15-20kt possible.
+
+Sunday: VFR with NW/W winds.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Headlines remain unchanged with the latest forecast for today
+and tonight. A southerly flow will strengthen today and peak 
+this evening and overnight. A Gale Warning remains in effect on 
+the ocean waters, NY Harbor and South Shore Bays starting at 6 
+AM. SCA are in effect elsewhere. Peak wind gusts tonight over 
+the Gale Warning areas will be around 40 knots. On the SCA 
+areas, peak gusts will be just below gale criteria (30 to 33 
+knots). There is potential for some waters to be upgraded to a 
+Gale Warning later today depending on observations and new model
+guidance. With the strong winds, seas over the ocean could 
+reach 12 feet, with waves on the LI Sound reaching 4-5 feet.
+
+There will be a lull in the action on Thursday, when winds fall 
+below SCA criteria, but 5+ foot waves linger on the ocean. By 
+Thursday night, a northwest flow picks up and we likely see a return 
+on Gale conditions. These gusts will subside on Friday.
+
+Sub-SCA conditions on the non-ocean waters for Friday night, but 
+advisory thresholds will probably still be met on the ocean as winds 
+and seas take longer to subside. Sub-advisory conditions will be 
+likely for the upcoming weekend, but winds and seas on the ocean 
+could be close to criteria at times. The next chance for SCA 
+conditions on the ocean won't return until late Monday afternoon or 
+Monday night.
+
+&&
+
+.HYDROLOGY...
+A frontal system impacting the region today and tonight will likely 
+bring a total of 1 to 1.5 inches of rain, with locally higher 
+amounts possible. The higher totals are expected inland. Rainfall 
+rates could approach 1/2 inch per hour in spots at the time of 
+heaviest rainfall, which could lead to nuisance urban and poor 
+drainage flooding.
+
+No hydrological impacts are expected Thursday through early next 
+week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+Astronomical tides will remain low through the end of the week. 
+Intensifying southerly flow ahead of a strong storm system will 
+increase tide levels during tonight night/early Thursday 
+morning high tide. Surge of 1.5 to 3 ft is needed to reach minor
+flooding benchmarks. The strongest winds may actually occur 
+before high tide, limiting the surge somewhat during high tide. 
+Most locations should remain at or below action stage. However, 
+some of the most vulnerable locations across the south shore 
+back bays and western Sound could touch minor flooding 
+benchmarks. 
+
+Large breaking waves 8-10 ft are forecast late Wednesday into
+Wednesday night along the oceanfront, with beach flooding and
+erosion possible.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 4 AM EST Thursday for ANZ331-332-
+     335-340.
+     Gale Watch from Thursday evening through Friday afternoon for 
+     ANZ331-332-335-338-340-345-350-353-355.
+     Gale Warning until 10 PM EST this evening for ANZ338.
+     Gale Warning until 4 AM EST Thursday for ANZ345-350-353-355.
+     Small Craft Advisory until 6 AM EST early this morning for 
+     ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...BC/JT
+NEAR TERM...JT
+SHORT TERM...JT
+LONG TERM...BC
+AVIATION...BC
+MARINE...BC/JT
+HYDROLOGY...BC/JT
+TIDES/COASTAL FLOODING...

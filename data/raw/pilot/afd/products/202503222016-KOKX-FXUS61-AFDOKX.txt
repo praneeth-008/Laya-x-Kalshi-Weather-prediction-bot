@@ -1,0 +1,271 @@
+889 
+FXUS61 KOKX 222016
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+416 PM EDT Sat Mar 22 2025
+
+.SYNOPSIS...
+A cold front moves across this evening. High pressure builds in 
+for Sunday. A frontal system moves across Sunday night into
+Monday. Weakening low pressure will track across southeastern 
+Canada Monday night into Tuesday night, with another weak low 
+passing to the south late Tuesday night into Wednesday. High 
+pressure then builds in to the south for the end of the week. A 
+frontal system may impact the region Saturday.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM SUNDAY MORNING/...
+500mb trough continues to approach from the west late this 
+afternoon. Southerly flow advecting in warmer air.
+
+Surface pre-frontal trough moves across late this afternoon, 
+with more westerly component in winds after its passage. Farther
+west a cold front will be approaching with associated parent 
+low well within Southeast Canada moving northward in Quebec.
+
+Actual observed Doppler radar reflectivity indicates echoes of 10 to 
+30 dBZ range traversing the region but dry low levels preventing
+rain from reaching the surface. More rain showers expected
+towards the evening.
+
+BUFKIT models show late day mixing when winds veer to more WSW. The 
+high temperature could very well get achieved late in the afternoon 
+with this westerly flow adiabatic mixing down to the surface.
+
+For tonight, mid level trough moves across with cold front
+moving across. This will be during the evening hours. Showers 
+early then dry late evening and overnight. Cold air advection 
+late evening and for rest of tonight with NW gusty winds.
+
+500mb trough axis moves across this evening. This moves east of the 
+area thereafter through the rest of tonight. Region remains in 500mb 
+NW flow. Some positive vorticity advection in the mid levels along 
+with coherent discrete echo reflectivity within mesoscale models 
+from multiple model runs so chance POPs for entire region and 
+some likely POPs mainly for Orange County before 8PM. Narrowed 
+the chance POPs to occur mainly 6-10PM.
+
+Cold front moves across this evening generally between 8 and 11PM.
+Cold front expected to be southeast of Long Island after 11PM 
+and then the front will continue moving out into the Atlantic 
+overnight. Winds at the surface transition from gusty WSW ahead 
+of the cold front to more gusty NW flow behind the cold front.
+Dry and cold air advection then increase.
+
+Models indicate a significant 850 mb temperature decrease of around 
+6 to 7 degrees C between 8PM tonight and 2AM Sunday. 850mb 
+temperatures thereafter going into early Sunday morning rise 
+slightly for western half of the forecast region and remain 
+nearly constant for eastern half of the forecast region.
+
+With the gusty winds, expect a less vast range of low temperatures. 
+The lows will only vary from mainly the mid 20s for much of the 
+interior to the lower 30s along the coast. This used a blend of 
+MAV/MET/consensus of raw model data with slight adjustments up near 
+Westhampton NY.
+
+&&
+
+.SHORT TERM /6 AM SUNDAY MORNING THROUGH MONDAY/...
+Brief mid level ridging Sunday and surface high pressure moving 
+across will maintain dry conditions during the day. NW flow remains 
+gusty to start the day but will decrease during the day as the 
+pressure gradient weakens. 
+
+Models convey warmer air advecting in at 850mb. This will set up an 
+inversion. Less vertical mixing is expected especially as winds 
+become lighter. The max temperatures forecast Sunday are expected to 
+be around 10 degrees cooler than the previous day max
+temperatures. Used the NBM for high temperature forecast.
+
+Also mitigating the high temperature will be increasing clouds 
+during the day as the high pressure will be relatively weak.
+Upstream higher level clouds will expand and move into the local 
+region for the afternoon but still expect substantial sunshine
+overall.
+
+Incoming mid level trough for Sunday night with closed off low 
+moving east within Great Lakes. At the surface, there will be a 
+surface low moving eastward through the Great Lakes. An 
+associated warm front approaches from the south and west. 
+
+Strong mid level shortwave moves across early Monday and then east 
+of the region Monday afternoon. However, overall in the larger 
+scale, region remains in the longer wavelength trough with that 
+closed low moving into SE Canada, near Ontario and Quebec border. 
+
+At the surface, warm front slows down as it moves across with a
+weak low pressure area developing along it. The low pressure 
+makes its way across the area Monday afternoon with a cold front
+to the south of it. Surface winds go from southerly Sunday 
+night into early Monday to more southwesterly Monday afternoon.
+
+Surface and low level winds become more southerly Sunday evening 
+across the region. These winds will increase Sunday night into 
+Monday morning. The approaching system low level jet comes 
+across for early Monday morning. 
+
+Low level warm air advection expected Sunday night into Monday. 
+Precipitation returns, more of a stratiform overrunning
+rainfall. Precipitation starts mainly late evening Sunday 
+night. This will be primarily light. Locations within the 
+northern half of the forecast region are forecast to have enough
+wet bulb cooling for a mix of rain and snow with some periods 
+of all snow before 5AM Monday. Warmer temperatures and boundary 
+layer along the coast keeps precipitation all rain for southern 
+half of the forecast region.
+
+As this low level warm air advection increases, more early Monday, 
+the precipitation forcing increases. This will make for a steadier 
+rainfall along the coast. Bulk of the rain is expected early Monday, 
+with rain being the dominant weather feature Monday morning. Some 
+interior locations will have a wintry mix, around 5AM to 10AM 
+Monday but those locations are also expected to warm up enough 
+to make for all rain by late Monday morning. Frontal system
+precipitation closes out late Monday morning through Monday
+afternoon with rain. Rain likely lingers across Southern CT and
+Long Island late afternoon into early Monday evening with 
+lesser chances of rain to the west across the rest of the 
+forecast region. 
+
+Any snow for the event confined to the interior with potential
+for near 1 inch or less of snow. Any ice accumulation just
+potential to be a glaze. Uncertainty with low level warm layer
+at 850mb early Monday, NAM higher temperature, GFS less
+temperature. Used a blend with thicknesses for that
+precipitation type forecast.
+
+&&
+
+.LONG TERM /MONDAY NIGHT THROUGH SATURDAY/...
+No significant changes to the extended with this update as generally 
+quiet weather persists through the period. And with no significant 
+variance in the guidance, and targets of opportunity, mainly used 
+the NBM deterministic guidance. However, for the possibility of 
+windier conditions Monday night into Tuesday, and Wednesday night 
+into Thursday, leaned toward the higher 75th and 90th percentiles 
+for winds and gusts. Temperatures will be generally near normal, 
+with slightly above normal lows Monday night, and with the approach 
+of a warm front late in the week, temperatures may be 5 to near 10 
+degrees above normal Thursday night into Saturday. Although there 
+is uncertainty as to where the warm front will set up by late in 
+the week as the associated low will be over the plain states.
+
+A upper level high amplitude longwave trough will be over the 
+eastern states Monday night into Wednesday night with a high 
+amplitude ridge over the western states. The trough begins to move 
+offshore late Wednesday night as heights rise Wednesday night into 
+Saturday as the upper ridge moves slowly eastward, and gradually 
+weakens next Saturday.
+
+Late Tuesday night through Wednesday there is a chance of 
+precipitation as energy moves into the base of the upper trough, and 
+surface low pressure passes to the south. Any precipitation will be 
+light, with rain along the coast, and snow inland. Then dry weather 
+is expected Wednesday night into next Saturday as the ridge and 
+surface high pressure dominate. And the next chance of precipitation 
+will be later Saturday with a warm front, and forcing along this 
+boundary. Although there is uncertainty as to where this will set 
+up with the surface low well to the west. 
+
+&&
+
+.AVIATION /20Z SATURDAY THROUGH THURSDAY/...
+A cold front passes through this evening.
+
+VFR. Mainly SW-WSW winds with gusts around 25kt this afternoon. 
+Winds shift NW and increase by a few kt this evening. Winds then 
+diminish late tonight and through the day Sunday.
+
+PROB30 for showers with brief MVFR vsbys for all but KISP and KGON 
+late day/early evening. Any showers before around 23z likely would 
+not cause vsby restrictions.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+A brief shower will be possible as early as 19z, but likely would 
+not cause vsby restrictions before 23z.
+
+Chance that conds remain VFR in in any shower. PROB30 timing and 
+subsequent wind shift to NW may be off by an hour.
+
+.OUTLOOK FOR 18Z SUNDAY THROUGH THURSDAY...
+
+Sunday aftn/eve: VFR.
+
+Late Sunday Night and Monday: Becoming IFR with rain. Possible onset 
+as snow for KSWF. S winds G15-25kt, strongest near the coast on 
+Monday.
+
+Tuesday: VFR. WSW winds G20 kt possible.
+
+Wednesday: MVFR possible. Chance of showers. 
+
+Thursday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Small craft advisories, SCAs, are in effect for the ocean and 
+stay in effect through Sunday morning. Some lingering SCA ocean 
+seas and some lingering SCA wind gusts Sunday afternoon east of 
+Fire Island Inlet, so that segment SCA goes until 3PM Sunday. 
+Non-ocean waters have SCA in effect from 8PM tonight until 9AM
+Sunday and then all non-ocean marine zones except for NY Harbor
+and Western LI Sound go until 12PM Sunday for their SCA. 
+
+Brief sub-SCA conditions forecast for the waters Sunday
+afternoon for most waters, after 3PM Sunday afternoon, east of
+Fire Island Inlet on the ocean and that continues through much 
+of Sunday night. However, SCA potential increases late Sunday 
+night for parts of the ocean. Most waters in SCA range for wind 
+gusts Monday. Ocean seas rise back to 5 to 7 ft late Sunday 
+night into Monday.
+
+Small craft advisory level ocean seas will likely continue Monday 
+night into Tuesday evening with a weakening southwest flow. Then 
+winds and seas will be below advisory levels across the forecast 
+waters Tuesday night through Thursday. With an increasing southwest 
+flow late Thursday night ocean seas may build to near 5 feet.
+
+&&
+
+.HYDROLOGY...
+Low pressure system tonight, less than a tenth of an inch of
+rain.
+
+Low pressure system late Sunday night through Monday evening,
+around 0.25 to 0.5 inch of rain/liquid equivalent.
+
+No hydrologic impacts expected through the end of next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory from 8 PM this evening to noon EDT Sunday 
+     for ANZ331-332-340-345.
+     Small Craft Advisory from 8 PM this evening to 9 AM EDT Sunday 
+     for ANZ335-338.
+     Small Craft Advisory until 3 PM EDT Sunday for ANZ350-353.
+     Small Craft Advisory until noon EDT Sunday for ANZ355.
+
+&&
+
+$$
+
+SYNOPSIS...JM/MET
+NEAR TERM...JM
+SHORT TERM...JM
+LONG TERM...MET
+AVIATION...JC
+MARINE...JM/MET
+HYDROLOGY...JM/MET

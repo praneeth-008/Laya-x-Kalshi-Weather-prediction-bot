@@ -1,0 +1,245 @@
+356 
+FXUS61 KOKX 302356
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+756 PM EDT Wed Jul 30 2025
+
+.SYNOPSIS...
+A cold front slowly moves across the region tonight, stalling
+south of the region on Thursday. A wave of low pressure travels
+along the front impacting the area Thursday afternoon through 
+Friday. High pressure settles over the region this weekend and 
+remains in place into early next week.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM THURSDAY MORNING/...
+Key Points: 
+
+* Heat warnings and advisories continue through 8pm. Heat index
+  values remain in the middle and upper 90s to lower 100s. 
+
+* Isolated to scattered showers and thunderstorms will be
+  possible this evening, mainly north and west of NYC.
+
+* A cold front moves across the region tonight, ending the
+  heatwave. 
+
+A few showers and thunderstorms will continue into the early
+evening along a weak surface trough. Most the shower activity
+will remain north and west of NYC, gradually dissipating towards
+sunset. A cold front approaches from the north, and slowly drops
+southward moving across much of the CWA overnight. this will
+bring an end to hot and humid conditions we have seen over the
+last 3 days. Forecast models bring the front through mainly dry
+tonight. Will keep conditions mainly dry tonight. It will remain
+rather mild tonight, with lows in the upper 60s and 70s. Metro
+NJ/NYC should see another night of upper 70s for lows.
+
+&&
+
+.SHORT TERM /6 AM THURSDAY MORNING THROUGH THURSDAY NIGHT/...
+Key Points: 
+
+* A Flood Watch is in effect from 2pm Thursday til 2pm Friday.
+
+* A period of moderate to locally heavy rainfall is possible
+  Thursday afternoon and Thursday night. A widespread 1-3 
+  inches of rain is likely, with locally higher amounts. 
+  Rainfall rates could exceed 2+ inches across part of the area.
+  
+
+There is increasing confidence for a period of moderate to
+locally heavy rainfall Thursday afternoon and Thursday night as
+a frontal boundary remains south of the region and a wave of 
+low pressure travels along the front. 
+
+Latest 12z hi-res guidance has come into better agreement and
+was a bit concerning with QPF values exceeding 6+ inches of 
+rain in a short period of time across portions of western and 
+central NJ. While the heaviest rainfall threat remains outside
+the CWA, a minor shift could bring the heaviest rain into our
+CWA. Also, mid-level frontogenetic forcing could result in 
+bands of rainfall, across the northern portion of the CWA. There
+is still some uncertainty with respect to exactly where the 
+surface front stalls, a little further north and the heaviest 
+rain could fall over portions of metro NJ/NYC. This will have to
+be monitored. Also, PWATs values are expected to be between 
+2.0-2.5. WPC excessive rainfall maps now include NE NJ in a 
+moderate risk, with the remaining area in a slight risk.
+
+Otherwise, expect a mostly cloudy Thursday with highs in the
+upper 70s and 80s. Thursday night, temperatures fall into the
+upper 50s and 60s.
+
+&&
+
+.LONG TERM /FRIDAY THROUGH WEDNESDAY/...
+The frontal system just south of the area on Friday will continue to 
+produce areas of moderate rainfall during the day, especially 
+earlier in the morning. The frontal wave will slowly translate east 
+with rain gradually tapering off from west to east Friday afternoon 
+and into the evening. Given the persistent E/NE flow and ample cloud 
+cover with rainfall, highs on Friday will be well below average with 
+temperatures only in the upper 60s to low 70s.
+
+By Friday evening and into early Saturday, an area of high pressure 
+will build into the Northeast US from the Great Lakes and south 
+central Canada. This will promote drier and clearer conditions for 
+the weekend with temperatures rebounding to near normal for this 
+time of the year. High temperatures on Saturday will be in the upper 
+70s to low 80s. By Sunday and Monday, highs will increase into the 
+low to middle 80s for much of the area with generally clear skies.
+ 
+This area of high pressure will remain in control from Saturday 
+through Monday or Tuesday of next week. A frontal system may 
+approach the area late Tuesday into Wednesday providing for the next 
+chance of precipitation.
+
+&&
+
+.AVIATION /00Z THURSDAY THROUGH MONDAY/...
+A cold front moves into the region tonight and stalls out within the 
+area Thursday. 
+
+Showers and thunderstorms may linger just past 00z this evening
+but thereafter VFR conditions expected through Thursday 
+morning. By Thursday afternoon more showers are expected with a 
+slight chance for thunderstorms. Showers continue then through 
+the end of the TAF period, becoming moderate to locally heavy at
+times. Vsbys will be between MVFR and IFR with MVFR cigs. IFR 
+cigs possible after 00z Friday, but confidence low at this 
+point.
+
+Winds over the next few hours will be different at each terminal
+due to outflow from earlier thunderstorms. By around 02z winds
+will lighten and become VRB as they veer through the night. An
+easterly flow picks up on Thursday up to around 10kt. Gusts may 
+pick up after 00z Friday, up to 20kt.
+
+     NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Low confidence wind forecast through about 02z given outflow
+boundaries from earlier thunderstorms.
+
+Gusts may pick up after 00z Friday out of the E/NE. Uncertainty
+in timing and have left out of the TAF for now.
+
+.OUTLOOK FOR 00Z FRIDAY THROUGH MONDAY... 
+
+Thursday night: MVFR to IFR. Heavy showers and embedded 
+thunderstorms. Occasional E gust to near 15-20 kt.
+
+Friday: MVFR to IFR. Showers ending early NE wind gusts near 
+15-20 kt.
+
+Saturday: VFR. NE wind gusts 15-20 kt early becoming less frequent 
+in the afternoon. All wind gusts diminish by evening.
+
+Sunday-Monday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Conditions are expected to remain below Small Craft Advisory 
+criteria through Thursday night. A wave of low pressure developing 
+on a stalled front over or nearby the area waters may result in
+conditions building to near Small Craft levels. 
+
+Small craft advisory conditions will overtake the area on Friday 
+with E/NE wind gusts 25-30kt. Waves on the ocean will be increasing 
+through the day with heights of 5-7 feet by Friday afternoon. Sub-
+SCA conditions may drop off the sheltered waters by Friday evening 
+with gusts weakening but remaining on the ocean for marginal gusts 
+and elevated seas through at least Saturday afternoon/evening.
+
+&&
+
+.HYDROLOGY...
+* Flood Watch in effect from 2pm Thursday through 2pm Friday.
+
+A widespread moderate to heavy rainfall is expected Thursday 
+afternoon into Friday. Rainfall amounts of 1 to 3 inches with 
+localized amounts up to 5 inches across the southwestern 
+portions of the CWA will be possible. Rainfall rates could 
+exceed 2+ inches per hour. 
+
+WPC has outlined the entire region in a slight risk of 
+excessive rainfall for much of the area, with a moderate risk 
+for NE NJ. Urban, poor drainage and riverine flash flooding 
+will be possible. 
+
+Dry weather returns Friday night with no hydrologic concerns
+through early next week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+There is an overall low rip current risk for ocean beaches through 
+Thursday due to a 1 ft S/SE swell and 1 to 2 ft wind waves. Rip 
+currents likely increase to moderate by Friday given increased waves 
+and a persistent 15-20kt E/NE flow.
+
+&&
+
+.CLIMATE...
+Record High Temperatures for Wednesday, July 30
+----------------------------------------------------
+Newark       101/1949
+Bridgeport    95/1949
+Central Park *98/1988
+LaGuardia     99/1988
+Kennedy       96/2002
+Islip         95/1988
+
+* Also occurred in previous years
+
+Record Minimum Temperatures for Wednesday, July 30 
+----------------------------------------------------
+Central Park........80 (2002)
+LaGuardia...........81 (2019,2002)
+Kennedy.............79 (2006,1995)
+Islip...............76 (2002)
+Newark..............81 (2002)
+Bridgeport..........76 (2002)
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Heat Advisory until 8 PM EDT this evening for CTZ005>012.
+     Flood Watch from Thursday afternoon through Friday afternoon 
+     for CTZ005>012.
+     Air Quality Alert until 11 PM EDT this evening for CTZ009>012.
+NY...Heat Advisory until 8 PM EDT this evening for NYZ067>075-
+     078>081-176>179.
+     Flood Watch from Thursday afternoon through Friday afternoon 
+     for NYZ067>075-078>081-176>179.
+     Air Quality Alert until 11 PM EDT this evening for NYZ069>075-
+     078>081-176>179.
+NJ...Heat Advisory until 8 PM EDT this evening for NJZ002.
+     Flood Watch from Thursday afternoon through Friday afternoon 
+     for NJZ002-004-006-103>108.
+     Air Quality Alert until 11 PM EDT this evening for NJZ002-004-
+     006-103>108.
+     Extreme Heat Warning until 8 PM EDT this evening for NJZ004-
+     006-103>108.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...BC/MW
+NEAR TERM...BC
+SHORT TERM...BC
+LONG TERM...MW
+AVIATION...JT
+MARINE...BC/MW
+HYDROLOGY...BC/MW
+TIDES/COASTAL FLOODING...
+CLIMATE...

@@ -1,0 +1,276 @@
+254 
+FXUS61 KOKX 282218
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+618 PM EDT Fri Mar 28 2025
+
+.SYNOPSIS...
+A warm front approaches this evening, and pushes north of most 
+of the waters Saturday. This front will drop back down south of 
+the waters Saturday afternoon into night, and then lift back 
+north Sunday Night. A cold frontal passage is likely late 
+Monday, followed by high pressure through the middle of the 
+week. A frontal system will approach Wednesday night into 
+Thursday.
+
+&&
+
+.NEAR TERM /THROUGH SATURDAY/...
+The fcst is on track. Nearly zonal upper flow across US/Canada 
+border, with stationary front extending into the NE US tonight, 
+lead by a warm frontal approach tonight and passage Sat AM for 
+all but SE CT. 
+
+Lead vort energy approaching and crossing the region tonight, 
+combined with strong waa associated with warm frontal passage will 
+continue increasing cloud cover this aft/eve with a period of 
+showers later this evening into first half of tonight 
+traversing w to e across the area. A rumble of thunder not out 
+of the question with some weak elevated instability, but very 
+slight chance. Drying and warming conditions late tonight for 
+all but SE CT in strengthening SW flow. 
+
+Early low temps in the mid 40s to lower 50s in pre-frontal
+showers, increasing to upper 40s far eastern areas to mid 50s 
+for western areas.
+
+&&
+
+.SHORT TERM /SATURDAY NIGHT THROUGH SUNDAY NIGHT/...
+Key Messages...
+
+* Unseasonably warm temperatures (20-25 degrees above normal) for 
+  the NYC/NJ metro and surroundings Sat AM into early aft. 
+
+* Elevated threat for brush fire spread for NE NJ into the NYC 
+  metro for Saturday due to dry conditions, warm temps, low rhs 
+  and gusty winds.
+
+* Strong cold frontal passage likely Sat aft into eve, with
+  temps likely dropping 20 degrees in the matter of an hour or
+  two. Anyone venturing out on the waters tomorrow should be 
+  mindful of the cold water dangers. 
+
+* A return to seasonably chilly conditions Saturday Night into 
+  Sunday.
+  
+Confluent upper flow across the region through Sunday, giving 
+way to SW US shortwave lifting into the Mid Mississippi River 
+Valley/Great Lakes Sun Night in response to deepening central 
+plains polar shortwave. 
+
+At the surface, a stationary front will generally lie across 
+Central NY/New England separating a polar airmass across Canada 
+and unseasonably warm airmass to the south of the front. Good 
+agreement in the warm front moving north of all but SE CT by Sat
+AM, with deep WSW flow and deep mixing in its wake. High 
+confidence in temps making a run into the lower 80s for NE NJ 
+and NYC and upper 70s for surrounding metro areas of LoHud, NW 
+LI and SW CT, despite a mix of high and mid clouds streaming 
+through the area. Across far northern portions of the local Tri-
+State area, closer to the front, will likely be dealing with a 
+bit more cloud cover and perhaps some isolated shower/tstm 
+activity, while across south coastal areas will have a bit of 
+influence off the 50 degree waters, which would limit temps in 
+the lower to mid 70s. Meanwhile, temps across far SE CT 
+(particularly New London) could struggle to 60 F if warm front 
+never passes to the north. 
+
+The unseasonable warmth of 20 to 25 degrees above seasonable 
+will be short lived, as strong agreement in the stationary front
+working back SW as strong back-door cold front from NE to SW 
+late Sat aft/eve with temps likely dropping 20 degrees in an
+hour or two on a gusty easterly flow in its wake. This passage 
+may also be accompanied by scattered shower activity/isolated 
+tsra with a bit of elevated instability, but higher confidence 
+in stratus development in the wake of passage for Sat night.
+
+Canadian maritime airmass will likely become entrenched across the 
+region Sat Night as back door cold front pushes SW of the region, 
+with moist onshore flow under a strong low-level inversion, 
+remaining through Sunday. Temps on Sunday with stratus and CAD 
+likely struggling into the 50s along the coast to upper 50s well
+west of the Hudson R. This is near seasonable, but a good 20-30
+degrees below Sat temps.
+
+Good agreement in NE shearing southern shortwave embedded in an 
+amplifying SW flow approaches Sun Night, which with a 
+developing SW 40-45kt llj should have the back-door front 
+working back north across the region as a warm front Sun Night 
+into Mon AM. Potential once again for scattered showers, a 
+rumble of thunder, and warming temps in WAA flow.
+
+&&
+
+.LONG TERM /MONDAY THROUGH FRIDAY/...
+Consistent modeling from the 12Z NAM, GFS and ECMWF puts a cold 
+front on the doorstep Mon, with the fropa Mon ngt. A sly flow with 
+perhaps a slight wwd component will develop ahead of the front, as 
+the thermal ridge builds in. Warmest areas along and w of the 
+Hudson, with progressively cooler temps as you travel ewd due to a 
+solid flow from the Atlc. Stratus likely in this ern segment, with 
+fog also possible, especially in the mrng. It is too far out to get 
+a solid feel for any svr/tstm potential with the sys. There should 
+be some scbape as advertised by the NAM, but the forcing may be too 
+slow to tap into that Mon aftn/eve. There will be good shear, both 
+directional and speed to work with, but if everything is elevated, 
+overall impacts should be relatively minimal. Nevertheless, did 
+include slight chances for tstms with the timing of the best forcing 
+late Mon and Mon ngt.
+
+Dry, nly flow on Tue. There is some disagreement with the exact wind 
+details, as the model consensus has nw flow whereas the 
+deterministic GFS has n-ne llvl flow. Went with the consensus for 
+now which is more inline with climo and high pres building in from 
+the W. 
+
+High pres builds in Tue ngt, so temps should drop into the 20s for 
+most of the area if this pattern/timing holds.
+
+The high builds offshore Wed, so still dry but return flow sets up 
+by the end of the day. The next frontal sys then produces some 
+additional chances for shwrs Wed ngt and Thu with a warm front/cold 
+front combo. 
+
+There is the suggestion that ridging invof FL and an upr low 
+traversing ON/QC could flatten out the flow locally, allowing for 
+the front to become parallel to the flow and stall over the region 
+for Fri. Clouds and additional chances for shwrs are in the fcst as 
+a result, although confidence in this soln is not high attm.
+
+&&
+
+.AVIATION /22Z FRIDAY THROUGH WEDNESDAY/...
+A weak front stalls nearby into this evening. The front then moves 
+back north as a warm front late tonight into Saturday morning, 
+before settling south towards the area once again late Saturday 
+afternoon and evening.
+
+VFR. SW to S winds mainly around 7-10 kt through the early evening. 
+The winds lighten some later tonight, S 5-10 kt for the NYC 
+metro/coastal and light/variable at some of the outlying terminals 
+as the weak front draws near. 
+
+The chance for MVFR cigs late this evening have decreased at the NYC 
+metros with any showers associated with the warm front moving 
+across. Mainly VFR as winds lighten tonight at mainly 5-10 kt with 
+-SHRA mainly across northern and northeast terminals. TEMPO group 
+for city terminals for showers this evening. VFR into Saturday 
+morning with W to WSW wind with gusts by 13 to 15z.
+
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Low chance of brief MVFR ceilings this evening with -SHRA, 
+otherwise no unscheduled AMD expected. 
+
+.OUTLOOK FOR 18Z SATURDAY THROUGH WEDNESDAY...
+
+Saturday afternoon: VFR to start, with showers with MVFR cond 
+possible in the afternoon, especially at KBDR/KGON/KISP. W to SW 
+winds G25-30kt / becoming ENE for eastern and northeastern 
+terminals. 
+
+Saturday night and Sunday: MVFR cigs east of the NYC metros, with 
+localized IFR possible there late night into the early morning. E-SE 
+winds G15-20kt daytime Sunday. 
+
+Sunday night: Chance of showers with MVFR cond possible. 
+
+Monday: MVFR or lower with showers and slight chance of thunder. S-
+SW winds G20-25kt, becoming NW at night. 
+
+Tuesday: VFR. N-NW wind G20-25kt daytime. 
+
+Wednesday: Mainly VFR. E-SE winds. Sub VFR possible at night.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Sub-SCA conditions through tonight on all waters as high pressure 
+moves through and then a warm front. 
+
+SW SCA gusts likely for western nearshore waters late Sat AM into 
+afternoon. Gusts will likely remain below SCA for the open ocean and 
+LIS waters with a stronger inversion, but SCA seas likely on the 
+ocean in 15-20kt SW flow late tonight into Sunday. 
+
+A strong backdoor cold front moves from e to w late Sat aft/eve
+which would bring a quick wind shift and potential for a brief 
+burst of SCA easterly winds in its wake, subsiding below SCA
+later Sat Night into Sunday. The elevated ocean seas with SCA 
+levels will probably continue through the rest of the weekend, 
+especially for eastern ocean zones.
+
+Fog, gales, and a few tstms all possible Mon and Mon ngt as a strong 
+cold front approaches then passes thru the waters. Improvement to 
+sca on Tue. Winds blw sca lvls on Wed, although seas on the ocean 
+may linger close to 5 ft. Winds and seas then ramp up quickly 
+again Wed ngt and Thu due to another frontal sys.
+
+&&
+
+.FIRE WEATHER...
+The combination of high temperatures in the upper 70s to lower 
+80s across NE NJ and NYC metro, southwest winds of 15 to 20 mph
+with frequent gusts of 25 to 35 mph, relative humidity values 
+of 30 to 35 percent, and lack of wetting rains over that last 4 
+days will create an elevated risk for brush fire spread across 
+the region Saturday morning into afternoon.
+
+&&
+
+.HYDROLOGY...
+Around a tenth of an inch of rain or less with rain showers
+tonight into early Saturday. 
+
+Less than a tenths of an inch of rain with shower on Sunday, 
+mainly northern areas.
+
+One tenths to a quarter of an inch possible Sunday Night.
+
+Some localized minor flooding, mainly urban and poor drainage, is 
+possible Mon and Mon ngt with a frontal sys. No additional 
+hydrologic impacts are expected Tue-Fri. 
+
+&&
+
+.TIDES/COASTAL FLOODING...
+A new moon on Saturday will have astronomical tides rising 
+through Sunday night, with as little as 1/2 ft of surge needed 
+for minor coastal flooding by Sunday Night high tide. Potential 
+that water levels could exceed minor flood levels for the most 
+vulnerable south shore of NYC/W LI and western LI sound 
+communities in an E/SE flow regime.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory from 2 PM Saturday to 2 AM EDT Sunday for 
+     ANZ331-332-340.
+     Small Craft Advisory from 8 AM Saturday to 2 AM EDT Sunday for 
+     ANZ335-338-345.
+     Small Craft Advisory from 2 AM Saturday to 8 PM EDT Sunday for 
+     ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JMC/NV
+NEAR TERM...JMC/NV
+SHORT TERM...NV
+LONG TERM...JMC
+AVIATION...JE
+MARINE...JMC/NV
+FIRE WEATHER...NV
+HYDROLOGY...JMC/NV
+TIDES/COASTAL FLOODING...NV

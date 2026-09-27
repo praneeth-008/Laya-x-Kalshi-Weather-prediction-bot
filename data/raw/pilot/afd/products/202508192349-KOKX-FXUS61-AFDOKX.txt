@@ -1,0 +1,211 @@
+549 
+FXUS61 KOKX 192349
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+749 PM EDT Tue Aug 19 2025
+
+.SYNOPSIS...
+A frontal system impacts the area on Wednesday. Hurricane Erin 
+will pass well to the southeast from Thursday into Friday, 
+bringing indirect but significant impacts along the shoreline. 
+High pressure will return by late week, then a cold front will 
+approach from the west from Sunday into Monday. Please refer to 
+NHC forecasts for further information on Hurricane Erin.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM WEDNESDAY MORNING/...
+Dangerous rips are occurring at area beaches. Please see the 
+TIDES/COASTAL FLOODING section for more details.
+
+High pres remains centered N of the area tngt. This will keep a
+lgt, cool E/ESE flow locked in. Streams of cu developing wwd
+indicate the potential for marine stratus to develop overnight.
+This, along with the wind, will limit radiational cooling a 
+bit. Nevertheless, the airmass is cold enough to produce lows 
+aob normal. Some llvl lift, possibly aided by speed convergence,
+could allow for some pockets of lgt rain or dz to develop late.
+
+&&
+
+.SHORT TERM /6 AM WEDNESDAY MORNING THROUGH WEDNESDAY NIGHT/...
+Dangerous rip currents and high surf can be expected. Please 
+see the TIDES/COASTAL FLOODING section for more details.
+
+H5 trof approaches on Wed, and passes Wed ngt. Moisture will
+increase ahead of the associated frontal boundary, with PWATS
+around 2 inches advecting in. There does not appear to be a 
+significant tropical connection with Hurricane Erin attm per 
+moisture transport vectors, so this should be a limiting factor
+for hvy rain potential. Regardless, the boundary will slow 
+across the area, and with upr support, shwrs and embedded isold 
+tstms are expected until the passage of the trof axis Wed ngt.
+The slow/stalling nature of the front could lead to persistent
+areas of rain, and this is where there will be a primarily 
+minor flood threat. Per the 12Z NAM and GFS, the best window for
+activity is Wed aftn and eve as deep lift is maximized. Please 
+see the HYDROLOGY section for additional details.
+
+Went with the NBM for temps, but highs could end up a little
+lower as the NBM may not be catching up quickly enough with the
+rainier fcst.
+
+&&
+
+.LONG TERM /THURSDAY THROUGH TUESDAY/...
+Indirect impacts from Erin are the main focus of the Long Term
+as surf remains dangerous and cstl flooding impacts the area 
+Thu and Thu ngt. Again, please see the TIDES/COASTAL FLOODING 
+section for more details.
+
+Otherwise, winds will pick up, especially at the coasts, Thu and
+Thu ngt as Erin makes its closes approach. Most areas will be
+breezy, but parts of LI, especially the S Fork, could see some
+gusts in the 30-40 mph range Thu aftn and eve. The gusty winds
+ramp down quickly on Fri as Erin accelerates away from the
+region and high pres builds in. Went with the 6Z CONSALL for 
+winds in the Thu/Thu ngt period instead of the lower NBM. 
+
+There could be some pockets of lgt rain or sprinkles early Thu
+with llvl moisture still locked in, but subsidence will attempt
+to dry things out thru the day. The NBM was used for the cloud
+fcst, but it may be too optimistic compared to the deterministic 
+12Z modeling. 
+
+Went with the NBM Sat and beyond with little change to the 
+overall fcst thinking attm. Ridging at the sfc/aloft will build 
+in after Erin's departure. As this ridge moves east another 
+frontal system will approach on Sunday and pass through on 
+Monday, with chance of showers and possibly a tstm.
+
+&&
+
+.AVIATION /00Z WEDNESDAY THROUGH SUNDAY/...
+High pressure shifts east of New England tonight. A frontal 
+system approaches from the west Wednesday.
+
+VFR through tonight, becoming MVFR/IFR Wed PM with SHRA/TSRA.
+
+E/SE flow near 10 kt could still gust toward 20 kt til about 2Z
+this evening before diminishing. Similar direction and speeds
+expected on Wednesday, generally E or SE 10-15 kt with gusts up
+to 20 kt possible.
+
+Cigs lower into Wed AM, becoming MVFR toward 12Z or shortly
+after at most terminals. Rain showers gradually develop later 
+in the morning, prevailing by mid afternoon with MVFR cigs and
+vsbys, possibly IFR at times. Embedded TSRA likely around during
+the afternoon and evening as well. The showers continue through
+Wed night, and additional PROB30 for TSRA may be needed.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Gusts toward 20 kt thru 2Z this evening, may be more occasional
+at times. 
+
+Timing of flight categories declines on Wednesday may be off by
+a couple of hours.
+
+.OUTLOOK FOR 00Z THURSDAY THROUGH SUNDAY...
+
+Wednesday night: IFR with SHRA, embedded TSRA possible. ESE gusts
+up to 20 kt.
+
+Thursday: Chance of showers in the morning with 
+MVFR/IFR cond still possible. NE winds increasing to 15G20-25kt 
+along the coast. Improving to VFR by evening. 
+
+Friday: VFR. NE-N winds 15G20-25kt in the morning. 
+
+Saturday: VFR. 
+
+Sunday: MVFR or lower possible in any showers.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+A SCA remains in effect for the ocean thru Wed ngt. A gale watch
+has been issued for the ocean Thu and Thu ngt. Elsewhere, no
+hazards are up, but a SCA may be needed for winds Thu and Thu
+ngt. Swell may also get into the extreme ern portion of the 
+Sound Thu into Fri, with NWPS bringing waves to 7ft near Plum
+Island. 
+
+A SCA will likely be needed on the ocean and possibly the 
+extreme ern Sound on Fri for seas. The SCA may be needed on the 
+ocean on Sun as well.
+
+Please refer to National Hurricane Center forecasts for further
+information on Erin.
+
+&&
+
+.HYDROLOGY...
+There is a chance for areas of minor urban and poor drainage 
+flooding on Wed due to a slow moving frontal sys. In general,
+around an inch of rainfall is expected across the area. However,
+locally higher amounts of around 2 inches are possible if
+persistent activity develops along the front. There will be a
+low flash flood threat if tropical moisture from Erin makes it
+into the area, with ern areas the most likely spots for this to
+occur late Wed into Wed ngt attm.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+A High Surf Advisory and High Rip Current risk are in effect for all 
+Atlantic beaches and will likely continue to be extended with future 
+updates through the end of the week.
+
+Life-threatening surf and rip currents expected for the rest of this 
+week as building long period swells from Erin continue, peaking 
+Thu/Fri. Surf heights could reach 10-15 ft from Thu afternoon and 
+continuing into early Fri morning, as large, very long period swells 
+(9-11 ft @ 15-17 sec) arrive nearly head on at the beaches. 
+
+The threat for beach flooding, beach erosion and escarpment and 
+areas of dune erosion will increase with successive high tides Tue 
+eve thru Thu night. Widespread areas of dune erosion are likely with 
+localized overwashes during the Thu evening and Fri morning high 
+tides. This high surf will be combined with elevated water levels as 
+we approach a new moon.
+
+Surge guidance continues to play catch-up to the potential coastal 
+flood situation. A blend of bias-corrected PETSS 50% exceedance, 
+ETSS, and STOFS indicates widespread minor and locally moderate 
+flooding with the Thu night/Fri morning high tide cycles. PETSS 10% 
+exceedance and even a blend of 10%/50% exceedances are both higher, 
+indicating worst-case potential for widespread moderate flooding 
+with the Thu evening and/or Fri morning high tide cycles.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...High Risk for Rip Currents through Friday evening for NYZ075-080-
+     081-178-179.
+     High Surf Advisory from 6 AM Wednesday to 8 PM EDT Friday for 
+     NYZ075-080-081-178-179.
+NJ...None.
+MARINE...Small Craft Advisory until 6 AM EDT Thursday for ANZ350-353-
+     355.
+     Gale Watch from Thursday morning through late Thursday night 
+     for ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JMC
+NEAR TERM...JMC
+SHORT TERM...JMC
+LONG TERM...JMC
+AVIATION...DR
+MARINE...JMC
+HYDROLOGY...JMC
+TIDES/COASTAL FLOODING...

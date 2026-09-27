@@ -1,0 +1,208 @@
+679 
+FXUS61 KOKX 290344
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1144 PM EDT Wed May 28 2025
+
+.SYNOPSIS...
+Low pressure along the Mid Atlantic coast this evening will track
+to the south and east of Long Island later tonight into Thursday.
+Weak high pressure will then briefly build in for Thursday night.
+Another low approaches from the Mid-Atlantic on Friday. It passes 
+through late Friday night on its way to New England for Saturday, 
+with a trailing cold front moving through late in the day into 
+Saturday night. The low will meander over eastern Canada early next 
+week as high pressure slowly builds from the west.
+
+&&
+
+.NEAR TERM /THROUGH THURSDAY/...
+An upper low over the Great Lakes and Midwest states will drive
+an area of low pressure over the Mid Atlantic states northeast 
+tonight. The low will pass south and east of LI late tonight 
+into the first half of Thursday. The combination of large scale
+warm advection in a deep-layered WSW flow aloft and the thermal
+forcing to the north of the low track will produce a light to 
+moderate rainfall event overnight into Thursday morning. Rainfall
+amounts continue to get bounced up slightly with each model 
+cycle and there is good agreement for about 0.3 to 0.6" across
+the area. The highest amounts at this time look to be across NE
+NJ, NYC, and LI. The rain will gradually overspread the area 
+from SW to NE this evening as the dry low-levels slowly moisten.
+As the low approaches, winds will back to the east, becoming 
+strongest at the coast (10-15mph).
+
+Have lowered low forecast tonight due to latest trends and obs.
+Temps will likely stay within a degree or two from where they
+are now.
+
+On Thursday, rain in the morning may linger across far SE CT and
+the twin forks into early afternoon. However, most of the area
+should be dry for the afternoon with some partial clearing,
+especially back to the west across NYC, NE NJ, and the Lower
+Hudson Valley. Winds will then back around from the NE in the 
+morning to the NW in the afternoon, dropping below 10 mph. Highs
+will range from the 60s across CT and eastern LI, to the lower 
+70s elsewhere. This is a few degrees below normal.
+
+&&
+
+.SHORT TERM /THURSDAY NIGHT/...
+Weak high pressure builds quickly across the area Thursday 
+evening and then to the east by Friday morning. Not much change
+in the airmass with dew points in the 50s and lows in the mid 
+up to upper 50s. May have to watch for some patchy fog
+development late Thursday night due to the light winds and 
+moisture in place. For the time, have kept dry, but there is 
+some guidance showing a few showers by daybreak as weak front 
+approaches from the west.
+
+&&
+
+.LONG TERM /FRIDAY THROUGH WEDNESDAY/...
+Models in general agreement with an h5 trough axis digging into the 
+Ohio Valley on Friday before shifting into the forecast area during 
+Saturday, then remaining nearby on Sunday. Associated surface low 
+approaches from the Mid-Atlantic Friday night before passing through 
+late at night into Saturday morning. A cold front then moves through 
+late in the day into the evening with the low continuing to head 
+north, tracking through Quebec on Sunday.
+
+Rain will be likely with this system with the highest probabilities 
+(70-80%) late Friday night into Saturday as the surface low passes 
+through the area. Hydrologic impacts would appear to be limited in 
+part due to forecast PWATs and convective chances. See the hydrology 
+section for more details. 
+
+Although a cyclonic flow remains aloft for both Sunday and Monday, 
+both days likely remain dry as moisture will be limited. Deep-
+layered ridging then keeps us dry through Wednesday with moderating 
+temperatures.
+
+&&
+
+.AVIATION /04Z THURSDAY THROUGH MONDAY/...
+Low pressure passes just south and east of the terminals 
+tonight into Thursday morning.
+
+IFR cigs expected at all terminals tonight. MVFR could linger a
+bit longer for terminals that have not yet gone IFR except KGON
+which likely will not go IFR until late tonight/early Thursday.
+Confidence has also lowered even more in vsbys lowering and 
+have removed IFR vsbys from TAF for thursday at the eastern 
+terminals. Vsbys likely stay VFR to MVFR. Cigs likely don't 
+start improving until late Thursday morning or early afternoon.
+
+SE/E flow around 10 kt this evening, increasing to 10 to 15 kt 
+with occasional gusts to 20 kt overnight. With the low passing
+to our south, winds back through the day on Thursday, starting 
+out E and becoming S/SW by the end of the day.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Winds may be more N/NE than the current TAF shows until about 
+06z.
+
+High confidence in MVFR/IFR cigs, low confidence in vsby going
+MVFR or lower.
+
+Timing of lowering and improving conditions may be off by a few
+hours.
+
+SE/E flow around 10 kt increasing to 10 to 15 kt with 
+occasional gusts to 20 kt. Low confidence wind forecast on 
+Thursday with the winds consistently backing through the day.
+
+.OUTLOOK FOR 00Z FRIDAY THROUGH MONDAY... 
+
+Thursday night: MVFR/IFR cigs possible late. 
+
+Friday: MVFR/IFR cigs likely. 
+
+Friday night and Saturday: Chance of showers and possibly a tstm. 
+MVFR cond likely, IFR possible. SW-W winds G15-20kt Saturday 
+afternoon. 
+
+Sunday and Monday...VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+A strengthening easterly flow will produce a period of marginal
+SCA conditions on the ocean waters later tonight into Thursday.
+Winds will be marginal with the potential for gusts up to 25kt 
+late tonight into Thursday morning. Wind become light in the 
+afternoon. However, a building SE swell will produce a period of
+seas around 5 ft late tonight into Thursday, likely lingering 
+east of Fire Island Inlet in the first half of Thursday night.
+
+Conditions on the waters remain below SCA levels on Friday. A period 
+of stronger westerly flow gusting to 25 kt may be possible on 
+Saturday in the wake of low pressure passing through in the morning. 
+Seas over 5 ft are also likely Sat into Sat night, which may may 
+take some time to subside E of Fire Island Inlet during the daytime 
+Sunday.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts expected through Friday afternoon.
+
+A half inch to inch of rain with locally higher amounts will be 
+possible from Friday night through Saturday. Hydrologic impacts so 
+far appear to be limited to minor urban/poor drainage flooding. 
+Forecast PWATs are just average to slightly above average for this 
+time of the year, but elevated convection along with a chance of a 
+llj and mid level shortwave passing through could help maximize the 
+potential of the PWAT values late Friday night into Saturday 
+morning. Anticipating mainly light to moderate rainfall, but a low 
+threat of heavy downpours exists Friday night and Saturday morning. 
+Can't even rule out brief heavy downpours Saturday afternoon since 
+thunderstorms will still be possible.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+Astronomical tides will gradually subside through the end of
+the week. Water levels will remain below minor flood stage at 
+the most vulnerable locations of the south shore back bays and 
+western LI Sound with high tide tonight. A building SE swell 
+Thursday may lead to localized minor flooding for these 
+locations with high tide Thursday night. Additional localized 
+minor coastal flooding is possible Friday night due to a 
+intensifying low pressure passing over the area.
+
+There is a low rip current risk at ocean beaches through this 
+evening with with 1-2 ft seas and winds generally 10 kt or less.
+The risk increases to high on Thursday due to a building seas 
+to 5-6 ft and SE swells.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...High Risk for Rip Currents from 6 AM EDT Thursday through Thursday 
+     evening for NYZ075-080-081-178-179.
+NJ...None.
+MARINE...Small Craft Advisory from 6 AM Thursday to 2 AM EDT Friday for 
+     ANZ350.
+     Small Craft Advisory until 2 AM EDT Friday for ANZ353.
+     Small Craft Advisory until 6 PM EDT Thursday for ANZ355.
+
+&&
+
+$$
+
+SYNOPSIS...JC/DW
+NEAR TERM...JT/DW
+SHORT TERM...DW
+LONG TERM...JC
+AVIATION...JT
+MARINE...JC/DW
+HYDROLOGY...JC/DW
+TIDES/COASTAL FLOODING...

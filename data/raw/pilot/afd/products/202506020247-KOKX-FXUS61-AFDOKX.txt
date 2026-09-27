@@ -1,0 +1,134 @@
+611 
+FXUS61 KOKX 020247
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1047 PM EDT Sun Jun 1 2025
+
+.SYNOPSIS...
+As high pressure gradually tries to build from the south and 
+west, a few more surface troughs move through from tonight into 
+Tuesday. High pressure will remain offshore on Wednesday. A cold
+front will slowly approach the area during the end of the week. 
+
+&&
+
+.NEAR TERM /THROUGH MONDAY/...
+Low pressure continues to depart to the Northeast leading to a 
+weakening pressure gradient. As high pressure tries to build in 
+from the south and west, a few more lingering surface troughs 
+will swing through. Aloft, a trough remains over the area. 
+
+A shortwave rotating through the base of the trough will move 
+through this evening, bring isolated/scattered showers to 
+inland sections.
+
+With the weakening pressure gradient, winds weaken tonight. There 
+will likely be some clouds around given the passing shortwave, but 
+confidence is low in the exact extent of cloud cover. This leads to 
+a bit of an uncertain low temperature forecast. Went with a blend of 
+MOS and NBM for now, but cloud cover trends will have to be 
+monitored and adjustments to temperatures may be needed.
+
+Smoke aloft will not make it to the surface at this time. This
+may result in milky looking skies as times and lead to some 
+filtered sunshine.
+
+&&
+
+.SHORT TERM /MONDAY NIGHT THROUGH TUESDAY/...
+Troughing aloft continues to influence the area through Monday as 
+the axis doesn't pass through until Monday evening. However, thinking 
+that cloud cover will be lower than today leading to mostly sunny 
+skies and no chances of rain. Highs looks to be right around normal 
+or a degree or two lower. With the weak pressure gradient and water 
+temps still in the upper 50s there will be enough of a water-land
+temperature difference for a sea breeze circulation. This 
+likely keeps areas along the immediate coast a few degrees 
+cooler.
+
+High pressure finally establishes itself over the area a bit more on 
+Tuesday, as heights aloft rise with a building mid and upper level 
+ridge. This will be the start of a warmer stretch of weather. Sunny 
+and dry with highs in the mid 70s to low 80s on Tuesday.
+
+&&
+
+.LONG TERM /TUESDAY NIGHT THROUGH SUNDAY/...
+An upr ridge over the region will produce warm wx thru most of the 
+extended. A strong warming trend kicks in Wed, with Thu the hottest 
+day attm per the latest progs. The latest modeling suggests a slowly 
+approaching cold front Thu, washing out over the area on Fri 
+allowing temps to recharge.  Shwrs and tstms possible late Thu with 
+the front and falling heights, then chances again Fri with the 
+residual boundary. SW flow aloft may limit extensive aftn and eve 
+development with the best dynamics W of the cwa, but low confidence 
+this far out. A stronger front with the main upr trof arrives on Sat 
+with more chances for shwrs and tstms. Could be some robust 
+development if the timing occurs during peak heating. NBM temps may 
+be too low Fri and especially Sat ahead of the main front.
+
+&&
+
+.AVIATION /03Z MONDAY THROUGH FRIDAY/...
+VFR as a weak sfc trough moves through. Winds will shift NW-NNW
+after the trough passage mainly 5-10 kt but could be briefly
+higher immediately following the trough passage. NW winds 5-10
+kt expected after daybreak Mon, backing SW at some spots. Local
+sea breezes expected at coastal terminals mainly in the
+afternoon. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+No unscheduled AMD expected. Winds could be 10-15 kt with wind
+shift after trough passage late this evening. 
+
+.OUTLOOK FOR 00Z TUESDAY THROUGH THURSDAY... 
+
+Monday night through Wednesday...VFR. 
+
+Thursday...Potential for MVFR in showers and thunderstorms in
+the afternoon/evening.
+
+Friday...Possible MVFR in afternoon showers/tstms.
+
+&&
+
+.MARINE...
+A weak pressure gradient will result in sub-SCA cond through
+Fri. There could be some pockets of higher winds and seas on 
+the ocean resulting in cond near SCA criteria at times. 
+A frontal sys may impact the waters on Sat, with SCA seas 
+modeled on the ocean attm.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through next weekend.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+There is a moderate rip current risk for Monday and Tuesday.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JMC/BG/JT
+NEAR TERM...BG/JT
+SHORT TERM...JT
+LONG TERM...JMC
+AVIATION...BG
+MARINE...JMC/BG/JT
+HYDROLOGY...JMC/JT
+TIDES/COASTAL FLOODING...

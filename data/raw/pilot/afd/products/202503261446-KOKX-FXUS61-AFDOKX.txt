@@ -1,0 +1,177 @@
+204 
+FXUS61 KOKX 261446
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1046 AM EDT Wed Mar 26 2025
+
+.SYNOPSIS...
+Low pressure passes to the east this morning, followed by a weak 
+cold front late this afternoon. High pressure then builds in 
+from the southwest tonight into Thursday, passing to the south 
+Thursday night as a weak frontal system passes to the north. A 
+warm front approaches from the southwest on Friday and will 
+remain in close proximity through the first part of next week. A
+series of disturbances will develop along the boundary to the 
+west as a warm front lifts north of the area Sunday night into 
+Monday. The trailing cold front sweeps through Monday night into
+Tuesday. High pressure builds into the area Tuesday.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Amplified upper trough extending from the Great Lakes south 
+into the Mid Atlantic translates east through tonight. This 
+kicks low pressure further out to sea with some partial 
+clearing expected late this morning before the upper trough 
+axis moves into the area. A weak cold front moves through into 
+late day and may help instigate a few showers in the afternoon 
+or early evening. Wet bulb temps in the 30s could even allow for
+a few flakes to mix in across some of the higher elevations 
+well north and west of the NYC. Regardless, expect no more than 
+a few hundredths of an inch of liquid equivalent. 
+
+Westerly winds become gusty this afternoon, but not as strong 
+as on Tuesday. Gusts will continue into the night, but less 
+frequent, as winds veer to the NW in weak cold advection.
+
+Highs today will be closer to normal in the upper 40s to lower 
+50s, with overnight lows a few degrees below normal in the upper
+20s to mid 30s.
+
+&&
+
+.SHORT TERM /THURSDAY THROUGH FRIDAY/...
+For Thursday, deepening low pressure across the Canadian Maritimes
+and high pressure nosing in from the southwest will keep conditions
+dry with winds gusts up to 20 mph possible. Highs will be similar
+in the upper 40s to lower 50s. 
+
+As the upper trough continues to translate offshore with warm
+advection on the backside, a weak warm front and/or trough
+passes through Thursday evening. Have kept it dry at this time 
+but some of the guidance hints at a sprinkle and/or brief 
+shower possible. Confidence is too low at this time to mention 
+in forecast products. 
+
+Friday will be considerably warmer in the upper 50s to lower 60s
+in a W/SW flow. However, at this time of the year any southerly
+component will keep immediate coastal locations cooler with
+water temperatures in the 40s.
+
+&&
+
+.LONG TERM /FRIDAY NIGHT THROUGH TUESDAY/...
+Unsettled conditions are possible for much of the period as a 
+complex frontal system approaches Friday night and remain over or 
+near the area through the first part of next week. 
+
+POPs increase Friday night as a warm front approaches and lifts 
+north across the region. The latest 00z forecast guidance now has 
+the front lifting far enough north, that the local area remain dry 
+for much of Saturday. In addition, with the area in warm sector, 
+unseasonable warmth is forecast with highs ranging from the middle 
+60s to lower and middle 70s across much of the area. Coastal 
+locations may remain slightly cooler.
+
+A series of shortwaves and associated low pressure systems will 
+travel along this frontal boundary, bringing increased chances for 
+rain showers Saturday night through Monday. A lot will depend on 1- 
+how far north the warm front remains and 2- the timing of each wave 
+along this frontal boundary. Overall, will cap POPs at high end 
+chance to cover the uncertainty. By Monday night into early Tuesday 
+morning, the entire complex frontal system and any subsequent waves 
+of low pressure should progress off the coast with a drier NNW flow 
+building into the area. Some of the forecast guidance is hinting at 
+another wave of low pressure developing along the cold front, which 
+could linger some precipitation into the day Tuesday. Will keep some 
+slight chance POPs in the forecast. With a colder NW flow in place, 
+some northern locations may see the precipitation end as a few snow 
+showers. 
+
+Overall forecast confidence is below average through the entire long 
+term period with multiple questions around frontal boundary 
+positioning, and mid level shortwave timing inconsistencies.
+
+&&
+
+.AVIATION /15Z WEDNESDAY THROUGH SUNDAY/...
+A weak cold front or surface trough passes through this afternoon
+into early evening.
+
+VFR. Still a chance of -shra this afternoon, but would likely 
+not cause any MVFR conditions. Winds vary mostly WNW to WSW 
+through the afternoon before becoming more NW this evening. 
+Gusts 20-25kt during the afternoon.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Low chance of vsbys briefly reduced to 3-5SM in any showers.
+
+Gusts may be occasional than frequent this afternoon.
+
+.OUTLOOK FOR 12Z THURSDAY THROUGH SUNDAY...
+
+Thursday: VFR.
+
+Friday: VFR. W wind gusts 15-20 kt.
+
+Saturday: VFR during the day, MVFR possible at night. E to SE wind 
+gusts 15 to 20 kt. 
+
+Sunday: MVFR or lower possible in light rain. E to SE wind gusts 15 
+to 20 kt.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+While sub-SCA conditions are forecast through Friday, there is
+a chance for marginal SCA conditions on the ocean in a NW flow 
+late tonight into Thursday morning, and again Thursday night
+into Friday morning in a westerly flow. 
+
+Small craft conditions remain possible this weekend into early next 
+week with seas on the ocean hovering around 5ft. Winds gusts are
+likely to remain below 25 kt for much of the weekend. A better 
+chance for SCA conditions will be Sunday night into next week 
+as a frontal system moves across the area waters. Low pressure 
+offshore may keep seas elevated for the first half of next week.
+
+&&
+
+.FIRE WEATHER...
+Gusty west winds the next couple of afternoons, low fuel
+moisture, and lowering minimum RH values into Thursday raises
+some concern for elevated wildfire should any fire be ignited.
+Land managers will be contacted to collaborate on any need
+headlines.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts are expected through the upcoming weekend.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...BC/DR/DW
+NEAR TERM...DR/DW
+SHORT TERM...DW
+LONG TERM...BC
+AVIATION...BC/JC
+MARINE...BC/DW
+FIRE WEATHER...
+HYDROLOGY...BC/DW

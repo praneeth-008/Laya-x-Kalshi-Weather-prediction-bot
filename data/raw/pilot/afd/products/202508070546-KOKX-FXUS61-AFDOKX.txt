@@ -1,0 +1,128 @@
+051 
+FXUS61 KOKX 070546
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+146 AM EDT Thu Aug 7 2025
+
+.SYNOPSIS...
+High pressure will remain in control through the weekend, then 
+slowly weakens as a frontal system approaches by the middle of 
+next week.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+A shortwave shifting through the southern portion of the forecast 
+area is interacting with some moisture convergence to produce light 
+rainfall for this region during the pre-dawn hours. High pressure is 
+otherwise in control and will provide for a clearing sky later this 
+morning. Hazy conditions aloft still possible based on the HRRR 
+smoke forecast, but surface visibility restrictions are no longer 
+anticipated. A mostly clear sky then continues for tonight, and with 
+light to calm winds, good radiational conditions for the typical 
+spots. NBM looked good for high temperatures, but went with the more 
+reliable MAV/MET MOS blend for those areas that usually see the 
+strongest radiational cooling. 
+
+&&
+
+.SHORT TERM /FRIDAY THROUGH SATURDAY NIGHT/...
+Much of the same for Friday through Saturday night with high 
+pressure stretching in from the east. Little in the way of clouds 
+through the period with highs generally in the 80s and dew points 55-
+60 both days. Radiational cooling for the usual spots both 
+nights with MAV/MET MOS blend used in those locations. 
+
+&&
+
+.LONG TERM /SUNDAY THROUGH WEDNESDAY/...
+No major changes in the long term thinking, and the NBM was 
+followed. 
+
+High pressure both aloft and at the surface will remain in control 
+through early next week. In fact, 500mb heights on the 12Z GFS over 
+the weekend increase to +2-3SD across the Northeast and eastern 
+Canada. This is in response to offshore low development over the 
+western Atlantic and an upper trough moving into the Northern Plains 
+and upper Midwest. The former is being monitored by the NHC for 
+potential tropical cyclone development. Model consensus takes this 
+low well east of the area. The upper trough sends a weak frontal 
+system toward the area by the middle of next week. A late day shower 
+or thunderstorm may be possible mainly NW of NYC Wednesday 
+afternoon/evening.
+
+Thus, looking at a warmup with near normal temperatures to start, 
+but increasing to about 5-8 degrees above normal early next week. 
+Otherwise, it will be mainly dry with plenty of sun.
+
+&&
+
+.AVIATION /06Z THURSDAY THROUGH MONDAY/...
+Hi pres remains centered NE of the area thru Fri.
+
+VFR thru the TAF period, with some -RA at times thru 7Z. VIS is 
+expected to be P6SM in the -RA.
+
+Lgt and VRB/ENE winds early this mrng becoming ESE during the day 
+and increasing to around 10kt. Winds lgt again tngt with ESE/VRB 
+direction. 
+
+  NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No unscheduled amendments expected thru 9Z.
+
+.OUTLOOK FOR 06Z FRIDAY THROUGH MONDAY... 
+
+Tonight - Monday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Sub-SCA conditions are expected through Friday night. Winds 
+will generally remain weak through the weekend. However, a 
+building easterly swell will probably bring SCA seas into the 
+ocean waters Saturday night into Sunday. The swell will be 
+emanating from low pressure over the western Atlantic. NHC is 
+monitoring an area for potential tropical cyclone development. 
+Model consensus takes this low well east of the waters.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through the middle of next 
+week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+Conditions today look similar to those of yesterday with a 3-4ft 
+swell along with a 7-8s period from the east, yielding 
+primarily a moderate risk for rip current development. For 
+Friday, the swell period may increase by another second, but 
+probably results in a widespread moderate risk once again. 
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JMC/JC
+NEAR TERM...JC
+SHORT TERM...JC
+LONG TERM...JMC
+AVIATION...JMC
+MARINE...JMC/JC
+HYDROLOGY...JMC/JC
+TIDES/COASTAL FLOODING...JC

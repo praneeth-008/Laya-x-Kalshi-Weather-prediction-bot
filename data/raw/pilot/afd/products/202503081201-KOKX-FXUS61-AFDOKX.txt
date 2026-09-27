@@ -1,0 +1,151 @@
+482 
+FXUS61 KOKX 081201
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+701 AM EST Sat Mar 8 2025
+
+.SYNOPSIS...
+A weakening frontal system passes to our south early this morning, 
+with a weak cold front quickly following. High pressure builds in 
+through Sunday morning, with a surface trough moving through later 
+in the day. Two areas of deepening low pressure then approach the 
+area through Monday night. High pressure then begins to build in 
+thereafter from the west and largely maintains control of the area
+through next week, though there will be a few weak disturbances 
+that move by.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Forecast remain on track this morning with just some minor
+adjustments to reflect current observations. A weakening 
+frontal system is approaching from the west and will get 
+absorbed by the broader low near the area as it passes to the 
+south through the morning hours. Not too far behind it, a cold 
+front will move through.
+
+Some very light returns can be seen on radar, but so far no 
+precipitation has been observed with the weakening frontal system. 
+Will keep PoPs from the previous forecast which has slight chance 
+PoPs mainly for the southern half of the area through 7 AM. Gusty 
+conditions again today as deep mixing is expected with CAA behind the 
+cold front. Winds aloft are a bit weaker, so only expecting 30 to 35 
+mph gusts. Some isolated 40 to 45 mph gusts cant be ruled out, 
+especially during the afternoon for eastern CT and eastern Long 
+Island.
+
+&&
+
+.SHORT TERM /SUNDAY THROUGH MONDAY NIGHT/...
+High pressure briefly builds in Sunday morning, but a shortwave and 
+associated surface trough look to move through in the afternoon. The 
+shortwave looks strong enough to spark isolated rain/snow showers 
+across the area. The CAMs have picked up on this activity. Gusty 
+conditions expected again on Sunday, up to about 30 mph.
+
+The flow lightens on Monday and turns to the southwest. This will 
+aid in northeast NJ, the Lower Hudson Valley and NYC warming up to 
+the upper 50s and lower 60s. Long Island and the CT coast likely do 
+not make it out of the lower to mid 50s as is typical this time of 
+year due to the marine influence.
+
+&&
+
+.LONG TERM /TUESDAY THROUGH FRIDAY/...
+No significant changes in the long term and stuck fairly close to 
+the previous forecast/NBM.
+
+A weak cold front moves through Tuesday into Tuesday night with dry 
+conditions expected. High pressure then remains in control much of 
+the rest of the week as low pressure systems pass to the north and 
+south of the area. The only chance for some light rain showers is 
+Thursday with the potential for weak mid-level energy to break off a 
+developing low over the Central US, but capped this potential at 
+slight chance or a low end chance as there isn't much model 
+consensus as of now.
+
+Temperatures on Tuesday will range from the 50s to lower/middle 60s. 
+High will then remain in the 50s for the remainder of the week.
+
+&&
+
+.AVIATION /12Z SATURDAY THROUGH WEDNESDAY/...
+The region remains between strong low pressure to the northeast 
+and high pressure to the southwest.
+
+VFR. Winds are generally out of the west 10kt or less. A few
+locastions have become light and variable. Winds will increase,
+especially after around 14z. Gusts to around 30kt by noon, 
+lasting through the afternoon before winds diminish tonight.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Amendments may be needed for wind gusts today.
+
+.OUTLOOK FOR 12Z SUNDAY THROUGH WEDNESDAY...
+
+Sunday - Monday: VFR.
+
+Tuesday: VFR, SW-S gusts up to 20kt PM.
+
+Wednesday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+There will be a lull in winds early this morning, but a Small Craft 
+Advisory remains in effect for all waters as gusts ramp up around 10 
+AM. Gusts peak this afternoon around 30 kt, with potential for a 
+brief period of 35 kt gusts for the eastern LI Sound, Peconic and 
+Gardiners Bays and the ocean waters south of Montauk.
+
+There will be another lull in winds tonight before SCA conditions 
+return to all waters on Sunday with 25 to 30 kt gusts. Thereafter, 
+conditions look to stay below SCA criteria.
+
+The next chance for SCA conditions will be Tuesday night into 
+Wednesday with a cold frontal passage possibly bringing gusts to 
+near 25 kt again with wave heights on the ocean near 5 feet.
+
+&&
+
+.FIRE WEATHER...
+Windy and dry conditions will couple to allow for an increased risk 
+in fire spread today. Relative humidity values are forecast to 
+sit around 30 percent in the afternoon, with frequent gusts 30 
+to 35 mph. In coordination with fire weather partners, a Special
+Weather Statement was hoisted across all areas tomorrow to 
+highlight this elevated danger should ignition occur.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through the end of next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 1 AM EST Sunday for ANZ331-332-335-
+     338-340-345.
+     Small Craft Advisory until 7 AM EST Sunday for ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...BC/JT
+NEAR TERM...BC/JT
+SHORT TERM...JT
+LONG TERM...BC
+AVIATION...BC
+MARINE...BC/JT
+FIRE WEATHER...
+HYDROLOGY...BC/JT

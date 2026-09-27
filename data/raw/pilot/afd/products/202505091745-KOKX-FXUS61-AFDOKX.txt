@@ -1,0 +1,165 @@
+024 
+FXUS61 KOKX 091745
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+145 PM EDT Fri May 9 2025
+
+.SYNOPSIS...
+A frontal system and associated low will slowly track across the 
+area today. A weak cold front will cross the region Saturday night, 
+with high pressure building in for early next week. Another low 
+pressure system approaches for the middle of next week.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Forecast has been updated with primarily minor adjustments to
+PoPs and rainfall amounts. Enhanced lift via llj along with a
+narrow corridor of instability will be producing moderate to
+periodically heavy rainfall over eastern Long Island into this
+afternoon. Farther west, lift is not as strong and likely
+lacking a convective element, so mainly light to moderate
+rainfall with still a possibility of brief heavy downpours.
+
+Potential impacts remain primarily minor urban/poor
+drainage/small stream flooding. Still cannot rule out localized
+flash flooding over eastern LI with up to around 1.50 inch per
+hour rainfall rates. No severe thunderstorms anticipated with 
+stable low levels and only modest shear.
+
+LLJ and deepest moisture begin to shift east out of the forecast
+area late this afternoon with a lowering threat of showers, but
+a weak surface low tracking through this evening along with a 
+potent shortwave aloft maintain the threat of additional showers
+tonight.  
+
+Flood Watch remains in effect for the time being. Given trends
+in obs and models, may be able to cancel the watch before its 1
+am expiration time.
+
+&&
+
+.SHORT TERM /SATURDAY THROUGH SUNDAY NIGHT/...
+Dry weather is expected by midday Saturday and into the weekend with 
+the low exiting to the northeast and high pressure gradually 
+beginning to take over.
+
+Another shortwave and associated surface cold front moves across the 
+area Saturday night into early Sunday morning with Canadian high 
+pressure building into its wake and gradually rising heights. 
+
+Breezy NW/WNW winds are expected through the day Saturday due to
+an increased pressure gradient at the surface from low pressure
+departing northeast. 
+
+Highs will remain at or slightly above normal in the upper-60s to 
+low-70s on Saturday and Sunday.
+
+&&
+
+.LONG TERM /MONDAY THROUGH THURSDAY/...
+High pressure will keep conditions dry through at least much of 
+Tuesday. The next chance of precip comes by later Tuesday or 
+Wednesday with the approach of the next low pressure system.
+
+Temperatures through the long term will remain at or slightly above 
+normal with highs in the 70s.
+
+&&
+
+.AVIATION /18Z FRIDAY THROUGH WEDNESDAY/...
+Low pressure develops over the area this afternoon and pulls away to 
+the north and northeast tonight. Weak high pressure off to the west 
+builds closer during Saturday.
+
+Mainly IFR conditions through this afternoon, with pockets of LIFR 
+due to low ceilings at times for a few terminals. IFR is expected to 
+prevail through 23-02z for most terminals, but will linger longer 
+(until 09-13z) for eastern terminals like KISP and KGON. Conditions 
+improve to VFR towards 07-09z for the city terminals, but later 
+Saturday morning (mainly just after the morning push) for the more 
+eastern and northern terminals (KSWF, KGON, KISP).
+
+The steadier rainfall ends earlier for the NYC terminals early this 
+afternoon, but lingers longer into a portion of the afternoon for 
+KSWF and eastern northeastern terminals like KISP, KGON, and KBDR. 
+Embedded TSRA remain possible for KGON where a TEMPO group was 
+utilized. Some lingering showers and vicinity showers this evening 
+into a portion of the overnight, but prevailing showers not expected 
+except out towards KGON. 
+
+NYC and LI terminals will have a SE wind direction for a time early 
+this afternoon. Also a brief period of higher winds of 15 kt and 
+gusts to around 25 kt at the eastern coastal terminals. By this 
+evening the low pressure system moves northeast with winds in its 
+wake becoming W or NW and increasing in speed into Saturday
+morning.
+
+     NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Amendments likely through this evening with changing flight 
+categories and wind direction changes. A few gusts to around 20 kt 
+possible.
+
+Timing of improving flight categories tonight could be delayed 
+by 2-3 hours.
+
+.OUTLOOK FOR 18Z SATURDAY THROUGH WEDNESDAY...
+
+Saturday afternoon: VFR, NW winds 150g25-30kt.
+
+Sunday through Tuesday: VFR.
+
+Wednesday: MVFR or lower possible in showers.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Seas build as low pres develops S of the waters and then tracks
+across LI. A SCA has been issued on the ocean for this. Winds 
+increase all areas late Fri ngt. Speeds are mrgnl so did not 
+issue a sca on any of the protected waters for this.
+
+SCA conditions could continue on the ocean waters through Saturday 
+for marginal 25kt gusts and 5 ft seas. Thereafter, conditions look 
+to remain below SCA.
+
+&&
+
+.HYDROLOGY...
+An additional 1-2 inches of rainfall potential over eastern LI,
+otherwise a half inch to inch elsewhere. 
+
+Potential impacts remain primarily minor urban/poor
+drainage/small stream flooding. Still cannot rule out localized
+flash flooding over eastern LI.
+
+There are no hydrologic concerns Saturday through mid next 
+week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Flood Watch until 1 AM EDT Saturday for CTZ005>012.
+NY...Flood Watch until 1 AM EDT Saturday for NYZ067>071-078>081-177-
+     179.
+NJ...Flood Watch until 1 AM EDT Saturday for NJZ002-004-103-104.
+MARINE...Small Craft Advisory until 5 PM EDT Saturday for ANZ350-353-
+     355.
+
+&&
+
+$$
+
+SYNOPSIS...BR
+NEAR TERM...JC/BR
+SHORT TERM...BR
+LONG TERM...JT
+AVIATION...JE
+MARINE...BR/JT
+HYDROLOGY...BR/JT

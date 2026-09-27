@@ -1,0 +1,192 @@
+967 
+FXUS61 KOKX 201120
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+720 AM EDT Fri Jun 20 2025
+
+.SYNOPSIS...
+Low pressure will move across northern New England and eastern
+Canada today as high pressure builds to the south, while a
+weakening disturbance approaches from the northwest late today.
+A warm front will pass to the north this weekend as the high
+becomes established off the Mid Atlantic and Southeast coasts.
+The high will remain in place early to mid next week. A frontal
+system may impact the area late next week.
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+Cold front moving into ern Long Island/SE CT with winds shifting
+NW and gusting to 25-30 kt. Gusts up to 25 should continue
+through much of the day today as winds become more westerly
+after passage of an upper trough. Skies should be mostly sunny,
+then a trailing shortwave trough may generate sct showers/tstms 
+from NYC north/west late today. Temps should reach the lower and
+mid 80s in most places.
+
+&&
+
+.SHORT TERM /6 PM THIS EVENING THROUGH SUNDAY/...
+Ongoing sct convection in the late day hours should wane after
+sunset. Expect partly to mostly cloudy skies tonight especially
+inland as cloud debris from an upstream MCS overspreads the 
+area.
+
+Fcst for daytime Sat is dry, with expectation that another
+upstream MCS should pass to the north along a warm front late 
+day Sat into Sat night, but this will have to be watched as it
+could skirt areas from NYC north/west per SPC Day 2 Outlook
+which carries a marginal svr risk. Temps should be a little 
+warmer, near 90 in NYC and NE NJ and in the mid/upper 80s 
+elsewhere. 
+
+Another MCS should traverse ern CT on Sunday. As mentioned in
+the SPC Day 3 outlook, guidance varies substantially regarding 
+the strength/timing of the shortwave trough moving across New 
+England Sunday morning, and there is some potential for isolated
+strong tstms. A slower system could result in a more robust 
+diurnal threat, while a faster system may confine the primary 
+threat to the morning. Attm have confined this threat to SE CT
+mainly for the morning hours. 
+
+Meanwhile, high heat and increasing humidity should commence on
+Sunday. H8 temps reaching 21-22C (at least in urban NE NJ) with
+a downslope W flow supports GFS MOS idea of high temps reaching
+100 in urban NE NJ, the upper 90s in surrounding areas 
+including NYC, and the lower/mid 90s elsewhere to the 
+north/east. A blend of the NBM and its 90th percentile is also 
+close to these values; NBM 90th percentile has more widespread 
+100+ temps inland as well as higher temps into eastern CT, but 
+did not go with these higher numbers as any convection could 
+limit temps especially across SE CT. Heat index values as 
+dewpoints increase should be a few degrees higher, with 105 
+possible in urban NE NJ, 100-104 for the NYC metro area and 
+parts of the Hudson Valley/SW CT, and mid/upper 90s most 
+elsewhere except for coastal SE SE and the south shore/forks of 
+Long Island.
+
+&&
+
+.LONG TERM /SUNDAY NIGHT THROUGH THURSDAY/...
+Key Messages:
+
+* Increasing confidence in hot and humid conditions early next
+  week.
+
+Global guidance continues to show a shift in the pattern as a
+large sprawling high pressure system develops to the south 
+early next week. This will result in dry and mostly clear 
+conditions under a light SW flow. This will advect moisture into
+the area so that dewpoints rise into the upper 60s to low 70s 
+through early to mid next week. As a vertically stacked ridge 
+develops, height rises allow the middle and lower atmosphere to 
+warm such that 500 mb heights of 597 dm are positioned over the
+area by Monday and Tuesday.
+
+Ample surface heating will provide for the lower BL to mix down 
+these warmer temperatures with surface temperatures expected to 
+climb into the middle 90s to possible near 100 for some 
+locations Monday and Tuesday. The immediate coast may rise into 
+the low to mid 90s as well, with a generally W-SW flow
+preventing the ocean from cooling the air mass much. Given the
+high dew points coinciding with the heat, heat index values for
+interior portions of the area may exceed 100 degrees for 
+several days. Closer to the coast, heat index values in excess 
+of 95 degrees remain possible. The peak of the heat will be on 
+Monday and Tuesday.
+
+By Wednesday, heights begin to fall a bit as the ridge slowly 
+weakens, giving way to more mid-level energy approaching from 
+the north. This may also result in the development of afternoon 
+showers and thunderstorms Wednesday and Thursday as the heat 
+gradually falls off. Highs on Wednesday will still be above 
+average, generally in the upper 80s to mid 90s. By Thursday,
+highs return to near normal with temperatures in the low to 
+mid 80s. A frontal system may develop and impact the area late 
+in the week as well.
+
+&&
+
+.AVIATION /12Z FRIDAY THROUGH TUESDAY/...
+The terminals remain behind a cold frontal passage this morning. Western
+Atlantic high pressure builds in today and through the weekend.
+
+Mainly VFR conditions through the TAF period. There is an
+isolated chance for a shower to approach from the NW this
+evening and then again overnight into Saturday morning. Chance
+of occurrence is too low and confidence not high enough to
+include in the TAFs at this time.
+
+Winds are W/WNW this morning at 10-15 kt with gusts upwards of 
+20-25 kt behind the cold frontal passage. This westerly flow and
+gusts should persist through the day. Gusts upwards of 30kt
+possible. Gusts expected to fall off after 22Z, but may linger 
+a few hours into the evening, especially for the NYC metro.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No unscheduled amendments expected. Some gusts may approach 30
+kt today.
+
+.OUTLOOK FOR 12Z SATURDAY THROUGH TUESDAY... 
+
+Saturday through Tuesday: Mainly VFR. SW wind gusts 15-20 kt for
+Sunday. 
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+SCA issued for NY Harbor and the Long Island south shore bays
+until 8 AM as winds gust up to 25 kt following a cold frontal
+passage. The advy there may need to be extended in time into at
+least part of today, and possibly in area to include the western
+Sound, as W flow with gusts up to 25 continue through much of 
+the day over adjacent land areas and could impact the near shore
+waters. On the ocean, seas 4-6 ft should continue through the
+morning on all waters, then E of Fire Island Inlet this
+afternoon/evening.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns attm.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+The rip current risk today is moderate with lingering 4-5 ft 
+seas on a 7s wave period. The risk may end up increasing to high
+for the Suffolk beaches if seas are slightly higher than
+expected. 
+
+Saturday looks more marginal, with diminishing swell.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...High Risk for Rip Currents through this evening for NYZ080-081.
+NJ...None.
+MARINE...Small Craft Advisory until 8 AM EDT this morning for ANZ338-
+     345.
+     Small Craft Advisory until 11 PM EDT this evening for ANZ350.
+     Small Craft Advisory until 6 PM EDT this evening for ANZ353.
+     Small Craft Advisory until noon EDT today for ANZ355.
+
+&&
+
+$$
+
+SYNOPSIS...BG/MW
+NEAR TERM...BG
+SHORT TERM...BG
+LONG TERM...MW
+AVIATION...MW
+MARINE...BG/MW
+HYDROLOGY...BG/MW
+TIDES/COASTAL FLOODING...

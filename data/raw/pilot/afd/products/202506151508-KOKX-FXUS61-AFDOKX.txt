@@ -1,0 +1,175 @@
+053 
+FXUS61 KOKX 151508
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1108 AM EDT Sun Jun 15 2025
+
+.SYNOPSIS...
+High pressure builds in from the northeast today and will 
+influence the area into the early week. A warm front may move 
+through Tuesday night, with a wave of low pressure impacting the
+area Wednesday morning.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Introduced chance PoPs (25 to 30 percent) generally from the City on 
+south and west. Pockets of light rain are possible at times thru the 
+remainder of the day, though the bulk of this period remains dry at 
+any one spot with overcast skies. Elsewhere, can't rule out a spotty 
+sprinkle, but coverage looks much more sparse closer to the high to 
+the north. Previous discussion follows.
+
+A wave of low pressure pulls a frontal boundary farther offshore 
+today while high pressure noses in from the northeast. Aloft, a 
+mainly zonal flow is expected.
+
+With high pressure nosing in from the northeast, some drier air 
+filters in, but eastern CT and eastern LI are the main locations 
+that will see the advantage of this as far as breaks of sun if they 
+are to occur. Plenty of moisture will still be around in the low 
+levels to keep mostly cloudy skies around for northeast NJ, NYC and 
+western LI. Given this moisture and the potential for very weak lift 
+(likely from surface to 900mb speed convergence), have reintroduced 
+PoPs for these areas. Still thinking the CAMs are overdone, but 
+thinking at least slight chance/chance of light rain. This is not a 
+washout by any means and much of the day should remain dry. Other 
+areas likely stay dry with the influence of high pressure.
+
+Stuck with NBM for highs today as it seems to reflect effects from 
+differences in cloud cover well. The warm spots will likely be in 
+eastern CT with some low 70s. Elsewhere expect 60s.
+
+&&
+
+.SHORT TERM /MONDAY THROUGH TUESDAY NIGHT/...
+Some very slight height rises are expected on Monday with shortwave 
+ridging aloft. A similar surface pattern to Sunday is expected with 
+high pressure remaining in place, weakening slightly. Dry conditions 
+are expected. Went a bit cooler than the NBM as an easterly flow and 
+some cloud cover will likely keep us from getting out of the upper 
+60s/lower 70s.
+
+High pressure weakens more on Tuesday and the frontal boundary to 
+our south starts returning north as a warm front. The front could 
+move through as Tuesday night. This, and another wave of low 
+pressure along the front will bring more rain to the area. The 
+latest NAM and GFS are both hinting at the possibility of a long
+and skinny MUCAPE profile with pwat values around 2.25 inches 
+early Wednesday morning. It is too early for specifics but there
+is potential for efficient rainfall with heavy downpours. At 
+this time the storm motion appears to be around 30 kts. This 
+trend will need to be monitored.
+
+&&
+
+.LONG TERM /WEDNESDAY THROUGH SATURDAY/...
+A low pressure system tracking through southern Canada Wednesday 
+will bring a warm front through the region by late Wednesday.
+A warm and humid airmass will then be in place for Wednesday night 
+into Thursday. The forecast remains on track with the timing of a 
+cold front passing through the region Thursday night. Increasing 
+surface based CAPE, up to 1500 J/kg Thursday, along with increasing 
+shear, and surface instability will result in thunderstorms, a few 
+of which could contain briefly heavy rainfall. Precipitable water 
+values have decreased a little from Saturday's forecasts, and storms 
+will be moving rather quickly, which will lessen the impacts for 
+excessive rainfall and potential hydrologic impacts. After the 
+passage of the cold front an extended period of dry weather is 
+expected as ridging increases to the west and moves into the region 
+Friday night into next weekend. There is only a slight chance of 
+afternoon/evening thunderstorms across the interior Friday as a weak 
+surface trough sets up, however, with increasing heights and 
+subsidence, capping may prevent any development.
+
+&&
+
+.AVIATION /15Z SUNDAY THROUGH THURSDAY/...
+A stationary front will remain well to the south of the 
+terminals, across the Mid Atlantic states through tonight. 
+Meanwhile, high pressure builds towards the terminals from the 
+northeast today, and remains through tonight.
+
+Improvement looks to be a bit slower than forecast as the entire
+forecast area is MVFR or lower. Pockets of very light rain
+moving over or near the NYC terminals, reducing vsbys and even
+down to IFR at times at KEWR and KTEB. KGON which was VFR at 12Z
+is now back down to MVFR. Confidence is decreasing on a period 
+VFR in the city later this afternoon. Ceilings may also be a 
+bit lower than forecast even for MVFR locations. Still expect 
+KGON to go back to VFR.
+
+NE to E winds around 10 kt, or less, through the TAF period. 
+
+    NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Brief IFR possible at KJFK and KLGA, more likely this morning at
+KTEB and KEWR.
+
+Confidence decreasing on a period of VFR late this afternoon 
+into early evening.
+
+.OUTLOOK FOR 12Z MONDAY THROUGH THURSDAY... 
+
+Monday: MVFR, possibly VFR late day at KSWF and KGON.
+
+Tuesday: MVFR, IFR possible. A chance of showers at night.
+
+Wednesday - Thursday: Mostly VFR. A chance of showers and 
+thunderstorms, mainly in the afternoon and evening.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Still some occasional 5 ft seas across coastal ocean waters 
+from Sandy Hook to Moriches Inlet. These should largely subside 
+into the afternoon and a weak pressure gradient results in sub- 
+SCA conditions through Tuesday night.
+
+Wednesday through Friday winds and seas continue to remain 
+below SCA levels on the forecast waters. However, with an 
+increasing southwest flow, ahead of a cold front Thursday, ocean
+seas and gusts may briefly approach SCA levels late day into 
+the early evening.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through next weekend at this
+time.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+Based on latest surf observations, rips may be more pronounced
+today. Thus, will upgrade to a moderate rip current risk. 
+Easterly swells will subside a bit heading into this evening so
+the risk could subside some. The main wave component is an 
+easterly wind wave 3-4 ft at 6-8s. A 1-2ft southeast swell at 
+7-9s also exists. 
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...MET/JT
+NEAR TERM...DR/JT
+SHORT TERM...JT
+LONG TERM...MET
+AVIATION...MET/DW
+MARINE...MET/JT
+HYDROLOGY...MET/JT
+TIDES/COASTAL FLOODING...

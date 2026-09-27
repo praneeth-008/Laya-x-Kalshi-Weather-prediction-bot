@@ -1,0 +1,156 @@
+969 
+FXUS61 KOKX 112339
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+639 PM EST Sat Jan 11 2025
+
+.SYNOPSIS...
+Intensifying offshore low pressure will move farther out to sea
+tonight while high pressure slowly builds from the west. The
+high will settle over the area Sunday into Sunday night. A pair
+of cold fronts will move across from Monday night into 
+Wednesday. High pressure will build in from Thursday into 
+Friday. A frontal system may impact the area next weekend.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM SUNDAY MORNING/...
+Most of the light snow/flurries have ended. Some very light
+returns still seen on radar, so a stray flurry cannot be ruled 
+out for the next hour or so. Dry cond then expected for the rest
+of the night and clearing skies from west to east. NW winds are 
+already increasing and becoming brisk (gusts 20-25 mph), 
+especially in the NYC metro area and along the coast. 
+Temperatures should fall to the lower/mid 20s for most spots and
+to the upper 20s in the NYC metro.
+
+&&
+
+.SHORT TERM /6 AM SUNDAY MORNING THROUGH SUNDAY NIGHT/...
+High pressure will be in control both at the surface and aloft
+daytime Sunday night as an upper ridge settles over the region.
+This will allow for dry conditions, weak winds and temperatures
+to at or just above normal. Highs will be in the upper 30s/lower
+40s. 
+
+As the upper ridge slides east Sunday night, a quasi-zonal flow
+aloft may bring some mid level clouds into the area, especially
+inland closer to some weak forcing aloft. Temps will fall to
+the lower 30 in NYC, the 20s most elsewhere, with some teens 
+possible in the Long Island Pine Barrens.
+
+&&
+
+.LONG TERM /MONDAY THROUGH SATURDAY/...
+Mainly dry conditions in the long term with the passage of a 
+couple of moisture starved cold fronts, one late Monday into 
+Monday night and another weak front or surface trough on 
+Wednesday. Lift is too weak associated with these features to 
+allow for any widespread precipitation. However a stray 
+snow/rain shower or flurry cannot be ruled out with these 
+passages, with better chances Monday than Wednesday, but again, 
+have gone with a dry forecast. 
+
+After Monday and the passage of the cold front, Canadian high 
+pressure builds in and brings another round of cold air from Tuesday 
+through Thursday. 850 temperatures across deterministic models show 
+-13 to -16 C during this time frame. NBM high temperatures range 
+from the upper 20s to around freezing during this time frame. Stuck 
+close to the NBM for temperatures, but given the aforementioned 850 
+temperatures, these highs may be a couple of degrees too warm. 
+Additionally, the spread between the 25th and 75th percentile in the 
+NBM is about 3 to 4 degrees F. Therefore, would not be surprised if 
+subsequent forecasts show lower temperatures during this period. 
+Low temperatures are expected to be in the teens to 20s. 
+
+Zonal flow aloft from Monday into Tuesday, then a series of weak 
+shortwave troughs move through during the week. The next chance for 
+any precipitation comes next weekend as a frontal system may impact 
+the region.
+
+&&
+
+.AVIATION /00Z SUNDAY THROUGH THURSDAY/...
+High pressure builds to the west of the terminals tonight 
+through Sunday.
+
+VFR, except for lingering MVFR ceilings at KGON through 02Z to
+03Z.
+
+Winds remain from the NW into Sunday afternoon, when winds begin
+to back toward the W and WNW with speeds diminishing. Gusts
+continue this evening, and gradually diminish before ending 06Z
+west and 09Z east as the high builds to the west. Gusts may end
+or become more occasional late this evening.
+
+  ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No unscheduled amendments expected.
+
+
+OUTLOOK FOR 00Z MONDAY THROUGH THURSDAY...
+
+Sunday night-Monday: VFR.
+
+Monday night: VFR. W wind gusts 15-20 kt develop.
+
+Tuesday-Wednesday: VFR. NW wind gusts near 20-25 kt. Wind gusts 
+diminish Wednesday night.
+
+Thursday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Winds are starting to gust to 25 kt ahead of earlier fcst at 
+some land sites invof NY Harbor, and gusts are also already 
+higher than anticipated on the central Sound. So the SCA has
+been expanded to include all waters except the western Sound 
+and the Great South Bay, for gusts 25-30 kt expected and ocean 
+seas building to 3-5 ft. 
+
+Winds and seas diminish late tonight into Sunday morning via
+building high pressure.
+
+SCA conditions likely to develop Monday night for the ocean waters 
+and Tuesday for the non-ocean waters, continuing through Wednesday 
+and possibly Wednesday night. Wind gusts of 25 to 30 kt are expected 
+on strong cold advection from Tuesday into Wednesday on all
+waters. Waves on the ocean waters peak at 4 to 7 ft Tuesday 
+night, with 5 ft waves expected over the central sound. Waves 
+diminish Wednesday, with wave heights on ocean waters falling 
+below 5 ft Wednesday night.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through the first half of next
+weekend.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 4 AM EST Sunday for ANZ331-332-340.
+     Small Craft Advisory until 1 AM EST Sunday for ANZ338.
+     Small Craft Advisory until 10 AM EST Sunday for ANZ350-353.
+     Small Craft Advisory until 7 AM EST Sunday for ANZ355.
+
+&&
+
+$$
+
+SYNOPSIS...BG/JP
+NEAR TERM...BG/JP
+SHORT TERM...BG
+LONG TERM...JP
+AVIATION...MET
+MARINE...BG/JP
+HYDROLOGY...BG/JP

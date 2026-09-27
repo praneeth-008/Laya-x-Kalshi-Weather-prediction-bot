@@ -1,0 +1,176 @@
+702 
+FXUS61 KOKX 241721
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+121 PM EDT Sat May 24 2025
+
+.SYNOPSIS...
+Low pressure over New England slowly tracks into the Canadian 
+Maritimes this weekend before a broad area of high pressure 
+builds over the region through the beginning of next week. A 
+frontal system may impact the area for the middle of the week.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Closed low trough continues to swing through the Northeast 
+today, with the surface low drifting from northern New England 
+into Nova Scotia. Shortwave rotating around the broader trough 
+could help to instigate showers at times, though the day is far 
+from a washout.
+
+Given the cold pool aloft, H85 progged near freezing, temperatures
+remain unseasonably cool, and afternoon highs in the low to mid
+60s run a good 5 to 10 degrees below climo for late May. A bit 
+tighter pressure gradient with the slowly exiting low and 
+building high off to the west will lead to a bit stronger flow 
+from the WNW, supporting gusts 20 to 30 mph thru the day.
+
+Cyclonic flow aloft has led to mostly cloudy skies becoming 
+mostly cloudy this afternoon, and with the shortwave energy and 
+steeper low level lapse rates with the cold pool, isolated to
+scattered showers are beginning to pop up, and may continue 
+into the early evening hours. Continued to go a bit above NBM 
+PoPs to include chance (25-40%) probabilities inland and slight 
+chance (<25%) along the coast.
+
+Any showers should largely end after sunset with loss of 
+heating and instability. Skies become mostly clear and set up
+another relatively cool night, falling into the 40s inland and 
+lower 50s closer to the coast.
+
+&&
+
+.SHORT TERM /SUNDAY THROUGH SUNDAY NIGHT/...
+Slow moving low meanders over the Canadian Maritimes on Sunday as 
+high pressure over the Great Lakes continues to build in locally.
+
+Still additional shortwave energy rotating around the trough
+thru late day, which will maintain at least the chance for a 
+few rain showers at times, though coverage appears lower than on
+Saturday. Best chance looks to be in the afternoon across the 
+interior, mainly north and west of NYC, but can't rule out 
+entirely a few isolated showers down to the coast. Plenty of 
+stratocu development once again, which should lead to more 
+clouds than sun much of the day.
+
+Temperatures begin to moderate about 5 degrees from the start of the 
+weekend, and daytime highs range from mid 60s to around 70. A more 
+relaxed pressure gradient will slacken the flow from the previous 
+day as well. Any convective activity dissipates by early evening
+as temperatures fall back into the 40s and 50s once again overnight.
+
+&&
+
+.LONG TERM /MONDAY THROUGH FRIDAY/...
+High pres will build over the area Mon and Tue. As nwly flow aloft 
+develops, despite the high building in, there could be an isold shwr 
+each day particularly across the interior. A warming trend thru the 
+period with temps close to normal on Tue.
+
+Zonal flow aloft then develops for Wed-Fri. This will allow for chcs 
+for shwrs, depending on the exact timing of any embedded shrtwv 
+energy. Cooler on Wed with a light sely flow off the ocean, then a 
+waa regime develops thru the end of the week with another slight 
+warming trend the result. Temps will be held back a little on Thu 
+due to continued onshore component flow. It would not be surprising 
+to see some fog develop by Thu mrng, with perhaps some additional 
+fog Thu ngt.
+
+&&
+
+.AVIATION /18Z SATURDAY THROUGH THURSDAY/...
+Low pressure will continue to slowly track over the Canadian 
+Maritimes through Sunday.
+
+VFR. Brief MVFR ceilings possible this afternoon and early this 
+evening, mainly in isolated-scattered showers.
+
+W-WNW winds 10-15 kt with gusts 20-25 kt. Winds and gusts weaken 
+tonight, settling to around 10 kt or less overnight. Winds WNW-NW 
+winds Sunday increase to 10-15 kt with gusts around 20 kt.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Isolated showers this afternoon and early evening. 
+
+End time of gusts this evening may be off by 1-2 hours. 
+
+.OUTLOOK FOR 18Z SUNDAY THROUGH THURSDAY...
+
+Sunday Afternoon-Night: VFR. NW winds gusts around 20 kt. 
+
+Monday-Tuesday: VFR.
+
+Wednesday-Thursday: MVFR possible. Chance of showers.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+No changes to winds and seas with this update.
+
+Small Craft Advisory (SCA) on the ocean remains in effect 
+through 22Z this evening with marginal 25 kt gusts and 5 ft seas
+expected. SCA still includes NY Harbor and LI South Shore Bays 
+as wind gusts will likely end up near 25 kt late morning into 
+the afternoon. Winds lighten this evening, and sub SCA 
+conditions then expected on all waters tonight through Sunday 
+night.
+
+Winds and seas look to remain blw sca lvls Mon-Thu with a broad 
+area of high pres in the region.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts expected through Friday of next week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+There is potential for localized minor coastal flooding Sunday
+into early next week with a new moon occurring Monday evening, 
+causing areas to need as little as 1/4 ft of tidal departure for
+minor coastal flooding.
+
+There is a high risk of rip currents along local Atlantic beaches 
+through this evening due to elevated ocean seas up to 5 ft and 
+WNW flow near 15 kt with stronger gusts. Modeled rip current 
+probabilities yields highest threat from late morning into 
+early afternoon.
+
+Outlook for the rest of the Memorial Day Weekend: 
+
+The rip current risk for Sunday is moderate as winds and seas 
+gradually subside.
+
+Rip current risk reduces to low for Memorial Day, as swells continue 
+to subside.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...High Risk for Rip Currents until 9 PM EDT this evening for NYZ075-
+     080-081-178-179.
+NJ...None.
+MARINE...Small Craft Advisory until 6 PM EDT this evening for ANZ338-
+     345-350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JMC/DR
+NEAR TERM...DR/MET
+SHORT TERM...DR
+LONG TERM...JMC
+AVIATION...DS
+MARINE...JMC/DR/MET
+HYDROLOGY...JMC/DR
+TIDES/COASTAL FLOODING...

@@ -1,0 +1,155 @@
+011 
+FXUS61 KOKX 032150
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+550 PM EDT Sun Aug 3 2025
+
+.SYNOPSIS...
+High pressure remains in control through next weekend.
+
+&&
+
+.NEAR TERM /THROUGH MONDAY/...
+High pressure will result in another cool night with light 
+winds and mostly clear skies (minus haze/smoke aloft from 
+western Canadian fires). Lows will generally be 3 to 5 degrees
+below normal, but even cooler across locations that radiate 
+well, in particular the Pine Barrens region of Long Island.
+
+&&
+
+.SHORT TERM /MONDAY NIGHT THROUGH WEDNESDAY/...
+The upper trough will gradually lift out of eastern Canada this
+period, while heights/ridging build northward along the eastern
+seaboard. This will allow for warmer conditions and a bit of a
+bump in humidity. In addition, smoke from Canadian wildfires,
+most pronounced across the Great Lakes and eastern Canada will 
+settle south tonight and into the area Monday (per the 12Z 
+HRRR). Both vertically integrated smoke and near surface smoke 
+concentrations will increase late tonight into Monday afternoon.
+Model visibilities are not showing much in the way of visibility
+restrictions. For the time, will mention haze across the area 
+Monday. This will be closely monitored and would not be surprised
+if state DECs issues an air quality alerts for Monday. Beyond
+Monday, the smoke may lift back to the north due to the 
+aforementioned height rises along the east coast. 
+
+As for temperatures, highs both Monday and Tuesday will be in 
+the 80s, a few degrees above normal. There may even be a spotty 
+90 across metro NJ. Lows will be in 60s to around 70, highest 
+across the NYC metro. An anticipated increase in cloud cover 
+Tuesday night into Wednesday and an easterly flow (due to 
+strengthening high pressure to the north), will keep highs a 
+few degrees cooler.
+
+&&
+
+.LONG TERM /WEDNESDAY NIGHT THROUGH SUNDAY/...
+***Key Points***
+
+The NBM was largely followed with this update with no major changes. 
+
+Key Points:
+
+* Dry conditions are expected through next weekend with high 
+  pressure in control
+
+* Seasonable temperatures through the period with highs in the 80s. 
+  Humidity levels will creep up a bit, but are not expected to be 
+  excessive during this time frame. 
+
+A decent stretch of sensible weather is in store for the extended as 
+global models and their respective ensembles advertise a building 
+upper ridge and high pressure at the surface much of the period.
+
+&&
+
+.AVIATION /22Z SUNDAY THROUGH FRIDAY/...
+High pressure remains over the region through Monday.
+
+VFR. Potential for MVFR vsbys with smoke on Monday, but
+confidence is not high enough to include in the TAF. Vsby may
+lower to MVFR, but likely not below that. If smoke does occur, 
+terminals that get a seabreeze would likely improve back to VFR.
+
+Flow will be light and VRB away from the coast, with a seabreeze
+along the coast today. Light and VRB everywhere tonight. Winds 
+on Monday will be similar to today.
+
+
+     NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Wind shift/sea breeze timing may be off by an hour or so today
+and Monday.
+
+Uncertainty with how smoke will affect vsby on Monday, if at all.
+Potential for vsby to lower to MVFR, but likely not below that.
+
+
+.OUTLOOK FOR 18Z MONDAY THROUGH FRIDAY... 
+
+Monday Afternoon: Potential for MVFR vsby in smoke.
+
+Tuesday-Friday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Sub-SCA conditions are on tap through Wednesday. An easterly 
+swell will gradually build through the period with seas 
+building to around 4 ft on Wednesday and 5 ft Wednesday night. 
+Seas are forecast to remain around 5 ft through Friday, but this
+will depend on the magnitude and location of low pressure well 
+off the Mid Atlantic coast.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through next weekend.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+The pressure gradient remains weak for Monday. However, the 
+pressure gradient does steepen a bit for Tuesday with low 
+pressure well out in the Atlantic and a strengthening high 
+pressure area moving across the Canadian Maritimes. 
+
+For Monday, light and variable winds become more southerly along the 
+coast in the afternoon. For Tuesday, more consistent slowly 
+increasing east to southeast winds are forecast. The onshore 
+fetch increases Tuesday. 
+
+Lower waves, near 1 to 2 ft, and light winds keep a low rip current 
+risk for the ocean beaches through Monday. The easterly winds 
+Tuesday could very well reach up to around 10 kt in the
+afternoon and with the developing fetch and slightly building 
+waves, to near 3 ft, the rip current risk is moderate for the 
+ocean beaches Tuesday.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...Air Quality Alert from midnight tonight to midnight EDT Monday 
+     night for NYZ067>075-176-178.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JP/DW
+NEAR TERM...DW
+SHORT TERM...DW
+LONG TERM...JP
+AVIATION...JT
+MARINE...JP/DW
+HYDROLOGY...JP/DW
+TIDES/COASTAL FLOODING...JM

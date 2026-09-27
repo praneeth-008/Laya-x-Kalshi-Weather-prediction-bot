@@ -1,0 +1,165 @@
+263 
+FXUS61 KOKX 171706
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+106 PM EDT Thu Jul 17 2025
+
+.SYNOPSIS...
+A cold front over the Ohio Valley and Lower Great Lakes this
+morning will work east today, passing through the area this
+evening. Weak high pressure builds in Friday into Friday night and
+then offshore Saturday. A frontal system will impact the region 
+Saturday night and Sunday. High pressure builds in for early
+next week.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Multiple MCV's from the Great Lakes east to the NJ coast will 
+get absorbed into the shortwave trough lifting across the 
+Northeast this morning into this afternoon. For the most past, 
+CAM's show little if any convection, with the 00Z NSSL WRF the 
+most aggressive in swinging a broken line through the area 
+during the mid to late afternoon. Weakening mid level lapse 
+rates and drying moisture profiles all point to limited activity
+this afternoon/early this evening, with mainly isolated to 
+widely scattered convection. There is moderate instability with 
+increasing DCAPE this afternoon and 35-40kt of mid-level flow. 
+SPC has the much of the area in a marginal risk for an isolated 
+severe threat. Expect cold front to come through perhaps with 
+something isolated. 
+
+A heat advisory remains up for the entire forecast area through
+10 PM. It will be another hot and humid day with heat indices 
+around 100 for most locales, with a few spots up to 102-103. 
+Used a blend of the NBM with CONSALL as dew points should fall 
+some this afternoon with a drying vertical moisture profile as 
+winds veer more westerly. NBM deterministic temperatures have 
+been trending upward with a drying air mass, and many locations
+will top out at or above 90 away from the south shore and twin
+forks of Long Island. Record highs are not expected. KEWR will
+likely get to around 95. 
+
+SW winds will become gusty late this morning into this afternoon
+with gusts 20-30 mph. NBM seems to have been playing catchup 
+with the winds and leaned toward the 90th percentile and even a 
+bit higher. This is supported by 00Z NAM and GFS upper air 
+soundings. Winds will shift to the W-NW behind the cold front 
+this evening. 
+
+Lows behind the front will be cooler, but still several degrees
+above normal. What will be even more noticeable will be the drier
+air mass filtering into the region overnight.
+
+&&
+
+.SHORT TERM /FRIDAY THROUGH SATURDAY NIGHT/...
+High pressure builds in Friday into Friday night and then
+offshore on Saturday ahead of an approaching frontal system. 
+Highs will be closer to normal during this time. It will be much
+more comfortable with a dry airmass in place Friday into Friday
+night, with increasing humidity on Saturday due to a southerly 
+flow. Rain chances will also be on the increase Saturday 
+afternoon into Saturday night as a warm front approaches from 
+southwest, passing to the north overnight. Best chance for rain 
+at this time will be at night. Some thunder is possible.
+
+&&
+
+.LONG TERM /SUNDAY THROUGH WEDNESDAY/...
+Humidity levels will be increasing with dew points rising back
+into the lower 70s Sunday following a warm frontal passage. A 
+chance of showers and thunderstorms will continue on Sunday 
+along and ahead of a cold front. The cold front passes Sunday 
+late afternoon/evening and will bring somewhat drier air. High 
+pressure follows early next with temperatures at or just below 
+normal.
+
+&&
+
+.AVIATION /17Z THURSDAY THROUGH MONDAY/...
+A cold front is nearing the area from the west and north today from 
+a low pressure system over southern Ontario. This front will pass 
+through the area this evening. High pressure builds in from the west 
+tonight into tomorrow.
+
+Mainly VFR is expected through the TAF period. MVFR is possible in 
+SHRA/TSRA roughly 19Z-02Z today (mid-afternoon to early evening). 
+Coverage looks sparse and location is uncertain, so have kept out of 
+the TAFs except for a TEMPO for TSRA at KSWF 20Z-00Z. Its possible 
+these may be added in amendments later, should confidence increase.
+
+SW winds will continue to increase into the afternoon, 15-20 kt with 
+gusts 20-25 kt. Can't rule out a stray gust up to 30 kt at the NYC 
+metros. Following FROPA, winds become NW mid to late evening at 10-
+15 kts with gusts of around 20 kts becoming occasional. Outlying 
+terminals may drop below 10 kts overnight. Kept gusts out of TAFs 
+tomorrow, with winds NW/NNW around 10 kt.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+SW winds could briefly gust up to 30 kt late this afternoon.
+
+An isolated shower or tstm may be possible from about 19Z-02Z.
+
+.OUTLOOK FOR 18Z FRIDAY THROUGH TUESDAY... 
+
+Friday night-Saturday: VFR. 
+
+Saturday night and Sunday: Showers likely, chance of tstms. MVFR or 
+lower cond likely. 
+
+Monday-Tuesday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Strengthening SW flow will bring a period of marginal SCA cond
+to the ocean waters E of Fire Island Inlet late this afternoon 
+into the overnight. The remaining waters may see some occasional
+near shore gusts up to 25 kt this afternoon. High pressure will 
+build in on Friday, with cond remaining below SCA thresholds
+from then through Monday.
+
+&&
+
+.HYDROLOGY...
+Hydrologic impacts are not expected through the middle of next 
+week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+With strengthening SW flow today, the risk for rip current 
+development will be moderate, and surf height will be 2-3 ft.
+The moderate risk will continue into Friday, with winds from the
+NW-W and a remaining S swell.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Heat Advisory until 10 PM EDT this evening for CTZ005>012.
+     Air Quality Alert until 11 PM EDT this evening for CTZ009-010.
+NY...Heat Advisory until 10 PM EDT this evening for NYZ067>075-
+     078>081-176>179.
+NJ...Heat Advisory until 10 PM EDT this evening for NJZ002-004-006-
+     103>108.
+MARINE...Small Craft Advisory until 6 AM EDT Friday for ANZ350-353.
+
+&&
+
+$$
+
+SYNOPSIS...DW
+NEAR TERM...DW/MW
+SHORT TERM...DW
+LONG TERM...MET
+AVIATION...BR
+MARINE...MET/DW
+HYDROLOGY...DW
+TIDES/COASTAL FLOODING...

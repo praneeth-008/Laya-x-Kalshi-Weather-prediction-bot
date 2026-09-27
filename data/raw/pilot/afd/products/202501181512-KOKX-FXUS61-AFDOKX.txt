@@ -1,0 +1,216 @@
+674 
+FXUS61 KOKX 181512
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1012 AM EST Sat Jan 18 2025
+
+.SYNOPSIS...
+A frontal system passes by today with low pressure moving east 
+tonight. Another wave of low pressure develops the Mid Atlantic 
+coast on Sunday and pushes northeast into Sunday night. An 
+arctic airmass builds into the region for the rest of the week. 
+A weak low may pass offshore on Wednesday, with chances for 
+another low to impact the area during the end of the week.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+No significant changes to the forecast today. 
+
+High pressure continues to push offshore with a cold front 
+approaching from the west through the day. Southerly flow will 
+warm temperatures and increase moisture ahead of the frontal 
+passage tonight. High temperatures today will be in the middle 
+to upper 40s for the coastal areas and low 40s for the interior.
+
+Scattered showers will begin to approach the area late morning and 
+gradually become more widespread into the afternoon. Enhanced 
+lift and moisture over the eastern CWA will allow for more 
+robust development of showers as the front approaches this 
+afternoon. Generally less than a quarter of an inch of rain is 
+expected.
+
+The front passes by overnight which dries the area out and shifts 
+the wind back to the W and eventually NW into early Sunday morning. 
+Lows will be in the middle 20s to low 30s.
+
+&&
+
+.SHORT TERM /SUNDAY THROUGH MONDAY/...
+Attention then turns to a developing low pressure system over the 
+Mid-Atlantic on Sunday being forced by a mid-level shortwave 
+rounding the base of a large trough. As the low pressure system 
+gradually strengthens into Sunday afternoon, moisture overruns the 
+northern side of the low and precipitation blossoms over the area. 
+This will be aided by large scale synoptic forcing as the area will 
+likely remain on the left-exit region of an upper-level jet streak.
+
+It is worth mentioning that while confidence is high in the 
+development of a low pressure system, confidence in the strength and 
+track of the low remains more uncertain than typically expected 
+within a 48 hour timeframe. There are generally two solutions for 
+this system: A more amplified and stronger low that rides closer to 
+the coast with more synoptic lift and moisture; and a weaker, more 
+transient low that rides south of the CWA. These two solutions and 
+the possible variations between them make this forecast particularly 
+difficult for various reasons.
+
+A more amplified, stronger low will result in more lift and the 
+realization of more precipitation on the northern periphery of the 
+low. This would make for a winter storm warning level snowfall for 
+the interior CWA with a widespread 4-8 inches of snow with 
+locally up to 10". Since this would likely result in a closer 
+pass of the low, coastal areas would see a combination of less 
+synoptic forcing with the center of the low passing nearby as 
+well as more moderate temperatures and a likelihood of a 
+primarily rain or mostly rain event, especially for Long Island.
+The CMC has been consistent in this type of solution for the 
+last several days.
+
+A weaker, more transient low that passes more to the south of the 
+CWA may result in generally lighter precipitation rates, but a 
+primarily snow event for much of the CWA, though some mixing for the 
+immediate south coast remains possible. This would result in a 
+snowier solution for the coast, but with lesser snowfall totals for 
+the entire CWA. A weaker and more transient low would result in a 
+widespread 2-5 inches for much of the CWA, or a winter weather 
+advisory-type event. The ECMWF and more recently the NAM have this 
+type of solution. The GFS has a type of hybrid solution with a 
+stronger low that passes more south of the areas resulting in a more 
+widespread warning level event for the interior and a high end 
+advisory level event for the coast.
+
+Given the remaining large amount of uncertainty, haven't changed the 
+forecast much from previous. The biggest change has been a slight 
+downward trend in the snowfall for Long Island and the SE CT 
+coastline due to the uncertainty of the p-type during the best 
+synoptic lift Sunday evening. A Winter Storm Watch remains in effect 
+for the interior portions of the CWA for the potential of 4-8 inches 
+of snow.
+
+The low departs the area Sunday night with strong high pressure 
+building into the area from the est into Monday. A brisk NW 
+flow will allow for strong CAA. Highs on Monday will be in the 
+20s.
+
+&&
+
+.LONG TERM /MONDAY NIGHT THROUGH FRIDAY/...
+It will be cold thru the extended, particularly thru Thu, as an 
+arctic airmass builds into the region. This has been a consistent 
+high confidence feature of the fcst. Min apparent temps Mon ngt and 
+Tue ngt around -10 per the latest data. If we develop a good 
+snowpack, some of the overnight temps may need to be adjusted down a 
+few degrees. Some modification in temps towards the end of the week, 
+with highs perhaps eclipsing freezing at the coasts on Fri. 
+
+Outside of the cold, there are two chances for pcpn. The first is 
+late Tue ngt and Wed with the area on the nrn edge of a moisture 
+shield as a shrtwv passes thru. The GFS and ECMWF are in pretty good 
+agreement with the overall idea of the sys. The sfc low is progged 
+to be well offshore, but it will not take much moisture with the 
+very cold airmass in place to produce some high ratio lgt snow. Srn 
+areas favored attm, with NBM blended pops coming in in the chc 
+category. 
+
+The next chc for pcpn is around Fri with a potentially stronger and 
+closer low. Right now, the GFS is would be a snow event for most of 
+the area, particularly ern areas. Strong waa on the ern side 
+however, so any wwd trend could bring rain or a mix to the coasts at 
+least. Of course, the ECMWF is too far out to sea to produce any 
+pcpn across the cwa, so confidence in the sys is low. The NBM pops 
+are actually dry, but based on the prev fcst and the GFS/pattern, 
+manually brought the entire cwa up to slight chc.
+
+&&
+
+.AVIATION /15Z SATURDAY THROUGH WEDNESDAY/...
+A weak frontal wave and/or warm front approaches from the
+southwest today and through the area this evening. A cold front
+then passes through later tonight. Low pressure then develops
+along the Mid Atlantic coast on Sunday, passing to the southeast
+of the area Sunday night. 
+
+VFR this mrng with lowering cigs. MVFR or lower possible after
+18Z or so with rain developing. Rain ends by 00-03Z and 
+conditions begin to improve to VFR overnight into Sun mrng. IFR 
+cigs can't be ruled out at times. MVFR and lower returns Sun 
+aftn with snow developing, but the timing appears to be aft 18Z 
+attm.
+
+Increasing sly flow this mrng, with gusts around 20kt at times into 
+this aftn. Winds drop below 10 kt this evening and flow goes NW 
+tonight.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Gust may only be ocnl today. Timing of MVFR conds and rain 
+could be off by an hour or two. IFR cigs possible.
+
+.OUTLOOK FOR 12Z SUNDAY THROUGH WEDNESDAY...
+
+Sunday: MVFR or lower with snow developing in the afternoon and 
+ending overnight. Runway accums likely, especially NYC and N and
+W. 
+
+Monday: Mainly VFR. MVFR possible in the morning. NW wind gusts near 
+20 kt.
+
+Tuesday: VFR. W wind gusts around 20 kt.
+
+Wednesday: Chance of MVFR or lower in -SN, particularly coastal 
+arpts.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+A SCA remains in effect for the ocean with increasing S wind gusts 
+and wave heights ahead of an approaching frontal system. More 
+marginal small craft conditions are expected along the south shore 
+bays of LI. The winds then switch to a more W direction with a cold 
+front swinging through tonight as sub-SCA conditions prevail through 
+the day Sunday, although visibilities will lower. Winds and seas 
+begin to increase late Sunday afternoon and evening with developing 
+low pressure moving closer. As the low pulls away Sunday night, SCA 
+conditions should prevail across all waters with a gusty WNW behind 
+another cold front. Gales force gusts will be possible on the ocean 
+zones Sunday night through early Monday morning. Freezing spray
+will be likely on much of the ocean and LIS waters Monday.
+
+Marginal SCA conditions on the ocean on Tuesday, then winds and
+waves likely below SCA levels all waters Wednesday through
+Thursday. Some freezing spray can be expected on Tuesday.
+
+&&
+
+.HYDROLOGY...
+No hydrologic issues are anticipated through next Friday.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Winter Storm Watch from Sunday afternoon through late Sunday 
+     night for CTZ005>007.
+NY...Winter Storm Watch from Sunday afternoon through late Sunday 
+     night for NYZ067>070.
+NJ...Winter Storm Watch from Sunday afternoon through late Sunday 
+     night for NJZ002-004-103>105-107.
+MARINE...Small Craft Advisory until 9 PM EST this evening for ANZ350-
+     353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JMC/MW
+NEAR TERM...BC/MW
+SHORT TERM...MW
+LONG TERM...JMC
+AVIATION...JMC/DW
+MARINE...JMC/MW
+HYDROLOGY...JMC/MW

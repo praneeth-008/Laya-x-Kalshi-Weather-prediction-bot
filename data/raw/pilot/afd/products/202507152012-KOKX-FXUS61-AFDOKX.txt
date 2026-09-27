@@ -1,0 +1,201 @@
+151 
+FXUS61 KOKX 152012
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+412 PM EDT Tue Jul 15 2025
+
+.SYNOPSIS...
+A weak frontal boundary will remain near the region through the
+day on Wednesday before lifting to the north Wednesday night. A
+surface trough moves slowly across the region Thursday followed
+by a cold front late Thursday night into Friday morning. High 
+pressure builds in Friday and moves offshore Saturday. A warm 
+front moves through the region Sunday followed by a cold front 
+Sunday night into Monday. High pressure builds to the north for 
+Tuesday.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM WEDNESDAY MORNING/...
+Outside of a few spotty showers this afternoon, with upper 
+ridging building into the region expecting mainly dry conditions
+through the overnight. The atmosphere will remain quite moist 
+though, leading to another round of low clouds and patchy fog
+overnight. With plenty of cloud cover, low temperatures will 
+only fall to around 70 in typically cooler locations and to the 
+mid 70s in the New York City metro area.
+
+&&
+
+.SHORT TERM /6 AM WEDNESDAY MORNING THROUGH WEDNESDAY NIGHT/...
+Upper ridging moves offshore during the day as a shortwave 
+approaches the region from the southwest before crossing the 
+area Wednesday night.
+
+Low clouds and patchy fog to start the day should give way to 
+gradual clearing by mid to late morning before clouds quickly 
+return ahead of the approaching shortwave. The abundance of 
+clouds may help limit temperatures somewhat, but with dewpoints 
+in the mid 70s, heat index values will rise into the mid to 
+upper 90s across the majority of the area. With hot and humid 
+conditions continuing on Thursday, a Heat Advisory has been 
+issued for the entire region with the exception of eastern 
+Suffolk County. 
+
+The approaching shortwave will spark scattered convection by 
+late afternoon for locations west of NYC, gradually translating 
+eastward across the rest of the area through the overnight 
+hours. While the overall severe threat remains minimal, with 
+precipitable water values at or above 2 inches any showers and 
+storms will be capable of producing heavy rain and localized 
+flash flooding. The flooding threat may be locally maximized 
+across portions of northeast New Jersey and the Lower Hudson 
+Valley given the wet antecedent conditions, but confidence in 
+the location of any heavier rainfall remains too low for a Flood
+Watch at this time.
+
+&&
+
+.LONG TERM /THURSDAY THROUGH TUESDAY/...
+***Key Points***
+
+* Heat and humidity continues for Thursday with a Heat Advisory in 
+  effect for most of the region. A few locations across northeastern 
+  New Jersey may reach heat indices around 105 Thursday afternoon.
+
+* Showers and thunderstorms likely Thursday ahead of a cold front. 
+  Dry conditions return Friday and Saturday.
+
+The peak of the heat and humidity will likely occur during 
+Thursday with heat indices across all but the Twin Forks of Long
+Island reaching into the upper 90s to 100 to 104. A few 
+locations across northeastern New Jersey may peak at around 105,
+which is Heat Warning levels. However, with extensive cloud 
+cover, and showers and thunderstorms becoming likely during the 
+afternoon, confidence in reaching these heat index levels is 
+low, therefore a Heat Warning was not issued at this time. Also,
+the timing of the cold front has increased, with the passage 
+now late Thursday night into Friday morning. And with the 
+quicker timing of the passage drier air will be moving into the 
+region, so despite the continued heat, peak heat indices will 
+likely fall below advisory levels. With high precipitable water 
+values of 2 to 2.25 inches Thursday and showers and 
+thunderstorms have the potential of producing heavy rainfall, 
+with the threat of localized flooding.
+
+High pressure builds into the region for Friday and moves 
+offshore Saturday. The cold front that moved through Friday 
+morning remains south of the region, and possibly moves into a 
+portion of the region Sunday before stalling as high pressure 
+passes well to the north. Another cold front passes Sunday night
+into Monday, and may stall near the region into Tuesday.
+
+&&
+
+.AVIATION /20Z TUESDAY THROUGH SUNDAY/...
+A weakening frontal boundary nearly stalls within the region
+through Wednesday.
+
+There could be some additional pop-up showers in the vicinity 
+of some terminals into early this evening. Otherwise VFR 
+conditions expected through early this evening for most
+terminals.
+
+Then, for latter half of this evening, overnight into Wednesday
+morning, low clouds and fog redevelop with a variance of
+conditions across the region, mainly east of NYC terminals. 
+There will be increasing potential for MVFR to IFR.
+
+Then, for Wednesday once the low clouds and fog decrease, VFR
+conditions prevail again until showers and thunderstorms develop
+mid afternoon into early evening Wednesday, presenting again
+another chance for MVFR to possibly IFR conditions.
+
+Winds overall mainly out of the south near 5-10 kts for much of
+the TAF period.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Amendments possible for brief thunderstorm before 22Z.
+
+Amendments likely to refine timing of fog overnight into early
+Wednesday morning. 
+
+IFR possible for early Wednesday.
+
+.OUTLOOK FOR 18Z WEDNESDAY THROUGH SATURDAY... 
+
+Wednesday-Thursday: MVFR or lower in any afternoon/evening 
+showers/thunderstorms.
+
+Friday-Saturday: Mainly VFR. 
+
+Sunday: MVFR or lower with showers and possible thunderstorms.
+
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Sub-SCA conditions are expected through Wednesday night, with 
+winds generally remaining under 15 kt and seas remaining under 3
+ft on the ocean.
+
+Winds and seas across the forecast waters remain below advisory
+levels Thursday. However, with an increasing and persistent 
+southwest flow ahead of an approaching cold front a few gusts 
+may be near SCA and ocean seas will be building and may approach
+5 feet late in the day. And by Thursday evening ocean seas, 
+mainly east of Fire Island Inlet, will build to SCA levels. With
+the passage of the cold front late Thursday night into early 
+Friday morning seas will subside below advisory levels. 
+Conditions will then remain below advisory the remainder of 
+Friday through Sunday night.
+
+&&
+
+.HYDROLOGY...
+Localized flash flooding will be possible from scattered afternoon 
+and evening convection on Wednesday. Hydrologic impacts are not
+expected Thursday through early next week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+The risk for the development of rip currents remains low into 
+this evening. The low risk will remain Wednesday as a light
+southerly flow continues with around 2 foot waves. With a
+strengthening southwest flow Thursday, the risk for rip current
+development will be moderate. Waves will be 2 to around 3 feet.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Air Quality Alert from 11 AM to 11 PM EDT Wednesday for CTZ005-
+     009.
+     Heat Advisory from 11 AM Wednesday to 10 PM EDT Thursday for 
+     CTZ005>012.
+NY...Air Quality Alert from 11 AM to 11 PM EDT Wednesday for 
+     NYZ069>075-176-178.
+     Heat Advisory from 11 AM Wednesday to 10 PM EDT Thursday for 
+     NYZ067>075-078-080-176>179.
+NJ...Heat Advisory from 11 AM Wednesday to 10 PM EDT Thursday for 
+     NJZ002-004-006-103>108.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...FEB/MET
+NEAR TERM...FEB
+SHORT TERM...FEB
+LONG TERM...MET
+AVIATION...JM
+MARINE...FEB/MET
+HYDROLOGY...FEB/MET
+TIDES/COASTAL FLOODING...MET

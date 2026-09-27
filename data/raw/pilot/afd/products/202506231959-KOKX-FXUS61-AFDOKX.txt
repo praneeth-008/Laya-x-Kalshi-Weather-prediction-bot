@@ -1,0 +1,225 @@
+463 
+FXUS61 KOKX 231959
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+359 PM EDT Mon Jun 23 2025
+
+.SYNOPSIS...
+High pressure continues to build into and south of the region 
+into Tuesday. A weakening cold front moves into the region 
+Wednesday. Frontal boundary stalls out with low pressure 
+developing along it to the west of the region. This low 
+approaches the region Wednesday night into Thursday. The frontal
+boundary remains within the vicinity of the local region 
+thereafter into the weekend. Front pushes north as a warm front 
+for early next week.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM TUESDAY MORNING/...
+Tonight, Heat Advisories and Extreme Heat Warnings remain in effect 
+as dewpoints recover from the daytime mixing and warm lows in the 
+mid/upper-70s remain with only SE Suffolk County expected to drop 
+below 70 degrees. 
+
+&&
+
+.SHORT TERM /6 AM TUESDAY MORNING THROUGH TUESDAY NIGHT/...
+A ridge continues to amplify aloft under light westerly flow. This 
+westerly flow may aid in slightly lower dewpoint temperatures, but 
+temperatures will be warmer, overall. Given the ridge continues to 
+amplify, the current thinking is dewpoints won't mix that 
+efficiently. 
+
+Extreme Heat Warning remain in effect for most areas through 
+Tuesday evening. A Heat Advisory tonight will be upgraded to a 
+warning for Nassau county, western Suffolk county, and southern 
+Middlesex county given higher expected dewpoints and 
+temperatures than previously forecast. A Heat Advisory remains 
+through Tuesday evening NE Suffolk county. A Heat Advisory will 
+be added to SE Suffolk County, given heat indices will exceed 95
+tomorrow and already reached this threshold today. 
+
+Highs tomorrow will exceed what was reached today, in the upper-90s 
+to 102 in most locations. The peak heat will again peak around 105-
+110 for most locations.
+
+&&
+
+.LONG TERM /WEDNESDAY THROUGH MONDAY/...
+Key points  
+
+* Extreme heat may continue into Wednesday. Chances for heat indices 
+  near 105 are near 30 percent for NYC, NE NJ, Lower Hudson Valley 
+  and interior Southern CT. Otherwise, heat indices near 95 to 100 
+  are more likely.
+
+* Marginal flood and severe thunderstorm threat late Wednesday into 
+  Thursday.
+
+* Heat wave breaks Thursday into start of the weekend. Humidity 
+  levels will be a little lower.
+
+Large mid level ridge will be partially suppressed mid 
+to late week. At the surface, a weakening cold front approaches from 
+the north Wednesday and moves into the region. Models exhibit a 
+small negative pressure tendency during the day. Model 850mb 
+temperatures closer to 19 to 20 degrees C during the day, a few 
+degrees lower than the previous 2 days. This appears to be the last 
+significant heat day for this particular heat event. A blend of MAV 
+and MET MOS with the NBM used for the forecast conveys a range of 
+temperatures from the upper 80s to upper 90s across the region. With 
+winds being relatively weak with weakness in the pressure gradient, 
+dewpoints are going to remain relatively constant. Max heat indices 
+forecast are near 95 to 100 across much of the region, making for 
+heat advisory type of heat alert potential for subsequent forecasts 
+if values remain generally the same. Subsequent forecasts may reach 
+closer to 105 for some areas if temperatures trend slightly higher.
+
+Quasi-zonal flow in mid levels Thursday through early next week. At 
+the surface, the weak frontal boundary remains near the region with 
+a wave of low pressure developing along it. This wave of low 
+pressure approaches Wednesday night into Thursday. Showers and 
+thunderstorms return to the forecast, more probable by Wednesday 
+night and into Thursday.
+
+Unsettled weather pattern remains thereafter through much of the 
+rest of the forecast period with the frontal boundary nearby. More 
+weak waves of low pressure potentially develop and approach the 
+region along them. This will keep rain showers in the forecast with 
+occasional thunderstorms possible as well. Warm front moving north 
+early next week.
+
+Forecast high temperatures more in the 80s Thursday and more in the 
+70s Friday with a slight rebound back into low to mid 80s for some 
+areas Saturday.
+
+&&
+
+.AVIATION /20Z MONDAY THROUGH SATURDAY/...
+High pres remains S of the region thru Tue. 
+
+VFR thru TAF period.
+
+Lgt and vrb flow thru this eve with sea breezes at most cstl 
+terminals. Low confidence EWR and TEB however. Winds return to lgt 
+and vrb tngt into Tue mrng, then become wly aft 15Z. Ocnl gusts up 
+to 20kt possible. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Low confidence for EWR and TEB sea breeze. Could experience high 
+variability in wind direction into the eve although speeds mainly 
+blw 10kt, especially EWR.
+
+Very low chance for patches of IFR stratus/fog JFK and ISP tngt.
+
+Low chance for a sea breeze JFK on Tue.
+
+.OUTLOOK FOR 18Z TUESDAY THROUGH SATURDAY... 
+
+Rest of Tuesday: VFR with W flow.
+
+Wednesday: Mainly VFR. Sct-isold tstms possible late day and 
+overnight.
+
+Thursday: MVFR or lower. Shwrs and tstms likely. 
+
+Friday: MVFR or lower. Decreasing chances for shwrs and tstms.
+
+Saturday: Likely improvement to VFR, then a chance for aftn/eve 
+shwrs and tstms.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Sub-SCA conditions are expected through Tuesday night across 
+all of the forecast waters.
+
+For the marine long term Wednesday through Saturday night, without a 
+steep pressure gradient, conditions on all forecast waters are 
+forecast to remain below SCA thresholds.
+
+&&
+
+.HYDROLOGY...
+Heavy rain possible with any thunderstorms Wednesday through 
+Thursday night. PWATS with airmass potentially getting to excess of 
+2 inches. Minor flooding possible especially for low lying, poor 
+drainage and urban areas. Spatial variability of rainfall 
+accumulation will be likely due to convective nature of the rain.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+There is the potential for isolated minor coastal flooding during 
+the nighttime high tide cycles this week. This is due to high 
+astronomical tides associated with a new moon on June 25. There
+is little wind forcing at this time to produce much surge. A 
+coastal flood statement is possible during this time for SW CT 
+and the south shore back bays of Nassau.
+
+There is a low risk for the development of rip currents at all 
+the ocean beaches for both today and Tuesday.
+
+&&
+
+.CLIMATE...
+Increasing heat may result in record high temperatures on
+Tuesday.
+
+Tuesday's Record Highs (June 24):
+EWR  97 / 1966
+BDR  94 / 1966
+NYC  96 / 1888
+LGA  96 / 2013
+JFK  97 / 2010
+ISP  96 / 1966
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Extreme Heat Warning until 8 PM EDT Tuesday for CTZ005>010.
+     Air Quality Alert until 11 PM EDT this evening for CTZ005>012.
+     Air Quality Alert from 11 AM to 11 PM EDT Tuesday for 
+     CTZ006>008-010>012.
+     Heat Advisory until 6 AM EDT Tuesday for CTZ011.
+     Extreme Heat Warning from 6 AM to 8 PM EDT Tuesday for CTZ011.
+     Heat Advisory until 8 PM EDT Tuesday for CTZ012.
+NY...Extreme Heat Warning until 8 PM EDT Tuesday for NYZ067>075-176-
+     178.
+     Air Quality Alert until 11 PM EDT this evening for NYZ069>075-
+     078>081-176>179.
+     Air Quality Alert from 11 AM to 11 PM EDT Tuesday for 
+     NYZ069>075-078>081-176>179.
+     Heat Advisory until 6 AM EDT Tuesday for NYZ078-080-177-179.
+     Extreme Heat Warning from 6 AM to 8 PM EDT Tuesday for NYZ078-
+     080-177-179.
+     Heat Advisory until 8 PM EDT Tuesday for NYZ079.
+     Heat Advisory from 6 AM to 8 PM EDT Tuesday for NYZ081.
+NJ...Extreme Heat Warning until 8 PM EDT Tuesday for NJZ002-004-006-
+     103>108.
+     Air Quality Alert until 11 PM EDT this evening for NJZ002-004-
+     006-103>108.
+     Air Quality Alert from 11 AM to 11 PM EDT Tuesday for NJZ004-
+     006-103>108.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JM/BR
+NEAR TERM...BR
+SHORT TERM...BR
+LONG TERM...JM
+AVIATION...JMC
+MARINE...JM/BR
+HYDROLOGY...JM/BR
+TIDES/COASTAL FLOODING...
+CLIMATE...

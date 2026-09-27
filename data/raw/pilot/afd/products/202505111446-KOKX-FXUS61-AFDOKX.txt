@@ -1,0 +1,157 @@
+598 
+FXUS61 KOKX 111446
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1046 AM EDT Sun May 11 2025
+
+.SYNOPSIS...
+High pressure over the area through tonight will move offshore
+on Monday. Unsettled weather will then return for much of the
+rest of the week as a slow moving, broad low pressure system
+approaches from the south on Tuesday and lingers through
+Thursday. Another frontal system may move through next weekend. 
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+High pressure at the surface continues to build from the 
+northwest today, settling over the area tonight. At the same 
+time, a ridging pattern aloft continues to push eastward toward
+us through tonight. 
+
+Mainly clear skies expected. Did bump up both NW-N winds for 
+late morning into the afternoon especially across Long Island
+and S CT which should be in the 10-15 mph range with some gusts
+over 20 mph. Also bumped up temps per latest guidance, with
+highs near 80 in urban NE NJ, in the upper 70s across the rest
+of the NYC metro area, and in the lower/mid 70s elsewhere.
+
+Under clear skies and light flow, radiational cooling should be
+very efficient tonight. Lows will be in the lower/mid 50s, while
+interior locations should drop into the lower/mid 40s. The Long
+Island Pine Barrens may even drop into the upper 30s. 
+
+&&
+
+.SHORT TERM /MONDAY THROUGH MONDAY NIGHT/...
+The pattern shifts a little on Monday. High pressure pushes
+offshore as an upper-level low approaches from the 
+southeastern US. 
+
+This leads to southerly flow returning, bringing moisture back up 
+with it. While Monday will start sunny, clouds will gradually 
+increase through the day and into the night as high pressure loses 
+its hold to the approaching low. Showers may begin, from the 
+southwest, just before daybreak Tuesday as the low nears with ample 
+moisture now in place.  
+
+Temperatures will be in the lower/mid 70s for many Monday
+afternoon. Due to southerly flow returning, the ocean may lead
+to highs limited in the mid/upper 60s for areas under more of a
+marine influence such as the south shore and eastern Long 
+Island and coastal CT.
+
+&&
+
+.LONG TERM /TUESDAY THROUGH SATURDAY/...
+High pressure is positioned to the east of the area on Tuesday
+as a large upper level cut-off low over the Southern US begins
+to approach the area from the south. The reintegration of this 
+mid- level energy into the mean flow will allow several waves of
+energy to move through the area resulting in shower activity 
+for the better part of next week. The surface disturbance moves 
+east by Friday which may result in a day with mostly dry 
+conditions, however, with the upper trough overhead, widely 
+scattered shower still can't be ruled out. 
+
+By the weekend, a digging trough with an embedded shortwave
+moves into the Great Lakes region. This will allow a surface 
+frontal system to develop and bring a cold front through the 
+area sometime over the weekend resulting in additional showers 
+once again. 
+
+Given the uncertain nature of the cloud cover toward the end of
+the week with the upper trough remaining generally overhead, 
+temperatures may move in either direction. Otherwise, 
+temperatures through the long term are generally around average 
+with highs each day in the upper 60s to low 70s Tuesday through 
+Thursday. Temperatures are expected to increase a bit on Friday 
+and into Saturday but this will ultimately depend on the 
+evolution of the upper trough and incoming frontal system.
+
+&&
+
+.AVIATION /15Z SUNDAY THROUGH THURSDAY/...
+VFR as high pressure gradually builds in through tonight.
+
+NNW-N winds around 10kt today. Gusts up to around 20kt at some 
+terminals. Chance of late day sea breezes for some terminals. Winds 
+veer NE under 10kt early this evening, then E to SE overnight.
+
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Occasional gusts 16-20kt possible at KJFK and KLGA. Chance that 
+gusts at KEWR are only occasional.
+
+.OUTLOOK FOR 12Z MONDAY THROUGH THURSDAY...
+
+Monday: VFR.
+
+Tuesday: MVFR cigs possible especially from the NYC metros 
+west. 
+
+Tuesday night: Low stratus/fog with IFR cond possible especially
+near the coast at KJFK/KISP/KHPN/KBDR/KGON, otherwise MVFR cond
+expected. Chance of showers.
+
+Wednesday and Thursday: MVFR cond expected, IFR or lower cond
+possible at times especially late night and early morning. 
+Chance of showers. 
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Relatively light winds with a lack of significant swell leads to
+sub-advisory conditions through Tue evening. Wave heights on 
+the ocean running only around 1 ft this morning so lowered them 
+across the board by a foot today, then gradually trended back 
+toward the previous forecast of 2-ft seas for tonight into Mon. 
+
+Marginal SCA conditions become possible on the ocean early Wed
+morning under an increasing S-SE flow as the pressure gradient 
+tightens with the approach of a weak frontal system from the 
+southwest. Gusts may approach 25 kt on the ocean, with wave
+heights 5-6 feet possible. Sub-SCA conditions are then expected
+by late Thursday. 
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through through the end of 
+next week. 
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...BG/BR/MW
+NEAR TERM...BG
+SHORT TERM...BG/BR
+LONG TERM...MW
+AVIATION...JC/MW
+MARINE...BG/BR/MW
+HYDROLOGY...BR/MW

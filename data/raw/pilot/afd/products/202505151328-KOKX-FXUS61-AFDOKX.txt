@@ -1,0 +1,202 @@
+754 
+FXUS61 KOKX 151328
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+928 AM EDT Thu May 15 2025
+
+.SYNOPSIS...
+Low pressure continues to weaken as it approaches today. An 
+associated frontal boundary looks to stay just south of the area 
+through the day and may push through late. Another frontal system 
+impacts the area Friday through Saturday. High pressure will 
+gradually return early next week as low pressure lingers just east 
+of New England. A frontal system may approach during the middle of 
+next week.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+The previous upper level low that lingered over the Gulf states for 
+several days has now opened up into a trough, with the axis just 
+west of the area currently. At the surface, a weakening low is 
+centered over the Mid-Atlantic coast, with a frontal boundary 
+extending to just south of our area. Convective activity is now 
+limited to eastern CT and eastern LI, likely with the help of a 500-
+1000 J/kg MUCAPE axis and nose of a weakening LLJ. This activity 
+will continue to weaken and shift east gradually. See Hydrology 
+section below.
+
+The upper level trough moves through today. The boundary at the 
+surface stays to our south, but may push through late in the day. 
+The area destabilizes today, with latest CAMs showing about 500-1000 
+J/kg of MLCAPE. This is due to an increase in moisture and 
+temperature at the surface today. With very weak lift available, 
+some pop isolated to scattered pop up convection is possible. The 
+chances for any thunder are greater across the interior, as any 
+capping will be greater towards the coast. Very slow storm motion 
+could result in some localized longer lasting downpours, but with 
+weak shear no organized convection is expected. This activity 
+diminishes after sunset. 
+
+The pressure gradient really slackens by this evening and expecting 
+calm to light winds across the whole area. Fog likely returns given 
+this and the onshore component of the past few days.
+
+For highs today, went a bit cooler than NBM, mainly across LI and 
+coastal CT where clouds and an onshore flow should keep temps down 
+in the upper 60s for the most part. Stuck with NBM for lows. The 
+pressure gradient really slackens by this evening and expecting calm 
+winds across the whole area. Fog likely returns.
+
+&&
+
+.SHORT TERM /FRIDAY THROUGH SATURDAY NIGHT/...
+Unsettled weather continues through the short term period. 
+Brief zonal flow aloft follows the departing trough, but another
+upper level low approaches. The associated surface low will 
+impact the area through Saturday night. There is quite a bit of 
+uncertainty as far as PoPs and thunder during this period. The 
+most uncertainty is with Friday morning and afternoon as 
+guidance continues to show a decaying line of showers and 
+thunderstorms approaching tonight into Friday morning. If this 
+activity does make it, the best chances will be for northeast NJ
+and the Lower Hudson Valley. There may be additional chances 
+for showers and thunderstorms in the afternoon, but confidence 
+in this is decreasing as lift looks weak.
+
+The upper level low gets closer on Saturday and moves overhead 
+Saturday night. A cold front also moves through Saturday night. 
+While conditions may become more conducive to showers and 
+thunderstorms on Saturday there is still uncertainty and the 
+mesoscale setup will become better resolved over the next few days, 
+which should help give more confidence on the evolution of potential 
+convection. If the current timing holds, any showers/thunderstorms 
+will likely be out of the area or dissipate by around midnight.
+
+Warmer temps are expected on Friday and Saturday, highs in the
+70s and potentially lower 80s for northeast NJ on Saturday.
+
+&&
+
+.LONG TERM /SUNDAY THROUGH WEDNESDAY/...
+Key Points:
+
+* Temperatures will mainly run above normal through the weekend
+  before trending closer to normal early next week. 
+
+A blocky synoptic pattern will continue through the middle of
+next week.  
+
+The system that impacts the area Friday and Saturday will push 
+east of the area on Sunday and then remain near or just off the 
+New England coast early next week. Lingering cyclonic flow aloft
+Sunday may be enough to produce a diurnally driven isolated 
+shower well inland in the afternoon. Upper ridging will build 
+just to our west early next week with another trough amplifying 
+over the western states. The proximity of the ridging and upper 
+low just offshore should keep conditions dry Monday into 
+Tuesday. The NBM indicates an increase in precip probabilities 
+on Wednesday which may be overdone given the nearby ridging 
+which may take some time to break down. Will indicate a low 
+probability for now with potential of another frontal system 
+attempting to approach mid next week.
+
+&&
+
+.AVIATION /14Z THURSDAY THROUGH MONDAY/...
+Low pressure weakens and passes south today.
+
+Low cigs and vsby will be the main story through the TAF 
+period. LIFR cond are likely this morning along the coast, and
+into the early afternoon along the Connecticut coast and north.
+
+Improvement to MVFR late afternoon from KLGA and points N and 
+W, with the highest probability of MVFR conditions for KSWF 
+(there is a moderate chance for brief VFR here). However there 
+is a good deal of uncertainty in the forecast for these areas, 
+with IFR to MVFR conditions possible this afternoon. Coastal 
+terminals are likely to remain IFR this afternoon. Conditions 
+are expected to deteriorate once again tonight to IFR or lower 
+for all terminals. 
+
+E to ESE winds at less than 10 kt through the TAF period become
+light and variable overnight tonight.
+
+With low pressure nearby, there is a low chance for showers
+mid morning through the afternoon. A passing thunderstorm is
+also possible.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Amendments expected for changing flight categories throughout
+the TAF period.  
+
+.OUTLOOK FOR 12Z FRIDAY THROUGH MONDAY...
+
+Friday: IFR/LIFR early in the morning, then MVFR mid-morning
+onward with slight chance of tstms.
+
+Saturday: MVFR cond expected, IFR possible, with showers likely
+and chance of tstms. 
+
+Sunday...Mainly VFR. 
+
+Monday...VFR.
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+A Dense Fog Advisory is now in effect for all waters. Dense fog
+will likely lower visibilities to less than 1 NM through the
+morning hours.
+
+The Small Craft Advisory has been adjusted to have the ocean waters 
+from Sandy Hook to Fire Island Inlet end at 2 PM as seas will likely 
+decrease there sooner than previously forecast. The SCA for the rest 
+of the ocean waters expires at 6 PM.
+
+Conditions then remain below SCA levels through next Monday with a 
+relatively weak pressure gradient over the waters.
+
+&&
+
+.HYDROLOGY...
+Some heavy downpours and isolated thunder across eastern LI and CT 
+has led to some minor pour drainage flooding this morning. This 
+activity is not expected to reach flash flooding levels and should 
+diminish as we head towards sunrise. Shower and thunderstorm 
+coverage will likely increase this afternoon and heavier downpours 
+are possible again. At this time, flash flooding is not expected 
+with that activity either.
+
+There are currently no hydrologic concerns Friday through early next 
+week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Dense Fog Advisory until 11 AM EDT this morning for ANZ331-332-
+     335-338-340-345-350-353-355.
+     Small Craft Advisory until 6 PM EDT this evening for ANZ350-
+     353.
+     Small Craft Advisory until 2 PM EDT this afternoon for ANZ355.
+
+&&
+
+$$
+
+SYNOPSIS...DS/JT
+NEAR TERM...JT
+SHORT TERM...JT
+LONG TERM...DS
+AVIATION...JP/MET
+MARINE...DS/JT
+HYDROLOGY...DS/JT

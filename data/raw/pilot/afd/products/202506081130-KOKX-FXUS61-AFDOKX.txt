@@ -1,0 +1,191 @@
+529 
+FXUS61 KOKX 081130
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+730 AM EDT Sun Jun 8 2025
+
+.SYNOPSIS...
+Weak high pressure today gives way to an area of low pressure 
+passing to the south and east tonight into Monday. A slow moving 
+frontal system will then work across the area Tuesday into Tuesday 
+night. High pressure returns Wednesday and remains near the region through 
+early Friday. Another frontal system may affect the region late 
+Friday into the weekend.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Will need to keep an eye for the potential for the need of a
+dense fog advisory across parts of the NW zones early this
+morning with light to calm winds combine with residual low 
+level moisture from yesterday's rainfall. SPS has been issued in
+the meantime to address the likelihood of at least patchy dense
+fog. Visibilities should improve within a couple of hours of 
+sunrise.
+
+High pressure center shifts through northern New England today, and 
+should be strong enough to keep us dry through this morning with 
+only shallow moisture in place. Low to mid level moisture then 
+increases this afternoon with weak shortwave lift arriving from the 
+south and west late in the day. Chance of light rain by the end of 
+the day, mainly for the western half of the forecast area.
+
+A weak wave of low pressure then approaches from the south tonight, 
+remaining offshore. Added moisture and lift increase the chances of 
+rain for eastern portions of the area, meanwhile moisture 
+convergence and lift with an approaching warm front increase rain 
+chances for western portions. PoPs capped at 50% tonight.
+
+NBM looked good for temperatures through the near term.
+
+&&
+
+.SHORT TERM /MONDAY THROUGH TUESDAY NIGHT/...
+Disagreement among the models regarding the advancement of the 
+approaching low pressure wave during the day on Monday, which could 
+very well just weaken to the point of being part of a surface trough 
+or warm front that stalls nearby. Therefore kept in at least a 
+slight chance of rain. Most of the day will at least be dry.
+
+Great Lakes closed low drifts across southern Ontario on Tuesday and 
+then shears NE through southern Quebec Tuesday night. Good model 
+agreement in an associated trough axis approaching Tuesday/Tue eve 
+and pivoting through late Tue night/Wed.
+
+At the surface, a cold front approaches from the west while either a 
+trough or new weak wave of low pressure approaches from the SW.
+Large scale synoptic lift from the approaching trough and modest 
+lift from the right rear quadrant of an upper jet streak combines 
+with +1.5 - 2 std PWAT for increasing shower activity from the west 
+Tuesday morning. Basin average model QPF is relatively light 
+overall, but there's potential for locally heavy downpours and 
+elevated thunder, particularly N&W of NYC with the best co-location 
+of mid/upper forcing, weak elevated instability and orographic 
+enhancement of an E/SE low-level flow. Additionally, the storm 
+motion would appear to align with a slow moving cold front, which 
+would promote cell training. WPC has a marginal risk of excessive 
+rainfall dropping into portions of the Lower Hudson Valley during 
+this time. Best upper level forcing and instability seem to lag the 
+surface features, minimizing a localized flash flood threat farther 
+SE towards the coast. Due to weak instability, strong to severe 
+thunderstorm threat appears limited despite strong shear profiles. 
+Shower/thunderstorm activity should taper from W to E later Tue 
+aft/early eve as the surface wave, trough axis/cold front slide 
+through.
+
+&&
+
+.LONG TERM /WEDNESDAY THROUGH SATURDAY/...
+The long term period starts with high pressure building into the 
+region on Wednesday in the wake of the front. The high will remain 
+over the area through much of Friday. Expect dry and warm 
+conditions. Temperatures on Wednesday will climb into the lower and 
+middle 80s. Temperatures will warm a few degrees for Thursday and 
+Friday with highs in the middle to upper 80s. Can not rule out some 
+90 degree temperatures in NYC/NJ metro area. Temperatures may be 
+cooler right along the immediate coast. 
+
+Another frontal boundary and low pressure system will move into the 
+area late Friday into Friday night and remain near the region 
+through the weekend. Expect unsettled conditions through this 
+period, however not confident both days will be a rainout. 
+Temperatures will be cooler for the weekend with highs in the
+70s.
+
+&&
+
+.AVIATION /12Z SUNDAY THROUGH THURSDAY/...
+A frontal boundary will remain stalled south of the area 
+terminals today. 
+
+Generally looking at VFR conditions prevailing this morning 
+however, there are some areas of sub-VFR in fog and stratus. It 
+will be another low confidence forecast day with low clouds 
+residing nearby along and just off the coast and over the ocean,
+but most areas still expected to stay VFR for the first half of
+the day. Sub VFR conditions (mainly MVFR) is then expected to 
+return at some point during the afternoon, with low confidence 
+in the timing of the arrival of sub VFR conditions. Confidence 
+growing for IFR or lower conditions with rain and drizzle 
+tonight into Monday morning. 
+
+Easterly winds are expected today, mainly 08-12kt. Winds remain
+easterly, but diminish to 10kt or less tonight. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Amendments possible throughout the entire TAF period for changing 
+flight categories, especially during Sunday afternoon and early 
+Sunday evening.
+
+.OUTLOOK FOR 12Z MONDAY THROUGH THURSDAY... 
+
+Monday: Becoming VFR with light E flow.
+
+Tuesday: MVFR or lower possible with shwrs and tstms. Varying winds 
+with a frontal sys.
+
+Wednesday - Thursday: VFR with W flow. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Sub-advisory conditions through at least Monday night. Swell may 
+help build ocean seas to 5 ft starting late in the day Tuesday and 
+continue into the night. There will be a potential for some 5 
+ft seas continuing on Wednesday, mainly in S swells as a result
+of a slow moving frontal system. Also, some m marginal 
+nearshore SCA gusts possible during the day Wed in offshore flow
+behind cold front. Any SCA seas should fall below SCA 
+conditions late Wednesday as high pressure builds towards the 
+water, continuing thru Friday.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts through Monday night.
+
+Showers and embedded thunderstorms Tuesday may produce a basin wide 
+1/4 to 3/4" of rain. Localized 1+" amounts possible, particularly 
+N&W of NYC, presenting a low and localized threat of flash flooding 
+during the daytime.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+SE swells remain at 3-4 ft today, mixed with a long period SE 
+background swell and a building 2 to 3 ft E wind wave. This should 
+maintain a moderate to high risk of rips with a west to east sweep 
+of 3 to 4 ft, occasionally 5 ft breaking surf. An E to W longshore 
+current will likely become favored in the afternoon.
+
+A moderate to possibly high rip risk likely on Monday with 3-4 
+ft ESE wind waves building, and a background of 1-2 ft SE/S 
+swells. E to W longshore current would be favored.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...High Risk for Rip Currents through this evening for NYZ075-080-081-
+     178-179.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...BC/JC
+NEAR TERM...JC
+SHORT TERM...JC
+LONG TERM...BC
+AVIATION...BC
+MARINE...BC/JC
+HYDROLOGY...BC/JC
+TIDES/COASTAL FLOODING...

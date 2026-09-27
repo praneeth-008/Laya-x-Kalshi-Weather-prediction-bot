@@ -1,0 +1,185 @@
+084 
+FXUS61 KOKX 260745
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+345 AM EDT Thu Jun 26 2025
+
+.SYNOPSIS...
+A cold front will drop slowly south across the area this morning
+and down into the Mid Atlantic states later tonight where it will
+become nearly stationary on Friday. The front will then return 
+north as a warm front Friday night into Saturday. A frontal wave
+and cold front attempt to push through Saturday night, and weak
+high pressure builds in behind it early next week. The boundary
+returns north as a warm front late Monday. A cold front then 
+follows Tuesday, with high pressure returning once again mid 
+next week.
+
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Cold front was currently working across the northern portion of
+the forecast area and will sag south through the remainder of 
+the area the next couple of hours. At the same time, the 
+airmass will be stabilizing with a gradually cooler airmass 
+filtering in from the north. Marginal instability this morning 
+in the vicinity of the cold front may be enough to produce 
+scattered showers and possibly a thunderstorm. Of the CAMs, the
+HRRR is the most aggressive with convection developing across 
+CT and eastern LI this morning, while the thumbprint is their 
+with some of the other models, they are more sparse in coverage
+and weaker in intensity. PW values are close to 2 inches in 
+this area, so these could be efficient rainfall producers and 
+steering flow is initially weak. Overall though, not expecting 
+much rainfall, but there could be narrow swaths of heavier 
+rainfall. 00Z SPC HREF has backed off on any significant 
+rainfall. It is showing about a 10 percent chance of seeing an 
+inch of rainfall in 3 hours. Any shower activity will push east 
+of the area this afternoon. Some weak impulses at the southern 
+edge of the westerlies may send additional shower activity in 
+from the west this evening, but it will struggle to get too far 
+east as high pressure continue to build into the area. Only 
+expecting a 20-30 percent chance of showers tonight. Any 
+isolated thunderstorms will be limited to NYC and points west
+early. These should be weak and dissipate quickly. Also, expect
+mostly cloudy skies during this time.
+
+High temperatures for the day will actually occur before
+daybreak, but this afternoon should see temperatures in the
+upper 70s to possibly the lower 80s. Lows tonight will be in the
+60s. Neither of which are too far off from normal. In addition,
+dew points will drop through the 60s today and into the mid 50s
+to around 60 tonight. 
+
+&&
+
+.SHORT TERM /FRIDAY THROUGH SATURDAY/...
+It remains unsettled during this time and cool as the area will
+be under the influence of high pressure ridging down along the 
+New England coast. It will gradually retreat Friday night into 
+Saturday as the stationary front to the south returns northward
+as a warm front. The chance of showers remains low through 
+Saturday morning. However, as the warm front draws closer to the
+area, the airmass will begin to gradually destabilize with dew 
+points rising through the 60s to around 70. There remains some 
+uncertainty as to whether the warm front gets to the north of 
+the area on Saturday, but a consensus approach would suggest it 
+stalls in close proximity as a frontal wave approaches from the
+west. The latter of which will result in increasing chances of 
+showers and thunderstorms toward the late afternoon/evening.
+
+Due to the uncertainty in the frontal location on Saturday, the
+temperature forecast will be a challenge. The NBM deterministic
+during this time is skewed toward the 25th percentile for highs.
+Much of the area is showing about 10 degree range from the 25th
+to 75th percentiles. Thus, while cooler temperatures are in the
+forecast, Saturday in particular is a lower confidence forecast.
+Should the warm front get through, it would be a warmer day. 
+
+&&
+
+.LONG TERM /SATURDAY NIGHT THROUGH WEDNESDAY/...
+Behind a frontal passage Saturday night, briefly turning quieter for 
+the second half of the weekend with weak ridging and surface high 
+pressure attempting to build in as the boundary that moved through 
+stalls to the south over the Mid Atlantic.
+
+Any lingering rain looks to taper Sunday morning, and allow for a 
+predominantly dry day, that could persist thru much of Monday as 
+well. Eventually, the stalled boundary to the south looks to return 
+back north as a digging trough over the Great Lakes presses east. 
+This will reintroduce wet weather late Monday and Monday night as 
+the warm front lifts through. Showers and thunderstorms possible 
+ahead of the trailing cold frontal passage, progged sometime 
+Tuesday. In its wake, cooler and drier conditions by mid next week 
+as high pressure returns.
+
+&&
+
+.AVIATION /07Z THURSDAY THROUGH MONDAY/...
+A cold front moves through the terminals into early morning, slowly 
+pushing south through the day.
+
+Mainly VFR. Scattered SHRA or TSRA possible toward the morning push, 
+and have maintained PROB30s after 9Z. Outside chance for a few 
+showers or isolated storm thru the day, but increasing chances in 
+the evening after 00Z Fri.
+
+NE flow becomes established early this morning and speeds increase 
+to around 10 kt, before veering more easterly and increasing up to 
+15 kt. A few occasional gusts toward 20 kt possible this afternoon.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Timing of any SHRA or TSRA this morning may be as much as a couple 
+of hours later than forecast.
+
+Occasional 20 kt gusts possible this afternoon.
+
+.OUTLOOK FOR 06Z FRIDAY THROUGH MONDAY... 
+
+Late tonight: VFR, MVFR possible, especially in showers.
+
+Friday through Sunday: MVFR or lower possible. Chance of showers.
+
+Monday: Mainly VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+SCA has been issued for the ocean waters tonight into Friday due
+to a strengthening easterly flow with gusts to around 25 kt and
+seas building to 4 to 7 ft. Occasional 25 kt gusts will be 
+possible today as seas build to around 4 ft. Winds and seas will
+then diminish Friday night as the gradient weakens across the 
+area. 
+
+Waters are forecast to largely remain below Small Craft Advisory 
+(SCA) criteria late this weekend through mid next week.
+
+&&
+
+.HYDROLOGY...
+Localized heavy downpours may be possible across the area this
+morning, especially eastern LI and SE CT. Minor nuisance poor
+drainage flooding is possible. 
+
+&&
+
+.TIDES/COASTAL FLOODING...
+Persistent E flow after a cold frontal passage should lead to
+widespread minor coastal flooding in NY Harbor, the back bays of
+S Queens/Nassau, Peconic Bay, and the Westchester/SW CT
+coastline with the Thu night high tide cycle. 
+
+There is a moderate rip current on Thursday due to a building E
+swell and 2-ft breakers in the surf zone.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory from 6 PM this evening to 6 PM EDT Friday 
+     for ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...DR/DW
+NEAR TERM...DW
+SHORT TERM...DW
+LONG TERM...DR
+AVIATION...DR
+MARINE...DR/DW
+HYDROLOGY...DR/DW
+TIDES/COASTAL FLOODING...
+CLIMATE...

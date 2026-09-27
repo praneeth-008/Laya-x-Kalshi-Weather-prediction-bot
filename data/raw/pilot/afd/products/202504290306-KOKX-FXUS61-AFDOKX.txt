@@ -1,0 +1,225 @@
+777 
+FXUS61 KOKX 290306
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1106 PM EDT Mon Apr 28 2025
+
+.SYNOPSIS...
+High pressure centered just off the Mid Atlantic coast will
+gradually give way to an approaching frontal system. A cold 
+front approaches from the west late Tuesday and passes through 
+Wednesday morning. High pressure then returns for Wednesday and 
+Thursday before another frontal system impacts the area Thursday
+night through Saturday. High pressure builds in for the end of 
+the weekend into early next week.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM TUESDAY MORNING/...
+Slightly lowered temperatures across the interior to better
+match observed trends. Also, slightly increased clouds with 
+some thin transparent cirrus moving over the region as detected 
+by IR satellite. Clouds are expected to decrease overnight. 
+Still expecting mostly clear sky conditions overall through 
+overnight. Otherwise, forecast mainly on track.
+
+High pressure centered south of the area will slowly work 
+farther out into the ocean. Expect seabreeze enhanced winds 
+early, them a light S/SW flow that increase toward daybreak. Dry
+and mostly clear sky conditions are expected tonight with low 
+temperatures generally in the upper 40s to low 50s, though the 
+NYC metro may not drop out of the middle 50s.
+
+&&
+
+.SHORT TERM /6 AM TUESDAY MORNING THROUGH TUESDAY NIGHT/...
+High pressure remains offshore to the southeast on Tuesday. This 
+will allow for generally clear to mostly clear skies much of the day 
+with dry conditions. A large frontal system over the Great Lakes is 
+poised to move well north of the area, dragging a cold front through 
+the area by the evening. Ahead of this frontal system, the pressure 
+gradient tightens as the frontal system approaches the high pressure 
+offshore. This will allow for an increased SW flow through the day 
+with gusts over the area anywhere from 20-30 mph. 
+
+High temperatures are expected to be in the upper 70s to middle 80s 
+for the Lower Hudson Valley, NE NJ, the NYC metro, and portions of 
+extreme SW CT. Elsewhere along the coast, a S/SW flow off the 
+relatively cool ocean will prevent high temperatures from rising 
+past the upper 60s to low 70s.
+
+Given the deep mixing expected through the day for the warmest 
+aforementioned areas, dew points are expected to remain in the 40s, 
+despite a persistent SW flow. This deeper mixing and warm 
+temperatures will cause RH values to possible reach 25-40%. This dry 
+air combined with potentially gusty winds may allow for the elevated 
+risk of fire spread. As such, collaborated an SPS for the Lower 
+Hudson Valley and CT to address this potential.
+
+Clouds increase from west to east late afternoon with the approach 
+of the frontal system. Any convection well to the west of the area 
+is expected to rapidly diminish in intensity and coverage by the 
+time it reaches the area, though some residual showers or possibly 
+even a thunderstorm remains possible for portions of the Lower 
+Hudson Valley, mainly between 8-11PM. The front moves through 
+overnight Tuesday and into early Wednesday morning, but should be a 
+fairly dry passage. Lows Tuesday night are expected to be in the 
+middle 50s to low 60s, fairly warm for this time of year.
+
+&&
+
+.LONG TERM /WEDNESDAY THROUGH MONDAY/...
+Still seeing some flip flopping in regards to the timing of the
+frontal system at the end of the week. This is noted in the 12Z
+operational runs where the cold front slows up on Saturday with
+the potential for frontal wave development. The faster trend 
+24h ago for Saturday has now has revered itself. Bottom line, 
+Pac energy is still offshore. The latter of which interacts 
+with an upper low over the Four Corners region at the beginning 
+of the period. Thus, the uncertainty.
+
+At the start of the period, surface high pressure builds in 
+behind the departing cold front Wednesday morning. High pressure
+remains in control through most of Thursday. At the same time,
+the upper trough begins to amplify over the Mississippi Valley
+as multiple streams interact with one another. This will allow
+backing of the upper flow and the warm front to lift north
+across the area Thursday night. Area will then be in the warm-
+sectored on Friday. Low pressure tracking across eastern Canada
+sends the cold front across the area Friday night into Saturday
+with potential frontal wave development delaying its eastward 
+progression. So there are good chances for showers/possible 
+thunderstorms from Thursday night into Saturday. Right now 
+there is a low probability of severe weather. QPF looks modest, 
+under an inch outside any localized convective maxima. However, 
+with the slowing of the boundary this will have to be watched.
+
+Wednesday remains unseasonably warm in the 70s as cold advection
+lags behind the cold front. Expect seasonable temperatures on 
+Thursday, highs in the 60s and lower 70s. Region then is warm 
+sectored Friday, setting up one of the warmest days this week. 
+Temperatures away from maritime influence, generally west of the
+Hudson River, likely climb into the upper 70s and lower 80s, 
+with potential for mid 80s. Cooler along the immediate coast 
+with onshore southerly flow, closer to 70. The region falls back
+to a more typical air mass for the time of year over the 
+weekend into early next week.
+
+&&
+
+.AVIATION /03Z TUESDAY THROUGH SATURDAY/...
+High pressure moves farther offshore through the TAF period. A cold 
+front approaches late in the TAF period.
+
+VFR conditions expected through much of the TAF period. High 
+confidence of VFR until 00Z Wednesday.
+
+Winds are mainly southerly and are expected to remain southerly
+through the TAF period. Wind gusts have diminished late this 
+evening. Winds late tonight into early Tuesday morning near 5-10
+kt and then increase to near 15 to 20 kt Tuesday afternoon into
+Tuesday night. 
+
+Gusts expected to redevelop Tuesday, near 20-25 kt late morning into 
+early afternoon, and then near 25-30 kt for rest of afternoon 
+into early evening.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Peak gusts to 35 kt possible Tuesday afternoon into early Tuesday 
+evening.
+
+MVFR possible Tuesday night, after 00Z Wednesday, with a slight 
+chance of rain showers.
+
+.OUTLOOK FOR 00Z WEDNESDAY THROUGH SATURDAY...
+
+Tuesday night: A chance of rain showers north and west of NYC 
+terminals with brief MVFR possible. A slight chance of showers for 
+other terminals. A slight chance of thunderstorms, mainly in the 
+evening north and west of NYC terminals. SW wind gusts near 20 kt, 
+becoming more westerly late. LLWS east of NYC terminals with
+SW winds  at 2kft near 45-50 kt.
+
+Wednesday: VFR. NW wind gusts 15-20 kt during the day.
+
+Thursday: Mainly VFR. MVFR or lower possible at night with a chance 
+of showers, slight chance of thunderstorms.
+
+Friday: MVFR or lower possible. A chance of showers. A chance of 
+thunderstorms during the day. A slight chance of thunderstorms at 
+night. SW wind gusts 15-20 kt afternoon into evening.
+
+Saturday: MVFR or lower possible. A chance of showers. A slight 
+chance of thunderstorms. NW winds gusts 15-20 kt during the day.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Sub-SCA conditions are expected through tonight. Wind picks up on 
+Tuesday ahead of a frontal system allowing for gusts to 25-30kt on 
+all waters by the afternoon. SCAs are in effect for all waters 
+through at least Tuesday evening. Winds drop below SCA conditions 
+overnight Tuesday, though SCA conditions due lingering seas 
+may continue into Wednesday morning on the ocean. High pressure
+then builds across the waters into Thursday with sub-SCA conditions.
+A strengthening southerly flow ahead of the next frontal system
+may bring a period of SCA conditions on the ocean Friday into 
+Friday night, with wind gusts up to 25 kt and seas 5 to 6 ft.
+
+&&
+
+.FIRE WEATHER...
+Dry conditions with the combination of low relative humidity values 
+between 25 and 40 percent and frequent wind gusts of 25 to 30 mph 
+will create an elevated risk for fire spread on Tuesday.
+Special Weather statements are out for portions of the area and
+may later be expanded.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through the forecast period.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+Astronomically high tides will couple with a modest S/SW flow 
+to allow water levels to approach or just exceed minor flood 
+thresholds in the more vulnerable locales of coastal Nassau, 
+Queens, and Fairfield during times of high tide early this week.
+
+A Coastal Flood Statement is in effect for this evening's high 
+tide cycle in the above mentioned areas, with up to a half foot
+of inundation possible. There is potential for an additional 
+statement once again Tuesday evening.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory from noon Tuesday to 2 AM EDT Wednesday 
+     for ANZ331-332-335-338-340-345.
+     Small Craft Advisory from noon Tuesday to 6 AM EDT Wednesday 
+     for ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...DW/MW
+NEAR TERM...JM/DW/MW
+SHORT TERM...MW
+LONG TERM...DW
+AVIATION...JM
+MARINE...DW/MW
+FIRE WEATHER...
+HYDROLOGY...DW/MW
+TIDES/COASTAL FLOODING...

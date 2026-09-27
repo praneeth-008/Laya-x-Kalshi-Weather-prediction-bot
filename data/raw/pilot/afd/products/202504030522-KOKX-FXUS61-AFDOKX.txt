@@ -1,0 +1,223 @@
+865 
+FXUS61 KOKX 030522
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+122 AM EDT Thu Apr 3 2025
+
+.SYNOPSIS...
+A warm front will approach tonight and lift through Thursday
+morning. A slow moving cold front will then drop into the area
+Thursday night into Friday. Unsettled conditions are likely this
+weekend with the frontal boundary remaining nearby. The front 
+will move away on Monday, with high pressure slowly returning 
+into Tuesday.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM THIS MORNING/...
+Forecast generally on track for the rest of the night.
+Widespread showers remain to our north, but anticipate
+showers to develop overnight as a warm front draws closer. The 
+overrunning moisture may also lead to areas of drizzle and fog 
+development towards day break. Low temps likely achieved early 
+in the upper 30s and low 40s. Temperatures should rise to 45-50 
+degrees by daybreak.
+
+&&
+
+.SHORT TERM /6 AM THIS MORNING THROUGH 6 PM FRIDAY/...
+Area of fog and some drizzle likely to develop in the morning 
+especially from NYC east as the warm front lifts through. CAM's 
+meanwhile show potential for additional showers and isolated 
+tstms to move across from the west in the morning. 
+
+Any fog should become patchy in nature by afternoon, with temps
+warming up to the lower/mid 60s across Long Island, and upper 
+60s/lower 70s from NYC west. S winds will become gusty after 
+warm fropa, with gusts up to 25-30 mph in the NYC metro area 
+and along the coast, and mostly 15-20 mph inland. Another 
+chance for showers possible ahead of the slow moving cold front 
+across parts of NE NJ. Air mass does not look all that unstable,
+with SBCAPE no more than 200-500 J/kg in this area, so have 
+only mentioned slight chance thunder. This instability then 
+skirts NYC and Long Island in the evening, so once again have
+only mentioned slight chance thunder for those areas. Do not
+expect any svr potential with this activity. 
+
+Cold front should enter the area from late evening into the
+overnight. As it does so, an upper jet streak well to the 
+north and mid level vort energy riding top a broad upper ridge 
+axis over the Southeast should bring another chance of showers
+after midnight. Low temps will be mostly in the lower 50s.
+
+&&
+
+.LONG TERM /FRIDAY NIGHT THROUGH WEDNESDAY/...
+Key Points: 
+
+* Unsettled conditions are expected this weekend with a frontal 
+  boundary in the vicinity. 
+
+* Showers are most likely on Saturday and then again late Sunday 
+  into Sunday night. 
+
+* Improving conditions are likely Monday with high pressure slowly 
+  building towards the area on Tuesday.
+
+* Seasonably cool temperatures Saturday should trend warmer on 
+  Sunday with some 70s possible for NE NJ, NYC metro and Lower 
+  Hudson Valley. Temperatures then trend cooler early next week.
+
+Any showers remaining in the area Friday morning will come to an end 
+by afternoon as a cold front pushes south and high pressure builds 
+into the Great Lakes and Northeast. This should keep much of Friday 
+dry, but the high pressure quickly moves through, departing the area 
+by Friday night and into Saturday morning. A shortwave develops an 
+area of low pressure over the Ohio Valley and pushes into the 
+Northeast Saturday. This will bring a warm front pushing north 
+through the area and with it, the potential for showers Saturday 
+morning and through the day. The strongest WAA will be north of the 
+area with a possibility of the coastline seeing more showery 
+activity as opposed to a steady rain.
+
+The warm front continues to push north of the area which may result 
+in a lull in rain for Saturday night, though a saturated BL may 
+result in continued drizzle and fog for much of the region Saturday 
+night into Sunday morning. The area is expected to be in the warm 
+sector of the initial low to the north with a secondary low pressure 
+system developing upstream along the cold front. This intensifying 
+low pressure system will advect additional moisture and provide 
+ample forcing for the area by Sunday night as the front approaches 
+from the west. Widespread rain, locally moderate to heavy, is 
+possible with the frontal passage. While there doesn't appear to be 
+significant amounts of instability, there does seem to be enough 
+elevated CAPE to support at least a slight chance of thunder for the 
+time being, though this is highly dependent on the amount of cloud 
+cover and heating during the day on Sunday if the warm front is able 
+to push further north than anticipated.
+
+The cold front pushes through Sunday night and into Monday morning. 
+Rain should come to an end by Monday morning, though some additional 
+showers may be possible Monday and Tuesday as the upper level trough 
+swings overhead providing for some additional lift. High pressure 
+then builds back in for the middle of next week.
+
+Temperatures on Friday will be above average with highs in the low 
+to middle 60s. The cold front moves through and cools down the area 
+for Saturday back into the low 50s. The warm front moves north for 
+Sunday allowing temperatures to rise into the 60s to possibly low 
+70s for portions of NJ and NYC, though this particular day's highs 
+will depend on the proximity of the warm front and any cloud cover. 
+Otherwise, a generally cooling trend is expected through the middle 
+of next week with highs Monday into the upper 50s and cooling down 
+to the upper 40s to low 50s by Wednesday.
+
+&&
+
+.AVIATION /06Z THURSDAY THROUGH MONDAY/...
+A warm front passes through this morning. A cold front reaches 
+the area tngt.
+
+Conditions are expected to continue to deteriorate overnight to
+IFR/LIFR in low clouds, fog, and light rain or drizzle. There 
+will also be a chance of showers into today. Improvement today  
+in the warm sector will be mainly confined to the NYC and Lower 
+Hudson Valley terminals this afternoon. The eastern terminals 
+will likely remain IFR/LIFR through the day, and lasting into
+tngt.
+
+Chances for additional showers and possibly a tstm tngt, but 
+probs and coverage too low to include in the TAFs attm. 
+
+SE winds becoming S/SW with the passage of the warm front 
+this morning. Gusts overnight will be more persistent along the
+coast and may for a time drop off or be less frequent. Gusts 
+likely return in the warm sector this afternoon. Winds lighten
+tngt invof the front.
+
+LLWS expected today with S-SW winds 45-55 kt at 2kft. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Wind gusts late afternoon/early evening may be occasional. 
+
+Amendments for flight category changes likely thru this 
+morning.
+
+Low confidence visibility forecast this morning. KJFK could 
+remain IFR/LIFR through this afternoon. 
+
+.OUTLOOK FOR 06Z FRIDAY THROUGH MONDAY...
+
+Late Tonight: Sct shwrs and possibly a tstm with a cold frontal
+passage. Wind direction vrb with the front in the area.
+
+Friday: Chance of MVFR in showers, especially in the morning
+along the coast. 
+
+Saturday: MVFR to IFR with showers likely. E wind gusts 15-20kt.
+
+Sunday: IFR in the morning, becoming MVFR. A chance of showers.
+SW gusts 15-20 kt possible. 
+
+Monday: MVFR with a chance of showers, mainly in the morning.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+SE flow tonight increases to 15-20 kt with some gusts up to 25 
+kt, bringing marginal SCA cond to all ocean waters, with seas 
+building to 5-6 ft. 
+
+As a warm front lifts through late tonight into Thu morning, 
+expect sustained S winds 20-25 kt with gusts 25-30 kt to 
+develop, mainly on the ocean waters and the Long Island South 
+Shore Bays, where SCA has been issued for daytime Thu. Ocean 
+seas during this time should build to 5-8 ft. The other waters 
+may see occasional gusts up to 25 kt, and it is possible that an
+SCA may be needed, especially for the central/ern Sound and the
+eastern bays. 
+
+There is a chance for dense fog on the waters Thu especially in
+the morning with the warm frontal passage. 
+
+SCA cond likely to continue on the ocean Thu night, with SW flow
+still gusting to 25-30 kt especially out east, and seas 5-8 ft. 
+
+Sub-SCA conditions are likely Friday afternoon through Sunday
+morning. By Sunday afternoon, an approaching frontal system 
+will allow ocean seas to build above 5 ft, with SCA likely. 
+Sheltered waters should remain below SCA. SCA conditions on the 
+ocean likely continue through at least Monday.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts expected through early next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory from 8 AM this morning to 6 PM EDT this 
+     evening for ANZ345.
+     Small Craft Advisory until 6 AM EDT Friday for ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...BG/MW
+NEAR TERM...BG/JP/DS/MW
+SHORT TERM...BG
+LONG TERM...MW
+AVIATION...JMC/JP
+MARINE...BG/MW
+HYDROLOGY...BG/MW

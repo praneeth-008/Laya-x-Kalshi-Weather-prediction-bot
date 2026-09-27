@@ -1,0 +1,138 @@
+392 
+FXUS61 KOKX 012308
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+708 PM EDT Fri Aug 1 2025
+
+.SYNOPSIS...
+High pressure remains in control through midweek before a frontal 
+system approaches toward week's end.
+
+&&
+
+.NEAR TERM /THROUGH SATURDAY/...
+A frontal boundary continues to shift south of the area while high 
+pressure builds in from the northeast. The pressure gradient is 
+gradually weakening leading to a lightening E/NE flow. A longwave 
+upper level trough remains across much of the east coast of the US 
+and up into eastern Canada.
+
+This will be the first of several cooler nights coming up. With
+winds lightening and skies clearing earlier for the interior, 
+thinking they have the better shot at some lower 50s low 
+temperatures tonight. Elsewhere upper 50s to mid 60s is 
+expected. Blended in CONSMOS with the NBM to get these 
+temperatures across the interior.
+
+High pressure settles over the area on Saturday with sunny to 
+mostly sunny skies expected. Given the cooler airmass, 
+temperatures likely only reach the low 80s. Late day seabreeze 
+is likely.
+
+&&
+
+.SHORT TERM /SATURDAY NIGHT THROUGH MONDAY/...
+High pressure remains in control Saturday night through Monday. 
+Expect more days of dry weather, plenty of sun and cooler 
+nights. The NBM was closely followed, except for blending in 
+some CONSMOS for lows.
+
+Upper level trough axis shifts east and heights rise a bit
+Sunday into Monday. The cooler airmass begins to modify and
+highs will be back in the mid 80s to low 90s by Monday.
+
+&&
+
+.LONG TERM /MONDAY NIGHT THROUGH FRIDAY/...
+The NBM was largely followed with this update with no major changes. 
+
+Key Points:
+
+* Generally dry conditions are expected through Thursday. A frontal 
+  system then approaches toward the end of the week.
+
+* Seasonable temperatures through the period with highs in the 80s 
+  and lower humidity that in recent days.
+
+A decent stretch of sensible weather is in store for the extended as 
+global models and their respective ensembles advertise a building 
+upper ridge and high pressure at the surface much of the period. 
+With strong ridging over the Four Corners region, a few weak 
+shortwaves will pass through the northeast ridge during the period 
+without much fanfare. The flow attempts to flatten some by late 
+Thursday into Friday, as the surface high retreats to the south and 
+a front approaches from the OH Valley. Slight chance PoPs for Friday 
+associated with this front, which seems reasonable this far out.
+
+&&
+
+.AVIATION /00Z SATURDAY THROUGH WEDNESDAY/...
+High pressure will build in from the northwest into Saturday.
+
+VFR.
+
+NE winds 5 to 10 kt will gradually back to N this evening, and
+possibly become light and variable at most locations, and become
+light NE Saturday morning. An onshore flow develops at the 
+coastal terminals during Saturday afternoon.
+
+
+     NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No unscheduled amendments expected.
+
+
+.OUTLOOK FOR 00Z SUNDAY THROUGH WEDNESDAY... 
+
+Saturday night - Wednesday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+A Small Craft Advisory remains in effect for only the ocean waters 
+as seas are still as high as 8 feet from a consistent 15-20kt E/NE 
+flow. The Advisory expires at 11 AM Saturday morning. Sub SCA 
+conditions are then likely the rest of Saturday through next week 
+with high pressure in control and a weak pressure gradient over the 
+waters.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through next week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+There will be a high rip current risk through this evening for the 
+ocean beaches predominantly from a strong E to W longshore 
+current from 5-7ft ENE wind waves. The risk then decreases to 
+moderate on Saturday.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...High Risk for Rip Currents until 9 PM EDT this evening for NYZ075-
+     080-081-178-179.
+NJ...None.
+MARINE...Small Craft Advisory until 11 AM EDT Saturday for ANZ350-353-
+     355.
+
+&&
+
+$$
+
+SYNOPSIS...DBR/JT
+NEAR TERM...JT
+SHORT TERM...JT
+LONG TERM...DBR
+AVIATION...MET
+MARINE...DBR/JT
+HYDROLOGY...DBR/JT
+TIDES/COASTAL FLOODING...

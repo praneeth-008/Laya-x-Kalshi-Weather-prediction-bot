@@ -1,0 +1,137 @@
+011 
+FXUS61 KOKX 090545
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+145 AM EDT Sat Aug 9 2025
+
+.SYNOPSIS...
+High pressure will remain in control through the weekend. The 
+high will then slowly weaken as a frontal system approaches mid 
+to late next week.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Elongated E-W high pressure extending from Nova Scotia to the 
+Middle Atlantic will remain in control through tonight. Heights 
+aloft will slowly rise as ridging builds over the eastern US. 
+
+Some patchy river fog is possible early this morning.
+Otherwise, mostly clear conditions are expected through 
+tonight. Temperatures should end up a few degrees warmer than 
+those observed on Friday with highs in the lower 80s for most 
+spots and middle 80s for the warmer locations in NE NJ and Lower
+Hudson Valley. Another cool night is in store with a continued 
+dry air mass, mostly clear skies, and light winds. Temperatures 
+look to fall into the upper 50s to low 60s for most and middle 
+60s in the NYC metro. 
+
+&&
+
+.SHORT TERM /SUNDAY THROUGH MONDAY NIGHT/...
+A high amplitude ridge (+2 to +3SD) over the eastern third of
+the country will be the main weather feature into early next 
+week. Surface high pressure over the area on Sunday will shift 
+offshore and become more of a Bermuda high pressure system 
+Monday into Monday night. 
+
+Temperatures will trend warmer both Sunday and Monday. The latest 
+model consensus blend looks good with highs in the middle to upper 
+80s for most and low 90s in NE NJ on Sunday. Monday is looking to 
+feature more widespread low 90s away from the immediate coast with 
+middle to upper 80s near the coast due to the onshore flow 
+influence. The air mass will remain very dry with only a few clouds 
+each day. Dew points will be low enough (mid/upper 50s to low 60s) 
+to keep heat indices close to air actual air temperatures and 
+prevent them from getting higher than lower 90s. Nighttime 
+temperatures also gradually increase each night with patchy fog
+possible. 
+
+&&
+
+.LONG TERM /TUESDAY THROUGH FRIDAY/...
+No significant changes made to the long term. 
+
+The high amplitude ridge in place across the eastern third of the 
+country will gradually break down through the period with the 
+westerlies sending a cold front through late Thursday into Friday. 
+
+Expect mainly dry conditions with increasing heat and humidity 
+Tuesday and Wednesday. Often, the NBM can be too high with dew 
+points and over the last couple of days it has adjusted dew points 
+slightly downward Tuesday. This likely due to its bias correction, 
+especially from recent performance. Regardless, there still remains 
+a chance for heat indices to meet heat advisory criteria, 
+specifically for the criteria of two consecutive day at 95 to 99. 
+The hottest day currently looks to occur on Wednesday with potential 
+of it continuing into Thursday. However, the areal coverage of 95-99 
+heat indices has been decreasing for Thursday. Temperatures during 
+this time will average 5-10 degrees above normal.
+
+A late day shower or thunderstorm is possible mainly NW of NYC 
+Wednesday-Friday afternoons/evenings. Highs will generally be in the 
+upper 80s to lower 90s away from the Atlantic facing beaches with 
+lows in the 60s and lower 70s.
+
+&&
+
+.AVIATION /06Z SATURDAY THROUGH WEDNESDAY/...
+VFR through the TAF period with high pressure remaining in control. 
+
+Light and variable winds overnight. Wash, rinse, repeat for later 
+today with light ENE winds to start in the morning, then becoming SE 
+at 10 kt or less from late morning into the afternoon.
+
+...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No unscheduled amendments expected.
+
+.OUTLOOK FOR 06Z SUNDAY THROUGH WEDNESDAY... 
+
+Late tonight - Wednesday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+High pressure in control will lead to conditions below SCA
+levels through the middle of next week. A weak area of low
+pressure well offshore may continue to bring an E swell into
+early next week, but seas will remain below 5 ft.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through next week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+Easterly swells continue this weekend, but may start to subside
+a bit on Sunday. A moderate rip current risk continues today,
+but falls to low on Sunday with the subsiding swell. 
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...DS/DW
+NEAR TERM...DS
+SHORT TERM...DS
+LONG TERM...DS/DW
+AVIATION...JC
+MARINE...DS/DW
+HYDROLOGY...DS
+TIDES/COASTAL FLOODING...

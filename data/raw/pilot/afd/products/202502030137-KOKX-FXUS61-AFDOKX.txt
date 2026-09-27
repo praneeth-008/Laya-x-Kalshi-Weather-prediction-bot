@@ -1,0 +1,209 @@
+429 
+FXUS61 KOKX 030137
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+837 PM EST Sun Feb 2 2025
+
+.SYNOPSIS...
+A warm front lifts through tonight followed by a cold front on 
+Monday night. High pressure returns Tuesday into Wednesday. A 
+complex frontal system then approaches late Wednesday and impact 
+the area from Wednesday night into Thursday. High pressure will 
+return on Friday before another frontal system next weekend.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM MONDAY MORNING/...
+Forecast remains on track. The Winter Weather Advisory remains
+in effect tonight for interior southern CT. Starting to see 
+lift increase across the western half of the area early this 
+evening and will continue spreading eastward through the next 
+several hours. Precip should begin becoming more widespread 
+7-9pm. 
+
+For the Lower Hudson Valley, southern CT and much of northeast 
+NJ, this is expected to fall as all snow. For Long Island, 
+coastal CT and the NY/NJ metro area, with warming surface and 
+boundary layer temps from a southerly flow, precip may start as 
+snow and then turn to a wintry mix and or all rain.
+
+The shortwave has had a very subtle strengthening trend across much 
+of the guidance over the past several model cycles. This may be the 
+reason for the upward trend in QPF. QPF totals were bumped up 
+to 0.25 to 0.30 inches over southern CT, with 0.10 to 0.20 
+inches elsewhere. With these totals in CT, even being 
+conservative with SLRs (10-12:1) would result in around 3 inches
+of snow (Advisory criteria) across the interior. For this 
+reason, issued an Advisory there. Higher SLRs are not out of the
+question as the hi res guidance agreed on a 1-3 hour window 
+with strong lift maximized in the DGZ. This would lead to a 
+period of moderate snow and snowfall rates close to 1 inch per 
+hour. Farther west, across the Lower Hudson Valley, lift is 
+weaker and QPF is lower. This is likely a result of the 
+orientation and timing of the LLJ. Totals here will be closer to
+1-2 inches, with isolated 3 inch amounts.
+
+As the precip tapers off after midnight, the mid levels dry out and 
+this may result in a period of lingering patchy freezing drizzle 
+across the interior into early Monday morning. Confidence in this is 
+low, but will handle this potential if it increases with a Special
+Weather Statement.
+
+&&
+
+.SHORT TERM /6 AM MONDAY MORNING THROUGH MONDAY NIGHT/...
+The warm front will be north of the area by Monday morning and deep 
+W-SW flow will continue ahead of the approaching cold front. 
+Temperatures rise and moisture increases with highs in the mid to 
+upper 40s. SW flow then picks up Monday evening and the cold frontal 
+passage is expected sometime after midnight. At this time, the front 
+is expected to go through dry, but some sprinkles can not be ruled 
+out. Because the winds stay up all night, went closer to the NBM and 
+CONSALL instead of the MOS for lows.
+
+&&
+
+.LONG TERM /TUESDAY THROUGH SUNDAY/...
+There has not been too much change with the forecast Tuesday through 
+next weekend. A fast zonal flow aloft with several embedded 
+shortwaves/frontal systems look to impact the area, one mid to late 
+week and another next weekend.
+
+High pressure builds in Tuesday and appears to settle overhead by 
+Wednesday morning. The high likely lingers nearby into Wednesday 
+evening with the latest guidance slowing down the timing of an 
+approaching frontal system. With the lingering surface ridging, have 
+lowered precip probabilities during the day on Wednesday with a 
+good chance it remains dry during the daytime. 
+
+The model guidance then continues to differ with the evolution of 
+the complex frontal system Wednesday night into Thursday.
+However, the general idea in the modeling is similar overall with a 
+parent low likely tracking to our northwest late Wednesday night 
+into Thursday. This will help bring a warm front across the area 
+early Thursday before a trailing cold front passes late Thursday or 
+Thursday night. Still thinking there will be a brief period of a 
+wintry mix Wednesday night, first starting out as some snow and 
+sleet then transitioning to freezing rain and rain early Thursday 
+morning. The wintry mix will last longest across the interior with 
+the NYC metro and Long Island becoming plain rain as the boundary 
+layer warms late Wednesday night into Thursday morning. Some 
+freezing rain could linger across the interior Thursday morning, 
+depending on how quickly the boundary layer can warm up. This will 
+be dependent on the strength of the SW flow. Some solutions are 
+showing a weaker parent low, which would have a weaker lower level 
+flow, and slower timing of scouring out the surface cold air inland. 
+The overall pattern however supports warm air aloft helping to bring 
+a transition to liquid at some point late Wednesday night or early 
+Thursday morning. Little to no accumulation is currently expected 
+near the coast with a light snow/sleet accumulation as well as light 
+ice accretion inland are possible. These details will become much 
+clearer in the next day or so. 
+
+Rain will continue on Thursday and should taper off late in the day 
+or night once the cold front passes. Dry conditions will return to 
+end the week. Model guidance is in good agreement on another complex 
+frontal system for next weekend. The synoptic pattern favors a 
+similar set up to the mid week system, but PTYPE details are less 
+certain at this time. Generally followed the latest model consensus 
+blend for next weekend. 
+
+Temperatures will be up and down through the period due to the fast 
+flow. Above normal temperatures Tuesday trend below normal by 
+Wednesday. Temperatures should warm back above normal on Thursday 
+before dropping below normal to end the week.
+
+&&
+
+.AVIATION /02Z MONDAY THROUGH FRIDAY/...
+Weak low pressure passes over the area tonight. A cold front 
+approaches from the west on Monday.
+
+As low pressure approaches from the west, cigs will lower from 
+MVFR to IFR. Precipitation has mainly been snow across the
+terminals north of NYC, however closer to the coast, a wintry
+mix of snow, sleet, and rain can be expected. Temperatures are
+warm enough at KJFK and KISP for a complete changeover to rain 
+expected at KJFK and KISP. The precipitation ends from west to
+east between 05-07Z. Any lower cigs will slowly improve back to
+VFR around or after 12z.
+
+Winds will remain light and variable for most terminals through
+the TAF period. For the NYC terminals, a light SW flow is
+expected on Monday.
+
+Snow accumulations expected:
+
+KSWF/KHPN: 2-3 inches. 
+
+KTEB: 1-2 inches.
+
+KBDR/KGON: Around 2 inches.
+
+KEWR: Less than 1 inch. 
+
+KJFK/ISP/KLGA: less than a 1/2 inch.
+
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Changing p-types expected this evening, especially with onset of
+precipitation. 
+
+.OUTLOOK FOR 00z TUESDAY THROUGH FRIDAY... 
+
+Monday night: VFR. 
+
+Tuesday: VFR with NW flow 20-30kt. 
+
+Wednesday: VFR with light winds. 
+
+Thursday: MVFR or lower possible in rain or a wintry mix.
+
+Friday: VFR with NW flow.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Sub-Small Craft Advisory conditions are expected tonight through 
+Monday. Southwesterly flow then increases ahead of a cold front 
+Monday night and wind gusts may reach 25 kt on the eastern ocean 
+waters as well as seas reaching 5 ft. Confidence is low and current 
+forecast calls for only marginal SCA conditions so will hold off on 
+SCA with this cycle. 
+
+Marginal SCA conditions are possible on the ocean on Tuesday with 
+conditions below SCA Tuesday night into Wednesday. The next chance 
+at SCA conditions will be Wednesday night through Thursday as a 
+complex frontal system impacts the waters. Elevated oceans to SCA 
+levels may then continue into Friday.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through next weekend.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Winter Weather Advisory until 7 AM EST Monday for CTZ005>008.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...DS/JT
+NEAR TERM...DS/JT
+SHORT TERM...JT
+LONG TERM...DS
+AVIATION...BC
+MARINE...DS/JT
+HYDROLOGY...DS/JT

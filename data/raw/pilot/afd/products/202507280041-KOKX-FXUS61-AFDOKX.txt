@@ -1,0 +1,238 @@
+323 
+FXUS61 KOKX 280041
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+841 PM EDT Sun Jul 27 2025
+
+.SYNOPSIS...
+A weak frontal system moves through the area tonight. High 
+pressure then builds into the area Monday and Tuesday, moving 
+offshore Tuesday night. A cold front approaches Wednesday into 
+Wednesday night and moves across the area Thursday. High 
+pressure builds in from the Great Lakes Friday into next 
+weekend.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM MONDAY MORNING/...
+For this update have kept a slight chance PoPs around for a few
+hours later into the evening, mainly for S and SE portions of 
+the area. Therefore a few isolated showers or a thunderstorm 
+through mid evening. Otherwise, heights begin to rise late 
+tonight/toward 12Z Monday as ridging builds into the region. 
+Heat begins to build late tonight as warmer air begins to move 
+in behind the frontal system. And overnight lows will be several
+degrees above normal.
+
+&&
+
+.SHORT TERM /6 AM MONDAY MORNING THROUGH TUESDAY NIGHT/...
+* Heat and humidity builds on Monday and continues into at least
+  Tuesday. A Heat Advisory remains in effect for the entire
+  area, Monday and Tuesday, and was extended through Wednesday.
+
+Weak upper ridging aloft builds through Monday and then remains
+Tuesday and Tuesday night, with the area remaining on the
+eastern edge of the upper ridge. Monday 850mb temperatures rise
+to near 19C and remain into Monday night. Tuesday 850mb
+temperatures rise a couple more degrees, to around 21C. Surface
+highs Monday will be in the lower to mid 90s. At this time no
+records are expected. Tuesday will be a few degrees warmer with
+highs in the mid to upper 90s, potentially hitting 100 across
+portions of Northeastern New Jersey. A couple of record high
+temperatures are possible. See the CLIMATE section for details.
+The combination of high dew points Monday, around 70, and mixing
+out to the upper 60s during the afternoon across northeastern
+New Jersey, will produce heat indices of 95 to around 104. The
+higher temperatures Tuesday with similar dew points will
+result in heat indices of 97 to 104. A few locations may reach
+105, however, with the limited areal coverage a Heat Warning is
+not expected to be needed.
+
+&&
+
+.LONG TERM /WEDNESDAY THROUGH SUNDAY/...
+Key Points: 
+
+*Once more day of heat and humidity is expected on Wednesday with 
+max heat indices in the upper 90s to low 100s. The heat advisory has 
+been extended through early Wednesday evening. 
+
+*An approaching cold front brings chances for showers and 
+thunderstorms late Wednesday into Wednesday. The front likely sags 
+south on Thursday, but a frontal wave may bring a continued 
+chance of showers into the evening. 
+
+*High pressure builds towards the area Friday and settles over the 
+region next weekend bringing cooler temperatures and low humidity 
+levels. 
+
+Latest trends indicate ridging aloft holding on through 
+Wednesday afternoon. This has lead to a trend up with 
+temperatures and resulting heat indices. Given fairly high 
+confidence heat indices will at least reach or exceed 95 across 
+much of the area, have extended the heat advisory. Heat indices 
+may peak in the low 100s in the normally warm spots, but do not 
+think they will get as high as extreme heat warning criteria. 
+
+A cold front approaches late Wednesday and will move across the
+area Wednesday night into Thursday. Showers and thunderstorms 
+are possible with the front. There is still low confidence with 
+severe potential, but a few strong storms with heavy downpours 
+cannot be ruled out Wednesday evening. A frontal wave may form 
+on the front Thursday as it shifts through the area, which would
+continue the potential of showers and a few thunderstorms 
+through Thursday evening. There are still mixed signals 
+regarding the exact track of the wave, but there has been a 
+trend towards being located close enough to the coast to support
+showers through Thursday evening, potentially even a portion of
+Thursday night. 
+
+An anomalously strong upper trough follows for Friday pushing 
+the front well offshore and allowing sprawling high pressure to 
+build over the region through next weekend. Temperatures will be
+much cooler, generally in the upper 70s to low 80s Friday and 
+Saturday with a slight uptick next Sunday, but still seasonable.
+Humidity levels will be held down with a dry air mass 
+accompanying the high pressure.
+
+&&
+
+.AVIATION /00Z MONDAY THROUGH FRIDAY/...
+A weak frontal boundary passes through the area overnight. 
+
+Mainly VFR, expect IFR to start at KISP and KGON, which will 
+see improvement later tonight as some drier air filters into the
+low levels behind the front. 
+
+Light S/SW winds will veer around to N/NW overnight. Northerly 
+flow at less than 10 kt Monday will be overtaken by seabreezes 
+at the coastal terminals.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Spotty shower possible through about 02Z.
+
+.OUTLOOK FOR 00Z TUESDAY THROUGH FRIDAY... 
+
+Monday - Tuesday: VFR.
+
+Wednesday: Mainly VFR. A chance of showers and thunderstorms
+late in the day and at night. 
+
+Wed Night thru Thursday: Showers with MVFR possible.
+
+Friday: VFR.
+
+Detailed information, including hourly TAF wind component 
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Conditions will remain below SCA levels tonight through 
+Wednesday. A cold front moves across the waters Wednesday night 
+through Thursday. An increasing pressure gradient behind the 
+front will bring the next chance of SCA conditions into Friday, 
+mainly on the ocean.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through the day Wednesday.
+
+Locally heavy downpours are possible Wednesday evening into 
+Thursday, but potential impacts are uncertain at this time.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+There is an overall low rip current risk for ocean beaches 
+Monday and Tuesday with only 1 to 2 feet offshore wave heights 
+and the absence of a wind wave contribution.
+
+&&
+
+.CLIMATE...
+The following are record high temperatures for July 28
+
+Newark       101/1949  
+Bridgeport    95/1949 
+Central Park *97/1999
+LaGuardia     98/1949
+Kennedy       98/1949
+Islip         96/1999
+
+* ALSO OCCURRED IN PREVIOUS YEARS
+
+
+The following are record high temperatures for July 29
+
+Newark       100/1949
+Bridgeport    96/2002
+Central Park  99/1949
+LaGuardia     97/1949
+Kennedy       99/2002
+Islip         96/2002
+
+
+The following are record high minimum temperatures for Monday, July 
+28th through Wednesday, July 30th. Currently the forecast reflects 
+that records will be approached at some of our climate sites with 
+respect to the minimum temperatures.
+
+Record Minimum Temperatures for Monday, July 28th    
+----------------------------------------------------     
+Central Park........80 (2020)
+LaGuardia...........83 (2020)
+Kennedy.............79 (2020) 
+Islip...............77 (2020)
+Newark..............80 (2020)
+Bridgeport..........77 (2020)
+
+Record Minimum Temperatures for Tuesday, July 29th    
+----------------------------------------------------
+Central Park........79 (2002)
+LaGuardia...........82 (2002)
+Kennedy.............76 (2022,2002,1995,1949) 
+Islip...............77 (1995)
+Newark..............79 (2002)
+Bridgeport..........78 (1995)
+
+Record Minimum Temperatures for Wednesday, July 30th    
+----------------------------------------------------
+Central Park........80 (2002)
+LaGuardia...........81 (2019,2002)
+Kennedy.............79 (2006,1995)
+Islip...............76 (2002)
+Newark..............81 (2002)
+Bridgeport..........76 (2002)
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Heat Advisory from 11 AM Monday to 8 PM EDT Wednesday for 
+     CTZ005>012.
+NY...Heat Advisory from 11 AM Monday to 8 PM EDT Wednesday for 
+     NYZ067>075-078>081-176>179.
+     Air Quality Alert until midnight EDT tonight for NYZ067>075-
+     078>081-176>179.
+NJ...Heat Advisory from 11 AM Monday to 8 PM EDT Wednesday for 
+     NJZ002-004-006-103>108.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...DS/MET
+NEAR TERM...JE/MET
+SHORT TERM...MET
+LONG TERM...DS
+AVIATION...DW
+MARINE...DS/MET
+HYDROLOGY...DS/MET
+TIDES/COASTAL FLOODING...
+CLIMATE...

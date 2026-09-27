@@ -1,0 +1,192 @@
+825 
+FXUS61 KOKX 100826
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+426 AM EDT Thu Apr 10 2025
+
+.SYNOPSIS...
+High pressure today gives way to an approaching storm tonight. The 
+center of this low pressure system slowly moves through the 
+Mid-Atlantic on Friday passes to our south and east this weekend.
+The low to the east then shifts away from the area on Sunday as
+high pressure builds in for Monday. Another frontal system 
+moves through the area Monday night and into Tuesday. High 
+pressure then gradually builds back in through Thursday.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+High pressure centered south of Nova Scotia drifts east today. 
+Cloudy, but probably dry through the daytime hours as the sub-cloud 
+layer will fairly dry. Can't rule out a light afternoon shower over 
+the western half of the forecast area. Low levels then moisten with 
+a continuing onshore flow tonight. Weak isentropic lift ahead of a 
+weakening warm front and lift from a mid-level shortwave combined 
+with the moisture bring the likelihood of light rainfall for most of 
+the area by the end of the night. Thermal profiles however look cold 
+enough across the northern fringe for a mix of rain and snow. Since 
+precip will be light and temps remain above freezing, accumulations 
+would likely be nothing more than a light coating.
+
+&&
+
+.SHORT TERM /FRIDAY THROUGH SATURDAY NIGHT/...
+Global models are all in good agreement with closing off an 
+upper low over the Mid Atlantic states on Friday, then lifting 
+it slowly north and east through the weekend. However, there are 
+still some differences with the positioning of the surface low. The 
+general idea is that the low emerges off the Mid-Atlantic Coast and 
+slowly heads NE with its center passing well to our south and east 
+Saturday through Saturday night. 
+
+Rain will be likely for most of the area by day's end Friday, but no 
+impacts with this as it will mostly likely remain light. Better lift 
+and somewhat deeper moisture arrive Friday night into Saturday 
+morning with a low level jet and the left exit region of a jet 
+streak shifting through. Rain will be more moderate in intensity 
+during this period. Highest elevations in the Lower Hudson Valley 
+may even see some sleet mixed in during this period with cooling 
+aloft. PWATs continue to be modest, and convection is not 
+anticipated, so chances of any extended period of heavy rain are 
+low. NBM chances of greater than an inch of rain even in a 6-hour 
+period are minimal, so given current flash flood guidance, excessive 
+rainfall is not expected and any flooding will most likely be 
+limited to minor. WPC has removed the marginal risk for excessive 
+rainfall over our area after collaboration. Rain will still be 
+likely Saturday afternoon, but lighter in intensity. Rain chances 
+then gradually lower as Saturday night progresses. Winds still not a 
+concern, but breezy conditions still anticipated for coastal areas 
+Friday night through Saturday. Daytime temperatures for Friday and 
+Saturday will be below normal with the clouds and rain.
+
+&&
+
+.LONG TERM /SUNDAY THROUGH WEDNESDAY/...
+Surface low pressure east of the area on Sunday will gradually move 
+northeast into the Canadian Maritimes as the overhead trough swings 
+east with it. Depending on the exact placement of the center of the 
+low and the extent of moisture in the column, a few residual showers 
+may be possible on Sunday, with the highest chance of shower 
+activity being for the eastern half of the CWA.
+
+As the low pushes east into Monday, mid-level ridging builds in 
+overhead with a surface high pressure system to the south building 
+in as well. This will make for generally dry conditions on Monday, 
+though any clear skies in the morning will begin to become cloud 
+covered once again toward evening with the approach of the next 
+frontal system. Another large trough swings in from the Great Lakes 
+region with the associated surface low pressure system passing by 
+well to the north. THe cold front associated with this low pressure 
+system will move through the area Monday night and into Tuesday 
+bringing a low chance of rain showers, mainly for the northern 
+portions of the area.
+
+General troughiness will continue through Tuesday and Wednesday as 
+the large low pressure occludes north of the area. While some pieces 
+of energy swing by, much of the area should remain mostly dry, 
+though some isolated showers during the afternoon Tuesday and 
+Wednesday can't be ruled out with the trough positioned overhead. 
+High pressure then builds in through the end of the week.
+
+Temperatures on Sunday will be around of slightly below average with 
+highs in the middle to possibly upper 50s. Temperatures will 
+gradually warm Monday and into Tuesday ahead of the next frontal 
+system with temperatures in the 60s Monday and upper 60s to near 70 
+for the NYC metro on Tuesday. Wednesday will cool down once again 
+with the trough overhead with highs only in the low to middle
+50s.
+
+&&
+
+.AVIATION /09Z THURSDAY THROUGH MONDAY/...
+High pressure over the area this morning shifts offshore today 
+before a frontal system impacts the area tonight and into Friday.
+
+VFR expected through today. MVFR and eventually IFR moves in this 
+evening after 00Z, but especially toward 6Z Friday. Mostly dry 
+conditions expected through 22Z. SHRA then expected to develop, but 
+coverage at this time remains uncertain. SHRA expected to become 
+more widespread after 6Z Friday with conditions lowering to IFR.
+A mix with -SN is also possible tonight at KSWF.
+
+Light and variable or a light SW flow through this morning. Winds 
+then pick up to near 10kt out of the S/SE during the day. Winds 
+slowly back to the E after 00Z Friday.
+ 
+     NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+No amendments are expected through 22z today. Amendments are 
+possible this evening into Friday morning with timing of SHRA and 
+changing flight categories.
+
+.OUTLOOK FOR 09Z FRIDAY THROUGH MONDAY...
+
+Thursday night: MVFR/IFR with -SHRA. SE winds about 10-15kt.
+
+Friday: MVFR with periods of IFR. Rain. E flow 10-20kt.
+
+Saturday: MVFR or lower. Chance of light rain. NE winds 15-20 kt 
+possible.
+
+Sunday: MVFR possible with winds becoming NW.
+
+Monday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Sub SCA conds expected on all waters through tonight. A 
+strengthening easterly flow will bring SCA conditions to the ocean 
+waters Friday into Saturday with gusts up to 30 kt and seas building 
+to 6 to 9 ft on the ocean. Also can't rule out a stray gust or two 
+east of Moriches Inlet late Friday night into Saturday morning. 
+Conditions look more marginal for the non-ocean waters, but a better 
+chance for SCA will be during Friday night into Saturday. Since this 
+would be a 4th period start, too early for SCA headlines here. As 
+for the ocean, high enough confidence of SCA conds starting 3rd 
+period, so have issued an advisory for Friday. The advisory will 
+likely need to be extended in time for a few more periods thereafter 
+as seas will take some time to subside. 
+
+SCA conditions will still persist on the ocean on Sunday with 
+wave heights 5-7 feet expected. Some occasional 25 kt gusts will
+be possible on the waters early Sunday but should diminish into
+the afternoon. Sub-SCA conditions should then prevail for all 
+waters on Monday with high pressure overhead.
+
+&&
+
+.HYDROLOGY...
+Rainfall from tonight through Saturday evening expected to average 
+from 1 to 2 inches. These amounts should limit any flooding to the 
+minor nuisance variety, and the timing for the best chances of this 
+would be late Friday night into Saturday morning.
+
+Following this, no hydrologic concerns for Sunday through the 
+middle of next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory from 6 AM to 6 PM EDT Friday for ANZ350-
+     353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JC/MW
+NEAR TERM...JC
+SHORT TERM...JC
+LONG TERM...MW
+AVIATION...MW
+MARINE...JC/MW
+HYDROLOGY...JC/MW

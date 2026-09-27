@@ -1,0 +1,215 @@
+628 
+FXUS61 KOKX 121915
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+215 PM EST Sun Jan 12 2025
+
+.SYNOPSIS...
+High pressure high pressure will gradually weaken and shift 
+more south of the region tonight. A wave of low pressure 
+approaches from SE Canada Monday into Monday night. A cold 
+front will pass across the area Monday night followed by high 
+pressure slowly building from the west through the end of the 
+week. A complex frontal boundary will work through next 
+weekend.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Some slight adjustments with temperatures this afternoon.
+Otherwise, the forecast remains on track.
+
+Jet stream, South Central US through Northeast US, jet winds 
+increase through tonight.
+
+For tonight a weak pressure gradient remains as high pressure axis 
+moves in and center of high pressure shifts south of the area. The 
+center of the high will be moving towards the Southeast US coast.
+
+With mid level ridge axis moving east of the region, more trough 
+pattern takes shape. This will lead to decreasing subsidence. Mid 
+level low will be approaching from South Central Canada. 
+
+Would expect to have increasing and abundance of mid and high level 
+clouds coming over the ridge. While surface light winds will promote 
+more radiational cooling, the extra cloud coverage will 
+partially mitigate this. 
+
+Going to have a blend of NBM and MOS consensus for the area low 
+temperatures. This will make for a less vast range of lows and keep 
+temperatures slightly warmer for rural and outlying locations. Dry 
+conditions expected to prevail.
+
+&&
+
+.SHORT TERM /MONDAY THROUGH TUESDAY NIGHT/...
+Jet streak translates close to the region, staying just south of the 
+area Monday through Monday night.
+
+Mid level zonal flow expected Monday through Monday night with the 
+mid level low moving from near northern Minnesota to the eastern 
+Great Lakes.
+
+At the surface, low pressure travels eastward just north of the 
+Great Lakes. The low eventually gets to Southern Quebec to near 
+Maine by early Tuesday. An associated cold front moves across
+the local area Monday night.
+
+High pressure strengthens to the west of the low. The local 
+region will have a strengthening pressure gradient between the 
+low and high. A gusty WNW to NW flow develops as a result Monday
+afternoon into Monday night.
+
+Clouds will increase Monday into Monday night but decrease
+later Monday night into Tuesday with surface high pressure
+gradually building in. However, the center of the high pressure
+stays well to the south and west of the region.
+
+Used a blend of MAV and MET MOS guidance and added an extra
+degree for the high temperature forecast on Monday. Increasing
+WSW flow Monday and higher vertical mixing should allow for a
+relatively warmer day than the previous day.
+
+For lows Monday night, took a blend of NBM, consensus of raw
+model data, as well as the MAV and MET MOS. While winds staying
+up in the boundary layer and some extra clouds may be limiting
+factors, there is still strong cold air advection indicated by
+the models. The net result are lows about the same as the
+previous night but wind chills will be much more apparent here.
+
+Blustery and cold conditions are likely on Tuesday as the region 
+lies between building high pressure to the west and low pressure
+towards the Maritimes and North Atlantic. NBM deterministic 
+winds have been running too low in similar set ups with NW flow 
+and cold advection. Have bumped up winds and wind gusts closer 
+to the NBM 90th percentile, and these may need to be adjusted a 
+up a bit more in subsequent forecasts. The low level flow and 
+winds atop the mixed layer do not look as strong as what was 
+observed last week. The NW flow, cold advection and subsidence 
+should allow winds to reach 15- 20 mph with gusts 25-35 mph. A 
+few gusts up to 40 mph are possible, especially near the coast. 
+It may take some time for the winds to come up on Tuesday with 
+peak winds occurring late in the day and at night once the 
+shortwave moves across the area and the pressure gradient 
+tightens. High temperatures will be below normal in the upper 
+20s inland to the lower 30s closer to the coast. Wind chills 
+look to be in the teens to around 20 during the day, but then 
+fall to the single digits Tuesday night with actual lows in the 
+teens to low 20s.
+
+&&
+
+.LONG TERM /WEDNESDAY THROUGH SATURDAY/...
+Key Point(s)
+
+* Dry, brisk, and cold Wednesday and Thursday.
+
+* Temperature moderation late week. 
+
+* Frontal boundary likely to approach next weekend with the our
+  next round of measurable precipitation.
+
+Trough in the East and ridge out West large scale pattern
+generally holds for the foreseeable future. Although the 
+eastern trough is likely to pull back further west Friday into 
+Saturday. This should allow temperatures to turn milder, at 
+least temporarily.
+
+The main story for this period will be the return of brisk, at
+times windy conditions for mid week. Some single digit wind 
+chills are likely Wednesday morning, especially across far 
+northern and northwestern portions of the area. Went above the 
+consensus wind guidance on Wednesday as the region will be in 
+the wake of a potent shortwave and strong mixing and a strong 
+pressure gradient in place should allow wind gusts to approach 
+30-35 mph during the daytime keeping wind chills in the teens. 
+A high pressure ridge then settles across with the pressure 
+gradient relaxing Wednesday night into Thursday with lighter 
+winds. Dry conditions should continue into Friday with the high 
+pressure ridge moving across. The ridge then gets offshore 
+Friday night. A milder southerly flow should actually get 
+temperatures above normal Friday night. A southerly flow out 
+ahead of the cold frontal boundary may allow temperatures to 
+slowly rise Friday night, especially late as more cloud cover is
+expected to arrive. Have increased PoPs into the day Saturday. 
+An elongated southerly fetch ahead of the boundary should allow 
+any precip to be mainly in the liquid form, although far NW 
+interior locations may begin as a wintry mix. The boundary is 
+expected to move off to the east later in the weekend with drier
+air and eventually colder air likely to return late in the 
+weekend.
+
+&&
+
+.AVIATION /19Z SUNDAY THROUGH FRIDAY/...
+VFR as high pressure over the area through tonight slides east 
+on Mon. 
+
+Mainly NW winds at or just under 10 kt at most terminals should
+back more to the W and diminish tonight, then become SW late
+tonight. SW winds then increase to around or just under 10 kt
+after 14Z Mon. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No unscheduled AMD expected.
+
+OUTLOOK FOR 18Z MONDAY THROUGH FRIDAY...
+
+Monday afternoon: VFR. SW winds G20kt. 
+
+Monday night: VFR. Cold fropa early followed by W-NW winds 
+G15-20kt.
+
+Tuesday through Wednesday: VFR. NW winds 15G25kt. 
+
+Wednesday night: VFR. NW winds G20kt in the evening. 
+
+Thursday: VFR.
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Conditions will remain below SCA levels through Monday, but 
+winds on the ocean may approach 20 kt ahead of a cold front. 
+Behind the front, NW flow increases with SCA conditions likely 
+Monday night through Tuesday night. Gale potential appears low
+daytime Tue into Tue night, but if the flow ends up stronger
+than expected, gales could become more likely especially at
+night. 
+
+SCA cond should carry through the day Wednesday and possibly
+into the evening. A period of gales are possible on the ocean on
+Wed. Cond should then settle down to sub-advisory levels by
+early Thu morning.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through the first half of next
+weekend.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JE/JM
+NEAR TERM...JM
+SHORT TERM...JM/DS
+LONG TERM...JE
+AVIATION...BG
+MARINE...JE/JM/DS
+HYDROLOGY...JE/JM

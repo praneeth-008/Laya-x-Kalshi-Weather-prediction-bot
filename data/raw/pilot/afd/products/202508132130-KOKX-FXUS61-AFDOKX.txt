@@ -1,0 +1,188 @@
+346 
+FXUS61 KOKX 132130
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+530 PM EDT Wed Aug 13 2025
+
+.SYNOPSIS...
+A pre-frontal trough ahead of a cold front across the eastern
+Great Lakes will move into the area this evening where it will
+become nearly stationary. The cold front will then very slowly
+work west to east across the area Thursday afternoon and night.
+High pressure then builds over the region through Friday night
+before moving offshore Saturday. A cold front approaches Sunday, 
+moving through late in the day into Sunday night. The front may 
+stall nearby, as waves of low pressure move along the boundary 
+into early next week. Meanwhile, high pressure attempts to return 
+from the north early next week.
+
+&&
+
+.NEAR TERM /THROUGH THURSDAY/...
+The combination of a mid-level shortwave trough and an 
+approaching surface trough will produce a round of showers and 
+thunderstorms into this evening. The brunt of the activity will
+work across the Lower Hudson Valley, interior NE NJ, interior 
+SW CT, and NYC early this evening before weakening and working 
+across eastern CT and LI. The severe weather threat is low with 
+weak mid-level lapse rates and lack of deep-layer shear. However,
+moderate instability and high PW (increasing to 2") could produce
+a few strong thunderstorms with locally heavy rainfall. The SPC
+HREF shows high neighborhood probabilities (greater than 50 
+percent) for an inch/3hr, mainly from NYC and points north and 
+west. For 3"/3hr, the same probabilities get to only around 10 
+percent. WPC also has the area in marginal risk of excessive 
+rainfall, which mean the potential is there for isolated flash 
+flooding. For the second half of the night, chances for showers
+and thunderstorms will decrease. However, NBM PoPS were used and
+may be too high based on latest CAMs. The CAMs show very little
+activity after 10 PM this evening with the airmass stabilizing
+some and deep lift translating east. 
+
+Patchy fog is also a possibility overnight with light winds and
+high dew point air in place. The fog could persist in spots 
+after daybreak for 2 to 3 hours. 
+
+The surface trough lingers across the area Thursday before the
+cold front merges with it. This will potentially result in 
+another round of showers and thunderstorms, mainly in the 
+afternoon. Once again, latest CAMs are relatively inactive 
+during the morning hours. Environment remains weakly sheared and
+moderately unstable. Thus, the severe weather threat remains 
+low. However, high PW air remains in place and steering winds 
+will be light. This will keep the area under a isolated threat 
+of flash flooding. WPC has much of the area under a marginal 
+risk of excessive rainfall. 
+
+Rainfall amounts through Thursday are generally less than half 
+an inch on average, but localized higher amounts of an inch plus
+are possible. 
+
+It will remain warm and muggy tonight with lows mainly in the
+lower and mid 70s. This is about 3 to 5 degrees above normal.
+Highs on Thursday are expected to come down some due to the 
+presence of more cloud clover. However, temperatures could be 
+slightly warmer if more sunshine is achieved. Highs will be 
+mainly in the mid to upper 80s, but cooler along the south shore
+and east of LI. This is about 5 degrees above normal. NBM and 
+MOS temperatures are very close during this time.
+
+&&
+
+.SHORT TERM /THURSDAY NIGHT THROUGH FRIDAY/...
+Cold front will slowly drop south Thursday night into Friday 
+with any lingering convection ending early in the evening. High
+pressure then builds in from the north through Friday. While the
+airmass is not whole lot cooler, an easterly flow should cool 
+the boundary layer some. It will also become slightly less 
+humid. Forecast area will reside close to the northern edge of 
+a cloud shield and some of the 12Z guidance has trended toward 
+more clouds across the area. NBM at this time keeps clouds to 
+the south.
+
+&&
+
+.LONG TERM /FRIDAY NIGHT THROUGH WEDNESDAY/...
+The beginning of the long term period will be quiet with 
+temperatures near seasonal normals with high pressure over the 
+region. High pressure will be offshore Sunday as a cold front 
+approaches, and moves through late day into Sunday night. With a 
+return flow temperatures Sunday will be in the lower 90s inland and 
+upper 80s along the coast. And the combination of dew points in the 
+upper 60s to lower 70s will produce heat indices in the mid 90s. 
+Sunday will be the only day of heat and humidity as temperatures 
+return to near or below seasonal levels behind the cold front Monday 
+into Wednesday. And drier air will be moving in as high pressure 
+builds to the north. The cold front is expected to stall somewhere 
+south of the region late Sunday night, and weak waves of low 
+pressure move along the boundary Monday through Wednesday. With this 
+possibility there are at least slight chances of precipitation, 
+although there will be dry periods at times as well. The NBM was 
+followed throughout the extended period.
+
+&&
+
+.AVIATION /20Z WEDNESDAY THROUGH MONDAY/...
+A cold front slowly approaches today into tonight, moving through 
+Thursday.
+
+Mostly VFR. Overall better chances of showers and thunderstorms for 
+KSWF this afternoon, but will still continue with PROB30 this 
+afternoon into early evening for most other terminals. Additional 
+showers possible thereafter until around midnight. 
+Shower/thunderstorms increase once again Thursday afternoon. 
+
+S flow 10-15kt with gusts 16-20kt. Flow lightens tonight, going 
+variable in direction at most terminals, which may persist through 
+much of Thursday morning or become northerly. Increasing southerly 
+flow then follows in the afternoon. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Timing of aft/eve convection may be off by an hour or two. Gusts 
+this afternoon might be only occasional. Winds at KJFK could be 
+forecast to be 3-5kt too low this afternoon, and some gusts to 20-
+24kt would be possible.
+
+.OUTLOOK FOR 18Z THURSDAY THROUGH MONDAY... 
+
+Thursday: Mainly VFR. Chance of showers and thunderstorms. 
+
+Thursday night-Sunday: VFR. 
+
+Monday: Morning -shra and MVFR possible, otherwise mainly VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+The pressure gradient will be rather weak through early next
+week. Conditions on the waters are expected to remain below 
+small craft advisory (SCA) thresholds.
+
+&&
+
+.HYDROLOGY...
+WPC has the area under a marginal risk of excessive rainfall
+through Thursday. Weak steering winds and PW values around 2 
+inches will produce localized heavy rainfall with the potential
+for instances of isolated flash flooding. Overall, basin 
+averaged rainfall amounts are less than an inch.
+
+Otherwise, there are no significant hydrological concerns
+thereafter through early next week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+For Thursday, a moderate risk for the development of rip 
+currents is forecast at the New York City ocean beaches, with a 
+low risk at the Nassau and Suffolk counties beaches.
+
+For Friday there is a low risk for the development of rip
+currents at all the ocean beaches.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Air Quality Alert until 11 PM EDT this evening for CTZ005>007.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...MET/DW
+NEAR TERM...DW
+SHORT TERM...DW
+LONG TERM...MET
+AVIATION...JC
+MARINE...MET/DW
+HYDROLOGY...MET/DW
+TIDES/COASTAL FLOODING...

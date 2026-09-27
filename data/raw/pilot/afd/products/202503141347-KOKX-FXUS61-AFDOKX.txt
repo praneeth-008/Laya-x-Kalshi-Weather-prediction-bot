@@ -1,0 +1,169 @@
+911 
+FXUS61 KOKX 141347
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+947 AM EDT Fri Mar 14 2025
+
+.SYNOPSIS...
+High pressure builds into the area today and weaken tonight into 
+Saturday morning. A warm front lifts through late Saturday ahead of 
+a complex frontal system that impacts the area Sunday through
+early Monday. High pressure will return later Monday into 
+Tuesday, before moving offshore on Wednesday. Another frontal 
+system will approach on Thursday.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+A ridge of high pressure over the area this morning will more 
+firmly establish itself over the area today as a weak wave of 
+low pressure moves to the east of the area. Extensive low 
+stratus over the area this morning is starting to dissipate 
+and will continue to through the morning as high pressure 
+builds overhead. Highs today will be in the low 50s along the 
+coast to middle to upper 50s for the interior and NYC metro. 
+
+The high pressure weakens tonight as a light S/SE flow develops, 
+advecting low level moisture back into the area. This will result in 
+areas of drizzle and fog late tonight and into Saturday morning. 
+Lows tonight will be in the middle 30s to low 40s.
+
+&&
+
+.SHORT TERM /SATURDAY THROUGH MONDAY/...
+By Saturday, an approaching complex frontal system will begin to 
+impact the area. In addition to the extensive cloud cover and 
+morning drizzle and fog, a warm front will approach from the south 
+and move through late Saturday. This will continue to increase low 
+level moisture in the area, possibly such that a few light rain 
+showers may develop with the warm frontal passage. Highs Saturday 
+will be in the 50s.
+
+As the complex frontal system approaches from the west Saturday 
+night, southerly flow increases substantially overnight Saturday and 
+into Sunday morning. The area will be entrenched in a breezy 
+southerly flow during the day on Sunday, perhaps with surface gusts 
+upwards of 35-45 mph, though an inversion will prevent the strongest 
+winds from the LLJ from reaching the surface. Despite the proximity 
+to the approaching system, it's possible that much of the day Sunday 
+will be dry as the area will remain in the warm sector of the 
+complex frontal system. High temperatures Sunday will be in the 60s 
+for much of the area, though coastal areas may remain in the 50s 
+with an onshore flow off a cool ocean keep temperatures a bit more 
+moderated.
+
+The cold front approaches the area from the west late Sunday 
+afternoon and into the evening. Given the ample moisture ahead of 
+the front, rain is expected to be at least moderate to possibly 
+locally heavy in intensity. Some elevated instability may result in 
+isolated thunder as the frontal system slowly moves through the area 
+Sunday night. The front continues to progress through the area into 
+Monday morning with some residual showers remaining possible for the 
+area on Monday, though the reduction in the pressure gradient should 
+allow the winds to relax a bit. Showers should come to an end from 
+west to east on Monday before pushing east by Monday afternoon. 
+Total rainfall amounts are expected to be generally 1-1.5 inches 
+with the higher totals expected along the coast and to the east of 
+the area. Locally upwards of 2 inches of rainfall is possible.
+
+&&
+
+.LONG TERM /MONDAY NIGHT THROUGH THURSDAY/...
+Ridging aloft with high pressure at the surface will keep the region 
+dry Monday night through Wednesday night. A cold front then 
+approaches on Thursday with good agreement among the global models 
+that the front passes through sometime during Thursday night. 
+Therefore, better chances of showers at night versus the day with 
+PoPs capped at 50 percent being that this is a week away.
+
+Temperatures through the long term will be above normal with highs 
+mainly mid and upper 50s for much of Long Island and Coastal CT, and 
+60s elsewhere.
+
+&&
+
+.AVIATION /14Z FRIDAY THROUGH TUESDAY/...
+High pressure over the area slowly shifts east through tonight.
+
+MVFR cigs and light NE winds through the morning push, then VFR
+developing from approx 14-16z with winds shifting SE soon 
+after at 5-10kt. MVFR cigs return tonight after 01-03z with 
+light winds.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Timing for improvement to VFR this morning and return to MVFR
+this evening may be off by 1-2 hours. Chance that IFR vsbys do 
+not develop late tonight/Saturday morning, but IFR cigs are also
+possible for the same time period.
+
+.OUTLOOK FOR 12Z SATURDAY THROUGH TUESDAY...
+
+Saturday: MVFR cigs with a chance of IFR vsbys and cigs during 
+the morning push, then VFR/MVFR with a chance of showers during 
+the afternoon.
+
+Saturday night: MVFR with a chance of showers. S winds 
+G20-30kt.
+
+Sunday: MVFR with showers and LLWS mainly in the afternoon.
+Chance of showers. S winds G25-35kt.
+
+Sunday night: MVFR/IFR in rain/showers, a thunderstorm possible.
+LLWS and S winds G30-40kt. Winds becoming SW and diminishing 
+late. 
+
+Monday: Sub VFR possible in AM, otherwise becoming VFR. Showers 
+ending west to east during the afternoon. W winds AM, shifting NW 
+PM with G20kt possible through the day.
+
+Tuesday: VFR.
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+SCA on the ocean will continue through the afternoon today with 
+waves around 5 feet. Sub-SCA is then expected on all waters through 
+Saturday. By Saturday night, an increase in southerly winds will 
+allow wave heights to build above 5 feet on the ocean. By Sunday 
+morning, widespread gales are possible on all waters, but most 
+likely for the ocean with gusts 35-40 kt. The cold front moves 
+through the area Sunday night which allows the gusts to reduce to 
+SCA and eventually sub-SCA by Monday morning, but elevated wave 
+heights on the ocean will allow SCA conditions to continue there 
+through at least Tuesday.
+
+&&
+
+.HYDROLOGY...
+A widespread 1-1.5 inch rainfall event is likely from late 
+Sunday into the first half of Monday, with a 10-20 percent 
+chance (reasonable worst case scenario) of up to 2 inches. At 
+this time only localized minor nuisance/urban type flooding is 
+anticipated.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 4 PM EDT this afternoon for ANZ350-
+     353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JC/MW
+NEAR TERM...JT/MW
+SHORT TERM...MW
+LONG TERM...JC
+AVIATION...JC
+MARINE...JC/MW
+HYDROLOGY...JC/MW

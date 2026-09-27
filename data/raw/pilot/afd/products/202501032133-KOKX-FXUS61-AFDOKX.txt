@@ -1,0 +1,238 @@
+319 
+FXUS61 KOKX 032133
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+433 PM EST Fri Jan 3 2025
+
+.SYNOPSIS...
+Low pressure continues to retrograde into SE Canada today.
+Meanwhile another low develops well south of the region today
+and moves well offshore tonight. High pressure will remain south
+and west of the region with low pressure north of the region 
+going into this weekend. Low pressure passes through the Mid 
+Atlantic on Monday and offshore Monday night. Behind it, the 
+area will be in between strong low pressure to our northeast and
+high pressure to our west and southwest through the end of the
+week.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM SATURDAY MORNING/...
+Longwave troughing continues anchored by large scale closed
+upper low over Quebec tonight, with northern stream shortwave 
+pivoting from the eastern Great Lakes through the region 
+tonight. At the surface, a cold front crosses east of the 
+region by this evening, with weak surface wave developing well 
+south and east of the region.
+
+Potential for a few flurries/isolated snow showers, with 
+shortwave trough/cold frontal passage this evening. Localized 
+dusting possible with any snow shower activity. 
+
+Otherwise, after a brief weakening of the pressure gradient 
+this evening, breezy conditions (occasional gusts 25 to 30 mph) 
+redevelop late tonight with tightening pressure gradient and 
+shot of CAA in wake of shortwave/cold frontal passage and with 
+rapid deepening of departing low pressure.
+
+&&
+
+.SHORT TERM /6 AM SATURDAY MORNING THROUGH MONDAY NIGHT/...
+* Light snowfall (Coating to 2") possible Monday, particularly
+  for southern portions of the region (40-60% prob), as low 
+  pressure passes to the south. Travel impacts possible to the 
+  Monday AM and Monday afternoon commute.
+
+* Small deviations in track would increase/decrease snowfall 
+  amounts by a few inches.
+
+Good model agreement in longwave troughing continuing across 
+the NE US Saturday, anchored by deep closed low over Quebec. 
+This then gets sheared by developing intense closed low heading
+towards NewFoundland Sunday. The evolution of the NewFoundland 
+closed low and interaction with original closed low Sunday Night
+into Monday will play high sensitivity to track/intensity of a 
+vigorous shortwave (and downstream ridging) ejecting into the 
+Central Plains Sunday and to the Mid Atlantic coast by Monday. 
+
+Before then, deep NW/W flow between Canadian Maritimes low and 
+high pressure well to the SW through the weekend. CAA continues
+on Saturday in wake of the cold front (NW gusts 25 to 35 mph, 
+peak 40 mph) with temps about 5 degrees below seasonable (lower 
+to mid 30s). CAA neutralizes on Sunday with winds similar to or
+just slightly weaker than Sat. Continued westerly flow and 
+shallower mixing will have highs once again 5 degrees below 
+seasonable (lower to mid 30s). Dry conditions through the 
+weekend, but some snow flurries possible Sat aft/eve with weak 
+shortwave energy moving through and brief extension of lake 
+effect streamers. 
+
+As mentioned above, the forecast sensitivity for potential snow
+on Monday lies with the complex interactions between multiple 
+upper level features. This in turn will be the determining 
+factor to the track, timing, intensity of secondary low pressure
+developing along southern Mid Atlantic coast Monday and then 
+tracking southeast of the region Monday Night. Deterministic 
+med range models and their ensembles are in good agreement with 
+low pressure tracking well south (50 to 250 miles) of the 40/70
+lat/lon benchmark, which typically keeps significant 
+accumulating snowfall south of the region. In addition, a good 
+signal for moderately strong frontogenetic forcing to the north
+of the low, which will make for a sharp northern gradient 
+between few to several inches of accumulating snow and little to
+no snowfall. Central agreement is for this banding to occur 
+from southern NJ down to the Mid Atlantic, with spread as far 
+north as central NJ. Probability at this time of this heavy snow
+banding to working into southern portions of the local region is
+at less than 10%.
+
+With that said, the primary New Foundland closed upper low that
+will be a driver for the Monday system does not really get 
+going until the next 18 to 24 hrs. WPC/CSTAR ensemble 
+sensitivity analysis indicating a farther east Newfoundland low 
+would allow for greater downstream ridging across the NE and a 
+further north track. This is a low probability solution (15-20%
+ensemble membership at this point), but only represents a 
+northward track shift of 50 miles. Similarly a further west or 
+deeper New Foundland low would result in a further south track 
+to low pressure (60% ensemble membership at this point), with 
+little if any snow accum locally. This should be better sampled
+and resolved by model guidance over the next 24-48 hrs. 
+
+So at this point, forecast aligns with NBM/WPC ensemble means, 
+with central forecast of 1 to 2 inches across NE NJ/NY metro and
+W/C LI, and dusting to an inch for Low hud and S CT. Reasonable
+high end forecast (10th percentile) of 3 to 5" for southern 
+areas (less to the north) and reasonable low end (90th 
+percentile) of no snow. Snowier solutions present potential for 
+light snow to develop for the Mon AM commute for NYC/NJ metro 
+and surroundings and likely tapering off before evening commute.
+
+Again, monitor forecasts through the weekend for the latest.
+
+&&
+
+.LONG TERM /TUESDAY THROUGH FRIDAY/...
+Key Points:
+
+* Dry, cold and windy conditions are expected through the entire 
+  long term period. 
+
+Low pressure continues to pull away Tuesday to the northeast. This 
+low looks to interact with another low in eastern Canada and then 
+remain in place through the end of the week. Meanwhile, high 
+pressure will be in place to our west and southwest. This puts the 
+area in a tight pressure gradient and will result in a persistent 
+gusty northwest flow. Blended in the NBM 90th percentile winds 
+and wind gusts to bump up and better match global guidance. For 
+now, it looks like a period of widespread 20 to 30 mph gusts, 
+but this could trend up a bit.
+
+For temperatures, the NBM deterministic temperature guidance was 
+closer to the NBM 90th percentile temperatures. Went with a 
+blend of the 50th and 75th as well as raw model data to bump 
+temperatures down a few degrees. Highs Tuesday through Thursday 
+look to be in the upper 20s to low 30s. Lows each night look to 
+be in the mid teens to low 20s. Given the winds though, wind 
+chill values likely don't get out of the teens Tuesday through 
+Thursday and could be as low as below 0 Wednesday night (mainly 
+across the interior).
+
+&&
+
+.AVIATION /22Z FRIDAY THROUGH WEDNESDAY/...
+A quick moving weak low south of the area moves offshore tonight. 
+Meanwhile a sprawling area of low pressure remains centered to the 
+north of the region as high pressure builds to the west.
+
+VFR. There is a slight chance of flurries this evening, with 
+conditions remaining VFR. with isolated MVFR possible.
+
+W flow persists with gusts ending by 23Z. Winds back toward NW 
+tonight with gusts redeveloping to around 25kt. Winds and gusts 
+increase Saturday morning, and toward 18Z gusts may be 35-39kt.
+
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Gusts redevelop late tonight 05Z/06Z and may begin an hour or two 
+later than forecast.
+
+Occasional gusts up to 40kt possible Saturday afternoon.
+
+
+OUTLOOK FOR 18Z SATURDAY THROUGH WEDNESDAY...
+
+Saturday afternoon: VFR. WNW winds 18-25kt, gusts 25-35kt, 
+occasional gusts up to 40kt, especially along the coast.
+
+Sunday: VFR. W gusts 20-25kt. MVFR with a chance of light snow at 
+the NYC metro terminals toward Monday morning.
+
+Monday: IFR at the NYC metro terminals and KISP with snow. MVFR, IFR 
+possible, with light snow at the other terminals.
+
+Tuesday: VFR. WNW winds 15-20kt, gusts 25-30kt.
+
+Wednesday: VFR. W gusts 20-25kt.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+SCA conditions expected all waters through Sunday, outside of a
+brief lull in SCA cond for nearshore waters this evening with 
+passage of a weak cold front. 
+
+SCA conditions should briefly abate on the ocean Sunday night 
+and Monday as low pressure track well to the south, before 
+returning Monday night or early Tuesday as NW flow increases 
+with persistent cold advection.
+
+Small Craft Advisory conditions expected Tuesday through the end of 
+next week for all waters. There could even be some periods of gale 
+force gusts in there, but it is too far out to narrow down a time 
+window for that. Given the consistent northwesterly flow, seas on 
+the ocean likely rise to 7 to 8 feet by mid to late week. Waves on 
+the LI Sound may also reach 5 to 6 feet, especially closer to the 
+Suffolk County coast.
+
+&&
+
+.HYDROLOGY...
+No significant hydrologic issues anticipated through the end of
+next week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+Low probability for water levels to approach minor flood
+thresholds for vulnerable coastal communities with the MOnday
+Night high tide. This will be contingent on further north
+solution with a low pressure passage.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 7 PM EST Sunday for ANZ331-332-335-
+     338-340-345-350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JT/NV
+NEAR TERM...NV
+SHORT TERM...NV
+LONG TERM...JT
+AVIATION...MET
+MARINE...JT/NV
+HYDROLOGY...JT/NV
+TIDES/COASTAL FLOODING...

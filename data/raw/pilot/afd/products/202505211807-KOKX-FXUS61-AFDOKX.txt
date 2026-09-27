@@ -1,0 +1,221 @@
+122 
+FXUS61 KOKX 211807
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+207 PM EDT Wed May 21 2025
+
+.SYNOPSIS...
+A complex frontal boundary approaches today, with coastal low 
+pressure developing late tonight into Thursday morning. The low 
+moves north of the area Thursday night and tracks along the New 
+England coast Friday and Friday night, and into the Canadian 
+Maritimes Saturday. Weak high pressure returns for Sunday into 
+early next week, as a low passes to the south.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+The forecast has been updated for PoPs and temperatures. Rain 
+has already spread into NYC, but should have a tough time 
+advancing eastward over the next few hours as there is still 
+some dry air in the low-mid levels to overcome. Most of the 
+forecast area likely sees some rainfall by sundown.
+
+In any event, it will be an overcast day. An easterly flow 
+increases today, and will be more noticeable this afternoon. 
+Look for below average temperatures today with temperatures not 
+getting out of the 50s.
+
+Tonight, synoptic scale forcing increases with positive 
+vorticity advection increasing through the night and peaking 
+into early Thu morning. Simultaneously the best warm air 
+advection takes shape from 0z to about 12z Thu. The LLJ gets to 
+30-40 kt out of the SE and E, and thus the steadiest rain takes 
+shape tonight and carries into Thu morning. Temperatures will 
+average near to slightly below normal tonight despite moisture 
+and cloud cover due to a cool strong onshore flow. Winds will 
+gust 20 to 25 mph in many locations, with coastal sections 
+gusting to around 30 mph at times.
+
+&&
+
+.SHORT TERM /THURSDAY THROUGH THURSDAY NIGHT/...
+The 700 mb lobe of low pressure / shortwave pivot through slowly 
+during Thu morning. Carlson conveyor belt brings in the moisture off 
+the Atlantic with rain through the morning and into the early 
+afternoon. But by later in the day the 700 mb low consolidates and 
+starts to get further north. This likely shuts off the steady rain, 
+especially further south across the area with northern interior 
+sections perhaps holding on to steady rain for much of the day. With 
+the sfc reflection getting a bit further east and north the winds 
+are expected to get more of a northerly component and be more out of 
+the northeast Thu afternoon. Coastal locations once again will
+see gusts close to 30 mph at times. With the cloud cover and 
+ENE flow regime look for temperatures once again to run below 
+average and not get out of the 50s region wide as rain tapers 
+most likely from south to north during the second half of the 
+day. Event rainfall totals should average 1 to 2 inches across 
+the region. For more details with respect to the rain and any 
+hydrologic response please refer to the hydrology section.
+
+Cyclonic flow continues into Thursday night, however the best 
+forcing slowly pushes north of the area and into New England. Look 
+for periods of light shower activity with any additional rainfall to 
+be on the light side as the system becomes vertically stacked. 
+Mainly cloudy skies persist with temperatures averaging a bit below 
+average with lows mainly in the 40s, to around 50 in the NYC
+metro.
+
+&&
+
+.LONG TERM /FRIDAY THROUGH TUESDAY/...
+Key Points: 
+
+* Unsettled conditions will continue Friday with cool 
+  temperatures and scattered showers possible.
+
+* Temperatures start to trend warmer Saturday and especially 
+  Sunday. Showers possible inland on Saturday.
+
+* Chance of showers Memorial Day with temperatures near to 
+  slightly below normal.
+
+* Unsettled weather remains into Tuesday with a chance of 
+  showers. 
+
+An upper trough, with an enclosed low, lingers across the northeast 
+Friday and Saturday, and moves into Northern New England Sunday. 
+Another shortwave rotates into the trough Sunday night into Monday, 
+with unsettled weather continuing into Memorial Day. The elongated 
+upper trough then remains across the Great Lakes region and into the 
+northeast into the middle of next week. Meanwhile surface low 
+pressure tracks along the New England coast Friday and into the 
+Canadian Maritimes Saturday.
+Weak surface high pressure may briefly build into the region for 
+Sunday into Monday. Then low pressure tracks south of the area later 
+Monday into Tuesday with the potential for additional rainfall. 
+Followed the NBM guidance through the extended period.
+
+&&
+
+.AVIATION /18Z WEDNESDAY THROUGH MONDAY/...
+Weak low pressure will remain near the lower Great Lakes, while
+a second low develops near the southern Mid Atlantic coast. This
+second low will then move north, passing just south of Long 
+Island on Thursday and just east Thu night. 
+
+MVFR cigs with some light rain E-ESE flow 10-15G20kt should 
+persist into this evening. As the low to the south develops, IFR
+cigs develop mainly after midnight and rain becomes moderate to
+locally heavy in intensity, while winds increase to 15-20G25kt 
+and back NE. 
+
+  ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Unscheduled AMD possible if lower cigs arrive sooner than fcst.
+
+.OUTLOOK FOR 18Z THURSDAY THROUGH SUNDAY...
+
+Thursday afternoon: Improvement to MVFR likely except at KGON.
+Winds backing NE-N 15G20-25kt. 
+
+Thursday night and Friday: Chance of showers with MVFR cond at
+times. N winds 10-15G20kt E of the NYC metros Thu evening. 
+
+Saturday and Sunday: Mainly VFR. NW winds G15-18kt. 
+
+Monday: VRR. 
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Small craft conditions develop today on the ocean waters as gusts 
+get to 25 kt for the most part and ocean seas get closer to 5 ft 
+late in the day. During this evening small craft conditions develop 
+on the near shore waters mainly from west to east. Gale watches 
+continue late tonight into a portion of the day on Thursday for the 
+ocean waters, and have added the eastern nearshore waters to the 
+Gale Watch through the day Thursday. During Thursday night sub
+advisory conditions return from west to east on the near shore
+waters as the winds turn more NW and gradually diminish into 
+early Friday morning. Small craft seas linger on the ocean
+waters throughout Thursday night.
+
+Small craft conditions will be possible on the ocean waters Friday 
+morning, with seas falling below advisory levels by the 
+afternoon as a northwest flow backs to the west. Winds and seas 
+will then remain below advisory levels across the forecast 
+waters through Monday night.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts are anticipated with the coastal system for 
+mid week. Flooding overall is not a concern as max rainfall rates 
+should stay below a half inch per hour. The rain is expected to fall 
+over a long enough duration to preclude flood impacts. Some minor 
+nuisance urban related flooding cannot be completely ruled out, but 
+overall impacts should be low to none. There are no hydrologic
+concerns Friday into early next week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+An increasing E-NE flow develops and persists into Thursday. Later 
+in the day Thursday and into Thursday evening the winds take on more 
+of a northerly component. This could very well limit any coastal 
+flooding for the Thursday evening high tide cycle, and the Friday 
+evening high tide cycle for coastal SW CT appears to be trending 
+down.
+
+At this time it appears the main high tide cycle to monitor for the 
+south shore bays of Queens, Nassau, and portions of the south shore 
+of Suffolk is Thursday evening. Tidal departures in these spots look 
+to be mainly 1.5 to 2 ft, and locally as high as 2.0 to 2.5 ft out 
+east. The latest Stevens, ETSS, ESTOFS blend yields pockets of minor 
+benchmarks being touched or exceeded. There is a low probability 
+that Staten Island and portions of NE NJ may also approach and 
+barely touch minor benchmarks Thursday evening. Otherwise the area 
+along the coast to monitor is SW CT as Bridgeport an
+inland with MVFR.d Stamford may 
+touch or slightly exceed minor benchmarks for the Thursday evening 
+cycle, with the Friday cycle looking less likely now for SW CT. 
+Trends along the NW LI gauges has come down with minor benchmarks 
+likely not being met.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory from midnight tonight to 6 AM EDT 
+     Thursday for ANZ331-332-340.
+     Gale Watch from Thursday morning through Thursday afternoon 
+     for ANZ331-332-340.
+     Small Craft Advisory from 6 PM this evening to 6 PM EDT 
+     Thursday for ANZ335-345.
+     Small Craft Advisory from 6 PM this evening to noon EDT 
+     Thursday for ANZ338.
+     Small Craft Advisory until midnight EDT tonight for ANZ350-353.
+     Gale Watch from midnight EDT tonight through Thursday morning 
+     for ANZ350-353.
+     Small Craft Advisory until noon EDT Thursday for ANZ355.
+
+&&
+
+$$
+
+SYNOPSIS...JE/MET
+NEAR TERM...JC/JE
+SHORT TERM...JE
+LONG TERM...MET
+AVIATION...BG
+MARINE...JE/MET
+HYDROLOGY...JE/MET
+TIDES/COASTAL FLOODING...

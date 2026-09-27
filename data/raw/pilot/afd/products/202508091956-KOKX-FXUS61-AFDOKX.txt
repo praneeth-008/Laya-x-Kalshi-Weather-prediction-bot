@@ -1,0 +1,163 @@
+561 
+FXUS61 KOKX 091956
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+356 PM EDT Sat Aug 9 2025
+
+.SYNOPSIS...
+High pressure will remain in control through the weekend. The 
+high will then slowly weaken over the region as a frontal system
+approaches mid week. The front will move through late in the 
+week.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM SUNDAY MORNING/...
+Elongated E-W high pressure extending from Nova Scotia to the 
+Mid Atlantic will remain in control. Heights aloft will slowly 
+rise as ridging builds over the eastern US. 
+
+Mostly clear conditions expected. Based on recent trends with
+the current air mass forecast low temps 1-2 degrees below a
+MAV/MET blend which is lower than NBM. This yields lows in the
+60s in the NYC metro area, western Long Island, and most
+immediate coastal locations. Elsewhere lows should be in the
+50s, but may fall into the upper 40s across the Long Island Pine
+Barrens. River valley fog is again likely, and some patchy
+ground fog is also possible outside the NYC metro area where 
+sfc dewpoint depressions will be low and winds light.
+
+&&
+
+.SHORT TERM /6 AM SUNDAY MORNING THROUGH SUNDAY NIGHT/...
+A high amplitude ridge (+2 to +3SD) over the eastern third of
+the country will be the main weather feature. Surface high 
+pressure over the area Sunday morning will begin to drift
+south/offshore Sunday afternoon and become more of a Bermuda
+high early next week. 
+
+High temps have been running close to or a shade higher than a 
+MAV/MET blend, so took the higher of that and the NBM for
+Sunday, with near 90 in most of NE NJ and well into the 80s 
+most elsewhere. Heat index values will be close to actual temps 
+since dewpoints will not be all that high, from the mid 50s to 
+lower 60s. 
+
+Low temps Sunday night should range from near 70 in midtown NYC,
+to the mid/upper 50s well inland and across the Long Island 
+Pine Barrens region. River valley fog is again likely, with 
+patchy fog outside the NYC metro area.
+
+&&
+
+.LONG TERM /MONDAY THROUGH SATURDAY/...
+The high amplitude ridge in place across the Northeast US Monday
+will gradually break down through the period with the 
+westerlies sending a cold front through late Thursday into 
+Friday. 
+
+Expect mainly dry conditions with increasing heat and humidity 
+Tuesday and Wednesday. There remains a chance for heat indices 
+to meet heat advisory criteria, specifically for the criteria of
+two consecutive day at 95 to 99. The warmest day currently 
+looks to occur on Wednesday with the potential of it continuing 
+into Thursday. However, the areal coverage of 95-99 heat indices
+has been decreasing for Thursday and the best chances for a 
+2-day heat advisory right now looks limited to NE NJ and 
+possibly NYC, but even NYC looks marginal at this point. 
+Temperatures during this time will average 5-10 degrees above 
+normal.
+
+A late day shower or thunderstorm is possible mainly NW of NYC 
+Wednesday-Friday afternoons/evenings associated with the frontal
+boundary. Additionally, with the increase in low level 
+moisture, patchy fog is possible overnight Monday night through 
+Wednesday night across outlying areas.
+
+Highs will generally be in the upper 80s to lower 90s away from
+the Atlantic facing beaches with lows in the 60s and lower 
+70s. Slightly lower temperatures expected by next Friday and 
+Saturday with the passage of the cold front, more closer to 
+normal for this time of year. Slightly lower humidity levels as 
+well, but this far out, could see more in the way of relief as 
+the NBM may be overdoing the dew points.
+
+&&
+
+.AVIATION /20Z SATURDAY THROUGH THURSDAY/...
+High pressure remains through the TAF period.
+
+Mainly VFR conditions continue through the TAF period. Some
+terminals outside of NYC might have a few hours of fog 
+overnight into early Sunday morning with potential MVFR to IFR 
+visibility around 7-12Z Sunday. Not enough confidence to put
+this in TAFs just yet.
+
+Winds will be less than 10 kts during the TAF period. Mostly
+southerly flow expected during the day with more variable 
+direction at night into early morning hours.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No unscheduled amendments expected.
+
+.OUTLOOK FOR 18Z SUNDAY THROUGH WEDNESDAY... 
+
+Sunday afternoon: VFR.
+
+Sunday night: Mainly VFR but possible fog with MVFR/IFR vsby. 
+
+Monday-Tuesday: Mainly VFR.
+
+Wednesday: Possible MVFR or lower with possible showers and 
+thunderstorms afternoon into night.
+
+Thursday: MVFR possible with possible showers.
+
+Detailed information, including hourly TAF wind component 
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+High pressure in control will lead to conditions below SCA
+levels. A weak area of low pressure well offshore may continue 
+to bring an E swell into early next week, but seas will remain 
+below 5 ft.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through next week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+With reports of moderate to strong rip currents received earlier today
+and 2 to 3 ft E to ESE swells at 7 to 9 seconds expected through
+Monday, there will be a moderate risk of rip currents for both Sunday
+and Monday.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...Air Quality Alert from 11 AM to 11 PM EDT Sunday for 
+     NYZ069>075-176-178.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...BG/JP
+NEAR TERM...BG
+SHORT TERM...BG
+LONG TERM...JP
+AVIATION...JM
+MARINE...BG/JP
+HYDROLOGY...BG/JP
+TIDES/COASTAL FLOODING...JP

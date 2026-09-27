@@ -1,0 +1,227 @@
+358 
+FXUS61 KOKX 280826
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+426 AM EDT Mon Jul 28 2025
+
+.SYNOPSIS...
+High pressure builds into the area today and Tuesday, moving 
+offshore Tuesday night. A cold front approaches Wednesday. The 
+front moves through Wednesday night, with a frontal wave 
+developing along it and tracking nearby through Thursday. High 
+pressure builds in from the Great Lakes Friday into next 
+weekend.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+* Today will be the first day of what will be a 3 day heat wave for 
+  much of the region. 
+
+* Heat Advisories remain in place today.
+
+Some early morning fog has developed across part of the region. Any 
+fog will remain through about 7-8am, then gradually dissipate 
+thereafter. 
+
+Surface high pressure and Upper level ridging builds into the area 
+today. 850mb temperatures climb to 19C for parts of the area. This 
+should result in surface temperatures reaching the middle and upper 
+90s across the NYC/NJ metro area, with lower to middle 90s across 
+the remainder of the region. The only exception will be right along 
+the coast across the far eastern sections of the region, where 
+temperatures may only stay in the upper 80s. The combination of 
+these temperatures and dew points once again rising into the middle 
+to upper 60s and lower 70s, Heat index values should reach the 
+middle and upper 90s to near 100. Otherwise, it will remain dry 
+today, with mostly sunny skies. 
+
+Dry conditions continue into tonight. Overnight temperatures 
+wont fall much, with lows in the 70s. The warmest spots will be 
+across the NYC/NJ metro area with upper 70s expected.
+
+&&
+
+.SHORT TERM /TUESDAY THROUGH WEDNESDAY/...
+* Heat advisories remain in effect for Tuesday and Wednesday. Expect 
+  Heat index values to be in the middle and upper 90s to lower 100s. 
+  
+Surface high pressure and upper level ridging continues into Tuesday 
+and Tuesday night. 850mb temperatures rise a couple more degrees, to 
+around 21-22 C. Expect surface temperatures to be a few degrees 
+warmer with highs in the mid to upper 90s, potentially hitting 100 
+across portions of Northeastern New Jersey. A couple of record high 
+temperatures are possible. See the CLIMATE section for details. The 
+higher temperatures Tuesday with similar dew points will result in 
+heat indices of 95 to 104. A few locations may reach 105, however, 
+with the limited areal coverage a Heat Warning is not expected to be 
+needed.
+
+It appears that the ridging aloft will now continue into Wednesday 
+afternoon. As a result, the heat and humidity should stick into 
+Wednesday. Once again, we are looking at heat indices reaching 
+the middle and upper 90s to lower 100s. Still feel that 
+conditions will remain below extreme heat warning criteria. 
+
+A cold front approaches late Wednesday. Showers and thunderstorms 
+are possible Wednesday afternoon into Wednesday evening. 
+
+Confidence not high with respect to the severe potential at this 
+time, however, any storms that do occur will be capable of heavy 
+downpours.
+
+&&
+
+.LONG TERM /WEDNESDAY NIGHT THROUGH SUNDAY/...
+Key Points: 
+
+*Showers and thunderstorms accompany a cold frontal passage 
+Wednesday night, and some of the thunderstorms could be strong to 
+severe and produce locally heavy downpours that lead to flooding, 
+mainly in urban and poor drainage areas.
+
+*Heat breaks behind the front on Thursday, but conditions remain 
+unsettled with additional showers and thunderstorms likely as a wave 
+of low pressure develops along the nearby front.
+
+*High pressure builds towards the area Friday and settles over the 
+region this weekend, bringing drier, cooler conditions.
+
+&&
+
+.AVIATION /09Z MONDAY THROUGH FRIDAY/...
+A weak frontal boundary passes through the area this morning. 
+
+Mainly VFR. A few terminals flirt with MVFR vsbys to start, 
+mainly KGON, but possible at KISP and KHPN, which should see 
+improvement by 12Z as drier air filters in behind the front.
+
+Light winds veer N/NW into the morning. Northerly flow up to 10
+kt this afternoon will be overtaken by seabreezes at the coastal
+terminals. Weak flow persists tonight.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Timing of seabreezes (southerly winds) may be off by an hour or two.
+
+.OUTLOOK FOR 06Z TUESDAY THROUGH FRIDAY... 
+
+Late Tonight-Tuesday: VFR.
+
+Wednesday: Mainly VFR. A chance of showers and thunderstorms late in 
+the day and at night. 
+
+Wed Night thru Thursday: Showers with MVFR possible.
+
+Friday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Conditions will remain below SCA levels through Wednesday. A 
+cold front moves across the waters Wednesday night through 
+Thursday. Increased winds behind the front could allow seas to 
+build toward 5 ft on the ocean late this week, primarily Friday.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through the day Wednesday.
+
+Locally heavy downpours are possible with a cold front and frontal 
+wave Wednesday afternoon/evening and Thursday, but confidence 
+in potential impacts remains low at this point.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+There is an overall low rip current risk for ocean beaches 
+today and Tuesday with only 1 to 2 feet offshore wave heights 
+and the absence of a wind wave contribution.
+
+&&
+
+.CLIMATE...
+The following are record high temperatures for July 28
+
+Newark       101/1949  
+Bridgeport    95/1949 
+Central Park *97/1999
+LaGuardia     98/1949
+Kennedy       98/1949
+Islip         96/1999
+
+* ALSO OCCURRED IN PREVIOUS YEARS
+
+
+The following are record high temperatures for July 29
+
+Newark       100/1949
+Bridgeport    96/2002
+Central Park  99/1949
+LaGuardia     97/1949
+Kennedy       99/2002
+Islip         96/2002
+
+
+The following are record high minimum temperatures for Monday, July 
+28th through Wednesday, July 30th. Currently the forecast reflects 
+that records will be approached at some of our climate sites with 
+respect to the minimum temperatures.
+
+Record Minimum Temperatures for Monday, July 28th    
+----------------------------------------------------     
+Central Park........80 (2020)
+LaGuardia...........83 (2020)
+Kennedy.............79 (2020) 
+Islip...............77 (2020)
+Newark..............80 (2020)
+Bridgeport..........77 (2020)
+
+Record Minimum Temperatures for Tuesday, July 29th    
+----------------------------------------------------
+Central Park........79 (2002)
+LaGuardia...........82 (2002)
+Kennedy.............76 (2022,2002,1995,1949) 
+Islip...............77 (1995)
+Newark..............79 (2002)
+Bridgeport..........78 (1995)
+
+Record Minimum Temperatures for Wednesday, July 30th    
+----------------------------------------------------
+Central Park........80 (2002)
+LaGuardia...........81 (2019,2002)
+Kennedy.............79 (2006,1995)
+Islip...............76 (2002)
+Newark..............81 (2002)
+Bridgeport..........76 (2002)
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Heat Advisory from 11 AM this morning to 8 PM EDT Wednesday 
+     for CTZ005>012.
+NY...Heat Advisory from 11 AM this morning to 8 PM EDT Wednesday 
+     for NYZ067>075-078>081-176>179.
+NJ...Heat Advisory from 11 AM this morning to 8 PM EDT Wednesday 
+     for NJZ002-004-006-103>108.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...BC/DR
+NEAR TERM...BC
+SHORT TERM...BC
+LONG TERM...DR
+AVIATION...DR
+MARINE...BC/DR
+HYDROLOGY...BC/DR
+TIDES/COASTAL FLOODING...
+CLIMATE...

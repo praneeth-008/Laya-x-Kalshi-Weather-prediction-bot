@@ -1,0 +1,177 @@
+770 
+FXUS61 KOKX 091740
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+140 PM EDT Mon Jun 9 2025
+
+.SYNOPSIS...
+A warm front slowly lifts towards the area today and pushes across 
+the area tonight, followed by a slow cold front passage Tuesday 
+afternoon into night. High pressure then builds in on Wednesday 
+and remains near the region through early Friday. Another frontal
+system may affect the region late Friday and lingers into the 
+weekend.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+A warm front pushes north through the Mid-Atlantic today and is 
+progged to be at our doorstep near sundown. 500mb shortwave lift 
+passes through this morning, followed by 850-700mb shortwave lift 
+this afternoon, but with more shallow moisture. So while there will 
+be chance of showers throughout the day, any shower activity becomes 
+generally less likely and lighter in intensity this afternoon. The 
+cloud cover and an onshore flow will keep high temperatures below 
+normal, ending up generally around 70 across the area.
+
+The warm front slowly lifts through the area tonight, meanwhile a 
+cold front approaches from the west. The warm front will be working 
+with shallow moisture, so any rainfall from this should be very 
+light or drizzle. Moisture then deepens west to east late at night 
+as the cold front nears. Areas mainly west of the Hudson could get 
+some rainfall from this towards sunrise. PVA and elevated 
+instability could also lead to a thunderstorm for this area as
+well.
+
+&&
+
+.SHORT TERM /TUESDAY THROUGH WEDNESDAY NIGHT/...
+The cold front will move slowly east across the forecast area 
+through Tuesday evening and may even dissipate over the eastern 
+zones late at night. A few rounds of shortwave lift pass through, 
+and synoptic lift increases further in the afternoon with the right 
+rear quadrant of an upper jet streak entering the region. 
+
+Showers likely across the entire area during the day, with chances 
+lowering generally from mid-afternoon on. Instability remains 
+primarily elevated and probably not enough for severe thunderstorm 
+activity. As for hydrologic impacts, all of the ingredients for 
+improving chances of heavy downpours don't really come together. The 
+greater instability will be generally over western zones and the 
+higher PWATs will be over the eastern zones, and influence from the 
+the approaching jet streak would appear to be mitigated by its late 
+arrival. PWATs will be exceeding climatology nevertheless, and the 
+steering flow doesn't look particularly strong with some backbuilding 
+cell potential, so can't completely rule out isolated instances of 
+flash flooding. WPC continues to have the entire area under a 
+marginal risk of excessive rainfall. Impacts are likely limited to 
+minor urbanized/poor drainage and small stream flooding.
+
+Weak high pressure then builds in for Wednesday with the flow aloft 
+slightly cyclonic to zonal. Looks like a mostly sunny day ahead with 
+a light westerly wind in the morning increasing from the SW in the 
+afternoon. This should allow most of the area to have high 
+temperatures in the 80s.
+
+&&
+
+.LONG TERM /THURSDAY THROUGH MONDAY/...
+Stuck fairly close to the NBM/previous forecast though the long term 
+period. 
+
+The long term starts off with high pressure over the region which 
+remains in place through at least early Friday. Expect the warm 
+temperatures peaking on Thursday with highs in the 80s and lower 
+90s. 
+
+By Friday into next weekend, a faster moving upper low pivots 
+through eastern Canada, bringing another round of precipitation 
+chances to the area through next weekend, along with cooler 
+temperatures. Expect a chance of rain each day. Highs over the 
+weekend will be in the upper 60s and 70s.
+
+&&
+
+.AVIATION /18Z MONDAY THROUGH SATURDAY/...
+Predominantly LIFR-IFR conditions are expected to persist 
+overnight in response to a warm frontal boundary very slowly 
+moving through the area. Persistent light onshore flow will 
+also contribute to the development of fog overnight, possibly 
+dense with visibilities 1/2 SM or less.
+
+Showers and thunderstorms are then expected to develop right
+around the morning push moving from west to east, with the
+heaviest activity between about 14-18Z. Rainfall may be heavy at
+times maintaining reduced visibilities across the airspace. As
+the activity diminishes into the afternoon, ceilings and
+visibilities will gradually improve to MVFR-VFR. A cold front 
+then approaches later in the evening, but convective activity is
+not expected to be as widespread.
+
+Winds will primarily be light from the east to east-southeast
+until the front approaches from the west Tuesday evening,
+allowing winds to veer to the west-southwest. Occasional gusts
+may be possible through 20-21Z this evening for LGA, ISP, BDR,
+and GON.
+
+...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Amendments possible throughout the entire TAF period for changing 
+flight categories especially with ongoing shower and drizzle activity.
+
+
+.OUTLOOK FOR 18Z WEDNESDAY THROUGH SATURDAY... 
+
+Wednesday - Thursday: VFR with gusty W flow. 
+
+Friday - Saturday: VFR except in scattered showers and 
+thunderstorms.
+
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+All waters remain below advisory thresholds for at least the next 
+few days. Waves on the ocean likely remain mostly 3-4 feet through 
+at least Tuesday morning with a weakening onshore flow. Guidance has 
+trended lower regarding wave heights/swell for Tuesday afternoon 
+through Wednesday, so it looks likely that seas prevail below 5 ft 
+through this time. 
+
+Conditions will then remain below SCA levels through Friday. 
+Small craft conditions will be possible over the weekend as 
+another frontal system moves across the area waters.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts are expected through tonight. Showers and 
+thunderstorms during Tuesday look to produce a widespread 0.50" to 
+1" of rain. Localized amounts of 1+" are possible. See the short 
+term discussion above for potential impacts. 
+
+No significant hydrologic issues are expected Wednesday through
+Sunday.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+A moderate risk of rip currents is expected today. The moderate risk 
+continues for Tuesday, although it could potentially be high for the 
+ocean beaches of eastern Suffolk County.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...BC/JC
+NEAR TERM...JC
+SHORT TERM...JC
+LONG TERM...BC
+AVIATION...BC/MD
+MARINE...BC/JC
+HYDROLOGY...BC/JC
+TIDES/COASTAL FLOODING...

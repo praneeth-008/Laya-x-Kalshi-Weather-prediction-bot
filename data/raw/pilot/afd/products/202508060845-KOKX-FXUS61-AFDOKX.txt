@@ -1,0 +1,127 @@
+843 
+FXUS61 KOKX 060845
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+445 AM EDT Wed Aug 6 2025
+
+.SYNOPSIS...
+High pressure will remain in control through the weekend, then 
+slowly weaken on Monday. A frontal system may impact the area by
+the middle of next week.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+A 1031 hi over QC will build swd today. This will enhance the
+ely flow off the Atlc with winds around 10kt at the coasts.
+Lighter flow across the interior with the flow there veering a
+bit thru the day. The veering flow may help to trigger some
+upslope shwrs and tstms. Like prev model runs however, this
+activity is expected to remain mainly outside of the cwa. The
+NBM does have a sliver of pops along the nrn Orange county
+border for late this aftn, but that is it. Stuck with this 
+guidance for the fcst.
+
+Smoke is still modeled to remain entrenched across the area
+today, although sfc smoke is expected to be minimal attm. Went
+with hz in the fcst thru this aftn, then kept it out for tngt.
+
+Storm motion is progged to be 5kt or less generally ewd this
+aftn, and the models indicate this activity slowly continues to
+migrate ewd overnight. Again, this convection is expected to
+remain outside of the cwa per the models so the fcst is dry, 
+but a renegade shwr or tstm cannot be completely ruled out
+particularly across the nrn tier. 
+
+The NBM was followed for temps today and tngt with the numbers
+coming in aob normal.
+
+&&
+
+.SHORT TERM /THURSDAY/...
+Deep subsidence on Thu with an upr ridge building in, so the 
+fcst is dry. E flow with highs around 80, slightly cooler at the
+shore, and slightly warmer in the usual hot spots. Perhaps more
+blue sky as well with cirrus modeled to lessen during the day, 
+and the HRRR indicating decreasing vertically integrated smoke 
+by aftn as well.
+
+&&
+
+.LONG TERM /THURSDAY NIGHT THROUGH TUESDAY/...
+High pressure will dominate through the period. A gradual 
+warming trend is expected to begin through much of the long
+term. Near to slightly above normal temperatures are expected inland
+on Saturday and then a warming trend to above average temperatures
+is expected into early next week, along with rising dewpoints. 
+Heat index values could exceed 95 mainly inland beginning Monday
+and lingering through Wednesday. A late day tstm may be 
+possible mainly NW of NYC on Tuesday and Wednesday afternoon 
+with the approach of a weak disturbance from the west.
+
+&&
+
+.AVIATION /09Z WEDNESDAY THROUGH SUNDAY/...
+High pressure remains north and east of the terminals through
+the TAF period. 
+
+Brief periods of MVFR conditions are possible with low stratus
+early this morning (through about 13Z). Otherwise, mainly VFR 
+conditions are expected through the TAF period.
+
+Light and variable to light E/SE winds this morning. Winds 
+become steadily more SE and increase to near 10 kt by 
+late morning. Winds may once again back to the E tonight and
+fall below 10kt.
+
+  NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Uncertain about MVFR timing. Start and end time could vary by
+1-2 hours. 
+
+.OUTLOOK FOR 09Z THURSDAY THROUGH SUNDAY... 
+
+Late tonight - Sunday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Sub-SCA conditions are expected through Sunday. E swell up to 4
+ft into Fri could cause rough conditions at the ocean inlets.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through early next week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+There is a moderate rip risk thru Fri with 3-4ft swell and an 
+east wind around 10kt at times.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...Air Quality Alert until midnight EDT tonight for NYZ067-068.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...
+NEAR TERM...
+SHORT TERM...
+LONG TERM...
+AVIATION...MW
+MARINE...
+HYDROLOGY...
+TIDES/COASTAL FLOODING...

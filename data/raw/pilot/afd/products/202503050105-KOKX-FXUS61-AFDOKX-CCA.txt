@@ -1,0 +1,245 @@
+394 
+FXUS61 KOKX 050105 CCA
+AFDOKX
+
+Area Forecast Discussion...CORRECTED
+National Weather Service New York NY
+805 PM EST Tue Mar 4 2025
+
+.SYNOPSIS...
+High pressure off the Mid Atlantic coast will slowly move
+farther offshore through tonight. As strong low pressure moves
+northeast through the upper Great Lakes region on Wednesday, a
+pre-frontal trough will approach and move across in the
+afternoon and evening, followed by a cold front late Wednesday
+night into Thursday morning. The front will move farther to the
+east Thursday night, with high pressure gradually building in
+and passing to the south through Friday. A weak frontal system 
+then passes nearby on Saturday. Another low pressure system 
+should pass well to the south on Sunday as weak high pressure 
+moves in through early next week.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM WEDNESDAY MORNING/...
+Weak warm advection tonight increases toward Wednesday morning,
+and temperatures are expected to be non diurnal, falling off 
+into late tonight, and then holding steady or slowly rising. 
+With a rather dry column and little forcing do not expect any 
+showers through tonight.
+
+&&
+
+.SHORT TERM /6 AM WEDNESDAY MORNING THROUGH WEDNESDAY NIGHT/...
+Deep low pressure still expected to pass well to the northwest
+of the region. passing through the Great Lakes and into southern
+Canada, Wednesday into Wednesday night. With some increase in
+isentropic lift Wednesday morning there may be a few scattered
+showers that move through. However, the area should remain dry
+until the pre frontal trough approaches by midday. The system
+will be slow moving with a highly amplified trough and upstream
+ridge. The warm front may just briefly move through late
+Wednesday afternoon and be quickly followed by the cold front.
+Cams are showing a developing line of showers with embedded
+thunderstorms. Any thunderstorms will be elevated as a low level
+cap is in place. Any with limited instability and CAPE,
+thunderstorms may be more isolated. With a strong marine
+influence thunderstorms east of NYC and across southern
+Connecticut may be more isolated or may not even occur.The
+strong southerly flow will bring increased moisture with
+precipitable water values up to 1.25 inches Wednesday evening,
+and continues to mention moderate to briefly heavy rain, with
+rainfall rates up to 1/2 inch an hour, and possibly up to 1 
+inch per hour. If the heavy rainfall occurs isolated nuisance 
+urban and poor drainage flooding will be possible. Showers will 
+continue once the pre frontal trough moves through.
+
+Strong winds are also possible with this system, but with a
+strong inversion not sure how much mixing will happen, and 
+winds and gusts are likely to remain below wind advisory levels.
+
+&&
+
+.LONG TERM /THURSDAY THROUGH TUESDAY/...
+High pressure begins to build in slowly during Thursday, however a 
+cyclonic flow aloft with some moisture lingers as a mid level trough 
+shifts through. Only a chance of showers with the overall highest 
+probabilities being north and east of the city and generally in the 
+morning. Winds will shift westerly and increase more noticeably in 
+the afternoon. Thinking is that this downsloping flow combined with 
+partial sunshine and delayed cold air advection will allow for high 
+temperatures to be warmer than deterministic NBM numbers. Went 
+closer to the NBM 75th percentile, which is a few degrees warmer. 
+Highs generally in the 50s.
+
+Winds increase further Thursday night with steepening of the 
+pressure gradient, then winds slowly diminish during Friday. W to NW 
+gusts 30-35 mph are expected at night with a few gusts near 40 mph 
+possible. Gusts then gradually lower to 20-25 mph by the end of 
+Friday afternoon. Friday will be mostly sunny with highs mostly 45-
+50.
+
+Models have trended weaker and farther south with a trough and weak 
+low center Friday night into Saturday morning. Have gone with a dry 
+forecast, but still can't completely rule out a sprinkle or flurry 
+during this period. Mostly sunny otherwise for Saturday afternoon 
+with highs in the middle and upper 40s. Model consensus then keeps a 
+stronger area of low pressure and associated precip well to our 
+south on Sunday. 
+
+A fast flow aloft brings uncertainty regarding the timing and 
+strength of weak clipper-type lows or troughs potentially shifting 
+nearby during the Sunday night through Monday period. In any case, 
+moisture is limited, so will go with a dry forecast for the time 
+being. Ridging at the surface and aloft with a SW flow then brings 
+us milder weather for Tuesday.
+
+&&
+
+.AVIATION /01Z WEDNESDAY THROUGH SUNDAY/...
+
+**HIGH IMPACT AVIATION WEATHER WEDNESDAY AFTERNOON/NIGHT**
+
+Deepening low pressure over the Mid Mississippi Valley tonight
+will lift up into the Great Lakes on Wednesday, sending a strong
+frontal system into the area.
+
+The biggest change with this 00Z TAFs is to stay mainly VFR
+until late afternoon Wednesday. The exception here is at KHPN
+and KSWF where conditions are expected to lower more quickly 
+late tonight into the morning. That being said, it's still not 
+out of the question for lower conditions to develop sooner or at
+least be occasional. The outlier is whether the low-levels 
+moisten quicker with the high dew point air moving across the 
+ocean waters. In addition, a weak warm front works up the 
+coast in the afternoon. 
+
+A strong southerly wind field ahead of the low and approaching 
+cold front will result in LLWS developing toward morning and 
+continuing into Wednesday night. A this time of year, with the 
+cold ocean waters and warm air moving across them, there will be
+a strong inversion in place. This will limit the magnitude of 
+the wind getting to the surface, but still expect gusts of 25 
+to 35 kt in the afternoon and at night. Isolated gusts up to 40
+kt at the coastal terminals. Winds at top of the inversion 
+around 2000 ft will peak at 55 to 65 kt.
+
+Heavy showers are expected with a pre-frontal trough during the
+evening hours Wednesday. An isolated thunderstorm is possible, 
+but confidence is low. 
+
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Amendments likely on Wednesday with the changing of flight 
+categories and onset of gusts. MVFR or lower may develop earlier 
+than forecast.
+
+.OUTLOOK FOR 00Z THURSDAY THROUGH SUNDAY...
+
+Wednesday night: IFR, with a line of heavy showers moving
+through during the evening hours. Isolated thunderstorms 
+possible. LLWS. S winds 15-25 kt G25-35KT, with few gusts 
+up to 40 kt, especially at the coastal terminals. Winds subside
+gradually from west to east late.
+
+Thursday: Mainly VFR. Gusty WNW winds developing in the afternoon, 
+increasing to 15-20 kt G25-35 kt
+
+Friday: VFR. W winds G25-30kt.
+
+Saturday: VFR with W winds G15-20kt possible.
+
+Sunday: VFR with NW/W winds.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+With a frontal system impacting the waters Wednesday and
+Wednesday night a strong southerly flow will continue tonight,
+and possibly increase Wednesday into Wednesday night. With the
+cold ocean waters mixing of higher winds aloft will be limited,
+and have discontinued the gale watch for Long Island Sound and
+the Long Island eastern bays, and issued a SCA Wednesday into
+Wednesday night. The strongest winds will be over the near shore
+ocean waters and continues the gale warning for the ocean, and
+added the Long Island south shore bays, and New York Harbor. The
+Harbor may be more marginal, and duration may be shorter than
+the warning with gusts diminishing Wednesday evening.
+
+SCA conds for the ocean on Thursday as seas remain elevated. 
+Winds pick up, and by the end of the day, some of the non-ocean 
+waters could see gusts near 25 kt. A steepening pressure 
+gradient will increase sustained winds and gusts across all 
+waters Thursday night before gradually subsiding through the day
+Friday. A good chance of W to NW Gales on the ocean for 
+Thursday night into at least Friday morning. Gales possible 
+Thursday night elsewhere, with confidence at least high enough 
+to leave a mention in the HWO. 
+
+Sub-SCA conds for the non-ocean waters for Friday night, but 
+advisory thresholds will probably still be met on the ocean as winds 
+and seas take longer to subside. Sub-advisory conditions will be 
+likely for the upcoming weekend, but winds and seas on the ocean 
+could be close to criteria at times.
+
+&&
+
+.HYDROLOGY...
+A frontal system impacting the region Wednesday and Wednesday night 
+should produce QPF of 1/2 up to 1 inch, with locally higher
+amounts possible. Higher totals are expected inland. Rainfall 
+rates could approach 1/2 inch per hour in spots at the time of 
+heaviest rainfall, which could lead to nuisance urban and poor 
+drainage flooding.
+
+No hydrological impacts are expected Thursday through early next 
+week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+Astronomical tides will remain low through the end of the week. 
+Intensifying southerly flow ahead of a strong storm system will 
+increase tide levels during the Wednesday night/early Thursday 
+morning high tide. Surge of 1.5 to 3 ft is needed to reach 
+minor flooding benchmarks. The strongest winds may actually 
+occur before high tide, limiting the surge somewhat during high 
+tide. Most locations should remain at or below action stage. 
+However, some of the most vulnerable locations across the south 
+shore back bays and western Sound could touch minor flooding 
+benchmarks. 
+
+Large breaking waves 8-10 ft are forecast late Wednesday into
+Wednesday night along the oceanfront, with beach flooding and
+erosion possible.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory from 6 AM Wednesday to 4 AM EST Thursday 
+     for ANZ331-332-335-340.
+     Gale Warning from 6 AM to 10 PM EST Wednesday for ANZ338.
+     Gale Warning from 6 AM Wednesday to 4 AM EST Thursday for 
+     ANZ345-350-353-355.
+     Small Craft Advisory until 6 AM EST Wednesday for ANZ350-353-
+     355.
+
+&&
+
+$$
+
+SYNOPSIS...JC/MET
+NEAR TERM...MET
+SHORT TERM...MET
+LONG TERM...JC
+AVIATION...DW
+MARINE...JC/MET
+HYDROLOGY...JC/MET
+TIDES/COASTAL FLOODING...

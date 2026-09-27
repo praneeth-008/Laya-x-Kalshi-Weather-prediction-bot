@@ -1,0 +1,218 @@
+348 
+FXUS61 KOKX 240614
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+214 AM EDT Mon Mar 24 2025
+
+.SYNOPSIS...
+Low pressure impacts the region late tonight into Monday, 
+followed by weak high pressure on Tuesday. A weak area of low 
+pressure passes to the south and east Tuesday night into 
+Wednesday. High pressure then builds in to the southwest of the 
+region Wednesday night and Thursday, moving off the southeast 
+coast Friday. A frontal system may impact the region next 
+weekend.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM THIS MORNING/...
+Some brief thinning in the mid and upper level clouds have
+allowed some locations across the Lower Hudson Valley to drop a
+few degrees below forecast hourly temperatures. This will
+continue to be monitored as a brief window of freezing rain is
+possible as mentioned below. 
+
+Otherwise, primary low center of an approaching storm system 
+tracks east across the Great Lakes tonight. A secondary low 
+center or triple point along an occluded boundary begins to take
+shape over the Mid-Atlantic Region. This low, along with an 
+attendant warm front, head our way late tonight along with the 
+northeast side of a theta-ridge axis. The increasing lift and 
+moisture bring a likelihood of precipitation over generally the 
+western half of the forecast area towards daybreak. While some 
+southern/coastal areas could see a brief wintry mix at the 
+onset, precip will otherwise be rain. The wintry mix will 
+however last a longer time inland north of the city with little 
+snow accumulation by sunrise. Left precip types as rain or snow,
+but brief sleet will also be possible. As for the threat of 
+freezing rain, there appears to be a small window of time where 
+surface temperatures in parts of Orange County could be freezing
+while an elevated warm nose pushing in from the SW precludes 
+snow and sleet. Not enough coverage and potential for advisory 
+consideration at this time, but this could be addressed with a 
+Special Weather Statement later in time if warranted.
+
+&&
+
+.SHORT TERM /6 AM THIS MORNING THROUGH 6 PM TUESDAY/...
+Any wintry mix north of the city changes to plain rain by mid- 
+morning Monday as temperatures warm up. Meanwhile, rain spreads 
+eastward through the rest of the forecast area early on. The 
+secondary low center shifts through the area during the 
+afternoon. A 50-60kt 925mb low level jet precedes its passage 
+and enhances rainfall over the eastern half of the forecast area
+with its upward forcing. Rainfall therefore more on the 
+moderate side in intensity during the morning into early 
+afternoon from around the city to points east. It may get gusty 
+during this same period for these same areas with the low level 
+jet passing through, but given the strength of the jet with a 
+strong enough low level inversion, gusts should prevail below 
+advisory thresholds. Rain otherwise ends west to east during the
+mid to late afternoon hours. Models limit CAPE to well 
+offshore, so no mention of thunder in the forecast. NBM looked 
+good for temperatures.
+
+Weak high pressure replaces the departing storm system Monday night 
+and Tuesday with dry weather. 850mb temps on Tuesday averaging 
+around -2C, but with a decent westerly flow, blended in warmer MAV 
+MOS with NBM with local adjustments for highs
+
+&&
+
+.LONG TERM /TUESDAY NIGHT THROUGH SUNDAY/...
+A upper level high amplitude longwave trough will be over the 
+eastern states Tuesday night into Wednesday night with a high 
+amplitude ridge over the western states. The trough begins to 
+move offshore late Wednesday night as heights rise Wednesday 
+night into Saturday as the upper ridge moves slowly eastward, 
+and gradually weakens Saturday. With a less amplified ridge a 
+shortwave will be moving rather quickly from the southwestern 
+states Friday night and approach the Great Lakes late Sunday. 
+The long term forecast Tuesday into Friday remains generally 
+unchanged, with a weak low passing to the south Tuesday night 
+into Wednesday. Then high pressure dominates Wednesday night 
+into Friday. Then a warm frontal boundary develops from low 
+pressure moving into the upper midwest Friday night, with some 
+uncertainty as to where this boundary will develop. However, 
+recent guidance suggests that the frontal forcing will be in the
+vicinity of the region Friday night, and have introduced slight
+chances of precipitation Friday night into Saturday. The warm 
+front may move north Saturday with the area becoming warm 
+sectored. Saturday night into Sunday the surface low may be 
+approaching the region with increased chances of precipitation. 
+There is high uncertainty with the system for next weekend, and 
+for probabilities used the NBM guidance. For temperatures there 
+is a lot of variance beginning Friday night into next weekend, 
+and this is due to the uncertainty with the placement of the 
+low. For now did lean toward warmer temperatures, toward the 
+75th percentile, as other guidance suggests the front will be to
+the north of the area. For the weather, there will be a chance 
+of light snow across the interior Friday night, with rain along 
+the coast. And then with the warmer air Saturday a transition to
+all snow is expected. And as the low approaches next weekend 
+precipitation will be all liquid Saturday night and Sunday.
+
+&&
+
+.AVIATION /06Z MONDAY THROUGH FRIDAY/...
+A frontal system will impact the terminals late tonight through
+Monday.
+
+Ceilings will gradually lower overnight into the morning as 
+rain develops in MVFR ceilings, then lowering to IFR. It may 
+take several hours longer for the eastern terminals, especially 
+at KGON which may not go sub-VFR until the 13Z-14Z timeframe. 
+There is plenty of low-level dry in place initially so amendments
+for timing are expected. 
+
+For KSWF, a wintry mix at the onset should go over to all rain 
+in the 10Z-12Z timeframe. Surface temperatures are above 
+freezing and precipitation will initially be light. Little or no
+accumulation expected. 
+
+S/SE wind speeds initially near 5-10 kt, increasing to 10-15 kt
+along coast, without much change farther inland. Gusts near 
+coast near 20 kt, with a brief window were gusts can reach up to
+30 kt after 12Z. Gusts will likely lower late morning into the 
+afternoon as a low-inversion strengthens as warmer air moves in 
+aloft. 
+
+Southerly low level wind shear expected for from 12-20Z, with 
+40-50 kt SW winds at 2kft just for some coastal terminals, KJFK,
+KLGA, KISP and KGON.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Timing of categorical changes could vary by 1-2 hours. Chance 
+of LIFR cigs late morning into the afternoon.
+
+Brief window where gusts could reach 30 kt in the morning(11Z-14Z).
+
+.OUTLOOK FOR 06Z TUESDAY THROUGH FRIDAY...
+
+Late Monday night: VFR.
+
+Tuesday: Mainly VFR. Chance of MVFR to IFR with a wintry mix 
+late Tuesday night. W wind gusts near 20 kt during the day.
+
+Wednesday: Possible wintry mix early with MVFR to IFR. 
+Precipitation transitions to mainly rain with MVFR to IFR 
+possible before tapering off in afternoon. VFR returns at 
+night. Afternoon NW wind gusts 15-20 kt.
+
+Thursday: VFR.
+
+Friday: VFR. W wind gusts 15-20 kt.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Made some minor updates to the winds and gusts, mainly over the
+ocean waters, this evening.
+
+SCA remains in effect for all waters late tonight into Monday, 
+with the ocean under an advisory through Monday night due to 
+lingering elevated seas. Although there could be a few gusts to 
+gale force mainly on the ocean late Monday morning to near 
+noontime, it would be a short window when this would be 
+possible, and a low level inversion would likely keep gales 
+aloft during this period. After collaboration with the 
+surrounding offices, decided to go with the advisory for this 
+event. The SCA will probably need to be extended into Tuesday on
+the ocean for seas and potentially for gusts to 25 kt as well. 
+Elsewhere, gusts probably prevail below 25kt on Tuesday.
+
+Ocean seas east of Moriches Inlet may be near 5 feet early Tuesday 
+evening, then subside below 5 feet, while the remainder of the 
+forecast waters will be sub advisory. Sub advisory conditions remain 
+on the forecast waters Tuesday night through Thursday. Then with an 
+increasing W/SW flow late Thursday night into Friday ocean seas may 
+build to near 5 feet, especially for the waters east of Fire Island 
+Inlet. And during Friday gusts on the eastern ocean waters may reach 
+25 kt. The flow weakens Friday evening, and winds and seas on the 
+ocean waters will return to sub advisory levels.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts expected through the end of next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory from 6 AM this morning to 6 PM EDT this 
+     evening for ANZ331-332-340-345.
+     Small Craft Advisory until noon EDT today for ANZ335-338.
+     Small Craft Advisory from 6 AM this morning to 6 AM EDT 
+     Tuesday for ANZ350.
+     Small Craft Advisory until 6 AM EDT Tuesday for ANZ353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JC/MET
+NEAR TERM...JC/MET/JT
+SHORT TERM...JC
+LONG TERM...MET
+AVIATION...DW
+MARINE...JC/MET
+HYDROLOGY...MET

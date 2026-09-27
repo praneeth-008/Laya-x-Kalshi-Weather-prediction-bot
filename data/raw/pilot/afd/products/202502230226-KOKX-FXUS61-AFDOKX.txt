@@ -1,0 +1,179 @@
+166 
+FXUS61 KOKX 230226
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+926 PM EST Sat Feb 22 2025
+
+.SYNOPSIS...
+High pressure remains centered to the south of the area through
+Sunday, then moves offshore Sunday night into Monday. A weak 
+cold front moves through Tuesday night. Weak high pressure 
+briefly returns Wednesday before a quick moving frontal system 
+likely affects the region Wednesday might into Thursday. This 
+will be followed by a series of cold fronts passing through the
+region Friday into the weekend.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM SUNDAY MORNING/...
+Forecast largely on track into the overnight with just some
+minor adjustments to temperatures, dew points, and winds to
+reflect the latest observational trends. 
+
+Otherwise, a relatively quiet period heading into Monday with 
+series of short wave troughs moving through in the WNW upper 
+level flow aloft. The first of which will send a surface trough 
+across the area tonight, preceded by some mid and high level 
+cloudiness. This will result in a SW surface flow that veers 
+back to the west late tonight. There is some uncertainty due to 
+the cloud cover and winds staying up a bit as to how much some 
+of the normally colder spots radiate. Regardless, expect lows 
+close to normal, ranging from the lower 20s inland, and 25-30 at
+the coast.
+
+&&
+
+.SHORT TERM /6 AM SUNDAY MORNING THROUGH MONDAY/...
+Expect temperatures to gradually warm Sunday into Monday as low
+pressure passes over central Canada Sunday and then north of 
+the Great Lakes and into eastern Canada on Monday. Any 
+precipitation with the system will stay well north and west of 
+the area. After mainly clear skies for Sunday, warm advection 
+ahead of the system will allow increasing mid and high level 
+cloudiness for Sunday night. Conditions will then clear Monday 
+with the warm front passing well to the north and west. 
+
+High temperatures will be close to normal Sunday in the upper
+30s to lower 40s, then into the lower and mid 40s Monday. Lows
+Monday morning will range from the mid to upper 20s across most
+locations, except around freezing for the NYC metro. The latter
+is slightly above normal.
+
+&&
+
+.LONG TERM /MONDAY NIGHT THROUGH SATURDAY/...
+Key Points:
+
+* Temperatures will likely run 5 to 10 degrees above normal Tuesday 
+  through Thursday. A return to more seasonable temps for Fri/Sat, 
+  and possibly below normal to end the weekend. 
+
+* Mainly dry conditions are expected through mid week. A quick 
+  moving frontal system will likely affect the region Wed Night into 
+  Thursday.
+
+Quasi-zonal upper flow through early next week with PAC jet riding 
+the northern tier of the CONUS around expansive polar trough across 
+southern Canada. Within this flow, a series of shortwaves will 
+traverse the northern tier of the US towards the region. First 
+shortwave of note (PAC origin), will eject from the Rockies into 
+northern plains Monday and towards the region by Tuesday Night. The 
+result will be a quick moving frontal system. The trend with this 
+system is drier, being a progressive and weak system with limited 
+precip (rain) potential. Latest ECMWF and ensemble has also trended 
+more suppressed with the potential interaction of this northern 
+stream shortwave with a southern branch shortwave, keeping 
+developing offshore low pressure well se of the region. This is 
+inline with GEFS and CMC ensembles. 
+
+The main implication of this system will be just a brief 
+interruption of amplified SW flow into the NE US on Wednesday, but 
+otherwise a continuation of temps several degrees above seasonable 
+levels Tue thru Thu. Potential for temps to make a run at 60 degrees 
+for NJ metro on Tuesday with enough sunshine.
+
+Thereafter, general model agreement in further longitudinal 
+amplification of troughing across the Eastern US for late week 
+period in response to a more vigorous PAC shortwave diving through 
+the Central US into the southern Mid Atlantic. ECE and GEFS coming 
+into better agreement with this trough amplitude/timing, and 
+depicting a progressive and mild frontal system moving through the 
+region Thu/Thu night. A shot of Canadian air and return to more 
+seasonable temps on Friday, with perhaps a few rain/snow showers as 
+trough axis moves through.
+
+Better general agreement in polar troughing exerting more influence 
+on the NE US for the second half of the weekend into early next 
+week, in wake of a clipper system tracking through southern 
+Ontario/Quebec and northern New England on Saturday. This would 
+signal a return to below normal temps during this time period.
+
+&&
+
+.AVIATION /03Z SUNDAY THROUGH THURSDAY/...
+VFR as high pressure remains centered to our south through
+Sunday.
+
+SW winds around 10 kt or less the next few hours with wind
+speeds becoming less than 10 kt after 05z. Winds continue to 
+veer to the W Sunday morning with speeds increasing to around 
+10 kt by late morning and afternoon. Winds diminish Sunday 
+evening.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Wind speeds may be a few kt higher at times through 06z.
+
+.OUTLOOK FOR 00Z MONDAY THROUGH THURSDAY...
+
+Sunday Night-Monday: VFR.
+
+Tuesday: Chance afternoon showers and MVFR north of the city 
+terminals, otherwise VFR.
+
+Wednesday: VFR.
+
+Thursday: Rain showers and MVFR possible. Mixed rain/snow 
+showers possible at KSWF.
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Sub-SCA conditions are on tap through Monday with high pressure
+to the south through Sunday, then retreating offshore early 
+next week. SW-W winds tonight will increase through the early 
+morning hours and may bump 20-25 kt on the ocean waters for a 
+short time with seas building to 3 to 4 ft. Conditions then 
+subside Sunday into Monday. 
+
+Potential for marginal S/SW SCA gusts on the ocean waters Mon Night 
+into Tuesday in the wake of warm frontal passage and ahead of 
+approaching trough. Potential for a triple point low has decreased 
+over the last 24 hours, limiting the duration magnitude of S/SW 
+winds, limiting potential for seas building to SCA Mon Night/Tue. 
+
+Otherwise, likely return to sub SCA conds Tue Night into Wed as weak 
+high pressure builds. Next chance for SCA conds on the ocean late 
+Wed Night into Thu with strengthening SSW flow ahead of next 
+approaching frontal system.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts are expected through the the end of next 
+week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...NV/DW
+NEAR TERM...DS/DW
+SHORT TERM...DW
+LONG TERM...NV
+AVIATION...DS
+MARINE...NV/DW
+HYDROLOGY...NV/DW

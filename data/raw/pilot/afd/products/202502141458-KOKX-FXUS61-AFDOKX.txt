@@ -1,0 +1,218 @@
+606 
+FXUS61 KOKX 141458
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+958 AM EST Fri Feb 14 2025
+
+.SYNOPSIS...
+A large dome of high pressure builds across today and tonight, 
+before pushing offshore Saturday. Low pressure approaches from the 
+Ohio and Tennessee Valleys and impacts the region late Saturday into 
+Sunday. High pressure then slowly builds back through Wednesday.
+Low pressure may impact the area on Thursday.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+The fcst is on track. Brisk and gusty at times for today with a
+good deal of sunshine. The winds will gust to around 30 mph at 
+times through the early afternoon, with the winds diminishing 
+for late in the afternoon and early evening. Despite a good deal
+of sunshine temperatures should average a good 5 to 7 degrees 
+below normal with mostly lower and middle 30s, but feeling a 
+good 10 to 15 degrees colder at times factoring in the WNW wind.
+
+By early this evening high clouds start to arrive. Increasing high 
+and mid level clouds take place through the night, especially after 
+midnight in terms of increasing mid level clouds. With the high 
+settling over the area look for the winds to go calm. A tricky 
+temperature forecast as enough high clouds could affect minimum 
+temperatures some. Where the higher level cloud cover is less dense 
+more radiational cooling can take place and would be rather 
+impressive with calm winds. For now will take a middle of the road 
+approach with low temperatures and not attempt to pinpoint where any 
+greater radiational effects take place. Lows will be mainly in the 
+lower 20s for the coast, and some teens across the rural and 
+interior sections.  With more like middle 20s in the NYC and NE NJ 
+metropolitan area.
+
+&&
+
+.SHORT TERM /SATURDAY THROUGH SUNDAY/...
+WINTER WEATHER ADVISORY IN EFFECT BEGINNING ON NOON SATURDAY 
+THROUGH EARLY SUNDAY MORNING FOR INTERIOR PORTIONS OF THE AREA 
+FOR SNOW FOLLOWED BY A POTENTIAL PERIOD OF FREEZING RAIN.
+
+Overcast skies will lower throughout the morning from SW to NE. With 
+the profile well below freezing to start look for snow to break out 
+for western areas during the early afternoon, and a few hours later 
+for eastern and northeastern sections. With the soundings plenty 
+cold enough for snow at the start look for the snow to begin to 
+accumulate towards very late in the afternoon and early evening 
+hours. During the afternoon the onshore SE flow begins to increase. 
+This will begin to warm up the boundary layer by early evening for 
+coastal areas but not before some snow accumulation can take place. 
+For coastal areas based on higher res sounding analysis the warming 
+in the boundary layer looks to outpace the warming above the 
+boundary layer (5 to 9 kft layer). The further inland one goes the 
+the boundary layer flow will be weaker and thus the mid level 
+warming is likely to outplace any boundary layer warming. Thus when 
+the transition occurs from snow look for inland locations to have a 
+possible brief period of sleet before going to freezing rain. At the 
+coast the transition will be quicker and will be mainly from snow 
+right to rain. The timing of the transition at this time looks to be 
+mainly for the mid and possibly early evening for coastal sections, 
+and for the late evening and overnight further inland. With the 
+upper level trough associated with the storm system undergoing a 
+shortening wavelength, this should lead to more ridging further 
+upstream along the coast and just offshore. This increased mid and 
+upper level ridging should help the warmer air in the mid 
+levels surge northward late Saturday night into Sunday morning.
+For the winter weather advisory expect 2 to 4 inches, with 
+locally up to 5 inches across a few of the farthest northern
+locations. Also these same locations are likely to experience a
+glaze of ice further south, to close to a quarter of an inch of
+ice across northwestern portions of Orange County. Snowfall
+amounts along and closer to the coast outside of the advisories
+will be mainly 1 to 2 inches before the changeover to rain. 
+
+By Sunday morning even inland locations should get above freezing 
+primarily at the sfc with any precipitation in the form of plain 
+rain. There remains questions as to whether the warm front at the 
+surface gets through the area, with the front likely being occluded 
+further inland. Perhaps coastal sections, especially further east 
+can get into the warm sector and behind the warm front briefly. Thus 
+temperatures are expected to remain in the 30s inland with warmer 
+temperatures further southeast. Far southern and southeastern 
+locations could get into the middle and upper 40s if the warm front 
+completely gets through. Most of the modeling has showery rains 
+developing ahead of the cold frontal boundary in the warm sector. 
+This should pivot through the area after a short break in the precip 
+earlier in the day. Then by during the afternoon the cold front 
+should move through from west to east, with the front likely to 
+clear eastern sections by early evening effectively ending all
+precipitation. Total QPF from the event looks to be on the 
+order of roughly 1.5 to 2 inches of liquid averaged across the 
+region.
+
+&&
+
+.LONG TERM /SUNDAY NIGHT THROUGH THURSDAY/...
+Gusty west winds for Sunday night through Monday night in the wake 
+of a cold front passage and high pressure slowly building in from 
+the west. Advisory-level gusts may be possible in some areas during 
+Monday and something that will need to be monitored. 850mb temps 
+drop to around -15C, but will be offset by strong downsloping 
+westerly winds. Went a little above NBM guidance, but high 
+temperatures on Monday will still be below normal. Still somewhat 
+breezy for Tuesday as high pressure continues to build in, but winds 
+will at least not be as strong this time. High temps about 10 
+degrees below normal. 
+
+The high pressure ridge finally reaches us on Wednesday, but gets 
+eroded by the next system that is shaping up to impact the forecast 
+area. It probably remains dry through the daytime, but then chances 
+of snow begin to increase Wednesday night into Thursday. Several 
+global models and their respective ensemble means are signaling a 
+coastal storm emerging off the Mid-Atlantic Coast Weds night into 
+Thursday morning, then passing nearby the 40N/70W benchmark in the 
+Thursday to Thursday night time frame. Have PoPs capped at 50% with 
+this being a day-7 forecast, but woudn't be surprised to see NBM 
+PoPs trend upward given recent model trends. As it stands, precip 
+type would be all snow.
+
+&&
+
+.AVIATION /15Z FRIDAY THROUGH TUESDAY/...
+High pressure builds into the region through today and moves 
+overhead tonight.
+
+VFR.
+
+NW-WNW winds mostly 15-20kt with gusts 25-30kt through much of
+the day. Winds and gusts diminish towards evening, with gusts 
+ending around 00Z Saturday. Winds become light and variable 
+late tonight.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Winds probably favor north/right of 310 magnetic through the 
+day.
+
+.OUTLOOK FOR 12Z SATURDAY THROUGH TUESDAY... 
+
+Saturday-Saturday Night: VFR in the morning, the IFR in snow in the 
+afternoon. The snow should transition to rain along the coast in the 
+evening, and inland overnight. A wintry mix may remain at KSWF 
+for the entire overnight hours, including freezing rain.
+
+Sunday: IFR or lower with rain. A chance of freezing rain at KSWF 
+early in the morning. LLWS possible, especially east of the city 
+terminals. S Gusts 20-25 kt.
+
+Monday: VFR with W wind gusts 35-40 kt.
+
+Tuesday: VFR with W wind gusts around 25 kt.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Gale conditions continue through the morning and into a portion of 
+the afternoon for most of the waters. With high pressure approaching 
+the waters look for conditions to subside towards evening. As 
+conditions subside a brief period of small craft conditions is 
+expected before sub advisory conditions prevail across all waters by 
+mid to late evening. As the high moves over the waters later tonight 
+look for the winds and seas to subside further with ocean seas down 
+to around 1 ft for Saturday morning. The high pushes east and a SE 
+wind increase Saturday afternoon into Saturday night with marginal 
+small craft seas on the ocean waters by early Sunday with the 
+likelihood of widespread small craft conditions increasing through 
+the day Sunday on the ocean.
+
+A good chance of gales for Sunday night through Monday night for all 
+waters as high pressure builds in behind the departing storm and
+cold front. SCA conds then prevail on Tuesday.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts are anticipated from this weekend's storm 
+system despite the fact that 1.5 to 2 inches of liquid is expected 
+across the area. Thereafter no hydrologic impacts are anticipated
+through the remainder of the forecast period.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Winter Weather Advisory from noon Saturday to 7 AM EST Sunday 
+     for CTZ005>008.
+     Winter Weather Advisory from noon Saturday to 1 AM EST Sunday 
+     for CTZ009>012.
+NY...Winter Weather Advisory from noon Saturday to 7 AM EST Sunday 
+     for NYZ067-068.
+     Winter Weather Advisory from noon Saturday to 1 AM EST Sunday 
+     for NYZ069>071.
+NJ...Winter Weather Advisory from noon Saturday to 7 AM EST Sunday 
+     for NJZ002.
+     Winter Weather Advisory from noon Saturday to 1 AM EST Sunday 
+     for NJZ004-103>105.
+MARINE...Gale Warning until 3 PM EST this afternoon for ANZ331-332-335-
+     338-340-345-350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JC/JE
+NEAR TERM...JE/JMC
+SHORT TERM...JE
+LONG TERM...JC
+AVIATION...JC/JT
+MARINE...JC/JE
+HYDROLOGY...JC/JE

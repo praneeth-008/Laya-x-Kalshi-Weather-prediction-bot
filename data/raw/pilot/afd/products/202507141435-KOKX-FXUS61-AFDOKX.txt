@@ -1,0 +1,269 @@
+611 
+FXUS61 KOKX 141435
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1035 AM EDT Mon Jul 14 2025
+
+.SYNOPSIS...
+A weak cold front approaching from the west today will move
+through tonight, and pass to the south Tuesday morning. The
+front should dissipate during mid week, allowing the Bermuda
+high to exert more influence for mid to late week. A cold front
+will likely move through this weekend. 
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Key Points: 
+
+* Flood Watch remains in effect from 2 PM to midnight for NE NJ,
+  the lower Hudson Valley, NYC, and SW CT. 
+
+* Scattered instances of flash flooding are possible from NE NJ
+  into the lower Hudson Valley. 
+
+* More isolated instances of flash flooding are possible east of
+  there into NYC and SW CT. 
+
+A shortwave trough axis over the eastern Great Lakes/Ohio 
+Valley, and accompanying sfc trough over central NY/PA, will
+both slide east toward the region today, and move across 
+tonight into early Tue morning. 
+
+With a moist and marginally unstable air mass (PW 1.86" and 
+moist adiabatic lapse rates through the column on KOKX 12Z 
+sounding) there is potential for isolated downpours with any 
+morning showers that develop. Otherwise, morning low clouds 
+should should give way to breaks of sun this afternoon, 
+particularly away from the immediate south coasts.
+
+Daytime heating will lead to marginal to locally moderate
+instability (MLCAPE 500-1500 J/kg). In a tropical environment
+with approaching shortwave, this will be supportive of 
+scattered tstm development along outflow from decaying AM 
+convection moving from the Poconos and Sullivan County toward 
+the Lower Hudson Valley and northern NJ, and also along sea 
+breeze boundaries across Long Island/NYC metro/S CT this 
+afternoon, then scattered to numerous tstm development 
+along/ahead of the approaching pre-frontal trough late this 
+afternoon into this evening. 
+
+Threat will be for torrential downpours from tstm activity with
+2+"/hr rainfall rates likely in a tall and narrow CAPE profile
+environment, PW increasing to near 2.25" (+2 standard deviations
+from the mean), deep warm cloud layer up to 15 kft, and weak SW
+steering flow (15kt) aligned with trough/seabreeze/outflow 
+boundary. 
+
+Highest coverage/confidence in this activity is across
+NE NJ and LoHud in vicinity of sea-breeze/outflow convergence 
+boundary and then followed by approaching trough, with scattered
+instances of flash flooding possible (25-35% probability 
+within 25 miles of a point).
+
+Farther east across NYC and SW CT, confidence in coverage of 
+convection is slightly lower (10-20% flash flood probability 
+within 25 miles of a point prob) as sea breeze/outflow activity 
+likely end up to the north/west, with more organized trough 
+activity late in the day potentially weakening in intensity with
+waning instability, although this could be counteracted by 
+potential increase in LLJ and shear/helicity with hints of weak 
+surface wave development. In any case, a lower confidence on 
+flash flood threat exists for this area.
+
+Weak low level shear/helicity profiles and weak LLJ also appear
+to be a limitation for sustained updraft and backbuilding storms
+and a moderate flash flood threat for NE NJ/LoHud, with later
+trough approach and waning instability this evening a possible
+limiting factor for NYC and SW CT.
+
+After collab with WPC and surrounding offices issued Flood 
+Watch from 2 PM to midnight for NE NJ, LoHud, NYC and interior 
+SW CT, for widespread 1-3 inches of rainfall likely, and locally
+as high as 5 inches, for NE NJ and LoHud where most
+persistent/widespread convection is likely based on predicted 
+synoptic/mesoscale environment and CAM output. HREF shows up to
+50% probability of 3 inches in 3 hours across NE NJ, which is a
+rare signal. Meanwhile, a widespread 1/2 to 1 1/2 inches
+rainfall is likely with localized rainfall totals of up to 3
+inches possible for NYC and SW CT. Most of this could fall in 
+as little as a 3-hr period.
+
+Isolated strong to severe wet downbursts are possible, mainly
+NW of NYC. 
+
+Shortwave trough axis slowly slides east tonight into early
+Tuesday morning, with weak surface trough axis sliding 
+southeastward through Long Island/CT. Convective coverage and
+intensity will wane overnight, but potential for locally heavy
+downpours and embedded tstm activity may continue invof the
+trough and possible weak wave development. 
+
+Seasonably warm and very muggy conditions will prevail through
+tonight. 
+
+&&
+
+.SHORT TERM /TUESDAY THROUGH WEDNESDAY NIGHT/...
+Key Points: 
+
+* Moderate potential for heat indices of 95-100F on Wednesday. 
+
+Shortwave trough axis slowly slides east Tuesday morning, with weak 
+trough axis likely dropping south. Potential for locally heavy 
+downpours and embedded tstm activity in vicinity of the trough 
+across LI/SE CT Tue AM, then gradual mid-level drying 
+conditions expected Tue afternoon in wake. Low chance of 
+afternoon shra/tsra activity for NYC and pts N&W Tue aft during 
+peak heating. 
+
+Seasonable temps and very humid conditions continue Tue into 
+Tue Night. Patchy stratus/fog development possible Tue Night/Wed
+Am in the moist and weak flow environment, particularly along 
+the coast. 
+
+Shortwave ridging surface/aloft should allow for more in the way
+of sunshine on Wednesday, with warm advective SW flow 
+establishing around Bermuda high. Potential for start of a mid
+to late week heat wave, with widespread daytime temps in the 
+upper 80s to lower 90s, and Tds in the lower to mid 70s. 
+Widespread heat indices of 95-100F possible. Late day/evening 
+convection possible with approach of southern shortwave/pre-
+frontal trough.
+
+&&
+
+.LONG TERM /THURSDAY THROUGH SUNDAY/...
+Key Points: 
+
+* While still some uncertainty, there is the potential for a 
+  heat wave to continue Thursday and Friday for many areas with 
+  max heat index values between 95 and 105.
+
+* Relatively active pattern with chances for several days of afternoon
+  showers and thunderstorms.
+
+A frontal boundary will likely stall just offshore and linger, 
+possibly lifting north of the area Thursday. A frontal system may 
+then impact the area later in the week. Aloft, the pattern stays the 
+same through the period. Although we are under some high heights, we 
+are somewhat on the eastern end of a broad upper level trough 
+centered over central Canada and few shortwaves likely pass through.
+
+With strong Bermuda high in place, a S/SW flow will allow plenty of 
+moisture to be sent our way. This combined with above normal high 
+temperatures brings some potential for a heat wave, with heat index 
+of 95-105 Thursday and Friday. However, there still is uncertainty 
+especially given the potential for convection and slight 
+inconsistencies in a late week frontal system among the guidance.
+
+Too early to talk specifics when it comes to severe or flooding 
+concerns with the aforementioned convection. These details will be 
+ironed over the next few days. There is plenty of moisture around 
+with pwats 1.75-2.00+ for Thursday and Friday so any convection that 
+does develop will likely be able to produce heavy downpours. As for 
+severe, while we are pretty unstable, shear looks weak through much 
+of the period.
+
+&&
+
+.AVIATION /15Z MONDAY THROUGH FRIDAY/...
+A weak cold front settles over the terminals this afternoon and
+evening, gradually sinking to the south tonight.
+
+MVFR-VFR should become mainly VFR this afternoon and evening
+outside of showers/thunderstorms. A few showers possible late
+this morning/early this afternoon. Showers and thunderstorms
+become more widespread N and W of the NYC terminals after 17z,
+gradually pushing towards the metro terminals after 20z. Showers
+and a few thunderstorms remain possible this evening as the
+activity continues moving east into Long Island and Southern
+Connecticut. Torrential downpours with MVFR/IFR conditions 
+possible in any thunderstorm. Showers remain possible overnight,
+but should mainly be located east of the NYC metro terminals 
+after 06z. MVFR, potentially IFR, expected overnight/early 
+Tuesday morning.
+
+Light SW-S winds this morning become S-S 10 kt or less. Winds
+will diminish tonight.  
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+Amendments possible this morning for ceilings. 
+
+Timing of showers/thunderstorms may be off by 1-2 hours. 
+
+Low confidence flight category forecast tonight. 
+
+.OUTLOOK FOR 12Z TUESDAY THROUGH FRIDAY... 
+
+Tuesday through Friday: MVFR or lower in any afternoon/evening
+showers/tstms. 
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+With a weak pressure gradient, winds and seas likely remain
+below SCA criteria through the weekend. However, afternoon
+showers/tstms through the period could produce locally higher 
+winds/seas at times.
+
+&&
+
+.HYDROLOGY...
+Flood Watch remains in effect from 2 PM to midnight for NE NJ, 
+the lower Hudson Valley, NYC, and SW CT. 
+
+A widespread 1-3 inches of rainfall is likely, and locally as
+high as 5 inches across NE NJ and LoHud where most
+persistent/widespread convection is likely based on predicted 
+synoptic/mesoscale environment and CAM output.
+
+A widespread 1/2 to 1 1/2 inches of rainfall is likely with 
+localized rainfall totals of up to 3 inches possible for NYC and
+SW CT.
+
+Most of the above could fall in as little as a 3-hr period. 
+
+Highest coverage/confidence in this activity across NE NJ and 
+LoHud in vicinity of sea-breeze/outflow convergence boundary 
+followed by approaching trough with scattered to numerous 
+instances of flash flooding possible (15-25% probability within
+25 miles of a point). 
+
+Rainfall rates of 2+"/hr possible with stronger and/or
+repetitive convection, which would cause localized instances 
+of severe flooding. 
+
+&&
+
+.TIDES/COASTAL FLOODING...
+The rip current risk is low through Tuesday, with a 10 kt or 
+less onshore flow and weakening S-SE swell. 
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Flood Watch from 2 PM EDT this afternoon through this evening 
+     for CTZ005-006-009.
+NY...Flood Watch from 2 PM EDT this afternoon through this evening 
+     for NYZ067>075-176-178.
+NJ...Flood Watch from 2 PM EDT this afternoon through this evening 
+     for NJZ002-004-006-103>108.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...BG/JP/NV
+NEAR TERM...BG/NV
+SHORT TERM...NV
+LONG TERM...JP
+AVIATION...JP/DS
+MARINE...JP/NV
+HYDROLOGY...BG/JP/NV

@@ -1,0 +1,189 @@
+965 
+FXUS61 KOKX 181516
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1016 AM EST Tue Feb 18 2025
+
+.SYNOPSIS...
+High pressure builds from the west through Wednesday. Deepening 
+low pressure off the Mid Atlantic coast Thursday will pass well 
+south and east of the area through Thursday night. A large area of
+high pressure over the mid section of the country will then build
+east through the upcoming weekend. Weak low pressure then 
+approaches from the Great Lakes early next week.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Cold and brisk conditions continue today with the region between 
+deep low pressure well to the north and east, and a strong high 
+centered near the Northern Plains.
+
+Heart of polar airmass descends towards the region today, with 
+temperatures topping out 10 to 15 degrees below normal, with 
+highs generally in the mid to upper 20s and wind chills in the 
+teens.
+
+Dry conditions prevail with the building high under a mix of 
+clouds and sunshine. Mixed layer continues to extend toward or 
+above 850 mb thru the day, which helps to allow W or WNW gusts 
+to remain gusty, generally 30 to 35 mph, but isolated gusts 
+could exceed 40 mph at times. Flow should finally gradually 
+start to weaken this evening and overnight as the high shifts 
+closer and the low exits out into the North Atlantic.
+
+Low temperatures overnight likely a few degrees colder than the
+previous night, single digits far interior, to teens along the
+coast. A lighter flow should buoy wind chills a bit, but still
+near zero or below at times.
+
+&&
+
+.SHORT TERM /WEDNESDAY THROUGH WEDNESDAY NIGHT/...
+Strong >1050 mb Arctic high pressure continues to build in from
+the west Wednesday, keeping the region dry.
+
+Remaining cold, region largely sub freezing with highs in the
+upper 20s to around 30. Winds are expected to be lighter than
+previous days with the high more established and a relaxed
+pressure gradient in response.
+
+Closed upper low trough digs south of the Great Lakes into 
+late Wednesday, spurring a surface low pressure to develop over
+the South, before pushing offshore Wednesday night. Expecting a
+high and mid level deck to develop locally with the associated 
+moisture advection, but remaining dry thru the period.
+
+&&
+
+.LONG TERM /THURSDAY THROUGH MONDAY/...
+* Deepening low pressure off the Mid Atlantic coast Thursday likely 
+  passes far enough south and east to spare the area a significant 
+  snowfall. 
+
+* Remaining cold with temperatures running 5 to 10 degrees below
+  normal through the weekend, then a gradual warmup into early 
+  next week.
+
+Much of the 00Z guidance and ensembles continue to favor a 
+progressive southern branch low passing well south and east of the 
+forecast area Thursday into Thursday night. A northern branch upper 
+low over the Ohio Valley never phases with the southern branch storm 
+system as it moves off the northern Mid Atlantic coast Thursday 
+night. NBM and LREF (Long Range Ensemble Forecast) probabilities 
+remain very low for an advisory level event with the highest 
+probabilities across eastern LI. LREF is about 5-15%, while the NBM 
+is a bit higher at 10-25%. This is mainly for eastern portions of 
+Suffolk County on LI and far SE CT. For about an inch, looking at 
+about 20 to 50%. However, there has been slight uptick in these 
+probabilities. 00Z Nam12 was the most aggressive with about 0.50" 
+liquid equivalent, but has come down with the 06Z run. Additionally, 
+there is definitely a reflection of some light snow associated with 
+the aforementioned upper low passing nearby. Bottom line, this looks 
+like a light snowfall event with the event total snowfall less than 
+an inch. Best chance of seeing an inch or more is across far eastern 
+LI. Highest probabilities of snow are during the afternoon and 
+evening hours Thursday.
+
+Thereafter, strong high pressure over the mid section of the country 
+builds east through the weekend, passing to the south Sunday. Expect
+gusty NW winds late Thursday into Friday behind the deepening offshore
+low. Used a blend with of the NBM and NBM90 for winds as the deterministic
+is often underdone in a westerly flow. A clipper low approaches
+from the Great Lakes early next week with a low chance of snow 
+and/or rain late Monday.
+
+Temperatures at the start of the period will average 5-10 degrees 
+below normal, but then warmup to normal for Sunday and Monday.
+
+&&
+
+.AVIATION /15Z TUESDAY THROUGH SATURDAY/...
+Low pressure departs from the Canadian Maritimes and out into 
+the north Atlantic, while strong high pressure gradually builds
+in from the west through Wednesday. 
+
+Winds will be W to WNW around 20 kt with gusts 30-35 kt today, 
+then gradually diminish tonight.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No unscheduled AMD expected.
+
+.OUTLOOK FOR 12Z WEDNESDAY THROUGH SATURDAY...
+
+Wednesday: VFR. 
+
+Thursday: Mainly VFR. Chance MVFR or lower in light snow, mainly
+for the terminals east of NYC. NW winds G20-25kt at night. 
+
+Friday: VFR. NW winds G20-25 kt.
+
+Saturday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Gale Warning remains in effect for all waters thru this afternoon 
+with W or WNW gusts 30 to 35 kt. Winds begin to more solidly 
+lower under gales by late day on most waters, likely lingering 
+on the ocean into this evening. Thereafter, a Small Craft 
+Advisory will be needed on all waters for gusts at or above 25 
+kt continuing into tonight, and likely into Wednesday morning on
+the ocean and perhaps eastern Sound. Then, sub SCA conditions 
+on all water by Wednesday afternoon. Light freezing spray 
+possible everywhere through Wednesday as well, but not 
+anticipating it to be heavy enough to necessitate an advisory.
+
+Deepening offshore low pressure will likely bring a period of SCA 
+conditions to the waters late Thursday into Friday as it tracks 
+northeast up into the North Atlantic. SCA conditions may linger on 
+the ocean into the first half of Friday night. High pressure builds 
+in from the west for the weekend with sub-SCA conditions.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts are expected through the week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+The combination of relatively strong W-WNW winds and astronomical 
+low tides will pose a threat of low water conditions for the low 
+tide cycles this morning, particularly for the western Long 
+Island Sound and Peconic and Gardiners Bays. A Low Water 
+Advisory has been hoisted for these zones during the low tide 
+cycle this morning, with expected water levels around -2 ft 
+MLLW.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Gale Warning until 4 PM EST this afternoon for ANZ331-332-335-
+     338-340-345.
+     Low Water Advisory until 11 AM EST this morning for ANZ335.
+     Low Water Advisory until noon EST today for ANZ340.
+     Gale Warning until 10 PM EST this evening for ANZ350.
+     Gale Warning until 7 PM EST this evening for ANZ353-355.
+
+&&
+
+$$
+
+SYNOPSIS...DR/DW
+NEAR TERM...DR/NV
+SHORT TERM...DR
+LONG TERM...DW
+AVIATION...DW
+MARINE...DR/DW
+HYDROLOGY...DR/DW
+TIDES/COASTAL FLOODING...

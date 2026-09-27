@@ -1,0 +1,219 @@
+952 
+FXUS61 KOKX 160123
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+923 PM EDT Sat Mar 15 2025
+
+.SYNOPSIS...
+A warm front approaches tonight and lifts across the area Sunday
+morning. A strong cold approaches Sunday afternoon and evening and
+moves across the region through Monday. High pressure returns 
+Tuesday and Wednesday. A fast moving frontal system moves across
+the area Thursday into Thursday night. High pressure may return
+Friday into next Saturday.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM SUNDAY MORNING/...
+Forecast on track this evening. High pressure remains offshore 
+through tonight, and weakens somewhat toward morning as a warm 
+front approaches from the south. Fog and drizzle are expected to
+redevelop tonight, especially with the approach of the warm 
+front. While dense fog is not expected at this time, there is a 
+possibility of areas of dense fog toward daybreak Sunday 
+morning. Lift along with warm front also may bring some light 
+rain in addition to the drizzle. Temperatures will be non 
+diurnal, lowering this evening, and then rising through the 
+remainder of tonight.
+
+&&
+
+.SHORT TERM /6 AM SUNDAY MORNING THROUGH MONDAY/...
+A warm front moves north of the region early in the day Sunday,
+and with the area warm sectored, once precipitation ends in the
+morning, much of the rest of the day will be dry. Temperatures
+will be nearly 15 degrees above normal across the region. With a
+long southerly fetch low level moisture will be increasing
+during the afternoon and into the evening, with precipitable
+water values approaching 1 inch late in the day, and nearly 1.5
+inches Sunday night, about as high as measured this time of 
+year. Increasing lift with a developing pre frontal trough will 
+lead to period of moderate to potentially heavy rainfall. Add 
+some elevated instability and CAPE along with the lift will 
+lead to the potential of isolated thunderstorms inland, while a 
+strong marine influence to the east will limit instability. 
+Rainfall rates may be near 0.50 inches per hour at times, and 
+local flooding of urban and poor drainage areas will be 
+possible, and the entire region remains in a marginal risk of 
+excessive rainfall, and localized flash flooding cannot be ruled
+out especially across the far eastern areas which will see 
+higher rainfall totals. These higher totals across the east will
+be associated with the slower movement of the pre frontal and 
+cold front as waves of low pressure develop as the front moves 
+off shore. With the slower movement of the cold front, chances 
+of precipitation linger through the day Monday.
+
+&&
+
+.LONG TERM /MONDAY NIGHT THROUGH SATURDAY/...
+
+Key Points:
+
+* A few lingering showers possible across eastern Long Island 
+  and southeast Connecticut Monday evening.
+
+* Dry conditions return late Monday night and should prevail 
+  through mid week.
+
+* Another frontal system moves across the area Thursday into 
+  Thursday night bringing the next chance for showers.
+
+* Temperatures look to average above through Thursday before 
+  trending near to slightly below normal to end the week.
+ 
+The cold front will continue moving offshore Monday evening. A wave 
+of low pressure likely forms on the front which could help linger a 
+few showers across eastern Long Island and southeast Connecticut in 
+the evening. The front and associated wave should pass far enough 
+offshore to bring an end to any showers by midnight across these 
+areas. Otherwise, clouds will gradually clear from west to east 
+through day break Tuesday. 
+
+The upper trough axis pushes east Tuesday morning as an upper ridge 
+builds over the northeast. The trough that passes offshore will 
+become a cutoff low over the western Atlantic as it gets trapped 
+beneath the upper ridge. The upper ridge will then slowly push east 
+through Thursday as the next amplifying upper trough quickly 
+approaches. At the surface, high pressure will be in control Tuesday 
+and Wednesday. The frontal system associated with the aforementioned 
+next upper trough will quickly move across the region Thursday into 
+Thursday night. Have held onto a 50 percent chance for showers late 
+Thursday/Thursday night as there are still timing and strength 
+differences with the system. The NBM probabilities for observing 
+greater than 1 inch in a 12 or 24 period have fallen and are now 
+generally less than 5 percent, which seems reasonable given the 
+progressive nature of the modeled system. 
+
+The front should be offshore to end the week. The associated upper 
+trough may become a cutoff low near or just off the New England 
+coast late Friday into the first half of the weekend as high 
+pressure starts building in from the west. This could create a tight 
+pressure gradient and lead to a windy Friday. NBM deterministic 
+temperatures have trended cooler for Friday with at least modest 
+cold advection and W-NW flow. Depending on how quick the offshore 
+upper low departs will determine if the surface high can settle over 
+the region next Saturday. Temperatures should trend closer to 
+seasonal normals for next Saturday as the air mass starts to 
+moderate.
+
+&&
+
+.AVIATION /01Z SUNDAY THROUGH THURSDAY/...
+A warm front moves through tonight. A cold front will approach
+from the west late Sunday.
+
+IFR/LIFR at most sites through the morning with low clouds, fog
+and drizzle. The NYC metros north/west may see some improvement
+to MVFR in the afternoon. Showers look to hold off until close
+to 00Z Mon. 
+
+SE flow 10 kt or less tonight should become S 10-15 with some
+gusts up to 10 kt after warm fropa Sunday morning. By afternoon,
+speeds 15-20kt with gusts 25-30kt will be possible, especially
+along the coast. 
+
+LLWS expected late tonight as S winds increase to 40-45kt, then
+to 50+ kt in the afternoon mainly from the NYC metro terminals
+east. Up to 60kt LLWS possible at KJFK/KISP.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Unscheduled AMD likely to address changes in flight category
+tonight. 
+
+.OUTLOOK FOR 00Z MONDAY THROUGH THURSDAY...
+
+Sunday Night: IFR with showers. LLWS continues, then ramps own
+late. 
+
+Monday: Showers with IFR/LIFR cond, tapering off in the 
+afternoon. Improvement to MVFR from the NYC metros north/west 
+late morning/early afternoon, KBDR/KISP 18Z, KGON 21Z. NW winds
+G20kt late afternoon/early evening. 
+
+Tuesday and Wednesday: VFR.
+
+Wednesday night and Thursday morning: IFR/LIFR cigs possible 
+especially along the coast. 
+
+Thursday afternoon and night: Chance of showers with MVFR cond
+possible. S winds 10-15 kt with G20-25 kt. 
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Main concern for tonight is potential of dense fog. Visibilities
+should lower this evening and could near 1 nm and potentially 
+lower late tonight as a warm front approaches. A dense fog 
+advisory may be needed late tonight. 
+
+Otherwise, conditions should remain below SCA levels across the
+waters tonight into early Sunday morning. An increasing 
+southerly slow during Sunday and into Sunday night, ahead of an 
+approaching frontal system will approach gale force gusts, 
+especially over the outer ocean waters. Confidence in gale gusts
+across the remainder of the waters has lowered as a strong low 
+level inversion will prevent the higher winds aloft from mixing 
+to the water surface. However, with uncertainty will leave up 
+the Gale Watch for all the waters at this time. A the cold front
+moves into the waters and waves of low pressure develop along 
+the front late Sunday night toward Monday morning, winds and 
+gusts will diminish and drop to less than SCA levels, with ocean
+seas remaining at SCA levels.
+
+Ocean seas will remain elevated at or above 5 ft Monday night 
+through Thursday mainly due to lingering SE swells. Winds on all
+waters should be below SCA levels Monday night through 
+Wednesday. The next chance for SCA winds will be Thursday into 
+Thursday night as a cold front moves across the waters.
+
+&&
+
+.HYDROLOGY...
+A frontal system is expected to produce a widespread 1-2 inches
+of rain Sunday evening through Monday evening, with up to 2.25
+inches across SE Connecticut and the twin forks of Long Island.
+Localized higher amounts are possible, especially across the 
+eastern areas. Heavy downpours could lead to nuisance flooding 
+in urban and poor drainage areas, especially Sunday night and 
+Monday morning. While localized flash flooding cannot be ruled 
+out, the overall risk is low.
+
+No hydrologic impacts are expected Monday night through the end of 
+next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Gale Watch from 6 AM EDT Sunday through late Sunday night for 
+     ANZ331-332-335-338-340-345-350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...DS/MET
+NEAR TERM...DS/MET
+SHORT TERM...MET
+LONG TERM...DS
+AVIATION...BG
+MARINE...DS/MET
+HYDROLOGY...DS/MET

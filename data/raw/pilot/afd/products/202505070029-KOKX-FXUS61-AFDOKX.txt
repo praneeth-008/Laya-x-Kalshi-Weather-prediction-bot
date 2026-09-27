@@ -1,0 +1,208 @@
+490 
+FXUS61 KOKX 070029
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+829 PM EDT Tue May 6 2025
+
+.SYNOPSIS...
+A weak cold front pushes offshore tonight. Meanwhile, a cut off
+low over the eastern Great Lakes tracks northeast into northern
+New England by Wednesday night. A cold front will approach from
+the northwest on Thursday and stall nearby Thursday night as 
+low pressure develops along it over the Mid Atlantic region. Low
+pressure will track over or just southeast of the region Friday
+into Friday Night, before heading up the New England coast on 
+Saturday. A weak cold front will cross Saturday night, with high
+pressure building in for early next week.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM WEDNESDAY MORNING/...
+Closed upper low tracks northeast across western NY tonight,
+with one spoke of vorticity pivoting through the region this 
+evening, and another approaching early Wed AM. At the surface, 
+a weak cold front/trough pivots NE through the region late this
+evening.
+
+Axis of scattered shower/isolated tstm activity along/ahead of 
+the front will pivot ne, primarily N&W of NYC, through around 
+10 pm. Severe threat has diminished, with isolated thunderstorms
+activity diminishing through this evening with waning
+instability.
+
+Ahead of this front, moist onshore flow (60F Tds over 50 degree
+waters) will maintain areas of fog, locally dense, will 
+continue until weak cold frontal passage from w to e between 
+10pm and 2am.
+
+Potential for additional scattered shower activity to works in 
+western portions of the region towards daybreak with next 
+approaching shortwave and trough.
+
+&&
+
+.SHORT TERM /6 AM WEDNESDAY MORNING THROUGH WEDNESDAY NIGHT/...
+The surface trough continues to track east over eastern areas, so 
+lingering showers are expected for the Twin Forks of Long Island and 
+southeast CT Wednesday morning, ending by mid morning. Then, another 
+surface trough looks to move through western areas,weakening as it 
+moves east during the afternoon, so just a slight chance is expected 
+for much of Long Island and southeast CT for Wednesday, while 
+northeast NJ, NYC, and the Lower Hudson Valley see a chance for 
+showers. With much of the dynamics north of the area, now thunder is 
+expected from late tonight through Wednesday. 
+
+Dry conditions return for Wednesday night as the stacked low 
+heads into the Canadian Maritimes. 
+
+Temperatures are expected to be seasonably warm through the period, 
+with highs in the upper 60s to middle 70s on Wednesday and lows
+in the 50s for the entire forecast area.
+
+&&
+
+.LONG TERM /THURSDAY THROUGH TUESDAY/...
+Good general model agreement in a northern stream trough digging 
+from southern Ontario/Quebec Thu/Fri, with another closed low 
+developing at its based to the W/SW of the region Thu Night/Friday, 
+and then pivoting ne through the area on Saturday. 
+
+At the surface, after brief drying conds Wed Night into Thu AM, the 
+next cold front approaches the region Thu aft/eve. Scattered 
+shra/isolated tsra activity possible N&W of NYC Thu aft/eve in a 
+weakly unstable/sheared environment.  
+
+Main focus though is on sfc cyclogenesis over the Mid Atlantic 
+coastal plain along the cold front Thu Night into Friday AM as the 
+digging northern stream trough phases with southern jet and closes 
+off at its base across the Central Appalachians. The trend of the 
+last 24 hrs has been a bit earlier closed low developing and moreso 
+to the west versus SW of the region, which is resulting in low 
+pressure developing closer/over the coast. Trend has also been for a 
+more progressive closed low/surface low, with improving conditions 
+for Saturday. 
+
+Approaching closed upper low and resultant strengthening coastal low 
+pressure will bring increasing likelihood of overrunning rain Thu 
+Night into Fri AM from the Mid Atlantic up the NE US coast in 
+response to deep layered lift (strong PVA and divergence aloft, and 
+deep moisture convergence of Gulf/sub-tropical moisture feed over 
+the region) as low pressure tracks up the coast. Exact location of 
+cold front and track/intensification of low pressure will determine 
+location, axis and duration of heavy stratiform rainfall, but 
+ingredients are there for a widespread moderate to heavy rainfall 
+late Thu Night through Friday. Orographic enhancement looks evident 
+across the interior based on low-level easterly flow as well. 
+GEFS/ECE ensemble indicating moderate potential (30-60% prob) for 1" 
+rainfall in 24 hrs, with slight potential (less than 20% prob) of 2" 
+in 24 hrs.
+
+Improving conditions Fri night into Saturday AM in wake of low 
+pressure and closed low, with forecast trending to dry and 
+seasonably mild conditions.  
+
+Subsequent shortwave likely crosses the NE US Sat night with 
+associated weak cold frontal passage, with dry and seasonably mild 
+conditions to follow for early next week with Canadian high pressure 
+building into its wake and gradually rising heights. 
+
+Temps near to slightly above seasonable for Thu ahead of weak cold 
+front, falling to a few to several degrees below seasonable Fri with 
+low pressure affecting the area, then a gradual moderating process 
+from near seasonable for Sat to a few to several degrees above 
+seasonable into early next week.
+
+&&
+
+.AVIATION /00Z WEDNESDAY THROUGH SUNDAY/...
+A weak cold front moves through the terminals tonight, then a
+trough of low pressure will be in the vicinity on Wednesday.
+
+Conditions improving to VFR tonight with the exception of KGON,
+KISP and perhaps KBDR as well, where improvement holds off until
+the morning. A low chance of a shower tonight and Wednesday, but
+not enough impact to include in TAFs.
+
+Winds backing more towards SW tonight and diminishing from early
+this evening. SW winds 10kt or less for Weds. Late day 
+afternoon sea breeze shift to S for KJFK probable.
+
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Timing of improvement could be off by a couple of hours.
+
+.OUTLOOK FOR 00Z THURSDAY THROUGH SUNDAY...
+
+Wednesday night: VFR.
+
+Thursday: MVFR possible with a chance of showers, mainly at night.
+
+Friday: MVFR or lower possible with a chance of showers. A slight 
+chance of thunderstorms.
+
+Saturday: Mainly VFR, except MVFR or lower possible in slight chance 
+of showers.
+
+Sunday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Dense fog expected over the nearshore waters this evening, 
+until a weak frontal passage from w to e between 9pm and 2am.
+
+SCA for seas around 5 ft continue this evening on the ocean
+zones in an E/SE flow. Waves begin to diminish early tonight for
+the western ocean zone and continue to diminish from west to
+east overnight. The eastern ocean zone falls below 5 ft before
+daybreak Wednesday.
+
+Sub SCA conditions likely on Thu under a weak pressure gradient.
+
+Next potential for SCA conditions is Friday into Friday Night, 
+particularly on the ocean waters, with coastal low pressure. The 
+potential for gales on the ocean has decreased over the last 24
+hrs.
+
+&&
+
+.HYDROLOGY...
+Locally up to an additional 0.25 to 0.5 inch of rainfall
+possible through midnight N&W of NYC. Elsewhere light amounts 
+of rain is expected thru Wednesday.
+
+There is likelihood of a widespread moderate to heavy stratiform 
+rain event for late Thursday night and Friday time period. There is 
+moderate potential for a 1"+ rainfall, but at this point, flood 
+impacts look to be minor.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Dense Fog Advisory until 2 AM EDT Wednesday for ANZ331-332-340-
+     345-350-353.
+     Dense Fog Advisory until 11 PM EDT this evening for ANZ335-338-
+     355.
+     Small Craft Advisory until 6 AM EDT Wednesday for ANZ350-353-
+     355.
+
+&&
+
+$$
+
+SYNOPSIS...JP/NV
+NEAR TERM...JP/NV
+SHORT TERM...JP
+LONG TERM...NV
+AVIATION...DR
+MARINE...JP/NV
+HYDROLOGY...JP/NV

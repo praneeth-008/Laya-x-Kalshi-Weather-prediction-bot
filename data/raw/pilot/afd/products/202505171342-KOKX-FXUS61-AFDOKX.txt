@@ -1,0 +1,209 @@
+244 
+FXUS61 KOKX 171342
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+942 AM EDT Sat May 17 2025
+
+.SYNOPSIS...
+A warm front continues pushing north this morning, followed by a
+cold front passage late this evening. Low pressure slowly moves
+across New England on Sunday sending a secondary cold front
+across the area. The low slowly exits the New England coast on
+Monday as high pressure gradually builds in from the northwest.
+High pressure takes control Monday night into early Tuesday 
+night. A frontal system impacts the area Wednesday into Friday.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Morning fog has improved across Long Island but is still hanging
+on across portions of Southern Connecticut. The warm front
+lifting north as well as a pre-frontal trough moving across the
+area will help improve visibilities the rest of the morning.
+
+A band of decaying showers associated with the pre-frontal
+trough will slide across the area through midday. Many areas may
+stay dry with just some sprinkles or a brief shower. Some CAMs
+were too aggressive in redeveloping this activity into new
+convection, but based on latest observational trends this
+appears unlikely. 
+
+Confidence with afternoon and evening convection remains low.
+The weak shortwave associated with the aforementioned vorticity
+will leave behind some subsidence as well as mid level dry air
+this afternoon. The flow will also start becoming SW into the
+afternoon which may also help mix out some of the higher dew
+points. Another limiting factor will be the most organized
+forcing remaining well to our north and west this afternoon and
+evening immediately ahead of the parent upper low and surface
+low over the Great Lakes. There is also a question of how much
+instability will exist this afternoon despite limited cloud
+cover, mainly due to the aforementioned dry air. Due to all of
+these factors, have lowered PoPs this afternoon and evening and
+placed the highest probabilities over the Lower Hudson Valley
+and interior SW CT. The activity if it develops will be isolated
+further south and east closer to the coast/Long Island and may
+just be associated with the cold front passage this evening. 
+
+The severe weather risk remains marginal as there is enough mid
+level flow for shear supportive of updraft organization. The
+main limiting factor again is with an organized trigger and the
+amount of instability. While SPC has the area in a marginal
+risk, think the probability for an isolated severe storm is
+highest across the Lower Hudson Valley with the main threat from
+damaging winds and potentially hail. 
+
+Convection may linger towards or just after sunset with the cold
+front passage, but the severe concern diminishes quickly with
+loss of heating. Any lingering showers should diminish through
+the rest of the evening. 
+
+Highs in the upper 70s to mid 80s are expected today. Winds will
+likely gust 25 to 30 mph, especially across NE NJ, NYC metro,
+and the Lower Hudson Valley where mixing is maximized. 
+
+The cold front pushes through likely just before or around midnight 
+and will finally start to filter in a drier airmass in a westerly 
+flow.
+
+&&
+
+.SHORT TERM /SUNDAY THROUGH MONDAY NIGHT/...
+The upper level low will be centered to our north most of Sunday as 
+it very gradually shifts east. Some energy rotating around the low 
+will aid in pushing a secondary cold front through the area in the 
+evening hours. Some light rain showers are possible with this 
+feature, mainly across the interior. No thunder is forecast. Skies 
+also likely fill in around 4 kft, leading to mostly cloudy 
+conditions for the afternoon. In the cooler airmass, highs are 
+forecast to be in the upper 60s to lower 70s.
+
+Surface troughing could continue into Monday as the low lingers off 
+the New England coast. Dry and sunny conditions are expected with 
+similar high temperatures as Sunday.
+
+Both days could be gusty with some deeper mixing each day. 25 to 30 
+mph gusts are expected.
+
+&&
+
+.LONG TERM /TUESDAY THROUGH FRIDAY/...
+Key Message:
+
+ * A frontal system likely impacts the region beginning   Wednesday, 
+and continues into Thursday, and possibly into Friday.
+
+No significant changes were made to the forecast for Tuesday into 
+the end of the week, as a frontal system remains likely to impact 
+the region late Tuesday night into Friday. An upper closed low 
+develop over the mid section into the upper Midwest by late Tuesday 
+night, and then the upper trough deepens and the closed low and 
+upper trough are slow to move eastward into the beginning of next 
+weekend. At the surface a deepening low moves out of the Mid 
+Mississippi Valley and into the Ohio Valley late Tuesday into 
+Wednesday. This low then moves slowly across the northeast Thursday 
+into Friday in association of the upper low becoming nearly 
+stacked. With a secondary surface low developing late Wednesday 
+into Wednesday night and increased precipitable waters values and 
+lift, there is the potential for a period of moderate rainfall. 
+Also, depending on the track of the low Thursday's temperatures are 
+more uncertain. However, overall temperatures will be near or slightly 
+below normal levels Tuesday through Friday.
+
+&&
+
+.AVIATION /14Z SATURDAY THROUGH WEDNESDAY/...
+A warm front moves through the area during the day. A cold front
+moves across the region late this evening.
+
+IFR to LIFR conditions early this morning are expected to
+quickly improve to VFR 13Z to 14Z, earliest across northeastern
+New Jersey and the NYC terminals. VFR then remains through the
+forecast period. A few light showers are possible this morning
+at the NYC metro terminals with no impacts to conditions. The
+chance for thunderstorms late this afternoon into this evening
+have diminished, and may be widely scattered. However, 
+continued with the PROB30. Best chance will be at KSWF, and 
+changed over to TEMPO.
+
+South winds this morning increase to 10-15kt with some gusts
+17-23kt late morning through the afternoon. With a cold front 
+passage late this evening winds shift to the W/NW, and may 
+become gusty late tonight. Gusts are more likely during the day
+Sunday.
+
+
+   ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Any remaining LIFR to IFR conditions at 12Z quickly improve to
+VFR by 13Z/14Z. A few light showers are possible this morning,
+with no impacts to conditions. Thunderstorm chances for late day
+into the evening have diminished, and continued the PROB30.
+There is a chance that thunder does not occur.
+
+
+.OUTLOOK FOR 12Z SUNDAY THROUGH WEDNESDAY...
+
+Sunday: VFR. Slight chance of showers inland with MVFR 
+possible. W winds G20-30kt.
+
+Monday - Tuesday: VFR. Monday NW winds G20-25kt day into evening.
+
+Wednesday: MVFR or lower with showers likely, a slight chance of
+thunderstorms in the afternoon. E wind gusts 15-20kt.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Fog should begin improving on the Long Island Sound with
+visibilities above 1 nm by 11 am. A marine weather statement
+continues until 11 am. Otherwise, conditions will remain below 
+Small Craft Advisory levels for the most part today. However, 
+some nearshore gusts could reach 25 kt, mainly in the NY Harbor 
+and western LI Sound. 
+
+Winds pick back up on Sunday and a Small Craft Advisory is in effect 
+during the daylight hours. Gusts could reach 25 to 30 kt, with seas 
+over the ocean reaching 4-5 ft. There is potential for the SCA to be 
+extended through Monday as marginal conditions are expected.
+
+Winds and seas remain below advisory levels on all the forecast 
+waters Tuesday into Wednesday. With the approach of a frontal system 
+during Wednesday and easterly flow will be increasing and by late 
+day SCA conditions may develop on the ocean waters. With the 
+increased and persistent east flow into Thursday winds and seas on 
+the ocean waters will likely be at SCA levels. As low pressure 
+tracks northeast of the area Thursday night a northerly flow 
+develops and winds diminish, however, ocean seas are likely to 
+remain elevated into Thursday night.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory from 6 AM to 6 PM EDT Sunday for ANZ331-
+     332-335-338-340-345-350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...MET/JT
+NEAR TERM...DS/JT
+SHORT TERM...JT
+LONG TERM...MET
+AVIATION...MET
+MARINE...MET/JT
+HYDROLOGY...MET/JT

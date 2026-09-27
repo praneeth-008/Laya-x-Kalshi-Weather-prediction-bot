@@ -1,0 +1,234 @@
+180 
+FXUS61 KOKX 032008
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+408 PM EDT Thu Apr 3 2025
+
+.SYNOPSIS...
+A warm front will move across and eventually north of the 
+region into this evening. A cold front then slowly moves 
+through tonight into Friday. The frontal boundary stalls, then 
+returns north as a warm front and pushes through Saturday into 
+Saturday night. The trailing cold front pushes through Sunday, 
+followed by weak low pressure tracking nearby along the boundary
+on Monday. High pressure builds for mid week before pushing 
+offshore by late Thursday.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM FRIDAY MORNING/...
+Warm front expected to move farther north and eventually north 
+of the entire area tonight. A weakening cold front moves in 
+late tonight. This will bring a higher chance and coverage of 
+showers along with a few thunderstorms.
+
+Shower activity minimal thus far late this afternoon. Area 
+starting to get more westerly component to winds. Warmer for 
+western locations compared to eastern locations.
+
+Fog has begun development across eastern sections of the region,
+becoming dense in some locations. SPS out for patchy dense fog
+into early this evening for Southeast CT and Suffolk County Long
+Island.
+
+For tonight, expecting SW winds to decrease with a cold front
+moving in. This cold front is weakening as it moves in as parent
+low pressure fills in across Southeast Canada.
+
+Expecting the fog to linger around especially across Southern CT
+and Long Island. In addition, while the frontal forcing is weak,
+mid level positive vorticity advection with smaller embedded
+shortwave moves in. Upper level jet streak also moves north of
+the area with its right rear quad getting close to the region
+late tonight. This will enhance lift and with some ambient low 
+level instability, a few thunderstorms will be possible.
+
+The convective coverage this evening is isolated to scattered at
+most with convection being mostly south of Long Island where
+greater instability will be located. The chances for showers
+expand across the entire region late tonight, becoming likely, 
+with a slight chance of thunderstorms as well. Lows will not 
+have a wide range, just upper 40s to mid 50s. 
+
+Some drier air behind the cold front will allow for fog to
+become less expansive by early Friday. The rain increasing will
+also help mix out the low levels, allowing for fog to breakup.
+
+&&
+
+.SHORT TERM /6 AM FRIDAY MORNING THROUGH FRIDAY NIGHT/...
+With slight ridging aloft and upper jet staying north of the
+area, the weak cold front moving through will slow down south of
+the region. Not much steering flow.
+
+Rain showers chances decrease Friday morning with drier air
+coming in on a NW flow. With weakening pressure gradient, do not
+expect much in the way of gusty winds. Some gusts near 15 to 20
+mph along coast. High temperatures a blend of MAV and MET MOS, 
+mainly in the low to mid 60s. Clouds overcast to start with some
+more breaks of sun for afternoon.
+
+Friday night, increasing clouds from west to east as frontal
+boundary to the south moves north as a warm front. Might even
+have some light rain developing with isentropic lift late
+heading into early Saturday morning. However, expecting much of
+the night to be dry. 
+
+Some radiational cooling with light winds Friday evening before
+clouds increase, so have lows ranging from upper 30s to upper
+40s.
+
+&&
+
+.LONG TERM /SATURDAY THROUGH THURSDAY/...
+An Atlantic seaboard and Western Atlantic ridge will give way to a 
+longwave trough during the period. Weak shortwave energy along with 
+a warm front, then a cold front along with a wave of low pressure 
+should bring rounds of unsettled weather for much of the weekend. As 
+the longwave trough sets up in the east, shortwave energy may impact 
+the area on Monday, and maybe towards the tail end of the period 
+late Thursday, at least according to the GFS and the EC-AIFS. Other 
+NWP guidance suggests it remains dry through the day Thursday.
+
+A warm front should lift northeast and through the region to begin 
+the weekend. The timing of the warm front passing through remains in 
+question, but model consensus is suggestive that the warm front 
+lifts through Saturday night. Ahead of the warm front look for light 
+rain, with perhaps a few moderate bouts during the day. As the warm 
+front presses in look for a higher probability of fog across the 
+region with some possible reduced visibilities into the day and 
+early evening. The area should get into the warm sector, albeit 
+briefly late Saturday night and into Sunday morning with a warmer 
+WSW flow regime. The cold front will then push through sometime 
+Sunday afternoon / early evening. The winds will turn to the W, then 
+NW for Sunday night. The question is how far south does the cold 
+frontal boundary get late Sunday and Sunday night. NWP consensus has 
+the front remaining close enough to the region that the next impulse 
+moves up along the boundary in response to shortwave energy, and 
+higher PoPs coming back in for at least late in the day Sunday and 
+Sunday night. During Monday the boundary is progged to get just off 
+the coast, with PoPs for now confined to mainly eastern portions of 
+the area.
+
+With the upper level trough pivoting through and some instability 
+and a cold pool aloft have kept low end chance minimal PoPs for 
+Monday night into Tuesday. A rather chilly Canadian based cP air 
+mass will build for the mid week. Temperatures are expected to get 
+below normal Tuesday night into Wednesday. Wind chill readings by 
+late Tuesday night / early Wednesday morning may get down into 20s 
+region wide with actual air temperatures near or below freezing 
+across the entire area. Temperatures during the day Wednesday will 
+struggle to get out of the 40s despite April sun. Another chilly 
+wake up is anticipated for Thursday with the high settling over the 
+area and a good radiational cooling set up anticipated. The high 
+should then start to get further east on Thursday with a return flow 
+setting up at the tail end of the period. 
+
+&&
+
+.AVIATION /20Z THURSDAY THROUGH TUESDAY/...
+A warm front will lift to the north this afternoon. A cold front 
+will move across late tonight. 
+
+The NYC metros and KSWF have all improved to VFR for the time being, 
+and KHPN to MVFR, while  the Long Island/CT terminals remain 
+IFR/LIFR and should remain that way past midnight. Showers are 
+likely late tonight into early Fri morning with MVFR cond across the 
+board.
+
+Winds S-SW 15G20-25kt expected this afternoon at KISP and also at 
+KEWR/KTEB/KSWF, and only 5-10 kt elsewhere. Winds diminish slightly 
+going into this evening, then shift NW 5-10 kt with cold fropa late 
+tonight and increase to either side of 10 kt Fri morning. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+AMD likely for flight cat or winds deviating from fcst. Peak gusts 
+to 30 kt possible at KEWR/KTEB this afternoon. 
+
+.OUTLOOK FOR 18Z FRIDAY THROUGH MONDAY...
+
+Friday: Chance of showers with MVFR cond, especially in the morning 
+along the coast, otherwise VFR. 
+
+Saturday: Showers likely. MVFR to IFR expected in the afternoon and 
+at night. SE winds G15-20kt. 
+
+Sunday: Chance of showers. Any IFR cond early should become MVFR. 
+SW winds G15-20kt. 
+
+Monday: Chance of showers with MVFR/IFR cond possible.
+
+Tuesday: VFR. WNW winds G20-25kt. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+The warm front lifts north of the waters into this evening.
+Marine dense fog for waters surrounding Suffolk County NY, 
+could potentially get into western waters tonight as well. Small
+craft advisories remain and have been extended in time for the
+ocean zones. Winds forecast to lessen this evening, keeping SCA
+conditions just mainly on the ocean after 8PM. The SCA 
+conditions stay on the ocean through all of tonight due to
+mainly ocean seas.
+
+Winds trend down eventually below SCA levels tonight and remain
+below SCA levels Friday through Friday night. Ocean SCA seas 
+still expected into Friday, with Sandy Hook NJ to Fire Island
+Inlet ending at 10AM, Fire Island Inlet to Moriches Inlet ending
+at 2PM and Moriches Inlet to Montauk Point ending at 4PM. The
+southerly wave component on the ocean has trended longer with
+duration of SCA seas with both NWPS and Wavewatch, prompting the
+further increase in SCAs. All waters below SCA levels Friday
+night.
+
+Sub advisory conditions should prevail for the most part through 
+Saturday night. On Sunday a S to SW flow strengthens ahead of a cold 
+front with small craft conditions prevailing on the ocean, with 
+marginal small craft conditions possible on the ocean and only 
+for the eastern and south shore bays of LI. Elevated seas are 
+likely to continue much of the ocean through at least Monday 
+night. Behind a cold front Tuesday look for small craft 
+conditions to continue on the ocean, and to develop on the non- 
+ocean waters with a WNW wind increasing. A period of gales 
+cannot be ruled out later Tuesday and Tuesday night.
+
+&&
+
+.HYDROLOGY...
+Minor flooding possible late tonight into early Friday for 
+western coastal sections around NYC Metro with any heavy 
+showers and thunderstorms. Otherwise, no hydrological impacts 
+are anticipated through the period.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Dense Fog Advisory until 6 AM EDT Friday for ANZ331-332-340-
+     345-350-353.
+     Small Craft Advisory until 8 PM EDT this evening for ANZ331-
+     332-335-338-340-345.
+     Small Craft Advisory until 4 PM EDT Friday for ANZ350.
+     Small Craft Advisory until 2 PM EDT Friday for ANZ353.
+     Small Craft Advisory until 10 AM EDT Friday for ANZ355.
+
+&&
+
+$$
+
+SYNOPSIS...JE/JM
+NEAR TERM...JM
+SHORT TERM...JM
+LONG TERM...JE
+AVIATION...BG
+MARINE...JE/JM
+HYDROLOGY...JE/JM

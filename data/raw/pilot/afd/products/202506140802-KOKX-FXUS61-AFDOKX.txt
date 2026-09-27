@@ -1,0 +1,187 @@
+565 
+FXUS61 KOKX 140802
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+402 AM EDT Sat Jun 14 2025
+
+.SYNOPSIS...
+A frontal wave will pass to the south today. High pressure builds in 
+from the northeast tonight into Sunday. Weak high pressure will then 
+remain in place through at least Monday. A nearly stationary 
+front remains Tuesday with a wave of low pressure affecting the 
+region. The front moves north as a warm front Tuesday night, 
+passing north during Wednesday. A cold front moves through the 
+region Thursday night. High pressure builds in Friday.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+A frontal wave passes to the south today and will bring cloudy and 
+wet conditions to the area. Showers are already ongoing and coverage 
+is expected to increase heading into the morning hours. Moisture 
+increases as the frontal boundary slowly drifts closer to the area, 
+with pwat values expected to reach just below 2 inches. This 
+moisture combined with lift provided by the right rear quadrant of 
+an upper level jet and some subtle disturbances moving through a 
+mostly zonal 500mb flow will continue to result in showers. No 
+thunderstorms are expected given only limited and shallow MUCAPE. 
+However, a rumble of thunder can not be completely ruled out. 
+Although thunder is not expected, there could be some low topped 
+convective activity that can produce heavy downpours given the 
+anomalously high moisture. At this time no hydrologic impacts are 
+expected. The steadier and heavier rain will likely be in the 
+morning hours. In the afternoon, coverage and intensity are expected 
+to decrease. Totals are about half an inch for NYC, northeast NJ and 
+Long Island with 0.25 to 0.50 inches for the Lower Hudson Valley and 
+southern CT. Locally higher amounts up to an inch are possible.
+
+The frontal wave will pull the boundary farther offshore tonight and 
+high pressure will start nosing in from the northeast. As drier air 
+filters in, PoPs decrease, but still remain slight chance/chance 
+through the night.
+
+NBM was followed for temperatures giving highs in the 60s and lows 
+in the 50s.
+
+&&
+
+.SHORT TERM /SUNDAY THROUGH MONDAY NIGHT/...
+High pressure continues to build in from the northeast on Sunday. 
+PoPs continue to decrease with a dry day expected for the most part, 
+especially for eastern Long Island and eastern CT. Confidence in 
+also increasing in some breaks of sun for these eastern areas and 
+have lowered sky cover just a bit. Given this, also upped 
+temperatures a few degrees in these areas. Otherwise NBM was 
+followed for temps through this time period.
+
+&&
+
+.LONG TERM /TUESDAY THROUGH FRIDAY/...
+A nearly stationary front remains south of the region Tuesday as 
+another wave of low pressure moves along the boundary with a chance 
+of showers by late day. With the approach of a trough and surface 
+low moving through the upper Midwest and into southern Canada 
+Tuesday night into Wednesday, the front is expected to beginning 
+moving to the north as a warm front, and likely pass to the north 
+during Wednesday. A cold front approaching during Thursday and 
+passes through the area Thursday night. While there will be slight 
+to chance probabilities of rainfall Tuesday into Wednesday night, 
+the best chances for rainfall will be with the cold front 
+approaching during the day Thursday, and currently forecast to pass 
+through the region Thursday night. Precipitable water values 
+increase to around 1.75 inches, and there will be surface based and 
+elevated CAPE in place. With a warm and unstable airmass ahead of 
+the front, there is the potential for thunderstorms, some of which 
+may produce briefly heavy rainfall.
+At this time the storms will be moving rather quickly, and training 
+is not expected, so hydrologic impacts are not expected. An 
+amplifying ridge across the central United States Thursday night 
+approaches for Friday and into the beginning of next weekend. With 
+no targets of opportunity have used the deterministic NBM through 
+the extended period.
+
+&&
+
+.AVIATION /08Z SATURDAY THROUGH WEDNESDAY/...
+A stationary front remains south of the area, across the Mid 
+Atlantic region and well south of Long Island as a weak low moves 
+along the boundary through today. The front may move farther to the 
+south, with low pressure exiting, this evening into tonight. High 
+pressure builds into the region from the northeast late tonight.
+
+Low to moderate confidence forecast with the timing of flight 
+category changes into this morning, and for timing of showers.
+
+VFR through most of the overnight with a chance of showers, and MVFR 
+conditions late, and toward sunrise. Showers and IFR conditions 
+become more likely early this morning. There is a  chance that 
+northern terminals remain MVFR. Showers are expected to become much 
+more widely scattered by 20Z so there may be some improvements back 
+up to MVFR briefly into the late afternoon with IFR becoming 
+possible again after 00Z Sunday, especially near the coast.
+
+E winds less than 10kt become more NE this morning, and increase to 
+10-14kt. NE winds continue into this evening around 10kt.
+
+
+    NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Amendments likely through this morning for timing of changing flight 
+categories.
+
+.OUTLOOK FOR 06Z SUNDAY THROUGH WEDNESDAY... 
+
+Late tonight: Lowering chances of showers. MVFR to IFR likely.
+
+Sunday - Monday: Slight chance of showers, mainly from the New York 
+City terminals and west, with MVFR to IFR possible at times. 
+Otherwise VFR.
+
+Tuesday: Mainly VFR, slight chance of showers late day into the 
+night, with a chance of MVFR to IFR.
+
+Wednesday: Mostly VFR. A chance of showers and thunderstorms with a 
+period of sub-VFR.
+
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+An easterly wind will bring waves to 5 ft on the ocean waters.
+Stuck closer to WaveWatch as NWPS seemed a bit low given a
+sustained wind at 15-20 kt for several hours. A Small Craft
+Advisory has been issued for tonight. Otherwise, sub SCA
+conditions expected through Monday night.
+
+Winds and seas remain below SCA levels across the forecast waters 
+Tuesday through Thursday. With the approach of a cold front 
+Thursday, passing through the waters Thursday night, southwest to 
+west winds will be increasing. By later Thursday night wind gusts on 
+the ocean waters east of Fire Island Inlet  may approach SCA levels, 
+and ocean seas may build to near 5 feet.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts expected Tuesday through the end of the
+week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+Sticking with moderate risk of rip currents for ocean beaches today. 
+Some uncertainty in exact strength and direction of winds which in 
+turn will affect wave heights and direction. If winds end up more 
+northerly than forecast, the rip current activity will likely be 
+lower and the risk may be updated during the day.
+
+Winds will be more easterly on Sunday an around 10 kt. An E wave 
+component around 4 ft at 6s will result in a low risk of rip current 
+activity.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory from 6 PM this evening to 6 AM EDT Sunday 
+     for ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...MET/JT
+NEAR TERM...JT
+SHORT TERM...JT
+LONG TERM...MET
+AVIATION...MET
+MARINE...MET/JT
+HYDROLOGY...MET/JT
+TIDES/COASTAL FLOODING...JT

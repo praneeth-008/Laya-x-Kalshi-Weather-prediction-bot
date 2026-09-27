@@ -1,0 +1,30 @@
+[
+  {
+    "station_id": "725053-94728",
+    "icao": "KNYC",
+    "total_rows_in_pilot_window": 7657,
+    "real_observation_rows": 7413,
+    "status": "DONE"
+  },
+  {
+    "station_id": "725030-14732",
+    "icao": "KLGA",
+    "total_rows_in_pilot_window": 8756,
+    "real_observation_rows": 8512,
+    "status": "DONE"
+  },
+  {
+    "station_id": "744860-94789",
+    "icao": "KJFK",
+    "total_rows_in_pilot_window": 8659,
+    "real_observation_rows": 8415,
+    "status": "DONE"
+  },
+  {
+    "station_id": "725020-14734",
+    "icao": "KEWR",
+    "total_rows_in_pilot_window": 8533,
+    "real_observation_rows": 8292,
+    "status": "DONE"
+  }
+]

@@ -1,0 +1,186 @@
+679 
+FXUS61 KOKX 301445
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1045 AM EDT Wed Apr 30 2025
+
+.SYNOPSIS...
+High pressure will be in control through Thursday. A warm front 
+approaches Thursday night and lifts through the region on
+Friday. A cold front then passes through the region Saturday 
+into Saturday night, with a wave of low pressure developing 
+along it as does so. High pressure then attempts to build in 
+from the north and west into early next week, while an upper low
+meanders nearby.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Forecast on track this morning. The cold front has moved east of
+the region any any light rain showers have ended. 
+
+High pressure will build in from the NW for the rest of the day
+and through tonight. Still somewhat breezy through at least 
+early afternoon before winds become lighter later today. A dry 
+NW flow will promote above-normal temperatures with some 
+compressional heating via downsloping, and for south-facing 
+coasts, winds should be strong enough to prevent sea breezes 
+pushing in during the day. Leaned more toward the NBM 50th 
+percentile, which is warmer than the deterministic NBM given the
+temperatures at the top of the mixed layer. See the fire 
+weather section below for potential impacts of the dry and 
+breezy conditions.
+
+The surface ridge axis moves into the forecast area tonight with 
+winds continuing to weaken. Strong radiational cooling conditions 
+should therefore develop in the usual spots as winds become calm and 
+cirrus probably holds off through the night. NBM as usual looks too 
+warm for these areas, so instead blended MET and MAV MOS. This 
+results in lows in the mid-upper 30s well NW of city and in parts of 
+the LI Pine Barrens Region, however no frost concerns at this time.
+
+&&
+
+.SHORT TERM /THURSDAY THROUGH FRIDAY NIGHT/...
+Surface ridge axis will be over or just to our east through the day 
+on Thursday with still some slight ridging aloft. This will keep us 
+dry through the daytime hours. High temperatures near normal.
+
+Surface low pressure shifts NE through the Great Lakes Region during 
+Thursday night. A leading warm front is progged to reach our 
+doorstep by daybreak Friday. Increased moisture with 850mb theta-e 
+advection and isentropic lift bring chances (40-50%) of light 
+rain/drizzle/showers during the night.
+
+The warm front lifts north through the area on Friday with mainly 
+afternoon and nighttime showers and thunderstorms possible as a cold 
+front approaches. While strong thunderstorms will be possible for 
+roughly the western half of the forecast area based on progged CAPE 
+and shear profiles in the afternoon and evening, severe storms are 
+not anticipated at this time. No flooding impacts are expected 
+either. NBM looked good for high temps, but adjusted downward in 
+some spots with a southerly flow expected off the waters.
+
+&&
+
+.LONG TERM /SATURDAY THROUGH TUESDAY/...
+An unsettled start (at least) to the long term as a cold front works 
+east through the region Saturday. Guidance still indicates frontal 
+wave development along the nearby boundary, likely enhancing 
+rainfall and leading to periods of showers much of the day. Can't 
+rule out a few thunderstorms as well, though instability appears 
+relatively low and severe weather is not expected.
+
+Thereafter, wildly diverging solutions amongst global guidance 
+continues to lead to considerable uncertainty and low confidence 
+into next week. One camp, which includes the GFS/GEFS, has a less 
+amplified, more progressive trough that advances far enough east 
+before closing off into an upper low near the Canadian Maritimes. 
+This allows high pressure to build in locally and dries the region 
+out. Meanwhile, EPS and GEPS members largely have a sharper, slower 
+trough that closes off to our west, meandering within the Eastern 
+CONUS for several days and leading to a much more dreary and wet 
+outlook. The 00Z ECM, for example, advertises a washout, producing 4 
+to 5 inches of rainfall across portions of the local Tri State thru 
+Monday, with more beyond that as the system lingers thru mid next 
+week. The same run of the GFS yields barely a half inch, all with 
+the frontal wave on Saturday. With this large spread, used the 
+national blend for PoPs, yielding chance (25-40%) Sunday and beyond. 
+The associated energy is just moving onshore western Canada, and 
+additional sampling over the next day or so should help resolve the 
+solution.
+
+Given the potential for these persistent unsettled conditions, 
+temperatures will be highly dependent on the synoptic outcome and 
+have stayed close to consensus with this update.
+
+&&
+
+.AVIATION /15Z WEDNESDAY THROUGH SUNDAY/...
+A cold front tracking through the region pushes offshore late
+this morning. High pressure builds in thereafter from the north
+and west. 
+
+VFR thru the TAF period. 
+
+Winds will be NE near 15 kt with gusts around 20 to 25 kt 
+expected through this afternoon. Gusts diminish early this 
+evening across the region, with decreasing flow veering 
+northerly toward daybreak Thursday, then SE by Thursday 
+afternoon.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Timing of gust onset/cessation may be off by an hour or two.
+
+.OUTLOOK FOR 12Z THURSDAY THROUGH SUNDAY...
+
+Thursday: VFR. 
+
+Thursday night: Chance of showers after midnight with MVFR cond 
+possible. 
+
+Friday: Chance showers/tstms with MVFR or lower cond from mid 
+afternoon into the night. S winds G20kt at the NYC metros and along 
+the coast. 
+
+Saturday: Showers likely and possibly a tstm with MVFR or lower cond 
+expected. 
+
+Sunday: Chance of showers with MVFR cond likely. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+SCA remains only on the ocean waters at this point, and this will be 
+due mainly to residual elevated wave heights. Sub-advisory 
+conditions by late afternoon, continuing through Friday morning. 
+With southerly winds increasing Friday afternoon, expecting a return 
+to SCA conditions at least on the ocean and possibly on some of the 
+other waters as well. 
+
+Ocean seas may linger near 5 ft thru late Saturday before lowering. 
+Sub SCA conditions then expected on all waters early next week.
+
+&&
+
+.FIRE WEATHER...
+NW winds pick up and will likely gust to around 25 mph at times 
+through early afternoon. Winds then likely to diminish thereafter. 
+Minimum RH levels are expected to be 20 to 30 percent, resulting in 
+an elevated risk of fire spread. Special Weather Statements have 
+been collaborated with state agencies and remain posted for all of 
+our NY, NJ, and CT zones today.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through the forecast period.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 2 PM EDT this afternoon for ANZ350-
+     353.
+     Small Craft Advisory until 11 AM EDT this morning for ANZ355.
+
+&&
+
+$$
+
+SYNOPSIS...JC/DR
+NEAR TERM...BC/JC
+SHORT TERM...JC
+LONG TERM...DR
+AVIATION...JM/DR
+MARINE...JC/DR
+FIRE WEATHER...
+HYDROLOGY...JC/DR

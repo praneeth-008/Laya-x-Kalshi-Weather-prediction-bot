@@ -1,0 +1,229 @@
+856 
+FXUS61 KOKX 191926
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+326 PM EDT Thu Jun 19 2025
+
+.SYNOPSIS...
+A cold front approaches this evening and moves across the area
+tonight. High pressure then builds in from the south and west 
+on Friday into Saturday as weak surface troughs pass across the 
+area. Sprawling high pressure settles south and east of the 
+region early to mid next week.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM FRIDAY MORNING/...
+Key Messages...
+
+* Severe Thunderstorm Watch remains in effect Until 9 pm for 
+  NYC metro, NE NJ, Lower Hudson Valley, Western Long Island, 
+  and much of Southern Connecticut. 
+
+* The main threat severe threat will be from damaging wind gusts
+  in excess of 58 mph. 
+
+* The severe thunderstorm threat ends by 9 pm, but a few
+  showers/storms remain possible until about 1 am.
+
+Scattered thunderstorms have developed this afternoon across NE
+NJ, NYC metro, Lower Hudson Valley, and SW CT. These storms have
+largely been in association with areas of enhanced surface
+convergence. The main upper level forcing in the form of an
+approaching shortwave arrives late afternoon/early evening. This
+should help develop more convection and organize it into a few
+line segments or clusters. MLCAPE 1500-2000 J/kg and strong 
+effective bulk shear 35-40 kt will help with storm organization.
+The main threat will be from damaging wind gusts in excess of 
+58 mph. The shear is unidirectional, but an isolated tornado 
+risk exists from outflow and mesoscale boundary collisions that 
+could enhance directional shear briefly. An isolated hail threat
+also exists. 
+
+The convection will then move eastward early this evening and 
+weaken across Long Island and southeast Connecticut as it 
+encounters a stabilizing low level environment from a stronger 
+marine influence.
+
+Any thunderstorm may produce frequent cloud-to-ground lightning
+along with locally heavy rainfall. The mid level flow is fast
+enough to preclude any significant flood threat, but minor
+urban/poor drainage flooding is a possibility with a localized
+flash flood threat in more urban areas.
+
+The cold front passes east of the area late tonight/early Friday
+morning. Dew points should decrease a bit, but it will still be
+muggy overnight. Lows will be in the lower to middle 60s. No fog
+is expected as the SW flow becomes W overnight. 
+
+&&
+
+.SHORT TERM /6 AM FRIDAY MORNING THROUGH SATURDAY/...
+Upper trough axis swings across New England Friday morning
+leaving behind a NW flow aloft. Heights are progged to rise a
+bit through the afternoon. There will also likely be some weak
+shortwaves in the flow. Surface high pressure builds in from the
+south and west. A weak surface trough may push through late in
+the day. Think most of the area will remain dry with a modest
+westerly flow. The aforementioned shortwaves could develop an
+isolated shower across Orange County with any organized 
+activity remaining off to our NW. High temperatures will not be 
+as hot as observed on Thursday with highs in the lower to middle
+80s. These readings are still a few degrees above normal for 
+the first day of summer. Heat indices will be close to actual 
+air temperatures due dew points in the upper 50s and low 60s. It
+is possible dew points mix out a bit more than indicated given 
+the predominately westerly flow. 
+
+A similar flow pattern remains Friday night into Saturday with 
+height rises continuing across the northeast as deep ridging
+builds towards the area. There may still be some weak shortwaves
+that traverse around the periphery of the building ridge, which
+could move nearby or just north of the area. Have mainly left
+the forecast dry Friday night through Saturday. Temperatures
+begin to trend upward on Saturday with highs int he middle to
+upper 80s, with around 90 across portions of NE NJ. Heat indices
+may end up a few degrees above the actual air temperatures as
+dew points start to rise compared to Friday. 
+
+&&
+
+.LONG TERM /SATURDAY NIGHT THROUGH THURSDAY/...
+Key Messages...
+
+*Increasing confidence in hot and humid conditions Sunday into
+ early next week*
+
+Building heights late this weekend as strong ridging shifts overhead 
+and amplifies into early next week, setting up an early season 
+heat spell across the region.
+
+Global guidance still suggestive of a shortwave attempting to ride 
+over the developing ridge Saturday night and into early Sunday, but 
+less agreement on placement of this feature, so lower confidence in 
+any precipitation potential during this time. Regardless, a true 
+summertime hot and humid regime looks to develop early next week as 
+higher heights and thicknesses build across the region. The warm up 
+is expected to begin to build by late Sunday, especially for western 
+and southwestern most areas, likely peaking Monday and Tuesday. 
+National blended guidance yields afternoon air temperatures in the 
+upper 80s to low 90s for most Sunday, with mid 90s possible in the 
+urban NJ corridor. Highs on Mon/Tue may approach or exceed triple 
+digits into NE NJ, with mid 90s possible elsewhere away from the 
+coast. Factoring in the humidity, dew pts progged into the 60s, and 
+heat indices could exceed 100F at times. With these values, heat 
+headlines may be needed for at least portions of the area.
+
+By mid to late next week, should the ridge break down enough, the 
+chance of diurnally driven convection would increase and could 
+introduce some chance of late day and early evening showers and t-
+storms.
+
+&&
+
+.AVIATION /20Z THURSDAY THROUGH TUESDAY/...
+A cold front moves across tonight. Western Atlantic high 
+pressure then builds late tonight into Friday.
+
+Showers and thunderstorms expected for some terminals initially this 
+afternoon with most coverage within the 20-00Z timeframe. Lowering 
+chances thereafter for the rest of this evening. Then, mainly dry 
+overnight through Friday. 
+
+Mainly VFR conditions through the TAF period except for within 
+thunderstorms where brief MVFR to IFR is possible. Possible 
+MVFR to IFR for some time late tonight at KGON.
+
+Winds are S-SW near 10-15 kt with gusts near 20 kt through this 
+evening and then winds become more westerly late tonight without 
+much change in speed. Still potential for near 20 kt gusts 
+overnight. Winds pick up from the west Friday near 15-20 kt with 
+gusts near 25 kt.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Amendments likely for thunderstorm timing before 00Z.
+
+Strong gusts near 35-50 kt possible with some thunderstorms.
+
+Brief IFR to MVFR potential with thunderstorms.
+
+.OUTLOOK FOR 00Z FRIDAY THROUGH MONDAY... 
+
+Friday: VFR. W wind gusts near 20-25 kt. Gusts subside at night.
+
+Saturday through Tuesday: Mainly VFR. SW wind gusts 15-20 kt 
+for Sunday.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Scattered thunderstorms are possible into early evening. A few 
+severe thunderstorms are possible over the Harbor, Western LI 
+Sound, and ocean west of Fire Island Inlet. Wind gusts in excess
+of 34 kt, some hail, and frequent lighting are possible. 
+Further east, thunderstorms will likely be weaker, but could 
+still produce gusty winds. 
+
+Near shore gusts could reach 25 kt into this evening with an SCA
+remaining in effect. Ocean seas will also build to around 5 ft
+on the ocean. Have extended the SCA west of Fire Island Inlet
+until 6 am. The SCA east of there continues into Friday as seas
+slowly diminish below 5 ft. Wind gusts on Friday are marginal
+and could come close to 25 kt. Otherwise, winds and seas should
+remain below SCA levels Friday night into Saturday and continue
+below criteria through early next week. 
+
+&&
+
+.HYDROLOGY...
+Localized flash flooding cannot be ruled out this afternoon and
+evening in any thunderstorm. The quicker storm motion will 
+limit the flash flood threat. Otherwise, minor urban flooding is
+the main threat. 
+
+There are currently no hydrologic concerns Friday through early
+next week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+A high rip current risk remains for the NYC and Nassau ocean 
+beaches with strong S-SW onshore flow and building waves.
+
+The rip current risk on Friday is moderate with lingering 4-5 ft
+seas on a 7s wave period. The risk may end up increasing to high
+for the Suffolk beaches if seas are slightly higher than
+currently expected.  
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Air Quality Alert until 11 PM EDT this evening for CTZ005>007-
+     009>011.
+NY...High Risk for Rip Currents until 9 PM EDT this evening for NYZ075-
+     178-179.
+NJ...None.
+MARINE...Small Craft Advisory until 11 PM EDT this evening for ANZ331-
+     332-335-338-340-345.
+     Small Craft Advisory until 8 PM EDT Friday for ANZ350.
+     Small Craft Advisory until 2 PM EDT Friday for ANZ353.
+     Small Craft Advisory until 6 AM EDT Friday for ANZ355.
+
+&&
+
+$$
+
+SYNOPSIS...DR/DS
+NEAR TERM...DS
+SHORT TERM...DS
+LONG TERM...DR
+AVIATION...JM
+MARINE...DR/DS
+HYDROLOGY...DR/DS
+TIDES/COASTAL FLOODING...

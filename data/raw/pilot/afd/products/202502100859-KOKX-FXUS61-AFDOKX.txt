@@ -1,0 +1,168 @@
+670 
+FXUS61 KOKX 100859
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+359 AM EST Mon Feb 10 2025
+
+.SYNOPSIS...
+High pressure builds over the region through tonight, and moves 
+offshore early Tuesday. A series of lows will then impact the 
+area Tuesday night through the weekend.
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+A Special Weather Statement remains in effect for the
+possibility of icy conditions on area roadways through this
+morning's commute.
+
+Tranquil weather is expected today as high pressure builds in 
+slowly from the west. Mid and high clouds across the region this
+morning will move east in the near zonal flow, with a drier 
+airmass moving in. Lower levels will remain moist with strato 
+cu developing. A cold airmass and the snowpack will keep 
+temperatures a few degrees below normal. 
+
+&&
+
+.SHORT TERM /6 PM THIS EVENING THROUGH TUESDAY NIGHT/...
+Tonight the high moves overhead, and then offshore early Tuesday
+morning. With winds becoming light and skies nearly clear,
+especially early, as high clouds move in toward Tuesday
+morning, and the snowpack will allow temperatures to fall into 
+the teens across the interior and the normally colder areas of 
+Long Island.
+
+Tuesday the high continues to move off the northeast coast and a
+weak wave of low pressure approaches from the southwest. Another
+high builds across southern Canada. The low tracks well to the
+south Tuesday night with a period of light snow across the
+region Tuesday night. Little to no snow will fall across the
+northern areas, with the highest snow totals across the New York
+City metro and Long Island where around 2 inches of snow is
+possible. The strength of the high will determine the track of
+the low and a slightly farther north track will result in a
+little more snow along the coast. The system will be relatively
+quick moving as nearly zonal flow persists.
+
+&&
+
+.LONG TERM /WEDNESDAY THROUGH SUNDAY/...
+Not much change to the forecast in the long term. Stuck fairly close 
+to NBM/previous forecast. 
+
+Low pressure passing south of the region departs early 
+Wednesday morning. Any light snow comes to an end early. 
+
+Surface high pressure builds slightly to our northeast during 
+Wednesday with upper confluence. Surface ridging should be 
+strong enough to hold off any precipitation through the daytime 
+hours, however, will continue to leave a slight chance of snow 
+for some areas. Precip is then expected Wednesday night and 
+Thursday with a familiar pattern of primary low pressure passing
+to our NW while a weaker secondary low shifts nearby or through
+the forecast area. This would send an elevated warm nose 
+through, changing snow to a wintry mix Wednesday night before an
+eventual changeover to rain on Thursday as enough warm air 
+pushes in. Right now it appears that snow/sleet accumulations 
+would be on the light side before the changeover to rain. Can't 
+rule out a little freezing rain north and west of the city 
+either.
+
+Colder air filters back in from the NW Thursday night as high 
+pressure builds back in behind the departing storm. Dry weather 
+will be likely for this period as models have trended faster 
+with the storm. Dry weather then remains for Friday and Friday 
+night with high pressure in control. Another storm then likely 
+brings a wintry mix possibly by the end of the day Saturday, but
+more likely Saturday night and Sunday. Not so sure that this 
+will be another case of a primary/secondary low center bringing 
+in a warm nose aloft, so kept precip types simplified to rain, 
+snow or a mix of the two.
+
+&&
+
+.AVIATION /09Z MONDAY THROUGH FRIDAY/...
+High pressure builds in from the west today.
+
+Any lingering low end VFR stratus (around 4 kft) scatters out 
+by daybreak, mainly north and west of the NYC terminals. VFR 
+expected through the TAF period.
+
+W/NW winds less than 10 kt early this morning become purely NW after 
+daybreak, increasing to 10-12 kt with some gusts 15-20 kt developing 
+late morning into early afternoon. Winds diminish early Monday 
+evening with high pressure building in from the west. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Amendments possible for timing of gusts which could be 1-2 hours 
+different from TAF. Gusts Monday afternoon may very well just be 
+intermittent.
+
+.OUTLOOK FOR 06Z TUESDAY THROUGH FRIDAY... 
+
+Late Monday Night: VFR.
+
+Tuesday: Mainly VFR during the day. Increasing chance of snow 
+at night, eventually becoming likely, mainly at the coastal 
+terminals. IFR/LIFR conditions possible.
+
+Wednesday: Chance of snow with IFR/MVFR early. Brief return to
+VFR possible. However, another chance of snow/wintry mix with 
+IFR to MVFR at night. E gusts 15-20 kt afternoon and at night 
+along coast.
+
+Thursday: MVFR/IFR in a wintry mix to rain mainly during the day. NW 
+wind gusts 15-20 kt developing at night.
+
+Friday: VFR. NW wind gusts 15-20 kt during the day.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+With a weak pressure gradient force across the waters today
+through Tuesday night winds and seas will remain below advisory
+levels across the forecast waters.
+
+An easterly flow on the area waters may result in some marginal
+small craft conditions on the ocean waters Wednesday. 
+
+A better chance of small craft conditions occurs Wednesday night 
+into Thursday morning as low pressure passes over the area waters. 
+Advisory-level gusts anticipated on all waters during this period. 
+Winds then shift offshore Thursday afternoon after a brief lull 
+before increasing once again Thursday night with SCA conditions 
+probable on all waters. Winds weaken on Friday with advisory 
+conditions remaining mostly on the ocean waters. Another round of 
+SCA conditions are expected over the weekend.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through the forecast period.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...BC/MET
+NEAR TERM...MET
+SHORT TERM...MET
+LONG TERM...BC
+AVIATION...BC
+MARINE...BC/MET
+HYDROLOGY...BC/MET

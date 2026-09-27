@@ -1,0 +1,146 @@
+589 
+FXUS61 KOKX 211219
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+719 AM EST Tue Jan 21 2025
+
+.SYNOPSIS...
+High pressure will gradually build in from the west through 
+midweek. The high will move over the local region Wednesday 
+night and then offshore on Thursday. A low pressure system then 
+travels offshore Thursday night into early Friday. High pressure
+returns thereafter into Saturday and then moves offshore 
+Saturday night into Sunday. Low pressure approaches Sunday night
+into next Monday with an accompanying cold front moving across.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Forecast generally on track this morning with just some minor
+adjustments to current temperatures. Otherwise, high pressure 
+over the region will keep conditions mostly dry through the near
+term period. An upper level shortwave will pivot across the 
+region late Tuesday into Tuesday night. This will bring some 
+cloud cover to the region. Expect a mostly cloudy 
+afternoon/evening. As the shortwave exits the region, a few 
+light snow showers or flurries may be possible across far 
+eastern portion of the CWA. POPs will be limited to 20 percent. 
+Sky conditions will gradually clear from west to east, 
+especially towards midnight. This should set up another night of
+decent radiational cooling. Winds will remain rather light, 
+especially north and west of NYC, where the coldest temperatures
+of the night are expected. With respect to temperatures, expect
+highs today to climb into the teens and lower 20s. Tonight lows
+will fall into the single digits and teens. A few of the 
+normally colder spots may see temperatures fall below 0. 
+
+Just like Monday night, In terms of zone averages, wind chill values 
+are expected to remain short of cold weather advisory criteria, 
+which is -10 degrees F or lower for all but LI and the metro NYC, 
+where it is -5 degrees F or lower. Would not be surprised if one or 
+two isolated locations reach criteria, but at this time, we are not 
+expecting these conditions to warrant any headlines.
+
+&&
+
+.SHORT TERM /WEDNESDAY THROUGH THURSDAY NIGHT/...
+High pressure will primarily dominate through the short term with 
+mostly dry and cold conditions. The arctic airmass will remain over 
+the region Wednesday highs only in the teens and lower 20s. However, 
+temperatures will start to moderate a bit on Thursday, as a more W-
+SW flow develops. Highs on Thursday will be range from the middle 
+20s to lower 30s, with a few locations across Long Island possibly 
+getting back above freezing. Overnight lows both nights fall into 
+the single digits and teens, except NYC may see lows in the lower 
+20s Thursday night. 
+
+An area of low pressure passes offshore Thursday night. This is 
+expected to remain far enough offshore but some forecast models show 
+a closer approach, bringing a slight chance of snow along the 
+southeast coastal sections of the local region Thursday afternoon 
+into Thursday night. Once again, will limit POPs to slight chance to 
+account for this.
+
+&&
+
+.LONG TERM /FRIDAY THROUGH MONDAY/...
+Main jet stream will remain south of the region and mid level 
+trough will remain over the Northeast Friday into Friday night. 
+The pattern shifts thereafter to more zonal aloft going into the
+weekend. An upper level shortwave trough approaches next 
+Monday.
+
+At the surface, low pressure approaches from the west next Monday 
+along with an accompanying cold front. There are differences between 
+forecast models in regards to timing and placement of the low 
+pressure and front. This will allow for a another slight chance of 
+snow as wet bulb cooling and thicknesses show more in the way of 
+snow. However, forecast models do not have much moisture associated 
+with the front, with some models keeping the area dry. 
+
+Moderating temperatures for Friday into the weekend, though they 
+will still be well below normal through the first half of the 
+weekend. Temperatures climb above freezing by Sunday for much, if 
+not all of the forecast area. Temperatures slowly cool for the 
+beginning of next week, but only to slightly below normal
+levels.
+
+&&
+
+.AVIATION /12Z TUESDAY THROUGH SATURDAY/...
+VFR as high pressure builds from the west. 
+
+Winds will remain W to NW through the forecast period at 10 kt 
+or less. 
+
+Some mid and high level clouds will be possible this afternoon 
+and evening.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No unscheduled AMD expected. An isolated gusts of 15 to 20 kt 
+is possible today.
+
+.OUTLOOK FOR 12Z WEDNESDAY THROUGH SATURDAY...
+
+Wednesday through Friday: VFR. 
+
+Saturday: VFR. W winds 10-15G20kt NYC metro/coastal terminals. 
+
+Detailed information, including hourly TAF wind component 
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+With high pressure building into the region, expected sub-SCA 
+conditions for much of the week. SCA conditions may return this 
+weekend, generally from late Saturday night into Sunday and 
+mainly for the ocean waters.
+
+&&
+
+.HYDROLOGY...
+No hydrologic issues anticipated.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...BC/JP
+NEAR TERM...BC
+SHORT TERM...BC
+LONG TERM...JP
+AVIATION...BC/JP
+MARINE...BC/JP
+HYDROLOGY...BC/JP

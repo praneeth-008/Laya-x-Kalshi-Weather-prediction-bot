@@ -1,0 +1,166 @@
+467 
+FXUS61 KOKX 041134
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+734 AM EDT Mon Aug 4 2025
+
+.SYNOPSIS...
+High pressure remains in control through next weekend.
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+High pressure remains overhead today with a gradually building
+upper ridge allowing heights to rise today. This will warm the
+mid-levels a bit and result in a slight increase in surface
+temperatures with highs in the upper 80s for most to low 90s for
+some.
+
+In addition, smoke from Canadian wildfires, most pronounced
+north of the area will gradually drift south into the area 
+today. Both vertically integrated smoke and near surface smoke 
+concentrations will increase into Monday afternoon. Model 
+visibilities are not showing much in the way of visibility 
+restrictions. For the time, will mention haze across the area. 
+This will be closely monitored and would not be surprised if 
+state DECs issue air quality alerts. Beyond today, the smoke 
+may lift back to the north due to the aforementioned height 
+rises along the east coast.
+
+&&
+
+.SHORT TERM /6 PM THIS EVENING THROUGH WEDNESDAY NIGHT/...
+Generally tranquil conditions with a remaining dry airmass will
+allow for another relatively cool night with lows in the upper
+50s for interior spots and 60s for most.
+
+Highs on Tuesday will be similar to today, though maybe a degree
+or two cooler. An increase in cloud cover Tuesday night and into
+Wednesday should prevent highs from climbing out of the low to
+middle 80s for Wednesday, though the forecast remains dry. As
+the high pressure strengthens to the north, an increasing
+easterly flow on Wednesday will also increase moisture a bit at
+the surface, though the humidity is not anticipated to get to a
+level to make for oppressive conditions. 
+
+The presence of any smoke will continue to be monitored for 
+Tuesday and Wednesday.
+
+&&
+
+.LONG TERM /THURSDAY THROUGH SUNDAY/...
+***Key Points***
+
+The NBM was largely followed with this update with no major changes. 
+
+Key Points:
+
+* Dry conditions are expected through next weekend with high 
+  pressure in control
+
+* Seasonable temperatures through the period with highs in the 80s. 
+  Humidity levels will creep up a bit, but are not expected to be 
+  excessive during this time frame. 
+
+A decent stretch of sensible weather is in store for the extended as 
+global models and their respective ensembles advertise a building 
+upper ridge and high pressure at the surface much of the period.
+
+&&
+
+.AVIATION /12Z MONDAY THROUGH FRIDAY/...
+High pressure remains over the region through the TAF period.
+
+VFR to start. MVFR vsbys for smoke will be possibly today and 
+could continue into the evening hours, especially across the 
+inland terminals. Will continue to mention smoke in the TAFs, 
+with the 00Z HRRR indicating a higher concentration of smoke 
+moving into the area. If smoke does occur, terminals that get a 
+seabreeze would likely improve back to VFR during the afternoon.
+Also, smoke will likely result in slant range visibility 
+issues. 
+
+Light and variable winds become light northerly in the morning 
+with sea breezes developing midday into the afternoon. Winds
+become light and variable once again tonight.
+
+    NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Wind shift/sea breeze timing may be off by an hour or so Monday.
+
+Uncertainty with how smoke will affect vsbys today with the 
+potential for MVFR, but likely not below that.
+
+Slant range visibility restrictions likely with any smoke. 
+
+.OUTLOOK FOR 06Z TUESDAY THROUGH FRIDAY... 
+
+Monday night: Generally VFR. There may be MVFR vsby 
+restrictions in smoke early in the evening, especially at KSWF.
+
+Tuesday. Mainly VFR. Visibility restrictions from smoke will be 
+possible.
+
+Wed-Friday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Sub-SCA conditions are expected through Wednesday morning. An 
+easterly swell will gradually build through the period with seas
+building to around 4 ft on Wednesday afternoon and 5 ft 
+Wednesday night. Seas are forecast to remain around 5 ft through
+Friday, but this will depend on the magnitude and location of 
+low pressure well off the Mid Atlantic coast.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through next weekend.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+The pressure gradient remains weak today. However, the pressure
+gradient does steepen a bit for Tuesday with low pressure well 
+out in the Atlantic and a strengthening high pressure area 
+moving across the Canadian Maritimes. 
+
+Light and variable winds today become more southerly along the 
+coast in the afternoon. For Tuesday, more consistent slowly 
+increasing east to southeast winds are forecast. The onshore 
+fetch increases Tuesday. 
+
+Lower waves, near 1 to 2 ft, and light winds keep a low rip current 
+risk for the ocean beaches today. The easterly winds Tuesday 
+could very well reach up to around 10 kt in the afternoon and 
+with the developing fetch and slightly building waves, to near 3
+ft, the rip current risk is moderate for the ocean beaches 
+Tuesday.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...Air Quality Alert until midnight EDT tonight for NYZ067>075-
+     176-178.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...MW
+NEAR TERM...MW
+SHORT TERM...MW
+LONG TERM...JP
+AVIATION...BC
+MARINE...MW
+HYDROLOGY...MW
+TIDES/COASTAL FLOODING...

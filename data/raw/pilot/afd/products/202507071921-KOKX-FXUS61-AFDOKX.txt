@@ -1,0 +1,218 @@
+974 
+FXUS61 KOKX 071921
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+321 PM EDT Mon Jul 7 2025
+
+.SYNOPSIS...
+Low pressure passes nearby into tonight. A cold front approaches 
+Tuesday and begins to move through the area Tuesday night. The 
+front likely stalls nearby the rest of the week leading to 
+unsettled conditions, potentially into the upcoming weekend.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM TUESDAY MORNING/...
+The center of the remnants of what was TS Chantal are spinning 
+over the mouth of the Chesapeake Bay early this afternoon, 
+passing off the Delmarva this evening and skirting south of 
+Long Island tonight.
+
+A deep tropical air mass has advected in with high pressure over
+the Atlantic helping steer the plume north. 12Z OKX sounding 
+found a PWAT over 2 inches this morning, and moisture 
+convergence along a surface trough located just to the west of 
+the area will continue to serve as the primary focus for shower 
+and thunderstorm development into this evening.
+
+Given the depth of the moisture, soundings are supportive of 
+efficient, warm rain processes, and MLCAPE values are over 1000
+J/kg, torrential downpours are likely with any activity that
+develops. 12Z HREF 3-hr QPF continues to offer at least a 10 
+percent risk of 3 inches in 3 hours for parts of NE NJ late this
+afternoon, also where FFG values are lowest in the region. WPC 
+has expanded the slight risk for excessive rainfall for this 
+same area. 
+
+Elsewhere, showers possible, but coverage looks to be lower and
+perhaps just isolated. Locally a quick inch or two possible with
+the downpours, particularly west of the Hudson, but basin QPF 
+should average under a half inch, and some locales may see 
+little to no rainfall through tonight. Activity diminishes this
+evening as the remnant low passes south and east of the region,
+and conditions tonight remain mild and muggy, with the 
+potential for areas of patchy fog to develop. Temperatures 
+remain in the 70s everywhere overnight.
+
+&&
+
+.SHORT TERM /6 AM TUESDAY MORNING THROUGH TUESDAY NIGHT/...
+In the wake of the remnants of Chantal exiting our to sea, a
+cold front back to the west begins to approach through the day
+on Tuesday.
+
+Deep tropical moisture remains in place ahead of the front, and
+showers and thunderstorms look to develop once again into the 
+afternoon hours as the boundary approaches. The main concern 
+will once again be torrential downpours and localized flash 
+flooding. WPC has expanded a slight risk to now include the 
+entire local area, indicating isolated to scattered areas of 
+flash flooding are possible.
+
+Also can't rule out a few isolated strong to severe thunderstorms,
+with damaging wind gusts the main threat. SPC has much of the 
+area in a marginal risk, with a slight just off to the south and
+west over NJ. Given tall CAPE profiles in a weak shear, uncapped
+environment, there is potential for an isolated downburst or 
+two. Latest hires CAMs develop clusters of convection by mid 
+afternoon across the I95 corridor from the Mid Atlantic and into
+the local Tri State, before propagating east into the early 
+evening.
+
+In addition to the heavy rainfall threat, temperatures on
+Tuesday may be able to achieve lower 90s across the urban
+corridor of NE NJ and NYC, especially if enough clearing occurs
+early in the day before convection initiates. Given dew pts into
+the 70s, peak heat indices are progged around 100F and a heat
+advisory was hoisted for NYC, most of NE NJ, southern
+Westchester, and Nassau Co. Elsewhere, marginal advisory
+criteria is possible, but think values largely remain more in
+the mid to upper 90s.
+
+Precipitation diminishes overnight, but the advancing front 
+slows and potentially stalls over the area Tuesday night, and 
+conditions remain mild and muggy with temperatures only falling 
+back into the 70s.
+
+&&
+
+.LONG TERM /WEDNESDAY THROUGH MONDAY/...
+The NBM was followed with minor local adjustments. 
+
+Key Points:
+
+*  A stalled front south of the area will remain in the general 
+   vicinity through the weekend. 
+
+*  Each day will present a chance of showers and/or thunderstorms 
+   with the overall highest chances from roughly late Wednesday 
+   night through Thursday night. 
+   
+*  Temperatures should be right around average for this time of the 
+   year with highs each day in the lower and middle 80s.
+.
+
+&&
+
+.AVIATION /19Z MONDAY THROUGH SATURDAY/...
+High pressure will remain offshore, while weak low pressure passes 
+to the south this afternoon and tonight. A cold front approaches 
+late tonight and remains in the vicinity through Tuesday morning.
+
+Generally VFR for most terminals, except for eastern terminals such 
+as KISP and KGON, which may only improve to MVFR this afternoon with 
+brief breaks of VFR at times. MVFR to IFR conditions move back in 
+tonight, mainly for eastern terminals, with better conditions as you 
+head west. KJFK may see brief IFR conditions, while KEWR will likely 
+remain VFR. 
+
+As for precipitation, better chance for thunderstorms across the 
+western metro terminals (KEWR and KTEB) where there is a VCTS from 
+19Z-22Z this afternoon. Thunderstorms are more likely here, but 
+there is still some uncertainty with how far north they make it. If 
+they do move through, they will be associated with MVFR conditions 
+or lower. Less probable, but still at least 30% chance of seeing 
+thunder for KJFK and KLGA from 18Z today through 00Z tonight.
+
+A S to SSE wind around 10 kt at the metro and coastal terminals, and 
+light inland, though winds may vary from SE to SW through early this 
+afternoon. Winds become light and variable once again tonight. A SW 
+to WSW wind sets up Tuesday at around 10 kt by mid to late morning.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+AMD likely for flight category changes this morning and to fine tune 
+any timing for showers and thunderstorms this afternoon.
+
+AMD likely overnight with changes in flight category in low 
+stratus/fog, mainly for KLGA and KEWR.
+
+.OUTLOOK FOR 18Z TUESDAY THROUGH FRIDAY... 
+
+Tuesday afternoon: VFR, except MVFR or lower in afternoon showers 
+and tstms especially from the NYC metros north/west. Gusty winds 
+also possible in stronger storms. 
+
+Wednesday through Friday: Afternoon and evening showers/tstms 
+possible each day, with brief MVFR or IFR conditions. 
+
+Saturday: Mainly VFR. A slight chance for showers and an isolated 
+thunderstorm with MVFR or lower conditions.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Seas build toward 5 ft tonight with a SE swell on Atlantic 
+ocean waters east of Fire Island Inlet, and a Small Craft 
+Advisory was hoisted here from 6Z Tue thru 6Z Wed. 
+
+Elsewhere, winds and seas are expected to remain below advisory
+criteria much of the week, and potentially through the weekend.
+
+&&
+
+.HYDROLOGY...
+Torrential downpours are possible into this evening with
+scattered showers and thunderstorms, especially across NE NJ, 
+NYC metro, and Lower Hudson Valley. This could lead to areas of
+nuisance flooding and localized flash flooding. WPC has NE NJ 
+in a slight risk for excessive rainfall, with NYC and the Lower
+Hudson Valley outlined in a marginal risk. 
+
+Additional rounds of showers and thunderstorms Tuesday afternoon
+could once again produce locally heavy rainfall that leads to
+flooding. WPC has expanded a slight risk across the entire local
+region. A marginal risk remains in place for much of the area 
+on Wednesday.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+The rip risk through this evening on all ocean beaches continues to 
+be moderate with 2-3 foot surf heights. For Tuesday, the risk 
+increases to high with surf heights around 5 feet.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Air Quality Alert until 11 PM EDT this evening for CTZ005-009.
+     Air Quality Alert from 11 AM to 11 PM EDT Tuesday for 
+     CTZ005>012.
+NY...Air Quality Alert from 11 AM to 11 PM EDT Tuesday for 
+     NYZ078>081-177-179.
+     Heat Advisory from 10 AM to 8 PM EDT Tuesday for NYZ071>075-
+     176>179.
+     High Risk for Rip Currents from Tuesday morning through Tuesday 
+     evening for NYZ075-080-081-178-179.
+NJ...Heat Advisory from 10 AM to 8 PM EDT Tuesday for NJZ004-006-
+     104>108.
+MARINE...Small Craft Advisory from 2 AM Tuesday to 2 AM EDT Wednesday 
+     for ANZ350-353.
+
+&&
+
+$$
+
+SYNOPSIS...DR
+NEAR TERM...DR
+SHORT TERM...DR
+LONG TERM...
+AVIATION...JP
+MARINE...DR
+HYDROLOGY...DR
+TIDES/COASTAL FLOODING...

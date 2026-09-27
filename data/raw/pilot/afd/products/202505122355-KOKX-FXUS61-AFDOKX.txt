@@ -1,0 +1,171 @@
+995 
+FXUS61 KOKX 122355
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+755 PM EDT Mon May 12 2025
+
+.SYNOPSIS...
+A weak backdoor cold front moves across the region tonight as
+high pressure builds southward off the New England coast. 
+Meanwhile, an area of low pressure slowly approaches from the 
+Mid-Atlantic Tuesday and Wednesday and passes nearby during 
+Thursday. A warm front then moves through during Friday, 
+followed by a cold front on Saturday into Saturday night. Weak 
+high pressure will then be in place for Sunday and Monday with a
+few weak cold fronts or troughs possibly passing through.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM TUESDAY MORNING/...
+The forecast remains mainly on track. Minor adjustments were
+made to some of the hourly forecast elements with this update.
+
+Clouds gradually increase as a broad area of low pressure approaches 
+from the south. Meanwhile, high pressure well north of the region 
+gradually builds southeastward, forcing a back door cold front to 
+approach from the northeast. With the low pressure system 
+approaching from the south, some rain showers may develop after 
+midnight, mainly across NE NJ and NYC. Will introduce some 
+chance or slight chance POPs. Any showers should remain light in
+intensity. The eastward progression of this band of scattered 
+showers remains a bit uncertain as the showers will be running 
+into the drier airmass from the high pressure offshore.
+
+With increasing cloud cover, temperatures should remain somewhat 
+mild, with lows only falling into the 50s to lower 60s in the NYC 
+metro area.
+
+&&
+
+.SHORT TERM /6 AM TUESDAY MORNING THROUGH TUESDAY NIGHT/...
+A backdoor cold front continues to move into the area Tuesday 
+morning and either moves through the entire area or stalls over the 
+area as a stationary boundary. Meanwhile, the broad area of low 
+pressure continues to spread precipitation into portions of the CWA. 
+the best chances will be across the western half of the CWA,. 
+
+There remains some uncertainty with just how far east the 
+precipitation reaches. Some eastern areas may remain mostly dry 
+during this timeframe. Cloudy skies should prevent temperatures from 
+rising too much Tuesday with highs in the upper 60s to middle 70s 
+for the northeasternmost areas. Tuesday night lows only fall into 
+the middle and upper 50s.
+
+&&
+
+.LONG TERM /WEDNESDAY THROUGH MONDAY/...
+Models in good agreement with a closed h5 low opening up as it heads 
+NE into the Great Lakes Region Wednesday into Wednesday night. 
+Associated trough axis shifts through the forecast area during 
+Thursday night. At the surface, weakening low pressure over the Mid-
+Atlantic on Wednesday slowly approaches and passes over or nearby us 
+at some point in the Thursday to Thursday night period. Rain will be 
+possible at any given time during this period, however it appears 
+that it will be most likely during the daytime Wednesday. This is 
+when the strongest h8 theta-e advection and isentropic lift with the 
+help of llj upward forcing interact with the deepest moisture. The 
+magnitude of the moisture doesn't appear to be significantly 
+anomalous, so hydrologic impacts are not anticipated at this time. 
+Even the NBM probabilities of 6-hour rainfall being greater than a 
+half inch through the period are very low.
+
+Even with the strongest forcing and deepest moisture shifting away, 
+rainfall is still likely during Wednesday night as the 
+aforementioned weak low approaches. Indications are that the low 
+weakens into a trough by the time of its closest approach, so PoPs 
+are capped at chance (40-50% most locations) for Thursday, but went 
+above NBM guidance considering the proximity of the trough as well 
+as a shortwave and trough axis aloft shifting through.
+
+A warm front then shifts through during Friday with with ridging 
+aloft mitigating shower chances. A cold front follows for Saturday 
+into Saturday night with additional showers and maybe a thunderstorm.
+
+Uncertainty then increases for Sunday and Monday, stemming from 
+global model disagreement on the placement of an upper low. There's 
+general agreement that it remains to our north, but still cannot 
+rule out a diurnally-driven shower both days as a surface trough and 
+cyclonic flow aloft are potentially in the area.
+
+&&
+
+.AVIATION /00Z TUESDAY THROUGH SATURDAY/...
+During the TAF period, a weak cold front moves into the area 
+from the north. High pressure will continue moving offshore. 
+Large area of low pressure approaches slowly from the southwest.
+
+VFR conditions expected through early Tuesday afternoon. MVFR
+chances increase from west to east thereafter for the rest of
+the TAF period. 
+
+Some light rain is possible early Tuesday for NYC and Lower 
+Hudson Valley terminals. There are higher chances of rain moving
+into NYC and Lower Hudson Valley terminals Tuesday afternoon 
+into start of Tuesday evening with MVFR chances also increasing.
+To the east, expecting mainly dry conditions and VFR conditions
+expected to prevail through much of the afternoon.
+
+Winds through the TAF period around 10 kts or less. Wind
+direction southerly this evening, with some variability
+overnight, becomes generally more easterly Tuesday.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+MVFR and IFR timing could be a few hours off from TAF.
+
+.OUTLOOK FOR 00Z WEDNESDAY THROUGH SATURDAY...
+
+Tuesday night through Wednesday night: Low stratus/fog with IFR
+conditions at times. Periods of rain. Slight chance of
+thunderstorms Wednesday afternoon into Wednesday night. E-SE 
+winds G20kt possible on Wednesday, day into early evening.
+
+Thursday: MVFR possible with a chance of showers.
+
+Friday and Saturday: Mainly VFR, chance of MVFR and showers.
+Slight chance of thunderstorms afternoon into early evening.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Sub-SCA conditions are expected on all waters through Tuesday
+night. Onshore flow will help build seas to 5-6 ft on the 
+ocean waters during Wednesday along with gusts around 25 kt. 
+Winds weaken Wednesday night, however a residual swell should 
+keep seas at advisory levels through the night and into a 
+portion of Thursday. Sub-advisory conditions then follow for 
+Thursday nigh through Saturday with winds remaining at around 
+10kt or less.
+
+&&
+
+.HYDROLOGY...
+Rainfall from Tuesday afternoon through Wednesday night is expected 
+to average around a half of an inch across the area. No hydrologic 
+impacts are expected with this event, and no impacts are expected 
+thereafter through Monday.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...BC/JC
+NEAR TERM...BC
+SHORT TERM...BC
+LONG TERM...JC
+AVIATION...JM
+MARINE...BC/JC
+HYDROLOGY...BC/JC

@@ -1,0 +1,184 @@
+888 
+FXUS61 KOKX 062347
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+647 PM EST Mon Jan 6 2025
+
+.SYNOPSIS...
+Broad low pressure lingers over the Maritimes as high pressure 
+slowly builds in from the west through Friday. Low pressure
+passes to the south Saturday into Saturday night. High pressure
+returns for Sunday and the beginning of next week.
+
+&&
+
+.NEAR TERM /THROUGH TUESDAY/...
+Scattered flurries continue along the coast as low pressure
+moves east/northeast from the Carolina coast.
+
+Accumulating light snow ended late this afternoon, and once the
+flurries end dry conditions are expected the remainder of 
+tonight. Re issued the Special Weather Statement through
+midnight to account for potential icy/slick conditions on 
+untreated surfaces. May need to extend this for overnight due 
+to lingering black ice or slick spots. 
+
+Otherwise, low pressure quickly pushes well offshore and gets 
+absorbed by the broader upper low over the Maritimes and North 
+Atlantic. A trailing shortwave swings across New England tonight. 
+Skies may remain mostly cloudy initially with some clearing 
+overnight into early Tuesday morning as the trough axis begins 
+pushing east. 
+
+NW-N flow increases tonight as the pressure gradient steepens 
+between the departing low pressure and building high pressure to
+our west. Gusts 20-30 mph are possible and a few gusts up to 35
+mph cannot be ruled out late tonight/early Tuesday morning. 
+Cold advection will allow temperatures to bottom out in the 
+teens for most spots with the NYC metro falling into the low 
+20s. Wind chills by day break will be in the single digits for 
+most locations when factoring in the gusty and dry conditions.
+
+&&
+
+.SHORT TERM /TUESDAY NIGHT THROUGH WEDNESDAY/...
+Brisk and cold conditions continue Wednesday. High pressure
+remains over the central states with broad low pressure over 
+the Maritimes/North Atlantic. The pressure gradient will remain 
+steep through Wednesday with the strongest winds likely 
+occurring on Tuesday. NW wind gusts 35 to 40 mph are expected 
+with some isolated gusts around 45 mph. Have held off on an 
+Advisory as winds at the top of the boundary layer remain below 
+40 kt. Low level flow is a bit weaker Tuesday night into 
+Wednesday with gusts 25 to 35 mph. 
+
+Dry conditions are forecast through Wednesday. However, there are
+is another shortwave that approaches Tuesday night into 
+Wednesday. There is minimal moisture to work with, but a passing
+flurry cannot be completely ruled out.
+
+Temperatures, while not record breaking, will run about 10 degrees 
+below normal. Highs on Tuesday and Wednesday will be in the upper 
+20s to low 30s. Lows Tuesday night range from the mid teens inland 
+to the low 20s near the coast. Add the wind component and the region 
+likely see wind chills persistently in the single digits at night 
+and teens during the daytime.
+
+&&
+
+.LONG TERM /WEDNESDAY NIGHT THROUGH MONDAY/...
+Cold air remains across the region through the extended period
+with temperatures remaining around 5 to near 10 degrees below 
+normal. The extended period will be relatively quiet with the 
+exception of a rather quick moving/progressive system for 
+Saturday into Saturday night. There is still some uncertainty 
+with the track of the low south of the region and will be 
+dependent on the amplification with the downstream ridge and 
+incoming trough. Much of the guidance remains amplified with the
+low tracking south, and the area on the northern periphery of 
+the snow. The exception remains the GFS with the trough 
+beginning to become negative as the system moves off the 
+southeast coast. At this time with the southern and progressive 
+track have continued with slight chance probabilities for a 
+light snowfall.
+
+&&
+
+.AVIATION /00Z TUESDAY THROUGH SATURDAY/...
+Low pressure wave moves well out to sea tonight. Region remains 
+between strong low pressure to the east and strong high pressure to 
+the west thereafter through the TAF period.
+
+Outside of some snow flurries for NYC terminals early this evening, 
+dry conditions are expected. VFR conditions are also expected during 
+the TAF period. 
+
+Winds will become quite gusty this evening and increase more 
+throughout Tuesday. NW winds near 10-15 kt tonight further increase 
+to near 20 kt Tuesday. Gusts up to near 20-25 kt tonight will 
+increase to near 30 kt Tuesday and then further increase to near 35 
+kt late Tuesday morning into Tuesday afternoon. Some peak gusts to 
+near 40 kt Tuesday will be possible.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Gusts will likely vary a few kts from forecast at times compared
+to TAF.
+
+OUTLOOK FOR 00Z WEDNESDAY THROUGH SATURDAY...
+
+Tuesday night: VFR. Gusts near 35 kt early, then subsiding to
+25-30 kt late.
+
+Wednesday through Thursday: VFR. NW wind gusts near 30-35kt at 
+times.
+
+Friday: VFR. NW wind gusts near 20 kt during the day.
+
+Saturday: Low pressure impacts possible. IFR or lower with 
+strong winds and hvy sn/ra possible depending on track and 
+intensity.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+No changes to winds and seas tonight.
+
+Brief SCA conditions are anticipated on the waters late tonight
+as NW-N flow increases. These winds will quickly become gales 
+on Tuesday and will continue through Tuesday night on all 
+waters. Have converted the gale watch to a gale warning. The 
+warning continues into Wednesday on the ocean waters. There is a
+small chance gales continue on the non-ocean waters on 
+Wednesday, but at this time there is a higher probability for 
+SCA conditions. 
+
+There is also a chance of light freezing spray near shore late
+tonight into Tuesday night. 
+
+Gale conditions on the ocean waters east of Fire Island Inlet may be 
+continuing into Wednesday evening while the remainder of the 
+forecast waters will be near gale force, except New York Harbor 
+where SCA conditions will be possible, as low pressure departs to 
+the northeast and high pressure builds to the west. With a 
+prolonged NW flow SCA conditions will likely continue on the 
+forecast waters through Friday, except across New York Harbor 
+where conditions will be more marginal. And marginal gale gusts 
+will be possible on the ocean waters late Wednesday night into 
+Thursday night. Then with high pressure across the region sub 
+advisory conditions will be likely Friday night into Saturday 
+night.
+
+&&
+
+.HYDROLOGY...
+No significant hydrologic issues anticipated through early next
+week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Gale Warning from 6 AM Tuesday to 6 AM EST Wednesday for 
+     ANZ331-332-335-338-340-345.
+     Gale Warning from 6 AM Tuesday to 6 PM EST Wednesday for 
+     ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...DS/MET
+NEAR TERM...DS/MET
+SHORT TERM...DS
+LONG TERM...MET
+AVIATION...JM
+MARINE...DS/MET
+HYDROLOGY...DS/MET

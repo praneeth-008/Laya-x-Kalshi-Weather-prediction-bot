@@ -1,0 +1,185 @@
+794 
+FXUS61 KOKX 020943
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+443 AM EST Sun Feb 2 2025
+
+.SYNOPSIS...
+High pressure moves northeast of the region today eventually 
+getting into the Gulf of Maine. The high pressure moves 
+southeast of the Canadian Maritimes tonight. Meanwhile, a 
+frontal system approaches from the north and west, with an 
+associated warm front moving in tonight. A warm front shifts 
+north of the area Monday followed by a cold front Monday night. 
+High pressure returns Tuesday into early Wednesday. A complex 
+frontal system will approach on Wednesday and impact the area 
+from Wednesday afternoon into Thursday night. High pressure will
+return on Friday, then another frontal system should arrive by 
+Saturday. 
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+High pressure north of the region early today and associated
+subsidence will allow for more sun. Winds will be light as well
+at the surface. Then, flow becomes more southerly during the day
+today and a frontal system approaches from the north and west.
+Clouds will increase during the day, especially in the
+afternoon.
+
+The warm front with the frontal system moves in tonight.
+Precipitation is expected, mainly in the form of snow but some
+slight warming in the low levels late tonight may allow for more
+of a rain/snow mix. Otherwise, for the interior, an all snow
+event is expected, where near 1 to 2 inches of snow is forecast.
+Less than 1 inch of snow is expected along the coast.
+
+Vertical forcing with mid level positive vorticity advection 
+and low level omega increase for the first half of tonight. 
+Forcing wanes second half of tonight with low pressure wave and 
+front exiting the region. Precipitation expected to end before 
+sunrise Monday.
+
+&&
+
+.SHORT TERM /MONDAY THROUGH TUESDAY NIGHT/...
+Precipitation shifts east of the region Monday morning and the 
+warm front will move farther northeast of the region. More low 
+level warm air advection on SW flow will make for warmer than 
+normal temperatures Monday.
+
+Mainly dry conditions forecast Monday through Tuesday night. A
+cold front moves across Monday night. Temperatures forecast to 
+be above normal through early Tuesday. Then temperatures trend 
+colder with cold air advection increasing Tuesday afternoon into
+Tuesday night. Models indicate 850mb temperatures falling down
+to near -10 to -12 degrees C during this timeframe.
+
+Warm front continues move farther away northeast from the local area 
+Monday. A cold front will eventually approach from the north and 
+west late Monday. This cold front moves across Monday night. Less 
+moisture associated with this frontal passage and outside of perhaps 
+a sprinkle or very light rain shower for eastern parts of the 
+region, dry conditions are expected to prevail. 
+
+For Tuesday, behind the cold front, a new high pressure area will 
+start to build in from the north and west. Dry conditions are 
+expected with temperatures still above normal as cold air advection 
+does not establish until Tuesday afternoon. Highs for the day will 
+likely be set in the morning with decreasing temperatures in the 
+afternoon. Gusty NW flow develops during the day. Tuesday night lows 
+will be relatively colder and below normal. NW flow continues but 
+will eventually become less gusty.
+
+&&
+
+.LONG TERM /WEDNESDAY THROUGH SATURDAY/...
+Fast zonal flow aloft with embedded shortwaves will impact the area 
+during mid to late week. NBM still running faster than deterministic 
+global model guidance with PoP daytime Wed, with chance for some 
+light snow in the afternoon mainly late. Then as the sys approaches, 
+expect light snow Wed evening to transition to a wintry mix late Wed 
+night, then to all rain across NYC metro and Long Island early Thu 
+morning, most of the area except well inland by late morning, and 
+throughout by afternoon. Light accumulations of snow/sleet 
+throughout, followed by some ice accretion outside of the 
+immediate NYC area but especially inland, are possible. 
+
+Rain through the day on Thu should taper off Thu night as the flow 
+aloft amplifies and sends a cold front through late at night, with 
+dry cond for Fri into Fri night as post-frontal strong high pressure 
+moves across. 
+
+Another frontal system will approach this weekend, with timing 
+mainly from late say Sat into Sat night. Temps sfc/aloft appear cold 
+enough at the onset for mainly snow at least the first part of Sat 
+night, then a wintry mix may be possible for the NYC metro area and 
+Long Island late Sat night. 
+                           
+
+&&
+
+.AVIATION /09Z SUNDAY THROUGH THURSDAY/...
+High pressure over the area through this morning will give way 
+to low pressure today. The low will pass through tonight.
+
+VFR through at least early afternoon. Clouds gradually lower and 
+thicken, with MVFR cigs moving into the area around 22Z-24Z, 
+possibly earlier. Precip should hold off until after 00Z except at 
+KSWF where it could begin at 22Z. After 00Z, a period of light snow 
+or a snow/rain mix will be possible. 
+
+N winds 5-10 kt continue to gradually diminish into early
+morning and become NE. Winds then become E then SE daytime 
+today. 
+
+  ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Uncertainty in timing of MVFR cigs. Timing could be as early as 18Z-
+20Z. 
+
+.OUTLOOK FOR 06Z MONDAY THROUGH THURSDAY... 
+
+Late tonight: Chance of MVFR or lower conditions at night in 
+snow and/or rain. 
+
+Monday: Mainly VFR. 
+
+Tuesday: VFR. NW winds G20kt late morning/afternoon. 
+
+Wednesday: Chance of light snow with MVFR or lower cond mainly in 
+the afternoon. 
+
+Wednesday night and Thursday: MVFR or lower conditions likely. 
+Precip type snow initially, changing to a wintry mix in the 
+evening, then to rain at the NYC metro/Long Island terminals 
+late through Thursday. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+The remaining small craft advisories on the ocean have been 
+cancelled as conditions are below small craft advisory
+thresholds. Conditions are forecast to remain below small craft
+advisory thresholds on all forecast waters through Monday with
+weakening pressure gradient.
+
+The next chance for SCA conditions will be Monday night and
+Tuesday when a cold front passes through the waters. The SCA
+conditions may linger into Tuesday night on the ocean. The non-
+ocean waters are less than SCA criteria but could have some
+gusts to near SCA thresholds.
+
+Longer term, minimal SCA cond (seas 5 ft and wind gusts 25 kt) 
+may be possible on the ern ocean waters from Thu afternoon into 
+daytime Fri with a passing frontal system.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through the week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...BG/JM
+NEAR TERM...JM
+SHORT TERM...JM
+LONG TERM...BG
+AVIATION...BG
+MARINE...BG/JM
+HYDROLOGY...BG/JM

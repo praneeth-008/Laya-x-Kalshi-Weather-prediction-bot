@@ -1,0 +1,232 @@
+711 
+FXUS61 KOKX 121102
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+702 AM EDT Thu Jun 12 2025
+
+.SYNOPSIS...
+A cold front approaches today and moves across the region tonight. 
+The front slows down and eventually stalls south of the region 
+Friday into the start of the weekend. Low pressure eventually 
+develops and approaches the region along this front. The cold 
+front slowly works south into the Mid Atlantic into early next 
+week. Waves of low pressure will track along the boundary during
+this time. The front will then return northward as a warm front
+toward the middle of next week.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Forecast on track this morning. Convection later today into
+tonight has quite a variance between different CAMs with some
+indicating MCS potential while others keep more isolated
+convection with timing differences.
+
+A very warm to hot day is expected today with plenty of sun, and 
+increased SW flow to boost low level warm air advection. Used a 
+blend of MAV/MET/NBM guidance for high temperatures. Within and 
+around the NYC Metro area, high temperatures are forecast to 
+get around 90 degrees. Dewpoints are forecast to lower to the upper 
+50s to near 60 with vertical daytime mixing, which is going to limit 
+the apparent temperatures (i.e. heat indices) to not deviate 
+much from the actual temperature.
+
+Clouds increase late in the day ahead of an approaching cold front. 
+There will be a slight chance of a shower or thunderstorm. Dry air 
+will be present within the atmosphere in the low to mid levels. 
+Convective coverage at most is expected to be isolated or a just a 
+slight chance probability. Temporally the convection will be limited 
+also, which will limit the flood threat.
+
+The caveat though is that the main upper level jet will be 
+north and not too far away from the region. BUFKIT shows winds
+between 10kft AGL and 30kft AGL increasing late today. The 
+higher winds aloft will present a chance for both increased 
+divergence aloft and enhanced downbursts of wind. CAPE will be 
+higher with the higher temperatures especially across western 
+portions of the region with models indicating values up to near 
+1000 to 1200 J/kg of CAPE. There will be a marginal risk for 
+severe thunderstorms with primary threat being damaging winds.
+
+With these details about the convection being stated, not all 
+locations will get rain. Most locations may very well stay dry. 
+Once the cold front moves across, more northerly flow develops
+tonight, which will help usher in a cooler but still moist 
+airmass. Later tonight, there still could be a few showers but 
+no thunderstorms are mentioned as stability in the low levels 
+increases with the cooler surface temperatures.
+
+&&
+
+.SHORT TERM /FRIDAY THROUGH SATURDAY NIGHT/...
+The cold front slows down south of the region where it will 
+eventually stall Friday into the start of the weekend. The front is 
+still forecast to be within close enough proximity for low pressure 
+development along it to give chances for more showers during 
+this time period. 
+
+Friday looks to be the relatively drier day with less showers. 
+Much of the day and much of the area just has a slight chance of 
+showers. Friday night, chances for showers increase late with higher 
+chances Saturday. This will be as low pressure develops in the Mid-
+Atlantic and eventually passes south of the area Saturday along that 
+stalled front.
+
+Temperatures will be on a cooling trend as surface winds gain a more 
+easterly component. This will allow for a cooler maritime airmass to 
+encompass the area. Clouds will remain abundant. High temperatures 
+forecast Friday are in the 70s to near 80 and then for Saturday are 
+just in the mid 60s to near 70. This cooler air will make for less 
+instability and thunderstorms were not mentioned in the forecast.
+
+&&
+
+.LONG TERM /SUNDAY THROUGH WEDNESDAY/...
+A frontal boundary south of the area on Sunday will settle slowly 
+south into the Mid Atlantic states into early next week before 
+returning northward mid week. The challenging part of the forecast 
+is timing/location of frontal waves along the boundary and the 
+associated rainfall. Airmass is unstable Sunday in the lower to mid 
+levels of the atmosphere, especially for the interior. However, 
+shortwave energy passes to the north on Sunday and is followed by 
+high pressure building across eastern Canada and into the Northeast.
+Therefore, chance PoPs (30-50%) for Sunday into early next week with 
+a chance of showers and embedded thunderstorms (best chances for any 
+thunderstorms would be western portions of the forecast area as they 
+will be less influenced by a stable regime from an easterly flow 
+that develops). The front pushes farther south into Monday with even 
+some drying of the airmass. Airmass should be stable enough to limit 
+convection to mainly showers at this time. Global models are in good 
+agreement taking weak low pressure off the Mid Atlantic coast early 
+Tuesday, passing to the south and east. Forecast area will be on the 
+northern periphery of the system and may be far enough removed from 
+the stratiform rain shield. Rain chances will be lower during this 
+time.
+
+Temperatures Sunday through Monday will trend down through the 70s 
+and in some cases may struggle to get above 70 with an easterly flow 
+and cloud cover. Temperatures will then begin to climb back up to 
+normal by Tuesday and even above by Wednesday as heights begin to 
+rise and the front starts returning northward as a warm front. Lows 
+will be close to normal, but night will be humid with dew points 
+around 60.
+
+&&
+
+.AVIATION /12Z THURSDAY THROUGH MONDAY/...
+Weak high pressure builds over the terminals through the 
+daybreak. A weak cold front slowly approaches from the northwest 
+today, moving into the Lower Hudson Valley late in the afternoon and 
+through the remaining terminals during the evening. An isolated 
+shower or thunderstorm is possible late this afternoon into the 
+early evening. More of the higher resolution models are keying in on 
+a line of showers and isolated thunderstorms moving through, so have 
+added VCSH from around 00Z to around 06Z (+/- an hour or so, 
+depending on terminal location, with eastern terminals occurring 
+earlier). At this time however, there is a fair amount of 
+uncertainty with exactly where and when these showers and isolated 
+thunderstorms will occur. The chance for thunder significantly 
+lowers after 03Z Thursday.
+
+Generally VFR through the TAF period. Brief MVFR or lower in any 
+showers or isolated thunderstorms that might move through this 
+evening. 
+
+A SW/WSW flow continues through the overnight, with a few locations 
+becoming light and variable. A W flow develops this morning and 
+increases into the early afternoon, becoming 10-15 kt with gusts up 
+to 20 kt possible. The flow may start shifting to the SW near the 
+coast early afternoon, with a sea breeze possible at KJFK by late 
+afternoon. Sea breezes are also possible at KISP, KBDR, and KGON, 
+though these may not be true sea breezes with a slight westerly 
+component to the true sea breeze. 
+
+
+ NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Isolated shower/thunderstorm possible this afternoon and early 
+evening. 
+
+Timing of afternoon sea breeze at KJFK may be off by 1-3 hours, and 
+possible that the sea breeze does not move into KJFK.
+
+
+.OUTLOOK FOR 06Z FRIDAY THROUGH MONDAY... 
+
+Tonight: VFR. There's a low chance (due to uncertainty in timing) 
+that showers move through between 06Z-12Z, which may bring brief 
+MVFR or lower conditions. 
+
+Friday: Mainly VFR.
+
+Friday Night-Saturday: MVFR or lower possible with a chance of 
+showers and a few thunderstorms possible.
+
+Sunday: MVFR or lower possible. Chance of showers with isolated 
+thunderstorms possible.
+
+Monday: MVFR or lower possible. Chance of showers.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Pressure gradient is not expected to increase too much and
+therefore winds will not increase too much also. Conditions in
+the marine forecast for all waters stay below SCA thresholds
+through the first half of the weekend. Winds and seas could very
+well be higher in and near any thunderstorms but otherwise below
+SCA conditions remain.
+
+With a weak pressure gradient force expected across the forecast 
+waters, as a frontal boundary remains in the vicinity of the ocean 
+waters, winds and seas are expected to remain below SCA levels from 
+Sunday through Monday.
+
+&&
+
+.HYDROLOGY...
+Some minor flooding will be possible in low-lying, urban, and poor 
+drainage areas especially with any locations receiving multiple
+rounds of heavy rain. Layer precipitable waters are forecast to
+potentially increase to near 1.75 to 2 inches early Saturday. 
+These higher PWAT values could be achieved late this afternoon 
+into early this evening but early Saturday is when these higher 
+PWAT values are more probable. Otherwise, no hydrologic impacts 
+are expected.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+A gradually diminishing southerly swell will result in another 
+day of a moderate rip current risk today along the ocean, but 
+lowering to a low rip current risk on Friday. Friday will 
+feature more northerly to easterly flow along the coast, less 
+conducive to building waves.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...Air Quality Alert until midnight EDT tonight for NYZ067>075-
+     078>081-176>179.
+NJ...Air Quality Alert from 11 AM this morning to 11 PM EDT this 
+     evening for NJZ004-006-103>108.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JM/JP
+NEAR TERM...JM
+SHORT TERM...JM
+LONG TERM...JP
+AVIATION...JP
+MARINE...JM/JP
+HYDROLOGY...JM/JP
+TIDES/COASTAL FLOODING...

@@ -1,0 +1,233 @@
+170 
+FXUS61 KOKX 101245
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+845 AM EDT Tue Jun 10 2025
+
+.SYNOPSIS...
+A wave of low pressure moves across early today and then north of 
+the area this afternoon into this evening. An associated cold front 
+moves across this evening. Weak high pressure will be across the 
+area for the rest of tonight through midweek into Thursday. Another 
+cold front passes through Thursday night into early Friday and then 
+becomes nearly stationary near the region into early next week.
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+Patchy dense fog followed by heavy showers and thunderstorms will be 
+the main hazards with the forecast today. 
+
+Patchy dense fog likely across coastal sections through the first 
+half of this morning, especially across Long Island and along the 
+coast of Connecticut. Rest of the area will still have fog,
+patchy in coverage. Patchy drizzle is expected also.
+
+The heavy showers and thunderstorms will be enhanced with forecast 
+increases in low level omega into this morning and then with 
+increasing instability with daytime heating this afternoon. Drier 
+air infiltrating in the low to mid levels may very enhance downdraft 
+and lead to gusty winds with thunderstorms, with a marginal risk for 
+severe downbursts of wind. 
+
+A marginal flood threat exists with these thunderstorms as well. See 
+hydrology section for more details on that.
+
+Synoptics, mid level trough moves in with lowering heights today. At 
+the surface, a wave of low pressure approaches from the DelMarva 
+into this morning. The center of this low traverses the local region 
+late this morning into early afternoon before passing north of the 
+region. An associated cold front moves across this evening. Ahead 
+and along the cold front, there will be potential for more showers 
+and thunderstorms but overall convective coverage is expected to be 
+less than convective coverage in the morning.
+
+Abundance of clouds and the rain in the forecast will limit 
+temperatures today. Forecast highs used consensus of short term 
+guidance, ranging from the mid 60s to upper 70s.
+
+&&
+
+.SHORT TERM /6 PM THIS EVENING THROUGH 6 PM WEDNESDAY/...
+For tonight, early in the evening, still have a chance of showers 
+and thunderstorms across portions of the region around NYC and 
+locations north and west. Slight chance of showers and thunderstorms 
+elsewhere.
+
+Overall, a more westerly flow sets up in the low to mid levels of 
+the atmosphere from late this evening through Wednesday. Flow in the 
+mid levels transitions to nearly zonal flow with gradually rising 
+heights while at the surface, a cold front moves east of the region. 
+Weak high pressure builds in thereafter. Center of this high 
+pressure area remains to the south and east of the area.
+
+Dry conditions are expected after 8PM tonight and through Wednesday. 
+Lows tonight exhibit more variance, as more radiational cooling is 
+expected with the decreasing clouds and light winds. For Wednesday, 
+more sun is expected along with a continued westerly flow, likely to 
+back around to more southerly direction along the coast with sea 
+breeze influence. Forecast highs rebound into the low to mid 80s, 
+approximately 5 degrees above normal for this time of year.
+
+&&
+
+.LONG TERM /WEDNESDAY NIGHT THROUGH MONDAY/...
+Long term forecast updated with latest national blend of model
+dataset. Still overall an unsettled weather pattern taking shape
+for Friday, the weekend and into early next week with chances of
+showers and thunderstorms. Model uncertainty still present with
+stalled front placement differences between models. Previous
+discussion follows.
+
+The long term forecast period will be dominated by a mid and 
+upper level trough, mainly across eastern Canada, and into 
+Northern New England, with nearly zonal flow across the Midwest,
+and into the Northeast, and Mid Atlantic region. Global 
+guidance is fairly similar through the extended period. A cold 
+front is forecast to move through the region late Thursday night
+into early Friday morning, and then become nearly stationary to
+the south of the area, through the Mid Atlantic region and the 
+Delmarva, into early next week. There is some uncertainty as to 
+how far south the frontal boundary will setup. The will affect 
+the track of waves of low pressure that are forecast to track 
+along the boundary. And some guidance that the front may drift 
+farther south late in the weekend into early next week. Also, 
+the placement of the boundary will affect temperatures, mainly 
+Saturday through Monday, with more uncertainty in highs and low 
+seen in the spread of possibilities with the NBM guidance. As a 
+result of the uncertainty, and no targets of opportunity, have 
+stayed close to the NBM deterministic guidance.
+
+&&
+
+.AVIATION /13Z TUESDAY THROUGH SATURDAY/...
+LIFR-IFR conditions are expected to continue this morning in 
+response to a warm frontal boundary very slowly moving through 
+the area. A light onshore flow will also contribute to the 
+development of fog through mid to late morning, with 
+visibilities as low as 1/2 SM or less at times early this
+morning and mainly for coastal terminals. Conditions will slowly
+improve through the day, especially after the passage of the
+cold front.
+
+Showers and thunderstorms will continue to affect the metro
+terminals and terminals across the Lower Hudson Valley.from 
+12Z-15Z. They are expected to weaken as they head east this
+morning. Rainfall may be heavy at times maintaining reduced 
+visibilities across the airspace. As the activity diminishes 
+into the afternoon, ceilings and visibilities will improve to 
+MVFR, followed by improvement to VFR by late in the day (around 
+21Z for the metro terminals +/- 1-2 hours). A cold front then 
+approaches Tuesday afternoon into the evening. Showers and 
+thunderstorms are possible with its approach and passage during 
+this time frame, added VCTS for most terminals for this, except
+KGON, where once again, showers and thunderstorms are expected
+to weaken as they head east.
+
+Winds will primarily be light from the E to ESE until the front
+approaches from the west Tuesday evening, allowing winds to 
+shift to the W to SW, then W to WNW after 00Z (later for eastern
+terminals. The flow will be weak, and winds may go light and
+variable across most, if not all terminals tonight.
+
+     NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Amendments likely throughout the entire TAF period for changing
+flight categories especially with ongoing shower and
+thunderstorm activity.
+
+Showers and thunderstorms are possible in the afternoon and
+early evening hours. Timeframe is between 20Z Tue-00Z Wed.
+
+
+.OUTLOOK FOR 00Z WEDNESDAY THROUGH SATURDAY... 
+
+Tuesday night: VFR with SW to shifting to the W then WNW winds
+late. Wind speeds less than 10 kt. Occasional gust to 20 kt
+possible.
+
+Wednesday - Thursday: VFR with gusty W flow. 
+
+Friday - Saturday: VFR except in scattered showers and
+thunderstorms.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Marine dense fog advisory remains until NOON with consistent 
+indications of lower visibilities less than 1 mile from multiple
+runs of the HRRR. Before bulk of rain gets to the region, will 
+have moisture laden boundary layer. Enough mixing is expected 
+with the heavier rain showers later this morning to make any 
+dense fog by that point more patchy.
+
+Otherwise, SCA conditions develop tonight into Wednesday morning
+over parts of the ocean, east of Fire Island Inlet. Otherwise
+sub-SCA conditions are forecast for rest of ocean and non-ocean
+waters for the short term through Wednesday. For Wednesday
+afternoon, all waters forecast to be below SCA.
+
+With a weak pressure gradient force expected across the forecast 
+waters, as a frontal boundary remains in the vicinity of the ocean 
+waters, winds and seas are expected to remain below SCA levels
+thereafter through the rest of the week.
+
+&&
+
+.HYDROLOGY...
+Marginal flood threat with showers and thunderstorms through
+today, especially this morning when convection is expected to be
+of greater areal coverage. Layer precipitable waters reach near
+1.5 to almost 2 inches along the coastal sections. Heavy
+downpours will be likely, especially with any thunderstorms.
+Chance of minor flooding with isolated flash flooding a
+possibility also for urban, low lying and poor drainage areas.
+
+Areal rainfall amounts are forecast to be near half to three
+quarters of an inch with locally higher amounts possible.
+
+No hydrologic impacts are expected thereafter through next 
+Monday.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+For the ocean beaches the moderate risk for the development of 
+rip currents remains for today with increasing southerly winds 
+and building surf this afternoon.
+
+For Wednesday: the moderate rip current development risk 
+remains for the ocean beaches of New York City, and Nassau 
+county. There is a chance that the threat increases to high for 
+the Nassau ocean beaches with increasing southerly flow. And 
+for the Suffolk county ocean beaches the rip current risk is 
+forecast to be high.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Dense Fog Advisory until noon EDT today for ANZ331-332-335-338-
+     340-345-350-353-355.
+     Small Craft Advisory from 8 PM this evening to noon EDT 
+     Wednesday for ANZ350-353.
+
+&&
+
+$$
+
+SYNOPSIS...JM
+NEAR TERM...JM/MW
+SHORT TERM...JM
+LONG TERM...JM/MET
+AVIATION...JP
+MARINE...JM/MET
+HYDROLOGY...JM/MET
+TIDES/COASTAL FLOODING...

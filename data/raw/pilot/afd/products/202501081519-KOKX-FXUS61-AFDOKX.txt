@@ -1,0 +1,194 @@
+406 
+FXUS61 KOKX 081519
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1019 AM EST Wed Jan 8 2025
+
+.SYNOPSIS...
+Low pressure remains stalled up to our north across the Canadian 
+Maritimes as high pressure builds very slowly out of the west through
+Friday. Low pressure passes to the south and east Saturday into 
+Saturday night. High pressure then builds in for Sunday and 
+weakens over the area early next week.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Based on wind gusts 24h ago overachieving (common on a NW flow
+here), and continued cyclonic flow and cold advection, raised 
+gusts to be consistently 30-35 kt (35 to 40 mph) this afternoon
+with a few up to 40 kt (46 mph) possible. No wind advisory 
+planned at this time but close. Temperatures also nudged up a 
+degree or two in some spots bases on latest obs. However, this 
+will be offset some by the cold advection. 
+
+Reinforcing shots of cP air will continue to rotate through via the 
+northern branch of the jet stream. The first reinforcing shot of 
+cold air pivots through today in the wake of a shortwave. A stalled 
+upper level low remains across the Canadian Maritimes. This has 
+resulting in a persistent NW flow regime, and this only continues. 
+The winds at the sfc will be primarily out of the WNW. Expect 
+another dry, but gusty WNW flow today. With dew point readings 
+primarily in the single digits it will remain quite dry and 
+cold. Temperatures will run a good 12 to 15 degrees below normal
+with highs only reaching the middle and upper 20s. However, 
+with the wind it feel 10 to 15 degrees colder with wind chills 
+primarily in the teens, and close to 10 above across the NW 
+interior.
+
+For tonight quite cold once again with mainly clear skies to start. 
+Another cold and blustery night. The winds will subside slightly for 
+the late evening, but then behind a shortwave the winds will pick up 
+again after 6z; probably closer to 9 and 10z. Clouds arrive towards 
+and just after midnight, with skies becoming mostly cloudy late at 
+night as the trough, weak frontal boundary and accompanying 
+shortwave pushes through. This will be another reinforcing shot of 
+cold air behind the trough into Thursday morning. Lows will be 
+primarily in the teens, with perhaps a few lower 20s in the NYC 
+metro. However, the wind will make it feel like single digits once 
+again, with some wind chills approaching zero in the far northern 
+portions of the area towards daybreak as the winds start to gust 
+over 35 mph.
+
+&&
+
+.SHORT TERM /THURSDAY THROUGH FRIDAY/...
+After some morning clouds look for clearing skies into the 
+afternoon. Another dry, windy, and cold day on tap with temperatures 
+struggling to reach freezing at the coast, and likely not getting 
+out of the upper 20s further north and northwest. Wind chills will 
+run in the teens to around 20. The winds will be the story, as the 
+some gusts should get close to advisory criteria. An inversion shown 
+in the forecast soundings make preclude some of the stronger gusts
+from getting all the way down. However at the top of the mixed 
+layer gusts do approach 40 kts. Later shifts will have to 
+evaluate, but a wind advisory may be needed for the day Thursday
+and perhaps into early Thursday evening. Used NBM 90th percentile
+wind / wind gusts for the most part as much of the non-raw 
+guidance appeared to be too light with the winds.
+
+Some subtle height rises are progged ahead of the next feature for 
+late Thursday night and into Friday. The cP air mass will undergo 
+some modification, especially into the day Friday. Lows Thursday 
+night with a gusty NW wind continuing, although the stronger wind 
+gusts will subside will be in the upper teens to middle 20s, with 
+the wind making it feel about 10 degrees colder. During the day 
+Friday look for temperatures to get closer to normal, but likely 
+ending up a few degrees below as max temps should get into the 
+middle and upper 30s as all places should get above freezing. The 
+winds will continue to gradually lighten through the day as the 
+pressure gradient continues to weaken. After a mostly sunny start, 
+look for more in the way of high clouds as cirrus streaks in during 
+the afternoon in advance of a strong confluent trough developing 
+upstream back to the southwest.
+
+&&
+
+.LONG TERM /FRIDAY NIGHT THROUGH TUESDAY/...
+Models are in good agreement regarding the upper and surface 
+features regarding the next storm system. A lack of phasing of 
+northern and southern stream troughs leads to low pressure emerging 
+off the Carolina coast late Friday night into Saturday morning, with 
+the strengthening storm passing well south and east of the 40N/70W 
+benchmark Saturday afternoon into evening. Enough guidance shows a 
+complete or near-miss of the precip shield reaching the southern
+zones, thus PoPs remain capped at chance late Friday night 
+through Saturday afternoon. Overall higher chances will be 
+across the southern zones - closer to the offshore storm. Even 
+if the northern periphery of its precip shield doesn't reach us,
+can't completely rule out snow showers for the entire forecast 
+area in association with the northern stream energy plus upper 
+divergence with the left front quadrant of a strong jet streak 
+shifting through. Should any snowfall occur Friday night through
+Saturday, there's increasing confidence that accumulations 
+would be light. 
+
+High pressure builds in behind the system Saturday night through 
+Sunday, then weakens over the region Monday and Tuesday. Dry through 
+the period, but given guidance showing cyclonic flow aloft and 
+potentially a surface trough nearby, maybe some flurries for 
+Tuesday. Highs generally in the 30s each day in the long term.
+
+&&
+
+.AVIATION /15Z WEDNESDAY THROUGH SUNDAY/...
+The terminals will remain between strong low pressure to the 
+east and strong high pressure to the west.
+
+VFR. 
+
+Strong flow around 310 magnetic through the TAF period. Gusts 
+up to 40kt through the rest of the day. Gust speeds diminish 
+tonight, but remain prevailing just below 30 kts. Occasional 
+gusts over 30kt will be possible all night. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Winds likely average right at 310 magnetic, but probably favor 
+north/right of it through the day for all but KEWR.
+
+Peak gusts through approx 15z mostly 35-40kt. Peak gusts closer
+to around 40kt thereafter. A peak gust of around 45kt is 
+possible, more likely in the afternoon.
+
+OUTLOOK FOR 15Z THURSDAY THROUGH SUNDAY...
+
+Thursday: VFR. NW wind gusts near 40kt. Gusts diminish at night.
+
+Friday: VFR. NW wind gusts 20 kt in the morning.
+
+Saturday: MVFR-IFR possible. Chance of snow. NW gusts 20 kt 
+possible. 
+
+Sunday: VFR. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Gale Warnings will be allowed to proceed through the day Thursday as 
+a strong WNW-NW flow regime will continue to remain in place. At 
+times the nearshore waters may fall below gale criteria, especially 
+for this evening. However, the winds will pick up once again later 
+at night and into Thursday morning. Solid gale conditions take place 
+across all waters Thursday and into Thursday evening. Later Thursday 
+night gale conditions will give way to small craft conditions as the 
+winds gradually come down. Towards Friday look for ocean seas fall 
+below 5 ft, but small craft gusts may linger into much of the 
+morning before gusts fall below 25 kt during the afternoon.
+
+Sub-advisory conditions likely continue through Saturday night, then 
+SCA conditions will be possible Saturday night into Sunday with a 
+pressure gradient tightening behind a storm strengthening well-
+offshore.
+
+&&
+
+.HYDROLOGY...
+No significant hydrologic issues anticipated through early next
+week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Gale Warning until 6 PM EST Thursday for ANZ331-332-335-338-
+     340-345-350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JC/JE/DW
+NEAR TERM...JE/DW
+SHORT TERM...JE
+LONG TERM...JC
+AVIATION...JC/BR
+MARINE...JC/JE
+HYDROLOGY...JC/JE

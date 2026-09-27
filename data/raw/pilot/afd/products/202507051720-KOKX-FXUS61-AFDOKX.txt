@@ -1,0 +1,167 @@
+790 
+FXUS61 KOKX 051720
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+120 PM EDT Sat Jul 5 2025
+
+.SYNOPSIS...
+High pressure over the region tonight slowly drifts east, but 
+remains in control through the weekend. A cold front approaches 
+from the Great Lakes on Monday, passing slowly across the area 
+Tuesday or even stalling in close proximity into midweek. A more
+robust frontal system may approach the area by the end of the 
+week.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Surface high pressure remains near the region with an upper level 
+ridge axis approaches from the west today. It will be another 
+comfortable day with highs in the 80s and dew points remaining in 
+the 50s and lower 60s. The urban corridor of NE NJ will likely see 
+temperatures in the upper 80s. It will be partly to mostly sunny 
+day, with mainly just some high clouds. Stuck fairly close to the 
+previous forecast/NBM. 
+
+The dry weather continues tonight with lows falling into the upper 
+60s and 70s. Can not rule out some patchy fog in some spots
+tonight.
+
+&&
+
+.SHORT TERM /SUNDAY THROUGH MONDAY NIGHT/...
+Dry and warm conditions continue into Sunday. Expect highs in the 
+low-mid 90s in the usual warmest spots in NE NJ, and mostly upper 
+80s to around 90 away from the immediate coast. Also, dew points 
+will be a little higher on Sunday.  The combination of higher 
+temperatures and dew points will result in heat index values in the 
+low to mid 90s for NE NJ and the Lower Hudson Valley. Heat index 
+values are expected to remain just below 95 degree mark. Will need 
+to continue to monitor Sundays heat indices to see if there is 
+any upward trend. An upward trend may result in the need for 
+heat advisories for the Sunday-Monday period. 
+
+Sunday night, the SW flow will continue across the area. This would 
+be at least the 2nd consecutive night of onshore flow. Both the new 
+00z GFS and NAM soundings are showing the potential for fog and/or 
+stratus across portions of the forecast area, especially along the 
+coast. NBM has not really caught onto this yet, so did bump up sky 
+cover and added at least patchy fog to the forecast. Lows Sunday 
+night only fall into the lower and middle 70s for lows. 
+
+Another warm and humid day is expected on Monday, with heat
+indices reaching the middle and upper 90s for a good part of 
+the area. However, Monday is expected to be mostly cloudy, which
+may result in temperatures being a few degrees cooler than 
+forecast. Either way, it should still be warm and muggy. A cold
+front over the Great Lakes Monday morning slowly approaches the
+region with a chance of showers and thunderstorms possible 
+Monday afternoon. The threat of showers and thunderstorms will 
+continue through Monday night with the front still expected to 
+be west of NYC Monday night.
+
+&&
+
+.LONG TERM /TUESDAY THROUGH FRIDAY/...
+Despite the unsettled nature of the extended forecast, global models 
+were in fairly decent agreement, so the NBM was followed.
+
+A cold front will eventually move through the area and stall in the 
+vicinity Tuesday. On Tuesday, heights aloft will lower but flow 
+should remain fairly zonal with a subtle trough to the west. 
+Disturbances in the flow will traverse the area through much of the 
+middle of the week.
+
+High pressure over the Western Atlantic will promote a general S/SW 
+flow which likely brings subtropical moisture up the East Coast. The 
+combination of several mid-level disturbances moving through, a 
+stalled surface boundary in the vicinity, and a moist S/SW flow will 
+allow for much of the extended portion of the forecast to have a 
+chance for showers and thunderstorms.
+
+By the end of the week, more robust energy in the flow approaches 
+from the west and allows the trough to dig into the Northeast. This 
+will provide for a better opportunity for showers and storms as well 
+as a slight decreases in temperatures.
+
+Despite chances for showers each day, high temperatures should 
+remain in the low to middle 80s through the end of the week.
+
+&&
+
+.AVIATION /18Z SATURDAY THROUGH THURSDAY/...
+VFR as high pressure remains offshore through Sunday. 
+
+S-SSW winds around 10 kt this afternoon. Winds decrease in the 
+evening, then go light and variable at outlying terminals 
+overnight. S-SSW winds redevelop Sunday morning, increasing to 
+10-15 kt with gusts up to 20 kt possible Sunday afternoon.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+A few gusts 17-20 kt possible at KJFK 21-00z. 
+
+.OUTLOOK FOR 18Z SUNDAY THROUGH THURSDAY... 
+
+Sunday Afternoon-Night: Mainly VFR afternoon/evening. SSW gusts
+around 20 kt in the afternoon. MVFR/IFR fog possible east of 
+NYC metro terminals overnight. 
+
+Monday-Thursday: Mainly afternoon and evening showers/
+thunderstorms possible with MFR-IFR. Highest chance exists late
+Monday through Tuesday evening. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Sub-SCA conditions are expected on all waters through Monday
+night. Seas to build to near advisory levels on the ocean with 
+seas climbing to around 4 ft Sunday late afternoon/evening and
+continuing into Sunday night.
+
+Generally weak flow will result in sub-SCA conditions on all waters 
+Tuesday through at least Thursday..
+
+&&
+
+.HYDROLOGY...
+No hydrological concerns are expected through the beginning of 
+next week. Some tropical moisture may feed into the area Tuesday
+into Wednesday which may allow for an environment supportive of
+locally heavy rainfall. WPC has portions of the area in a 
+marginal risk for excessive rainfall for this timeframe.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+The rip risk for all beaches will be moderate today given the 
+southerly flow, 3ft surf heights and wind wave period of 7-8 
+seconds. Conditions are similar for Sunday, with a moderate risk
+for all, with perhaps an increase in the southeast swell, but 
+less periodicity overall.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...BC/BR
+NEAR TERM...BC
+SHORT TERM...BC
+LONG TERM...
+AVIATION...DS
+MARINE...BC
+HYDROLOGY...BC
+TIDES/COASTAL FLOODING...

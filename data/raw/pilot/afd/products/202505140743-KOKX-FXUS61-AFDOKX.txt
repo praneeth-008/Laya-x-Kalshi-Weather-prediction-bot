@@ -1,0 +1,205 @@
+038 
+FXUS61 KOKX 140743
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+343 AM EDT Wed May 14 2025
+
+.SYNOPSIS...
+The surface ridge weakens today as a broad area of low pressure 
+approaches from the southwest. The low weakens on Thursday, with 
+another frontal system will move across from Friday into Saturday. 
+High pressure will gradually return early next week as low pressure 
+lingers just east of New England.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+The upper level low that as been gradually approaching the area is 
+finally becoming less defined over the Ohio Valley on satellite 
+imagery and is progged to continue to open up. At the surface, a 
+ridge extending from offshore high pressure is holding its ground 
+over far eastern portions of our area. This ridge will continue to 
+weaken today as broad surface low pressure slowly approaches from 
+the southwest. These features will result in a prolonged easterly 
+flow, with wet and cloudy conditions.
+
+The area so far has only seen light rain, with totals mainly under a 
+quarter of an inch. However, a batch of steadier and heavier rain is 
+expected to move into the area. It is currently over MD/DE/NJ and 
+has some embedded 0.50-0.75 inch per hour rates per MRMS estimates. 
+These heavier showers look to be right on the nose of a LLJ and 
+associated with the strongest WAA. This batch should pivot up to our 
+area as the LLJ shifts north towards us. Model soundings show very 
+little elevated CAPE, so a rumble of thunder can not be ruled out 
+with this activity. Highest PoPs will be into the early afternoon, 
+but chances of showers/isolated thunder continue all day. Overnight, 
+the LLJ shifts as well as the higher instability, so the threat 
+then will be greater for eastern LI and CT. At this time there
+are no flooding concerns. See Hydrology section below.
+
+NBM was followed closely for temperatures, with 60s for highs
+and 50s for lows. NBM was also followed for Td given the wetter
+pattern.
+
+&&
+
+.SHORT TERM /THURSDAY THROUGH THURSDAY NIGHT/...
+Upper level trough axis moves through on Thursday and could 
+spark some isolated to scattered pop-up convection although lift
+looks weak. Much of the mid and upper level profile looks 
+similar to today(Wednesday), but with a warmer and more moist 
+surface, MLCAPE values should reach 500-1000 J/kg. If anything
+does form, organized convection is expected as shear is very 
+weak.
+
+As previously mentioned, NBM was also followed for T and Td
+during the Short Term period. Lows will be similar to
+tonight(Wednesday night) and highs will be a bit warmer, low
+70s. One other thing to note is the great model agreement of a 
+very weak pressure gradient for Thursday night. Given this and 
+multiple days of onshore flow, expecting more fog.
+
+&&
+
+.LONG TERM /FRIDAY THROUGH TUESDAY/...
+Key Points:
+
+* An unsettled weather regime likely continues through the 
+  upcoming weekend, potentially next Monday.
+ 
+* It will not be a washout Friday and Saturday despite chances 
+  for showers (possibly a thunderstorm each afternoon and 
+  evening).
+
+* Diurnally driven isolated to scattered showers remain 
+  possible Sunday and Monday afternoon.
+
+* Temperatures will mainly run above normal through early next 
+  week. 
+
+A blocky synoptic pattern will continue through early next week.
+Another upper low and associated trough over the Northern Plains
+will then gradually slide eastward towards the Great Lakes 
+Friday into Saturday and then move across New England late this 
+weekend. Surface low pressure over the Northern Plains on Friday
+will send a warm front across the area. Shortwave energy 
+associated with the front is weak and dampened out by ridging 
+over the eastern seaboard. Have largely capped PoPs off at 
+chance with potential of showers mainly Friday afternoon and 
+evening. Some CAPE may be available for a slight chance of 
+thunder. Low pressure weakens as it moves towards the region 
+this weekend due to the system becoming vertically stacked. The 
+associated cold front will likely move across the region late 
+Saturday into Saturday night. This will bring additional chances
+for showers and possibly a few thunderstorms as probabilities 
+for SBCAPE to exceed 500 J/kg are higher in the NBM. The highest
+probabilities for precip and thunder currently exist north and 
+west of the NYC metro. 
+
+The lingering upper low and surface system should push offshore 
+Sunday into early next week. Cyclonic flow and potential of a 
+lingering cold pool aloft may support diurnally driven isolated to 
+scattered showers Sunday and Monday afternoons. The upper low and 
+trough may linger offshore next Tuesday with ridging building just 
+to our west. Given a consensus of building heights aloft, have kept 
+the forecast dry for next Tuesday and went slightly lower than the 
+NBM PoPs. 
+
+Temperatures will be in the upper 70s to around 80 away from the 
+immediate coast, with low to middle 70s along the coast, Friday and 
+Saturday. Westerly flow on Sunday should allow the entire area to 
+reach the middle and upper 70s. Temperatures trend a bit cooler 
+early next week, but still may remain above normal, especially on 
+Monday.
+
+&&
+
+.AVIATION /07Z WEDNESDAY THROUGH SUNDAY/...
+Low pressure will slowly drift closer today. As it does so, rain
+with IFR cigs should gradually overspread the area from SW to
+NE. 
+
+Winds mostly ENE-E around 10 kt should become more E-ESE daytime
+Wed and increase to 15G20-25kt at KLGA/KJFK/KISP/KBDR, then
+diminish Wed night. As the winds diminish, LIFR cond are likely
+tonight. 
+
+There is the slight chance of a tstm mainly during the afternoon
+hours. Coverage still too vague to mention in TAF. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+AMD still possible to address changes in flight cat deviating
+from fcst. 
+
+.OUTLOOK FOR 06Z THURSDAY THROUGH SATURDAY...
+
+Late Wednesday night: Low stratus/fog with IFR/LIFR cond. 
+
+Thursday: IFR/LIFR in the morning, then MVFR in the afternoon
+with chance of showers and possibly a tstm. 
+
+Thursday night: Low stratus/fog with IFR/LIFR cond. 
+
+Friday: IFR/LIFR in the morning, then chance of MVFR in the 
+afternoon/evening with slight chance of tstms.
+
+Saturday: Chance of MVFR and showers. Slight chance of tstms. 
+
+Sunday...Mainly VFR. 
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Winds increase this morning with 25-30 kt gusts expected as early as 
+6 AM. A Small Craft Advisory remains in effect for the ocean waters 
+and has been expanded to include the NY Harbor. The SCA for the NY 
+Harbor and the ocean waters from Sandy Hook to Moriches Inlet begins 
+at 6AM and goes through Thursday. The ocean waters from Moriches 
+Inlet to Montauk Point starts a few hours later due to winds ramping 
+up a bit slower. 5 to 6 ft waves should also be expected on the 
+ocean waters.
+
+Conditions will be below SCA levels by Thursday night, and remain so 
+into the upcoming weekend with a relatively weak pressure gradient 
+over the waters.
+
+&&
+
+.HYDROLOGY...
+Although some isolated downpours are possible later today, there are 
+no hydrologic concerns at this time. Total rainfall amounts will 
+likely be between 0.50 and 1.00 inches for northeast NJ, NYC, the 
+Lower Hudson Valley and western LI and CT. Farther east, rainfall 
+amounts will be closer to 0.25 to 0.50 inches.
+
+There are also no hydrologic concerns Thursday night through early 
+next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 6 PM EDT this evening for ANZ338.
+     Small Craft Advisory from 11 AM this morning to 6 PM EDT 
+     Thursday for ANZ350.
+     Small Craft Advisory until 6 PM EDT Thursday for ANZ353-355.
+
+&&
+
+$$
+
+SYNOPSIS...DS/JT
+NEAR TERM...JT
+SHORT TERM...JT
+LONG TERM...DS
+AVIATION...BG
+MARINE...DS/JT
+HYDROLOGY...DS/JT

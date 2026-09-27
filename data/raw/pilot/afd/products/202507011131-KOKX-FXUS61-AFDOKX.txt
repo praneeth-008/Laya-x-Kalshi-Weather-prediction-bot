@@ -1,0 +1,201 @@
+424 
+FXUS61 KOKX 011131
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+731 AM EDT Tue Jul 1 2025
+
+.SYNOPSIS...
+A cold front approaches later today and pivots through late tonight 
+into Wednesday morning. Another cold front approaches Thursday and 
+moves through the area Thursday evening followed by high pressure 
+building into the area during Friday and into the weekend. Another 
+frontal system may impact the area early next week.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+A good deal of cloud cover will be around through at least mid 
+morning to late morning with debris from previous shower and 
+convective activity. The a pre-frontal trough sets up across the 
+western portion of the area for the afternoon. At the same time 
+thickness ridging works into the area with a very moisture rich and 
+warm air mass settled in with 576+ thickness values, quite sultry. 
+Fairly confident that hazy sunshine breaks through with the entire 
+region deeply in the warm sector. It will be close to heat advisory 
+criteria across the urban corridor of NE NJ, NYC, into urban 
+Westchester and urban portions of SW CT. Heat index values should 
+get into the middle and a few upper 90s in all likelihood. Perhaps a 
+few spots could get to 99 or 100 heat index values for an hour late 
+in the day but this would be very short lived and lacks the 
+coverage, thus no heat advisory is issued. In any event, hot and 
+humid conditions throughout the region with 80s even along the coast 
+with high dew points resulting in near 90 heat index values 
+even near the water. The question around convection is how soon 
+does it initiate this afternoon as the CAMs are not consistent 
+with the start time. One issue is some CAMs are having trouble 
+as to whether to have the pre-frontal trough as the main 
+trigger, or the actual cold front further off to the west. With 
+the timing of things slightly slower leaning towards the pre-
+frontal trough being the main initiator of strong to possibly 
+severe convection for the afternoon and evening. There could be 
+another pulse of convection later in the evening / night, but it
+would likely be primarily non-severe as previous activity may 
+have worked thing over a little and also getting away from the 
+peak diurnal heating later at night with the arrival of the 
+actual cold front. SPC has a marginal risk of severe weather for
+the eastern 2/3rds of the area and a slight risk confined 
+mainly to the NE NJ zones. The primary hazard with any strong to
+severe convection will be strong to potentially damaging wind 
+gusts. The limiting factor to widespread severe storms looks to 
+be marginal mid-level lapse rates and marginal shear values 
+close to 30 kt depending on the guidance one looks at. WPC has 
+slight risk of excessive rainfall across much of the area, and a
+marginal risk across mainly across the eastern and northern 
+portions of the area. Training / repeating storms would be the 
+culprit if flash flooding were to take place, but at this point 
+leaning more towards a localized urban related risk due to high 
+instantaneous rainfall rates. Also see the Hydro section for 
+further information.
+
+Kept PoPs elevated all night long based on the newest data with 
+things progressing a tad slower, with higher POPs east into the 
+overnight. With the cold front more or less slowing late at night 
+look for a damp and cloudy, muggy night with temperatures remaining 
+primarily in the 70s with dewpoint readings remaining elevated.
+
+&&
+
+.SHORT TERM /WEDNESDAY THROUGH WEDNESDAY NIGHT/...
+Clouds remain into Wednesday morning as the front struggles to get 
+further east. Western most location should begin to clear sooner 
+than eastern sections. Chance showers remain for most of the morning 
+across eastern most sections, primarily east of the metro. Toward 
+mid day PoPs really trail off with only a slight chance of lingering 
+showers across eastern most sections during the afternoon. Dew point 
+readings will remain elevated and only lower slightly, mainly across 
+NW sections later in the day. Temperatures overall will be a tad 
+cooler with mainly middle 80s, with some lower 80s closer to the 
+coast on a light W to SW wind. More of a sea breeze influence is 
+anticipated further southeast and along the coast in the afternoon 
+with a light synoptic gradient and the front more or less washing 
+out nearby. Cannot totally rule out an isolate shower or storm in 
+the afternoon as hinted by some CAMs, but have kept this out of the 
+forecast wording for the time being.
+
+For Wednesday night clouds get further east and mainly offshore late 
+with only a subtle drop in humidity was dewpoint remain primarily in 
+the middle 60s across much of the area. Thus temperatures should 
+only fall into the middle and upper 60s in most places, with lower 
+70s in the metro, with perhaps a little patchy fog in the outlying 
+areas possible.
+
+&&
+
+.LONG TERM /THURSDAY THROUGH MONDAY/...
+No significant changes were made to the extended forecast with only 
+a few minor edits made to NBM guidance.
+
+&&
+
+.AVIATION /12Z TUESDAY THROUGH SATURDAY/...
+A cold front slowly approaches from the west today and stalls over 
+the area during Wednesday morning.
+
+VFR outside of afternoon/evening showers and potential thunderstorms 
+when MVFR (cigs/vsbys) to brief IFR (vsbys) would be possible. 
+
+Winds mostly SW 5-10kt, increasing to 10-15kt this afternoon with 
+gusts around 20 kt. Winds then become lighter tonight as they shift 
+more westerly.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Starting time of potential shra/tstm this afternoon indicated in
+TAFs could be an hour or two too early.
+
+Occasional wind gusts around 20 kt possible for a couple of hours 
+before indicated in TAFs.
+
+.OUTLOOK FOR 12Z WEDNESDAY THROUGH SATURDAY... 
+
+Wednesday: Mainly VFR.
+
+Thursday: Possible showers and thunderstorms with brief MVFR or 
+lower possible day into early eve, higher chances north and west of 
+NYC terminals.
+
+Friday: VFR.
+
+Saturday: VFR.
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+As a cold front approaches a southerly flow increases today as ocean 
+seas will build mostly to 4 to 5 ft with gusts of 20 to 25 kt 
+resulting in small craft conditions on the ocean, with sub advisory 
+conditions on the western non-ocean waters. Also, the eastern non-
+ocean waters should fall just short of small craft criteria later 
+today into this evening with perhaps an occasional gust to around 25 
+kt. 
+
+For Wednesday sub advisory conditions should return on the ocean 
+with a W to SW wind and ocean seas mainly remaining at around 4 ft. 
+Generally tranquil conditions Wednesday night through Saturday will 
+result in sub-SCA on all waters.
+
+&&
+
+.HYDROLOGY...
+There remains a marginal to slight risk of excessive rainfall via 
+WPC for today and tonight. With high precipitable water in place 
+instantaneous rain rates are likely to be high, leading to a 
+localized risk of flash flooding in association with any stronger 
+thunderstorms. Repeating and training cells would have to take place 
+for the risk of localized flash flooding to be realized as there 
+will be a uniform SW flow through the column with speeds getting 
+over 30 kt in the mid levels. Overall the risk of flash flooding 
+looks limited in coverage, and should remain localized and confined 
+to mostly urban locations. More widespread flooding would become 
+more of a risk only if rainfall rates can overachieve for multiple 
+hours.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+There is a high risk of rip currents on Tuesday, and this should 
+also be the case into Wednesday with wave heights not coming down 
+much, along with a lingering 9 second easterly swell component. 
+Thus, continuing with the high rip current risk at least through 
+this evening, and potentially being extended at some point into 
+Wednesday.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...High Risk for Rip Currents through this evening for NYZ075-080-081-
+     178-179.
+NJ...None.
+MARINE...Small Craft Advisory from 11 AM this morning to 6 AM EDT 
+     Wednesday for ANZ350-353.
+     Small Craft Advisory from 11 AM this morning to 2 AM EDT 
+     Wednesday for ANZ355.
+
+&&
+
+$$
+
+SYNOPSIS...JE
+NEAR TERM...JE
+SHORT TERM...JE
+LONG TERM...
+AVIATION...JC
+MARINE...JE
+HYDROLOGY...JE
+TIDES/COASTAL FLOODING...

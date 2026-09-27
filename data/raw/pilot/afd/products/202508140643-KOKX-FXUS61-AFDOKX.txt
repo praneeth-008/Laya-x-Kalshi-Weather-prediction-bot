@@ -1,0 +1,197 @@
+303 
+FXUS61 KOKX 140643
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+243 AM EDT Thu Aug 14 2025
+
+.SYNOPSIS...
+A cold front moves into the region today from the northwest. The 
+front will slowly exit the area late this afternoon into this 
+evening. The front then moves far offshore late tonight through 
+Friday. High pressure from Southeast Canada moves in Friday into 
+Saturday. Another cold front approaches Sunday, moving through 
+late in the day into Sunday night. The front may stall nearby, 
+and waves of low pressure move along the boundary into early 
+next week. 
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+An upper level trough moves across well north of the local region 
+today. While height falls are not evident across the local
+region, actually heights slightly rise, some models are 
+indicating some sort of positive vorticity advection in smaller 
+less organized areas traversing the local area.
+
+At the surface, a cold front moves into the region but appears to 
+slightly weaken as it does so. Models convey a slight increase in 
+the low pressure along it.
+
+The CAMs exhibit vastly different solutions and a lack of coherency 
+in their reflectivity fields. The uncertainty therefore is greater 
+and POPs stay below 50 percent through the day today for showers
+and thunderstorms. They do increase late this morning through 
+the afternoon into chance levels and remain at chance levels 
+early this evening before significantly decreasing.
+
+The forcing and bulk shear of 0-6 km AGL only 20 kt will be limiting 
+to the strength of thunderstorms. However, with some decrease 
+in steering flow and weakening of the cold front, showers and 
+thunderstorm that do form will be slower moving. This will 
+become more of a hydrology issue but lack of organization 
+should preclude sufficient areal expansion and aggregate 
+development characteristic of multicellular convection. Some 
+CAMs just depict isolated convection while others show more 
+scattered coverage convection.
+
+High temperatures today were from the NBM which have recently 
+performed better than MOS in being the slightly higher solution 
+compared to MOS. SW flow will continue and some extra sun in between 
+showers and thunderstorms will allow for more potential in 
+temperatures being higher than forecast. Dewpoints from NBM were 
+lowered with more MOS favored for this parameter. Max temperatures 
+today are mainly from the mid 80s to around 90 and with dewpoints in 
+the upper 60s to near 70 for much of the area, resulting max heat 
+indices will just be a few degrees higher than the actual 
+temperature (i.e. low 90s). This is below heat advisory
+criteria.
+
+&&
+
+.SHORT TERM /FRIDAY THROUGH SATURDAY NIGHT/...
+For tonight, the cold front will eventually move south of the entire 
+region and push south of Long Island overnight into early morning 
+hours of Friday. Flow becomes more northerly but with a weakening 
+pressure gradient, the wind speeds remain quite light. As a result, 
+some areas could get some fog with overnight cooling into early 
+Friday morning. This will be more favored for those locations
+that received earlier rainfall.
+
+For the rest of the short term and going through the first half of 
+the upcoming weekend, high pressure will be in more control of the 
+local weather. High pressure builds south into the area from SE
+Canada and then remains centered near the Canadian Maritimes
+through Saturday. This allow for a more easterly flow to develop
+and eventually modify the local airmass.
+
+Mainly dry conditions persist and temperatures exhibit a 
+cooling trend due to greater easterly component of low level 
+flow. At night, both Friday night and Saturday night, some 
+outlying areas across Lower Hudson Valley, Southern Connecticut 
+and interior Northeast New Jersey could develop some fog but 
+coverage is only expected to be patchy.
+
+&&
+
+.LONG TERM /SUNDAY THROUGH WEDNESDAY/...
+The beginning of the long term period will be quiet with 
+temperatures near seasonal normals with high pressure over the 
+region. High pressure will be offshore Sunday as a cold front 
+approaches, and moves through late day into Sunday night. With a 
+return flow temperatures Sunday will be in the lower 90s inland and 
+upper 80s along the coast. And the combination of dew points in the 
+upper 60s to lower 70s will produce heat indices in the mid 90s. 
+Sunday will be the only day of heat and humidity as temperatures 
+return to near or below seasonal levels behind the cold front Monday 
+into Wednesday. And drier air will be moving in as high pressure 
+builds to the north. The cold front is expected to stall somewhere 
+south of the region late Sunday night, and weak waves of low 
+pressure move along the boundary Monday through Wednesday. With this 
+possibility there are at least slight chances of precipitation, 
+although there will be dry periods at times as well. The NBM was 
+followed throughout the extended period.
+
+&&
+
+.AVIATION /07Z THURSDAY THROUGH MONDAY/...
+A cold front slowly approaches tonight, moving through Thursday. 
+
+The last of the rain will exit ern portions of the area
+overnight. Generally VFR outside of the rain, although KGON is 
+expected to drop to IFR late. There is a chance it gets into ISP
+as well.
+
+Sct shwrs and tstms possible again on Thu, mainly in the aftn
+invof the front. Prob30s have been maintained in the fcst. 
+
+Winds lighten tonight, going variable in direction at most 
+terminals, which may persist through much of Thursday morning or
+become northerly. Increasing southerly flow then follows in the
+afternoon, followed by light N/VRB flow Thu ngt.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Winds may be close to 200 true thru 6Z.
+
+.OUTLOOK FOR 00Z FRIDAY THROUGH MONDAY... 
+
+Thursday night-Sunday: VFR. 
+
+Monday: Morning -shra and MVFR possible, otherwise mainly VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+A weak pressure gradient remains across the local waters through
+the first half of the weekend, with sub-SCA conditions expected
+to continue.
+
+Sub SCA conditions are likely Sunday and Monday, though swell 
+on the ocean waters may begin to increase Monday from distant 
+tropical cyclone Erin. Follow the National Hurricane Center 
+(www.hurricanes.gov) for the latest on Erin.
+
+&&
+
+.HYDROLOGY...
+There is a marginal risk for flash flooding with thunderstorms 
+that develop this afternoon into early evening. While coverage 
+of thunderstorms appears to get to scattered at most, the high 
+PW values of near 2 inches and enhanced convergence along the 
+front will allow for a greater potential of torrential 
+downpours.
+
+Any flooding should be quite localized and mostly minor
+nuisance, confined to low-lying, poor drainage and urban areas.
+
+Basin averaged amounts with the front stay under a half inch.
+Localized higher amounts will be possible.
+
+Otherwise, there are no significant hydrological concerns
+thereafter through next Thursday.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+For Thursday, a moderate risk for the development of rip 
+currents is forecast at the New York City ocean beaches, with a 
+low risk at the Nassau and Suffolk counties beaches.
+
+For Friday there is a low risk for the development of rip
+currents at all the ocean beaches.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JM/DBR
+NEAR TERM...JM
+SHORT TERM...JM
+LONG TERM...DBR
+AVIATION...DBR
+MARINE...JM/DBR
+HYDROLOGY...JM/DBR
+TIDES/COASTAL FLOODING...

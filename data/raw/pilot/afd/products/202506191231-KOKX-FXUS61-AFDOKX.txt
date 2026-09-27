@@ -1,0 +1,172 @@
+311 
+FXUS61 KOKX 191231
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+Issued by National Weather Service Boston/Norton MA
+831 AM EDT Thu Jun 19 2025
+
+.SYNOPSIS...
+
+A cold front approaches late today and moves across the region 
+Thursday night. High pressure builds Friday and into the 
+weekend. Bermuda high pressure will then settle just south of 
+the region for the first half of next week.
+
+&&
+
+.NEAR TERM /THROUGH FRIDAY/...
+
+Key Messages...
+
+* Hot and Humid today
+* scattered severe thunderstorms possible between 2 and 10 pm
+
+Areas of dense fog was in the process of burning off this
+morning. The strong late June sun angle should allow most of
+this to dissipate by lunchtime. 
+
+Shortwave approach in late afternoon, encountering a moderately
+unstable and deeply sheared environment, should allow for 
+scattered multi-cell and supercell development along/ahead of 
+the pre-frontal trough across central NY/PA in the early 
+afternoon. This activity should work east towards the region in 
+the late afternoon/evening, with organization into a bowing line
+segment or two possible. Scattered severe storms are possible 
+(SPC-WFO coordinated slight risk for the area) with damaging 
+wind gusts the primary threat (15% probability of occurrence w/i
+25 miles of a point), particularly with any bowing segment 
+development. There is a marginal risk of large hail (5% 
+probability of occurrence w/i 25 miles of a point) with any 
+supercell/multi cluster activity, and an isolated tornado threat
+(2% probability of occurrence w/i 25 miles of a point) along 
+bowing segments or supercells. Farther east across LI/CT, 
+expectation is that storms should gradually weaken in intensity 
+after 8pm as storms encounter a stabilizing environment. 
+  
+With the passage of the cold front tonight the showers and 
+thunderstorms will end. High pressure then builds toward the 
+region for Friday, with slightly cooler temperatures.
+
+&&
+
+.SHORT TERM /FRIDAY NIGHT/...
+
+High pressure will remain in control of our weather Friday
+night with lows mainly in the 60s.
+
+&&
+
+.LONG TERM /SATURDAY THROUGH WEDNESDAY/...
+
+* PATTERN CHANGE TO HOT AND HUMID CONDITIONS BY EARLY NEXT WEEK *
+
+Expect a significant long wave pattern change for the period. A
+shortwave feature exits Northern New England and SE Canada 
+early on Friday. In its wake gradual height rises are expected 
+to take place for the most part beginning Friday and into the 
+weekend. Much of the NWP global guidance is suggestive of a 
+shortwave feature which attempts to ride and break through the 
+northern portion of the building ridge. This will be a transient
+feature as questions remain as to how this feature will track 
+and whether its effects will be mainly north of the CWA towards 
+the middle of the upcoming weekend. For now have covered this 
+feature with slight chance to low end chance PoPs. In any event,
+the turn to a hot and humid regime looks likely into early next
+week as higher heights and thicknesses build across the region.
+The warm up is expected to begin to build by late Sunday, 
+especially for western and southwestern most areas.
+
+Hot and humid conditions thus are likely to prevail Monday 
+through Wednesday with primarily dry weather as any shower / 
+t-storm activity is likely to remain west and northwest of the 
+region. At this time it appears that a good portion of the 
+region will experience the first heat wave of the season, with 
+less certainty further east. Regardless, temperatures will 
+average well above normal into next week. Towards the tail end 
+of the period (say mid to late week) if the ridge break downs 
+enough, the chance of diurnally driven convection would increase
+and could introduce some chance of late day and early evening 
+showers and t-storms.
+
+&&
+
+.AVIATION /13Z THURSDAY THROUGH MONDAY/...
+
+12z TAF Update...
+
+Main issue is the areas of dense fog/low clouds which will burn
+off in most locations by lunch time with most locations
+improving to VFR. Then the concern shifts to the scattered 
+thunderstorm threat after 18z. This activity will be hit or 
+miss...but a few of the storms may become strong to severe. This
+may result in brief IFR to even LIFR conditions under any storm.
+SW winds may gust to 25 knots at times this afternoon shifting
+to the west later tonight. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Main concern revolves around areas of fog/low clouds that should
+be burning off through lunchtime. Then we will be watching for
+scattered thunderstorms after 18z into the evening. 
+
+.OUTLOOK FOR 00Z FRIDAY THROUGH MONDAY... 
+
+Friday through Monday: Mainly VFR. 
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+
+We expanded the Marine Dense Fog Advisory until 15z...but should see 
+visibility to improve through lunch time. Southwest flow ahead 
+of a cold front will result in gusts to near 25 kt are likely 
+on the ocean waters and southern bays. As a result ocean seas 
+will likely build to around 5 feet late today into Fri AM. 
+Behind the cold front, NW gusts are expected to run below 25 kt.
+
+
+Winds and waves are expected to fall below Small Craft Advisory
+criteria Friday afternoon and continue through early next week.
+Ocean seas should settle in around 2 ft, occasionally up to 3 
+ft during the weekend and into early next week.
+
+&&
+
+.HYDROLOGY... 
+
+Once again a marginal risk of flash flooding (around 5% probability) 
+today, with scattered locally heavy downpours and thunderstorms
+late Thursday afternoon into the evening. The quicker storm 
+motion as compared to today, will limit the flash flood threat 
+to any localized areas of training. 
+
+There are no hydrologic concerns Friday through early next 
+week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Air Quality Alert until 11 PM EDT this evening for CTZ005>007-
+     009>011.
+NY...High Risk for Rip Currents from noon EDT today through this evening 
+     for NYZ075-178-179.
+NJ...None.
+MARINE...Dense Fog Advisory until 11 AM EDT this morning for ANZ331-332-
+     335-340-350-353-370.
+
+&&
+
+$$
+
+SYNOPSIS...Frank
+NEAR TERM...Frank
+SHORT TERM...Frank
+LONG TERM...99
+AVIATION...Frank
+MARINE...Frank
+HYDROLOGY...99

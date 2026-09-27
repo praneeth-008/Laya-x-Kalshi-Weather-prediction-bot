@@ -1,0 +1,192 @@
+745 
+FXUS61 KOKX 131955
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+355 PM EDT Fri Jun 13 2025
+
+.SYNOPSIS...
+A frontal wave will pass to the south late tonight into Saturday.
+Behind it, high pressure builds in from the northeast Saturday 
+night into Sunday. Weak high pressure will be in place through 
+Wednesday, with a warm front lifting north through the area by 
+Thursday, followed by a cold front Thursday night.
+
+&&
+
+.NEAR TERM /THROUGH SATURDAY/...
+A confluent flow between the northern and southern branches of 
+the polar jet will be featured across the Northeast. This will 
+allow high pressure to build across eastern Canada and into the 
+Northeast. To the south across the northern Mid Atlantic 
+states, a frontal wave will move offshore late tonight into 
+Saturday, passing south of the area. The latter of which will 
+bring showers areawide tonight and a possible thunderstorm,but 
+mainly after midnight into Saturday morning. There will be some 
+elevated instability, but mainly across the southern half of the
+forecast area. With PW values approaching 2 inches, any embedded
+convection could produce brief heavy rainfall. Otherwise, the 
+system is rather disjointed and will transition to some light 
+rain by Saturday afternoon. High pressure and drying conditions 
+will work in from the north as high pressure builds behind the 
+departing low.
+
+Expected rainfall amounts late tonight into Saturday will be 
+between 0.25 and 0.50 inches. Stayed close to an NBM/WPC 
+consenus. Right now, not buying into some of the higher amounts 
+shown by the 12Z Canadian and ECMWF. 13Z NBM 50th percentile is 
+0.3 to 0.4", with the mean a bit higher (skewed toward higher 
+amounts). However, probability of greater than 0.75" is only 
+15-25%. 
+
+Overnight lows will be in the upper 50s to lowers 60s, which is 
+nearly normal. However. due to the cloud cover, northeast flow, 
+and rain, highs on Saturday will likely not climb out of the 
+60s. This is more than 10 degrees below normal.
+
+&&
+
+.SHORT TERM /SATURDAY NIGHT THROUGH SUNDAY/...
+High pressure noses in from the northeast Saturday night into
+Sunday with only a slight chance of light rain during this time.
+Model time height cross sections during this time show dry mid
+levels with moisture confined to the low levels, mainly below 
+700mb. In fact, while the forecast remains mostly cloudy during 
+this time, it could very well remain dry through Father's Day 
+and temperatures may be on the upper end of the guidance. 
+
+For the time, expect lows in 50s Saturday night and highs in the
+60s for Sunday. This is on the cool side. 
+
+&&
+
+.LONG TERM /SUNDAY NIGHT THROUGH FRIDAY/...
+A relatively zonal upper flow is anticipated through Wednesday night 
+before it amplifies with a trough axis approaching Thursday night 
+and passing through on Friday. This leads to weak surface high 
+pressure over the region with a stalled boundary to our south. This 
+boundary then becomes a warm front and advances north by Thursday 
+with weak ridging aloft. A cold front then follows during Thursday 
+night or possibly on Friday.
+
+Highest chance of rainfall within the long term appears to be with 
+the cold front passage, but there's uncertainty surrounding how 
+probable it will be due to timing differences for the passage among 
+the global models. A passage during the daytime Friday would 
+probably bring a higher threat overall with a greater chance of 
+heavy downpours as instability would be higher during the daytime. 
+12z LREF leans toward the faster side of the guidance envelope with 
+the h5 trough axis and attendant cold front. The cold front is 
+therefore more likely to pass through during Thursday night, 
+mitigating the potential for severe weather and flooding impacts. 
+With that said, trends need to be watched so see if the frontal 
+passage becomes more likely during the daytime on Thursday, or at 
+the least, a prefrontal trough acting as a focus for convection. 
+
+NBM was used for temperatures through the long term period. 
+Thursday's high temperatures however may eventually need to be 
+raised by at least 5 degrees given the progged h8 temperatures, but 
+with the aforementioned convective uncertainty, have not adjusted 
+from the NBM at this time. Heat impacts may factor in for some 
+locations if it ends up being hotter than currently forecast, 
+particularly away from the coast.
+
+&&
+
+.AVIATION /20Z FRIDAY THROUGH WEDNESDAY/...
+A cold front will remain stalled south of the region as an area of 
+low pressure develops and approaches along the front. The low exits 
+towards the tail end of the TAF period.
+
+VFR conditions expected through this evening and a portion of the 
+overnight. MVFR is expected to hold off for the first half of the 
+night, with higher chances late in the overnight mainly towards and 
+after 08-09z and carrying into Saturday morning. Chances for showers 
+increase late tonight, becoming likely early Saturday morning. The 
+chances for IFR increase into Saturday morning, except for northern 
+most terminals where MVFR is expected to prevail.
+
+E to SE winds this afternoon around 10 kts, followed by the winds 
+going more easterly tonight. The winds then become more 
+northeasterly Saturday. The winds decrease to near 5 to 8 kts 
+tonight into early Saturday but will be variable in direction for 
+some terminals outside of NYC. The winds increase closer to 10 kt at 
+most terminals during by midday.
+
+...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Amendments may be needed later tonight into Saturday morning for 
+changing flight categories.
+
+
+.OUTLOOK FOR 18Z SATURDAY THROUGH WEDNESDAY... 
+
+Saturday afternoon: MVFR and IFR with chance of showers. Occasional 
+NE wind gusts 15-20 kt possible.
+
+Saturday night: Lowering chances of showers. MVFR to IFR possible.
+
+Sunday: Chance of showers. Slight chance of a thunderstorm afternoon 
+into early evening. MVFR to IFR possible at times. Otherwise VFR.
+
+Monday: Chance of showers. MVFR to IFR possible at times. Otherwise 
+VFR.
+
+Tuesday: Mainly VFR.
+
+Wednesday: Mostly VFR, with the chance of a period of sub-VFR. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Sub advisory conditions are anticipated for all waters through the 
+first half of the weekend. Ocean seas generally hold at 2 to 4 
+ft with a relaxed pressure gradient and a light onshore flow.
+Marginal SCA seas are possible for the central and eastern ocean
+zones late Saturday night into Sunday morning. 
+
+Sub-advisory conditions should otherwise continue through
+Wednesday.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts expected through early next week.
+
+Next chance for impacts would be Thursday into Thursday night with 
+any thunderstorms that manage to develop in a moist airmass in 
+place. There's high uncertainty this far out in time regarding the 
+probability, timing and magnitude of any impacts with this.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+The rip current risk is low for the rest of today with a light 
+easterly flow and limited swell. There is a moderate rip current 
+risk on Saturday with an east to southeast swell.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...Air Quality Alert until 11 PM EDT this evening for NJZ002-004-
+     006-103>108.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JC/DW
+NEAR TERM...DW
+SHORT TERM...DW
+LONG TERM...JC
+AVIATION...JE
+MARINE...JC/DW
+HYDROLOGY...JC/DW
+TIDES/COASTAL FLOODING...

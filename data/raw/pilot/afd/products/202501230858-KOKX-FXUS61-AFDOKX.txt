@@ -1,0 +1,122 @@
+608 
+FXUS61 KOKX 230858
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+358 AM EST Thu Jan 23 2025
+
+.SYNOPSIS...
+Weak high pressure remains over the region today as low pressure 
+passes offshore late in the day and tonight. Another high builds 
+into the region Friday, and remains Saturday, shifting south 
+Saturday night. A cold front is expected to move across the region
+late in the weekend, followed by another cold front Tuesday into 
+Wednesday.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+The core of the cold airmass was moving offshore this morning 
+with high pressure moving east. The high pressure shifts off 
+the northeast coast today allowing for a southern stream low to 
+pass well offshore of the region late in the day and into 
+tonight. This low is now expected to track a little farther east
+as an upper level trough will be more progressive and moving 
+toward the eastern seaboard during today and into tonight. A
+light return flow will allow for highs to reach the mid and
+upper 20s inland and around 32 along the coast. The
+deterministic NBM and MOS guidance were used for temperatures
+today and tonight.
+
+&&
+
+.SHORT TERM /FRIDAY THROUGH SATURDAY/...
+Upper ridging moves into the region during Friday and remains
+Saturday, while surface high pressure builds into the region.
+With another upper trough moving into the northeast Saturday
+night the surface high gets suppressed southward. However, dry
+conditions will remain with temperatures remaining below normal
+levels. Once again a blend of the deterministic and MOS guidance
+was used.
+
+&&
+
+.LONG TERM /SATURDAY NIGHT THROUGH WEDNESDAY/...
+High pressure remains over the region this Saturday night and 
+Sunday. Temperatures do warm a bit for Sunday with highs in the 
+middle and upper 30s, to near 40 along the coast.
+
+The high slides offshore allowing a series of upper level 
+troughs and associated surface cold fronts to push across the 
+region. The first will be Sunday night into Monday, followed by 
+another Tuesday night into Wednesday. Each of these systems 
+should bring some cloud cover to the area, however there is not 
+much moisture to work with, so many of these fronts will push 
+across the area dry.
+
+High temperatures Monday and Tuesday will be in the 30s. A cold
+front will bring a re-enforcing shot of cold air for Wednesday 
+and Thursday with highs remaining in the 30s.
+
+&&
+
+.AVIATION /09Z THURSDAY THROUGH MONDAY/...
+High pressure over the region will gradually weaken today as it
+moves to the south. 
+
+Expect VFR conditions through the TAF period. 
+
+Winds will start off light and variable, becoming SW. Winds 
+should remain below 10kt this morning, then become closer to 10 
+this afternoon. This evening into tonight, winds become a bit 
+more westerly around 5-10kt. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No unscheduled amendments expected. 
+
+.OUTLOOK FOR 06Z THURSDAY THROUGH MONDAY...
+
+Thursday Night-Friday: VFR. 
+
+Saturday: VFR. W gusts 15-20 kt NYC metro/coastal terminals.
+
+Sunday-Monday: VFR. W-WSW gusts 20-25 kt.  
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+With high pressure over the forecast waters winds and seas
+remain below advisory levels through Saturday night. Small 
+craft conditions are expected to return for Sunday and continue 
+for a large portion of next week as a series of cold fronts move
+across the area. 
+
+&&
+
+.HYDROLOGY...
+No hydrologic issues anticipated.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...BC/MET
+NEAR TERM...MET
+SHORT TERM...MET
+LONG TERM...BC
+AVIATION...BC
+MARINE...BC/MET
+HYDROLOGY...BC/MET

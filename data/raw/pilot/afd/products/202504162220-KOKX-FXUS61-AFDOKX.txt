@@ -1,0 +1,246 @@
+575 
+FXUS61 KOKX 162220
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+620 PM EDT Wed Apr 16 2025
+
+.SYNOPSIS...
+A series of weak surface troughs move through the area into 
+Thursday. High pressure then builds overhead Thursday night
+and then offshore on Friday. A warm front lifts north of the 
+area late Friday into Friday night. A cold front moves through
+Saturday night into Sunday morning followed by brief high 
+pressure. Then, a frontal system impacts the region late Monday 
+through late Tuesday. High pressure then follows into Wednesday.
+
+&&
+
+.NEAR TERM /THROUGH THURSDAY/...
+The forecast remains on track. Only minor adjustments were made
+with this evening update. 
+
+An upper trough will continue pushing offshore tonight. Closed
+low over southeast Canada will also continue to spin as it 
+slowly lifts towards the Maritimes into Thursday. This pattern 
+will keep the region between building high pressure to the west 
+and the aforementioned low pressure to our northeast. The low 
+begins to weaken as it moves over the Maritimes late Thursday 
+allowing the high pressure to begin settling over the area. 
+
+Breezy WNW winds will continue tonight although the 25-35 mph
+gusts occurring for much of the day will weaken this evening. 
+Gusts 20-25 mph are possible the first half of the night, but 
+should weaken further early Thursday morning. The boundary does 
+not decouple with the gradient in place so sustained winds will 
+likely remain up and be around 10 mph for most spots. Moisture 
+trapped beneath a subsidence inversion around 4-5 kft diminishes
+overnight. The broken stratocu associated with the subsidence 
+inversion should scatter out leading to mostly clear skies 
+overnight. Lows will fall into the middle 30s inland and upper 
+30s and low 40s closer to the coast. Frost is not expected where
+the growing season has begun due to the winds remaining up and 
+temperatures struggling to fall into the mid 30s. 
+
+WNW-NW flow will continue on Thursday, but the air mass begins
+to moderate. Mixing does not appear as deep, but models have 
+struggled all year with the depth of the mixed layer and 
+resulting winds. Thursday looks like another day where winds 
+will likely be a bit stronger than modeled, which will also lead
+to slightly warmer temperatures. Have gone closer to the NBM 
+90th percentile for temperatures, which yields highs in the 
+lower 60s for most spots. Sustained winds 10-15 mph with gusts 
+20-25 mph look likely, especially in the late morning and 
+afternoon. Winds will start subsiding late in the day as the 
+pressure gradient relaxes due to the high pressure nearing the 
+region. Mostly clear skies are expected for Thursday.
+
+&&
+
+.SHORT TERM /THURSDAY NIGHT THROUGH FRIDAY/...
+Ridging will build both aloft and at the surface Thursday night.
+Winds should be weak under clear skies and a dry air mass. This
+will set the stage for ideal radiational cooling conditions 
+outside the NYC metro. Lows look to fall into the lower 30s 
+inland and middle to upper 30s most elsewhere. Temperatures will
+likely remain in the 40s in the NYC metro. The LI Pine Barrens 
+should also bottom out around 30 degrees, where the growing 
+season has already begun. Some patchy frost has been included 
+here for now, but confidence in widespread freezing temperatures
+is low for any headline at this time. 
+
+Ridging will continue to build over the eastern US on Friday.
+The surface high will shift offshore through the day setting up
+a southerly return flow. A weak shortwave is expected to 
+traverse around the periphery of the ridge which should send a 
+warm front towards the area late in the day. The lower levels 
+should remain dry, but mid and upper level moisture increase in 
+the afternoon. Model consensus PoPs have largely remained around
+20 percent across the interior late in the day, but overall 
+mainly dry conditions will continue. The southerly flow will 
+hold temperatures close to seasonable levels across Long Island 
+and Southern CT. Temperatures across portions of NYC, NE NJ, and
+Lower Hudson Valley should rise into the middle and upper 60s.
+
+&&
+
+.LONG TERM /FRIDAY NIGHT THROUGH WEDNESDAY/...
+Key Messages:
+
+ * Warm temperatures Friday night into Saturday with highs in  
+   the 70s to low-80s.
+
+ * Slight chance of showers ahead of cold front Saturday evening 
+   into early Saturday night.
+
+ * Average temperatures and dry weather into Sunday under brief high 
+   pressure. 
+
+ * Additional showers possible late Monday into late Tuesday with a 
+   frontal system, but uncertainty remains. 
+
+An upper-level ridge will be in place Friday night into
+Saturday with a warm front moving north of the area. This keeps
+us warm- sectored Friday night into Saturday with strong warm 
+air advection. Lows will much warmer Friday night, as a result, 
+in the mid-50s to upper-40s. Well above average highs are 
+expected on Saturday in the low-80s to 70s. Mainly dry weather 
+on Friday night, but that may change by late Saturday into 
+Saturday night. 
+
+Low pressure that brought a warm front through the area will 
+eventually track into eastern Quebec bringing a cold front
+through the area Saturday night into Sunday morning. This will 
+bring a quick chance of showers and bring down temperatures on 
+Sunday. Previously, there was quite a bit of disagreement on the
+cold front timing, with some guidance bringing it in Saturday 
+night and other guidance bringing the cold front in on Sunday 
+night or even Monday night. Now the 12Z GFS/GDPS/ECMWF are in 
+agreement on the front pushing through by or during Sunday 
+morning. It appears a longwave trough moving in through southern
+Canada will help push this front all the way through and to the
+south of our area. It looks like the 13Z deterministic NBM was 
+still in favor of the later timing of the front, so blended in 
+some NBM 50th for highs to steer away from this bias. 
+
+This brings Sunday's highs down into the 60s. Its important to
+note that there is still a chance, although smaller now, that 
+the front could come in later than Sunday morning. Should this 
+occur, such as what the 12Z ICON thinks, would lead to warmer 
+temperatures on Sunday that currently forecast.
+
+PWATs climb to 1.4-1.5" ahead of the cold front Saturday evening
+and early night with increased dewpoints. Isolated to scattered
+light showers are possible during this timeframe before 
+moisture drops fast in response to the approaching and passing 
+cold front. 
+
+Monday through Wednesday is filled with much uncertainty. All 
+available 12Z guidance diverges and brings different solutions.
+In general, late Monday through late Tuesday a frontal system 
+is expected to impact us and bring a chance for showers. Timing,
+placement, and magnitude still vary. Some guidance bring a low 
+over the area, others have a low pass northwest with another low
+developing at the coast along a front. Went with a general NBM 
+blend for this time frame. High pressure will likely settle in 
+following the frontal system, which would be timed for 
+Wednesday.
+
+&&
+
+.AVIATION /22Z WEDNESDAY THROUGH MONDAY/...
+High pressure builds in from the west through Thursday, and settles 
+just to the south Thursday night.
+
+VFR through the TAF period. 
+
+WNW/W winds continue through the forecast period. Gusts generally 25 
+to 30 kt over the next couple of hours. By early this evening the 
+winds may become a bit more NW and begin to diminish some. The metro 
+terminals are expected to hold onto to gusts through the night, but 
+closer to 15 to 20 kt. However, these may end up being more 
+occasional at times rather than prevailing. Outlying terminals are 
+expected to lose gusts altogether for at least a portion of the 
+night, more likely after 05z.
+
+   ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No unscheduled amendments expected.
+
+.OUTLOOK FOR 18Z THURSDAY THROUGH MONDAY...
+
+Thursday afternoon: VFR. WNW winds G20-25kt.
+
+Friday: Mainly VFR. Chance of showers late afternoon and night, 
+mainly for the NW interior. S winds G15-20kt.
+
+Saturday: Mainly VFR. Chance of showers, mainly NW interior. SW 
+winds G20-25kt.
+
+Sunday: VFR. NW wind gusts 15-20 kt possible.
+
+Monday: Sub VFR possible in showers.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Gusty WNW winds will continue on the waters tonight, but
+should begin subsiding below 25 kt on the non ocean waters. SCA
+gusts may continue on the ocean until late tonight. Ocean seas 
+will also gradually subside below 5 ft by day break Thursday. No
+changes were made to the ongoing SCA headlines. Winds may still
+gust 15-20 kt on Thursday, but will remain below SCA levels. 
+Weak flow Thursday night into early Friday will continue to lead
+to conditions below SCA levels. Winds and seas begin building 
+late Friday with potential of SCA conditions Friday evening. 
+These conditions will continue through Saturday evening. 
+
+Thereafter, winds will be below SCA levels on all waters. Waves
+on ocean waters climb to 6-8 feet Friday night and remain there
+through Saturday. Saturday night, ocean waters may have 5 ft 
+waves linger through Sunday afternoon before dropping below 5 
+ft. Thereafter, waves will be below SCA levels on all waters.
+
+&&
+
+.FIRE WEATHER...
+An SPS will be issued this evening for Thursday for the Lower
+Hudson Valley, New York City Metro, and Long Island due to 
+an elevated threat of wildfire spread. This is collaborated 
+with neighboring WFOs and NY State land manager due to drying 
+fuels, gusty WNW-NW winds 20-25 mph, and RH values falling to 
+25-30 percent.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through the middle of next
+week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 2 AM EDT Thursday for ANZ331-332-
+     335-338-340-345.
+     Small Craft Advisory until 6 AM EDT Thursday for ANZ350-353-
+     355.
+
+&&
+
+$$
+
+SYNOPSIS...BR/DS
+NEAR TERM...BR/DS
+SHORT TERM...DS
+LONG TERM...BR
+AVIATION...JE
+MARINE...BR/DS
+FIRE WEATHER...
+HYDROLOGY...BR/DS

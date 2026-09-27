@@ -1,0 +1,195 @@
+692 
+FXUS61 KOKX 220607
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+207 AM EDT Tue Apr 22 2025
+
+.SYNOPSIS...
+A warm front moves into the region overnight, followed by a 
+weakening cold front that stalls across the area Tuesday. High 
+pressure then builds back in for Wednesday. High pressure 
+remains over the region through Thursday night, followed by a 
+frontal system Friday into Saturday. High pressure returns for 
+the second half of the weekend.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM THIS MORNING/...
+A shortwave is currently tracking to the north of the area 
+overnight as a highly amplifies ridge moves offshore. A warm 
+front the Delmarva region moves into the region and becomes 
+nearly stationary in the vicinity. Latest CAMS show a weakening
+cold front moving into the area early in the morning, with the 
+front becoming nearly parallel to the lower and upper flow. The 
+front then stalls and looks to wash out over the eastern half of
+the area late today into Tuesday night. Also, with the latest 
+guidance and radar trends showing scattered to isolated shower 
+activity for the overnight, have lowered probabilities 
+considerably, and changed to coverage wording.
+
+&&
+
+.SHORT TERM /6 AM THIS MORNING THROUGH 6 PM WEDNESDAY/...
+Key Messages: 
+
+* Dry conditions and well above seasonable temps on Tuesday and
+  Wednesday
+
+Great Lakes closed low slides east through Ontario/Quebec on 
+Tuesday into Wednesday while weakening. At the surface, a 
+resultant weakening low pressure slides E through Quebec and 
+Northern New England Tuesday into Tuesday Night, and thru the 
+Canadian Maritimes on Wednesday. 
+
+Locally, warm front pushes north Tuesday AM, with weakening cold 
+front stalling over the area Tuesday. Secondary cold front crosses 
+Tuesday Night with Canadian high pressure noses in from the NW on 
+Wednesday. 
+
+Drying conditions Tuesday with deep WSW flow. Morning stratus 
+should give way to a veil of high clouds, deep mixing and still 
+mild 850mb temps (10C dropping to 8c in the late aft), which 
+will result in unseasonably warm temps (mid to upper 70s) for 
+all but south and eastern coastal areas on gusty westerly flow. 
+Temps should challenge the daily record high of 75F for KISP. 
+Southern and eastern coastal areas could be into the mid 70s as
+well (warmer than current forecast) if westerly flow is 
+stronger than modeled, but with weakening cold front in the 
+region this could allow for more backed (maritime) flow for 
+these area. Leaned towards 50-75th percentile NBM based on 
+downslope flow regime. Once again, NBM deterministic max T are 
+generally running in the lowest 25th quartile, which appears low
+based on above. 
+
+Weak cold front sags south of the region Tuesday Night. With mixed 
+low-levels and little change in airmass, continued mild conditions 
+likely with lows in the mid to upper 40s for much of the area, lower 
+50s NYC/NJ metro.
+
+High pressure builds west and south of the region on Wednesday. NW 
+flow to start the day will give way to afternoon sea breeze 
+development as thermal troughing develops. Plenty of sunshine, 
+filtered by a veil of high clouds, should allow temps to warm up 
+quickly areawide before that with deep mixing towards 850 mb (7-9 
+C). High temps should be able to climb into the upper 60s to lower 
+70 for the coast before seabreeze development knocks temps back 
+down, and lower to mid 70s for NYC/NJ metro and interior to the 
+north of sea breeze. Leaned towards 50-75th percentile NBM based on 
+weak offshore flow regime.
+
+&&
+
+.LONG TERM /WEDNESDAY NIGHT THROUGH MONDAY/...
+The long term period starts off with high pressure over the region 
+with dry conditions and mostly clear skies for Wednesday night and 
+Thursday. The high starts to slide east Thursday night and Friday, 
+with another shortwave/low pressure system approaching for Friday 
+into Saturday. The surface low is expected to pass north of the 
+region with its associated warm front moving through on Friday and 
+cold front moving across the area during the day Saturday. 12Z 
+global guidance still varies on timing with some models such as the 
+12Z GFS having the front push through 15-18Z Saturday, while other 
+models don't have it until after 00Z Sunday. This means the timing 
+of likely POPs, chance for thunder, and Saturday's highs could still 
+shift some from what is currently forecast. 
+
+Overall, clouds will gradually increase Thursday night and early 
+Friday, with POPs gradually increasing Friday afternoon. For now, 
+looking at just some chance POPs Friday evening. POPs increase 
+further after midnight Friday night into Saturday as a cold front 
+approaches and moves across the region. POPs taper on Saturday night.
+
+Mainly rain showers expected, but some instability along with lift 
+from FROPA could lead to a few rumbles of thunder on Saturday. The 
+chances for this will become more clear as the event nears. 
+
+High pressure returns Sunday from the Great Lakes region under NW 
+flow leading to dry weather and sunshine to end the weekend on.
+
+Temperatures remain at or above normal for this time of year.
+
+&&
+
+.AVIATION /05Z TUESDAY THROUGH SATURDAY/...
+A weak warm front lifts across the area this morning, while the
+trailing cold front dissipates across the area. A secondary cold
+front pushes through Tuesday evening.
+
+Widespread MVFR with occasional IFR conditions through about
+14Z, followed by improvement to VFR. KGON may take as long as 
+17Z to improve to VFR. Chance of SHRA through about 10Z.
+
+Light and variable winds across all but KISP, where it will
+start off SSW 5-10kt. Winds veer to the SW toward daybreak with
+the warm frontal passage, then veer to the W-WSW by late 
+morning/early afternoon. KBDR and KGON may hold on to a hybrid 
+seabreeze out of the SW until winds veer more in the afternoon
+ahead of an approaching secondary cold front. Winds then become
+NW-NNW 5-10kt after 00Z.
+
+There is a brief chance of SW LLWS at the eastern terminals 
+through about 09Z, with 2Kft winds 230 at around 40 kt. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Best chance of showers to the east of NYC terminals.
+
+IFR conditions could become prevailing through about 12Z.
+
+Onset of W gusts later this morning may be delayed by 1-2 
+hours.
+
+.OUTLOOK FOR 06Z WEDNESDAY THROUGH SATURDAY...
+
+Late Tuesday night through Thursday: VFR.
+
+Friday: VFR during the day. A chance of MVFR and showers, at
+night.
+
+Saturday: MVFR or lower in showers. An isolated thunderstorm is 
+possible.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+No changes to the winds and seas overnight into Tuesday.
+
+Occasional gusts to 25kts are possible for a short period on the 
+ocean waters in advance of a frontal system overnight, thus not
+enough confidence for SCA.
+
+Thereafter, otherwise conditions are expected to remain below SCA 
+levels through Friday in a weak pressure regime. 
+
+The next chance for SCA conditions will be Friday night into 
+Saturday with a frontal system moving across the waters.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic issues through next weekend.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...BR/NV
+NEAR TERM...JE/NV
+SHORT TERM...NV
+LONG TERM...BR
+AVIATION...DW
+MARINE...BR/MET/NV
+HYDROLOGY...BR/NV

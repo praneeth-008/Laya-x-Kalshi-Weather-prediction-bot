@@ -1,0 +1,181 @@
+679 
+FXUS61 KOKX 220533
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1233 AM EST Wed Jan 22 2025
+
+.SYNOPSIS...
+High pressure continues to build in from the west through
+Wednesday, and will be in control for late this week as low 
+pressure passes well offshore on Thursday, and again late Friday
+and Friday night. A weak cold front is expected to pass through
+late in the weekend as another low develops offshore and tracks
+well east of the region early next week.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM THIS MORNING/...
+Lowered chances for precipitation across eastern areas a bit
+based on current radar trends and if anything does fall, only
+expecting a dusting. 
+
+High pressure will be in place at the sfc, however the flow 
+aloft is backing some and turning cyclonic for the mid to late 
+evening as a shortwave embedded in the 500mb longwave trough 
+pivots through the region. At the same time, we'll be in the 
+right- entrance quadrant of a strong upper jet streak, enhancing
+lift. So although an area of low pressure will be centered 
+hundreds of miles to our south tonight, models show the northern
+edge of snowfall brushing the vicinity of Long Island and SE CT
+due to upper divergence with just enough moisture in the 
+atmospheric column. Given that about half of the global and 
+regional/hi-res models show snow reaching our land zones, PoPs 
+over our land zones have been capped at 50%. Should any snow 
+fall, accumulations would be very light and under an inch.
+
+Regarding the cold, part of the challenge of forecasting low 
+temperatures and wind chills will be the northern extent of cirrus 
+associated with the potential snowfall near the coast. Areas 
+northwest of NYC would have the best shot at radiational cooling 
+with the better chances of a clear or mostly clear sky, light to 
+calm winds, and an existing snow pack. Have gone below guidance for 
+low temperatures here based on what occurred last night, but didn't 
+want to stray significantly due to the cirrus uncertainty. This 
+yields minimum wind chills/apparent temperatures right around the 
+advisory threshold (-10) for mainly NW portions of Orange County, 
+but not enough coverage across the entire county for a Cold Weather 
+Advisory. Elsewhere, wind chills drop to 0 to 5 below for the 
+most part - short of advisory criteria.
+
+&&
+
+.SHORT TERM /6 AM THIS MORNING THROUGH 6 PM THURSDAY/...
+High pressure continues to build in, with its ridge shifting through 
+during Wednesday evening. Winds will slowly diminish in the 
+afternoon and become light and variable at times during the night. 
+Highs still well below normal in the upper teens to lower 20s. Cloud 
+cover once again adds some uncertainty regarding low temperatures 
+and minimum wind chills/apparent temperatures for Wednesday night. 
+Thinking clouds will have a little more impact on the temps this 
+time around, and with slight temperature moderation regardless of 
+clouds, wind chills will fall short of advisory thresholds once 
+again. Western Orange County would again be closest to reaching 
+advisory levels.
+
+&&
+
+.LONG TERM /THURSDAY NIGHT THROUGH TUESDAY/...
+With respect to the longwave pattern across North America, a mean 
+ridge position centered just off or right along the west coast and a 
+mean trough centered in the East is progged to prevail through early 
+next week. The mean trough should lift some to the north and be 
+centered more across the Mid Atlantic and Northeast for the weekend 
+and into the start of next week.There is excellent agreement for the 
+most part among the global deterministic suites of the GFS, ICON, 
+CMC, and ECMWF at 500 mb regarding longwave positioning, along with 
+the more specific shortwave features.
+
+With regard to the details, high pressure should prevail at the sfc 
+to begin the period on Thursday despite shortwave energy pivoting 
+through the region. The energy will be sheared as the trough will be 
+somewhat positively tilted which has been a recurring theme much of 
+this winter season thus far. Any positive vorticity advection should 
+be short lived and should progress quickly offshore, thus the 
+offshore development of low pressure Thursday afternoon and night 
+with just some mid or high level clouds expected. A similar 
+occurrence repeats into Friday and Friday night with a second strung 
+out shortwave, this one from a more southern source. Kept PoPs 
+minimal as the confidence remains higher than average for things to 
+remain primarily dry as the models keep energy locked up in a more 
+less closed off feature in the southern branch of the jet stream 
+over the SW US. If the models are handling this poorly then perhaps 
+any of these offshore systems could theoretically track further west 
+and closer to the coast, however this seems very unlikely given 
+model / ensemble consistency and spread.
+
+A reinforcing shot of cold air arrives early next week with a cold 
+frontal passage. This front will have little to no moisture to work 
+with as it will be northern branch based. Thus have kept PoPs 
+minimal to slight chance PoPs for late Sunday into early Monday. 
+Otherwise dry, with temperatures continuing to average mainly below 
+normal. Temperatures do try to recover closer to the seasonal 
+averages Saturday night through Tuesday, however there is increasing 
+uncertainty around temperatures late in the period as the northern 
+branch may dive further south than some of the deterministic guidance 
+is indicating, along with some northern shortwave timing
+differences.
+
+&&
+
+.AVIATION /06Z WEDNESDAY THROUGH SUNDAY/...
+High pressure will continue to build into the region through 
+the TAF period. 
+
+VFR. W to WNW flow shifting to the NW overnight and persisting 
+through much of Wednesday. Winds speeds will be 10 kt or less 
+through the forecast period and may become light and variable 
+late day as the high moves overhead. Isolated gusts of 15 to 20 
+kt are possible through 07Z-09Z tonight.
+
+Some high and mid level clouds before clear overnight.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No unscheduled AMD expected.
+
+.OUTLOOK FOR 06Z THURSDAY THROUGH SUNDAY...
+
+Wednesday night through Friday: VFR. 
+
+Saturday: VFR. W winds 10-15G20kt NYC metro/coastal terminals.
+
+Sunday: VFR. W gusts 20 kt.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+A shortwave passing through and subsequent cold air advection 
+tonight may kick up wind gusts for a few hours. Most of the night is 
+expected to feature winds below advisory criteria, but there may be 
+a few hours where gusts may occasionally reach 25kt on the ocean. 
+Will mention this in the forecast, but hold off on putting up an 
+advisory. Winds slowly diminish through the day Wednesday and may 
+become light and variable for a time during Wednesday night as a 
+ridge of high pressure pushes into the region.
+
+A period of marginal small craft gusts are possible on the ocean 
+waters towards Thursday night, otherwise conditions should remain 
+below small craft criteria for the first half of Saturday on all 
+waters. For the second half of the weekend the likelihood of small 
+craft conditions begins to increase.
+
+&&
+
+.HYDROLOGY...
+No hydrologic issues are anticipated throughout the entirety of the 
+forecast.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JC/JE
+NEAR TERM...JC/JE/JP
+SHORT TERM...JC
+LONG TERM...JE
+AVIATION...BC/JP
+MARINE...JC/JE
+HYDROLOGY...JC/JE

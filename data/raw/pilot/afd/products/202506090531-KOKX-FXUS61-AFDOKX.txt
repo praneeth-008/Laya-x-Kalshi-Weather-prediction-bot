@@ -1,0 +1,170 @@
+668 
+FXUS61 KOKX 090531
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+131 AM EDT Mon Jun 9 2025
+
+.SYNOPSIS...
+A warm front slowly lifts towards the area through Monday. The 
+slow moving frontal system will then work across the area
+Tuesday and will push offshore by Wed morning. High pressure 
+then remains near the region through early Friday. Another 
+frontal system may affect the region late Friday and lingers 
+into the weekend.
+
+&&
+
+.NEAR TERM /THROUGH TODAY/...
+Rain to the WSW moves across late tngt, and with the support of
+another shrtwv on Mon, produces shwrs late tngt and into the 
+first part of Mon for the cwa. The approaching upr trof will 
+also help to lift the frontal boundary extending off the 
+delmarva nwd towards the area thru the period. The local area 
+however will remain N of the front thru the day on Mon. This may
+allow for some stratus and fog to impact the region late in the
+day Mon, aft the shwrs exit.
+
+Cloudy tngt with low temps close to normal. High temps blw normal on 
+Mon with an ely flow across the region.
+
+&&
+
+.SHORT TERM /TONIGHT THROUGH 6 PM TUESDAY/...
+Upr trof continues to approach Mon ngt. This will draw the warm 
+front further nwd. The blended approach via the NBM keeps the front 
+S of the cwa at 12Z Tue. This is supported by the 12Z NAM. The GFS 
+is a bit further N, perhaps allowing the front to get into LI. At 
+the same time, chances for rain will increase thru the ngt with 
+lowering heights and increasing dpva. With the front expected to 
+remain mainly S, any convective activity is expected to be elevated 
+attm. Therefore, the fcst is to keep temps right around normal, with 
+increasing chances for shwrs and embedded tstms, especially aft 
+midnight.
+
+&&
+
+.LONG TERM /TUESDAY NIGHT THROUGH SUNDAY/...
+**Key Points**
+
+* A frontal system will impact the area Tuesday, bringing showers 
+  and thunderstorms especially in the afternoon. Dry conditions 
+  expected thereafter into the end of the week.
+
+* A warming trend Wednesday through Friday with high temperatures 
+  peaking Thursday in the upper 80s and low 90s. Dewpoints should 
+  remain marginal keeping the heat index near the actual temperature 
+  during this period.
+
+Good model agreement on a broad upper trough located over the Great 
+Lakes/Ontario to start the period. This trough weakens as it heads 
+to the east into Wednesday, as the upper flow becomes more zonal, 
+with some height rises and weak ridging into the end the of week. 
+
+At the surface, a warm front associated with the aforementioned 
+upper low is north of the area by Tuesday morning placing the area 
+in the warm sector. Showers and embedded thunderstorms should 
+increase in coverage as the day wears on as a slow moving cold front 
+and embedded sfc low approaches. PWAT values from model soundings 
+look to be in the 1.5-1.9" range, which is near or exceeding the SPC 
+climatology for the date (1.55" is the 90th percentile). Given the 
+weak mid level flow and parallel flow nature relative to the cold 
+front, storms will be slow moving and potentially backbuilding, 
+increasing the potential for a localized flash flood threat. This is 
+especially true north and west of NYC during the day on Tuesday. 
+While shear profiles look decent for organized thunderstorms, 
+instability looks rather marginal, minimizing the threat for 
+thunderstorms to be severe. The cold front and any associated 
+precipitation should be east of the region by Tuesday night. 
+
+High pressure then builds in for Wednesday through Friday, with 
+rising heights. By Friday into next weekend, a faster moving upper 
+low pivots through eastern Canada, bringing additional precipitation 
+chances through next weekend, along with cooler temperatures.
+
+&&
+
+.AVIATION /06Z MONDAY THROUGH FRIDAY/...
+A frontal boundary stalled south of the area overnight will slowly 
+approach through Monday.
+
+MVFR conditions gradually go to IFR conditions after 06z at most 
+terminals. Any rain and drizzle overnight is more likely to prevail 
+across the more western terminals. IFR/MVFR conditions continue into 
+Monday. IFR or lower expected Monday night
+
+Easterly winds will continue through Monday at around 07-12kt. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Amendments possible throughout the entire TAF period for changing 
+flight categories.
+
+.OUTLOOK FOR 06Z TUESDAY THROUGH FRIDAY... 
+
+Monday night: IFR and LIFR conditions in stratus, with fog at some 
+terminals. Showers arrive late.
+
+Tuesday: MVFR or lower possible with shwrs and tstms. Varying winds 
+with a frontal sys.
+
+Wednesday - Thursday: VFR with W flow. 
+
+Friday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Persistent E winds will build seas to around 4 ft tngt on the ocean. 
+With winds blw criteria on all waters, so no sca has been issued 
+with seas blw the 5 ft criteria. Winds lessen late Mon and Mon ngt, 
+with seas subsiding slightly.
+
+SCA conditions on the ocean waters are possible Tuesday night into 
+Wednesday with seas to 5ft in southerly swells.  SCA conditions look 
+to wane by Wednesday afternoon, with sub SCA conditions likely 
+through Friday.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts are expected thru Mon ngt. Showers and 
+thunderstorms Tuesday look to produce a widespread 0.25" to 
+0.75" of precipitation. Localized amounts of 1+" are possible 
+given the antecedent airmass in place (PWAT >1.5"), especially 
+northwest of NYC, though the threat appears isolated. Thus, WPC 
+maintains a marginal risk of flash flooding here, though the 
+threat looks isolated. No significant hydrologic issues are 
+expected thereafter, Wednesday through Sunday, of next week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+A moderate rip risk likely on Monday with 3-4 ft ESE wind waves
+building, and a background of 1-2 ft SE/S swells. E to W 
+longshore current would be favored.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JMC/DBR
+NEAR TERM...JMC
+SHORT TERM...JMC
+LONG TERM...DBR
+AVIATION...BC
+MARINE...JMC/DBR
+HYDROLOGY...JMC/DBR
+TIDES/COASTAL FLOODING...

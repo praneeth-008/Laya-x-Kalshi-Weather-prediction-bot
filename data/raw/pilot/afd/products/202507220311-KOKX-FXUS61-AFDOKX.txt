@@ -1,0 +1,184 @@
+185 
+FXUS61 KOKX 220311
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1111 PM EDT Mon Jul 21 2025
+
+.SYNOPSIS...
+High pressure builds through Tuesday, before moving east and 
+eventually just offshore later mid week. High pressure should remain 
+in control through early Friday. A cold front moves through late 
+Friday with another frontal system possibly impacting the area for 
+the weekend.
+
+&&
+
+.NEAR TERM /THROUGH TUESDAY/...
+High pressure across Southern Canada will continue to build down 
+tonight and into Tuesday. With synoptic scale sinking motion 
+attempting to take control, the period should remain predominantly 
+dry. The only thing of note is a weak low pressure / inverted trough 
+feature indicated by the higher res guidance just south of Long 
+Island and off the Southern New Jersey coast. The reflectivity 
+forecast this evening into tonight hints at the low possibility of a 
+few showers. Other than some shallow moisture or relatively higher 
+RH in the lower levels, forecast soundings appear quite dry above 
+the lower levels. With the lack of depth of any moisture will 
+anticipate that it stays dry across the region with any shower or 
+sprinkle activity likely remaining south and offshore. Also mid and 
+upper level heights begin to slowly rise.
+
+Therefore the theme is for dry and cooler weather as the Canadian 
+airmass strengthens its grip on the region. Dew point readings by 
+tonight should generally fall into the 50s. Temperatures in the far 
+northern and northwestern interior spots may get as low as the lower 
+50s. Thus it will be much more comfortable with the lower humidity 
+with a light N to NE wind. On Tuesday with high pressure getting 
+nearby expect light winds again with temperatures cooler in most 
+spots, and a few degrees below normal. Most afternoon max 
+temperatures will get into the upper 70s and lower 80s with mainly 
+sunny day.
+
+&&
+
+.SHORT TERM /TUESDAY NIGHT THROUGH WEDNESDAY/...
+Clear skies and another comfortable night for Tuesday night, 
+although not quite as cool in the outlying locations as the previous 
+night. Most lows will be in the 60s, with some upper half of the 50s 
+in the northern and northwestern interior locations with light to 
+calm winds.
+
+By Wednesday the air mass begins to undergo some modification as 500 
+mb heights build to around 590 dm with 1000-500mb thicknesses 
+beginning to inch up. Also, later in the day a light return flow 
+attempts to get initiated as the region begins to get on the back 
+side of high pressure which gets further east. Therefore dew point 
+readings begin to inch up some and get back into the lower 60s. 
+Temperatures will also get back to normal levels with mainly middle 
+and upper 80s for day time maxes, with a few spots in urban NE NJ 
+possibly reaching 90.
+
+&&
+
+.LONG TERM /WEDNESDAY NIGHT THROUGH MONDAY/...
+No significant changes to the long term forecast so the NBM was 
+generally followed.
+
+Key Messages:
+
+ * Dry through Thursday night. 
+
+ * Showers & thunderstorms possible with cold front Fri/Fri night 
+then again from the front stalling to the south on the weekend.
+
+ * Temps climb Thursday. Heat index may exceed 100 by Friday for 
+much of the area.
+
+An upper level ridge flattens Thursday into Thursday night. A series 
+of midlevel shortwaves then pass Friday into the weekend.
+
+High pressure shifts offshore into Thursday. A low passing into east 
+Quebec Friday moves into the North Atlantic Friday night into 
+Saturday. This low brings through a cold front late Friday into 
+Friday night. The cold front then stalls south of the area into 
+Saturday. This will bring the chance for showers and thunderstorms, 
+particularly in the afternoons and early evenings Friday through 
+Sunday.
+
+Temperatures will warm Thursday and Friday in response to the high 
+moving east and higher heights aloft. Heat index values may exceed 
+95 on Thursday for parts of the area and even near 100 in select 
+locations, then exceed 100 for large portions of the area on Friday 
+with some spots possibly exceeding 105. This means we should see 
+solid heat advisory criteria on Friday with heat warning criteria 
+possibly being met in some areas. The heat, while lower, will still 
+be strong into Saturday with heat index values of 95-100 expected. 
+Temperatures lower a bit more on Sunday with highs in the middle to 
+upper 80s.
+
+&&
+
+.AVIATION /03Z TUESDAY THROUGH SATURDAY/...
+High pressure builds in from the northwest tonight, and remains
+over the region Tuesday.
+
+VFR through the forecast period. 
+
+Winds N/NW, around 10 kt or less. Any leftover gusts will
+gradually diminish through around 02z. Winds become NE 
+overnight then more easterly/southeasterly on Tuesday around 10
+kt or less.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Can not rule out an occasional gust on Tuesday.
+
+.OUTLOOK FOR 00Z WEDNESDAY THROUGH SATURDAY... 
+
+Tuesday night through Wednesday: VFR.
+
+Thursday: VFR. south winds G20-25kt, highest at the coast.
+
+Friday: VFR likely through morning, possibly followed by periods of 
+sub VFR in showers and thunderstorms for the afternoon and evening.
+
+Saturday: VFR with afternoon thunderstorms. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+With a decreasing pressure gradient with building high pressure look 
+for tranquil conditions across the coastal waters tonight into 
+Tuesday. Ocean seas will mainly range from 1 to 3 ft through 
+Wednesday. Winds may approach SCA gusts on waters both late 
+Thursday and then again late Friday with the approach of a cold 
+front.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+The low rip current risk continues for all ocean beaches Tuesday and 
+Wednesday. With that said, with a large tidal range due to an 
+approaching new moon, rip development could be moderate a couple of 
+hours either side of low tide. Additionally, if an easterly flow is 
+stronger than forecast on Tuesday and wave heights trend higher, a 
+moderate may be needed.
+
+In addition, there is a chance that water levels come close or 
+actually touch minor flood thresholds across the most vulnerable 
+southern and eastern NYC/LI bays, and potentially some W LI sound 
+locations over the next few days. However, by judging the most 
+recent NYHOPS / Stevens higher high tide bias current thinking leans 
+towards just falling short of minor coastal flood benchmarks. Thus 
+have held off on any coastal flood statements for the time being.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JE/MW
+NEAR TERM...BC/JE
+SHORT TERM...JE
+LONG TERM...MW
+AVIATION...BC
+MARINE...JE/MW
+HYDROLOGY...JE/MW
+TIDES/COASTAL FLOODING...

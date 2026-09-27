@@ -1,0 +1,139 @@
+368 
+FXUS61 KOKX 112343
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+743 PM EDT Sun May 11 2025
+
+.SYNOPSIS...
+High pressure will build southeast over the area tonight, then
+pass offshore Monday into Monday night. A broad area of low 
+pressure will then impact the area through the end of the week. 
+A cold frontal passage is possible over the weekend.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM MONDAY MORNING/...
+The fcst is on track. High pressure centered near Lake Ontario 
+will build SE toward the area tonight. Gusty NW-N winds late 
+this afternoon should settle down this eve with loss of daytime 
+heating/mixing and also veer NE then E as the high builds 
+closer. Ideal radiational cooling conds under mostly clear skies
+and light winds should allow temps to fall to the 50s in the 
+NYC metro area into the 40s elsewhere.
+
+&&
+
+.SHORT TERM /6 AM MONDAY MORNING THROUGH MONDAY NIGHT/...
+As the high passes offshore, E winds to start should veer SE in 
+the morning and then S by afternoon. The onshore flow should 
+lead to cooler daytime temps than those of Sunday despite plenty
+of sunshine but still above the warmest of the MOS guidance, 
+from the upper 60s and lower 70s across Long Island and southern
+CT, to the mid 70s from NYC north/west. 
+
+High clouds will start to increase late day Mon into Mon night,
+also also lower/thicken mainly across the NYC metro area and 
+the lower Hudson Valley late Mon night, with only slight chance 
+of a shower late for NYC and NE NJ. With the continued onshore 
+flow low temps should be in the 50s across the majority of the 
+CWA.
+
+&&
+
+.LONG TERM /TUESDAY THROUGH SUNDAY/...
+The models have shown decent consistency thru the extended, so
+the NBM has generally been followed.
+
+Chances for shwrs for the entire period, although it will not
+rain the whole time. It is too far out to pinpoint exact 
+coverage and timing, but it does appear that there has been a 
+trend to a slower onset for Tue, particularly ern areas. This 
+seems reasonable with high pres parked offshore. Perhaps more 
+coverage on Wed as the upr low approaches the region. Theta-e 
+increases, and it is likely there will be some shrtwv energy 
+embedded in the flow. 
+
+It becomes more unstable on Thu with rising temps. H5 trof still
+over the area should support initiation, so some shwrs and 
+tstms possible especially in the aftn/eve. 
+
+As the next upr low drops out of Canada on Fri, the flow will
+become more wly aloft across the area, and temps begin to 
+surge towards 80, especially W of the Hudson. There could be 
+another round of shwrs and tstms with energy embedded in the 
+flow, but confidence is low this far out. 
+
+Another warm day on Sat before a cold frontal passage late in
+the day or early Sun per the current progs. This would bring 
+additional chances for shwrs and tstms.
+
+&&
+
+.AVIATION /00Z MONDAY THROUGH FRIDAY/...
+VFR as high pressure remains in control. 
+
+NW to NE winds to start the evening around 10 kt with a few 
+lingering gusts toward 20 kt at some terminals. Exception is JFK
+where sea breeze pushed through, but should return NE by 2Z. 
+Winds lighten and veer NE, then E-SE overnight. SE-S winds 
+around 10 kt for Monday. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Timing of wind shift at JFK may be off by an hour.
+
+.OUTLOOK FOR 00Z TUESDAY THROUGH FRIDAY...
+
+Monday Night: VFR to start, becoming MVFR or lower with showers
+developing.
+
+Tuesday: MVFR or lower and showers possible, mainly NYC 
+terminals and west.
+
+Tuesday night: Low stratus/fog with IFR cond possible especially
+near the coast at KJFK/KISP/KHPN/KBDR/KGON, otherwise MVFR 
+cond expected. Chance of showers.
+
+Wednesday and Thursday: MVFR cond expected, IFR or lower cond
+possible at times. Showers likely. E-SE winds G20kt possible 
+on Wed. 
+
+Friday: Mainly VFR, chance of MVFR and showers.
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Winds should remain blw SCA lvls on all waters through the
+period. Ocean seas however should build aoa 5 ft early Wed thru
+the day on Thu before subsiding again blw sca lvls for Fri and 
+Sat.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts expected.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JMC/BG
+NEAR TERM...JMC/BG
+SHORT TERM...BG
+LONG TERM...JMC
+AVIATION...JC/DR
+MARINE...JMC/BG
+HYDROLOGY...JMC/BG

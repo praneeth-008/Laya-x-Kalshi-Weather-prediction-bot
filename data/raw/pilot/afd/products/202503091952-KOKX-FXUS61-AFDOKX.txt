@@ -1,0 +1,170 @@
+143 
+FXUS61 KOKX 091952
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+352 PM EDT Sun Mar 9 2025
+
+.SYNOPSIS...
+High pressure builds south of the region through Monday. Local 
+region in between lows southeast and north of the region for 
+Tuesday. A cold front approaches late Tuesday and moves across 
+late Tuesday night into early Wednesday. High pressure briefly 
+builds Wednesday into Wednesday night before moving towards the 
+Canadian Maritimes. Weak low pressure approaches Thursday into 
+early Friday. Region will then be in between high pressure in 
+the Western Atlantic and approaching developing low pressure to 
+the west heading into next weekend.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM MONDAY MORNING/...
+Upr wave exiting the region this aftn will leave windy cond in place 
+into the eve. As the bl cools, winds will diminish this eve. Another 
+jet max however passes thru overnight and the associated subsidence 
+looks to kick winds back up slightly overnight. Main impact with 
+this is to make the temp fcst challenging. Went close to the NBM 
+given the mixing winds expected. If things remain decoupled, 
+particularly across the interior, lows will end up several degrees 
+colder. 
+
+&&
+
+.SHORT TERM /6 AM MONDAY MORNING THROUGH MONDAY NIGHT/...
+Weak low pres tracking ewd across the Gulf of ME, along with NW
+flow aloft, will be conducive to wly llvl flow thru most of the
+day on Mon. This is a warm signal. As the flow aloft weakens 
+17-20Z, the sea breeze should begin to overspread the coasts. 
+This should still allow most areas to warm significantly thru 
+the late mrng into the early aftn. Mixed down temps from h85 
+then blended in the NBM to produce the high temp grid. Went a 
+good deal abv the NBM for LI and parts of CT, bringing almost 
+the entire cwa aoa 60 degrees. If the flow ends up a bit S of W,
+or the sea breeze develops too quickly, these numbers will be 
+too warm.
+
+A dry airmass and broad subsidence should produce no pcpn and few 
+clouds. There should be some cu invof the sea breeze.
+
+Light sly flow Mon ngt with mainly skc. There could be enough return 
+flow llvl moisture to allow for some shallow fog to develop. The 
+prob is too low however attm to include in the fcst. Went with the 
+NBM for temps.
+
+&&
+
+.LONG TERM /TUESDAY THROUGH SUNDAY/...
+Mainly dry through much of the long term. Possibilities for rain 
+showers Thursday through Thursday night and a higher possibility for 
+next weekend, especially for next Sunday. Temperatures overall are 
+forecast to be above normal on average.
+
+More amplified pattern develops for next weekend. Stronger low 
+approaches with a strengthening cold front for next Sunday. 
+Potential for heavy rain and gusty winds with strong meridional flow 
+ahead of it.
+
+Upper and mid level flow quasi-zonal much of the long term, with 
+strengthening SW flow for next weekend. Region mainly in between 
+northern and southern branches of the upper jet. Upper jet southern 
+branch starts to move into the region for the latter half of next 
+weekend.
+
+At the surface, weak pressure gradient Tuesday in place across the 
+area with the area in between systems. Low in Southeast Canada 
+brings a cold front to the region late Tuesday into early Wednesday. 
+Cold front expected to move across dry with a lack of available 
+moisture.
+
+High pressure from Great Lakes and Southeast Canada then briefly 
+builds into the region Wednesday into Wednesday night. High pressure 
+moves into the Canadian Maritimes Thursday. Weak low pressure 
+associated with an inverted trough sets up Thursday across the 
+region. The region will have more easterly flow. Possible rain 
+showers in the forecast but just slight chance.
+
+Warming trend for Friday into the weekend. Friday and Friday night 
+forecast is dry but chances for rain showers increase for next 
+weekend. Saturday appears to be mainly dry but likelihood increases 
+substantially next Sunday for rain showers.
+
+&&
+
+.AVIATION /20Z SUNDAY THROUGH FRIDAY/...
+A surface trough passes through this afternoon with another
+Monday morning, followed by weak high pressure.
+
+VFR. Strengthening W/SW winds this afternoon will gusts 
+25-30kt, but then quickly diminish this evening. Winds will 
+back to the SW at 5-10kt tonight, then veer to the W/NW Monday 
+morning.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Timing of wind shifts may vary by 1-2 hours. Gusts may be a bit
+lower than currently forecast this afternoon. 
+
+.OUTLOOK FOR 18Z MONDAY THROUGH THURSDAY...
+
+Monday Afternoon: VFR. Chance of an afternoon seabreeze.
+
+Tuesday-Wednesday: VFR.
+
+Thursday: MVFR or lower possible with E flow. Slight chance of
+showers. 
+
+Friday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Winds decrease early this eve, so the sca is set to expire most of 
+the waters at 00Z. Residual 5 ft seas however on the ocean, 
+especially the ern portion, so the sca was extended there thru Mon. 
+Winds and seas blw sca lvls Mon ngt.
+
+Sub-SCA conditions forecast for all waters Tuesday through Tuesday 
+night. Non-ocean waters forecast to stay below SCA. Probable SCA 
+conditions for the ocean Wednesday through Friday. All waters 
+forecast to return to below SCA conditions Friday night.
+
+&&
+
+.FIRE WEATHER...
+An SPS remains in effect for nern NJ til 00Z. Gusty winds will
+diminish this eve, and RH will recover as well. Min RH in the 
+20s to around 30 on Mon, along with W winds 10-20 mph. A sea 
+breeze will develop after noon at the coasts resulting in a wind
+shift.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns expected this week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 8 PM EDT this evening for ANZ331-
+     332-335-338-340-345-355.
+     Small Craft Advisory until 6 PM EDT Monday for ANZ350-353.
+
+&&
+
+$$
+
+SYNOPSIS...JMC/JM
+NEAR TERM...JMC
+SHORT TERM...JMC
+LONG TERM...JM
+AVIATION...DW
+MARINE...JMC/JM
+FIRE WEATHER...JMC
+HYDROLOGY...JMC/JM

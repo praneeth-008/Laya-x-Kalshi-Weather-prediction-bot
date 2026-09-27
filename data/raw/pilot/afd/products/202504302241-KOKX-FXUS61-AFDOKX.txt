@@ -1,0 +1,216 @@
+338 
+FXUS61 KOKX 302241
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+641 PM EDT Wed Apr 30 2025
+
+.SYNOPSIS...
+High pressure will be in control through Thursday. A warm front
+approaches Thursday night and lifts through the region Friday 
+morning. A cold front approaches late Saturday into Saturday 
+night, with a wave of low pressure developing along it as does 
+so. This frontal system may linger near the area through early 
+next week, as a cutoff upper low develops to the southwest.
+
+&&
+
+.NEAR TERM /THROUGH THURSDAY/...
+Surface high pressure and upper level ridging build over the area 
+tonight and slides off to the east during the day Thursday
+brining dry and seasonably mild conditions. 
+
+Low temperatures tonight will fall into the upper 30s and 40s
+for much of the area. Good radiational cooling conditions across
+interior valleys and LI pine barrens should allow temps to drop
+into the lower to mid 30s with patchy frost development.
+Meanwhile, the NYC/NJ metro area where lows fall into the 50s. 
+
+Highs on Thursday, will be in the 60s and lower 70s.
+
+&&
+
+.SHORT TERM /THURSDAY NIGHT/...
+As the high moves further east Thursday night, low pressure 
+will move into the Great Lakes region. An associated warm front is 
+forecast to move into the region bringing increased cloud cover 
+along with a chance for showers Thursday night into early Friday 
+morning. It appears that the better chances for any rainfall will 
+remain west of NYC, but there will still be a chance across the 
+entire region. It will be a bit more mild with lows in the 
+upper 40s and 50s.
+
+&&
+
+.LONG TERM /FRIDAY THROUGH WEDNESDAY/...
+Good agreement in east coast upper ridging sliding east on Friday, 
+with a couple of northern stream shortwaves digging a trough from 
+the Canadian plains into the mid Mississippi River Valley Friday 
+into Saturday. Model spread increases heading through the weekend 
+into next week on the timing and location of the base of this deep 
+trough evolving into a cutoff closed low. Better agreement on the 
+northern portion of the trough pivoting through the NE US Sat Night 
+into Monday. 
+
+ECMWF/GEPS ensembles and majority of AI models (notably trained on 
+the ECMWF ERA5 dataset) develop/hang the cutoff low to the SW of the 
+region across the Tennessee R/Ohio R valley this weekend thru early 
+next week as an omega blocking pattern develops across the Eastern 
+US into Western Atlantic. The result being a frontal system 
+approaching Friday, with the cold front stalling to the west of the 
+region and strong Canadian maritime high to the NE, resulting in a 
+persistent Atlantic/sub-tropical moisture flow with rounds of 
+shower/embedded tsra activity as waves of low pressure ride up the 
+stalled cold front Sat thru midweek. NBM ensemble 90th percentile 
+signaling 72hr rainfall potential of 3", similar to ECMWF ensemble 
+50th percentile stormtotal Fri thru Wed. Of course, low 
+predictability on QPF amounts at this point, but a plausible 
+basin averaged outcome if this stalled scenario pans out.
+
+Meanwhile, GFS/GEFS ensemble is a more progressive scenario, with a 
+farther SE development of the cutoff upper low off the SE US coast, 
+which allows for the approaching frontal system (warm frontal 
+passage on Friday) and then gradual cold frontal approach/passage 
+Sat/Sat eve with accompanying shra/tsra activity. In its wake 
+surface high pressure builds in as ridging surface/aloft build 
+overhead in the split flow for Sun thru midweek. A much more 
+progressive and drier scenario.
+
+So overall, a low confidence forecast for back half of the weekend 
+into early next week at this point based on the model divergence 
+discussed above. 
+
+Better model agreement and higher confidence in Fri/Sat forecast 
+with warm frontal passage Fri AM bringing a few showers, advecting 
+in a warm/moist airmass on deep SW flow. S/SW flow and deep mixing 
+will likely allow temps west of the Hudson to rise well into the 
+80s, while southern/eastern coastal areas remain in the 60s to 
+around 70. Have leaned towards a blend of NBM deterministic and
+NBM 50th for temps west of the Hudson based on above synoptic 
+setup, and close to NBM deterministic for coast with maritime 
+influence. NBM deterministic is running in the 25th quartile of 
+the ensemble distribution. 
+
+Pre-frontal trough approaches western portions of the area Fri 
+aft/eve. Potential for sct shra/isolated tsra activity for NYC and 
+points N&W in a weakly forced, but marginally unstable/modest shear 
+environment. A more stable airmass along the coast will likely have 
+any convection dissipating as it overspreads the coast and 
+encounters this environment. Conversely, could be dealing with 
+stratus/fog development for southern and eastern coastal areas late 
+Friday into Sat with moist onshore flow over cold waters (lower 50 
+SSTs). CSU MLP indicating a marginal severe threat, which seem 
+conditionally possible with a more distinct shortwave trigger and 
+resultant stronger shear/instability profile.  
+
+Better chance for organization of scattered shra/tsra activity ahead 
+of/along cold front late Sat/Sat Eve for NYC and points NW with 
+approach of northern shortwave in a marginally unstable and strong 
+deep layer shear environment. This convective scenario will 
+ultimately will be predicated on evolution of northern trough and 
+cutoff. Although airmass is similar on Friday to Saturday, potential 
+for more in the way of convective debris on Saturday limiting full 
+insolation. Have leaned towards a blend of NBM deterministic and NBM 
+50th for temps west of the Hudson based on above synoptic setup 
+(upper 70s), and close to NBM deterministic for coast with maritime 
+influence (60s to around 70). NBM deterministic once again is 
+running in the 25th quartile of the ensemble distribution.
+
+&&
+
+.AVIATION /22Z WEDNESDAY THROUGH MONDAY/...
+High pressure moves across the region tonight and then offshore
+on Thursday. A warm front approaches late in the TAF period.
+
+VFR conditions are expected through the TAF period.
+
+Winds are NW and gusting. The winds become more northerly 
+tonight with gusts diminishing. The winds become more easterly 
+Thursday.
+
+Wind speeds near 10-15 kt this afternoon into early this evening.
+Gusts near 25 kt initially will be closer to 20 kt heading into
+early this evening. Then wind speeds near 5-10 kt tonight 
+through Thursday with no more gusts expected. Winds are generally
+SE late Thursday morning into Thursday afternoon.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Wind gust end time could be 1-2 hours off from TAF.
+
+.OUTLOOK FOR 18Z THURSDAY THROUGH MONDAY...
+
+Thursday Afternoon - Thursday Night: VFR initially. MVFR or 
+lower possible at night. A chance of showers.
+
+Friday: MVFR or lower possible. A chance of showers and 
+thunderstorms. Southerly wind gusts 15-20 kt afternoon into evening.
+
+Saturday: MVFR or lower possible.  A chance of showers and 
+thunderstorms. SW wind gusts 15-20 kt afternoon into evening. Wind 
+direction becomes more westerly into the evening.
+
+Sunday: MVFR or lower possible. A chance of showers.
+
+Monday: MVFR or lower possible. A chance of showers. NE wind gusts 
+15-20 kt day into evening.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Conditions will remain below small craft levels through Thursday 
+night as high pressure remains near the region. 
+
+Marginal S/SW SCA gusts possible on the ocean Fri aft/eve with 
+approach of pre-frontal trough and then once again Sat aft/eve with 
+approach of cold front. More confidence in SCA ocean seas developing 
+Sat aft/eve and lingering into Sunday based on persistent S/SW flow. 
+
+Low predictability on SCA conds for Sun thru early next week based 
+on progression of a frontal system through the region.
+
+&&
+
+.FIRE WEATHER...
+Elevated fire weather conditions will quickly dissipate this 
+evening with weakening winds and moderating RH values as high 
+pressure builds into the area tonight into Thursday. 
+
+Light and variable winds early Thursday AM with patchy frost 
+across teh interior and LI barrens, increasing to southeasterly 
+5 to 10 mph by late morning/early afternoon. RH values drop to 
+25-35 percent by late morning, increasing to the 40-45 percent
+along the coast by Thursday afternoon with strengthening 
+onshore flow. High temperatures in the lower to mid 60s.
+
+&&
+
+.HYDROLOGY...
+Low predictability on rainfall amounts and hydrologic concerns Sun 
+thru early next week, dependent on progressiveness of a frontal 
+system thru the area.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...BC/NV
+NEAR TERM...BC/NV
+SHORT TERM...BC
+LONG TERM...NV
+AVIATION...JM
+MARINE...BC/NV
+FIRE WEATHER...
+HYDROLOGY...BC/NV

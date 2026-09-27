@@ -1,0 +1,149 @@
+920 
+FXUS61 KOKX 021947
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+347 PM EDT Sat Aug 2 2025
+
+.SYNOPSIS...
+High pressure remains in control through the first half of next 
+weekend.
+
+&&
+
+.NEAR TERM /THROUGH SUNDAY/...
+Upper level trough axis shifts east overnight and heights start to 
+rise on Sunday. At the surface high pressure remains in control.
+
+Another cool night is expected with light winds and a dry airmass. 
+The only issue for radiational cooling may be some high clouds that 
+move in this evening. If that batch is thicker and lingers more
+than currently forecast then the forecast lows may be a bit too
+cool. For now, blended in CONSMOS with the NBM at the usual 
+cold spots giving lows in the low 50s across the interior and 
+the LI Pine Barrens. Elsewhere, lows will range from upper 50s 
+to mid 60s.
+
+Sunday will feature similar conditions as today. Sunny, dry and 
+temperatures about a few degrees higher, but still in the 80s. A 
+seabreeze may develop earlier in the day and be a bit stronger given 
+the slightly warmer land temperatures.
+
+&&
+
+.SHORT TERM /SUNDAY NIGHT THROUGH TUESDAY/...
+Heights aloft continue to rise right through the short term and high 
+pressure dominates at the surface. This will continue the quiet 
+stretch of weather with mostly sunny and dry conditions.
+
+Stuck with the NBM. The airmass warms a bit more, with highs on 
+Monday and Tuesday in the mid 80s to lower 90s. However there doesn't 
+seem to be a significant change in airmass at all and dewpoints top 
+out in the upper 50s and lower 60s.
+
+One thing to note is the 12z HRRR smoke products do show some
+smoke aloft getting to the area on Monday. Too early to say
+exactly how long it will stick around, but it should not affect
+the surface at all. It will likely just give a milky look to the
+sky.
+
+&&
+
+.LONG TERM /TUESDAY NIGHT THROUGH SATURDAY/...
+***Key Points***
+
+The NBM was largely followed with this update with no major changes. 
+
+Key Points:
+
+* Generally dry conditions are expected through Thursday. A frontal 
+  system then approaches toward the end of the week.
+
+* Seasonable temperatures through the period with highs in the 80s 
+  and lower humidity than in recent days.
+
+A decent stretch of sensible weather is in store for the extended as 
+global models and their respective ensembles advertise a building 
+upper ridge and high pressure at the surface much of the period. 
+With strong ridging over the Four Corners region, a few weak 
+shortwaves will pass through the northeast ridge during the period 
+without much fanfare. The flow attempts to flatten some by late 
+Thursday into Friday, as the surface high retreats to the south and 
+a front approaches from the OH Valley. Slight chance PoPs during the 
+day from Thursday through Saturday for small portions of the 
+forecast period due to weak surface troughing.
+
+&&
+
+.AVIATION /20Z SATURDAY THROUGH THURSDAY/...
+High pressure will build in from the northwest through the TAF 
+period.
+
+VFR.
+
+Winds will be NE at 5-10 kt with seabreeze development likely at
+the coastal terminals this afternoon/early this evening. Winds 
+go light and variable late in the evening into the night. A 
+light northerly flow Sunday morning becomes S/SE at less than 10
+kt from late morning into the afternoon. 
+
+     NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Timing of wind shift with the seabreeze this afternoon may vary
+by 1-2 hours.
+
+.OUTLOOK FOR 18Z SUNDAY THROUGH THURSDAY... 
+
+Sunday Afternoon - Thursday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Sub-SCA conditions will persist for all of the forecast waters 
+through at least Wednesday with a light flow as high pressure 
+settles over the area. However, thereafter seas may approach 5 
+ft, especially well away from the coast.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through next week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+A moderate rip current risk remains forecast for the ocean 
+beaches today. The rip current risk trends lower going into
+tonight and for the next few days.
+
+The rip current risk will be low for ocean beaches on Sunday 
+and on Monday. Winds are going to be quite light through the 
+forecast period with wind speeds of mostly under 10 mph. 
+Initially winds are offshore but then become more onshore in the
+afternoon. Ocean waves are expected to generally be around 1 to
+2 ft.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JP/JT
+NEAR TERM...JT
+SHORT TERM...JT
+LONG TERM...JP
+AVIATION...DW
+MARINE...JP/JT
+HYDROLOGY...JP/JT
+TIDES/COASTAL FLOODING...JM

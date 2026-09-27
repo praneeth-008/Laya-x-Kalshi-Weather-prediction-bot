@@ -1,0 +1,155 @@
+372 
+FXUS61 KOKX 110600
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+200 AM EDT Fri Jul 11 2025
+
+.SYNOPSIS...
+A trough of low pressure remains nearby through Friday. High 
+pressure then builds off the New England coast this weekend, 
+before a frontal system approaches from the west early next 
+week. The associated cold front moves through on Monday, and 
+high pressure returns into midweek.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM THIS MORNING/...
+Earlier showers just to our north of dissipated. Light to calm 
+winds with low level moisture will lead to patchy fog overnight.
+
+&&
+
+.SHORT TERM /6 AM THIS MORNING THROUGH 6 PM SATURDAY/...
+Increasing CAPE and decreasing CIN on Fri, but subsidence across the 
+region is expected to limit/inhibit convective initiation attm. 
+Still cannot rule out a few isold or widely sct aftn/eve tstms, 
+particularly across the interior where there is some terrain to work 
+with. The GFS does bring isold activity across the entire CWA, but 
+without support from the NAM, have left the NBM pops unaltered. 
+
+Some patchy fog again modeled for Fri ngt. A very subtle lljet may 
+try to produce a few shwrs or tstms overnight, again mainly nwrn 
+areas, but the NBM has not latched on to this yet so something to 
+look for. The NAM and GFS have a weak signal.
+
+Hotter on Fri with all areas in the 80s, and the usual hot spots 
+across the SW approaching 90. The MAV and NBS has 90 at EWR.
+
+&&
+
+.LONG TERM /SATURDAY NIGHT THROUGH THURSDAY/...
+High pressure builds off the coast of Nova Scotia and maintains an 
+offshore flow much of the weekend. This should help keep much of 
+southern CT and LI dry, though inland western areas will see showers 
+and thunderstorms possible each afternoon with a moist BL in SE flow 
+and diurnal heating helping to build instability.
+
+Thereafter, a broad mid level trough centered over the Upper Great 
+Lakes translates east into early next week, helping advance a 
+frontal system toward and through the region, bringing increased 
+chances for a more widespread rainfall, especially on Monday ahead 
+of the cold front. Parameters appear at least marginally supportive 
+of thunderstorm development, but steering flow appears progressive 
+enough to mitigate significant flood concerns.
+
+Conditions dry behind the fropa into midweek as weak high pressure 
+drifts in and NW flow aloft looks to lower the humidity. 
+Temperatures through the period look to largely stay in the 80s most 
+afternoons thru early week, with a gradual warm up then into mid 
+next week.
+
+National blended guidance was followed for this update.
+
+&&
+
+.AVIATION /06Z FRIDAY THROUGH TUESDAY/...
+A surface trough remains in the vicinity of the terminals 
+through tonight.
+
+Varying flight categories to start the TAF period, but should
+begin to lower to MVFR through 09z with IFR east of the NYC
+terminals. There is also a chance for brief LIFR at KISP and
+KGON. Conditions will improve back to VFR 12-15z. There is also
+a chance of a thunderstorm at KSWF late afternoon and early this
+evening. 
+
+Conditions should start falling back to MVFR or IFR tonight, 
+but timing and extend are still a bit uncertain. 
+
+Light and variable winds early this morning will gradually
+become SE after through the late morning/early afternoon. Wind
+speeds will remain under 10 kt. Winds weaken again tonight. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+Amendments likely for changing flight categories through day
+break. 
+
+Timing of VFR after day break may be off by 1-2 hours where 
+categories do lower overnight.
+
+Low confidence with flight categories tonight.  
+
+.OUTLOOK FOR 06Z SATURDAY THROUGH TUESDAY... 
+
+Friday night: MVFR or lower possible.
+
+Saturday-Sunday: Mainly VFR. A chance of showers and 
+thunderstorms during the afternoon and early evening near and 
+northwest of the NYC terminals.
+
+Monday: VFR. Showers and thunderstorms possible, mainly in the
+afternoon and evening.
+
+Tuesday: VFR. Showers or thunderstorm possible in the afternoon
+and evening, mainly NYC metro on N and W.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Winds and seas are expected to remain blw sca lvls thru Fri 
+ngt.
+
+Light flow and low seas should then maintain sub Small Craft 
+Advisory conditions on all coastal waters through early next 
+week.
+
+&&
+
+.HYDROLOGY...
+Any tstms that develop thru Fri ngt could produce highly localized 
+minor flooding.
+
+No significant hydro concerns in the long term.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+Rip current risk is moderate through Saturday along Atlantic 
+facing beaches with onshore flow up to 10 kt and a 3 to 4 ft 
+swell from the southeast at a 7 sec period.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JMC/DR
+NEAR TERM...JMC/JC
+SHORT TERM...JMC
+LONG TERM...DR
+AVIATION...DS
+MARINE...JMC/DR
+HYDROLOGY...JMC/DR
+TIDES/COASTAL FLOODING...

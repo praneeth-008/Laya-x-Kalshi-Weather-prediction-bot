@@ -1,0 +1,211 @@
+560 
+FXUS61 KOKX 191409
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1009 AM EDT Tue Aug 19 2025
+
+.SYNOPSIS...
+High pressure remains in control today then shifts offshore and 
+weakens tonight into Wednesday. A weakening frontal system 
+approaches Wednesday. Hurricane Erin will pass well to the
+southeast from Thursday into Friday, bringing indirect but 
+potentially significant impacts along the shoreline. 
+High pressure will return by late week, then a cold front will 
+approach from the west from Sunday into Monday. Please refer to
+NHC forecasts for further information on Hurricane Erin.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+High pressure will be in control today and will weaken as it
+shifts offshore tonight. Flow aloft stays mostly zonal, with a 
+slight lowering of heights tonight.
+
+Stuck close to the NBM through the near term. The orientation 
+of the high will allow for the E/SE flow to persist. Cooler and
+drier conditions will continue as well, with highs similar to 
+yesterday and dewpoints in the 50s.
+
+Cloud increase tonight and winds likely stay up so lows tonight
+will be a few degrees warmer than last night, upper 50s across
+the interior and 60s elsewhere.
+
+&&
+
+.SHORT TERM /WEDNESDAY THROUGH THURSDAY NIGHT/...
+Key Points:
+
+* Increasingly high surf and life threatening rip currents.
+
+As high pressure weakens and moves offshore, a weakening frontal
+system approaches from the west as Hurricane Erin passes well 
+southeast.
+
+The main story in the short term are the indirect impacts from
+Hurricane Erin with increasingly high surf and life threatening
+rip currents. See Tides/Coastal Flooding section below.
+
+Otherwise, showers are looking increasingly likely for
+Wednesday. Guidance has trended higher with QPF and duration and
+in turn the NBM and latest forecast has done the same. While the
+frontal system weakens as it approaches there will be a
+shortwave moving through as well as help from a right entrance
+region of an upper level jet. Confidence is low at this time but
+isolated flash flooding can not be ruled out. The 00z HREF does
+have isolated areas with a 10% chance of 3 inches in 3 hours. 
+If this trends higher then confidence will be higher in 
+excessive rainfall.
+
+Thereafter, a gusty E/NE flow picks up as Erin passes offshore.
+Widespread gusts of 20 to 25 mph are expected, with up to 35 
+mph along the coast and across Long Island.
+
+Please refer to National Hurricane Center forecasts for further
+information on Erin.
+
+&&
+
+.LONG TERM /FRIDAY THROUGH MONDAY/...
+Key Points:
+
+* Indirect but potentially significant impacts from Hurricane
+  Erin continue into Friday morning. 
+
+* Life threatening high surf and rip currents expected. 
+
+* Widespread beach flooding, dune erosion and localized
+  overwashes along the ocean beachfront possible. 
+
+As Hurricane Erin passes well to the SE on Fri, strong N-NE flow
+via its expanding and very large wind field will still at its 
+peak early Fri morning, with gusts 25-35 mph in coastal areas 
+(highest across the forks of Long Island). These winds will be
+diminishing through the day. Other indirect impacts will be 
+felt along the coastline; see the Tides/Coastal Flooding section
+for details. 
+
+Ridging at the sfc/aloft will build in after Erin's departure,
+with mostly clear skies and a flow shifting from N to SE-S by 
+Fri night. As this ridge moves east another frontal system will 
+approach on Sunday and pass through on Monday, with chance of 
+showers and possibly a tstm.
+
+&&
+
+.AVIATION /14Z TUESDAY THROUGH SATURDAY/...
+High pressure to the north will pass east of New England today.
+A frontal system approaches from the west late tonight and into
+Wednesday.
+
+VFR with generally E flow 5-10 kt this morning becoming SE 
+around 10 kt this afternoon. A few gusts to 20kt are possible
+this afternoon. Winds diminish this evening. Cigs lower late tonight
+becoming MVFR at the NYC metros by the morning push. -SHRA
+possible by mid-morning Wednesday. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Timing of wind shifts today may require AMD. A few gusts to 20kt
+possible through this afternoon. 
+
+.OUTLOOK FOR 15Z WEDNESDAY THROUGH SATURDAY...
+
+Wednesday: MVFR in the morning with SHRA possible. IFR possible
+in the afternoon and at night with showers and embedded TSTMs
+possible. Rain could be heavy at times. ENE winds G20kt along 
+the coast late at night. 
+
+Thursday: Chance of showers in the morning with MVFR/IFR cond 
+still possible. NE winds increasing to 15G20-25kt along the 
+coast. 
+
+Friday: VFR. NE-N winds 15G20-25kt in the morning. 
+
+Saturday: VFR. 
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+The Small Craft Advisory on the ocean waters has been extended
+into Thursday as seas remain elevated. The Advisory will 
+likely need to be extended and expanded as swells from Erin 
+continue to move into the area along with 25 to 30 kt gusts 
+Thursday into Friday. Gusts on the ocean waters could just touch
+35 kt as well. Seas build through mid week and peak Thursday 
+night into Friday morning at 11-17 ft with a SE swell component 
+of 9-11 ft @ 15-17 sec. Seas 5-10 ft also likely on the Sound E 
+of Orient out to Montauk. These seas will take some time to 
+subside, only falling to to 9-10 ft on the ocean by sunset Fri 
+night and still at 5-6 ft Sat night. Seas on the Sound E of Orient
+will still be as high as 5 ft N of Montauk late Fri night into 
+Sat morning. 
+
+Please refer to National Hurricane Center forecasts for further
+information on Erin.
+
+&&
+
+.HYDROLOGY...
+Confidence is low at this time, but localized flash flooding 
+can not be ruled out on Wednesday. The WPC has outlined the area
+in a marginal risk for excessive rainfall.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+A High Surf Advisory and High Rip Current risk are in effect for
+all Atlantic beaches and will likely continue to be extended
+with future updates through the end of the week.
+
+Life-threatening surf and rip currents expected for the rest of
+this week as building long period swells from Erin continue, 
+peaking Thu/Fri. Surf heights could reach 10-15 ft from Thu 
+afternoon and continuing into early Fri morning, as large, very 
+long period swells (9-11 ft @ 15-17 sec) arrive nearly head on 
+at the beaches. 
+
+The threat for beach flooding, beach erosion and escarpment and 
+areas of dune erosion will increase with successive high tides 
+Tue thru Thu night. Widespread areas of dune erosion are likely 
+with localized overwashes during the Thu evening and Fri morning
+high tides, This high surf will be combined with elevated water
+levels as we approach a new moon.
+
+Surge guidance continues to play catch-up to the potential 
+coastal flood situation. A blend of bias-corrected PETSS 50% 
+exceedance, ETSS, and STOFS indicates widespread minor and 
+locally moderate flooding with the Thu night/Fri morning high 
+tide cycles. PETSS 10% exceedance and even a blend of 10%/50% 
+exceedances are both higher, indicating worst-case potential for 
+widespread moderate flooding with the Thu evening and/or Fri 
+morning high tide cycles.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...High Risk for Rip Currents through Wednesday evening for NYZ075-080-
+     081-178-179.
+     High Surf Advisory from 6 AM Wednesday to 6 PM EDT Thursday 
+     for NYZ075-080-081-178-179.
+NJ...None.
+MARINE...Small Craft Advisory until 6 PM EDT Thursday for ANZ350-353-
+     355.
+
+&&
+
+$$
+
+SYNOPSIS...BG/JT
+NEAR TERM...JT
+SHORT TERM...JT
+LONG TERM...BG/JT
+AVIATION...MW
+MARINE...BG/JT
+HYDROLOGY...BG/JT
+TIDES/COASTAL FLOODING...

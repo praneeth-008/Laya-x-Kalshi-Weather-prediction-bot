@@ -1,0 +1,167 @@
+925 
+FXUS61 KOKX 030528
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1228 AM EST Fri Jan 3 2025
+
+.SYNOPSIS...
+Low pressure spins over eastern Quebec through Friday. A weak 
+low passes south of the area Friday night. Deepening low 
+pressure continues to move away from the region Saturday as weak
+high pressure builds in from the west through Sunday. Low 
+pressure passes to the south Sunday night through Monday. Strong
+Canadian high pressure builds to the west Monday night into the
+middle of next week.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM THIS MORNING/...
+The area remains in windy nwly flow tngt with low pres over QC and 
+high pres over the Southeast. Remaining breezy, but gusts 
+have decreased and will continue to do so. Some outlying areas
+are starting to lose prevailing gusts, with just some occasional
+gusts expected late in the overnight.
+
+Flurries and snow showers across mainly NW locales for a few
+more hours, otherwise partly cloudy to mostly clear skies should
+prevail late in the overnight.
+
+With the breezy conditions overnight, the NBM seemed reasonable
+for temps attm. If the winds go calm even briefly early Fri 
+mrng, some of the outlying areas would drop several degrees 
+colder than fcst. This will be difficult to achieve with a 
+synoptic pressure gradient still in place.
+
+&&
+
+.SHORT TERM /6 AM THIS MORNING THROUGH 6 PM SATURDAY/...
+The flow veers to the w on Fri, so lake moisture should stay n 
+of the cwa thru the day. Breezy with unidirectional well mixed 
+flow, but winds aloft only around 30kt at h85 so peak gusts 
+around 25kt expected attm.
+
+Upr lvl trof axis comes thru Fri ngt. The models suggest a weak low 
+spinup and a shield of lgt pcpn with the sys. Have some pops over 
+the ocean, but the consensus right now is to keep any light 
+snow s of the cwa. If the sys trends n, there could be some lgt 
+snow or flurries, particularly srn areas, Fri ngt.
+
+Went with the NBM with local adjustments for temps Fri and Fri
+ngt.
+
+&&
+
+.LONG TERM /SATURDAY NIGHT THROUGH THURSDAY/...
+Key Points:
+
+* Light snow possible late Sunday night through Monday as low 
+  pressure passes to the south.
+
+* Seasonably cold with a persistent NW flow through the period.
+
+A nearly blocked upper flow persists Saturday into the middle of 
+next week with low pressure over eastern Canada and into the 
+northeastern United States. A seasonably cold airmass will remain in 
+place Saturday into Monday with temperatures near 5 degrees below 
+normal. A shortwave moving through the southern branch will develop 
+surface low pressure over the southern plains, that tracks through 
+the mid Atlantic region, passing to the south late Sunday night 
+through Monday. With a cold airmass in place a light snowfall is 
+possible across the forecast area, with the most snow falling across 
+the southern areas, across the  NYC metro and Long Island. With the 
+low passing to the south followed the NBM probabilities with a 
+chance of light snow. The cold airmass is reinforced as the low 
+tracks east and Canadian high pressure builds to the west as the 
+blocking pattern persists. Tuesday into Thursday temperatures will 
+be near 10 degrees below normal. No record high and/or lows are 
+forecast to be set through the extended period.
+
+&&
+
+.AVIATION /06Z FRIDAY THROUGH TUESDAY/...
+Low pressure will remain to the north over Southeastern Canada 
+through the TAF period. A weak low moves quickly to the south later 
+today and quickly off the coast Friday night.
+
+VFR prevails through the TAF period. W flow continues with gusts 
+lower, but continuing through the overnight at the city terminals, 
+with the exception being some outlying terminals where gusts end 
+briefly. W winds continue Friday with gusts at around 20 kt, 
+with gusts ending towards 21-23z. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+No amendments expected.
+
+OUTLOOK FOR 06Z SATURDAY THROUGH TUESDAY...
+
+Late Friday night: VFR. NW winds increase late.
+
+Saturday: VFR. WNW gusts 25-35kt.
+
+Sunday: VFR. W gusts 20-25kt.
+
+Monday: Chance of light snow. MVFR cond likely, IFR possible at the 
+NYC metros/KISP. 
+
+Tuesday: VFR. WNW gusts 25-35kt.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+In the process of converting over gales to small crafts, with 
+winds gradually subsiding blw gale for all waters by sunrise 
+Fri. Small crafts therefore get inserted thru Fri, and Fri ngt 
+for much of the waters with residual high seas and gusty winds.
+
+Small craft advisory level wind gusts are possible across all the 
+forecast waters Saturday through Sunday, with SCA ocean seas, with 
+a strong and gusty west to northwest flow behind offshore deepening 
+low pressure that tracks into the Canadian Maritime Saturday night. 
+The New York Harbor will be more marginal, or below SCA gusts during 
+Sunday. By early Sunday night conditions will be below advisory 
+levels on the non ocean waters as weak high pressure builds into the 
+area. And, by late Sunday night even the ocean waters will fall 
+below advisory levels. Monday tranquil conditions will continue as a 
+rather quick moving low passes to the south of Long Island. Then 
+with the low deepening Monday night northerly winds gusts are 
+expected to develop across all the forecast waters, and continue 
+into Tuesday. There is the potential for gusts across the ocean 
+waters to be near gale force, especially east of Fire Island Inlet, 
+late Tuesday into Tuesday night.
+
+&&
+
+.HYDROLOGY...
+No significant hydrologic issues anticipated thru the middle of
+next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Gale Warning until 1 AM EST early this morning for ANZ331-340-
+     345-355.
+     Gale Warning until 4 AM EST early this morning for ANZ332-350-
+     353.
+     Small Craft Advisory until 4 PM EST this afternoon for ANZ335-
+     338.
+
+&&
+
+$$
+
+SYNOPSIS...JMC/MET
+NEAR TERM...JMC/JE
+SHORT TERM...JMC
+LONG TERM...MET
+AVIATION...JE/DR
+MARINE...JMC/JE/MET
+HYDROLOGY...JMC/MET

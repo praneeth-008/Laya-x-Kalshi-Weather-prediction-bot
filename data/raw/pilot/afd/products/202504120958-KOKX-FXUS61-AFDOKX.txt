@@ -1,0 +1,206 @@
+290 
+FXUS61 KOKX 120958
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+558 AM EDT Sat Apr 12 2025
+
+.SYNOPSIS...
+Low pressure slowly passes to our southeast today through tonight. 
+Weak high pressure then gradually builds in for Monday. A frontal 
+system will approach from the west Monday night, with a cold frontal 
+passage expected late Monday night into early Tuesday morning. 
+Another cold front will move through Tuesday night. High pressure 
+then remains centered to the south and west thereafter through next 
+Thursday. Another storm system may impact the region late in the 
+week into next weekend.
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+The area is located on the eastern edge of a deep upper level 
+trough. A mid-level low is progged to track near the area this 
+morning, while the associated surface low tracks just to our 
+southeast as it deepens slightly. The mid-level disturbance can 
+be seen quite well on water vapor satellite imagery. It appears 
+to now be tracking into western PA. This is slightly farther 
+west than the latest guidance shows. The surface low per latest
+RAP data looks to be off the Delaware Coast, similar to where
+the 06 WPC surface analysis placed the low center. Some 
+circulation being seen in low level clouds on the nighttime 
+microphysics satellite channel supports this.
+
+Deep, strong lift from these features has allowed for widespread 
+precipitation across much of the area. Starting around 06z, 
+snow was observed across the interior as colder air is being 
+pulled in in the N/NE flow. Steady snow ended up making it as 
+far south as southern Fairfield CT, and into northeastern 
+portions of NJ. Right now, snow is mainly being observed across 
+the Lower Hudson Valley. The aforementioned mid-level low 
+tracking farther west than expected may have allowed some drier 
+air to work into the area. This can also be seen in water vapor 
+satellite imagery. This is likely why CT has turned over to all 
+rain, so expecting mostly rain there through the rest of the 
+event.
+
+The Winter Weather Advisory remains in effect for Orange and
+Putnam as some banding has set up due to strong frontogenetic
+forcing, with guidance showing strong lift in the DGZ.
+
+The best forcing passes to the north right around 12z. This will 
+likely bring any moderate precip to an end. The mid and upper levels 
+look to dry out a bit by the afternoon, so have kept the light rain 
+and drizzle mention. Locked in under cloud cover and a northerly 
+flow will result in highs not making it out of the mid to low 40s.
+
+&&
+
+.SHORT TERM /6 PM THIS EVENING THROUGH 6 PM SUNDAY/...
+The low is slow to leave and will result in chances of drizzle/light 
+rain through tonight. The column saturates a bit more towards early 
+Sunday morning and some steadier rain will be possible for the
+eastern half of the area. Plenty of clouds are expected to 
+remain around as high pressure is slow to build in. Highs are 
+expected to be a bit warmer, closer to the upper 40s to mid 50s.
+
+&&
+
+.LONG TERM /SUNDAY NIGHT THROUGH FRIDAY/...
+Sunday night through Monday night, the forecast guidance is in good 
+agreement with an upper level ridge moving over the area. With weak 
+high pressure over the area, expect dry conditions on Monday.
+
+An upper level trough will help push a cold front through during the 
+earlier hours of Tuesday morning. Ahead of it, a 50% chance of warm 
+advection rainfall. Still a chance of showers during the rest of 
+Tuesday with a cyclonic flow aloft, but most of the day should be 
+dry. Moderate to high confidence of no significant impacts 
+anticipated with this system, even if a rumble of thunder can't be 
+ruled out during Monday night.
+
+A stronger, but moisture-starved cold front follows for late Tuesday 
+night, then upper ridging doesn't return until Wednesday night into 
+Thursday, resulting in a slow return of high pressure. Dry weather 
+expected for Tuesday night through Thursday. Another low pressure 
+system is expected to impact the region Friday into early next 
+weekend.
+
+&&
+
+.AVIATION /10Z SATURDAY THROUGH WEDNESDAY/...
+Low pressure tracks slowly north to northeast through today.
+
+MVFR and lower cigs expected for much of the TAF period. As 
+widespread rainfall continues through the morning and the low center 
+approaches from the south, cigs should lower to IFR, though there is 
+some uncertainty with regard to timing. IFR then expected to prevail 
+through Sunday morning. SN is expected for a brief time this morning 
+at KSWF with brief mixes of RASN possible at KHPN. While less likely 
+for the NYC metro terminals, brief RASN can't be entirely ruled out. 
+Any RASN changes to -RA by 12-15Z and expected to continue before 
+lessening in intensity by 16Z. DZ likely for much of the terminals 
+this evening and into Sunday morning.
+
+NNE to N winds 10-20 kt with increasingly frequent gusts to 25-30 
+kt, with the highest winds along the coast. Some gusts to 35 kt 
+possible. Gusts drop off tonight with N wind around 10kt persisting
+
+A period of LLWS is likely at KISP, KBDR, and KGON until 14Z today, 
+with winds at 2K ft up to 50 kt.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Gusts become more frequent this morning peaking at around 30-35 kt. 
+There may be a brief period of LLWS around 07Z at KJFK and KLGA, 
+with 2K ft winds 060 at 50 kt. Timing of flight category changes 
+could be off by 1-2 hours.
+
+.OUTLOOK FOR 09Z SUNDAY THROUGH WEDNESDAY...
+
+Saturday night: IFR. Drizzle. NE/N winds 10-15 kt.
+
+Sunday: MVFR early becoming VFR. Chance of showers east of the NYC 
+terminals.
+
+Monday: VFR. Chance of showers late at night.
+
+Tuesday: VFR. Slight chance of showers. W wind gusts 20-25 kt.
+
+Wednesday: VFR. NW wind gusts around 25 kt. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Winds ramp up early this morning and peak around 8 AM. A Gale 
+Warning is in effect for the ocean waters, eastern LI Sound and 
+Peconic and Gardiners Bays where 35 to 40 kt gusts are possible. 
+Elsewhere, Small Craft Advisories are in effect for 30 kt wind 
+gusts. Additionally, ocean zones could see waves 7 to 10 ft, 
+and the central and eastern Sound could see waves 5 to 7 ft, 
+specifically closer to the LI shore given the northeasterly 
+flow. Conditions gradually improve through the day. SCA will 
+likely be needed through Sunday on the ocean for lingering 5 ft 
+waves.
+
+Sub-advisory conditions are then expected through Monday night.
+Next chance of SCA conditions will be on Tuesday, mainly on the
+ocean for both winds and seas, but there could be a few gusts 
+to 25kt on the other waters as well. The SCA conditions are 
+expected through Wednesday before falling back below advisory 
+criteria Wednesday night into Thursday.
+
+&&
+
+.HYDROLOGY...
+Additional QPF of about 0.50 to 0.75 inches is expected. About 0.25 
+to 0.50 has already fallen. Given the long duration of this 
+rainfall, flooding is not expected.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+A coastal low will combine with astronomically higher tides to 
+potentially bring a round of minor coastal flooding for both the 
+morning and evening tide cycles today. The full moon takes place 
+this evening. There will be more of an easterly component to the sfc 
+winds for the 1st high tide this morning, with a gradually 
+increasing northerly component to the easterly flow during this 
+evening. This should make total water levels very similar for both 
+high tide cycles. However, blended guidance (Stevens, ETSS) for most 
+tidal locations is leaning towards a very slight higher total water 
+level for the evening high tide at most gauges. For simplicity 
+purposes went ahead and issued coastal flood statements for both the 
+morning and evening / night cycles today for the south shore bays of 
+Nassau and SW Suffolk County, and for Staten Island and Hudson, 
+Essex, and Union Counties in NE NJ as we get close enough to minor 
+benchmarks to at least warrant a statement. Used an ETSS and Stevens 
+75th percentile blend in deriving the total water levels.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...Winter Weather Advisory until 10 AM EDT this morning for 
+     NYZ067-068.
+NJ...None.
+MARINE...Small Craft Advisory until 6 PM EDT this evening for ANZ331-
+     335-338-345.
+     Gale Warning until noon EDT today for ANZ332-340.
+     Gale Warning until 6 PM EDT this evening for ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...BC/JT
+NEAR TERM...JT
+SHORT TERM...JT
+LONG TERM...BC
+AVIATION...MW
+MARINE...BC/JT
+HYDROLOGY...BC/JT
+TIDES/COASTAL FLOODING...

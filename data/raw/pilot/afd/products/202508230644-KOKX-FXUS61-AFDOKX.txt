@@ -1,0 +1,154 @@
+785 
+FXUS61 KOKX 230644
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+244 AM EDT Sat Aug 23 2025
+
+.SYNOPSIS...
+High pressure along the northeast coast continues to drift 
+offshore through Saturday night. A cold front approaches Sunday 
+evening and moves slowly through the area late Sunday night into
+Monday. High pressure then gradually builds in for the middle 
+to end of next week.
+
+&&
+
+.NEAR TERM /THROUGH TODAY/...
+Surface high pressure was drifting off the northeast coast, and
+will continue to drift eastward through today. Clear to mostly
+clear conditions are expected today with temperatures near
+seasonal levels.
+
+&&
+
+.SHORT TERM /TONIGHT THROUGH MONDAY/...
+A large upper closed low and trough across central and eastern
+Canada, extending into the upper midwest, will move slowly
+eastward through Monday. At the surface a cold front associated
+with surface low pressure north of the Great Lakes will be slow
+to progress eastward through Sunday, as the flow nearly become
+parallel to the front. There will be a little increase in the
+forward speed Sunday night as a wave possibly develops on the 
+front along the Delmarva. With the slower progression of the
+upper low and surface front precipitation becomes delayed moving
+into the area for Sunday, and will be mainly late in the day and
+into Sunday evening. There is an increase in precipitable
+waters, up to 1.5 inches, and will a slow eastward storm motion
+a few showers and thunderstorms have the potential of producing
+briefly heavy rainfall. By late Monday the front is likely to be
+east of the area.
+
+&&
+
+.LONG TERM /MONDAY NIGHT THROUGH FRIDAY/...
+Key Points:
+
+* Mainly dry conditions Monday night through Friday.
+
+* Near normal temperatures Monday, then a slight cooldown to 
+  below normal highs from Tuesday onward.
+
+There has been no significant change to the forecast thinking for 
+the extended period. Global models remain in decent agreement. 
+Synoptic-scale ridging pushes east of the area Sunday allowing 
+for a deep southwest flow to develop ahead of a deepening closed
+upper low over eastern Canada. This low over eastern Canada 
+extends an h5 trough over the eastern 2/3 of the CONUS then 
+remains over the east for much of the rest of the extended 
+timeframe. This will keep the local area in predominately 
+west/southwest flow aloft for much of the week.
+
+A cold front pushes offshore by early Tuesday. High pressure 
+then builds back in from the Central Plains, for the remainder 
+of the period.
+
+&&
+
+.AVIATION /06Z SATURDAY THROUGH WEDNESDAY/...
+High pressure currently over the region gradually slides 
+offshore later today into tonight.
+
+VFR through the period. 
+
+SW flow generally 5 to 10 kt for the city terminals overnight into 
+Saturday morning, becoming S 10-15g20kt for most terminals in the 
+afternoon. Gusts to 25 kt likely for KJFK and KLGA in the late 
+aft/eve with coastal jet formation. S winds decreasing to 8 to 12 
+late evening. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+S 15-20g25kt likely btwn 20z - 00z.
+
+.OUTLOOK FOR 06Z SUNDAY THROUGH TUESDAY...
+
+Late Saturday night: VFR. 
+
+Sunday and Monday: Scattered showers Sun PM through Mon PM, isolated 
+tstm possible in the aft/eve. MVFR cigs possible Sun AM, and Sun 
+night into Mon AM.
+
+Tuesday and Wednesday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Small Craft Advisories remain on the ocean waters into  
+Saturday evening, with the E long period swells slow to 
+subside and combined with Sat aft/eve coastal jet formation.
+
+Ocean seas then fall below SCA levels for late Saturday night.
+Conditions then remain below advisory levels for all waters 
+into mid next week.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through the middle of next
+week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+A high risk for rip currents goes through Sunday for the Atlantic 
+Ocean beaches as residual long period 3 to 4 ft easterly swell will 
+be slow to subside, combined with a 1-2 ft southerly wind wave. 
+
+High surf and dune erosion threat with 5 to 9 ft breakers will 
+gradually decrease overnight with beach erosion/flooding and 
+escarpment the primary threat for Sat high tides with a west to east 
+sweeping surf of 4 to 7 ft.
+
+Localized minor coastal flooding anticipated for early Saturday for 
+South Shore Bays of Long Island and Southern Westchester and 
+Southern Fairfield coastlines.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...High Risk for Rip Currents through Sunday evening for NYZ075-080-
+     081-178-179.
+     High Surf Advisory until 4 AM EDT early this morning for 
+     NYZ080-081-179.
+NJ...None.
+MARINE...Small Craft Advisory until 11 PM EDT this evening for ANZ350-
+     353-355.
+
+&&
+
+$$
+
+SYNOPSIS...DBR/MET
+NEAR TERM...MET
+SHORT TERM...MET
+LONG TERM...DBR
+AVIATION...JE
+MARINE...MET
+HYDROLOGY...MET
+TIDES/COASTAL FLOODING...JE

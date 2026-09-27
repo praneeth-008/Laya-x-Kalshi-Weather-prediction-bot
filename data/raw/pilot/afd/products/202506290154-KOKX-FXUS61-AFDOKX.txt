@@ -1,0 +1,197 @@
+952 
+FXUS61 KOKX 290154
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+954 PM EDT Sat Jun 28 2025
+
+.SYNOPSIS...
+An approaching cold front and pre-frontal trough will move across
+the area tonight with weak high pressure building from Sunday 
+into Monday. High pressure will then give way to a warm frontal 
+passage Monday night, followed by a cold frontal passage late 
+Tuesday into Tuesday night. Weak high pressure briefly takes 
+control on Wednesday into Thursday morning. A weak cold front 
+swings through late Thursday into Thursday night, followed by 
+high pressure late in the week into the first part of next 
+weekend.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM SUNDAY MORNING/...
+Showers continue to diminish with coverage only expected to be
+isolated for the rest of tonight. Low clouds and fog have
+developed across southeastern portions of the region. Min
+temperatures were slightly adjusted. Thunderstorms are no longer
+mentioned in the forecast for tonight.
+
+The forecast area will also reside in a very muggy warm sector
+tonight with dew points getting into the lower 70s before the
+passage of the cold front. Lows tonight will be in the upper to
+lower 70s. This is about 3 to 5 degrees above normal.
+
+&&
+
+.SHORT TERM /6 AM SUNDAY MORNING THROUGH MONDAY/...
+Cold front passes to the south in the morning with weak high
+pressure building in from the northwest into Monday. While a
+somewhat drier airmass filters into the region, this will be 
+nothing more than a change in airmass. This will allow highs 
+both Sunday and Monday to top out in the mid 80s to lower 90s. 
+The warmest readings will be away from the immediate south shore
+and twin forks of LI. Lows Sunday night will be a bit cooler 
+with the drier airmass, but still several degrees above normal. 
+Expect mostly clear skies during this time with the next chance
+of rain toward Monday evening as a warm front approaches from 
+the southwest. Max heat indices during this time will get into 
+the lower 90s for portions of the area. Not expecting any heat 
+headlines during this time. NBM deterministic temperatures were 
+used and generally are at or just below the 25th percentile. 
+They are close to MOS if not a bit warmer. See no reason to 
+deviate at this time to higher values.
+
+&&
+
+.LONG TERM /MONDAY NIGHT THROUGH SATURDAY/...
+* Seasonably warm and humid through Thursday
+
+* Less humid towards the 4th of July
+
+A typical summer air mass will be in places during the period. A 
+series of cold fronts are forecast to swing through, one late 
+Tuesday into Tuesday night and another cold front Thursday into 
+Thursday night.
+
+The first of these cold fronts will bring the region a chance of 
+showers and thunderstorms late Tuesday and Tuesday evening. Due to 
+large scale trough swinging through likely PoPs remain for a good 
+portion of the region late Tuesday. Continued mention of chance 
+thunder due to forecast height falls and good agreement on trough 
+and frontal timing. Convective feedback in the models is making QPF 
+a challenge to forecast; the 06 GFS had close to 2" of QPF on the 
+north shore of Long Island, while the 12Z GFS had just a few 
+hundredths of an inch from 18Z Tue to 00Z Wed. WPC guidance looked 
+the best overall for QPF during this time frame. 
+
+Should be in between frontal boundaries and any shortwave features 
+on Wednesday into Thursday morning with weak high pressure in place 
+and mainly dry conditions expected for this time period.
+
+Another cold front approaches Thursday, but at this time NWP is not 
+indicating as much dynamics and frontal forcing with this boundary. 
+It appears that this cold front will move through mainly dry for 
+much of the forecast area, with the best chances for any showers or 
+thunderstorms across the Lower Hudson Valley (low end chance POPs) 
+and therefore the front serves mainly to lower humidity levels late 
+in the week towards the 4th of July holiday with only a slight 
+chance of showers thunderstorms late Thursday and Thursday evening.
+
+Conditions are expected to remain mainly dry Friday into the first 
+half of next weekend with high pressure in control.
+
+&&
+
+.AVIATION /02Z SUNDAY THROUGH THURSDAY/...
+A cold front brings isolated shower activity as it moves 
+across this evening. The front moves south of the region 
+overnight into Sunday morning.
+
+VFR conditions initially. Have vicinity showers for NYC 
+terminals and to the north and west.
+
+MVFR to LIFR possible with low clouds and fog overnight into
+early Sunday morning, mainly east of NYC terminals as well as
+potentially KHPN. With less rainfall however, there may not be
+sufficient moisture and the fog may be more patchy than
+previously forecast. Any low clouds and fog expected to
+dissipate Sunday morning with VFR conditions thereafter.
+
+Winds forecast are southerly near 10 kt, decreasing tonight into
+early Sunday morning and becoming more variable in direction for
+some terminals with otherwise a more westerly wind direction
+developing. The westerly flow backs to a more southerly flow for
+coastal terminals Sunday afternoon with the sea breeze 
+developing.
+
+     NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Low confidence on shower activity. Conditions may very well end
+up just staying dry with the cold front passage tonight.
+
+Low confidence on the MVFR fog developing late tonight into
+early Sunday morning.
+
+.OUTLOOK FOR 00Z MONDAY THROUGH THURSDAY... 
+
+Sunday Night: VFR.
+
+Monday: VFR during the day. A chance of showers and thunderstorms at 
+night. MVFR or lower possible at night.
+
+Tuesday: Showers with a chance of thunderstorms with MVFR or 
+lower possible, especially afternoon and evening. SW wind gusts 
+15-20 kt day into early eve.
+
+Wednesday: VFR.
+
+Thursday: Mainly VFR, but MVFR possible afternoon into early 
+eve showers and thunderstorms possible for NYC terminals and 
+north and west.
+
+Detailed information, including hourly TAF wind component forecasts,
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Marine dense fog advisory issued for Moriches to Montauk ocean
+zone with web cameras indicating the presence of dense fog early
+on this evening. This dense fog advisory continues until 8AM EDT
+Sunday and according to HRRR, the dense fog may last a little
+longer than forecast. Have a marine weather statement for
+patches of dense fog within the eastern parts of the South Shore
+Bays this evening. Dense fog will reduce visibilities to less
+than 1 NM.
+
+Sub-SCA conditions are expected through Monday with weak high
+pressure influencing the waters.
+
+Wind gusts and waves should start to approach SCA conditions for the 
+central and eastern ocean waters Tuesday afternoon, with small craft 
+conditions likely Tuesday night into early Wednesday in response to 
+a cold front. Thereafter, sub-SCA conditions return into mid and 
+late week.
+
+&&
+
+.HYDROLOGY...
+No hydrologic concerns outside of minor nuisance, poor drainage
+flooding issues with any thunderstorms.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+There is a moderate risk of rip current development across the ocean 
+beaches Sunday and Monday.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Dense Fog Advisory until 8 AM EDT Sunday for ANZ350.
+
+&&
+
+$$
+
+SYNOPSIS...JP/DW
+NEAR TERM...JM/JP/DW
+SHORT TERM...DW
+LONG TERM...JP
+AVIATION...JM
+MARINE...JP/DW
+HYDROLOGY...JP/DW
+TIDES/COASTAL FLOODING...

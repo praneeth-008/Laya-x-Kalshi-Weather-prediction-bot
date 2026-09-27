@@ -1,0 +1,212 @@
+448 
+FXUS61 KOKX 270328
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1028 PM EST Wed Feb 26 2025
+
+.SYNOPSIS...
+Low pressure over the Ohio Valley tonight will pass well northwest
+of the area on Thursday, sending a warm front across the area in
+the morning, followed by an evening cold frontal passage. Weak
+high pressure builds in from the west into Friday. Low pressure 
+passes north of the region Saturday while dragging a strong cold 
+front through by Saturday evening. High pressure builds for the 
+remainder of the weekend and settles over the region early next 
+week. Low pressure and its associated warm front impact the region
+towards the middle of next week.
+
+&&
+
+.NEAR TERM /THROUGH THURSDAY/...
+For this update just adjusted temperatures up a couple of
+degrees, especially for later tonight due to primarily abundant
+cloud cover. Otherwise, the forecast remains on track.
+
+A weak ridge of high pressure over the area this evening gives 
+way to a warm front approaching from the SW. The latter of which
+is associated with a deepening low over the Ohio Valley. Modest
+WAA overnight into Thursday morning will produce a short period
+of rain, mainly light, that will work into from the SW from 
+about 9pm to midnight. The best thermal forcing will be to the 
+north and west of the NYC metro. Most of the rain with this 
+frontal system will occur tonight through the morning with the 
+warm front, about 2 to 3 tenths of an inch across northern 
+portions of the Lower Hudson Valley and interior portions of 
+Fairfield and New Haven Counties in SW CT. Amounts drop off to 
+the south with a tenth of an inch or less across LI. Lows 
+tonight will be achieved during the first half of the night, 
+ranging from the mid 30s inland, to the lower 40s at the coast. 
+Temperatures will then slowly rise for the remainder of the 
+night. This is about 10 degrees above normal.
+
+A strengthening low-level jet works up from the SW toward 
+daybreak Thursday, sending the surface warm front through the 
+area during the morning hours and likely shutting off the rain 
+for a short time. There is plenty of dry subcloud air along and 
+behind the warm front, so any drizzle, low clouds, patchy fog, 
+will be brief in the morning. In addition, the low-level wind 
+shear should help to mix the boundary layer enough. SW winds 
+will gusts up 20 mph for much of the area, but perhaps as high 
+as 30 mph across the south shore and twin forks of LI. Expect 
+another push of showers working from west to east from late 
+morning into the afternoon along and ahead of a pre-frontal 
+trough and then again with the actual cold front during the 
+evening hours. The best chance will once again be to the north 
+and west of NYC. Much of the area will only see brief episodes 
+of showers. For highs Thursday, coastal locations with the 
+strengthening onshore flow should be cooler (cold waters) and 
+closer to 50, while areas from NYC and points north will get 
+well into the 50s. Temperature forecast have been overachieving 
+the last couple of days. Cloud cover will be limiting factor to
+get much higher. Should more sun be realized these temperatures
+could bump 60 in spots.
+
+&&
+
+.SHORT TERM /THURSDAY NIGHT/...
+Any lingering showers far eastern LI and SE CT come to an end
+early with the cold frontal passage. Weak high pressure approaches
+from the west with weak CAA on west winds. Lows will be in the 
+30s, still quite a bit above normal.
+
+&&
+
+.LONG TERM /FRIDAY THROUGH WEDNESDAY/...
+Key Points:
+
+* A sharp drop in temperatures Saturday night into Sunday as much 
+  below normal temperatures return.
+
+* Temperatures moderate and turn milder toward the middle of  
+  next week.
+
+A NW flow subsides into Friday afternoon with seasonable 
+temperatures. Some PVA and warm thermal advection then ensues Friday 
+night ahead of the next longwave trough. The overall longwave 
+pattern is fairly stable with good agreement among the global 
+deterministic guidance at 500 mb. With that said there are some 
+subtle timing differences with regard to embedded shortwaves in the 
+longwave trough for Friday night through Sunday morning. With the 
+best thermal forcing going north of the region, only have slight 
+chance to chance PoPs later Friday night into Saturday. If any 
+precip does it occur it should fall mostly in the liquid form and is 
+expected to be light with minimal QPF. Have maintained low end PoPs 
+through Saturday afternoon, and early Saturday evening for 
+northeastern portions of the region with the trailing digger of the 
+the longwave trough approaching. As mentioned earlier there are some 
+timing differences with shortwave features, thus went a little above 
+consensus with PoPs and cloud cover during this timeframe. The cold 
+front should slide through late in the day Saturday or during 
+Saturday evening, behind the front comes much colder air as an 
+unseasonably cold cP air mass for early March arrives. Into Sunday 
+850 mb temps are progged to get down to around -14C along with 516 
+dm thickness values. Wind chill values for Sunday morning will be 
+down into the teens, with a few single digit values possible across 
+the northern interior.
+
+The cP air mass moderates as it settles over the area Monday and 
+Monday night with temperatures still averaging below normal as the 
+winds subside. The high pushes off the coast sometime later Tuesday 
+as a strong return flow sets up into mid week. Low pressure and a 
+warm front approach late Tue night into Wednesday with the next 
+likelihood of precip, which will be in the form of rain as 
+temperatures warm.
+
+&&
+
+.AVIATION /03Z THURSDAY THROUGH MONDAY/...
+A warm front will approach tonight and move through by late 
+Thursday morning, followed by an approaching cold front late in 
+the afternoon. 
+
+A band of rain showers will move across the area from SW to NE,
+with cond remaining VFR. It is now beginning to appear more
+likely that a period of MVFR cigs may precede warm fropa late
+this morning. 
+
+Have not yet lowered cigs that low in the NYC metros but if it 
+were to occur there would happen from about 11Z-14Z. These cigs
+are more likely inland at KHPN/KBDR from about 12Z-15Z and at 
+KGON a little later. 
+
+Winds should become E-NE late tonight into Thu AM before warm 
+fropa, then briefly SE just ahead of fropa. S-SW winds after 
+fropa mostly 10-15G20kt but with some higher gusts possible 
+along the coast especially at KJFK. 
+
+...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+BKN015 cigs possible from about 11Z-14Z. 
+
+.OUTLOOK FOR 00Z FRIDAY THROUGH MONDAY...
+
+Thursday night: VFR. WNW winds G20kt, with a brief higher gust
+over 25 kt possible early in the evening. Gusts diminish after 
+midnight. 
+
+Friday: Mainly VFR. WNW winds G20kt daytime. 
+
+Saturday: VFR. S-SW winds G15-20kt daytime, becoming W-NW late
+day and at night.
+
+Sunday: VFR. NW winds G15-20kt. 
+
+Monday: VFR. 
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Increasing S flow ahead of an approaching cold front will bring
+SCA conditions to the ocean waters Thursday with gusts 25-30 kt
+and and seas building to 7-10 ft. Elsewhere, expect marginal 
+SCA conditions across the eastern bays, eastern sound (east of 
+the CT River),and Great South Bay during the daytime hours. 
+Winds diminish in the evening, but seas will remain high.
+
+Small craft conditions should carry though a good portion of 
+Friday with ocean seas ranging from 4 to 6 ft as any small craft
+gusts on the ocean diminish by afternoon. A brief period of sub
+advisory conditions is likely late Friday afternoon and evening
+before small craft conditions return as a southerly flow 
+increases into Saturday morning. Small craft seas will be in 
+place on the ocean Saturday with marginal small craft gusts 
+likely on a portion of the non-ocean waters. Behind a cold front
+a W to NW flow ensues with a increasing likelihood of at least 
+marginal small craft gusts Saturday night into Sunday. The 
+pressure gradient will gradually relax into Monday with sub 
+advisory conditions across all waters.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts are anticipated through the middle of next 
+week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory from 7 AM to 7 PM EST Thursday for ANZ332.
+     Small Craft Advisory from 10 AM to 4 PM EST Thursday for 
+     ANZ340-345.
+     Small Craft Advisory from 4 AM Thursday to 4 PM EST Friday for 
+     ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JE/DW
+NEAR TERM...JE/DW
+SHORT TERM...DW
+LONG TERM...JE
+AVIATION...BG
+MARINE...JE/DW
+HYDROLOGY...JE/DW

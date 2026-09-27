@@ -1,0 +1,189 @@
+074 
+FXUS61 KOKX 310633
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+133 AM EST Fri Jan 31 2025
+
+.SYNOPSIS...
+An approaching frontal system approaching will impact the area
+today and tonight. High pressure will then build across from
+Saturday into Saturday night, and give way to an approaching
+frontal system on Sunday, with a warm front moving through
+Sunday night, followed by a cold frontal passage late Monday. 
+High pressure will briefly follow through Tuesday night, giving
+way to yet another frontal system Wednesday into Thursday. 
+
+&&
+
+.NEAR TERM /UNTIL 6 AM THIS MORNING/...
+A warm front associated with low pressure over the Ohio Valley
+will approach from the southwest. Light overrunning rainfall 
+has reached DC/Baltimore metro and the adjacent Delmarva 
+peninsula, and high resolution model guidance agrees that this 
+should reach the NYC metro area by 10Z-11Z, then start entering
+W Passaic/Rockland/Westchester and parts of N Fairfield which
+are covered by a Winter Wx Advy shortly afterward, where sfc 
+temps should be cold enough to allow for freezing rain, as 
+temperatures aloft warm more quickly. Still looking at just 
+trace amounts to a few hundredths of an inch of freezing rain, 
+so no changes to the headlines. There is a chance the 
+precipitation will hold off until after daybreak across 
+Orange/Putnam and most of srn CT. This would possibly allow 
+temperatures to warm even more before the precip arrives. 
+
+&&
+
+.SHORT TERM /6 AM THIS MORNING THROUGH 6 PM SATURDAY/...
+Winter weather advisories continue through 10 AM across portions 
+of the interior as rain/freezing rain overspread the region this
+morning. Temperatures should quickly rise above freezing by mid
+morning. With low pressure passing over the region today into
+this evening, expect a cloudy, cool rainy day, with highs in the
+40s. 
+
+The precipitation tapers off Friday night as the low departs. As the 
+precip ends, there may be just enough cold air for some light
+snowflakes to fall, especially across portions of the Lower 
+Hudson Valley and southern CT. No accumulations are expected at 
+this time. Lows tonight fall into the upper 20s and 30s, so some
+icy spots are possible, especially untreated surfaces. 
+
+&&
+
+.LONG TERM /SATURDAY NIGHT THROUGH THURSDAY/...
+A fast, nearly zonal flow will dominant the forecast period as
+multiple frontal systems impact the area with brief stints of 
+high pressure in between. The biggest issue during this time 
+will be timing, especially with the system that will impact the 
+area for the middle of next week. Stayed close to the NBM during
+this time due to the fast flow and greater spread developing 
+late in the period.
+
+High pressure follows Saturday into Saturday night behind 
+departing low pressure. A gusty NW flow and near seasonable 
+temperatures are forecast during this time. Low pressure
+tracking north of the Great Lakes Sunday and into eastern 
+Canada Monday, will send a warm front across the area Sunday 
+night, followed by a cold frontal passage late Monday. A light 
+warm advection event is forecast Sunday night with a rain/snow 
+mix inland and mainly rain at the coast. While there is some 
+decent thermal forcing ahead of the warm front, airmass lacks 
+moisture and will take some time to saturate. The looks to be 
+a light QPf event with liquid equivalent amounts likely to be 
+under a tenth of an inch. Temperatures will drop little Sunday 
+night with cloud cover and an increasing southerly flow. In 
+fact, temperatures will likely begin to rise. Far interior 
+locations should be close to freezing at the onset, but then 
+gradually rise. Any snowfall accumulations across the interior 
+at this time look to be minor. Temperatures in the warm sector 
+rebound quite nicely Monday getting well into the 40s, possibly 
+50 for some locations. 
+
+High pressure and a shot of cold air briefly follows Tuesday 
+into Tuesday night, with another low track well to the north 
+Wednesday into Thursday, driving another frontal system across 
+the area. The operational 12Z global guidance features some 
+large timing issues, with the GFS being on the slower side of 
+the overrunning precipitation. This looks like another snow to 
+rain event, but it is much too early to be specific with 
+impacts. The frontal system due to the westerly flow aloft is 
+rather slow to pass through on Thursday as the cold front lays 
+down some as it approaches from the west. The NBM shows quite a 
+temperature spread during this time. For example there is a 25 
+degree spread noted between the 25th and 75th percentiles for 
+highs on Thursday. This theme is apparent across most locations 
+with a little spread at the coast.
+
+&&
+
+.AVIATION /06Z FRIDAY THROUGH TUESDAY/...
+Low pressure approaches from the west through today with a warm 
+front nearing the coast. A cold front moves through tonight.
+
+VFR until around 09Z, then conditions quickly lower to MVFR and then 
+IFR with localized LIFR as precipitation enters and spreads across 
+the area. Mainly rain is expected, with a period of light freezing 
+rain at KSWF early this morning. There is a low chance of a brief 
+period of freezing rain at KTEB and KHPN early this morning, 
+but with such low chances and confidence, did not include in the
+TAF. All terminals, including KSWF, expected to have plain rain
+after 15Z. 
+
+Winds during much of the TAF period will be SW near 10 kts or 
+less. Some terminals outside of NYC will experience light winds 
+at or less than 5 kts with variable direction. 
+
+Late tonight, KSWF will have a brief rain and snow mix before all 
+precipitation eventually tapers off from west to east. Winds
+eventually become more NW and increase to near 10 kts.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Amendments likely for timing of onset of precipitation, rain, and 
+lowering conditions to MVFR, IFR, and possibly LIFR.
+
+.OUTLOOK FOR 06Z SATURDAY THROUGH TUESDAY...
+
+Late tonight: Mainly IFR with localized LIFR. Rain, mainly east
+of NYC terminals. A rain/snow mix possible for KSWF before all 
+the precipitation ends. Becoming MVFR to VFR toward Saturday 
+morning across western terminals.
+
+Saturday: Becoming VFR in the morning for all terminals. NW
+winds 10-15 kts with gusts near 20 kts.
+
+Sunday: VFR during the day, a chance of MVFR or lower conditions at 
+night, with rain along the coast and rain and snow inland.
+
+Monday - Tuesday: VFR. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+SCA remains in effect for the ocean waters through early this
+afternoon, where wind gusts may come close to 25 kt and seas
+building to 5 ft. Winds continue to diminish tonight, but seas
+should build back to 5 ft on the ocean. 
+
+A gusty N flow on Sat behind departing low pressure will produce
+gusts over 25 kt on the ocean waters, with a S swell allowing
+seas to build to 5-8 ft. Winds and seas then diminish quickly
+Sat night with high pressure building from the west. 
+
+There is potential for marginal SCA cond on the ocean waters
+Sunday night into Mon with another frontal system moving across. 
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns attm. 
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Winter Weather Advisory from 4 AM to 10 AM EST this morning 
+     for CTZ005-006.
+NY...Winter Weather Advisory from 4 AM to 10 AM EST this morning 
+     for NYZ067>070.
+NJ...Winter Weather Advisory from 4 AM to 10 AM EST this morning 
+     for NJZ002.
+MARINE...Small Craft Advisory until 1 PM EST this afternoon for ANZ350-
+     353.
+     Small Craft Advisory until 7 AM EST this morning for ANZ355.
+
+&&
+
+$$
+
+SYNOPSIS...BC/DW
+NEAR TERM...BC/JP/DW
+SHORT TERM...BC
+LONG TERM...DW
+AVIATION...JM/JP
+MARINE...BC/DW
+HYDROLOGY...BC/DW

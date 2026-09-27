@@ -1,0 +1,205 @@
+840 
+FXUS61 KOKX 221957
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+357 PM EDT Fri Aug 22 2025
+
+.SYNOPSIS...
+High pressure builds overhead tonight then offshore Saturday. A
+frontal system approaches Sunday evening and moves slowly 
+through the area Sunday night into Monday. High pressure then 
+gradually builds in for the middle to end of next week.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM SATURDAY MORNING/...
+High pressure will build overhead tonight, providing the region with 
+clear skies and dry conditions. Winds continue to diminish this 
+evening, becoming light and variable tonight. Low temperatures will 
+be in the upper 50s and 60s.
+
+&&
+
+.SHORT TERM /6 AM SATURDAY MORNING THROUGH SATURDAY NIGHT/...
+Dry weather continues as high pressure remains offshore. As the high 
+moves further offshore, a frontal system approaches from the west.
+Temperatures on Saturday will be in the lower to middle 80s. 
+Saturday night expect lows in the 60s. Lows Saturday night will be 
+slightly above normal. Clouds will increase late Saturday night 
+ahead of the approaching cold front.
+
+&&
+
+.LONG TERM /SUNDAY THROUGH FRIDAY/...
+Key Points:
+
+* Shower/thunderstorm chances late Sunday into Monday. Mainly dry 
+  conditions Tuesday through Friday.
+
+* Near normal temperatures on Sunday and Monday, then a slight 
+  cooldown to below normal highs from Tuesday onward.
+
+There has been no significant change to the forecast thinking for 
+the extended period, and the global models remain in decent 
+agreement. Synoptic-scale ridging pushes east of the area Sunday 
+allowing for a deep southwest flow to develop ahead of a deepening 
+closed upper low over eastern Canada. This low over eastern Canada 
+extends an h5 trough over the eastern 2/3 of the CONUS then remains 
+over the east for much of the rest of the extended timeframe. This 
+will keep the local area in predominately west/southwest flow aloft 
+for much of the week.
+
+At the sfc, a cold front approaches on Sunday into early Monday, 
+slowing as it does so, becoming parallel to the mid and upper flow. 
+Precipitation chances increase from west to east Sunday afternoon, 
+with a slower approach than in previous cycles, and most of the area 
+will remain precipitation free until later Sunday. PWATs do increase 
+to 1-1.75" ahead of the front, which suggests the possibility of 
+heavier rainfall with any deeper convection. Thunder chances have 
+decreased a bit, given the later timing of the approaching front, 
+with limited instability and better forcing north of the area.
+North and west of NYC would see the best chance of thunder late 
+Sunday, and thus have constrained thunder chances there for that 
+timeframe. By Monday, the front moves through the area providing 
+another round of showers and embedded thunder. Given the slow 
+movement of the system in general, localized heavy rain may still be 
+possible, especially north and west of NYC. NBM probabilities of >2" 
+in 24 hours are <10% at this time, however, so not looking at any 
+widespread heavy rainfall.
+
+The front pushes offshore by early Tuesday. High pressure then 
+builds back in from the Central Plains, for the remainder of the 
+period.
+
+&&
+
+.AVIATION /20Z FRIDAY THROUGH WEDNESDAY/...
+High pressure gradually builds from the west, moving overhead 
+tonight, then offshore on Saturday. 
+
+VFR through the period. 
+
+late day seabreezes are expected today and then once again on 
+Saturday afternoon. Winds overnight become light and variable. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Late day S seabreeze likely for JFK/KLGA, and SE for KEWR.
+
+.OUTLOOK FOR 12Z SATURDAY THROUGH TUESDAY...
+
+Saturday: VFR.
+
+Sunday and Monday: Scattered showers Sun PM through Mon PM, isolated 
+tstm possible in the aft/eve. MVFR conds possible Sun AM, and Sun 
+night into Mon AM.
+
+Tuesday and Wednesday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+New wave guidance not significantly different than previous
+forecast with no changes to the small craft advisories already
+in place across the ocean zones.
+
+High pressure builds in from the west as Hurricane Erin moves 
+further offshore. 
+
+Small Craft Advisories remain on the ocean waters west of Moriches 
+Inlet through midday Saturday, and east of Moriches Inlet through 
+the day Saturday, with the swells subsiding. There is a chance
+small craft advisories could need extending with subsequent
+forecasts into late Saturday and perhaps Saturday night, but 
+new wave guidance is marginal for SCA at just 5 ft for the ocean,
+so it will be marginal.
+
+Conditions then remain below advisory levels into mid next 
+week.
+
+For the non ocean waters conditions remain below advisory 
+levels into mid next week.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through the middle of next
+week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+A High Surf Advisory remains in effect for all Atlantic Ocean 
+Beaches until 8PM this evening as residual swell from Tropical 
+cyclone Erin continues a life threatening surf and rip current 
+threat. A High Rip Current Risk goes through early Saturday 
+evening, and may be needed into Sunday morning for the Atlantic 
+Ocean beaches as swells continue to slowly subside. Please refer
+to the National Hurricane Center for further information on 
+Erin.
+
+The surf has already peaked but new wave guidance indicates a
+slower downward trend with waves. Waves have only lowered at
+nearby buoys by about a foot since this morning. With dominant
+long period swell oriented ESE, still going to get high surf,
+especially across the more exposed Nassau and Suffolk County
+ocean beaches. The high surf advisory remains until 8PM this
+evening for NYC ocean beaches but for Nassau and Suffolk has
+been extended until 4AM Saturday. Wanted to cover the expected
+dune erosion continuing farther east as well during respective 
+high tides tonight with the high surf extension. The surf will 
+be near 6 to 8 ft. 
+
+Areas of dune erosion and beach flooding are still expected, 
+but the potential for localized overwashes is lower as water 
+levels will be lower than previous cycle last evening. The 
+threat for dune erosion will therefore not be as widespread and 
+more scattered for this evening's high tide, with beach erosion 
+and escarpment the primary threat with a west to east sweeping 
+surf. 
+
+The generally minor to localized moderate coastal flooding threat
+continues for this evening's cycles with coastal flood 
+advisories and coastal flood statements in place. Additional
+minor coastal flooding anticipated for early Saturday but more
+localized with statements up for South Shore Bays of Long Island
+and Southern Westchester and Southern Fairfield coastlines for
+early Saturday.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Coastal Flood Advisory from 10 PM this evening to 2 AM EDT 
+     Saturday for CTZ009.
+NY...Coastal Flood Advisory from 10 PM this evening to 2 AM EDT 
+     Saturday for NYZ071.
+     Coastal Flood Advisory until 11 PM EDT this evening for NYZ074-
+     075.
+     High Risk for Rip Currents through Saturday evening for NYZ075-080-
+     081-178-179.
+     High Surf Advisory until 8 PM EDT this evening for NYZ075-178.
+     High Surf Advisory until 4 AM EDT Saturday for NYZ080-081-179.
+     Coastal Flood Advisory until 2 AM EDT Saturday for NYZ080-081-
+     178-179.
+NJ...Coastal Flood Advisory until 11 PM EDT this evening for NJZ006-
+     106-108.
+MARINE...Small Craft Advisory until 6 PM EDT Saturday for ANZ350.
+     Small Craft Advisory until 2 PM EDT Saturday for ANZ353-355.
+
+&&
+
+$$
+
+SYNOPSIS...BC/DBR
+NEAR TERM...BC
+SHORT TERM...BC
+LONG TERM...DBR
+AVIATION...BC
+MARINE...BC/JM/DBR
+HYDROLOGY...BC/DBR
+TIDES/COASTAL FLOODING...NV/JM

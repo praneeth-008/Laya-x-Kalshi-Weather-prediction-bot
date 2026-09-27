@@ -1,0 +1,217 @@
+549 
+FXUS61 KOKX 191432
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1032 AM EDT Wed Mar 19 2025
+
+.SYNOPSIS...
+High pressure will remain in place today before pushing offshore 
+tonight into early Thursday. A complex frontal system with 
+developing low pressure approaches Thursday and impacts the region 
+Thursday night before moving out on Friday. High pressure briefly 
+builds in Friday night into Saturday before a weak area of low 
+pressure passes through Saturday night. High pressure then returns
+Sunday, with another frontal system expected to move through early
+next week.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Main update was to account for quicker timing of stratus and fog
+observed offshore, which should move into eastern portions of
+the area this evening in light ESE flow. Given the development
+of a surface inversion between the subsidence from ridging 
+aloft, diurnal cooling, and the onshore flow, expect the stratus
+to spread across the area, with drizzle and fog also possible
+overnight.
+
+Max temperatures will be reached earlier in the day along 
+coastal locations prior to the onset of sea breezes. There will
+be a fairly large spread in temperatures by late afternoon with
+some middle 60s further inland, to near 50 for the immediate 
+coast.
+
+Minimum temperatures will likely range from the upper half of 
+the 30s well inland, to the middle 40s towards the NYC metro.
+
+&&
+
+.SHORT TERM /THURSDAY THROUGH FRIDAY NIGHT/...
+With any ridging getting off the coast the flow will be primarily 
+onshore out of the SE. This should keep low clouds in place for the 
+most part. The breeze should pick up later in the day as the 
+pressure gradient increases some ahead of an approaching frontal 
+system off to the west. Temperatures have trended a bit cooler for 
+Thursday with more cloud cover expected ahead of the boundary and 
+more certainty with a bit more of an easterly component to the sfc 
+wind. Temperatures may not get out of the upper 40s for some eastern 
+coastal communities, with upper 50s to near 60 for far western most 
+locations. With the trend continuing in sharpening the approaching 
+longwave trough, the arrival of rain / showers ahead of the boundary 
+has slowed. PoPs begin to increase late in the day and for the early 
+evening for western sections (mainly slight chance to low end chance 
+PoPs).
+
+Much of the rain / shower activity out ahead of the frontal boundary 
+should hold off until about 2-3z Fri for the NYC metro. Much of the 
+area should see most of the rain from 3 to 9z, and 6 to 12z further 
+east. This frontal system is not going to draw up as much lower 
+latitudinal air as the frontal system from a few days ago with 
+moisture related standard deviations / anomalies not as great this 
+time around. There should be enough mid level dynamics and warm 
+advection to generate a good 0.5 to 0.75 inches of water equivalent. 
+Much if not all of the precipitation will be in the form of rain. As 
+a secondary low forms along the boundary and heights begin to fall, 
+colder air does eventually pour in from the west and northwest 
+towards Friday morning. Because the system remains progressive and 
+will not cut off over the area, any changeover to wet snow will be 
+brief across N and NW interior zones. It does not appear that there 
+will be any accumulation, with perhaps a light dusting / coating 
+across the highest elevations to the N and NW for Friday morning.
+
+Strong dry and cold advection ensues by mid to late morning on 
+Friday. As the system deepens as it pulls away the pressure gradient 
+increases quickly. NW winds will increase quickly for the late 
+morning and afternoon. Gusts to around 40 mph are likely across the 
+entire area with strong cold advection and deep layer mixing. Skies 
+will clear from west to east during the late morning and into the 
+afternoon. Temperatures will max out in the middle 40s to around 
+50 on a gusty and strong NW wind.
+
+&&
+
+.LONG TERM /SATURDAY THROUGH TUESDAY/...
+Key Points: 
+
+* A few showers possible Saturday evening, otherwise remaining dry 
+  thru the weekend
+
+* Frontal system moves through Monday and brings next widespread 
+  rainfall to the region
+
+Brief ridging builds in Friday night, helping clear skies and lower 
+winds as the gradient relaxes. Tranquil conditions persist thru 
+Saturday afternoon, before a weakening shortwave advancing east thru 
+the Great Lakes approaches and may instigate a few isolated to 
+scattered rain showers into Saturday evening, especially across the 
+interior. QPF, where it does precipitate, just a few hundredths at 
+most. Conditions dry out Saturday night as ridging begins to build 
+in once again. Behind the associated fropa Saturday night winds veer 
+NW and usher in a colder air mass to close the weekend. Temperatures 
+Saturday in the mid to upper 50s fall about 10 degrees for Sunday, 
+which is closer to typical for this time of year.
+
+Attention then turns to the next system which guidance progs moving 
+through the region Monday and Monday night. Closed low trough swings 
+thru the Lakes, with associated warm front lifting thru Monday, and 
+the attendant cold front Monday night. Some solutions do include the 
+possibility of wintry precip initially with the overrunning, but this 
+is likely limited to the interior if it were to occur with limited 
+cold air in place and timing issues. Otherwise, rain develops Monday 
+morning and likely persists much of the day before tapering Monday 
+evening as the cold front sweeps east and dries the area back out 
+for Tuesday.
+
+&&
+
+.AVIATION /15Z WEDNESDAY THROUGH SUNDAY/...
+High pressure gradually moves offshore through this evening.
+
+VFR through 22z. Low stratus and fog should begin moving in from
+the E and SE this evening generally between 23z and 02z at most
+terminals, taking longest to reach KSWF (03-06z). Flight
+categories are expected to fall to IFR and then LIFR once the
+stratus/fog overspread the terminals. LIFR will likely persist 
+through day break with gradual improvement to IFR and then MVFR 
+Thursday morning. Some patchy drizzle is also possible overnight
+and early Thursday morning. 
+
+NE-E winds around 5 kt will shift to the SE late this morning
+and afternoon around 10 kt or less. Winds will weaken this
+evening and back towards the E, becoming light and variable
+outside of the NYC metro terminals. SE winds increase again
+Thursday morning, with gusts toward 20 kt possible. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+Amendments likely for timing of IFR/LIFR this evening. 
+
+Visibilities could lower to around 1/2SM several hours faster
+than currently indicated. 
+
+Timing of improving ceilings/visibilities Thursday morning may
+be off by 1-3 hours.
+
+.OUTLOOK FOR 12Z THURSDAY THROUGH SUNDAY...
+
+Thursday: LIFR-IFR early, gradually improving to MVFR,
+potentially VFR in the afternoon. SE winds G20kt in the 
+afternoon.
+
+Thursday night: IFR likely in rain. Precip could mix with snow 
+late at KSWF. NW winds G20-25kt late from the NYC metros 
+north/west.
+
+Friday: MVFR possible in the morning at the CT/Long Island 
+terminals. NW winds G30-40kt. 
+
+Friday night: VFR. NW winds G20-25 kt in the evening. 
+
+Saturday: VFR. SW winds G20kt in the afternoon at the NYC metros. 
+
+Sunday: VFR. NW winds G20kt.
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Sub small craft conditions will be in place today as high pressure 
+resides over the waters with a SE flow developing, especially for 
+this afternoon into tonight. Ocean seas begin to gradually increase 
+during the day Thursday. Small craft seas should prevail by 
+afternoon with a SE wind around 15 kts late in the day and evening. 
+Low pressure and its associated frontal system pivot through Friday 
+morning as the winds quickly switch to the NW. The winds increase 
+quickly, within a couple of hours for the mid to late morning on 
+Friday. Gale force gusts will prevail through the day, with the 
+winds diminishing and gales giving way to small craft conditions for 
+a brief time during Friday night.
+
+Winds and seas lower below Small Craft Advisory (SCA) conditions on 
+all waters Friday night into Saturday morning, then generally sub 
+SCA conditions are expected through Sunday. Possible some ocean 
+waters near 5 ft Saturday night, especially east of Moriches Inlet. 
+A frontal system moves thru Monday and ocean seas may build to over 
+5 ft once again as it does so.
+
+&&
+
+.HYDROLOGY...
+At this time no hydrologic impacts are expected throughout the 
+forecast period.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Gale Watch from Friday morning through Friday afternoon for 
+     ANZ331-332-335-338-340-345-350-353-355.
+     Small Craft Advisory from noon Thursday to 6 AM EDT Friday for 
+     ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...MD/JE/DR
+NEAR TERM...JE
+SHORT TERM...JE
+LONG TERM...DR
+AVIATION...DR/DS
+MARINE...JE/DR
+HYDROLOGY...JE/DR

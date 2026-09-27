@@ -1,0 +1,188 @@
+918 
+FXUS61 KOKX 020656
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+156 AM EST Sun Feb 2 2025
+
+.SYNOPSIS...
+High pressure moves northeast of the region today eventually 
+getting into the Gulf of Maine. The high pressure moves 
+southeast of the Canadian Maritimes tonight. Meanwhile, a 
+frontal system approaches from the north and west, with an 
+associated warm front moving in tonight. A warm front shifts 
+north of the area Monday followed by a cold front Monday night. 
+High pressure returns Tuesday into Wednesday with a complex 
+frontal system impacting the area Wednesday night into Thursday.
+High pressure may briefly build in next Friday ahead of another
+frontal system.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM SUNDAY MORNING/...
+Forecast mainly on track. Mostly clear sky conditions present
+along with light winds, allowing for some very cold temperatures
+with radiational cooling. High pressure moving into the region
+with its center eventually getting to just north of the local
+area.
+
+&&
+
+.SHORT TERM /6 AM THIS MORNING THROUGH 6 PM MONDAY/...
+High pressure north of the region early today and associated
+subsidence will allow for more sun. Winds will be light as well
+at the surface. Then, flow becomes more southerly during the day
+today and a frontal system approaches from the north and west.
+Clouds will increase during the day, especially in the
+afternoon.
+
+The warm front with the frontal system moves in tonight.
+Precipitation is expected, mainly in the form of snow but some
+slight warming in the low levels late tonight may allow for more
+of a rain/snow mix. Otherwise, for the interior, an all snow
+event is expected, where near 1 to 2 inches of snow is forecast.
+Less than 1 inch of snow is expected along the coast.
+
+Precipitation shifts east of the region Monday morning and the
+warm front will move farther northeast of the region. More low
+level warm air advection on SW flow will make for warmer than
+normal temperatures. A mainly dry day is expected.
+
+&&
+
+.LONG TERM /MONDAY NIGHT THROUGH SATURDAY/...
+The large scale pattern for next week will consist of a fast zonal 
+flow over the CONUS. There will be embedded shortwaves in the flow 
+with the first passing Monday night into Tuesday followed by mid to 
+late week. The pattern does not appear to change heading into next 
+weekend.
+
+The period starts with a warm front lifting north of the area Monday 
+morning. Any light snow accumulation across the interior Sunday 
+night ends before the Monday morning commute and will be followed by 
+temperatures rising well into the 40s by afternoon. Some locations 
+in the NYC metro could touch or slightly exceed 50 degrees. Dry 
+conditions are expected Monday with a cold front passing across the 
+area Monday night. Temperatures do not significantly drop behind the 
+front on Tuesday as high pressure builds across the northeast. Highs 
+on Tuesday remain above normal in the lower and middle 40s. 
+Seasonably cold conditions return Tuesday night through Wednesday 
+ahead of the shortwave for the middle of the week.
+
+There is good agreement among the global deterministic and ensembles 
+for a complex frontal system associated with the aforementioned 
+shortwave to impact the area late Wednesday into Thursday. However, 
+forecast confidence is low with the timing of precip and precip 
+types. The previous forecast for Wednesday of a faster probability 
+of precip in the quick flow aloft seems reasonable, but did not want 
+to go above chance with lingering surface ridging in place. 
+Probabilities are then capped at likely Wednesday night into 
+Thursday due to a large spread in the evolution of the system. The 
+deterministic ECMWF and UKMET have been the most consistent with a 
+warm front lifting across the area Wednesday night followed by a 
+deepening surface low lifting across southeast Canada on Thursday, 
+sending a cold front through the area. This would put the area in 
+the warm sector of the system, limiting the duration of any wintry 
+precip. The ECMWF EPS and UKMET ensemble members generally agree 
+with the deterministic output, although there is spread on the 
+timing and intensity of the parent low. The GFS deterministic and 
+many of its ensemble members indicate a much weaker parent low and 
+potential of a secondary low developing near or south of Long 
+Island. This could keep the region colder with wintry precip lasting 
+longer into Thursday. The CMC is in between these scenarios with the 
+parent low moving over the northeast Wednesday night into Thursday 
+allowing for enough warm air aloft to change any wintry mix 
+Wednesday night to mainly rain on Thursday. 
+
+Have continued with the theme from the previous forecast for now 
+with potential of some light snow Wednesday afternoon and then a 
+transition to a wintry mix Wednesday night to mainly plain rain on 
+Thursday. This agrees most with the recent model consensus. In this 
+scenario, the interior would take the longest to become plain rain 
+compared to the coast which could occur as early as overnight 
+Wednesday. However, it is still too early for any specifics with 
+impacts and amounts. The system should pull away from the area 
+Thursday night with high pressure briefly returning to end the week. 
+The high quickly gives way to the potential of another frontal 
+system next weekend.
+
+&&
+
+.AVIATION /07Z SUNDAY THROUGH THURSDAY/...
+High pressure over the area through Sunday morning will give way to 
+low pressure on Sunday. The low will pass through Sunday night.
+
+VFR through at least early afternoon. Clouds gradually lower and 
+thicken, with MVFR cigs moving into the area around 22Z-24Z, 
+possibly earlier. Precip should hold off until after 00Z except at 
+KSWF where it could begin at 22Z. After 00Z, a period of light snow 
+or a snow/rain mix will be possible. 
+
+N winds 5-10 kt continue to gradually diminish overnight and become 
+NE. Winds then become E then SE daytime Sunday. 
+
+  ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Uncertainty in timing of MVFR cigs. Timing could be as early as 18Z-
+20Z. 
+
+.OUTLOOK FOR 06Z MONDAY THROUGH THURSDAY... 
+
+Late tonight: Chance of MVFR or lower conditions at night in 
+snow and/or rain. 
+
+Monday: Mainly VFR. 
+
+Tuesday: VFR. NW winds G20kt late morning/afternoon. 
+
+Wednesday: Chance of light snow with MVFR or lower cond mainly in 
+the afternoon. 
+
+Wednesday night and Thursday: MVFR or lower conditions likely. 
+Precip type snow initially, changing to a wintry mix in the 
+evening, then to rain at the NYC metro/Long Island terminals 
+late through Thursday. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+SCA just remains for the ocean between Fire Island Inlet and
+Montauk Point, mainly due to higher seas. This SCA expires at 
+6AM EST this morning. Otherwise, sub-SCA conditions are expected
+for the forecast waters through Monday.
+
+Conditions will largely remain below SCA levels on the waters Monday 
+through Wednesday with just marginal SCA gusts possible on the ocean 
+Monday night into Wednesday. The next chance for SCA conditions 
+appears to be Thursday with a complex frontal system impacting the 
+waters.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns thru next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 6 AM EST early this morning for 
+     ANZ350-353.
+
+&&
+
+$$
+
+SYNOPSIS...JMC/DS
+NEAR TERM...BC/JMC/JM/DS
+SHORT TERM...JMC/JM
+LONG TERM...DS
+AVIATION...BC/BG
+MARINE...JMC/JM/DS
+HYDROLOGY...JMC/DS

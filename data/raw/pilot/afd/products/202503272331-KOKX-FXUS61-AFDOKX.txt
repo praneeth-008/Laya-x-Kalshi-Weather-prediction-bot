@@ -1,0 +1,180 @@
+319 
+FXUS61 KOKX 272331
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+731 PM EDT Thu Mar 27 2025
+
+.SYNOPSIS...
+A trough of low pressure passes through tonight, followed by a cold 
+front that stalls nearby during Friday before moving back north as a 
+warm front Friday night into Saturday. The frontal boundary drifts
+back south of the region Saturday night, before lifting north once
+again Sunday night as low pressure tracks through the Great Lakes.
+The associated cold front approaches Monday, moving through Monday
+night into Tuesday. High pressure then builds in from the northwest
+Tuesday, before another frontal system potentially impacts the region
+mid next week.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM FRIDAY MORNING/...
+Clear skies to start the evening before cloud cover gradually 
+builds after midnight with a passing trough to the north. Forecast
+remains on track and previous discussion follows.
+
+A weak warm front or surface trough passes trough the area tonight. 
+Not much moisture with it, and with dry low levels, anything that 
+falls might be just a sprinkle. Thermal profiles look too warm with 
+freezing level heights too high to support flurries. Low 
+temperatures ranging from the lower 40s in the city to the mid 30s 
+across the northern zones.
+
+&&
+
+.SHORT TERM /6 AM FRIDAY MORNING THROUGH FRIDAY NIGHT/...
+For Friday, a cold front dropping down from the north stalls 
+somewhere across the forecast area, but possibly just north of us. 
+The front then nudges northward starting late in the day or during 
+Friday night as a warm front. Meanwhile, moisture streams eastward 
+in the vicinity and north of this boundary. Some of this may result 
+in some showers late in the day for parts of the forecast area, but 
+a better overall chance happens during Friday night for the entire 
+area. Temperatures will run above normal with highs in the mid 50s 
+to low 60s and lows around 50 in the city with 40s elsewhere.
+
+&&
+
+.LONG TERM /SATURDAY THROUGH THURSDAY/...
+Unsettled to start the period as a complex frontal system lingers 
+nearby through early next week.
+
+Warm front remains north of the region on Saturday, with increasing 
+SW flow quickly advecting in an anomalously mild air mass and 
+setting up the warmest day of the year so far. Temperatures rise 
+well into the 70s generally from NYC north and west, with perhaps 
+even a few lower 80s in urban NE NJ. Marine influence should limit 
+max temps to the lower 70s moving east into Long Island and much of 
+southern CT, and the 60s along south facing shorelines out east. The 
+warmth is short-lived as NW flow aloft and mid level confluence over 
+eastern Canada bring high pressure SE into northern New England and 
+helps force the front back south Saturday night.
+
+As that high passes well east, the front drifts back north as low 
+pressure cuts tracks thru the Lower Great Lakes, and lifts north by 
+Monday AM. Attendant cold front then approaches Monday, moving 
+across the area Monday night. A mostly cloudy day should limit highs 
+to the upper 50s and lower 60s to the east and mid 60s to lower 70s 
+to the west. Expect numerous showers along and ahead of the fropa, 
+and at least the chance for some embedded thunderstorms, especially 
+west of the Hudson. Thereafter, cooling back down into the 40s and 
+50s for daytime highs Tue and Wed with cold NW flow. Another frontal 
+system could bring another round of rain mid next week.
+
+&&
+
+.AVIATION /00Z FRIDAY THROUGH TUESDAY/...
+High pressure, south of the area, along the mid Atlantic and
+southeast coast remains tonight as a weak cold front moves 
+through the area. The front then stalls in the vicinity during 
+Friday and moves back north as a warm front Friday night into 
+Saturday.
+
+VFR. W wind shifts more SW this evening, and then becomes more
+westerly and increases late tonight into Friday morning as the
+cold front passes through the region. SW winds remain into
+Friday afternoon with the winds becoming southerly late in the
+day.
+
+Isolated light rain showers are possible tonight. Low 
+confidence in coverage and occurrence so have left out of the 
+TAF. Conditions are expected to remain VFR regardless.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+No unscheduled amendments through Friday afternoon.
+
+
+.OUTLOOK FOR 00Z SATURDAY THROUGH TUESDAY...
+
+Friday night: MVFR with a chance of rain showers.
+
+Saturday: VFR through the morning, MVFR possible starting in the 
+evening with rain showers. SW winds G25-30kt.
+
+Sunday: VFR, with a slight chance of rain showers during the day. 
+MVFR with a chance of rain showers at night. E-SE wind G15-20kt.
+
+Monday: MVFR or lower with showers, slight chance of thunder in the 
+afternoon. S-SW winds G25-30kt, becoming NW at night. 
+
+Tuesday: VFR. N/NW wind G25kt during the day.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Winds diminish this evening before increasing overnight as the 
+pressure gradient tightens in response to a trough shifting 
+through the region. Not enough confidence to drop the SCA for 
+the non-ocean waters for the overnight/Friday morning period, 
+but there may be only low coverage where criteria is met. On the
+ocean, 5ft seas would appear to be limited east of Fire Island 
+Inlet, but marginal SCA gusts anticipated west of here overnight
+into Friday morning, so no changes to the advisories on the 
+ocean. Sub-advisory conditions then follow for Friday afternoon 
+and night. 
+
+Strengthening SW flow may bring Small Craft Advisory (SCA) 
+conditions to at least the ocean waters, if not all waters, Saturday 
+with winds gusting toward 25 kt. Ocean seas build above 5 ft 
+Saturday and Saturday night as well, and could linger thru 
+Sunday AM, especially east of Moriches Inlet. Winds lower 
+Saturday night, and after a lull daytime Sunday, SCA conditions 
+return Sunday night or Monday as a frontal boundary lifts north,
+with gusts 25 to 30 kt possible on all waters. Gales possible 
+Monday on the ocean. Winds and seas should then begin to lower 
+below SCA criteria Tuesday.
+
+&&
+
+.FIRE WEATHER...
+Minimum RH values on Friday are expected to be lowest across 
+the CT zones at 30-35%. Winds will however be on the lighter 
+side by the time the RH drops this low in the afternoon, with 
+maybe a gust or two up to 20 mph. Minimum RH values for the rest
+of the forecast area will range mostly 35-45% with gusts below 
+20 mph. No statements anticipated across the entire forecast 
+area at this time.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts expected through the middle of next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory from 3 AM to 10 AM EDT Friday for ANZ331-
+     332-340-345.
+     Small Craft Advisory until noon EDT Friday for ANZ350-353.
+     Small Craft Advisory from 1 AM to 10 AM EDT Friday for ANZ355.
+
+&&
+
+$$
+
+SYNOPSIS...JC/DR
+NEAR TERM...JC/DR
+SHORT TERM...JC
+LONG TERM...DR
+AVIATION...MET
+MARINE...JC/DR
+FIRE WEATHER...
+HYDROLOGY...JC/DR

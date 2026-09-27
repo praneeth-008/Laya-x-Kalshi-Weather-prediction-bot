@@ -1,0 +1,227 @@
+396 
+FXUS61 KOKX 252029
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+429 PM EDT Wed Jun 25 2025
+
+.SYNOPSIS...
+A cold front will move through from the north and east tonight,
+then remain to the south through Thursday night. The front will
+return north as a warm front and stall nearby Friday night
+through Sunday night, then eventually lift north early next week
+with a passing low in Canada. This low will drag a cold front
+through late Tuesday into Tuesday night. 
+
+&&
+
+.NEAR TERM /UNTIL 6 AM THURSDAY MORNING/...
+Heat advisory remains in effect through 7 PM. Newark and JFK
+both surpassed 100 degrees as expected, and heat index values
+also over-peformed, with 105+ values in spots across NYC metro
+and Long Island. 
+
+This will be the last day of the heat wave as a confluent upper
+flow across eastern Canada and into the Northeast allows high 
+pressure to build to the north. This will allow a cold front to sag
+south and west across the area tonight. Isolated to widely sct
+showers/tstms possible late today into this evening. In
+addition, a few showers/tstms possible along the eastern flank 
+of the cold front which backs in from the NE this evening. 
+Instability will be greatest across the Lower Hudson Valley and 
+interior NE NJ, and any storms that manage to develop could 
+have gusty winds given dry sub-cloud air and relatively dry mid 
+levels. 
+
+Chance for showers and isolated tstms will continue overnight as
+weak impulses ride long the frontal boundary from the west and
+weak warm advection continues as cooler maritime air undercuts 
+the warmer westerlies aloft. Brief downpours will be possible 
+late tonight, especially across NYC metro area, Long Island, and
+the lower Hudson Valley. Meanwhile, the low levels will continue
+to stabilize overnight in a NE-E flow. It will be noticeably 
+cooler tonight, but still several degrees above normal, with 
+lows mostly in the upper 60s/lower 70s.
+
+&&
+
+.SHORT TERM /6 AM THURSDAY MORNING THROUGH THURSDAY NIGHT/...
+Following consistent 00Z/12Z HREF signaling potential for a band
+of locally heavy showers and isolated tstms in the morning,
+mainly across NE NJ, the NYC metro area and western Long Island. 
+
+Thereafter, convective complexes working in from the west will
+likely dissipate, with the better chances for showers and
+possible tstms north and west of NYC. Rainfall amounts will 
+generally be on the light side. 
+
+High temps on Thu will be in the lower 80s from NYC west, and 
+in the 70s across Long Island and S CT. Continued cool advection
+Thu night will lead to a downright chilly night compared to 
+recent ones during the heat wave, with lows in the upper 50s and
+lower 60s.
+
+&&
+
+.LONG TERM /FRIDAY THROUGH WEDNESDAY/...
+Key Messages:
+
+* Wet, unsettled weather late Friday into Saturday night. 
+
+* Mostly dry Sunday into Monday. 
+
+* Low confidence temperature forecast Saturday through Monday. 
+
+* Warm & wet Monday Night into Tuesday. 
+
+A stalled frontal boundary draped over the Mid-Atlantic states 
+Friday morning pushes back northward Friday afternoon into 
+Friday night. This warm front is then expected to stall nearby 
+Friday night through the weekend. Simultaneously, weakly 
+amplified mid-level shortwave passes to our north late Friday 
+into Saturday night within mainly zonal flow. Weakly amplified 
+ridging aloft may return on Sunday into Monday.
+
+Given the nearby frontal boundary and the passing shortwave
+bringing pockets of midlevel energy through the area, 
+unsettled weather is anticipated to start late Friday and linger
+into Saturday night. While not a total washout, periodic 
+passing showers are expected. This is aided by PWATs of 1.75 to 
+2.25" through this period.
+
+Thunderstorm chances and temperatures are harder to pinpoint
+Friday night into the weekend. It is all dependent on if the 
+warm front will pass north of our area before stalling nearby or
+stall south of our area. Among the available guidance, the 
+timing and location of the warm frontal passage varies, with 
+some bringing it through Friday night and others not bringing it
+through until Sunday night or Monday. Should it stall south, 
+easterly flow would lead to cooler temperatures & showers Friday
+afternoon into Saturday night. Should it advance north, 
+southerly flow would lead to warmer temperatures & dewpoints, 
+better aiding in not only shower coverage, but also a better 
+environment for thunderstorm development. 
+
+Nothing paints this uncertainty better than looking at the NBM's 
+25th and 75th percentiles for temperatures which vary by more 
+than 10-15 degrees Saturday through Monday. Meaning highs could 
+end up in the upper-70s/lower-80s or the upper-80s/lower-90s on 
+these days, solely depending on the stalled front's location. 
+
+Regardless, confidence in mostly dry weather Sunday into Monday
+is more confident given weak ridging aloft anticipated by most
+guidance. 
+
+An occluded low in Canada should capture the warm front on
+Monday, dragging it northward. This will leave us warm-
+sectored with a period of wet, unsettled weather Monday night 
+into Tuesday. A cold front Tuesday night should lead to cooling 
+temperatures and drier weather by Wednesday. 
+
+Temperatures and POPs in the long-term forecast were driven
+mostly by NBM due to low confidence.
+
+&&
+
+.AVIATION /20Z WEDNESDAY THROUGH MONDAY/...
+High pressure remains in control this afternoon. A cold front
+then moves through the terminals late this evening, slowly 
+pushing south through Thursday.
+
+Mainly VFR.
+
+NW winds around 10 kt this afternoon. Winds veer N-NE late this
+evening, then more NE-E for Thursday.
+
+Isolated showers or thunderstorms cannot be ruled out into this 
+evening, but not enough probability and coverage to include in 
+TAFs at this time. Better chance toward the Thursday morning 
+push, so have included PROB30 for this potential.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Occasional gusts 15-19kt possible until around 22Z. Only
+moderate confidence that sea breeze crosses KJFK. The sea 
+breeze may pass through, then thereafter shift back south 
+through the terminal and cause winds to shift back W to NW late 
+this afternoon/early evening.
+
+.OUTLOOK FOR 18Z THURSDAY THROUGH MONDAY... 
+
+Thursday PM: VFR.
+
+Friday through Sunday: MVFR or lower possible. Chance of 
+showers.
+
+Monday: Mainly VFR.
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+A strengthening E flow on the ocean waters will lead to gusts 
+up to 20 kt and seas up to 4 ft daytime Thu. SCA cond then
+expected on the ocean waters Thu night into Fri, with seas 
+building to 5-6 ft and gusts up to 25 kt. 
+
+&&
+
+.HYDROLOGY...
+Localized downpours of 1-1.5 inches may be possible somewhere 
+across NE NJ over to the NYC metro area and western Long Island 
+Thu morning, leading to localized instances of urban and poor 
+drainage flooding, with a marginal risk of flash flooding. 
+
+&&
+
+.TIDES/COASTAL FLOODING...
+Persistent E flow after a cold frontal passage should lead to
+widespread minor coastal flooding in NY Harbor, the back bays of
+S Queens/Nassau, Peconic Bay, and the Westchester/SW CT
+coastline with the Thu night high tide cycle. 
+
+There is a moderate rip current on Thursday due to a building E
+swell and 2-ft breakers in the surf zone. 
+
+&&
+
+.CLIMATE...
+Today's Daily Record High Temperatures:
+EWR  100 / 2025 (ties 1943)
+BDR   95 / 2025 (was 94 / 1952)
+NYC   99 / 1943, 1952
+LGA   99 / 2025 (ties 1943, 1952)
+JFK  102 / 2025 (was 98 / 1952)
+ISP   95 / 2025 (was 92 / 2003)
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Heat Advisory until 7 PM EDT this evening for CTZ005>012.
+     Air Quality Alert until 11 PM EDT this evening for CTZ009>012.
+NY...Heat Advisory until 7 PM EDT this evening for NYZ067>075-
+     078>081-176>179.
+     Air Quality Alert until 11 PM EDT this evening for NYZ069>075-
+     078>081-176>179.
+NJ...Heat Advisory until 7 PM EDT this evening for NJZ002-004-006-
+     103>108.
+     Air Quality Alert until 11 PM EDT this evening for NJZ004-006-
+     103>108.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...BG/BR
+NEAR TERM...BG
+SHORT TERM...BG
+LONG TERM...BR
+AVIATION...JC
+MARINE...BG/BR
+HYDROLOGY...BG/BR
+TIDES/COASTAL FLOODING...BG
+CLIMATE...BG

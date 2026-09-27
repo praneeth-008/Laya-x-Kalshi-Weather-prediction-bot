@@ -1,0 +1,210 @@
+502 
+FXUS61 KOKX 191814
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+214 PM EDT Sat Jul 19 2025
+
+.SYNOPSIS...
+High pressure continues to shift offshore this afternoon into 
+Sunday morning. A warm front then looks to pass through sometime
+late tonight into Sunday morning. A cold front will follow 
+Sunday evening. High pressure then dominates through Wednesday. 
+A cold front slowly approaches late Thursday through Friday.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+High pressure centered just north of the area will continue to
+move offshore into this afternoon. A frontal boundary currently
+draped over the Delmarva starts to gradually return north as a 
+warm front into this evening. Aloft, a mostly zonal flow 
+transitions to some lowering heights ahead of a shortwave.
+
+Temperatures remain on track and look to settle into the lower 
+to middle 80s for daytime maxes. With high pressure shifting 
+offshore, a return flow sets up and brings a steady increase in 
+moisture to the area ahead of the warm front, therefore dew
+point readings rise, especially further south across the area
+late this afternoon into this evening.
+
+With the increasing moisture and lift ahead of the approaching
+shortwave some showers are possible starting this afternoon, but
+mainly for southwestern portions of the area. Confidence is not
+too high in this and PoPs are a touch lower than the NBM for 
+the afternoon, mainly due to the given proximity of the high and
+latest CAM iterations.
+
+&&
+
+.SHORT TERM /SUNDAY THROUGH MONDAY NIGHT/...
+The aforementioned warm front looks to move through sometime
+tonight into early Sunday morning. Confidence in showers and
+thunderstorms increases during this period, especially for the
+eastern half of the area. Given the potential for pwats around 
+2 inches, any activity should be able to produce heavy
+downpours. See Hydrology section below. It is worth noting that
+in latest guidance there is some hints that the warm front does
+not push all the way through the area and may skirt by the
+southern half briefly before pushing east/northeast. This could
+have potential impacts on moisture and convective activity.
+
+There may then be a dry period the rest of Sunday morning into
+Sunday afternoon. Before the severe thunderstorm threat, hot 
+and humid conditions are expected with highs now forecast to be 
+in the upper 80s to lower 90s and dewpoints in the lower 70s. 
+The NBM temperatures have trended up a bit and this combination 
+is giving more widespread 95 to 99 heat index values and a 
+couple areas right around 100. Given this is only one day of 
+these conditions, no Heat Advisory is expected at this time, 
+however, if temperatures and humidity trend up again, an 
+Advisory can not be completely ruled out if the one day 
+criteria of widespread 100 heat index is reached.
+
+Attention then turns to potential severe thunderstorm activity 
+with an approaching cold front. Ahead of the front, the area 
+looks to be able to destabilize to 1500-2000 J/kg of MLCAPE. The
+cold front appears decently strong for this time of year with a
+sharp moisture gradient. 0-6km bulk shear will also be about 30
+to 35 kts. This combination could result in scattered severe 
+thunderstorms Sunday evening. The SPC has introduced a slight 
+risk for our area. The main concern is wind, given no 
+significant directional shear through the layer. Large hail can 
+also not be completely ruled out, especially in any discrete
+cells that form before an eventual potential cluster/broken
+line forms. Forecast storm motion looks somewhat perpendicular 
+to the front which may allow the earlier activity to be more 
+discrete, so the hail threat favors more north and west of NYC.
+
+High pressure builds in behind the cold front Sunday night and
+leads to quiet conditions through Monday night.
+
+&&
+
+.LONG TERM /TUESDAY THROUGH SATURDAY/...
+***KEY POINT***
+
+* Heat and humidity return for the end of next week.
+
+An extended period of quiet weather is expected during the long
+term forecast as an upper ridge building into Thursday, and 
+then weakening as another shortwave trough moves into eastern 
+Canada and the northeast late Thursday into Friday. At the 
+surface high pressure dominates into Thursday. A weak surface 
+trough develops inland Wednesday afternoon with a slight chance 
+of precipitation. A stronger surface trough develops for late 
+Thursday into Thursday night with high pressure weakening and 
+shifting south and east. And there will be higher, and more 
+widespread, chances for precipitation. Temperatures will be near
+seasonal normals through Tuesday night, then the heat will 
+build with temperatures above normal Wednesday into the end of 
+the week. Humidity levels will also be increasing beginning 
+Wednesday as a return flow setup up later Wednesday with high 
+pressure moving east of the area. For Thursday and Friday with 
+the combination of heat, with highs in the upper 80s to mid 90s,
+and humidity, with dew points in the lower 70s, there is the 
+potential for a heat advisory for Thursday and Friday with a 2 
+day period of heat indices reaching 95 to 103 across much of the
+area.
+
+&&
+
+.AVIATION /18Z SATURDAY THROUGH THURSDAY/...
+High pressure moves offshore this afternoon, giving way to a 
+warm front approaching from the south this evening. The warm 
+front is forecast to pass over Long Island late tonight into 
+Sunday morning. A cold front approaches Sun afternoon, crossing 
+Sun evening. 
+
+Spotty shower activity likely developing for aft/early eve 
+push for NYC/NJ metro terminals, with MVFR cigs possible. 
+Increasing likelihood of MVFR cigs for most terminals overnight 
+(aft 00-03z), continuing through Sun AM push. Low prob for IFR 
+cigs. 
+
+Scattered showers and isolated thunderstorm threat late tonight into
+Sun am push, highest confidence is for the coastal terminals 
+east of NYC/Nj metro. Drying conds and becoming VFR later Sun 
+AM. Then potential for iso-sct line of convection between 
+19z and 24z Sun with approaching cold front, with a severe wind
+gust threat. 
+
+Southerly winds at 8-12kt with occasional gusts 15-20kt this 
+afternoon into early evening, then light SW or variable late 
+tonight into Sun AM push. SW winds 10-15ktg20kt Sun afternoon. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Spotty showers and MVFR cigs possible for late aft/eve push. 
+Low and sparse coverage of tsra between 08z through Sun AM 
+push, higher prob to the east. MVFR conds likely after 00z thru
+Sun AM push. Low prob of IFR. Timing of MVFR and TSRA may be 
+off by 1-2 hours and need to refined. 
+
+S winds 12-15ktG18kt likely for KJFK, possible for KLGA, btwn 
+20z and 24z with coastal jet this afternoon.
+
+.OUTLOOK FOR 18Z SUNDAY THROUGH THURSDAY... 
+
+Sunday aft/eve: MVFR AM, improving to VFR late morning. 
+Potential for iso-sct line of convection between 20z and 24z Sun
+with approaching cold front, with a severe wind gust threat. 
+Otherwise, SW winds 10-15g20kt Sun aft/evening.
+
+Sunday night into Monday: VFR. NW winds 15g20kt.
+
+Monday Night through Thursday: VFR. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Winds and waves look to stay below Small Craft Advisory criteria 
+through next week with a weak pressure gradient in place. 
+However, there is potential for severe thunderstorms Sunday 
+evening. Locally stronger wind gusts and higher waves are 
+possible in any thunderstorm.
+
+&&
+
+.HYDROLOGY...
+Widespread hydrologic impacts are not anticipated through this 
+weekend. However, with potential precipitable waters values 
+around 2 inches, any thunderstorms could produce brief/locally 
+heavy rain rainfall. Higher overall chances of thunderstorms 
+would be Sunday afternoon, but storms would be moving quickly 
+enough to mitigate a flash flooding threat.
+
+There are no hydrologic impacts expected from Sunday night through 
+next week with dry weather much of the time.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+The rip current risk for Saturday and Sunday is low at all the 
+ocean beaches with 2-ft southerly wind waves at 4 to 6-sec 
+period and S winds mostly 10 kt or less.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...MET/JT
+NEAR TERM...JE/JT
+SHORT TERM...JT
+LONG TERM...MET
+AVIATION...NV
+MARINE...JE
+HYDROLOGY...MET/JT 
+TIDES/COASTAL FLOODING...

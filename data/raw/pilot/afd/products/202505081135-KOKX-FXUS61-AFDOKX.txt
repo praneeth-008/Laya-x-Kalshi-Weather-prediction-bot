@@ -1,0 +1,196 @@
+137 
+FXUS61 KOKX 081135
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+735 AM EDT Thu May 8 2025
+
+.SYNOPSIS...
+A cold front will slowly sag across the area today, stalling near of 
+just northwest of New York City by tonight. This will set the stage 
+for a soaking rainfall late today into early Friday night. A few 
+showers may linger into early Saturday. A weak cold front will 
+cross the region Saturday night, with high pressure building in 
+for early next week. Another low pressure system approaches for 
+the middle of next week.
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+A weak cold front slows to our northwest on its approach, possibly 
+stalling to the north of NYC today. This front has some moisture to 
+work with. We're expecting dry weather to persist through the first 
+half of the day, though a few showers could arrive late this 
+afternoon in NE NJ, lower Hudson Valley, and even NYC. This will be 
+the beginning of a prolonged rain event, which is discussed more 
+fully below in the Short Term. 
+
+Pressure gradient remains weak today which will allow for coastal 
+sea breezes this afternoon. Highs will be in the low to mid-70s.
+
+&&
+1
+.SHORT TERM /6 PM THIS EVENING THROUGH SATURDAY/...
+Key Messages:
+
+ * A stalled front and low pressure to bring prolonged period of 
+   rainfall Thursday afternoon into Friday night.
+
+ * Periods of moderate to locally heavy rainfall possible.
+
+ * 1-2" expected with locally higher totals possible.
+
+ * Dry Saturday.
+
+A cold front will slow on its approach today to our northwest. It 
+will likely stall this evening into tonight, but model guidance 
+still varies on the location of the front stalling. It will remain 
+stalled over or nearby into Friday. At the same time, a Mid-Atlantic 
+low will pass along the front during this time frame. An upper-level 
+trough will also dig into northern New York Thursday, becoming 
+closed and moving nearby Thursday night into Friday. The upper-low 
+and surface low will then become stacked on Friday as it phases with 
+a southern jet stream, then exit northeast late Friday night into 
+early Saturday morning.
+
+Low pressure along the stalled front will lead to periods of showers 
+Thursday afternoon into Friday, with showers tapering west to east 
+late Friday night into Saturday morning as the system exits. 
+Thunderstorms will be possible late this afternoon and evening 
+primarily north and west of NYC closer to the frontal boundary. 
+Instability will be marginal today, but no thunderstorms expected 
+into Friday. 
+
+00Z guidance vary with QPF amounts due to disagreement among the 
+models on where the stalled front will be located, and when. Periods 
+of moderate to locally heavy rainfall are possible given lift from 
+the stalled front, marginal instability, positive vorticity 
+advection from the nearby closed upper-low, some orographic 
+enhancement of precip with easterly flow Thursday night into early 
+Friday, and warm air advection at 850mb Friday afternoon and 
+evening. PWATs should peak around 1.10 to 1.50" which is right 
+around or above the 90th percentile per SPC's Sounding Climatology 
+Page. 
+
+Current forecasted QPF is between 1-2" Thursday afternoon through 
+Friday night. Its quite possible some areas could receive a few 
+inches more than this, depending on where the heaviest 
+showers/thunderstorms set up along the frontal boundary. Most of the 
+00Z CAMs are hinting at some banded higher amounts late Thursday 
+into Thursday night north and west of NYC. However, some of the 00Z 
+CAMs (HRRR/MPAS) appear to bring this higher banded QPF into NE NJ, 
+NYC and SW CT due to a more southerly placement of the stalled 
+front. Following tonight, rainfall will be widespread into early 
+Friday night before rainfall tapers with the exiting low into early 
+Saturday. Given the uncertainty, WPC has maintained a Slight Risk 
+for Excessive Rainfall for parts of Orange county and Passaic 
+counties with and Marginal Risk for the remainder of the area on 
+Thursday. Friday also carries a Marginal Risk for the entire area. 
+
+Dry weather is expected by midday Saturday with the low exiting to 
+the northeast and high pressure gradually beginning to take over.
+
+&&
+
+.LONG TERM /SATURDAY NIGHT THROUGH WEDNESDAY/...
+Another shortwave and associated surface cold front moves across 
+the area Saturday night into early Sunday morning with Canadian 
+high pressure building into its wake and gradually rising heights. 
+
+The high will keep conditions dry through Monday night. The next 
+chance of precip comes on Tuesday or Wednesday with the 
+approach of the next low pressure system.
+
+Temperatures through the long term will remain at or slightly 
+above normal with highs in the 70s.
+
+&&
+
+.AVIATION /12Z THURSDAY THROUGH MONDAY/... 
+An approaching cold front will stall near or just northwest of 
+NYC today. Low pressure travels along the front tonight into 
+Friday. 
+
+Mainly a VFR forecast today, with showers moving into the area 
+after 18z for NYC and areas to the north and west. Showers 
+become more widespread, and conditions fall to MVFR/IFR after 
+00z Friday. Some of the showers may be moderate to locally 
+heavy. 
+
+Light and variable winds at many of the terminals shift to the 
+N/NE this morning. S/SE winds to develop at the coastal 
+terminals late morning with some locations at times closer to a 
+true seabreeze. There is some uncertainly as to how far south 
+the cold front gets this evening, but is currently forecast to 
+stall near or just northwest of the NYC terminals. Winds will 
+likely vary from E to N/NE at 10kt or less across the boundary.
+Winds tonight into Friday morning may be light and variable. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Multiple wind shifts possible today with timing varying by 1-2 
+hours. Winds generally less than 10 kt.
+
+There could also be a few showers late this morning into the 
+afternoon.
+
+.OUTLOOK FOR 12Z FRIDAY THROUGH MONDAY...
+
+Friday: MVFR or lower in moderate to heavy showers. Low chance 
+of a thunderstorm. 
+
+Saturday: Mainly VFR, except MVFR or lower possible isolated  
+showers.
+
+Sunday and Monday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Weak pressure gradient will maintain sub-SCA conditions through
+early Fri. It's possible we see marginal SCA conditions on at 
+least ocean waters as low pressure tracks through region late Fri
+into Sat along with widespread rainfall.
+
+Sub-SCA conditions are expected on the area waters Saturday night 
+through the middle of next week with a weak pressure gradient over 
+the area.
+
+&&
+
+.HYDROLOGY...
+Widespread moderate to locally heavy rainfall is possible Thursday 
+afternoon into Friday night. Total rainfall amounts will be 1-2", 
+but could be locally higher for areas north and west of NYC. Flood 
+impacts are expected to be minor for most, limited to only low-
+lying, poor drainage, nuisance issues. We could see isolated flash 
+flood impacts late Thursday into Thursday night for parts of the far 
+interior north and west of NYC where banded precipitation could set 
+up given existing wet soils and higher stream levels from prior 
+rainfall. Flood Watches may be needed for some of these areas, but 
+given the disagreement on placement of highest QPF, confidence is 
+too low for a Flood Watch, at this time.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...BC/BR
+NEAR TERM...BR
+SHORT TERM...BR
+LONG TERM...BC
+AVIATION...BC
+MARINE...BC/BR
+HYDROLOGY...BC/BR

@@ -1,0 +1,195 @@
+633 
+FXUS61 KOKX 012351
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+651 PM EST Sat Feb 1 2025
+
+.SYNOPSIS...
+High pressure builds in tonight. A frontal system impacts the
+region Sunday night. A warm front shifts north of the area 
+Monday followed by a cold front Monday night. High pressure 
+returns Tuesday into Wednesday with a complex frontal system 
+impacting the area Wednesday night into Thursday. High pressure 
+may briefly build in next Friday ahead of another frontal 
+system.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM SUNDAY MORNING/...
+Forecast on track this evening. A mid 1030s will continue
+building into the area tonight. Subsidence along with a dry 
+airmass should yield mainly skc overnight. Some cirrus from the 
+Pacific to the Midwest could start to fill in in before sunrise.
+The NBM with local adjustments was used for temps, and in a 
+good radiational cooling environment, particularly aft midnight 
+when winds relax, this means lows in the single digits and 
+teens.
+
+&&
+
+.SHORT TERM /6 AM SUNDAY MORNING THROUGH SUNDAY NIGHT/...
+The high center moves into the Gulf of ME on Sun, resulting in light 
+return flow across the region. High clouds will thicken thru the day 
+as a hybrid nrn stream/Pacific weak low approaches the area. Some of 
+the modeling suggests pockets of lgt pcpn by the middle of the day 
+with the building sely flow and llvl frogen. Without deep lift and 
+deep moisture, this pcpn, if it occurs, a mix of sleet/snow 
+grains/rain possible. Amounts very light and coverage isold-sct 
+attm. 
+
+The main chcs for pcpn occur Sun ngt, particularly in the eve per 
+the 12Z models. The NBM was used for pops. Deep moisture and lift so 
+there will definitely be ice crystals to work with and therefore 
+snow, with rain mixing in at the coasts with a warmer bl and the 
+onshore sly component flow. The nrn half of the cwa is therefore 
+favored for snow accums in the 1-2 inch range. If the sys tracks 
+further swd, snowfall rates should be able to overcome the warmer bl 
+near the coasts allowing for similar light accums there. However, 
+the current solns do not suggest this.
+
+&&
+
+.LONG TERM /MONDAY THROUGH SATURDAY/...
+The large scale pattern for next week will consist of a fast zonal 
+flow over the CONUS. There will be embedded shortwaves in the flow 
+with the first passing Monday night into Tuesday followed by mid to 
+late week. The pattern does not appear to change heading into next 
+weekend.
+
+The period starts with a warm front lifting north of the area Monday 
+morning. Any light snow accumulation across the interior Sunday 
+night ends before the Monday morning commute and will be followed by 
+temperatures rising well into the 40s by afternoon. Some locations 
+in the NYC metro could touch or slightly exceed 50 degrees. Dry 
+conditions are expected Monday with a cold front passing across the 
+area Monday night. Temperatures do not significantly drop behind the 
+front on Tuesday as high pressure builds across the northeast. Highs 
+on Tuesday remain above normal in the lower and middle 40s. 
+Seasonably cold conditions return Tuesday night through Wednesday 
+ahead of the shortwave for the middle of the week.
+
+There is good agreement among the global deterministic and ensembles 
+for a complex frontal system associated with the aforementioned 
+shortwave to impact the area late Wednesday into Thursday. However, 
+forecast confidence is low with the timing of precip and precip 
+types. The previous forecast for Wednesday of a faster probability 
+of precip in the quick flow aloft seems reasonable, but did not want 
+to go above chance with lingering surface ridging in place. 
+Probabilities are then capped at likely Wednesday night into 
+Thursday due to a large spread in the evolution of the system. The 
+deterministic ECMWF and UKMET have been the most consistent with a 
+warm front lifting across the area Wednesday night followed by a 
+deepening surface low lifting across southeast Canada on Thursday, 
+sending a cold front through the area. This would put the area in 
+the warm sector of the system, limiting the duration of any wintry 
+precip. The ECMWF EPS and UKMET ensemble members generally agree 
+with the deterministic output, although there is spread on the 
+timing and intensity of the parent low. The GFS deterministic and 
+many of its ensemble members indicate a much weaker parent low and 
+potential of a secondary low developing near or south of Long 
+Island. This could keep the region colder with wintry precip lasting 
+longer into Thursday. The CMC is in between these scenarios with the 
+parent low moving over the northeast Wednesday night into Thursday 
+allowing for enough warm air aloft to change any wintry mix 
+Wednesday night to mainly rain on Thursday. 
+
+Have continued with the theme from the previous forecast for now 
+with potential of some light snow Wednesday afternoon and then a 
+transition to a wintry mix Wednesday night to mainly plain rain on 
+Thursday. This agrees most with the recent model consensus. In this 
+scenario, the interior would take the longest to become plain rain 
+compared to the coast which could occur as early as overnight 
+Wednesday. However, it is still too early for any specifics with 
+impacts and amounts. The system should pull away from the area 
+Thursday night with high pressure briefly returning to end the week. 
+The high quickly gives way to the potential of another frontal 
+system next weekend.
+
+&&
+
+.AVIATION /00Z SUNDAY THROUGH THURSDAY/...
+High pressure builds from the northwest and remains in control 
+through Sunday morning. Low pressure approaches the area Sunday 
+into Sunday night.
+
+VFR through at least Sunday morning. NNW 10-15 kt with gusts 
+20-25 kt to start, however winds will gradually diminish
+through the night with gusts becoming occasional before ending. 
+Winds then veer NE 5-10 kt after midnight. By Sunday morning, 
+winds become E then SE, remaining at 5-10kt.
+
+Uncertainty in when MVFR cigs move in on Sunday and could be as 
+early as 18z. Most of the forecast guidance continues to show
+any precipitation holding off until after 00z. Only exception
+will be at KSWF where a PROB30 was introduced at 22z Sunday.
+After 00z, a period of light snow or a rain/snow mix will be
+possible. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Occasional wind gusts possible through 05z. 
+
+Uncertainty in timing of MVFR cigs on Sunday. Timing could be as
+early as 18-20z. 
+
+.OUTLOOK FOR 00Z MONDAY THROUGH THURSDAY... 
+
+Sunday night: Chance of MVFR or lower cond at night in rain 
+and/or snow.
+
+Monday: Mainly VFR.
+
+Tuesday: VFR. NW winds G20kt late morning/afternoon. 
+
+Wednesday: Chance of light snow with MVFR or lower cond mainly in 
+the afternoon. 
+
+Wednesday night and Thursday: MVFR or lower conditions likely. 
+Precip type snow initially, changing to a wintry mix in the 
+evening, then to rain at the NYC metro/Long Island terminals 
+late through Thursday. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Cancelled the SCA on the non ocean waters as winds have largely
+fallen below SCA levels. Winds and waves will continue to 
+subside tonight as high pressure builds over the waters. Winds 
+and seas are then expected to remain blw sca lvls Sun.
+
+Conditions will largely remain below SCA levels on the waters Monday 
+through Wednesday with just marginal SCA gusts possible on the ocean 
+Monday night into Wednesday. The next chance for SCA conditions 
+appears to be Thursday with a complex frontal system impacting the 
+waters.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns thru next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 6 AM EST Sunday for ANZ350-353.
+     Small Craft Advisory until 1 AM EST Sunday for ANZ355.
+
+&&
+
+$$
+
+SYNOPSIS...JMC/DS
+NEAR TERM...JMC/DS
+SHORT TERM...JMC
+LONG TERM...DS
+AVIATION...BC
+MARINE...JMC/DS
+HYDROLOGY...JMC/DS

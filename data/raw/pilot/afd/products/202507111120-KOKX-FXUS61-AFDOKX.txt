@@ -1,0 +1,178 @@
+394 
+FXUS61 KOKX 111120
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+720 AM EDT Fri Jul 11 2025
+
+.SYNOPSIS...
+A weak cold frontal boundary will slowly push south of Long 
+Island today into tonight. High pressure then builds in from the
+north and east going into this weekend. A warm front approaches
+early Sunday, followed by a cold front approaching Sunday night. 
+High pressure eventually returns early next week, building in 
+through the middle of next week.
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+While fog has not been observed too much this morning within the
+forecast region, there have been reports of some light drizzle
+in different portions of the area. Any fog and drizzle expected
+to diminish later this morning when there is more warmth.
+
+A slow moving cold front boundary pushes farther south through
+today. The frontal boundary will also be weakening. Looking
+aloft, ridging is taking place as a shortwave and its associated
+jet streak move farther northeast of the region. There won't be
+much steering flow. 
+
+CAMs depicting some shower and thunderstorm activity along a
+daytime trough developing across the interior with some
+interaction with higher terrain. Convective initiation appears
+to be delayed in some of the CAMs until mid to late afternoon. 
+
+The convection is expected to be isolated to scattered and
+restricted to mainly north and west of NYC where there will be
+higher CAPE.
+
+More sun is expected but extra clouds with convection and some
+easterly component to the flow will limit the high temperature
+potential. Used a blend of MAVs and NBM, ranging mainly within
+the 80s, highest across parts of the interior and NE NJ. Without
+much change in dewpoint, heat indices reach a few degrees higher
+than the actual temperature. However, they still max out in the
+lower 90s range, below advisory criterion.
+
+&&
+
+.SHORT TERM /6 PM THIS EVENING THROUGH SUNDAY NIGHT/...
+With the lack of synoptic forcing aloft tonight, would expect
+any shower or thunderstorm activity to rapidly diminish this
+evening with the loss of diurnal instability. Models are showing
+however some increase in shortwave activity late tonight into 
+early Saturday morning with some increase in upper level winds. 
+Might have a shower or thunderstorm across parts of the interior
+with otherwise a mainly dry night expected.
+
+Light southeast flow at the surface tonight as well as 
+abundance of clouds will help mitigate radiational cooling. Lows
+forecast tonight will only be ranging mainly from upper 60s to
+lower 70s. Another round of late night into early morning fog is
+forecast, but kept more areas across the interior with coverage
+more patchy elsewhere. HRRR indicated this fog development
+offshore and moving into the area from the low level southeast
+flow.
+
+For the rest of this weekend, with daytime instability each day,
+potential for showers and thunderstorms, mainly north and west
+of NYC. Airmass remains very warm and humid but looks like heat
+indices still expected to remain below advisory thresholds.
+
+&&
+
+.LONG TERM /MONDAY THROUGH THURSDAY/...
+A broad mid level trough centered over the Upper Great Lakes 
+translates east into early next week, helping advance a frontal 
+system toward and through the region, bringing increased chances
+for a more widespread rainfall, especially on Monday ahead of 
+the cold front. Parameters appear at least marginally supportive
+of thunderstorm development, but steering flow appears 
+progressive enough to mitigate significant flood concerns.
+
+Conditions dry behind the fropa into midweek as weak high pressure 
+drifts in and NW flow aloft looks to lower the humidity. 
+Temperatures through the period look to largely stay in the 80s most 
+afternoons thru early week, with a gradual warm up then into mid 
+next week.
+
+National blended guidance was followed for this update.
+
+&&
+
+.AVIATION /12Z FRIDAY THROUGH TUESDAY/...
+A weak frontal boundary slowly shifts south of the terminals
+through tonight. 
+
+Varying flight categories to start the TAF period with MVFR with
+some local IFR. Flight categories will improve to VFR through
+14-15z, but MVFR could linger at KISP and KGON into early
+afternoon. A shower or thunderstorm remains possible at KSWF 
+late afternoon and early this evening. 
+
+Conditions should start falling back to MVFR or IFR tonight, but 
+timing and extent remain uncertain. 
+
+Light NE or variable flow to start will gradually become SE 
+into the afternoon. Wind speeds will remain under 10 kt. Winds 
+become light and variable tonight. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+Timing of TEMPO MVFR may linger an hour longer this morning.
+
+Low confidence with flight categories tonight.  
+
+.OUTLOOK FOR 12Z SATURDAY THROUGH TUESDAY... 
+
+Saturday-Sunday: Mainly VFR. A chance of showers and thunderstorms 
+during the afternoon and early evening near and northwest of the NYC 
+terminals.
+
+Monday: VFR. Showers and thunderstorms possible, mainly in the 
+afternoon and evening.
+
+Tuesday: VFR. Showers or thunderstorm possible in the afternoon and 
+evening, mainly NYC metro on N and W.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Not much forcing and absence of a steep pressure gradient keeps
+conditions below SCA thresholds on all waters through this
+weekend.
+
+Light flow and low seas should then maintain sub Small Craft 
+Advisory conditions on all coastal waters through early next 
+week.
+
+&&
+
+.HYDROLOGY...
+Any thunderstorm that develops could deliver a quick period of
+heavy rain and localized minor flooding through this weekend.
+PWATs forecast to increase to near 1.7 to 2 inches this weekend. 
+Most locations expected to stay dry though.
+
+No significant hydro concerns in the long term.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+Rip current risk is low through Saturday along Atlantic facing 
+ocean beaches with onshore flow 5-10 kt and a 3 ft swell from 
+the southeast at a 7-8 sec period.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JM
+NEAR TERM...JM
+SHORT TERM...JM
+LONG TERM...DR
+AVIATION...DS
+MARINE...JM/DR
+HYDROLOGY...JM/DR
+TIDES/COASTAL FLOODING...JM

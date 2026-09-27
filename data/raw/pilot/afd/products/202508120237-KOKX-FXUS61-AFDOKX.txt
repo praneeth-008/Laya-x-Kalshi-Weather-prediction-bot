@@ -1,0 +1,152 @@
+960 
+FXUS61 KOKX 120237
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1037 PM EDT Mon Aug 11 2025
+
+.SYNOPSIS...
+High pressure remains centered just offshore in the Western Atlantic 
+early this week. A cold front gradually approaches on Wednesday and
+moves through sometime Wednesday night into Thursday morning. 
+High pressure briefly returns Friday into Saturday before another 
+cold front passes through Sunday into Monday.
+
+&&
+
+.NEAR TERM /THROUGH TUESDAY/...
+The area remains under mid-level ridging with a surface high 
+pressure positioned to the southeast of the area off of the Mid-
+Atlantic coast. 
+
+This high pressure will allow dry and generally clear conditions to 
+persist over the next 36-48 hours. Clear skies tonight with a 
+lessening wind should allow some interior spots to radiationally
+cool into the low to middle 60s, assuming the light SW flow 
+becomes calm. Temperatures along the coast may remain in the 
+upper 60s to near 70. Given the amount of cooling expected 
+tonight, the development of patchy fog is possible, especially 
+for the extreme NW portions of the area where valley fog may 
+form and the eastern coastal areas where low stratus may form.
+
+&&
+
+.SHORT TERM /TUESDAY NIGHT/...
+High pressure remains in control through Tuesday with once again 
+mostly sunny skies expected outside of any morning fog or low 
+stratus. Temperatures are expected to rise into the middle to upper 
+80s for much of the area with some warmer spots rising into the low 
+90s.
+
+An increasing S/SW flow into the afternoon will allow for a 
+subtle increase in dew points which will make for a more muggy 
+feel to the air than much of the last week. The additional 
+moisture will also make the heat index values rise into the low 
+90s for much of the area. Low temperatures Tuesday night into 
+Wednesday morning will be slightly warmer than previous nights 
+with lows in the upper 60s to low 70s. More widespread fog or 
+low stratus will be possible as well once again.
+
+&&
+
+.LONG TERM /WEDNESDAY THROUGH MONDAY/...
+High pressure well offshore continues to push east and weaken as a 
+slow moving cold front gradually approaches from the northwest on 
+Wednesday. The S/SW flow out ahead of the front will bring an 
+increase in heat and moisture to the area. The NBM was followed for 
+temperatures, but blended in some drier dewpoints to account for 
+some daytime mixing. This combination resulted in widespread 95 to 
+99 degree Heat Index values everywhere except eastern Long Island 
+and eastern CT. As of right now these Heat Index values are only 
+widespread for 1 day, so Heat Advisory criteria is not being met. 
+While some northeast NJ, NYC and Long Island locations will see 95 
+to 96 degree Heat Index values again on Thursday, conditions are too 
+marginal and confidence is too low to issue any Advisory at this 
+time.
+
+With the cold front/pre-frontal trough moving into the hot and humid 
+airmass, there is a threat for showers and thunderstorms, mainly 
+Wednesday afternoon into Thursday morning. As of right now severe 
+thunderstorms are not expected. While instability is decent (upwards 
+of 2000 J/kg of MLCAPE), shear appears to be weak (mainly below 20kt 
+0-6km bulk shear) along with lack of mid and upper level forcing. 
+However, it is worth noting that the CSU MLP has western portions of 
+the area in a 15 to 30% risk of damaging winds.
+
+Behind the cold front we dry out as brief high pressure builds in. 
+Dry conditions likely continue through Sunday before another cold 
+front brings chances for showers and thunderstorms. Also expect a 
+gradual warm up through Sunday, with Heat Index values back at 95 to 
+99 on Sunday.
+
+&&
+
+.AVIATION /03Z TUESDAY THROUGH SATURDAY/...
+Mainly VFR with high pressure in control. Low chc for some 
+patchy MVFR CIGS aft 3Z Wed. Prob too low so VFR in the TAFs
+attm. 
+
+Light SW or variable winds overnight. Winds again become S-SW 
+around or just over 10 kt Tue afternoon, before decreasing again
+in the eve.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No unscheduled AMD expected. 
+
+.OUTLOOK FOR 00Z WEDNESDAY THROUGH FRIDAY... 
+
+Tuesday night: VFR.
+
+Wednesday: Chance of late day/evening showers/tstms with MVFR or 
+lower cond. Chance of showers late at night. 
+
+Thursday: Mainly VFR. Chance of showers and possibly a thunderstorm. 
+
+Thursday night through Saturday: VFR. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+With a weak pressure gradient in place, winds and seas are expected 
+to remain below Small Craft Advisory (SCA) criteria through the
+week.
+
+&&
+
+.HYDROLOGY...
+There are no significant hydrological concerns through the week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+A moderate rip current risk is in place today and Tuesday along 
+ocean beaches due to persistent E-ESE swells with around 3 ft waves 
+and a 7 to 9 second period.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Air Quality Alert until 11 PM EDT this evening for CTZ005>012.
+NY...Air Quality Alert until 11 PM EDT this evening for NYZ067>075-
+     078>081-176>179.
+NJ...Air Quality Alert until 11 PM EDT this evening for NJZ002-004-
+     006-103>108.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JT/MW
+NEAR TERM...MW
+SHORT TERM...MW
+LONG TERM...JT
+AVIATION...JMC/BG
+MARINE...JT/MW
+HYDROLOGY...JT/MW
+TIDES/COASTAL FLOODING...

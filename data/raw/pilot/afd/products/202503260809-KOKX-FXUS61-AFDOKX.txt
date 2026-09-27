@@ -1,0 +1,191 @@
+476 
+FXUS61 KOKX 260809
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+409 AM EDT Wed Mar 26 2025
+
+.SYNOPSIS...
+Low pressure passes to the east this morning, followed by a weak 
+cold front or surface trough passing through later this afternoon 
+into early this evening. High pressure then builds in from the 
+southwest tonight into Thursday, passing to the south Thursday 
+night as a weak frontal system passes to the north. A warm front 
+approaches from the southwest on Friday and will remain in close
+proximity through the first part of next week. A series of 
+disturbances will develop along the boundary to the west as a 
+warm front lifts north of the area Sunday night into Monday. The
+trailing cold front sweeps through Monday night into Tuesday. 
+High pressure builds into the area Tuesday.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+A strong upper trough from the Great Lakes south into the Mid
+Atlantic states will translate east during this time. This will
+kick weak low pressure to the east this morning with some partial
+clearing before the upper trough axis moves into the area this 
+afternoon into this evening. A low chance for sprinkles and/or 
+showers will continue during this time. Wet bulb temps in the 
+30s could even allow for a few flakes to mix in across some of 
+the higher elevations north and west of the NYC metro and possibly
+closer to the coast tonight if any precipitation still lingers.
+Regardless, expect no more than a few hundredths of an inch of 
+liquid equivalent. W winds will become gusty this afternoon, but
+not as strong as on Tuesday. Gusts will continue into the night,
+but less frequent, as winds veer to the NW in weak cold advection.
+
+Highs today will be closer to normal in the upper 40s to lower 
+50s, with overnight lows a few degrees below normal in the upper
+20s to mid 30s. 
+
+&&
+
+.SHORT TERM /THURSDAY THROUGH FRIDAY/...
+For Thursday, deepening low pressure across the Canadian Maritimes
+and high pressure nosing in from the southwest will keep conditions
+dry with winds gusts up to 20 mph possible. Highs will be similar
+in the upper 40s to lower 50s. 
+
+As the upper trough continues to translate offshore with warm
+advection on the backside, a weak warm front and/or trough
+passes through Thursday evening. Have kept it dry at this time 
+but some of the guidance hints at a sprinkle and/or brief 
+shower possible. Confidence is too low at this time to mention 
+in forecast products. 
+
+Friday will be considerably warmer in the upper 50s to lower 60s
+in a W/SW flow. However, at this time of the year any southerly
+component will keep immediate coastal locations cooler with
+water temperatures in the 40s. 
+
+&&
+
+.LONG TERM /FRIDAY NIGHT THROUGH TUESDAY/...
+Unsettled conditions are possible for much of the period as a 
+complex frontal system approaches Friday night and remain over or 
+near the area through the first part of next week. 
+
+POPs increase Friday night as a warm front approaches and lifts 
+north across the region. The latest 00z forecast guidance now has 
+the front lifting far enough north, that the local area remain dry 
+for much of Saturday. In addition, with the area in warm sector, 
+unseasonable warmth is forecast with highs ranging from the middle 
+60s to lower and middle 70s across much of the area. Coastal 
+locations may remain slightly cooler.
+
+A series of shortwaves and associated low pressure systems will 
+travel along this frontal boundary, bringing increased chances for 
+rain showers Saturday night through Monday. A lot will depend on 1- 
+how far north the warm front remains and 2- the timing of each wave 
+along this frontal boundary. Overall, will cap POPs at high end 
+chance to cover the uncertainty. By Monday night into early Tuesday 
+morning, the entire complex frontal system and any subsequent waves 
+of low pressure should progress off the coast with a drier NNW flow 
+building into the area. Some of the forecast guidance is hinting at 
+another wave of low pressure developing along the cold front, which 
+could linger some precipitation into the day Tuesday. Will keep some 
+slight chance POPs in the forecast. With a colder NW flow in place, 
+some northern locations may see the precipitation end as a few snow 
+showers. 
+
+Overall forecast confidence is below average through the entire long 
+term period with multiple questions around frontal boundary 
+positioning, and mid level shortwave timing inconsistencies.
+
+&&
+
+.AVIATION /08Z WEDNESDAY THROUGH SUNDAY/...
+Weak high pressure noses in from the southwest this morning,
+eventually giving way to a weak cold front or surface trough
+that passes through this afternoon into early evening.
+
+VFR conditions expected through the TAF period. A chance of SHRA 
+will be possible this afternoon with the passage of a cold front. 
+Will include a PROB30 group to account for the SHRA. The main timing 
+for any precip will be 18z-21z for the NYC terminals, slightly later 
+further east. W to SW flow at or around 10 kt becoming light from the
+
+N to NW flow around 10kt or less. A few locations have wind speeds 
+over 10kt, but should be decreasing over the next hour or two. Winds 
+are expected to become more westerly this morning. Initially this 
+morning speeds should be 5 to 10 kt, but increasing to 10 to 15 kt 
+by late morning into the afternoon. Gusts of around 20-25kt are 
+possible, mainly from about 18-00z. The best chances for gusts will 
+be from NYC and points west, however will include gusts at all TAF 
+sites. Most gusts end around 00Z Thursday.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Amendments may be needed for timing of showers this afternoon.
+
+Gusts may be occasional than frequent this afternoon.
+
+.OUTLOOK FOR 09Z THURSDAY THROUGH SUNDAY...
+
+Wednesday night: VFR.
+
+Thursday: VFR.
+
+Friday: VFR. W wind gusts 15-20 kt.
+
+Saturday: VFR during the day, MVFR possible at night. E to SE wind 
+gusts 15 to 20 kt. 
+
+Sunday: MVFR or lower possible in light rain. E to SE wind gusts 15 
+to 20 kt.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+
+&&
+
+.MARINE...
+While sub-SCA conditions are forecast through Friday, there is
+a chance for marginal SCA conditions on the ocean in a NW flow 
+late tonight into Thursday morning, and again Thursday night
+into Friday morning in a westerly flow. 
+
+Small craft conditions remain possible this weekend into early next 
+week with seas on the ocean hovering around 5ft. Winds gusts are
+likely to remain below 25 kt for much of the weekend. A better 
+chance for SCA conditions will be Sunday night into next week 
+as a frontal system moves across the area waters. Low pressure 
+offshore may keep seas elevated for the first half of next week.
+
+&&
+
+.FIRE WEATHER...
+Gusty west winds the next couple of afternoons, low fuel
+moisture, and lowering minimum RH values into Thursday raises
+some concern for elevated wildfire should any fire be ignited.
+Land managers will be contacted to collaborate on any need
+headlines. 
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts are expected through the upcoming weekend.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...BC/DW
+NEAR TERM...DW
+SHORT TERM...DW
+LONG TERM...BC
+AVIATION...BC
+MARINE...BC/DW
+FIRE WEATHER...
+HYDROLOGY...BC/DW

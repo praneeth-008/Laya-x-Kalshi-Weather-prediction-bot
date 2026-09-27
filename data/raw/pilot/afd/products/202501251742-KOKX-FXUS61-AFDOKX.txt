@@ -1,0 +1,188 @@
+242 
+FXUS61 KOKX 251742
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1242 PM EST Sat Jan 25 2025
+
+.SYNOPSIS...
+High pressure builds this afternoon and shifts east of the 
+region tonight into Sunday. A frontal system moves across 
+Sunday. High pressure builds in for Monday. Strong low pressure 
+passes well north of the area Monday night and drags a cold 
+front through the area on Tuesday. Brief high pressure then 
+moves in Tuesday night before a clipper low passes through on 
+Wednesday into Wednesday. High pressure likely builds in 
+thereafter to end the week.
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+Updated for current conditions, with no significant changes.
+
+High pressure builds this afternoon with dry weather and mostly
+clear skies continuing through the afternoon.
+
+Zonal flow aloft will mean relatively quick moving systems for 
+the near and short term periods.
+
+Continued well below normal temperatures expected today, with
+highs in the upper 20s to lower 30s.
+
+&&
+
+.SHORT TERM /6 PM THIS EVENING THROUGH MONDAY/...
+A weak upper level shortwave approaches from the Great Lakes
+region tonight, along with a surface frontal system. The
+associated warm front lifts north of the area late tonight. This
+will allow winds to shift to the SW late in the day today and
+continuing into tonight, with the flow strengthening for Sunday.
+The front is expected to move through in the afternoon on
+Sunday, but should do so dry as there is little moisture to work
+with and much of the forcing lies north of the area. A stray
+snow shower cannot be ruled out for eastern areas however as a
+weak vorticity max moves through these areas, but decided to go
+with a dry forecast as this is still too low of a chance to 
+include in the forecast.
+
+Monday will be dry with behind the departing cold front as
+another cold front dives southeast over southern Canada, but 
+remains well north of the area through the day.
+
+Temperatures will warm overnight tonight thanks to warm
+advection ahead of and behind the warm front. So, overnight lows
+are expected to be set early in the evening. Highs on Sunday and
+Monday are expected to be closer to normal for this time of
+year.
+
+&&
+
+.LONG TERM /MONDAY NIGHT THROUGH FRIDAY/...
+A strong upper level low and associated surface low pass well 
+to the north of our area Monday night into Tuesday. An 
+associated cold front looks to pass through the area sometime on
+Tuesday. The timing of the front has sped up a bit with the 
+latest 00z guidance. Because of this, trended colder than the 
+NBM for Tuesday's highs. Keeping the forecast dry for now as it 
+looks like any precipitation will fall north of the area. 
+However, can not completely rule out brief light snow showers 
+across the interior just behind the front.
+
+A clipper low then looks to move through on Wednesday, bringing
+a slight chance of snow showers to the area and rain/snow 
+across much of Long Island. The bulk of any precipitation will 
+be to our north where the greatest lift and moisture is. While 
+it is still far out for forecast amounts, any snow we do get 
+from this system will likely end up being very light amounts.
+
+While some differences remain across the guidance, thereafter 
+the general idea is that high pressure builds in to end the 
+week. However, an upper level trough remains over the northeast 
+and another weak low or two could move through as shortwaves 
+spin around the broader trough. Colder air building in will also
+result in highs potentially not making it out of the 30s on 
+Thursday and Friday, with lows each night in the single digits 
+and teens.
+
+&&
+
+.AVIATION /18Z SATURDAY THROUGH THURSDAY/...
+High pressure builds in today, shifting east of the region into
+tonight as a frontal system approaches from the Great Lakes.
+
+VFR. Mid and upper deck lowers this afternoon and evening. 
+
+W flow backs SW into this afternoon. Speeds around 10 kt thru
+rest of the day, with gusts toward 20 kt possible, though may 
+be more occasional. Gusts diminish this evening but resume by 
+late Sunday AM as flow goes westerly and speeds increase to 
+15G25kt. Gusts subside by early Sunday evening as speeds lower 
+back toward 10 kt.
+
+     NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Gusts may be more occasional than frequent today.
+
+A few gusts may exceed 30 kt on Sunday.
+
+.OUTLOOK FOR 12Z SUNDAY THROUGH THURSDAY...
+
+Sunday-Tuesday: VFR. W-WSW gusts 20-25 kt.
+
+Wednesday: Chance of MVFR or lower in snow showers. W gusts 20-25kt
+
+Thursday: VFR. NW gusts 30 kt.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+No changes to the winds and seas with this update.
+
+Winds and waves remain below SCA levels through this afternoon.
+SW winds are expected to increase overnight as a frontal system
+approaches from the west. Have expanded the SCA across all non 
+ocean waters except the harbor. Non ocean waters may end up 
+being more marginal or occasional. 
+
+SCA is currently in effect for the ocean waters Saturday 
+night through Sunday. With SCA gusts expected to be more 
+marginal and intermittent on the non-ocean waters, held off on 
+SCA issuance for non-ocean zones.
+
+Winds diminish Sunday night, but increase once again on
+Monday ahead of another approaching frontal system from Canada. 
+
+Wave heights on the ocean build to 5 ft tonight, and peak at 5
+to 7 ft on Sunday. They then diminish Sunday night, but may not
+fall below 5 ft as they are expected to increase again late
+Sunday night into Monday.
+
+The Great South Bay and Peconic and Gardiners bays seem to have
+some ice as seen from satellite imagery, so wave heights in the
+Coastal Waters Forecast would only be for ice free waters. 
+
+Strong low pressure passes well to the north of the area Monday 
+night, but will bring gusty conditions to the waters. At least SCA 
+conditions are expected on all waters, with the potential for gales. 
+At this time the highest confidence in gales is over the two eastern 
+ocean zones, where an HWO is highlighted. Given the strong winds, 
+seas are also forecast to reach 8-12 feet over the two eastern ocean 
+zones. SCA conditions then look to linger through Tuesday on all non 
+ocean waters and Tuesday night for the ocean waters.
+
+The passing of a clipper low will then bring the next chance for SCA 
+conditions Wednesday into Wednesday night and then they likely 
+continue as high pressure builds into the area through the end of 
+the week.
+
+&&
+
+.HYDROLOGY...
+No significant hydrologic impacts through next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory from 6 PM this evening to 7 AM EST Sunday 
+     for ANZ331-332-335-340-345.
+     Small Craft Advisory from 6 PM this evening to 6 PM EST Sunday 
+     for ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JP/JT
+NEAR TERM...JP/MET
+SHORT TERM...JP
+LONG TERM...JT
+AVIATION...DR
+MARINE...JP/MET/JT
+HYDROLOGY...JP/JT

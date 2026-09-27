@@ -1,0 +1,229 @@
+189 
+FXUS61 KOKX 211026
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+626 AM EDT Fri Mar 21 2025
+
+.SYNOPSIS...
+A cold front pushes east this morning, with strengthening low 
+pressure tracking thru the Gulf of Maine this afternoon. A high
+pressure ridge will briefly slide in for tonight, before 
+another cold front approaches Saturday and moves through 
+Saturday evening. High pressure will briefly return again on 
+Sunday before a stronger frontal system moves through on Monday.
+Weak high pressure will return on Tuesday, with another low 
+pressure system possible for mid week.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Key Messages...
+
+* NW winds 25-30G35-45mph expected through this afternoon. 
+  Isolated peak gusts to 50 mph possible.
+
+A vigorous shortwave entering western portions of the local
+Tri-State slides through the area thru this morning and then east
+this afternoon. At the surface, cold front/occluded front is
+pushing east of the region with developing triple point low E 
+of the region. Weak deformation band in wake of low lifts ne 
+through S CT through daybreak, with potential lingering bands of
+shower coming to an end.
+
+Main story for today will be gusty winds. NW winds 
+25-30G35-45mph already develop this morning with rapid 
+tightening of pressure gradient and modest shot of caa in wake 
+of low pressure. A few gusts around 50 mph possible with 900 mb
+winds at top of mixed layer progged to run around 40kt this 
+morning. Mt Pocono reporting peak wind gusts of 44 kt at 953z. 
+Downward momentum transfer setup is not ideal to increase 
+confidence in more widespread 50 mph gusts this AM. Potential 
+for a few 50 mph gusts this afternoon as well with deeper 
+diurnal mixing to 800-850mb and better momentum transfer in wake
+of shortwave. Overall, marginal NW wind advisory potential
+today, during pre-green-up phase, should limit widespread wind 
+impacts. Winds subside fairly quickly this evening as shortwave 
+ridging quickly build in.
+
+Otherwise, clearing skies later this morning, with temps 
+slightly above seasonable in offshore flow. Decent radiational 
+cooling conditions across outlying areas tonight, allowing low 
+temps to fall well down into the 20s. Otherwise lows in the 30s 
+for city/coast.
+
+&&
+
+.SHORT TERM /SATURDAY THROUGH MONDAY/...
+Key Messages...
+
+* W/NW winds 15-25G30-40mph late Sat/Sat Eve
+* Quick shot of polar air Sat Night into Sun AM
+* Next chance of a soaking rain (brief wintry mix interior) Sun
+  Night into Mon 
+
+Active northern stream with PAC/polar shortwave approaching on 
+Sat and crossing Sat night. This followed by shortwave ridging 
+Sun ahead of deepening PAC trough/closed low over the upper 
+Mississippi River Valley into the Great Lakes, that approaches 
+the area on Monday.
+
+Models have trended a bit stronger with the interacting 
+polar/pac shortwaves and resultant polar front approaching 
+Saturday and crossing Saturday evening. This feature is 
+moisture starved, but improved dynamics and even a bit of 
+instability do present a better chance for iso-sct shower 
+activity, particularly for areas N&W of NYC.
+
+Otherwise, mild and breezy conditions (SW winds 15-25G25-35mph)
+develop ahead of the cold front Sat aft with quick shot of waa 
+and deep mixing, giving way to glancing shot of polar air Sat 
+eve/night on gusty NW G30-40mph in wake of front. 
+
+Brief ridging surface/aloft Sun, in wake of this system with 
+temps running slightly below seasonable. 
+
+A stronger frontal system quickly approaches Sun Night/Mon 
+associated with vigorous closed low moving through the upper 
+Mississippi River Valley/Great Lakes Sun night. Approaching 
+shortwave and 55-60kt llj aid lift of +1-2 STD PWAT gulf moisture 
+over an approaching warm front to the south, increasing the 
+likelihood of rain for the city/coast Sun Night into Monday AM. 
+
+Across the interior, thermal profiles primed by recent polar 
+airmass intrusion, could support a period of snow or a wintry 
+mix at the onset Sun Night/early Mon AM, before transitioning to
+rain. Any snow/wintry mix accum would be light, with NBM probs
+for far interior under 10% for 1" and 20 to 30% for > 0.1" at 
+this time. In addition, potential for a period of moderate to 
+heavy rain as well for eastern portions of the region Monday AM 
+(NBM prob of 20-30% for greater than 1" of rain) as WCB develops
+with more favorable ulj/llj lift. 
+
+Drying conds Monday afternoon in wake of cold front/developing 
+triple pint low.
+
+&&
+
+.LONG TERM /MONDAY NIGHT THROUGH THURSDAY/...
+Low pres will depart Mon ngt, with any lingering pcpn rapidly 
+tapering off per the consensus fcst. Timing attm is before midnight. 
+A developing wly flow could limit low temps. There is a good 
+discrepancy with the MEX in some of the outlying locations so there 
+could be some colder pockets than the NBM is indicating. 
+
+Despite the cold temps aloft with the GFS around -5C at h85 on Tue, 
+wly flow and sunshine should promote good mixing and yield high 
+temps aoa climo. The NBM was used. 
+
+The GFS and ECMWF have a weak low passing S of the cwa on Wed. The 
+NBM has around a 30 pop for this feature, which seams reasonable 
+attm. The ECMWF does take the low to the benchmark at 18Z Wed, but 
+the sys is modeled to be progressive and the daytime timing will not 
+help with snow chances as well. GFS track is further S. 
+
+Will go with fair and cooler wx for Thu. There is a lot of 
+uncertainty this far out, with the suggestion in the GFS that some 
+shrtwv energy will traverse the region. Skeptical at this point 
+considering the more amplified yet benign ECMWF, so kept the fcst 
+dry.
+
+&&
+
+.AVIATION /10Z FRIDAY THROUGH TUESDAY/...
+A cold front passes out to sea this morning. High pressure 
+gradually builds towards the region today.
+
+Improvement to VFR will continue from W to E thru 10Z. VFR 
+thereafter thru the rest of the TAF period. 
+
+NW winds increase substantially thru 12Z, with gusts up to 40kt 
+possible during the day. Winds decrease late today and become 
+generally lgt and vrb overnight.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Peak gusts around 35 kt possible thru 14Z, with peak gusts 
+around 40 kt possible 15-22Z.
+
+.OUTLOOK FOR 06Z SATURDAY THROUGH TUESDAY...
+
+Late Tonight: VFR with light winds.
+
+Saturday: VFR. Slight chance of a shower NW of NYC in the
+afternoon. SW gusts 20-25kt in the afternoon, becoming W/NW in
+the evening.
+
+Sunday: VFR. NW gusts 15-20kt. 
+
+Sunday Night and Monday: Becoming IFR with rain. Possible onset
+as snow for KSWF. S gusts 15-20kt near the coast on Monday.
+
+Tuesday: VFR. 
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Marine dense fog advy across water will be able to be lifted at
+2am as a frontal system moves across the waters.
+
+SCA remains in effect for the ocean waters for tonight as SE 
+flow increases to 20 kt and pushes current 4-5 ft seas to 5-7 ft
+late tonight. 
+
+The gale warning for daytime Fri also remains in effect, with
+gusts up to 35 kt expected on all waters mainly from late
+morning into early afternoon in strong NW flow. 
+
+Sub advisory conditions for Saturday morning, then winds and
+seas build in a SW flow. Advisory conditions mainly on the 
+ocean Saturday afternoon through Sunday morning. Elsewhere, a 
+few gusts to 25 kt possible during Saturday night. Sub-SCA conds
+for Sunday afternoon and night as a high pressure ridge shifts
+through. The next potential for SCA conds is then on Monday 
+ahead of a frontal system, particularly on the ocean. 
+Elevated seas may linger through a good portion of Tuesday.
+
+&&
+
+.FIRE WEATHER...
+Strong NW flow frequently gusting to 35-45 mph and RH quickly 
+lowering to 25-30 percent expected today, after a wetting rain 
+of 1/2 to 3/4 inch overnight. Fuel conditions will be re- 
+evaluated with land managers this morning to determine the 
+potential of elevated risk of fire growth/spread this afternoon.
+
+&&
+
+.HYDROLOGY...
+1/4 to 3/4 inches of rain possible for Sunday Night into 
+Monday.
+
+No significant hydrologic impacts expected through middle of next
+week at this time.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Gale Warning until 8 PM EDT this evening for ANZ331-332-335-
+     338-340-345-350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JMC/NV
+NEAR TERM...NV
+SHORT TERM...NV
+LONG TERM...JMC
+AVIATION...JMC
+MARINE...JMC/NV
+FIRE WEATHER...
+HYDROLOGY...JMC/NV

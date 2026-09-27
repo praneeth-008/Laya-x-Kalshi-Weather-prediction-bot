@@ -1,0 +1,161 @@
+601 
+FXUS61 KOKX 220805
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+405 AM EDT Sat Mar 22 2025
+
+.SYNOPSIS...
+After a weak cold frontal passage this evening and fair weather on 
+Sunday, precipitation will overspread the area Sunday night and 
+Monday. Weakening low pressure will track across eastern Canada
+Tuesday into Tuesday night, with another weak low passing to 
+the south Tuesday night into Wednesday. High pressure builds in 
+for the end of the week. 
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+A cold front just W of Detroit at 8Z will approach the local 
+area today. This will result in backing winds to the SW this 
+mrng, and a mild flow for most of the area. Cstl areas in the 
+ern portion of the cwa will be impacted most by the onshore 
+component to the flow, so cooler there. Mid and high clouds, 
+evident on the current IR, will overspread the area from the SW 
+today, resulting in filtered sunshine. The llvls are dry though 
+so no pcpn expected until the front arrives late this aftn and 
+eve. 
+
+Mainly a dry fropa is modeled with the moisture starved sys. Both 
+the ECMWF and GFS drive enough forcing thru to produce a few shwrs 
+or sprinkles, with the NAM notably drier. For the grids, blended the 
+21Z SREF with the NBM to get an output that looked reasonable. 
+Chance pops W and slight chance to no pops ern areas. 
+
+CAA on NW flow tngt drops temps into the 20s for the entire
+area.
+
+&&
+
+.SHORT TERM /6 PM THIS EVENING THROUGH MONDAY NIGHT/...
+High pres ridges across the region on Sun so fair wx. Temps cooler 
+with h85 around -5 before warming late in the day. WAA aloft will 
+result in increasing clouds Sun eve, and as the theta-e ridge 
+builds in, pcpn should develop overnight. Enough cold air across
+the interior for a mix of rain and snow before changing over to
+all rain in the lljet pcpn regime. The rain exits the area 
+fairly quickly on Mon with the dry slot coming thru. There could
+be some residual dz and clouds before the wly flow scours it 
+out in the aftn. Because the sys is still a few days away, fcst 
+pops are a bit spread out. Expect these to narrow a bit as the 
+timing is better resolved. 
+
+A few shwrs might be possible Mon ngt as the upr trof approaches 
+with steepening lapse rates and dpva, but the airmass is so dry it 
+looks like it will be difficult to get pcpn attm. Stuck with the NBM 
+pops for now which is mostly dry.
+
+The NBM was used for temps thru the period. 
+
+&&
+
+.LONG TERM /TUESDAY THROUGH FRIDAY/...
+This will be a relatively benign period for the area with the mean 
+upper trough residing across eastern Canada and the Northeast.
+Heights begin to build toward the end of the period with a more 
+zonal flow developing. Expect temperatures during at or just above 
+normal in the Tuesday through Thursday timeframe before warming up 
+on Friday. Next chance for precipitation will be late Tuesday night 
+into Wednesday as a piece of jet energy races across the Ohio Valley 
+and off the Mid Atlantic coast. The forecast area resides at the 
+northern periphery of what is initially a weak low. There could be a 
+brief mix of wet snow at the onset across some of the higher 
+elevations well north and west of the NYC metro. Liquid equivalent 
+amounts at this time look to be under a quarter of an inch.
+
+Stayed close to NBM guidance with no significant targets of 
+opportunity at this time. 
+
+&&
+
+.AVIATION /08Z SATURDAY THROUGH WEDNESDAY/...
+A ridge axis slides east of the area this morning as a weak cold 
+front approaches from the west. The front will be preceded by a pre-
+frontal trough that passes through in the afternoon, followed by an 
+evening cold frontal passage.
+
+VFR. S-SW winds will gradually increase later this morning with 
+gusts up to 20 kt late morning and early afternoon, increasing to 
+around 25 kt by late afternoon. Winds will then become NW in the 
+evening behind the cold front with similar gusts. 
+
+A slight chance for showers for the metro terminals and points 
+points east after 18Z, while there is a low chance for showers at 
+KSWF. Chances were generally too low to include in TAFs at this 
+time, except a PROB30 at KSWF.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Onset of gusts and wind shifts late this morning into this evening 
+may vary by 1-2 hours. Gusts could be more occasional in the early 
+evening hours Saturday before the cold frontal passage.
+
+.OUTLOOK FOR 06Z SUNDAY THROUGH WEDNESDAY...
+
+Late Saturday Night: VFR. NW winds G25-30kt, beginning to diminish a 
+few hours prior to daybreak Sunday.
+
+Sunday: VFR.  
+
+Sunday Night and Monday: Becoming IFR with rain. Possible onset as 
+snow for KSWF. S winds G15-25kt, strongest near the coast on Monday.
+
+Tuesday: VFR. SW winds G15-20 kt possible.
+
+Wednesday: MVFR possible. Chance of showers. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+SW flow will increase and seas will build on the ocean this aftn. A 
+SCA has been issued for the ocean starting at 18Z. Aft a cfp early 
+this eve, NW winds pick up and a sca has been issued for all waters 
+for tngt. Seas may linger aoa 5 ft on the ocean Sun mrng, but high 
+pres building in will keep winds lgt. A SCA may be needed Mon, 
+especially on the ocean, as a frontal sys tracks thru the area.
+
+Lingering seas around 5 ft on the ocean Tuesday will subside below 
+SCA by evening. The period will then be marked by a westerly flow 
+with sub-SCA conditions through the mid week. 
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts are expected thru the end of next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory from 8 PM this evening to 6 AM EDT Sunday 
+     for ANZ331-332-335-338-340-345.
+     Small Craft Advisory from 2 PM this afternoon to 6 AM EDT 
+     Sunday for ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JMC/DW
+NEAR TERM...JMC
+SHORT TERM...JMC
+LONG TERM...DW
+AVIATION...DW
+MARINE...JMC/DW
+HYDROLOGY...JMC/DW

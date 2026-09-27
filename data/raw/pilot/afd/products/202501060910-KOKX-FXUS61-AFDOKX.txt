@@ -1,0 +1,172 @@
+333 
+FXUS61 KOKX 060910
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+410 AM EST Mon Jan 6 2025
+
+.SYNOPSIS...
+Low pressure tracks through the Mid Atlantic today, passing to the 
+south and offshore tonight. High pressure then slowly builds in from 
+the west through Friday. An area of low pressure then passes to
+our south this weekend.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Surface low centered over Kentucky early this morning slides east 
+today, passing through the Mid Atlantic and offshore by this 
+evening. Ahead of it, WAA has allowed snow to break out over the Mid 
+Atlantic, and this will attempt to work into parts of the local
+area later this morning. The low is progged to pass well south 
+of the area though, slipping off the Delmarva this evening.
+
+The local area will lie on the northern periphery of this system and 
+its moisture field. The snow has made it as far north and east 
+as Cape May as of 9Z, and should continue to creep closer through
+the morning hours. This brings the light snow into northeast NJ
+and NYC likely between 9 am and 12 pm, then falling intermittently
+through the afternoon as it slides east into Long Island, but
+struggles to gain additional latitude.
+
+Latest hi res guidance continues to offer up to a tenth of an inch
+of liquid on the high side for portions of the area, though the mean
+around the NYC metro (where QPF is maximized) sits around five 
+hundredths, as does this forecast. Some interior locales likely
+remain entirely dry from this event. Sounding profiles support SLRs
+between 10 and 15 to 1. With this, a coating up to an inch still
+looks reasonable for much of the NYC metro, western Long Island,
+and NE NJ. Far southwestern portions of this area (Union NJ, 
+Staten Island, Brooklyn and southern Queens) look to have the 
+best chance at seeing an inch. Reasonable worst case in these 
+locales up to two inches. Farther north, little to no accumulation
+is expected with perhaps just some passing flurries, or remaining
+dry entirely, especially north and east of I-287 and into southern
+CT. Given temperatures near or sub freezing through the event, snow
+shouldn't have an issue sticking on untreated surfaces where it
+does fall if the intensity is there. Will monitor observational
+trends this morning and may hoist a SPS to cover any possible 
+travel impacts in affected zones if warranted.
+
+Any snow tapers by late afternoon or early evening, then dry 
+with increasing NW winds overnight as the low pulls away and
+deepens. Temperatures fall back into the teens for most, and 
+the lower 20s around the NYC metro.
+
+&&
+
+.SHORT TERM /TUESDAY THROUGH WEDNESDAY NIGHT/...
+Brisk and remaining cold through midweek.
+
+As the low moves farther offshore Tuesday, surface high 
+pressure centered over the Plains begins to build east. This 
+will not only reinforce the cold air mass in place, but maintain
+a tight pressure gradient between the high and sprawling low 
+pressure anchored over far eastern Canada. With it, a blustery NW
+flow can be expected through midweek. Gusts on Tuesday look to 
+fall just shy of advisory criteria, as of now, with peak forecast
+gusts generally in the 40 to 45 mph range. Similar conditions 
+can be expected on Wednesday, with dry conditions absent a stray
+flurry or snow shower inland.
+
+Temperatures, while not record breaking, will run about 10 degrees 
+below normal and keep most at or below the freezing mark through the 
+period. Add the wind component and the region likely see wind 
+chills persistently in the single digits and teens in this period.
+
+&&
+
+.LONG TERM /THURSDAY THROUGH SUNDAY/...
+High pressure continues to slowly build in from the west on 
+Thursday, weakening as it finally shifts through the region Friday 
+into Friday night. Dry through his period with below normal 
+temperatures, although Friday's highs will at least be warming 
+closer to normal levels. Gusty NW flow continues on Thursday with a 
+tight pressure gradient in place. Wind chills early Thursday morning 
+may range 5 above to 5 below zero.
+
+Global models continue to show low pressure emerging off the east 
+coast to our south during Saturday and passing south of the 40N/70W 
+benchmark Saturday night into Sunday morning. The GFS is quickest 
+among the 00z models with the 500mb trough axis becoming negatively 
+tilted and thus farthest north with the storm center. Have nudged 
+PoPs downward a little from the previous forecast, but not as far 
+low as the 01z NBM as there's still plenty of time to see if the 
+progressive/suppressed trend continues. The current forecast has dry 
+weather for Sunday with weak high pressure in place.
+
+
+&&
+
+.AVIATION /09Z MONDAY THROUGH FRIDAY/...
+Low pressure will pass to the south today. 
+
+VFR with lowering cigs this morning. IFR possible in steadier light 
+snow at the NYC metros mostly from 16Z-19Z, otherwise mainly MVFR 
+during this period, improving back to VFR shortly thereafter. 
+
+WNW winds veer to NW with onset of light snow and N late today. 
+Speeds generally 10kt or less through the daytime hours. NNW flow 
+increases with frequent gusts after 01Z.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Snow onset/end may be off by 1-2 hours. Tempo MVFR cigs possible as 
+early as 12z, but low confidence in occurrence. Chance that IFR 
+doesn't occur. A low chance that snow doesn't occur at KTEB and KLGA.
+
+OUTLOOK FOR 06Z TUESDAY THROUGH FRIDAY...
+
+Late tonight: VFR. N winds increasing to 15-20G25-30kt. 
+
+Tuesday through Thursday: VFR. Gusts at or above 35kt at times. 
+
+Friday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Brief reprieve in conditions on all waters today, before winds ramp 
+back up again tonight. SCA conditions return to all waters
+overnight into Tuesday as NW flow increases and gusts exceed 25
+kt. Given the winds, cold air, and water temps, not out of the
+question there could also be some light freezing spray, mainly 
+on the LI Sound and immediate nearshore ocean waters.
+
+A Gale Watch remains in place for all waters Tuesday into Wednesday 
+due a strong pressure gradient and several shots of cold air moving 
+across the relatively warmer waters. Strong low pressure will reside 
+across the Canadian Maritimes during this period with high pressure 
+building in from the west. Gales likely linger into Thursday, 
+especially for the ocean waters, and may continue into Thursday 
+night.
+
+&&
+
+.HYDROLOGY...
+No significant hydrologic issues anticipated through this weekend.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Gale Watch from Tuesday morning through Wednesday afternoon 
+     for ANZ331-332-335-338-340-345-350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JC/DR
+NEAR TERM...DR
+SHORT TERM...DR
+LONG TERM...JC
+AVIATION...JC
+MARINE...JC/DR
+HYDROLOGY...JC/DR

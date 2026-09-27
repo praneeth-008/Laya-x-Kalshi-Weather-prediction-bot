@@ -1,0 +1,168 @@
+844 
+FXUS61 KOKX 201817
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+117 PM EST Thu Feb 20 2025
+
+.SYNOPSIS...
+Low pressure well off the Carolina coast will continue to deepen 
+as it moves east through tonight. Thereafter, sprawling high 
+pressure over the mid section of the country will builds in 
+through the weekend, remaining in control through Monday. Weak low
+pressure will pass to the north Monday night into Tuesday, 
+followed by building high pressure on Wednesday.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+A 999 mb surface low well E of Cape Hatteras will continue to 
+deepen as it pulls off to the and east through tonight. 
+Meanwhile, an upper low will swing across into this evening,
+with a weak inverted surface trough extending back toward the 
+region from the exiting low.
+
+Temperatures this afternoon should remain below freezing,
+ranging from the mid 20s inland, to around 30 at the coast. 
+A high cloud canopy will thicken and lowers into late day.
+
+As the upper low swings through, steepening lapse rates and a 
+moistening column down to the sub cloud layer should instigate
+snow shower development late this afternoon and evening. QPF is 
+light, locally up to 1/10 inch across Long Island, and less than
+that elsewhere especially north/west of NYC. Still, with the 
+cold air mass entrenched, and SLR progged around 15:1, snow 
+could stick and accumulate relatively efficiently if/where it 
+does fall. With such little liquid equivalent to work with 
+though, amounts should be limited, likely at or under an inch. 
+Localized amounts could be in the 1-2 inch range as some hi res 
+guidance is hinting. While not a particularly notable event 
+based on amounts, the expected timing of this activity, in the 
+late afternoon and early evening, could pose some travel impacts
+and slick spots to the PM rush. Still, some locales may not see
+any snow whatsoever, or just a few flurries, largely staying 
+mainly dry and overcast instead, especially into interior 
+southern CT. 
+
+Clouds begin to thin out regardless overnight as the upper low
+shifts offshore and drier air works in. Flow increases as the 
+exiting surface low deepens and tightens the pressure gradient 
+locally, which should preclude decoupling. Low temps range from
+the teens inland, to lower 20s along the coast.
+
+&&
+
+.SHORT TERM /FRIDAY THROUGH FRIDAY NIGHT/...
+A sprawling 1040 mb high across the mid section of the country
+will build in on Friday. Blustery NW flow persists with the 
+pressure gradient between the building high and exited offshore 
+low, and gusts toward 30 mph are expected much of the day, 
+adding a chill to the already below normal temperatures. Some 
+coastal locales may sneak above the freezing mark by a degree or
+two in the afternoon, otherwise, upper 20s to around 30.
+
+Flow relaxes into Friday night as the high builds closer, and 
+mostly clear skies prevail as temperatures fall into the teens 
+overnight.
+
+&&
+
+.LONG TERM /SATURDAY THROUGH WEDNESDAY/...
+The upper flow will be mainly zonal Saturday into Sunday night,
+with a very weak, low amplitude, trough moving through Saturday
+night with surface low pressure passing well to the north, as 
+high pressure remains in control, centered to the south. With 
+little upper support and little moisture no precipitation is 
+expected.
+
+A more amplified trough, accompanied with a vort max, passes 
+mainly to the north Monday night, quickly followed by another 
+trough and vort max for Tuesday. With some uncertainty with the 
+timing and strength of this trough, have only slight chance 
+probabilities Monday night through Tuesday. Zonal flow returns 
+for Wednesday. With mild air in the area, with temperatures 5 to
+10 degrees above normal Monday night through Wednesday, the 
+precipitation will be mainly light rain showers, with light snow
+showers inland.
+
+&&
+
+.AVIATION /18Z THURSDAY THROUGH TUESDAY/...
+An upper level low, and surface trough, will cross the area 
+tonight. High pressure builds in Friday.
+
+VFR with a period of MVFR and possibly IFR in light snow 
+showers this evening. Tempo groups included for the lower 
+conditions in snow especially for city terminals. There is some 
+timing uncertainty with the onset and northeast extent given 
+drier air across CT. Up to a half inch of snow is possible.
+
+NW flow 10-15G20 kt is expected through the remainder of the 
+forecast. More gusts develop later this evening, and may be 
+more occasional until toward 00Z. Winds and gusts increase 
+overnight, with occasional gusts 30-35 kt and continue into
+Friday.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Amendments for timing of snow and lowering conditions this 
+evening. Occasional gusts late this evening into tonight may 
+gust in excess of 30 kt.
+
+
+.OUTLOOK FOR 12Z FRIDAY THROUGH TUESDAY...
+
+Friday: VFR. NW winds G25 kt.
+
+Saturday and Sunday: VFR. 
+
+Monday and Tuesday...Mainly VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Lighter winds and seas maintain sub Small Craft Advisory (SCA) 
+conditions on all waters today. By this evening, increasing flow
+behind passing low pressure well offshore returns SCA conditions
+to all waters as NW gusts 25-30 kt develop tonight and persist 
+thru Friday. Seas on the ocean build toward 5-7 ft during this 
+time as well. Winds should lighten below advisory criteria 
+Friday evening on non ocean waters, and by Friday night on the 
+ocean.
+
+Sub advisory conditions then prevail Saturday through Monday,
+however, Saturday night gusts on the ocean waters may briefly 
+near SCA levels as low pressure passes well to the north and W 
+to SW winds increase. Persistent WSW flow Sunday night into
+Monday night will allow ocean seas to build and by late Monday
+night into Tuesday seas may reach 5-6 ft.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts expected.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory from 6 PM this evening to 6 PM EST Friday 
+     for ANZ331-332-335-338-340-345-350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...BG/DR/MET
+NEAR TERM...BG/DR
+SHORT TERM...DR
+LONG TERM...MET
+AVIATION...IRD
+MARINE...BG/DR/MET
+HYDROLOGY...DR/MET

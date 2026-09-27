@@ -1,0 +1,255 @@
+873 
+FXUS61 KOKX 250249
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1049 PM EDT Thu Jul 24 2025
+
+.SYNOPSIS...
+High pressure exerts control into Friday afternoon, before a 
+cold front moves through the area late Friday into Friday 
+evening. High pressure briefly builds into the area Friday 
+night into Saturday. A weak frontal system moves across the area
+Saturday Night into Sunday. High pressure then builds in for 
+Monday and Tuesday. A cold front moves across the region mid- 
+week.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM FRIDAY MORNING/...
+Upper lever ridge flattens tonight into Friday, as a northern 
+stream shortwave slides from Ontario/Quebec towards northern New
+England. Bermuda high pressure briefly exerts control tonight 
+into Friday with a strengthening return flow.
+
+Dry but increasingly warm and muggy conditions tonight in gusty
+S/SW flow, with lows in the mid to upper 70s for NYC/NJ metro 
+and lower to mid 70s elsewhere.
+
+&&
+
+.SHORT TERM /6 AM FRIDAY MORNING THROUGH SATURDAY NIGHT/...
+Key points...
+
+* Heat alerts remain in effect for Friday. One day of 100 to
+  105F heat indices are expected for most of the area.
+
+* Isolated to scattered severe thunderstorms are possible Friday
+  aft/eve, with damaging wind gusts the primary threat. There is
+  also low and localized flash flood threat. 
+
+Upper lever ridge flattens Thursday Night into Friday, as a northern 
+stream shortwave slides from Ontario/Quebec towards northern New 
+England. 
+
+Peak heat and humidity continues on target for Friday with axis
+of heat (850mb temps of near 20c) sinking SE towards the region
+with likely low-level moisture pooling ahead of approaching 
+cold front (lower 70s to 75F Td) resulting in heat indices in 
+the lower 100s to 105F for much of the area. Extreme heat 
+warning continues for NE NJ with highest confidence in 
+widespread 105F heat indices, with heat advisories for most of 
+the remainder of the area with heat indices in the 100 to 105F 
+range.
+
+In addition to the heat threat, a pre-frontal trough/cold front 
+will be pressing down on a moderately unstable airmass, with 
+marginal deep layer shear presenting potential for isolated to 
+scattered severe thunderstorms in the late aft/eve. Models in a 
+bit better agreement on a more distinct convectively enhanced 
+vort axis (originating from a Mid- Mississippi river shortwave 
+this afternoon) approaching the area tomorrow afternoon and 
+crossing in the evening. Along with potential of a bit better 
+alignment of steering flow/shear with the front in a w to e 
+fashion as the front sags south, this would favor a lean towards
+a scattered to broken line of of thunderstorm activity, and 
+scattered severe threat for much of the area.
+
+Limiting factor for organized convection continues to be weak 
+shortwave forcing/height falls this far south as compared to 
+central and northern New England, marginal deep layer shear, and
+weak mid- level lapse rates. Primary threat will be damaging 
+wind gusts from wet downbursts in primarily a uni-directional 
+WNW flow aloft, high PWAT environment with a bit of mid-level 
+dry air entrainment potential, and steep low-level lapse rates. 
+See hydrology section for low and localized flash flood threat 
+in a 2+ STD PWAT environment ( 2 1/2"-2 1/2" PWATs)
+
+Cold front expected to push SE of the region by midnight Friday
+as northern stream shortwave slides through northern New 
+England, with a relatively cooler and drier airmass filtering 
+in its wake as high pressure builds into the region.
+
+Northern stream shortwave slides east of northern New England 
+Saturday AM, with northern periphery of southern ridging nosing back 
+into the area. At the surface, high pressure briefly build towards 
+the region from the north on Saturday and overhead Saturday Night.
+
+Dry conditions expected on Saturday, with noticeably drier and cooler
+airmass advecting in on gusty N/NE flow on Saturday, although 
+still running slight above seasonable with highs in the mid to 
+upper 80s, and heat indices similar. Near seasonable temps for 
+Saturday Night with increasing humidity levels as return flow 
+develops.
+
+&&
+
+.LONG TERM /SUNDAY THROUGH THURSDAY/...
+Key Points:
+
+* Showers and thunderstorms expected the second half of Sunday with 
+  a frontal system. Some thunderstorms will be capable of gusty 
+  winds and heavy rainfall.
+
+* High heat and humidity return early to mid next week. Latest 
+  forecast has widespread upper 90s Max Heat Index values for 
+  Monday, with upper 90s to low 100s on Tuesday. There is potential 
+  for hot and humid conditions to linger into Wednesday, but this 
+  will depend on timing of a cold front.
+
+* The cold front moves across the area mid-week. This will end the 2-
+  3 days of hot and humid conditions. Showers and thunderstorms 
+  likely accompany the frontal passage.
+
+Stuck close to the NBM, with the biggest changes being to lower 
+dewpoints next week. The NBM has been consistently a bit too high 
+with dewpoints on days where deeper mixing is expected.
+
+Other uncertainty with the forecast lies on exact evolution and 
+timing of a weak frontal system that may impact the area Sunday. Low 
+confidence PoPs given the offshore high trending stronger and 
+potential for an MCS to bleed into the area.
+
+Otherwise, there is also some disagreement on timing of a cold 
+frontal passage mid week. Latest GFS holds off the front until later 
+on Wednesday. This could allow higher heat and humidity to linger 
+into Wednesday, especially for the southern half of the area like 
+northeast NJ, NYC and Long Island.
+
+&&
+
+.AVIATION /03Z FRIDAY THROUGH TUESDAY/...
+Offshore high pressure remains in control through tonight. A
+cold front moves through the area late Friday.
+
+VFR for the most part. MVFR vsby, or briefly lower, is possible
+in showers and thunderstorms Friday afternoon and evening. Kept
+PROB30 for this activity in the TAF. There is also potential for
+some of the storms to be severe, with damaging wind gusts being
+the primary threat.
+
+Southwest winds diminish overnight. They pick up Friday morning
+up to around 10-12 kt. Winds become NW behind the frontal
+passage in the late afternoon/evening. Occasional gusts up to 
+about 20 kt are possible during Friday afternoon.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Keeping TSRA in PROB30 for now given uncertainty in coverage.
+
+Occasional gusts up to 20 kt are possible Friday afternoon.
+
+.OUTLOOK FOR 00Z SATURDAY THROUGH TUESDAY... 
+
+Saturday: VFR.
+
+Saturday night - Sunday: Mainly VFR. MVFR or lower possible in 
+any showers or thunderstorms.
+
+Monday: VFR.
+
+Tuesday: Mainly VFR with possible MVFR or lower in showers and
+thunderstorms.
+
+Detailed information, including hourly TAF wind component 
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Marginal 25 kt gusts are possible in a S flow tonight on the 
+ocean waters, mouth of NY Harbor and southern bays of W LI, and 
+possibly Fri aft/eve ahead of a cold frontal passage. Isolated 
+to scattered severe thunderstorms are possible ahead of a cold 
+front passage Friday afternoon through the evening. 
+
+A brief period of 20 kt gusts are possible in wake of cold 
+frontal passage Saturday night into Sunday morning. 
+
+Given a weak pressure gradient, winds and waves will largely stay 
+below Small Craft Advisory criteria Sunday through the middle of 
+next week. The best chance at getting close to 25 kt gusts right now 
+will be ahead of and behind a cold frontal passage sometime late 
+Tuesday or Wednesday.
+
+&&
+
+.HYDROLOGY...
+Primarily a minor urban and poor drainage flooding threat with 
+scattered thunderstorm activity Friday afternoon that could 
+produce rainfall rates of 2+"/hr with PWATS as high as 2"-2 
+1/2", but will be overall progressive limiting duration over an
+one area. Based on these potential rainfall rates, there is a 
+low and localized flash flood threat with any localized 
+repetitive thunderstorm activity, particularly if the cold front
+orients in a more W to E fashion as indicated by some CAMs. A 
+general 1/4 to 3/4" basin average, with a low and localized 
+probability for 2-3" in only a couple of hours with any 
+training.
+
+Showers and thunderstorms associated with a frontal system 
+could produce locally heavy downpours on Sunday that result in 
+nuisance flooding, but the overall flood threat appears low at 
+this time.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+A moderate rip current risk is likely on Friday with southerly 
+wind waves building to 3 to 4 ft.
+
+&&
+
+.CLIMATE...
+Daily record high temperatures maybe be tied or broken Friday 
+July 25th. Here are the current records for the day...
+
+EWR 99/2016 
+BDR 93/2001 
+NYC 97/1999 
+LGA 97/1999 
+JFK 93/2010 
+ISP 94/1987
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Air Quality Alert until 11 PM EDT this evening for CTZ005>007.
+     Heat Advisory from 11 AM to 8 PM EDT Friday for CTZ005>011.
+     Air Quality Alert from 11 AM to 11 PM EDT Friday for 
+     CTZ009>012.
+NY...Heat Advisory from 11 AM to 8 PM EDT Friday for NYZ067>075-
+     078>080-176>179.
+     Air Quality Alert from 11 AM to 11 PM EDT Friday for 
+     NYZ069>075-078>081-176>179.
+NJ...Heat Advisory from 11 AM to 8 PM EDT Friday for NJZ002.
+     Air Quality Alert from 11 AM to 11 PM EDT Friday for NJZ004-
+     006-103>108.
+     Extreme Heat Warning from 11 AM to 8 PM EDT Friday for NJZ004-
+     006-103>108.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JT/NV
+NEAR TERM...NV
+SHORT TERM...NV
+LONG TERM...JT
+AVIATION...BC/JT
+MARINE...JT/NV
+HYDROLOGY...JT/NV
+TIDES/COASTAL FLOODING...
+CLIMATE...

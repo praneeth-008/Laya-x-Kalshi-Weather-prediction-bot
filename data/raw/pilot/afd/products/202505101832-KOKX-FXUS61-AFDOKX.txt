@@ -1,0 +1,166 @@
+727 
+FXUS61 KOKX 101832
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+232 PM EDT Sat May 10 2025
+
+.SYNOPSIS...
+High pressure builds in today and remains in control through 
+Sunday. Then a weak cold front passes on Sunday with high 
+pressure gradually moving offshore Sunday night through Monday 
+night, still remaining in control through much of Tuesday. 
+Unsettled weather returns the rest of next week as a slow, broad
+low pressure system approaches from the south.
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+Main adjustments made with this update were for winds and 
+temperatures as NBM is typically too low with both elements in a 
+setup like this. Surface low pressure to our NE deepens, increasing 
+the pressure gradient over here for a period today. At the same 
+time, cyclonic flow aloft becomes more zonal as an upper low to our 
+east continues to shift farther away. Clouds will continue to be 
+more prevalent over CT - closer to the cyclonic flow, however 
+some cu development over western zones anticipated with the 
+help of some wet grounds from recent rainfall. This complicates 
+the high temp forecast, but given a strong enough downslope flow
+and compressional heating along with progged 850mb temps around
+6C, high temps probably end up a little higher than 
+deterministic NBM across much of the area away from CT. W to NW 
+gusts 25-35 mph through early afternoon diminish closer to 20-25
+mph by late.
+
+&&
+
+.SHORT TERM /6 PM THIS EVENING THROUGH MONDAY NIGHT/...
+Heights will continually rise tonight through Monday as a ridge 
+gradually approaches from the west. At the same time, a mid-level 
+low will be situated over the Gulf States, leaving us on the east 
+side of a Rex block pattern. This should leave us in a dry and sunny 
+pattern through Monday. High pressure remains at the surface through 
+this timeframe, as well, with winds remaining light under a weak 
+pressure gradient. 
+
+An upper-level trough passes far to our north/northeast in Canada on 
+Sunday, which may help bring a weak cold front to the area, but this 
+won't do much for us given dry air in place. 
+
+Monday night, the rex block looks to break down with the low to our 
+southwest finally breaking through the ridge to its north and 
+approaching our area Monday night. This may lead to increasing cloud 
+cover towards daybreak Tuesday. Otherwise, we should remain dry 
+through Monday night. 
+
+High temperatures remain primarily at or above average through the 
+period with highs in the upper-60s to mid-70s. Lows will depart a 
+little more from average through. Saturday night will see lows in 
+the mid-50s to mid-40s, which is about average. But due to the weak 
+cold front, lows may drop into the low-40s in the interior on Sunday 
+night. Then as a low approaches to our southwest, lows Monday night 
+will only drop to the mid-50s to low-60s.
+
+&&
+
+.LONG TERM /TUESDAY THROUGH FRIDAY/...
+High pressure is positioned to the east of the area on Tuesday as a 
+large upper level cut-off low over the Southern US begins to 
+approach the area from the south. Mid-level ridging should remain in 
+place during much of the day on Tuesday which should allow for the 
+area to remain mainly dry, though some showers may begin to approach 
+the area from the southwest as the impacts of the cutoff low begin 
+to be felt.
+
+By Wednesday and through much of the remainder of the week, a weak 
+broad surface low pressure under the mid-level low will impact the 
+area with scattered showers under a general S/SE flow. The low will 
+slowly meander over the East Coast before eventually pushing 
+offshore sometime late in the week and into the weekend. There 
+doesn't look to be much instability so thunderstorms remain unlikely 
+at this time. While the second half of the week is not expected to 
+be a washout, overcast skies will persist with scattered showers 
+possible through the weekend. A more organized frontal system may 
+approach from the west into the weekend which may bring another 
+round of showers.
+
+Temperatures should remain fairly seasonable with highs each day in 
+the upper 60s to middle 70s and lows each night in the middle 50s to 
+lower 60s.
+
+&&
+
+.AVIATION /18Z SATURDAY THROUGH THURSDAY/...
+VFR as high pressure gradually builds from the NW. NW flow still
+gusting over 25 kt should diminish after 22Z, with speeds 10 kt
+or less after dark. Speeds then pick up again by 14Z to around 
+or just over 10 kt, with gusts up to 20 kt E of the NYC metros, 
+and an occasional gust 15-18 kt from the metros north/west. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No unscheduled AMD expected. 
+
+.OUTLOOK FOR 18Z SUNDAY THROUGH WEDNESDAY...
+
+Sunday afternoon: VFR. NW winds G15-20kt mainly E of the NYC
+metros. 
+
+Sunday night through Monday night: VFR.
+
+Tuesday: MVFR cigs possible especially from the NYC metros 
+west. 
+
+Tuesday night: Low stratus/fog with IFR cond possible especially
+near the coast at KJFK/KISP/KHPN/KBDR/KGON, otherwise MVFR cond
+expected. Chance of showers.
+
+Wednesday and Thursday: MVFR cond expected, IFR or lower cond
+possible at times especially late night and early morning. 
+Chance of showers. 
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+A SCA is up on ocean waters through late this afternoon for 5 ft
+waves and gusty NW winds. A SCA is up through late this
+afternoon on non-ocean waters for gusty NW winds. Winds and seas
+diminish into tonight. Sub-SCA conditions are then expected
+through Monday night. 
+
+Sub-SCA conditions are expected on all waters through Tuesday night. 
+Marginal SCA conditions become possible under an increasing S/SE 
+flow as the pressure gradient tightens with the approach of a weak 
+frontal system from the southwest. Gusts may approach 25kt on the 
+ocean with wave heights near 5 feet possible.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through through the end of 
+next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 6 PM EDT this evening for ANZ331-
+     332-335-338-340-345-350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...BR/MW
+NEAR TERM...JC/BR
+SHORT TERM...BR
+LONG TERM...MW
+AVIATION...BG/MW
+MARINE...BR/MW
+HYDROLOGY...BR/MW

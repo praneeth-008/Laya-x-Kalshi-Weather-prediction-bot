@@ -1,0 +1,176 @@
+755 
+FXUS61 KOKX 141145
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+745 AM EDT Mon Apr 14 2025
+
+.SYNOPSIS...
+High pressure nosing in from the south weakens through the day. A 
+cold front moves through tonight into Tuesday morning, with a 
+secondary front passing through Tuesday night. High pressure starts 
+to gradually build in starting Wednesday. High pressure passes to 
+the south Thursday and pushes offshore Thursday night. Another 
+frontal system approaches the region Friday and affects from Friday 
+night through Saturday night. High pressure returns for Sunday.
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+Broken line of showers approaching from the west will continue
+to dissipate as it nears. Not expecting any measurable rain,
+but a sprinkle can not be ruled out for far western locations.
+
+Ridging at the surface and aloft builds in today. While we will
+have some mid and high level clouds around, it looks to be a 
+nice spring day with temperatures back up in the mid to upper 
+60s (a few degrees warmer than what is normal for mid April) and
+light winds.
+
+Given previous cool bias from the NBM on similar spring regimes,
+went closer to the NBM 90th percentile. Additionally, how 
+thick/expansive any cloud cover ends up being will likely affect 
+the highs a few degrees in either direction.
+
+&&
+
+.SHORT TERM /6 PM THIS EVENING THROUGH WEDNESDAY NIGHT/...
+Heights start lowering tonight as an upper level low approaches. An 
+associated parent surface low will be tracking through southern 
+Canada, with a cold front draped down into the eastern US. As this 
+front approaches it looks to become occluded to our north with the 
+potential for the triple point to pass through the area. This is 
+evident in gradients in model moisture fields. This frontal system 
+will spark severe weather in the Ohio Valley today, but by the time 
+this activity gets to our area it will likely be just rain showers. 
+This is due to the time of day and lack of any significant 
+instability. There is however very little elevated CAPE, so a rumble 
+of thunder can not be completely ruled out.
+
+Heights continue lowering as the mid and upper level trough axis 
+gets closer on Tuesday. With cooling aloft, instability increases 
+through the day. This set up usually leads to isolated to scattered 
+shower activity and the CAMs are agreeing with that. Looking at
+model soundings, steep lapse rates and plenty of dry air below 
+the cloud layer can be seen. This suggests that any stronger 
+showers could bring down gusty winds and potentially produce graupel.
+A rumble of thunder can also not be ruled out, but with low 
+confidence have continued to leave it out of the forecast for 
+now. Outside of gusty winds from showers, synoptically the
+sustained winds and gusts increase through the day on Tuesday. 
+Expecting gusts up to 30 go 35 mph.
+
+High pressure starts to gradually build in on Wednesday. With the 
+colder airmass over the region, highs look to only reach the low 
+50s. Gusty winds are expected through the afternoon before they 
+start to decrease.
+
+&&
+
+.LONG TERM /THURSDAY THROUGH SUNDAY/...
+Dry conditions continue for Thursday as an upper level east of the 
+area continues to slowly moves east while a building ridge over the 
+Great Lakes region and southern Canada moves toward the area. At the 
+surface, high pressure to the west of the region slides southwest 
+and pushes off the Mid-Atlantic Coast Thursday night which allows a 
+warm front to lift north Friday night. This will be be the next 
+chance for precipitation. However, only light amounts of rain for 
+Friday night are expected at this time. The associated cold front is 
+expected to move through on Saturday night and high pressure builds 
+in behind it for Sunday.
+
+With a building ridge moving into the region Thursday and a warm 
+front lifting north Friday night, a warming trend through the period 
+is expected. Temperatures in the 50s and 60s on Thursday will rise 
+into the 60s and 70s by Saturday for most areas. Cooler conditions 
+are expected along coastal areas. Cold air advection after the 
+passage of the cold front will bring temperatures back down to more 
+seasonable levels for Sunday.
+
+&&
+
+.AVIATION /12Z MONDAY THROUGH FRIDAY/...
+Weak high pressure builds from the west. A cold front moves 
+through tonight.
+ 
+VFR conditions expected through the day today. MVFR to IFR
+conditions expected tonight (after 06Z) associated with the cold
+front. Rain will start around around 03Z for metero terminals. 
+
+W winds less than 10 kt should gradually shift to the SW by
+later this morning, and increase to around 10 kt (10 to 15 kt
+for KJFK). Winds shift more to the S later this afternoon as
+sea breezes affect most terminals. KEWR and KTEB may shift more
+to the SE late this afternoon and early this evening. 
+
+
+
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+No unscheduled amendments expected. Late day, after 20Z, sea breeze 
+possible. KTEB and KEWR may shift more to the SE late this 
+afternoon and evening
+
+.OUTLOOK FOR 12Z TUESDAY THROUGH FRIDAY...
+
+Tuesday: VFR. W winds G20-25kt in the afternoon.
+
+Wednesday: VFR. WNW winds G25-30kt. 
+
+Thursday: VFR. NW winds G15-20kt.
+
+Friday: VFR. Chance of showers at night. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Sub-SCA conditions are expected through Tuesday morning. Winds ramp 
+up Tuesday afternoon and a Small Craft Advisory has been issued for 
+all waters starting at 2PM Tuesday and going through 10AM Wednesday 
+(and will likely need to be extended through Wednesday). Wind gusts 
+are expected to reach 25 to 30 kt on all waters. There may be a 
+brief lull for a few hours around 11PM Tuesday night before winds 
+ramp back up. Additionally, isolated 35 to 40 kt gusts can not 
+be ruled out Tuesday afternoon, specifically under any 
+convective showers that could mix down higher gusts.
+
+As previously mentioned, the SCA will likely need to be extended 
+through Wednesday. Gusts finally lower Wednesday night, with the 
+potential for some 5 ft seas lingering in the eastern ocean zone 
+through the night.
+
+Waves are expected to remain below SCA criteria through Friday night 
+with high pressure in control. Winds will remain below 25 kt through 
+Friday, but may approach 25 kt by late Friday night on the ocean 
+waters as a frontal system approaches from the west.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through the weekend.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory from 2 PM Tuesday to 6 AM EDT Wednesday 
+     for ANZ331-332-335-338-340-345-350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JP/JT
+NEAR TERM...JT
+SHORT TERM...JT
+LONG TERM...JP
+AVIATION...JP
+MARINE...JP/JT
+HYDROLOGY...JP/JT

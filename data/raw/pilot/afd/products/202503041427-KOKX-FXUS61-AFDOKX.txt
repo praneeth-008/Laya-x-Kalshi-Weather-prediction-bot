@@ -1,0 +1,255 @@
+972 
+FXUS61 KOKX 041427
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+927 AM EST Tue Mar 4 2025
+
+.SYNOPSIS...
+High pressure off the Mid Atlantic coast will slowly move
+farther offshore through tonight. As strong low pressure moves
+northeast through the upper Great Lakes region on Wednesday, a
+pre-frontal trough will approach and move across in the
+afternoon and evening, followed by a cold front late Wednesday
+night into Thursday morning. The front will move farther to the
+east Thursday night, with high pressure gradually building in
+and passing to the south through Friday. A weak frontal system 
+then passes through on Saturday. Another low pressure system
+should pass well to the south on Sunday as weak high pressure 
+moves in through early next week.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+A cloud deck associated with mid level WAA has overspread the
+region this morning, and updated cloud cover to reflect this. 
+Despite the clouds, today should be noticeably milder via SW-S 
+return flow around the offshore high, with highs in the lower 
+50s from NYC north/west, and mid/upper 40s across Long Island 
+and S CT where there sill be more marine influence. 
+
+A few showers well in advance of the approaching frontal system
+could approach areas well NW of NYC late tonight. Low temps 
+will range from the lower 40s across NYC metro and Long Island, 
+to the mid/upper 30s elsewhere. Those lows may occur around 
+midnight, with temps holding steady or slowly rising overnight 
+with continued WAA.
+
+&&
+
+.SHORT TERM /WEDNESDAY THROUGH THURSDAY NIGHT/...
+As the strong low tracks to our northwest, a pre-frontal trough
+will approach and then pass through from Wed into Wed evening. 
+Light overrunning rainfall expected in the morning and early 
+afternoon from NYC north/west, then deep strong lift combines 
+with anomalous moisture to bring a period of moderate to locally
+heavy rain as the pre-frontal trough moves across. Strong 
+southerly flow will bring in a plume of moisture characterized 
+by PW around 1.25 inches and sfc dewpoints in the upper 
+40s/lower 50s. Rainfall rates over 1/2 inch an hour could lead 
+to some nuisance urban and poor drainage flooding. Some rumbles 
+of thunder may be possible in the evening from the NYC metro 
+area west, then again late at night across ern Long Island/CT as
+additional rain bands move up from the south with a weak wave 
+of low pressure developing along the pre-frontal trough.
+
+Strong winds are also possible with this system. LLJ peaks over
+the area Wed night with 60-70 knot speed max between 900-950 
+mb. A strong sfc-based inversion will be in place, and the 
+question will be how much of this can mix down. Taking 50-60% 
+of the 925 LLJ leaves us just short of wind advisory criteria 
+over NYC, Long Island, and coastal CT, with peak gusts over 40
+mph. 
+
+After the pre-frontal trough moves east, still expect chance of
+showers into Thu with the passing cold front and lagging upper 
+trough/low level cyclonic flow, especially across Long Island 
+and S CT. Winds shift W after cold fropa but the pressure 
+gradient looks to remain weak until late day or early evening 
+as winds veer NW and increase to 15-25 mph with gusts 25-35 mph.
+
+Temps on thu remain mild, with highs in the 50s, then falling 
+back to the upper 30s to mid 30s Thu night.
+
+&&
+
+.LONG TERM /FRIDAY THROUGH MONDAY/...
+Key Points:
+
+* Windy conditions are expected to continue on Friday,
+  especially in the morning and early afternoon.
+
+* A weak frontal system passes across the area on Saturday, but 
+  mainly dry conditions are expected.
+
+* Another low pressure system is expected to pass well to the 
+  south on Sunday, but dry conditions should prevail into early 
+  next week.
+  
+Deep low pressure will spin across the Canadian Maritimes on
+Friday as high pressure builds towards the region. The 
+pressure gradient is quite steep, especially Friday morning 
+supporting continued potential for gusts 30-35 mph. The gradient
+begins to relax in the afternoon and especially Friday night 
+allowing winds and gusts to weaken considerably compared to the 
+morning. High temperatures will be slightly above normal in the 
+middle to upper 40s for most spots with around 50 in the NYC/NJ 
+metro.
+
+A flat shortwave and associated weak low/frontal system rapidly 
+approach Friday night and pass across the region the first half 
+of Saturday. There is very little forcing and limited moisture 
+to support precip development. Have maintained a slight chance 
+Saturday morning for now, but it is possible that nothing more 
+than a few sprinkles occur with clearing conditions in the 
+afternoon. High temperatures look similar to Friday. 
+
+Most of the models have been in good agreement on a southern
+stream low pressure passing well to our south on Sunday. The 
+latest ECMWF, UKMET, CMC, and ICON as well as much of their 
+ensembles continue to agree with this scenario. Earlier runs of 
+the GFS (12z and 18z March 3rd) shifted much further north due 
+to phasing with the northern stream. This scenario would bring 
+potential impacts to the region. However. the latest 00z GFS has
+shifted back to the south, keeping the streams separated 
+allowing the low to pass off the Carolina coast. Have continued 
+follow a consensus excluding the GFS which yields PoPs below 15 
+percent. The passage of the northern stream trough at some point
+Sunday could increase clouds, but conditions should remain dry.
+The air mass on Sunday looks much cooler with highs below 
+normal in the upper 30s to lower 40s. The upper trough axis 
+shifts offshore early next week with high pressure building to 
+our south. Temperatures on Monday likely moderate, but still 
+remain below normal in the lower to middle 40s.
+
+&&
+
+.AVIATION /14Z TUESDAY THROUGH SATURDAY/...
+High pressure pushes offshore as a storm system slowly approaches 
+through Wednesday morning.
+
+VFR through about 09Z Wednesday, with MVFR developing toward 12Z. 
+MVFR is then likely with the chance of IFR, especially at some of 
+the northwest terminals late Wednesday morning. Also, light rain 
+cannot be ruled out, especially northwest of the NYC metro late 
+Wednesday morning. 
+
+S winds increase late this morning, becoming 10-15 kt with some 
+gusts to around 20 kt this afternoon. A few higher gusts are 
+possible across the eastern terminals. Gusts will drop off 22Z-00Z. 
+S winds should briefly weaken tonight before increasing and becoming 
+gusty Wednesday morning. 
+
+LLWS is likely at all terminals late tonight through Wednesday 
+morning. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Onset and end timing of gusts this afternoon/evening may vary by 1-2 
+hours.
+
+Amendments likely with regard to the timing of lowering flight 
+categories Wednesday morning.  
+
+.OUTLOOK FOR 12Z WEDNESDAY THROUGH SATURDAY...
+
+Wednesday: MVFR becoming IFR and lower with periods of rain, 
+especially in the afternoon and evening. Isolated thunderstorms 
+possible. LLWS. S winds increasing to 15-25 kt with some gusts 
+around 40 kt, especially south coastal terminals.
+
+Thursday: Mainly VFR. Gusty WNW winds developing in the afternoon, 
+increasing to 15-20 kt G25-35 kt
+
+Friday: VFR. W winds G25-30kt.
+
+Saturday: VFR with W winds G15-20kt possible.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Minor updates to the winds and gusts this morning to reflect
+current conditions and trends.
+
+SCA remains in effect for the ocean waters for this afternoon 
+and tonight. A developing long fetch S flow should increase to 
+20 kt with some gusts up to 25 kt by afternoon, also building 
+ocean seas to 5 ft. Gusts may abate Tue night as a low level 
+inversion develops, but sustained flow near 20 kt should 
+maintain hazardous ocean seas of 5-6 ft. 
+
+Have upgraded the Gale Watch to a Gale Warning on the ocean
+waters as S winds should increase to 25-30 kt and some gusts
+over 35 kt. Gale Watch remains in effect for the non ocean
+waters as there is still some uncertainty as to whether these
+stronger winds will make it there as well. Meanwhile ocean seas
+should build to 7-10 ft by evening and peak at 8-12 ft by
+midnight. 
+
+Winds should subside for most of daytime Thu, then increase in
+the evening with a steepening pressure gradient. Gales are
+possible on the ocean waters Thu night into Fri morning, with 
+SCA conditions on the remaining waters. 
+
+Winds begin subsiding Fri afternoon and should be below SCA
+levels Fri night. Seas will also be subsiding through Fri night,
+but could remain around 5 ft E of Fire Island Inlet through
+early Sat. Conditions should then remain below SCA levels on
+Sat.
+
+&&
+
+.HYDROLOGY...
+A frontal system impacting the region Wednesday and Wednesday night 
+should produce QPF of 3/4 to 1 1/4 inch, with the higher totals
+expected inland. Rainfall rates could approach 1/2 inch per hour
+in spots at the time of heaviest rainfall, which could lead to 
+nuisance urban and poor drainage flooding.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+Astronomical tides will remain low through the end of the week. 
+Intensifying southerly flow ahead of a strong storm system will 
+increase tide levels during the Wednesday night/early Thursday 
+morning high tide. Surge of 1.5 to 3 ft is needed to reach 
+minor flooding benchmarks. The strongest winds may actually 
+occur before high tide, limiting the surge somewhat during high 
+tide. Most locations should remain at or below action stage. 
+However, some of the most vulnerable locations across the south 
+shore back bays and western Sound could touch minor flooding 
+benchmarks. 
+
+Large breaking waves 8-12 ft are forecast Wednesday into
+Wednesday night along the oceanfront, with beach flooding 
+possible.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Gale Watch from Wednesday afternoon through late Wednesday 
+     night for ANZ331-332-335-338-340-345.
+     Small Craft Advisory from 1 PM this afternoon to 6 AM EST 
+     Wednesday for ANZ350-353-355.
+     Gale Warning from 6 AM Wednesday to 4 AM EST Thursday for 
+     ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...BG/DS
+NEAR TERM...BG/MET
+SHORT TERM...BG
+LONG TERM...BG/DS
+AVIATION...JE/DS
+MARINE...BG/DS/MET
+HYDROLOGY...BG/DS
+TIDES/COASTAL FLOODING...

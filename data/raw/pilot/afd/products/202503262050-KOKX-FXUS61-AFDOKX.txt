@@ -1,0 +1,201 @@
+349 
+FXUS61 KOKX 262050
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+450 PM EDT Wed Mar 26 2025
+
+.SYNOPSIS...
+High pressure will build in from the west through Thursday, then
+pass offshore Thursday night as a weak frontal system passes to
+the north. Weak high pressure will then briefly build across on
+Friday before a warm front approaches Friday night. The front 
+will lift north on Saturday, drop back south as a cold front 
+Saturday night into Sunday, and lift back north on Monday. 
+A cold front will pass through from the west Monday night. 
+High pressure will build from the northwest on Tuesday. A
+frontal system from the west may begin to impact the area next 
+Wednesday.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM THURSDAY MORNING/...
+Amplified upper trough extending from the Great Lakes into the
+Mid Atlantic translates east through tonight.
+
+H5 trough axis overhead to start. Associated cold pool aloft has
+allowed mixing above 750 mb, and with steep low level lapse 
+rates, scattered showers have developed and will continue to 
+move across the region thru late day or so. Wet bulb temps in 
+the 30s have even brought some wet snow and graupel down to the 
+ground north and west of NYC. Regardless, QPF is light where it 
+does precipitate, under a tenth of an inch, and conditions begin
+to dry this evening as the axis shifts east.
+
+Deep mixing and a dry sub cloud layer have allowed occasional
+gusts to top 20 mph, and expect this to continue into the 
+night as winds veer NW and skies clear. Temperatures tonight 
+fall back into the low to mid 30s along the coast, and mid to 
+upper 20s inland. With these values, it could be one of the 
+coldest nights for the next week, if not longer.
+
+&&
+
+.SHORT TERM /6 AM THURSDAY MORNING THROUGH THURSDAY NIGHT/...
+Trough axis shifts offshore Thursday, with surface high pressure
+building into the Mid Atlantic from the west. Rising heights 
+and surface ridging will help maintain not just dry conditions 
+thru the day, but abundant sunshine much of this time as well.
+
+Deepening low pressure in the Canadian Maritimes and the
+building high to the west will tighten the pressure gradient 
+locally, leading to an increase in wind speeds. While not 
+particularly strong, west winds will gust 20 to 25 mph thru late
+day. Coupled with the dry air mass in place, RH values between 
+20 and 30 percent in the afternoon, there will be an increased 
+risk for fire spread. See Fire Weather section below for 
+additional detail.
+
+As the upper trough continues to translate further out to sea,
+shortwave dives south into New England and sends a weak 
+frontal boundary passes thru Thursday evening and night. Added 
+mention for a possible shower or sprinkle with this boundary, 
+but any activity should be light and limited.
+
+&&
+
+.LONG TERM /FRIDAY THROUGH WEDNESDAY/...
+Cold front should be past the area around or shortly after
+daybreak Fri, with high pressure briefly building in its wake on
+a W flow gusting to 20 mph in the morning and early afternoon. 
+SW-S return flow will quickly develop late Fri afternoon into 
+Fri night ahead of the approaching warm front, accompanied by 
+low clouds, perhaps a stray shower inland, also possibly some
+patchy fog near the coast as dewpoints increase to near 50 in 
+spots while SST offshore remains in the mid 40s. Expect the 
+front to lift well to the north on Sat, with a warm day 
+throughout per GFS/ECMWF MOS and NBM 75th percentile temps which
+have worked out fairly well in other recent mild spells. Temps 
+should rise well into the 70s especially from NYC north/west, 80
+possible in urban NE NJ. Farther east the marine influence 
+should limit max temps to the lower 70s across ern Long Island 
+and much of southern CT, and the 60s along south facing 
+shorelines out east.
+
+Saturday's warmth will be short-lived as NW flow aloft and mid
+level confluence over ern Canada bring high pressure SE into 
+northern New England and force the front back south Sat night. 
+NBM temps from the mid 50s east to mid 60s west may be a few 
+degrees too warm for Sunday with the front to the south and a 
+cool E-SE flow on the south flank of the high passing to the 
+north. 
+
+As that high passes east, the front should lift closer to the
+area Sunday night and lift through Monday AM. A mostly cloudy
+day is fcst which should limit max temps to the upper 50s/lower
+60s east in onshore flow and mid 60s to lower 70s west, but any
+afternoon peeks of sun could easily lead to temps several deg 
+warmer than that. 
+
+Cold front passing through Mon night will be followed by below
+normal temps for Tue-Wed next week. An approaching frontal 
+system on Wed could bring a cold rain, even some wet snow mixing
+in across the interior. Forecast confidence on timing and precip
+type with this event is low. 
+
+&&
+
+.AVIATION /20Z WEDNESDAY THROUGH MONDAY/...
+A surface trough passes through over the next few hours.
+
+VFR. Scattered -SHRA mainly east of the city this afternoon, but
+likely not causing any MVFR conditions outside of KISP for a 
+brief time. Winds vary mostly WNW-WSW through the afternoon 
+before becoming more NW this evening. Gusts 20-25 kt during the
+afternoon, ending by 00Z. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Gusts may be more occasional than frequent this afternoon.
+
+.OUTLOOK FOR 18Z THURSDAY THROUGH MONDAY...
+
+Thursday afternoon: VFR.
+
+Friday: VFR.
+
+Saturday: VFR during the day, MVFR possible at night. SW winds
+G20-25kt. 
+
+Sunday: MVFR or lower possible in light rain. E-SE wind
+G15-20kt. 
+
+Monday: MVFR/VFR with showers possible. S-SW winds G20kt,
+becoming NW at night. 
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Potential for marginal Small Craft Advisory (SCA) conditions on the 
+waters with west winds gusting 20-25 kt overnight and Thursday.
+Have opted to hold off on any issuance at this point, and 
+included the mention of occasional 25 kt gusts for now. 
+Otherwise, sub SCA conditions on coastal waters through Thursday
+night.
+
+Marginal SCA cond are possible on the ocean E of Moriches Inlet
+Fri AM after a cold frontal passage, with W flow gusting to 25 
+kt and seas reaching 5 ft. 
+
+Persistent S flow 15-20 kt after a warm frontal passage should 
+help build ocean seas above 5 ft on the ocean from Sat into Sat 
+night, lasting into Sunday AM E of Moriches Inlet. After a lull 
+daytime Sunday as the front drops to the south, these conditions
+may return from Sunday night into Mon night once the front
+returns north. Gusts up to 25 kt are also possible on all waters
+Mon night in NW flow after a cold frontal passage. 
+
+&&
+
+.FIRE WEATHER...
+Westerly wind gusts 20-25 mph, low fuel moisture, and RH 20-30%
+Thu afternoon will promote an elevated risk of fire spread 
+should ignition occur. After collaboration with neighboring 
+offices and state land managers, hoisted an SPS to highlight
+this risk for NY and NJ zones.
+
+Low RH 20-30 percent again possible on Fri, with W winds gusting
+15-20 mph, mainly in the AM and early afternoon. 
+
+Sat may feature low RH of 30-35% and W-SW winds gusting to 
+20-25 mph especially from NYC north/west. 
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts expected through the middle of next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...BG/DR
+NEAR TERM...DR
+SHORT TERM...DR
+LONG TERM...BG
+AVIATION...JC
+MARINE...BG/DR
+FIRE WEATHER...DR/BG
+HYDROLOGY...BG/DR

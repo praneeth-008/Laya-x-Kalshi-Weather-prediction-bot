@@ -1,0 +1,167 @@
+710 
+FXUS61 KOKX 191733
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1233 PM EST Wed Feb 19 2025
+
+.SYNOPSIS...
+Deepening low pressure across the southeast this afternoon and
+evening tracks off the coast well south and east of the area 
+tonight through Thursday night. Thereafter, a large dome of 
+high pressure over the mid section of the country builds in 
+through the weekend. A series of clipper lows will then approach
+from the Great Lakes early next week.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Forecast on track through this evening. 
+
+The pressure gradient continues to weaken this afternoon
+allowing the winds to slowly weaken for the rest of the daytime
+hours. A piece of the strong 1050 mb high centered over the 
+Central US will build in from the Mid Atlantic into this
+evening. Temperatures will remain sub freezing this afternoon. 
+Forecast highs are in the upper 20s to around 30. While winds 
+weaken, wind chills will still make it feel like it is in the 
+teens to around 20 this afternoon. High clouds will overspread
+the area making for partly to mostly cloudy conditions at times
+into the evening.
+
+Low pressure develops across the southeast pushes off the coast
+tonight well south and east of the area. Expecting conditions 
+to remain dry overnight with the thickest clouds closer to the
+coast. 
+
+&&
+
+.SHORT TERM /THURSDAY THROUGH THURSDAY NIGHT/...
+Guidance continues to point towards deepening low pressure tracking 
+well south and east of the region Thursday, with little to no 
+snowfall locally the most likely scenario. The only exception may
+be across far eastern Long Island, mainly the South Fork, where
+a light snowfall remains an unlikely, but possible, solution.
+
+Perhaps more likely than from the surface low, potential exists
+for snow showers to develop as the vigorous parent upper low 
+passes over the region into Thursday evening. Moisture 
+convergence along a weak inverted trough extending back from the
+surface low may also aid this possibility with additional lift.
+Hi res CAMs hint at isolated to scattered snow showers moving 
+thru late day and during the evening hours. Any activity that 
+does develop is expected to be light, and accumulation, if any, 
+is likely limited to a coating at best in areas that do see 
+precip. Otherwise, overcast Thursday night into Friday morning 
+with temperatures in the teens and 20s.
+
+&&
+
+.LONG TERM /FRIDAY THROUGH TUESDAY/...
+* A gradual warmup into early next week. 
+
+A departing storm system over the north Atlantic will be followed by 
+a confluent, progressive upper flow across the eastern half of the 
+country. This will allow strong high pressure (1040mb+) centered 
+over the mid section of the country on Friday to build east and 
+gradually weaken through the weekend. A gusty NW flow can be 
+expected on Friday between the departing low and building high, with 
+gusts of 20 to 30 mph. The high passes to the south Sunday into 
+Monday. A series of mid level shortwaves then drop out of the 
+Canadian Rockies, sending clipper lows out of the Great Lakes and 
+into the Northeast early next week. There is a low chance of rain 
+and/or snow during this time. There are some small timing 
+differences early next week and for the most part stayed close to 
+the National Blend of Models. 
+
+Temperatures during this time period will start out 5-10 degrees 
+below normal, but gradually warm up through the weekend and into 
+early next week. By next Tuesday, expecting readings about 5-8 
+degrees above normal, with highs in the mid 40s to around 50, and 
+lows in the 30s.
+
+&&
+
+.AVIATION /17Z WEDNESDAY THROUGH SUNDAY/...
+Low pressure passes well south and east of the area Thursday. 
+An upper level low will cross the area Thursday evening and may
+bring scattered snow showers to the terminals.
+
+VFR through most of the TAF period as a mid level deck 
+overspreads the region and lowers. Prob30 for light snow showers
+after 22z Thu. MVFR possible.
+
+WNW winds mostly left of 310 magnetic at 10-15 kt with gusts to
+around 20 kt will begin to diminish this evening. Winds then 
+become NW-N tonight at less than 10 kt and around 10 kt on
+Thursday.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No unscheduled amendments are expected. 
+
+.OUTLOOK FOR 18Z THURSDAY THROUGH MONDAY...
+
+18Z Thursday: Chance MVFR or lower in light snow mainly for the
+terminals E of the NYC metros During the evening hours, 
+otherwise VFR. NW winds G20-25kt at night. 
+
+Friday: VFR. NW winds G20-25 kt.
+
+Saturday and Sunday: VFR. 
+
+Monday...Mainly VFR...slight chance of MVFR in showers.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Winds continue to subside this afternoon. Thereafter, sub SCA 
+conditions persist tonight through Thursday with lighter flow 
+and seas. Light freezing spray remains possible everywhere 
+through this morning as well.
+
+Small Craft Advisory conditions likely return Thursday night into 
+Friday in the wake of deepening offshore low pressure as it tracks 
+northeast into the North Atlantic. SCA conditions continue 
+through Friday for all waters, then will be limited to mainly 
+the ocean through Friday night. Sub advisory conditions then 
+prevail through the upcoming weekend with a weaker pressure 
+gradient as a high pressure ridge is followed by a weak trough.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts are expected through the week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+Low water conditions gradually improve with lightening winds, 
+but water levels during low tides today may still run 1 to 1.5 
+ft below MLLW along parts of the Western LI Sound and the 
+Peconic and Gardiners Bays.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...DR/DW
+NEAR TERM...DR/DS
+SHORT TERM...DR
+LONG TERM...DW
+AVIATION...IRD
+MARINE...DR/DW
+HYDROLOGY...DR/DW
+TIDES/COASTAL FLOODING...

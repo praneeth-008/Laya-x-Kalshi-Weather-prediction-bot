@@ -1,0 +1,201 @@
+993 
+FXUS61 KOKX 091450
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1050 AM EDT Wed Jul 9 2025
+
+.SYNOPSIS...
+A frontal boundary will remain nearly stationary near the region 
+through Thursday. The front should then push south of the area 
+Friday into Saturday. A weak frontal system may pass to the north 
+Sunday into Monday.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+A more well defined shortwave trough attempts to dig down 
+across the Great Lakes this afternoon and evening. There may be 
+some subtle pieces of energy ahead of the main trough this 
+afternoon and early evening. Sea breeze convergence along with 
+the stalled front will be the main trigger for any afternoon 
+convection. Coverage of showers/storms looks less compared to 
+Tuesday afternoon and evening. The convective focus looks most 
+likely south of the area across the Middle Atlantic where an MCV
+will pass through late in the day and early evening. This is 
+also where SPC has focused the higher severe thunderstorm risk 
+(slight). PWATs may end up a bit lower than recent days ranging 
+from 1.75-2.00 inches, but high enough that any shower/storm 
+that develops will have potential to produce locally heavy 
+downpours. WPC has maintained a marginal risk for excessive 
+rainfall supporting a continued localized flash flood threat. 
+
+Slight modification to the air mass is anticipated with 
+guidance continuing to signal 850 temps about 1-2C cooler than 
+on Tuesday. Highs today will reach the upper 80s for much of the
+area with some of the usual warmer locations in NE NJ and NYC 
+metro around 90 degrees. Dew points still look to be in the 
+lower 70s this morning with potential of them mixing out 
+slightly in the afternoon, particularly across NE NJ and NYC 
+metro. The SW flow away from the sea breeze is weak, but there 
+is enough dry air to mix down to allow dew points to fall into 
+the upper 60s. Max heat indices overall should peak in the lower
+90s with a few spots briefly hitting 95, mainly in urban NE NJ 
+and parts of the NYC metro. This looks mostly isolated and not 
+widespread enough to warrant the issuance of a heat advisory. 
+
+Chances for showers and thunderstorms increase tonight as the 
+upper trough settles over the northeast. The slight 
+amplification in the flow should help pull up another wave of 
+low pressure along the stalled front over the area. There is 
+also some jet stream support as the region may lie within the 
+right entrance region of a 90-100 kt 250 mb jet streak over 
+northern New England. Showers should increase in coverage late 
+tonight with some embedded thunderstorms possible. The activity 
+will have some movement, limited flooding potential, but still 
+cannot rule out some minor flooding.
+
+&&
+
+.SHORT TERM /THURSDAY THROUGH FRIDAY NIGHT/...
+Showers may persist early Thursday morning, but the associated
+weak wave should push east shortly after day break. The upper
+trough axis will swing across New England the rest of Thursday.
+The frontal boundary that has been nearly stationary will
+continue to remain nearby. Some uncertainty in convective
+coverage in the afternoon and evening, but the threat persists
+for showers and thunderstorms with locally heavy rainfall. WPC
+has maintained the marginal risk for excessive rainfall on
+Thursday. SPC has much of the area in a marginal risk for a
+severe thunderstorm as well, with the main threat damaging wind
+gusts. 
+
+The upper trough pushes offshore Thursday night. Heights should
+begin rising into Friday with the stalled front 
+weakening/washing out. The flow aloft is relatively flat, but 
+subtle energy may be enough to develop scattered 
+showers/thunderstorms in the afternoon and evening, mainly away 
+from the coast. 
+
+High temperatures on Thursday are expected to be a bit cooler
+than recent days with readings in the upper 70s/lower 80s east
+and lower to middle 80s elsewhere. It should be a bit warmer on
+Friday with highs in the lower to middle 80s.
+
+&&
+
+.LONG TERM /SATURDAY THROUGH TUESDAY/...
+No major changes made to the forecast Saturday through next
+Tuesday. 
+
+Most guidance shows a weak ridge building Saturday. Global 
+guidance still varies on solutions Sunday into Monday, but are
+starting to point to another frontal system at some point during
+this time frame.
+
+Generally southerly flow is expected for most of the long-term 
+period. This should keep dewpoints and atmospheric moisture high and 
+continue chances for daily showers and thunderstorms through 
+Monday. Mainly slight chance POPs east with low-end chance POPs 
+west where daily instability from daytime heating could be 
+stronger. 
+
+Temperatures through the long-term period will generally be close to 
+just above climatological norms. Highs each day will be in the
+mid/upper 80s to around 90 in the warmest spots. Lows each 
+night will be in the mid 60s to mid 70s. However, the difference
+between NBM's 25th and 75th percentiles for max temperatures is
+about 15 degrees Saturday through Monday, further highlighting 
+the uncertainty and disagreement among the guidance in the long-
+term period.
+
+&&
+
+.AVIATION /15Z WEDNESDAY THROUGH SUNDAY/...
+A stationary frontal boundary remains within the region through
+the TAF period.
+
+Mainly VFR, with MVFR ceilings possible this morning. The
+exception of IFR at KGON becoming VFR around 17Z. There is a 
+chance of showers and thunderstorms at times 01Z to around 07Z 
+with MVFR possible. There continues to be much uncertainty with 
+the exact timing of showers and thunderstorms.
+
+Winds will be generally S-SW near 5-10kt for much of the TAF 
+period. Occasional gusts to near 20kt will be possible at 
+times, and with more confidence of occurrence at KEWR included
+in the forecast.
+
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Amendments likely to refine the timing of showers and thunderstorms 
+which could vary by a few hours compared to TAF.
+
+Amendments possible to include wind gusts to near 20 kt if they 
+become more frequent.
+
+.OUTLOOK FOR 12Z THURSDAY THROUGH SUNDAY... 
+
+Thursday: Potential MVFR with showers likely and a chance of 
+thunderstorms. IFR possible at times. Otherwise, mainly VFR
+outside of showers and thunderstorms.
+
+Friday: MVFR or lower possible at times with a chance of showers
+and thunderstorms, mainly near and northwest of NYC terminals. 
+Otherwise, mainly VFR outside of showers and thunderstorms.
+
+Saturday: MVFR or lower possible at times with a chance of showers 
+and thunderstorms, mainly northwest of NYC terminals. Otherwise, 
+mainly VFR outside of showers and thunderstorms.
+
+Sunday: MVFR or lower possible at times with a chance of showers
+and thunderstorms, mainly near and northwest of NYC terminals. 
+Otherwise, mainly VFR outside of showers and thunderstorms.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+A weak pressure gradient into the upcoming weekend will bring
+winds and seas below SCA levels.
+
+&&
+
+.HYDROLOGY...
+Any shower or thunderstorm today into Thursday has the potential
+to produce locally heavy downpours. WPC has maintained a
+marginal risk for excessive rainfall with a continued localized
+flash flooding threat.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+A moderate rip current risk is forecast at all ocean beaches
+into this evening due to to incoming 3-4 ft/7-8s swell. The 
+moderate risk continues for all but the NYC beaches for on
+Thursday.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...DS
+NEAR TERM...DS
+SHORT TERM...DS
+LONG TERM...BR/DS
+AVIATION...MET
+MARINE...BR/DS
+HYDROLOGY...DS
+TIDES/COASTAL FLOODING...

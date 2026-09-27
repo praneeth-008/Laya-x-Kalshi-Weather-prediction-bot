@@ -1,0 +1,200 @@
+652 
+FXUS61 KOKX 010538
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1238 AM EST Wed Jan 1 2025
+
+.SYNOPSIS...
+Low pressure will lift north of the area this morning, tracking
+across eastern New England Wednesday into Wednesday evening and
+into eastern Canada late Wednesday night into Thursday. A cold 
+front moves through Friday night. Weak high pressure builds in 
+for the weekend. An area of low pressure passes to the south 
+early next week.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM THIS MORNING/...
+Area of moderate to heavy rain across far eastern LI and SE CT 
+will continue to lift to the NE and out of the area the next 1-2
+hours. With the negatively tilted upper trough lifting across 
+the area, a spotty shower is still possible, mainly north and 
+west of NYC. In addition, low clouds and patchy fog will follow
+as winds go light and variable for time before becoming W/SW. 
+
+Temps will remain well above seasonable in the 40s.
+
+&&
+
+.SHORT TERM /6 AM THIS MORNING THROUGH 6 PM THURSDAY/...
+Deep troughing continues across the northeast US thru the period, 
+with lead shortwave sliding east Wed AM, and trailing shortwave
+approaching Wed aft and crossing Wed eve. At the surface, 
+coastal low pressure departs up the New England coast on Wed, 
+with secondary cold front crossing the region Wed aft.
+
+The pressure gradient tightens in the wake of the deepening and 
+departing low Wed AM. W winds should pick up beginning Wed AM, 
+with strongest winds in wake of cold front/trough Wed aft/eve 
+with 20 to 30 gusts 45 to 55 mph. Gradient remains strong 
+overnight, with winds 45-50 kt at top of mixed layer, but with 
+lapse rates weakening a bit overnight, peak wind gusts will 
+likely remain capped at 45 to 50 mph into Thu AM. Pressure 
+gradient appears to remain tight into Thu aft as low pressure 
+deepens over northern Maine/new Brunswick, with winds at top of 
+mixed layer 45-50 kt in a steeper mixing profile. This should 
+support resurgence of westerly 45-55 mph wind gust threat into 
+the afternoon. Wind advisory to address hazard for Wed aft into
+Thu eve.
+
+Considerable cloud cover in cyclonic flow, with scattered rain 
+shower likely Wed aft/eve with shortwave/cold frontal passage. With 
+cold advection behind front, a few snow showers possible at tail 
+end across interior, particularly higher elevations. 
+
+Mild conditions on Wed with nearly stationary highs in the upper 
+40s/lower 50s giving way to cold advection late Wed aft into 
+into Thu. Low temps in the lower/mid 30s Wed night, and high 
+temps in the upper 30s/lower 40s on Thu. Windchills in the 20s
+Wed Night thru Thu.
+
+&&
+
+.LONG TERM /THURSDAY NIGHT THROUGH TUESDAY/...
+Key points include cold/blustery/mainly dry conditions until 
+potentially early next week, with chances of snow. Uncertainty is 
+high for early next week with resulting wide ranges of snowfall 
+forecasts. Temperatures forecast to become more below normal through 
+the weekend. The gusty winds will make it feel about ten degrees 
+colder than the actual temperatures regarding the forecast high 
+temperatures.
+
+Mid level quasi-zonal flow Thursday night into Friday. A longwave 
+trough moves over the Eastern Seaboard late Friday, with the trough 
+axis moving offshore late Friday night. A surface cold front is 
+expected to move through Friday night. However, it looks to do so 
+mainly dry. Thereafter, weak high pressure builds in at the surface 
+as the trough departs for the remainder of the weekend, keeping the 
+area dry. A southern stream trough approaches Sunday night with a 
+weak area of low pressure from the central or south central US 
+(given some uncertainty), and passes south of the area Monday night 
+into Tuesday. Current model consensus it to take this low south of 
+the area late Monday into Monday night. The area could see some snow 
+on the northern fringes of this system, but there is still a great 
+deal of uncertainty this far out, and stuck pretty close to the NBM.
+
+Temperatures should average below normal through the period.
+
+&&
+
+.AVIATION /06Z WEDNESDAY THROUGH SUNDAY/...
+Low pressure over the area early this morning will lift out to
+the NE, gradually deepening across New England today. 
+
+As winds lighten briefly, expect widespread MVFR/IFR to develop
+across the area. Conditions then gradually begin to improve 
+during the day.
+
+Wind direction will vary significantly between 06-12Z as low 
+pressure passes overhead. Winds then return out of the WSW 
+later this morning and increase in speed through the day, with 
+gusts increasing from 20-25 kt in the late morning and early 
+afternoon, to 35 to 40 kt toward 00Z Thursday. KGON may not see 
+the highest gusts until after 00Z. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Amendments are likely with the timing of category changes 
+through the day. Wind direction will become highly variable 
+overnight as low pressure moves across the area.
+
+Timing and onset of strongest gusts on Wednesday will likely 
+vary by 1-2 hours. MVFR ceilings may linger through the day 
+with a chance of SHRA.
+
+OUTLOOK FOR 06Z THURSDAY THROUGH SUNDAY...
+
+Late Wednesday Night trough Thursday: VFR. W winds G25-35kt 
+with occasional gusts up to 40 kt. Gusts decrease Thursday 
+night.
+
+Friday through Sunday: Mainly VFR. W winds G20-25kt.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+As low pressure approaches tonight, expect SE-S gusts to 25-30 kt 
+developing on the ocean this evening and then translating eastward 
+across southern bays and eastern LI Sound. A few gusts up to 35 kt 
+may be possible on the eastern ocean waters, but appears too 
+inverted for any more than brief and infrequent. 
+
+Winds should subside below SCA briefly on all waters late tonight in 
+wake of developing low pressure. Westerly winds then quickly 
+increasing thru SCA to Gale Wed AM into early afternoon for the 
+ocean waters, and then all waters Wed aft. Sustained W winds 
+25-35 kt and gusts 40-45 kt expected to continue into Thu eve, 
+before gradually diminishing to SCA Thu night. Gales should 
+linger on most of the waters Thu evening.
+
+Widespread SCA cond expected late Thursday night through much of 
+Friday for all waters. Winds diminish Friday night, but remain 
+above 25 kt on the ocean, while non-ocean waters fall below 
+25 kt. An extended period of SCA for the weekend as gusts are 
+forecast to be 25 to 30 kt for most of the waters and seas on 
+the ocean build to 5 to 7 ft through Saturday night, slowly 
+diminishing on Sunday
+
+&&
+
+.HYDROLOGY...
+Rainfall rates of 1/4 to 1/2" likely with heaviest precip, briefly 
+3/4-1" with any heavier convection this evening. Basin-wide 
+rainfall totals of 1/2 to 3/4", with locally 1 1/2" possible 
+if/where there is more persistent heavy rain shower/tstm 
+banding. Most of this falls in a 3 to 4 hr time period, which 
+may cause some minor urban and poor drainage flood issues.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+Per bias corrected ETSS/ESTOFS and NYHOPS central forecast blend, 
+water levels may touch minor flood thresholds along the south shore 
+bays of LI (including eastern Great South Bay, Moriches Bay, 
+and Shinnecock Bay), Jamaica Bay and along the most vulnerable 
+portions along NY Harbor with the Wed AM high tide. Statement 
+issued to address this.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Wind Advisory from 3 PM this afternoon to 10 PM EST Thursday 
+     for CTZ005>012.
+NY...Wind Advisory from 3 PM this afternoon to 10 PM EST Thursday 
+     for NYZ067>075-078>081-176>179.
+NJ...Wind Advisory from 3 PM this afternoon to 10 PM EST Thursday 
+     for NJZ002-004-006-103>108.
+MARINE...Small Craft Advisory until 6 AM EST early this morning for 
+     ANZ331-332-340-345-350-353-355.
+     Gale Warning from 1 PM this afternoon to 10 PM EST Thursday 
+     for ANZ331-332-335-338-340-345.
+     Gale Warning from 6 AM this morning to 1 AM EST Friday for 
+     ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JP/NV/DW
+NEAR TERM...NV/DW
+SHORT TERM...NV
+LONG TERM...JP
+AVIATION...DW
+MARINE...JP/NV
+HYDROLOGY...JP/NV
+TIDES/COASTAL FLOODING...

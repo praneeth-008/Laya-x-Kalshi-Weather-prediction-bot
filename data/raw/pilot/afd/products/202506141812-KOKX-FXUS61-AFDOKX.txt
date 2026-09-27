@@ -1,0 +1,167 @@
+766 
+FXUS61 KOKX 141812
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+212 PM EDT Sat Jun 14 2025
+
+.SYNOPSIS...
+A frontal wave will pass to the south today. High pressure 
+builds in from the northeast tonight into Sunday. Weak high 
+pressure will then remain in place through at least Monday. A 
+nearly stationary front remains Tuesday with a wave of low 
+pressure affecting the region. The front moves north as a warm 
+front Tuesday night, passing north during Wednesday. A cold 
+front moves through the region Thursday night. High pressure 
+builds in Friday.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Mainly light rain falling across the area this afternoon, with
+the steadiest falling across the NYC/NJ metro and LI. These 
+locations are generally seeing less than a 0.1".hr. Expect this 
+activity to gradually shift SE through early this evening, 
+decreasing in both coverage and intensity. 
+
+High pressure will nose in from the northeast behind the low 
+tonight as drier air filters in, PoPs decrease, but still 
+remain slight chance/chance through the night.
+
+Highs will top out in the 60s this afternoon, with lows tonight
+in the 50s to around 60 in NYC.
+
+&&
+
+.SHORT TERM /SUNDAY THROUGH MONDAY NIGHT/...
+High pressure continues to build in from the northeast on Sunday. 
+PoPs continue to decrease with a dry day expected for the most part, 
+especially for eastern Long Island and eastern CT. Confidence in 
+also increasing in some breaks of sun for these eastern areas and 
+have lowered sky cover just a bit. Given this, also upped 
+temperatures a few degrees in these areas. Otherwise NBM was 
+followed for temps through this time period.
+
+&&
+
+.LONG TERM /TUESDAY THROUGH FRIDAY/...
+A nearly stationary front remains south of the region Tuesday as 
+another wave of low pressure moves along the boundary with a chance 
+of showers by late day. With the approach of a trough and surface 
+low moving through the upper Midwest and into southern Canada 
+Tuesday night into Wednesday, the front is expected to beginning 
+moving to the north as a warm front, and likely pass to the north 
+during Wednesday. A cold front approaching during Thursday and 
+passes through the area Thursday night. While there will be slight 
+to chance probabilities of rainfall Tuesday into Wednesday night, 
+the best chances for rainfall will be with the cold front 
+approaching during the day Thursday, and currently forecast to pass 
+through the region Thursday night. Precipitable water values 
+increase to around 1.75 inches, and there will be surface based and 
+elevated CAPE in place. With a warm and unstable airmass ahead of 
+the front, there is the potential for thunderstorms, some of which 
+may produce briefly heavy rainfall.
+At this time the storms will be moving rather quickly, and training 
+is not expected, so hydrologic impacts are not expected. An 
+amplifying ridge across the central United States Thursday night 
+approaches for Friday and into the beginning of next weekend. With 
+no targets of opportunity have used the deterministic NBM through 
+the extended period.
+
+&&
+
+.AVIATION /18Z SATURDAY THROUGH THURSDAY/...
+Stationary front remains south of the area as an area of low
+pressure moves along the boundary today. High pressure builds 
+into the region from the northeast late tonight into Sunday 
+morning.
+
+MVFR or IFR with light rain into late day. Rain expected to 
+taper by early evening, but IFR cigs likely persist tonight. 
+Improvement to MVFR by mid Sunday AM. Possible return to VFR by
+afternoon, though cigs may instead remain MVFR thru the day.
+
+Winds NE around 10 to 15 kt through today, diminishing a few 
+kts this evening. ENE on Sunday with speeds at or under 10 kt.
+
+    NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Amendments possible for changing flight categories through TAF.
+
+.OUTLOOK FOR 12Z SUNDAY THROUGH THURSDAY... 
+
+Sunday - Monday: Slight chance of showers, mainly from the New 
+York City terminals and west, with MVFR to IFR possible at 
+times. Otherwise VFR.
+
+Tuesday: Mainly VFR, slight chance of showers late day into the 
+night, with a chance of MVFR to IFR.
+
+Wednesday - Thursday: Mostly VFR. A chance of showers and 
+thunderstorms with a period of sub-VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+SCA remains up for LI Sound and the ocean waters. The higher
+winds look to be mainly confined to western LI Sounds and will
+likely drop off in the next couple of hours. 
+
+Otherwise, NE winds will produce seas up to 5 ft on the ocean 
+waters. Stuck closer to WaveWatch as NWPS seemed a bit low given
+a sustained winds at 15-20 kt for several hours. SCA up through
+tonight on the ocean. Otherwise, sub SCA conditions expected 
+through Monday night.
+
+Winds and seas remain below SCA levels across the forecast waters 
+Tuesday through Thursday. With the approach of a cold front 
+Thursday, passing through the waters Thursday night, southwest to 
+west winds will be increasing. By later Thursday night wind gusts on 
+the ocean waters east of Fire Island Inlet  may approach SCA levels, 
+and ocean seas may build to near 5 feet.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts expected Tuesday through the end of the
+week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+Sticking with moderate risk of rip currents for ocean beaches today. 
+Some uncertainty in exact strength and direction of winds which in 
+turn will affect wave heights and direction. If winds end up more 
+northerly than forecast, the rip current activity will likely be 
+lower and the risk may be updated during the day.
+
+Winds will be more easterly on Sunday an around 10 kt. An E wave 
+component around 4 ft at 6s will result in a low risk of rip current 
+activity.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 4 PM EDT this afternoon for ANZ331-
+     332-335.
+     Small Craft Advisory until 6 AM EDT Sunday for ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...MET/JT
+NEAR TERM...JT/DW
+SHORT TERM...JT
+LONG TERM...MET
+AVIATION...DR
+MARINE...MET/JT
+HYDROLOGY...MET/JT
+TIDES/COASTAL FLOODING...

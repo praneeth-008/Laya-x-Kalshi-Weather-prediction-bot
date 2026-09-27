@@ -1,0 +1,169 @@
+326 
+FXUS61 KOKX 090532
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1232 AM EST Thu Jan 9 2025
+
+.SYNOPSIS...
+Low pressure will remain nearly stationary up to our north 
+across the Canadian Maritimes, while high pressure builds in 
+slowly from the west through Friday. Low pressure passes to the 
+south and east Saturday into Saturday night. High pressure then 
+builds in for Sunday and weakens over the area into early next 
+week.
+
+&&
+
+.NEAR TERM /THROUGH TODAY/...
+Have hoisted a wind advisory for this update as there seems to
+be enough support for at least scattered gusts of 45 to 50 mph 
+into the morning and through the day. Some of the higher res 
+guidance not as bullish with the exception of the NAM 3km. RAP 
+and FV3 also are supportive of wind advisory criteria being met 
+despite the fact that inversion around 5kft may lower some later
+in the day. Thus winds were increased late in the overnight and
+into Thu based on the 00Z data. NAM most bullish with 50-60kt 
+at h85 and subsidence. HRRR not as bullish but in real close now
+so it was time to issue adv despite some uncertainty. Bottom 
+line, winds have had a history of overachieving in this recent 
+regime of NW flow, and with a potent shortwave pivoting through 
+and the gradient tightening up further on the synoptic scale, 
+thought it was prudent to just go ahead and issue the advisory.
+
+An upper trough across the Northeast and into eastern Canada 
+will slowly retreat to the NE during this time, while ridging 
+builds in from the west. This will result in continued cold 
+advection and gusty NW winds. Expect to see wind gusts 25 to 40
+mph overnight, with some isolated gusts closer to 45 mph. 
+Sustained winds of 20 to 30 mph on Thursday, with gusts of 45 to
+50 mph are now expected. 
+
+Tonight will likely be the coldest night of the week with lows 
+in the teens for all but the NYC metro, where it should get to 
+the lower 20s. The gusty winds prevent radiational cooling, 
+keeping temperatures only about 5 to 8 degrees below normal.
+Maximum temperatures on Thursday with highs in the upper 20s to 
+around 30 inland, to the lower and middle 30s at the coast.
+
+&&
+
+.SHORT TERM /TONIGHT THROUGH 6 PM FRIDAY/...
+Winds will gradually subside through Friday as weakening high 
+pressure builds in from the west. Expect gusts to drop off to
+about 20 mph in the afternoon. Temperatures return close to
+normal levels with lows in the 20s and highs in the mid and 
+upper 30s.
+
+&&
+
+.LONG TERM /FRIDAY NIGHT THROUGH WEDNESDAY/...
+12z forecast models continue to be in good agreement with not 
+much change from previous forecast. 
+
+A lack of phasing between the northern and southern stream 
+troughs will result in low pressure emerging off the Carolina 
+coast late Friday night into Saturday morning. The low will 
+gradually strengthen well south and east of the 40N/70W 
+benchmark Saturday afternoon into evening. Forecast guidance 
+continues to show most of the precipitation either completely 
+missing the area or the bulk of the precipitation remaining 
+offshore with just a glancing chance for some light 
+precipitation. Will continue to cap PoPs at chance late Friday 
+night through Saturday afternoon. Overall higher chances will be
+across the southern zones, closer to the offshore storm. Even 
+if the northern periphery of its precip shield doesn't reach us,
+can't completely rule out snow showers for the entire forecast 
+area in association with the northern stream energy shifting 
+through the area. Should any snowfall occur Friday night through
+Saturday, there's increasing confidence that accumulations 
+would be light. Right now, looking at snowfall amounts between a
+trace to half an inch.
+
+High pressure returns behind the departing system Saturday night 
+through Sunday, then weakens over the region Monday and Tuesday. 
+Expect mostly dry conditions through this period. Temperatures will 
+remain rather cold through the long term, with highs in the 30s each 
+day.
+
+&&
+
+.AVIATION /06Z THURSDAY THROUGH MONDAY/...
+The terminals will remain between strong low pressure to the 
+northeast and strong high pressure to the west.
+
+VFR. 
+
+Strong flow around 300-310 true through the TAF period. Gusts
+around 30kt this morning increasing to 35-40 kt with peak gusts
+around 45 kt. Winds begin to diminish after 00z Friday with 
+gusts decreasing to 30-35 kt in the evening and then 25-30 kt 
+early Friday morning.
+
+...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Occasional gusts 35-40 kt through 12z becoming frequent
+thereafter. Peak gusts around 45 kt possible late morning into
+the afternoon.
+
+OUTLOOK FOR 06Z FRIDAY THROUGH MONDAY...
+
+Tonight: VFR with gusty NW winds.
+
+Friday: VFR. NW wind gusts 20 kt in the morning.
+
+Saturday: MVFR/IFR possible. Chance of light snow. NW gusts 20 kt 
+possible. 
+
+Sunday-Monday: VFR. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Gale Warnings will continue into Thursday evening due to a
+continued strong NW flow between deep low pressure over the 
+Canadian Maritimes and high pressure building in from the west. 
+Later Thursday night gale conditions will give way to small 
+craft conditions as the winds gradually come down. Heading into
+Friday afternoon, ocean seas are forecast to fall below 5 ft 
+and wind gusts below 25 kt. 
+
+Sub-advisory conditions likely continue through Saturday night, then 
+SCA conditions will be possible Saturday night into Sunday with a 
+pressure gradient tightening behind a storm strengthening well-
+offshore. Sub-SCA conditions return for the start of next week as 
+high pressure builds over the area waters.
+
+&&
+
+.HYDROLOGY...
+No significant hydrologic issues anticipated through early next
+week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Wind Advisory until 10 PM EST this evening for CTZ005>012.
+NY...Wind Advisory until 10 PM EST this evening for NYZ067>075-
+     078>081-176>179.
+NJ...Wind Advisory until 10 PM EST this evening for NJZ002-004-006-
+     103>108.
+MARINE...Gale Warning until 10 PM EST this evening for ANZ331-332-335-
+     338-340-345.
+     Gale Warning until 1 AM EST Friday for ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...BC/DW
+NEAR TERM...JE/DW
+SHORT TERM...DW
+LONG TERM...BC
+AVIATION...JMC/DS
+MARINE...BC/DW
+HYDROLOGY...BC/DW

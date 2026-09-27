@@ -1,0 +1,133 @@
+431 
+FXUS61 KOKX 070324
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1124 PM EDT Wed Aug 6 2025
+
+.SYNOPSIS...
+High pressure will remain in control through the weekend, then 
+slowly weakens as a frontal system approaches by the middle of 
+next week.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM THURSDAY MORNING/...
+Scattered sprinkles across parts of the region, mainly NE NJ,
+NYC Metro and Western Long Island into overnight. Temperatures
+were slightly adjusted as well. Otherwise, no other remarkable 
+changes made to the forecast database.
+
+A shortwave undercuts the ridge across eastern Canada and the 
+Northeast. Sub-clould layer dry below about 10kft. Radar more 
+impressive than reality. Any rain that reaches the ground will 
+be extremely light and likely not measurable. 
+
+Otherwise, the weather remains quiet as high pressure remains 
+in control. The surface high moves offshore from Quebec tonight.
+Haze only for interior parts of the Lower Hudson Valley,
+decreases into overnight. Temperatures continue to be a few 
+degrees below seasonal normal.
+
+&&
+
+.SHORT TERM /6 AM THURSDAY MORNING THROUGH SATURDAY/...
+Deep ridging remains in place through Friday night with 
+temperatures remaining just below seasonal normals. Smoke is not
+expected to impact the area.
+
+&&
+
+.LONG TERM /SATURDAY NIGHT THROUGH WEDNESDAY/...
+High pressure both aloft and at the surface will remain in 
+control through early next week. In fact, 500mb heights on the 
+12Z GFS over the weekend increase to +2-3SD across the Northeast
+and eastern Canada. This is in response to offshore low 
+development over the western Atlantic and an upper trough moving
+into the Northern Plains and upper Midwest. The former is being
+monitored by the NHC for potential tropical cyclone 
+development. Model consensus takes this low well east of the 
+area. The upper trough sends a weak frontal system toward the 
+area by the middle of next week. A late day shower or 
+thunderstorm may be possible mainly NW of NYC Wednesday 
+afternoon/evening.
+
+Thus, looking at a warmup with near normal temperatures to 
+start, but increasing to about 5-8 degrees above normal early 
+next week. Otherwise, it will be mainly dry with plenty of sun.
+
+&&
+
+.AVIATION /03Z THURSDAY THROUGH MONDAY/...
+Center of high pressure continues to remain north and east of 
+the terminals through the TAF period.
+
+VFR conditions are expected to prevail through the TAF period. 
+Haze near KSWF expected to decrease into overnight. Also, some 
+very light rain or sprinkles are expected across NE NJ
+terminals, KNYC terminals and KISP into the overnight but VFR 
+still prevails.
+
+Winds near 5 kt or less tonight into early Thursday, increase 
+close to 10 kt Thursday afternoon. Wind direction generally
+E tonight to variable for some terminals, becoming E-SE 
+Thursday.
+
+
+  NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Very light rain or sprinkles could continue intermittently
+overnight beyond time indicated in TAF.
+
+
+.OUTLOOK FOR 00Z FRIDAY THROUGH MONDAY... 
+
+Thursday night - Monday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Sub-SCA conditions are expected through Friday night. Winds 
+will generally remain weak through the weekend. However, a 
+building easterly swell will likely bring SCA seas into the 
+water late Saturday into Sunday. The swell will be emanating 
+from low pressure over the western Atlantic. NHC is monitoring 
+an area for potential tropical cyclone development. Model 
+consensus takes this low well east of the waters.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through the middle of next 
+week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+There is a moderate rip risk through Friday due a persistent 3-4ft 
+easterly swell.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...Air Quality Alert until midnight EDT tonight for NYZ067-068.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...MET/DW
+NEAR TERM...JM/MET/DW
+SHORT TERM...DS
+LONG TERM...DW
+AVIATION...JM
+MARINE...MET/DW
+HYDROLOGY...MET/DW
+TIDES/COASTAL FLOODING...

@@ -1,0 +1,201 @@
+158 
+FXUS61 KOKX 121447
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+947 AM EST Sun Jan 12 2025
+
+.SYNOPSIS...
+High pressure settles over the northeast today and then
+weakens tonight into Monday. A cold front will pass across
+the area Monday night followed by high pressure slowly building
+from the west Tuesday through the end of the week. A complex 
+frontal boundary works through next weekend.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Increased cloud coverage towards westernmost parts of the
+forecast region, within Western Passaic County NJ and Orange 
+County NY this morning. Otherwise, mostly sunny sky conditions
+are expected today. Also slightly increased temperatures. 
+Otherwise, forecast remains on track.
+
+Ridging builds overhead both aloft and at the surface through
+this afternoon. This will lead to dry conditions along with 
+diminishing winds. Skies will be mostly clear to start the day. 
+There may be a slight increase in mid clouds in the afternoon as
+some moisture starts pushing eastward ahead of digging upper 
+low towards the Northern Plains and Great Lakes. High 
+temperatures will likely be slightly above normal in the upper 
+30s to lower 40s. 
+
+The surface high weakens tonight and shifts southeast as the
+upper ridge axis moves offshore. Middle level shortwave energy 
+ahead of the aforementioned upper low moves through which will 
+bring mostly cloudy skies. The clouds should move east just 
+before day break. No precipitation is expected the subcloud 
+layer remains dry and the lift is very weak. Lows will fall into
+the 20s across much of the area with the NYC metro around 30 
+degrees.
+
+&&
+
+.SHORT TERM /MONDAY THROUGH TUESDAY NIGHT/...
+The upper low and its associated surface low moves across 
+southeastern Canada Monday into Monday night. This will send
+a cold front across the area by Monday evening, which will 
+likely be offshore around day break Tuesday. A trailing 
+shortwave and its associated middle level energy swing across 
+late Tuesday into Tuesday night. 
+
+Dry conditions are expected Monday through Tuesday night.
+Temperatures on Monday will be slightly above normal and
+generally in the low 40s. There may be some periods of 
+scattered to broken clouds, especially as the cold front 
+approaches. These clouds should diminish Monday night behind the
+front and with increasing cold/dry advection. There does not 
+appear to be a drastic temperature drop behind the front, but 
+temperatures should bottom out in the lower to middle 20s by 
+Tuesday morning. NW winds will also begin increasing with gusts 
+20-25 mph expected Monday night. 
+
+Blustery and cold conditions are likely on Tuesday as the
+region lies between building high pressure to the west and low 
+pressure towards the Maritimes and North Atlantic. NBM 
+deterministic winds have been running too low in similar set ups
+with NW flow and cold advection. Have bumped up winds and wind 
+gusts closer to the NBM 90th percentile, and these may need to 
+be adjusted a up a bit more in subsequent forecasts. The low 
+level flow and winds atop the mixed layer do not look as strong 
+as what was observed last week. The NW flow, cold advection and 
+subsidence should allow winds to reach 15- 20 mph with gusts 
+25-35 mph. A few gusts up to 40 mph are possible, especially 
+near the coast. It may take some time for the winds to come up 
+on Tuesday with peak winds occurring late in the day and at 
+night once the shortwave moves across the area and the pressure 
+gradient tightens. High temperatures will be below normal in the
+upper 20s inland to the lower 30s closer to the coast. Wind 
+chills look to be in the teens to around 20 during the day, but 
+then fall to the single digits Tuesday night with actual lows in
+the teens to low 20s.
+
+&&
+
+.LONG TERM /WEDNESDAY THROUGH SATURDAY/...
+Key Point(s)
+
+* Dry, brisk, and cold weather with below normal temperatures 
+  prevails Wednesday and Thursday.
+
+* Temperature moderation late week.
+
+* Frontal boundary likely to approach next weekend with the our next 
+  round of measurable precipitation.
+
+Trough in the East and Ridge out West large scale pattern
+generally holds for the foreseeable future. Although the 
+eastern trough is likely to pull back further west Friday into 
+Saturday. This should allow temperatures to turn milder, at 
+least temporarily.
+
+The main story for this period will be the return of brisk, at
+times windy conditions for mid week. Some single digit wind 
+chills are likely Wednesday morning, especially across far 
+northern and northwestern portions of the area. Went above the 
+consensus wind guidance on Wednesday as the region will be in 
+the wake of a potent shortwave and strong mixing and a strong 
+pressure gradient in place should allow wind gusts to approach 
+30 to 35 mph during the daytime keeping wind chills in the 
+teens. A high pressure ridge then settles across with the 
+pressure gradient relaxing Wednesday night into Thursday with 
+lighter winds. Dry conditions should continue into Friday with 
+the high pressure ridge moving across. The ridge then gets 
+offshore Friday night. A milder southerly flow should actually 
+get temperatures above normal Friday night. A southerly flow out
+ahead of the cold frontal boundary may allow temperatures to 
+slowly rise Friday night, especially late as more cloud cover is
+expected to arrive. Have increased PoPs into the day Saturday. 
+An elongated southerly fetch ahead of the boundary should allow 
+any precip to be mainly in the liquid form, although far NW 
+interior locations may begin as a wintry mix. The boundary is 
+expected to move off to the east later in the weekend with drier
+air and eventually colder air likely to return late in the 
+weekend.
+
+&&
+
+.AVIATION /15Z SUNDAY THROUGH THURSDAY/...
+VFR as high pressure builds from the west today and remains in
+place tonight. 
+
+Mainly NW winds at or just under 10 kt at most terminals should
+lighten this evening and remain light westerly, to light and
+variable later tonight. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No unscheduled amendments expected.
+
+OUTLOOK FOR 12Z MONDAY THROUGH THURSDAY...
+
+Monday: VFR.
+
+Monday night: VFR. W winds G15-20 kt developing.
+
+Tuesday through Wednesday: VFR. NW winds G20-30 kt, diminishing
+Wed night. 
+
+Thursday: VFR.
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+With gusts on a downward trend this morning, and gusts staying
+near or under 20 kts as well as downward trend in ocean seas, 
+cancelled the SCA across the ocean.
+
+Conditions will remain below SCA levels through tonight. 
+Conditions should remain below SCA on Monday, but winds on the 
+ocean may approach 20 kt ahead of a cold front. Behind the 
+front, NW flow increases with SCA conditions likely Monday night
+through Tuesday night. Gale potential appears low on 
+Tuesday/Tuesday night, but if the flow ends up stronger than 
+expected, gales could become more likely especially Tuesday 
+night.
+
+Small craft conditions should carry through the day Wednesday and 
+possibly into the evening. A period of gales are possible on the 
+ocean on Wednesday. Conditions are then expected to settle down to 
+sub advisory levels by early Thursday morning. Sub advisory 
+conditions should last into Friday.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through the first half of next
+weekend.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JE/DS
+NEAR TERM...JM/DS
+SHORT TERM...DS
+LONG TERM...JE
+AVIATION...JE/BG
+MARINE...JE/JM/DS
+HYDROLOGY...JE/DS

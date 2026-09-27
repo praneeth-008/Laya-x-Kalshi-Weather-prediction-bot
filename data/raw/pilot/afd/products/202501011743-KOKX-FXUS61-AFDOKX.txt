@@ -1,0 +1,200 @@
+861 
+FXUS61 KOKX 011743
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1243 PM EST Wed Jan 1 2025
+
+.SYNOPSIS...
+Low pressure strengthens as it moves northeast of the region
+towards Maine tonight and then into Canadian Maritimes by
+Thursday. The low then retrogrades west into Southeast Canada
+Thursday night into Friday. Meanwhile, across the local area,
+weak high pressure will start to build in Thursday through
+Thursday night before another frontal system approaches from the
+west for late Friday. An associated cold front moves through 
+Friday night. Weak high pressure builds in for the weekend. An 
+area of low pressure passes to the south early next week.
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+*Wind advisory remains in effect starting 3PM this afternoon for
+ westerly wind gusts 45 to 50 mph, isolated 55mph.
+
+Low pressure moves northeast and deepens through today, with 
+with a cold frontal passage late this afternoon.
+
+Westerly Winds gradually increase through the morning into 
+early afternoon as pressure gradient tighten behind departing 
+low. Strong westerly winds expected to develop late this 
+afternoon into evening in wake of shortwave/cold frontal 
+passage with strengthening boundary layer winds, deepening of 
+lapse rates and momentum transfer and shot of cold advection. 
+BUFKIT data indicating winds at top of mixed later strengthening 
+to 45-50kt, and with above factors, indicating potential for 
+widespread 20-30g40-50mph, with some localized gusts up to 55 
+mph late this afternoon thru evening. 
+
+In addition, deep cyclonic flow and approaching shortwave and 
+cold front this afternoon, will result in abundant diurnal 
+cloud cover and enhanced lift for scattered to numerous showers
+this afternoon into early evening. Highest likelihood of 
+showers across the interior. Thermal profiles across interior, 
+particularly for elevations above 500 ft appear supportive for 
+snow to mix in with rain shower activity, or briefly changeover
+early this evening, before tapering off. A dusting of snow 
+accumulation possible for highest elevations (above 500 ft)
+
+&&
+
+.SHORT TERM /6 PM THIS EVENING THROUGH FRIDAY/...
+*The wind advisory remains in effect for the entire area until
+ 10PM Thursday evening for westerly wind gusts 45 to 50 mph, 
+ isolated 55mph.
+
+There may still be some lingering shower activity to start this
+evening across northern parts of the region with otherwise dry
+conditions. Dry conditions return for the entire local forecast
+area overnight and remain dry through Friday.
+
+850mb temperatures from forecast models continue to show a
+declining trend for this short term time period. Likewise, high
+temperatures are forecast to get progressively cooler looking at
+Thursday and Friday compared to Wednesday.
+
+Very steep pressure gradient remains for the region tonight
+through Thursday evening. For this evening and with daytime
+mixing Thursday, more peak gusts near 45 to 50 mph are expected.
+Again, some locally higher gusts up to 55 mph are possible at
+times. Then more of a decrease of this pressure gradient is 
+forecast as low pressure fills in slightly and weak high 
+pressure builds in from the west for Thursday night into Friday.
+This will allow for winds to trend downward with time Thursday
+night into Friday.
+
+&&
+
+.LONG TERM /FRIDAY NIGHT THROUGH WEDNESDAY/...
+Key points include cold/blustery/mainly dry conditions until 
+potentially early next week, with chances of snow. Uncertainty is 
+high for early next week with resulting wide ranges of snowfall 
+forecasts. Temperatures forecast to become more below normal through 
+the weekend. The gusty winds will make it feel about ten degrees 
+colder than the actual temperatures regarding the forecast high 
+temperatures.
+
+A longwave trough moves over the Eastern Seaboard late Friday, 
+with the trough axis moving offshore late Friday night. A 
+surface cold front is expected to move through Friday night. 
+However, it looks to do so mainly dry. Thereafter, weak high 
+pressure builds in at the surface as the trough departs for the 
+remainder of the weekend, keeping the area dry. A southern 
+stream trough approaches Sunday night with a weak area of low 
+pressure from the central or south central US (given some 
+uncertainty), and passes south of the area Monday night into 
+Tuesday. Current model consensus it to take this low south of 
+the area late Monday into Monday night. The area could see some 
+snow on the northern fringes of this system, but there is still 
+a great deal of uncertainty this far out, and stuck pretty close
+to the NBM.
+
+Temperatures should average below normal through the period.
+
+&&
+
+.AVIATION /18Z WEDNESDAY THROUGH MONDAY/...
+Low pressure slowly tracks into New Brunswick Canada late tonight
+and Thu. 
+
+MVFR cigs should prevail until a secondary cold fropa late this
+afternoon. Timing is approximately 20Z KSWF, 21Z NYC
+metros/KHPN, 22Z KBDR/KISP, 23Z KGON.
+
+After the fropa, cigs should lift to VFR and W winds increase 
+to 15-25G30-35kt with some gusts 35-40 kt. These winds should 
+diminish after the evening push to 15-20G25-30kt while VFR cigs 
+scatter out at most terminals. Winds increase again aft 12-13Z 
+Thu.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+AMD possible for varying cigs thru 21Z. G40kt possible from 
+about 21Z-05Z.
+
+
+OUTLOOK FOR 18Z THURSDAY THROUGH MONDAY...
+
+Thursday Aftn: VFR. W winds G25-35kt with occasional G40kt. 
+
+Thursday Night: VFR with diminishing winds.
+
+Friday through Sunday: Mainly VFR. W winds G20-25kt. 
+
+Monday: VFR likely.
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+The main story for the marine forecast will be the increasingly
+rough conditions expected as winds and seas increase in response
+to increasing pressure gradient with strengthening low pressure
+late today through Thursday going into the Canadian Maritimes.
+
+Developing SCA conditions this morning will quickly deteriorate
+to gale conditions this afternoon across the ocean waters and
+then all water from early to mid afternoon. Gale conditions
+continuing through Thursday evening, before decreasing to SCA 
+conditions with gusts closer to 30 kt for the rest of Thursday 
+night and for Friday. Ocean seas will build to 7 to 12 ft on
+westerly gales, and 4 to 7 ft on central and eastern LI Sound.
+
+Winds diminish Friday night, but remain above 25 kt on the 
+ocean, while non-ocean waters fall below 25 kt. An extended 
+period of SCA for the weekend as gusts are forecast to be 25 to 
+30 kt for most of the waters and seas on the ocean build to 5 to
+7 ft through Saturday night, slowly diminishing on Sunday
+
+&&
+
+.HYDROLOGY...
+Any precipitation, liquid equivalent, expected to stay under a
+tenth of an inch in the short term through Friday.
+
+Overall, no significant hydrologic issues are anticipated.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+Water levels may approach or touch minor flood thresholds in the 
+most vulnerable locations along the south shore bays of Long Island, 
+Jamaica Bay and parts of NY Harbor with the Wed AM high tide.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Wind Advisory until 10 PM EST Thursday for CTZ005>012.
+NY...Wind Advisory until 10 PM EST Thursday for NYZ067>075-078>081-
+     176>179.
+NJ...Wind Advisory until 10 PM EST Thursday for NJZ002-004-006-
+     103>108.
+MARINE...Gale Warning until 10 PM EST Thursday for ANZ331-332-335-338-
+     340-345.
+     Gale Warning until 1 AM EST Friday for ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JM/JP
+NEAR TERM...JMC/JM
+SHORT TERM...JM
+LONG TERM...JP
+AVIATION...JMC/BG
+MARINE...JM/JP
+HYDROLOGY...JM/JP
+TIDES/COASTAL FLOODING...

@@ -1,0 +1,215 @@
+275 
+FXUS61 KOKX 062116
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+516 PM EDT Sun Jul 6 2025
+
+.SYNOPSIS...
+High pressure remains offshore into Monday. Weak low pressure
+passes nearby Monday afternoon into Monday night. A cold front 
+approaches Tuesday and moves over the area Tuesday night. The 
+front likely stalls nearby the rest of the week leading to 
+unsettled conditions, potentially into next weekend.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM MONDAY MORNING/...
+Warm and increasingly muggy conditions are expected tonight as
+high pressure remains offshore. SW flow will advect 
+increasingly higher dew points through the night and help 
+increase lower level moisture. Some fog is possible overnight, 
+especially the eastern half of the area and close to the coast. 
+There should otherwise be increasing clouds through day break 
+Monday. Conditions will remain dry as there is no forcing for 
+any showers through day break. Lows will be in the upper 60s 
+inland to lower and middle 70s near the coast.
+
+&&
+
+.SHORT TERM /6 AM MONDAY MORNING THROUGH TUESDAY NIGHT/...
+Key Messages...
+
+*Showers and possible thunderstorms late Monday morning into Monday 
+evening, especially in the vicinity of the NYC metro, NE NJ into 
+Lower Hudson Valley, could produce locally torrential downpours. 
+Localized flash flooding is possible from any of these 
+showers/storms.
+
+*Warm and humid conditions Monday and Tuesday with max heat indices 
+in the lower 90s Monday and mid to upper 90s on Tuesday. 
+
+*Showers and thunderstorms possible Tuesday afternoon and evening 
+with a continued chance of locally heavy downpours. 
+
+The main concern on Monday will be the development of showers and 
+possible thunderstorms late morning into the afternoon. The 
+extratropical remnant circulation of Chantal will likely track over 
+the Delmarva in the afternoon and then offshore Monday evening and 
+night. It should be emphasized that the circulation will no longer 
+be tropical, but leftover tropical moisture will be present 
+across the northeast. This moisture will act on the sea breeze 
+boundary as well as some middle level energy to promote the 
+development of showers and a few thunderstorms. PWATs are quite 
+high and range from 2-2.25 inches. There is some question to the
+amount of instability, but model soundings indicate a long and 
+relatively skinny CAPE, which is common in more tropical air 
+masses. Freezing levels look to average around 15kft as well, 
+supportive of efficient/warm rain processes. The 12z CAMs all 
+signal convective development across portions of NE NJ into the 
+Lower Hudson Valley, potentially into the NYC metro. Elsewhere, 
+showers are possible but coverage looks to be lower and could 
+just be isolated. No flood watch has been issued at this time, 
+but WPC has placed NE NJ, NYC metro, and Lower Hudson Valley in 
+a marginal risk for excessive rainfall. 
+
+Basin averaged rainfall amounts around one quarter of an inch 
+possible with some local areas receiving 1-2 inches with higher 
+amounts. Some locations may see little to no rainfall through Monday 
+evening.
+
+Focus for showers shifts to the eastern part of the area Monday 
+night with the weak wave of low pressure passing to our south.
+It appears most of the coverage should be offshore, but cannot rule 
+out some showers or isolated thunderstorms across portions of Long 
+Island or even southeast Connecticut. 
+
+For Tuesday, a cold front slowly approaches from the north and west. 
+Ahead of the front, tropical moisture will linger with PWATs around 
+2 inches. Showers and thunderstorms are likely to develop in the 
+afternoon and evening along and ahead of the cold front from the NYC 
+metro on NW. This activity will then slide eastward in the evening 
+and at night. The main concern from this activity will once again be 
+torrential downpours and localized flash flooding. WPC continues to 
+place the entire area in a marginal risk for excessive rainfall on 
+Tuesday. An isolated severe thunderstorm is possible Tuesday 
+afternoon/evening and SPC has much of the area in a marginal 
+risk. 
+
+No heat advisories have been issued at this time for Monday and 
+Tuesday. Temperatures have continued to trend slightly lower for 
+Monday, likely due to increasing cloud cover and earlier timing of 
+convection. Highs looks to range from the middle to upper 80s with 
+max heat indices in the lower 90s. It will be warmer on Tuesday as 
+highs should be in the upper 80s to lower 90s. There is still some 
+question to the amount of cloud cover and how high dew points will 
+be in the warmest part of the day. There are hints at the flow 
+becoming more SW-W which could lower dew points a bit. Heat indices 
+should be higher, in the middle to upper 90s. Have held off on the 
+issuance of a heat advisory for Tuesday since this is just one day 
+occurrence and there is little to no coverage of heat indices 
+above 100. 
+
+The front moves over or just east of the area Tuesday night. The 
+front may begin stalling nearby, which could promote continued 
+showers/storms for the eastern half of the area.
+
+&&
+
+.LONG TERM /WEDNESDAY THROUGH SUNDAY/...
+The NBM was generally followed given the unsettled nature of 
+the pattern for the extended period.
+
+A stalled front south of the area on Wednesday will remain in
+the general vicinity through the end of the week and into the 
+weekend. High pressure over the western Atlantic will allow for 
+the persistent advection of moisture over the front and into the
+area through much of the week. This will lead to the 
+development of scattered showers and storms through much of the 
+middle and end of the week, though storms are generally more 
+likely in the afternoon and early evening hours with the 
+presence of daytime heating.
+
+Additional energy in the flow approaches the area by the end of
+the week and may result in another round of showers and storms,
+though guidance has been backing off on high pressure building 
+in thereafter. Unsettled conditions may persist through the 
+weekend.
+
+Despite the ample cloud cover and general unsettled conditions this 
+week, temperatures should be right around average for this time of 
+the year with highs each day in the low to middle 80s.
+
+&&
+
+.AVIATION /21Z SUNDAY THROUGH FRIDAY/...
+High pressure this afternoon weakens tonight and Monday as a weak 
+wave of low pressure approaches from the south.
+
+VFR through this evening with mostly MVFR/IFR developing 
+overnight. Improvement back to mostly VFR on Monday, however showers 
+with a chance of thunderstorms starting at around noontime bring 
+lower flight categories.
+
+S-SW winds 10-15kt with gusts around 20kt bcmg more southerly 
+tonight and diminishing. Winds pick up from the south on Monday, 
+increasing back to 10-15kt with possible gusts around 20kt.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Gusts today may be only occasional.  
+
+.OUTLOOK FOR 18Z MONDAY THROUGH FRIDAY... 
+
+Monday through Friday: Primarily VFR each day with mainly afternoon 
+and evening showers/tstms possible with MVFR or IFR cond. Highest 
+chance exists from late Mon through Tue evening. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+A few gusts close to 25 kt are possible on the ocean this 
+afternoon/evening. Otherwise, conditions will remain below
+SCA levels on the waters through Monday. Seas begin building 
+Monday night into Tuesday and may approach 5 ft east of Moriches
+Inlet into Tuesday night from a SE swell. Generally weak flow 
+will result in sub-SCA conditions on all waters through at least
+Friday.
+
+&&
+
+.HYDROLOGY...
+Locally torrential downpours are possible late Monday morning into 
+Monday evening, especially across NE NJ, NYC metro, and Lower Hudson 
+Valley. This activity could produce localized flash flooding and WPC 
+has this area in a Marginal risk for excessive rainfall. The risk 
+for locally torrential downpours and localized flash flooding 
+remains possible on Tuesday for the entire area. WPC has maintained 
+a marginal risk for excessive rainfall for Tuesday.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+The rip risk for all beaches will be moderate both Monday and
+Tuesday. Surf heights around four ft are likely over the 
+period, but may increase to near 5ft by Tuesday, especially 
+across NYC, Nassau and western Suffolk beaches.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Air Quality Alert until 11 PM EDT this evening for CTZ005-009.
+     Air Quality Alert from 11 AM to 11 PM EDT Monday for CTZ005-
+     009.
+NY...Air Quality Alert until 11 PM EDT this evening for NYZ069>075-
+     176-178.
+NJ...Air Quality Alert until 11 PM EDT this evening for NJZ002-004-
+     006-103>108.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...DS/MW
+NEAR TERM...DS
+SHORT TERM...DS
+LONG TERM...
+AVIATION...JC
+MARINE...DS/MW
+HYDROLOGY...DS/MW
+TIDES/COASTAL FLOODING...

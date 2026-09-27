@@ -1,0 +1,200 @@
+284 
+FXUS61 KOKX 240723
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+323 AM EDT Thu Jul 24 2025
+
+.SYNOPSIS...
+High pressure remains offshore through today and moves farther 
+offshore tonight into Friday. A cold front moves through the 
+area late Friday into Friday evening. High pressure builds back 
+into the area Friday night into Saturday. A frontal system 
+begins to impact the area Saturday night, and moves across the 
+area on Sunday. High pressure then builds in for Monday and 
+Tuesday. A cold front moves across the region mid-week.
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+Offshore high pressure remains in control today with dry
+weather, and temperatures rising to a few degrees above normal.
+Also, with a return flow dew points will be increasing through
+the day.
+
+&&
+
+.SHORT TERM /6 PM THIS EVENING THROUGH SATURDAY NIGHT/...
+Key points...
+
+* A Heat Warning has been issued for much of Northeastern New
+  Jersey for Friday. And Heat Advisories remain in effect for
+  much of the remainder of the region Friday.
+
+* Isolated to scattered severe thunderstorms possible Friday
+  afternoon, with damaging wind gusts the primary threat.
+
+Offshore high pressure moves farther offshore tonight as the
+upper ridge weakens with the approach of a longwave trough
+moving into eastern Canada and into upstate New York and
+Northern New England. The upper flow is nearly zonal across the
+northern tier of the country allowing for a progressive flow. 
+Return flow continue into Friday with increased heat and 
+humidity. The Heat Watch for much of Northeastern New Jersey 
+was converted to an Extreme Heat Warning for Friday with heat 
+indices still forecast to peak at 105 to around 107. And the 
+Heat Advisory remains in effect for all but Southern New London 
+County, and Southeastern Suffolk County. Across the advisory 
+heat indices peak at 100 to 104. There still is the chance that 
+warning criteria will not be met as clouds will be increasing 
+ahead of an approaching cold front that moves through the 
+region Friday afternoon, and south of the area Friday evening. 
+Also, with the elevated heat record high temperatures may be 
+tied or broken at the climate sites. See the climate section for
+details.
+
+There will be a chance of showers and thunderstorms with the
+passage of the cold front Friday, and the area remains in a
+marginal risk for isolated severe storms, with damaging wind
+gusts the primary threat. The best forcing will be to the north
+of the area as shortwave energy rotates through the longwave
+upper trough. CAPE increases to 500 to around 1000 J/kg Friday
+afternoon, with shear of 20 to 30 kt, along with surface
+instability. Inverted V soundings Friday afternoon indicate the
+potential for strong to damaging wind gusts. The flood threat 
+is minimal as the storms are forecast to be rather quick moving,
+at 25 to 30 mph, with training not expected. Any of the storms 
+could produce briefly heavy rainfall and any flood threat will 
+be isolated. And the area is not in an excessive outlook for 
+Friday.
+
+Dry weather returns Friday evening into Saturday as high
+pressure builds to the north. A frontal system begins to
+approach late Saturday night with a chance of showers and 
+thunderstorms.
+
+&&
+
+.LONG TERM /SUNDAY THROUGH WEDNESDAY/...
+The NBM was followed through the long term with just a few 
+cosmetic changes.
+
+Key Points:
+
+* Showers and thunderstorms expected on Sunday with the passage of a 
+  cold front. Some thunderstorms will be capable of gusty winds and 
+  heavy rainfall. 
+
+* Dry but hot conditions expected Monday and Tuesday, with Tuesday 
+  being the warmest day of the week. Temperatures Tuesday will be in 
+  the lower and middle 90s with the potential for heat index values 
+  exceeding 100 in spots. Heat headlines may be needed Monday and 
+  Tuesday with the potential for Wednesday. 
+
+* A cold front moves across the area mid-week. This will end the
+  2-3 days of hot and humid conditions. 
+
+&&
+
+.AVIATION /06Z THURSDAY THROUGH MONDAY/...
+VFR.
+
+Southerly winds become light SW to light and variable through 
+12Z. Winds then pick back up out of the SSW after 12Z and 
+increase to 10-15kt with gusts up to 25kt possible through about
+00Z, tapering thereafter. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Can not rule out a few occasional guts over 25kt. Timing of 
+gusts may be +/- 1 hour from TAF.
+
+.OUTLOOK FOR 06Z FRIDAY THROUGH MONDAY... 
+
+Friday: VFR likely through morning, possibly followed by periods of 
+sub VFR in showers and thunderstorms for the afternoon and
+evening. Southwest winds G15-20kt.
+
+Saturday: VFR with widely scattered showers and thunderstorms 
+during the afternoon and at night possible.
+
+Sunday: Mainly VFR. MVFR or lower possible in any showers or
+thunderstorms.
+
+Monday: Mainly VFR.
+
+Detailed information, including hourly TAF wind component 
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Winds and seas remain below advisory levels across the forecast
+waters today through Saturday night. However, wind gusts on the
+ocean waters may briefly approach 25 kt early this evening. With
+low confidence in occurrence, and short duration, have not
+issued a Small Craft Advisory. Isolated severe thunderstorms are
+possible ahead of a cold front Friday, which may produce wind
+gusts in excess of 35 kt.
+
+Winds and seas are forecast to largely remain below Small Craft 
+Advisory criteria Sunday through early next week.
+
+&&
+
+.HYDROLOGY...
+Localized minor urban and poor drainage flooding is possible 
+with isolated to scattered thunderstorm activity Friday
+afternoon.
+
+Showers and thunderstorms associated with a frontal system 
+could produce locally heavy downpours on Sunday that result in 
+nuisance flooding, but the overall flood threat appears low at 
+this time.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+There is a moderate risk for the development of rip currents at
+the ocean beaches today and Friday.
+
+&&
+
+.CLIMATE...
+Daily record high temperatures maybe be tied or broken Friday 
+July 25th. Here are the current records for the day...
+
+EWR 99/2016 
+BDR 93/2001 
+NYC 97/1999 
+LGA 97/1999 
+JFK 93/2010 
+ISP 94/1987
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Air Quality Alert from 11 AM this morning to 11 PM EDT this 
+     evening for CTZ005>007.
+     Heat Advisory from 11 AM to 8 PM EDT Friday for CTZ005>011.
+NY...Heat Advisory from 11 AM to 8 PM EDT Friday for NYZ067>075-
+     078>080-176>179.
+NJ...Heat Advisory from 11 AM to 8 PM EDT Friday for NJZ002.
+     Extreme Heat Warning from 11 AM to 8 PM EDT Friday for NJZ004-
+     006-103>108.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...BC/MET
+NEAR TERM...MET
+SHORT TERM...MET
+LONG TERM...BC
+AVIATION...BC
+MARINE...BC/MET
+HYDROLOGY...BC/MET
+TIDES/COASTAL FLOODING...
+CLIMATE...

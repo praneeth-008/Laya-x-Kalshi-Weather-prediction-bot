@@ -1,0 +1,204 @@
+623 
+FXUS61 KOKX 130717
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+317 AM EDT Wed Aug 13 2025
+
+.SYNOPSIS...
+A cold front approaches today into tonight. The front then 
+slowly moves across the region on Thursday. The front moves 
+offshore Thursday night. High pressure will then build across 
+the area from Southeast Canada thereafter into the start of the
+weekend. High pressure builds over the region through Saturday,
+before another cold front approaches from the Great Lakes on 
+Sunday, moving through Sunday night. The front may then stall 
+nearby as high pressure attempts to return from the north early 
+next week.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+A cold front approaches the region today. This cold front
+approaches western parts of the region by late today into
+tonight. There is not much forcing with the front. Bulk shear 
+0-6 km AGL max near 20 kt and surface CAPE max near 1000 to 
+2000 J/kg, so not expecting severe thunderstorms. However, some 
+thunderstorms could still be strong and could easily produce 
+heavy rain considering near 2 inches PWATs predicted over the 
+region.
+
+The SW flow continues today which could become gusty along the coast 
+this afternoon. The southerly winds decrease tonight and begin to 
+shift more westerly into early Thursday.
+
+Concerning the temperatures and heat indices, the forecast used the 
+NBM for the max temperatures but a blend of MET MOS, MAV MOS and NBM 
+for the dewpoints as dewpoints from NBM along seemed too high. Max 
+temperatures are overall pretty similar to the previous day although 
+the immediate coastlines are slightly cooler. Max temperatures range 
+from near 80 to near 90. Max heat indices are in the mid to upper 
+90s for parts of NYC, parts of Northeast NJ, parts of the Lower
+Hudson Valley as well as parts of Southern CT. Otherwise, 
+mostly lower 90s for max heat indices. Taking the previous day 
+heat indices into account, conditions are expected to remain 
+below heat advisory thresholds across the area today.
+
+&&
+
+.SHORT TERM /THURSDAY THROUGH FRIDAY NIGHT/...
+Cold front eventually moves through the region Thursday and
+offshore into the evening hours. There will still be chances 
+for showers and thunderstorms remain across the region.
+
+With a lack of bulk shear (still max appears to be near 20 kt 
+0-6 km AGL) as well as CAPE limited to near 1000 to 1500 J/kg 
+again not expecting any severe thunderstorms. However, lessening
+steering flow aloft will allow for slower moving thunderstorms 
+and for multiple rounds of showers and thunderstorms. 
+
+Because of this, went a little lower with max temperatures. For
+parts of the region, northerly flow develops which will help 
+limit dewpoints. 
+
+Overall expecting a cooler but still somewhat humid day. Max 
+temperatures range within the 80s, highest around NYC Metro and 
+parts of the interior, upper 80s. Max heat indices with dewpoints 
+mainly upper 60s to near 70, mainly lower 90s. 
+
+High pressure from Southeast Canada builds into the region Thursday 
+night through Friday night. Mainly dry conditions are expected 
+Thursday night. Dry conditions are expected Friday through Friday 
+night.
+
+Flow becomes more northerly Thursday night and then more
+easterly Friday and Friday night. Lower dewpoints are expected,
+down more in the 60s. Temperatures Friday will be similar to
+those of Thursday but the lower dewpoints make for heat indices
+nearly the same as the actual temperature. Low temperatures
+trend cooler Friday night (near 60 to near 70) compared to 
+Thursday night (low 60s to low 70s).
+
+&&
+
+.LONG TERM /SATURDAY THROUGH TUESDAY/... 
+No significant changes made and the NBM was followed for this 
+period.
+
+Relatively quiet and pleasant start to the weekend with ridging in 
+place and surface high pressure building over the region. Dry 
+conditions prevail Saturday as a result, with temperatures close to 
+normal for mid August, generally low to mid 80s. The high shifts 
+offshore and flow in the low levels becomes SW Saturday night. A 
+cold front begins to advance south and east toward the region Sunday 
+as broad troughing slides east over Canada. This introduces the next 
+chance for showers and thunderstorms by Sunday afternoon as a 
+prefrontal trough moves in. The SW flow helps advect in some warmer 
+air ahead of the boundary, and Sunday looks to be the hottest day of 
+the period, with upper 80s and low 90s for most away from the coast. 
+Doesn't appear at this point though that sufficient moisture in the 
+BL will be present to allow for super sultry conditions, so heat 
+indices near or just above those air temperatures wouldn't warrant 
+a heat advisory as it stands now.
+
+While high pressure attempts to build in behind the frontal passage, 
+the boundary appears likely to linger nearby early next week as a 
+broader trough remains in place over eastern Canada and extends into 
+the Northeast, keeping ridging to the west. A developing frontal 
+wave off to the west could keep chances for precip at times Monday 
+and Tuesday, but confidence at this point is low.
+
+&&
+
+.AVIATION /07Z WEDNESDAY THROUGH SUNDAY/...
+Offshore high pressure gives way to a cold front approaching from 
+the Great Lakes through the day.
+
+Mainly VFR to start, exception being possible MVFR/IFR cigs and 
+vsbys developing at eastern terminals into the morning, primarily 
+KGON, though perhaps KBDR and KISP as well. Approaching cold front 
+introduces chances for scattered showers and thunderstorms this 
+afternoon and evening. Thunderstorm threat generally between 20Z on 
+the early side through around 3Z Thu, with some lingering showers 
+possible overnight. Best chances for TSRA at NYC terminals between 
+21Z and 1Z.
+
+Light VRB/SW winds early this morning, before ramping up toward 10 
+kt or so, and backing more to the S by afternoon. Flow lightens 
+tonight once again and becomes vrb at most terminals.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Low chance for MVFR cigs/vsbys early this morning.
+
+Timing of aft/eve convection may be off by an hour or two.
+
+.OUTLOOK FOR 06Z THURSDAY THROUGH SUNDAY... 
+
+Late tonight: Chance of a few lingering showers with MVFR conds 
+possible.
+
+Thursday: Mainly VFR. Chance of showers and thunderstorms. 
+
+Thursday night-Sunday: VFR. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+The pressure gradient will be rather weak through tonight and
+into the start of the weekend. Conditions on the waters are
+expected to remain below small craft advisory (SCA) thresholds.
+
+With a weak pressure gradient in place, winds and seas are expected 
+to remain below SCA criteria this weekend and early next week.
+
+&&
+
+.HYDROLOGY...
+Minor nuisance flooding within urban, low-lying, and poor
+drainage areas is possible with heavy showers and thunderstorms
+this afternoon through Thursday.
+
+PWATS near 2 inches and slower thunderstorm movement as well as
+training of cells will enable for multiple periods of heavy
+showers and thunderstorms. Any flooding should be quite localized.
+
+Overall basin averaged rainfall amounts range from near a
+quarter to near 1 inch of rainfall this afternoon through early
+Thursday evening.
+
+Otherwise, there are no significant hydrological concerns
+thereafter through early next week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+The rip current risk for Wednesday and Thursday is moderate at 
+the New York City ocean beaches, and low at Nassau and Suffolk 
+ocean beaches.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Air Quality Alert from 11 AM this morning to 11 PM EDT this 
+     evening for CTZ005>007.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JM/DR
+NEAR TERM...JM
+SHORT TERM...JM
+LONG TERM...DR
+AVIATION...DR
+MARINE...JM/DR
+HYDROLOGY...JM/DR
+TIDES/COASTAL FLOODING...

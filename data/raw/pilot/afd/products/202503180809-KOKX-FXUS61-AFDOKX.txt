@@ -1,0 +1,192 @@
+754 
+FXUS61 KOKX 180809
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+409 AM EDT Tue Mar 18 2025
+
+.SYNOPSIS...
+High pressure builds across today and settles over the region 
+through mid week. A frontal system approaches from the west 
+Thursday, passing through Thursday night as a coastal low 
+develops along the boundary. The system pulls away Friday as the
+low deepens, and high pressure briefly returns into Saturday. A
+weak area of low pressure moves through Saturday night, with 
+another frontal system expected to approach early next week.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+All the mid level energy that brought rain early this week cuts off 
+and drifts off the eastern seaboard. In its wake an elongated ridge 
+of high pressure will build into the region today. The ridge will 
+amplify in the mid levels which will prevent anything in the way of 
+cloud cover for most of the area. For eastern most sections some 
+clouds will be around for the first half of the day. Otherwise, 
+expect plenty of sunshine with a northerly flow which advects in dry 
+air. There should be enough of a northerly synoptic flow to minimize 
+the formation of a sea breeze. Perhaps late in the day the sea 
+breeze could initiate as the synoptic flow lightens some. Before 
+then there could be some occasional gusts through midday. Otherwise 
+the north flow gradually lightens through the afternoon. 
+Temperatures will average above normal with widespread middle and 
+upper 50s closer to the coast, with mainly lower and a few middle 
+60s further west and well inland.
+
+Clear skies and light to calm winds will be the theme tonight. This 
+should pave the way for chilly conditions with a good radiational 
+cooling set up. Lows will range from near to just below freezing in 
+the coolest spots and mainly 30s, with some lower and middle 40s in 
+the more urban areas.
+
+&&
+
+.SHORT TERM /WEDNESDAY THROUGH WEDNESDAY NIGHT/...
+Deep layer ridging will be over the area with sfc high pressure 
+directly overhead. With the lack of any synoptic flow regime, look 
+for diurnally driven sea breezes to initiate with daytime heating. A 
+south to southeast flow will gradually push N and NW through the 
+area during the afternoon. Max temperatures will be reached earlier 
+in the day along coastal locations. There will be a large spread in 
+temperatures by late afternoon with lower and middle 60s further 
+inland, to near 50 for coastal communities.
+
+For Wednesday night the winds will be light out of the SE. Some of 
+the soundings are indicating a low level inversion and the 
+possibility of the formation of low clouds / stratus, especially 
+further east and south across the area. Have included low end chance 
+of drizzle for southern portions of the area later at night. Minimum 
+temperatures will likely range from the middle 30s well inland, to 
+the lower 40s closer to the coast and in the NYC metro.
+
+&&
+
+.LONG TERM /THURSDAY THROUGH MONDAY/...
+Key Points: 
+
+* Rain returns late Thursday, with a possible change to snow in some 
+  areas as a frontal wave develops nearby and deepens into Friday 
+
+* Gusty NW flow behind the system could exceed 40 mph at times Friday
+
+* Next chance for widespread precipitation then looks to arrive 
+  Monday into Tuesday of next week 
+
+Ridging exits offshore to start the period ahead of an amplifying 
+trough off to the west. Low pressure leading it cuts through the 
+Great Lakes on Thursday, dragging a cold front toward the area 
+Thursday night. With increasing southerly flow prior to the arrival, 
+PWATs climb toward an inch, or around the 90th percentile and the 
+max moving average for this time of year per SPC. Anticipate a solid 
+stream of rain along and ahead of the front to move in by the 
+evening Thursday, persisting overnight into Friday. As the front 
+moves through, low pressure develops, aided by a southern stream jet 
+and quickly deepens nearby. This leads to an increasing pressure 
+gradient late Thursday night into Friday morning and strong NW flow 
+on the back side of the system could help advect colder air down 
+enough to allow a quick change from rain to snow early Friday 
+morning across the interior, and perhaps even down to the coast for 
+a brief period. A number of factors working against much in the way 
+of accumulation, though a light accum is possible in the elevated 
+interior should sufficient rates be realized with soundings hinting 
+at a saturated DGZ for a period. The deep trough over the Central-
+Eastern US moves over the area Friday, leading the surface low to 
+exit northeast towards the Canadian Maritimes later Friday into 
+Friday night. Total QPF appears to average around an inch for this 
+system.
+
+Gusty NW flow Friday with CAA helping deepen the mixing layer. Gusts 
+could exceed 40 mph into the afternoon before gradually subsiding 
+into Friday night. 
+
+Conditions briefly calm into the start of the weekend as high 
+pressure returns. Thereafter, a weak disturbance looks to pass thru 
+late Saturday, perhaps bringing a few rain showers as it does so. 
+Global guidance continues to advertise a more potent frontal system 
+approaching from the west early next week, though timing and 
+placement differences continue to offer a variety of solutions.
+
+&&
+
+.AVIATION /08Z TUESDAY THROUGH SATURDAY/...
+High pressure to the west gradually builds in through the period.
+
+VFR thru the TAF.
+
+NW flow 10 to 15 kt, with gusts 20 to 25 kt thru the morning. Gusts 
+may hang on til 16Z or so before subsiding, with speeds then 
+lightening to under 10 kt into late day. Flow goes light and vrb 
+into the evening with nearby high pressure, and this persists 
+overnight into Wednesday.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No unscheduled amendments expected.
+
+.OUTLOOK FOR 06Z WEDNESDAY THROUGH SATURDAY...
+
+Tuesday Night through Wednesday: VFR.
+
+Thursday: IFR/LIFR cigs possible in the morning mainly E of the NYC 
+metros, and MVFR to IFR NYC metros and W. Chance of showers late in 
+the day, and likely at night, with MVFR to IFR conditions.Snow 
+showers possible well inland late Thursday night. S winds 10-15 kt 
+with G20-25 kt, winds shifting W and NW during the evening into the 
+night.
+
+Friday: MVFR, possibly IFR, with a chance of rain showers along the 
+coast, and snow/rain showers inland, ending west to east through the 
+day, and becoming VFR. NW wind 15-25 kt with G30-40kt, diminishing 
+at night.
+
+Saturday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Small craft conditions will persist on the ocean waters with 
+elevated seas as northerly winds gradually come down during the 
+course of the day. For much of tonight small craft seas of around 5 
+ft may persist across the central and eastern ocean. Sub small craft 
+conditions are anticipated on Wednesday as high pressure settles 
+over the waters with a SE flow developing late in the day and into 
+Wednesday night.
+
+Ocean seas climb toward 5 or 6 ft Thursday afternoon, before 
+increasing southerly flow ahead of a frontal system brings SCA 
+conditions to all remaining waters late Thursday night or Friday 
+morning as wind gusts exceed 25 kt. Gales possible on all waters 
+Friday. Ocean seas peak 7 to 9 ft Friday, lowering below 5 ft by 
+Saturday afternoon, then sub SCA conditions expected on all waters.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts are expected throughout the forecast period.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 10 AM EDT this morning for ANZ331-
+     332-335-338-340-345.
+     Small Craft Advisory until 6 AM EDT Wednesday for ANZ350-353.
+     Small Craft Advisory until 6 PM EDT this evening for ANZ355.
+
+&&
+
+$$
+
+SYNOPSIS...JE/DR
+NEAR TERM...JE
+SHORT TERM...JE
+LONG TERM...DR
+AVIATION...DR
+MARINE...JE/DR
+HYDROLOGY...JE/DR

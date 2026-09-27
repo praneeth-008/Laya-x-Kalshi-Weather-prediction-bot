@@ -1,0 +1,232 @@
+455 
+FXUS61 KOKX 180019
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+819 PM EDT Thu Apr 17 2025
+
+.SYNOPSIS...
+High pressure settles south of the area tonight and moves offshore 
+into Friday. A cold front approaches late Saturday and moves through 
+Saturday night into early Sunday morning. High pressure then follows 
+into early Monday before the next frontal system late Monday through 
+Tuesday. High pressure then follows into Wednesday with potential of 
+another front for Thursday.
+
+&&
+
+.NEAR TERM /THROUGH FRIDAY/...
+Forecast on track this evening. A weak pressure gradient gets 
+established through tonight with high pressure settling to the 
+south down towards the Lower Mid Atlantic coast. BUFKIT 
+soundings indicate a dry column throughout. Light to calm winds 
+should result in a good degree of radiational cooling in the 
+locations that aren't as urban. Used a MAV/MET blend for 
+temperatures. With dew points slightly higher than the previous 
+night and with a much better radiational cooling set up look for
+widespread middle and upper 30s outside of the metro. Some of 
+the interior valley locations could very well get to freezing. 
+Frost advisories will continue for tonight and early Fri AM for 
+zones that have begun their growing season. In these locations 
+there should be a good amount of middle 30s with calm winds 
+allowing for frost formation.
+
+With the high getting offshore on Friday the return flow begins to 
+get established quickly. Towards the early afternoon coastal 
+locations will notice a ramp up with a wind out of the south. Into 
+lower Queens / Brooklyn / So. Nassau especially by late in the 
+afternoon some winds could gust up to 30 mph as a coastal near sfc 
+Ambrose type jet attempts to get going. There will also be a 
+distinct west to east temperature line of demarcation during the 
+afternoon with cooler 50s for eastern coastal sections, with the 
+western Hudson Valley and NE NJ flirting with or getting to 70. Some 
+mid and upper level clouds will push in during the afternoon.
+
+&&
+
+.SHORT TERM /FRIDAY NIGHT THROUGH SATURDAY/...
+Friday night will feature more in the way of clouds along with more 
+of an advective set up. Temperatures will be much milder / warmer 
+than the past few nights. Clouds and a southerly wind, with more of 
+a breeze closer to the immediate coast will result in near steady or 
+slowly rising temperatures. Locations further inland where a wind 
+off the colder ocean will be absent are going to likely rise with 
+regard to temperatures. Some middle and upper 50s are likely across 
+western areas, and further east closer to 50 or in the lower 50s. 
+Dew point readings for western portions of the area are likely to 
+get into the lower 50s by Saturday morning.
+
+On Saturday the region will be in a strong synoptic SW flow regime. 
+Thicknesses (1000-500mb) will get towards 564 dm. The big question 
+is how much of a westerly dominant component will there be to the 
+winds. Just a slight 20 degree variance will make all the difference 
+in the world for the more eastern and immediate coastal sections. 
+For now due to model agreement have gone a bit above guidance. NBM 
+tends to not be very useful this time of year with the cold ocean 
+and with this type of wind set up. Looking for temperatures to warm 
+everywhere quickly during the morning. By the early afternoon 
+temperatures will be well into the 70s and some lower 80s west. May 
+be a bit too cool for eastern most locations, but this can be fine 
+tuned over the next 24 hours and new guidance comes in. In any event 
+Saturday will be by far the warmest day in terms of widespread 
+warmth. Middle 80s for max temps looks like a good bet across 
+western and southwestern portions of the area. It is not completely 
+out of the question that record max temperatures could be 
+approaching for some of the climate stations. However, there is a 
+bit of uncertainty regarding mid level cloud cover which could 
+impact the temperature verification by a few degrees. In any event 
+it will be quite warm. At this point Saturday looks primarily dry as 
+the frontal system off to the west appears to undergo some weakening 
+and runs into strong mid and upper level ridging with showers likely 
+not progressing far enough to the east to reach the area.
+
+&&
+
+.LONG TERM /SATURDAY NIGHT THROUGH THURSDAY/...
+Anomalously strong ridging across the southeastern US will become a 
+bit suppressed Saturday night. A closed low will also swing across 
+southeast Canada. This will allow a cold front to sag south of the 
+area Saturday night. There is little to no lift with the front as it 
+comes through, but will leave in a slight chance PoP for the first 
+half of the night. High pressure then builds over New England 
+through Sunday night. The main weather change behind the front will 
+be a significant drop in temperatures and dew points for Sunday 
+compared to Saturday. Temperatures however will still run above 
+normal, but only be in the lower to middle 60s compared to the 70s 
+and 80s that are forecast on Saturday. 
+
+Ridging aloft and at the surface Sunday night will push offshore on 
+Monday. This will allow a warm front to lift to the north through 
+Monday night, which will be quickly followed by a cold front passage 
+on Tuesday. The retreating high pressure on Monday will set up a SE 
+flow which will keep temperatures cooler and largely in the upper 
+50s to low 60s. Probabilities for showers are initially low Monday 
+night, but increase once the warm front lifts across the area late 
+Monday night into early Tuesday morning. The shower chances coincide 
+with a bit better forcing as a middle and upper level trough moves 
+across the region. The actual cold front will follow Tuesday 
+afternoon and evening. The cold front should pass through dry as 
+heights aloft start rising and any larger scale support moves well 
+NE of the area. Temperatures on Tuesday push back above normal with 
+highs in the mid to upper 60s for most spots except portions of NE 
+NJ and Lower Hudson Valley where low 70s are possible. 
+
+Ridging returns aloft and at the surface for Wednesday. The pattern 
+remains progressive with potential of another frontal system moving 
+across the area at some point Thursday or Thursday night. Modeling 
+differs on the amplitude of the next shortwave and associated lift 
+and moisture return. The model consensus is currently only depicting 
+a 20 percent chance for showers late Thursday, which seems 
+reasonable at this time range. Temperature should remain above 
+normal Wednesday and Thursday.
+
+&&
+
+.AVIATION /00Z FRIDAY THROUGH TUESDAY/...
+High pressure builds across the area tonight and then offshore
+on Friday. A warm front approaches from the SW Friday evening.
+
+VFR through the TAF period. 
+
+Winds will drop off quickly over the next few hours as high
+pressure builds across the area. Expect winds to become light
+and variable. SSW winds ramp up Friday morning, increasing to 15
+to 20 kt with gust to around 25 kt. Some of the coastal terminals
+right along the water, KJFK, KBDR, and KGON may see less 
+gustiness. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Gusts may be more occasional at KJFK Friday afternoon, but with
+sustained winds around 20kt. 
+
+.OUTLOOK FOR 00Z SATURDAY THROUGH TUESDAY...
+
+Friday Night: VFR. S winds G20-25kt early. SW LLWS with 45-50kt
+at 2kft. A sprinkle possible in the evening.
+
+Saturday: Mainly VFR. Slight chance of showers aft 18Z. SW 
+winds gusting to around 30kt.
+
+Sunday: VFR. NW wind gusts 15-20kt possible.
+
+Monday: VFR early, then sub VFR late day and at night with a chance 
+of showers.
+
+Tuesday: Becoming VFR with W winds.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+With high pressure nearby and a light pressure gradient sub advisory 
+conditions prevail into Friday morning. However, as the high gets 
+offshore the winds increase out of the south into Friday afternoon. 
+Thus, small craft conditions are expected to develop, mainly for the 
+western near shore waters and also a portion of the western ocean 
+waters as an Ambrose jet attempts to get going with gusts up to 25 
+kt, potentially up to 30 kt at the shoreline for the southwestern 
+most nearshore waters. There will likely be a period during Friday 
+night where winds across the waters will be closer to 20 kt and more 
+marginal in terms of small craft criteria due to colder waters. 
+During Friday evening seas get closer to 5 ft with small craft seas 
+expected to last out on the ocean through the day Saturday. Small 
+craft winds around 25 kt at times are expected for all waters during 
+Saturday.
+
+S swells will likely continue Saturday night leading to SCA seas on 
+the ocean. The swells subside Sunday morning, but some lingering 5 
+ft seas are possible, especially east of Moriches Inlet. Conditions 
+will otherwise remain below SCA levels Saturday night through 
+Tuesday with a relatively weak pressure gradient over the
+waters.
+
+&&
+
+.FIRE WEATHER...
+An SPS continues due to an elevated threat of wildfire spread 
+until 8 pm this evening for the Lower Hudson Valley, the New 
+York City Metro, and Long Island. This was collaborated with 
+neighboring WFOs and NY State land manager due to drying fuels.
+
+For Friday at this time it is likely that there will be no headlines 
+or products with marginal fire spread conditions. Conditions 
+will be marginal for the late morning and early afternoon on 
+Friday. Just as the winds pick up RH levels will attempt to rise
+some for most of the area with a southerly wind during the 
+afternoon and evening. Any window for potential fire spread
+appears to be short.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through the middle of next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Frost Advisory from 2 AM to 8 AM EDT Friday for CTZ010>012.
+NY...Frost Advisory from 2 AM to 8 AM EDT Friday for NYZ079-081.
+NJ...None.
+MARINE...Small Craft Advisory from 6 AM to 6 PM EDT Saturday for ANZ331-
+     332-340.
+     Small Craft Advisory from 2 PM Friday to 6 PM EDT Saturday for 
+     ANZ335-338-345-355.
+     Small Craft Advisory from 6 PM Friday to 6 PM EDT Saturday for 
+     ANZ350-353.
+
+&&
+
+$$
+
+SYNOPSIS...JE/DS
+NEAR TERM...JE/DS
+SHORT TERM...JE
+LONG TERM...DS
+AVIATION...DW
+MARINE...JE/DS
+FIRE WEATHER...
+HYDROLOGY...JE/DS

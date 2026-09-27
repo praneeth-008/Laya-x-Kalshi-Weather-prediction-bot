@@ -1,0 +1,210 @@
+680 
+FXUS61 KOKX 150845
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+345 AM EST Sat Feb 15 2025
+
+.SYNOPSIS...
+High pressure will build across through Saturday. Low pressure
+will pass through Sunday, bringing a cold front through Sunday
+evening. High pressure will then slowly build from the west from
+Monday through Wednesday. Low pressure organizing along the 
+northern Gulf Coast on Wednesday will then move up the Southeast
+coast Wednesday night and intensify into a major winter storm 
+off the Mid Atlantic coast Thursday into Thursday night, which 
+should then move east of New England on Friday.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM THIS MORNING/...
+The forecast remains on track for this overnight update. Only 
+minor adjustments were made. 
+
+High pres settles across overnight. Winds have decreased with
+predominantly light winds mid and high clouds beginning to 
+lower some ahead of the next sys. More in the way of clouds keep
+temps from completely bottoming out, as the NBM with minor 
+adjustments was used.
+
+&&
+
+.SHORT TERM /6 AM THIS MORNING THROUGH 6 PM SUNDAY/...
+The modeling remains consistent for the weekend storm. Timing of 
+the onset of snow generally holds off until 18Z or later per the
+consensus. Could be some initial flakes invof Port Jervis prior
+to that time. The snow increases in intensity late in the aftn 
+and eve, then transitions to sleet and rain from S to N aft 00Z.
+Across the interior, the pcpn transitions to PL and FZRA 
+instead, before warming abv freezing Sun mrng. The raw model 
+blend looked best to lock in the cold llvl air across the 
+interior so went close to that for temps Sun. Some cstl/ern 
+areas could be in the lower 50s while nwrn interior remains in 
+the 30s. 
+
+Trended snow totals slightly lower with the surge of WAA, but
+did not want to pull back too much yet with an initial few 
+hours of mdt to locally hvy snow at the front end of the sys.
+
+No changes to icing amounts. Up to a quarter inch of ice seems 
+on track for this sys. As always, there is some uncertainty wrt 
+exact transition times. It is possible that the advy may need to
+be extended a few hours longer Sun mrng for the extreme nwrn
+tier where light flow around 070 is locked in, but no changes 
+to the advy have been made attm.
+
+&&
+
+.LONG TERM /SUNDAY NIGHT THROUGH FRIDAY/...
+Key Points:
+
+* Colder and windy conditions expected early next week after a cold 
+  frontal passage Sunday night.
+
+* Potential is increasing for a major winter storm from Wednesday 
+  night into Thursday night. 
+
+Complex pattern developing over North America during this time 
+should help lock in cold air, with one large closed low developing 
+over eastern Canada and another in its wake over the northern Plains 
+and upper Great Lakes. At the surface, strong low pressure moving 
+from upstate New York toward the Canadian Maritimes Sunday night 
+will bring a cold front through, with colder and brisk conditions 
+for Monday and possibly into Tuesday via a tight pressure gradient 
+between the low and strong high pressure off to the west. 
+
+Meanwhile, shortwave energy moving onshore the West Coast early
+next week should dive toward the southern Plains by Wed AM and
+initiate sfc cyclogenesis along the northern Gulf coast daytime
+Wed. The degree to which this system phases with the northern 
+Plains closed low will determine the track and intensity of the 
+developing sfc low as it moves up the Southeast coast Wed night 
+and then off the Mid Atlantic coast Thu/Thu night, pulling away 
+on Fri. There is increasing potential for a major winter storm 
+to impact the area from Wed night into Thu night with heavy snow
+during this time, also strong N winds Thu night--the 12Z ECMWF 
+ensemble control run shows an intense low off the Mid Atlantic 
+coast passing just outside the 40N/70W benchmark Thu night, 
+bringing major snowfall for all the I-95 cities from DC to 
+Boston, with its axis of heaviest snowfall very close or just 
+south and east which makes sense given that storm track, while 
+the ensemble control run shows widespread 50-60% potential for 6
+or more inches of snow during this time. The Canadian model and
+its ensemble are in close agreement, while the deterministic 
+GFS/ICON are suppressed, showing the heaviest snow mostly away 
+from the big cities, impacting eastern Delmarva and southern NJ 
+over to the Cape and Islands of MA. That said, the GEFS does 
+show some ensemble members supporting the ECMWF/Canadian 
+solution. Enough confidence in winter storm potential exists to 
+include mention in the HWO.
+
+&&
+
+.AVIATION /09Z SATURDAY THROUGH WEDNESDAY/...
+High pressure moves overhead overnight. Low pressure approaches 
+later today and passes through into Saturday night.
+
+VFR through this morning. Cigs and vsbys lower through this 
+afternoon and this evening. Cigs and vsbys remain low into Saturday 
+evening.
+
+Winds become light and variable over the next several hours, 
+remaining that way until the morning. Then southeasterly flow 
+develops under 10 kt through the end of the TAF period.
+
+Snow is develops this afternoon. MVFR vsby expected around 20Z, with 
+vsby as low as 3/4SM possible in pockets of steadier snow. Cigs 
+lower to MVFR around 20Z as well, with IFR cigs starting around 22Z-
+00Z. Snow transitions to rain along the coast in the evening and 
+inland overnight. A wintry mix remains at KSWF for the entire 
+overnight Sat into early Sun AM, including freezing rain.  
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Amendments possible for flight category changes to cigs and vsbys 
+with snow moving in Saturday afternoon. 
+
+.OUTLOOK FOR 06Z SUNDAY THROUGH WEDNESDAY... 
+Late Saturday night: IFR and possibly pockets of LIFR in rain for 
+most terminals, with FRZA at KSWF.
+
+Sunday: IFR or lower with rain. A chance of freezing rain at KSWF 
+early in the morning. LLWS possible, especially east of the city 
+terminals. S winds G20-25 kt.
+
+Monday: VFR with W winds G35-40kt.
+
+Tuesday: VFR with W winds G25 kt. 
+
+Wednesday: VFR daytime. Chance of snow towards evening and at 
+night with possible IFR.
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Based on latest obs showing winds below 25 kt but seas still 6
+ft at 44097 S of Block Island, have extended SCA E of Moriches
+Inlet until 10 PM. Winds and seas will then be below SCA lvls
+thru Sat. Winds and seas increase Sat ngt and Sun when SCA will
+likely be needed. 
+
+W gales are likely on the ocean and the ern Sound/Bays Sunday
+night ahead of and after a cold frontal passage, then on all 
+waters daytime Mon. Sustained winds on the ocean are likely to 
+reach gale force (35 kt) during this time, with gusts 40-45 kt,
+with sustained 30 kt winds and gusts 35-40 kt likely on the 
+non- ocean waters. Winds shift NW and diminish Mon evening but 
+should still be at gale force during the evening on all waters, 
+then on the ocean and open Sound waters late Mon night. SCA cond
+should follow for all waters on Tue, gradually subsiding Tue 
+night. 
+
+Quiet cond expected on all waters ahead of an approaching 
+winter storm beyond the end of the forecast period.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts are expected through next Fri.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Winter Weather Advisory from noon today to 7 AM EST Sunday for 
+     CTZ005>008.
+     High Wind Watch from Sunday evening through Monday afternoon 
+     for CTZ005>012.
+     Winter Weather Advisory from noon today to 1 AM EST Sunday for 
+     CTZ009>012.
+NY...Winter Weather Advisory from noon today to 7 AM EST Sunday for 
+     NYZ067-068.
+     High Wind Watch from Sunday evening through Monday afternoon 
+     for NYZ067>075-078>081-176>179.
+     Winter Weather Advisory from noon today to 1 AM EST Sunday for 
+     NYZ069>071.
+NJ...Winter Weather Advisory from noon today to 7 AM EST Sunday for 
+     NJZ002.
+     High Wind Watch from Sunday evening through Monday afternoon 
+     for NJZ002-004-006-103>108.
+     Winter Weather Advisory from noon today to 1 AM EST Sunday for 
+     NJZ004-103>105.
+MARINE...Gale Watch from Sunday afternoon through Monday evening for 
+     ANZ331-332-335-338-340-345.
+     Gale Watch from Sunday morning through Monday evening for 
+     ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JMC/BG
+NEAR TERM...JMC/BG/BR
+SHORT TERM...JMC
+LONG TERM...BG
+AVIATION...JE
+MARINE...JMC/BG
+HYDROLOGY...JMC/BG

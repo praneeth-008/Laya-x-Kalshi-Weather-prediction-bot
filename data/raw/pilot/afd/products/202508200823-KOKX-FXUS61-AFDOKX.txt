@@ -1,0 +1,219 @@
+122 
+FXUS61 KOKX 200823
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+423 AM EDT Wed Aug 20 2025
+
+.SYNOPSIS...
+A frontal system impacts the area today into tonight. Hurricane Erin 
+will pass well to the southeast from Thursday into Friday, bringing 
+indirect but significant impacts along the shoreline. High pressure 
+will return by late week, then a cold front will approach from the 
+west from Sunday into Monday. Please refer to NHC forecasts for 
+further information on Hurricane Erin.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Key Points
+
+* Life-threatening surf and rip currents at all Atlantic Ocean
+  beaches
+
+* Isolated flash flood threat at this time today into tonight as
+  a frontal system impacts the area
+
+A weakening frontal system approaches the area from the west
+today as hurricane Erin moves up the east coast of the US.
+Aloft, a shortwave trough approaches. Although the frontal 
+system is "weakening" it will still have a part in impacting the
+area today as it helps bring in some moisture from the west. 
+Showers are expected through much of the day as plenty of lift
+is available through the column with the help of the
+aforementioned shortwave, a right entrance region of an upper
+level jet and surface convergence. There remains uncertainty
+on how or if any interaction with Erin will occur, which would
+only further enhance rainfall. In coordination with WPC the
+marginal risk was kept over the area, but an upgrade is possible
+as trends are monitored this morning. One limiting factor will
+be the lack high hourly rainfall rates from the latest CAMs.
+This is likely due to the lack of deep convection. There is only
+very little elevated instability available. Kept slight chance,
+but confidence is low.
+
+&&
+
+.SHORT TERM /THURSDAY THROUGH FRIDAY NIGHT/...
+Key Points
+
+* Life-threatening surf and rip currents at all Atlantic Ocean
+  beaches continue
+
+The short term period will be dominated by the indirect but
+significant impacts along the shoreline from Hurricane Eric as 
+it passes well to the south east. See TIDES/COASTAL FLOODING 
+section below. 
+
+Otherwise, dry, but windy conditions are expected. Winds peak
+late Thursday into early Friday out of the NE with gusts up to
+20 to 30 mph for most and potentially isolated up to 40 mph
+across Long Island and the immediate coast. The 90th percentile
+NBM was blended in with the NBM due to the usual low NBM bias.
+
+&&
+
+.LONG TERM /SATURDAY THROUGH TUESDAY/...
+Went with the NBM Sat and beyond with little change to the 
+overall fcst thinking attm. Ridging at the sfc/aloft will build 
+in after Erin's departure. As this ridge moves east another 
+frontal system will approach on Sunday and pass through on 
+Monday, with chance of showers and possibly a tstm.
+
+&&
+
+.AVIATION /09Z WEDNESDAY THROUGH SUNDAY/...
+High pressure continues to move off the New England this morning
+as a frontal system approaches from the west through today and
+into tonight.
+
+VFR, becoming MVFR across the southern terminals around 10z, 
+and around 12Z northern terminals. IFR by late afternoon into 
+tonight. Timing of lowering conditions may be off an hour or 
+so. There is a chance of showers by mid morning, with widespread
+showers beginning during the afternoon and continuing into tonight.
+There is a low chance of a rumble of thunder late afternoon 
+into the early evening, however, with low confidence, and 
+isolated possibility, not included in the forecast.
+
+Winds E to NE less than 10 kt increase toward sunrise, and then
+to 10-15 kt by late morning. Gusts are likely during the 
+afternoon, although gusts may be more occasional. Winds back to 
+NE at 10-15 kt tonight.
+
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Gusts this afternoon may be more occasional. There may be a 
+rumble of thunder late afternoon into the early evening. Low 
+confidence in the occurrence, so not included in the forecast.
+
+Timing of lowering flight categories may be off by a couple of 
+hours.
+
+.OUTLOOK FOR 06Z THURSDAY THROUGH SUNDAY...
+
+Late tonight: IFR with showers. Toward Thursday morning wind 
+ENE gusts 20-25kt along the coast.
+
+Thursday: Chance of showers in the morning with MVFR/IFR cond 
+still possible. NE winds 15-20kt G25-35kt, highest along the 
+coast. Improving to VFR by evening. 
+
+Friday: VFR. NE-N winds 15G20-25kt in the morning. 
+
+Saturday: VFR. 
+
+Sunday: MVFR or lower possible in any showers.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+The Gale Watch on the ocean waters has been converted to a Gale
+Warning and all non-ocean waters are now under a Small Craft
+Advisory.
+
+As Hurricane Erin passes well to our southeast, an E/NE flow
+will increase to 25 to 35 kt with gusts up to 40 kt for the
+ocean waters and 20 to 25 kt with gusts up to 30 kt for non-
+ocean waters. Additionally, there will be a combination of a SE
+swell from Erin and an E wind wave. Significant wave heights
+could over the ocean waters could peak Thursday afternoon at 16
+to 18 feet, with occasional seas of 20+ feet. 5-8 foot waves
+also reach the eastern LI Sound and 5 foot waves are expected at
+the entrance of the NY Harbor.
+
+Please refer to National Hurricane Center forecasts for further
+information on Erin.
+
+&&
+
+.HYDROLOGY...
+There is a chance for areas of minor urban and poor drainage 
+flooding today into tonight due to a slow moving frontal system.
+In general, up to an inch of rainfall is expected across the 
+area. However, locally higher amounts of 2+ inches can not be 
+ruled out if persistent activity develops along the front. There
+will be a higher flash flood threat if tropical moisture from 
+Erin makes it into the area, with eastern areas the most likely 
+spots for this to occur late today into tonight. There is
+uncertainty if this connection will occur and trends will be
+monitored closely today. The WPC has kept the area in a marginal
+risk of excessive rainfall, but this risk could increase with
+future updates.
+
+Thereafter, there are no hydrologic concerns through early next
+week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+A High Surf Advisory and High Rip Current risk are in effect for
+all Atlantic Ocean beaches through Friday as swell from
+Hurricane Erin will bring life-threatening surf and rip
+currents. Additionally, a Coastal Flood Watch has been issued
+for all of southern LI, southern Queens, Brooklyn and Staten
+Island for the potential of widespread moderate flooding along 
+the vulnerable areas of the immediate coast.
+
+Life-threatening surf and rip currents expected for the rest of this 
+week as building long period swells from Erin continue, peaking 
+Thu/Fri. Surf heights could reach 12-16 ft from Thu afternoon 
+and continuing into early Fri morning, as large, very long 
+period swells (10-11 ft @ 15-17 sec) arrive nearly head on at 
+the beaches. 
+
+The threat for beach flooding, beach erosion and escarpment and 
+areas of dune erosion will increase with successive high tides
+thru Thu night. Widespread areas of dune erosion are likely 
+with localized overwashes during the Thu evening and Fri morning
+high tides. This high surf will be combined with elevated water
+levels as we approach a new moon.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...Coastal Flood Watch Thursday evening for NYZ074-075-080-081-
+     178-179.
+     High Risk for Rip Currents through Friday evening for NYZ075-080-
+     081-178-179.
+     High Surf Advisory until 8 PM EDT Friday for NYZ075-080-081-
+     178-179.
+NJ...None.
+MARINE...Small Craft Advisory from midnight tonight to 2 PM EDT Friday 
+     for ANZ331-332-340-345.
+     Small Craft Advisory from midnight tonight to 6 AM EDT Friday 
+     for ANZ335-338.
+     Small Craft Advisory until 6 AM EDT Thursday for ANZ350-353-
+     355.
+     Gale Warning from 6 AM Thursday to 2 PM EDT Friday for ANZ350.
+     Gale Warning from 6 AM Thursday to 6 AM EDT Friday for ANZ353-
+     355.
+
+&&
+
+$$
+
+SYNOPSIS...JMC/JT
+NEAR TERM...JT
+SHORT TERM...JT
+LONG TERM...JMC/JT
+AVIATION...MET
+MARINE...JMC/JT
+HYDROLOGY...JMC/JT
+TIDES/COASTAL FLOODING...BR/JT

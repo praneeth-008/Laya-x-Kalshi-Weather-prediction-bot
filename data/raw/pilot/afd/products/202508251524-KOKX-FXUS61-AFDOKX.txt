@@ -1,0 +1,169 @@
+684 
+FXUS61 KOKX 251524
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1124 AM EDT Mon Aug 25 2025
+
+.SYNOPSIS...
+A cold front moves through and pushes offshore into this
+evening. A weak secondary cold front pivots through late 
+Tuesday and Tuesday night, otherwise high pressure gradually 
+builds mid week. A frontal system approaches Friday and swings 
+through to begin the weekend as high pressure settles in.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Cold front gradually works across the area into early this 
+evening. A bit humid ahead of the boundary with dew points 
+primarily in the mid 60s, and upper 60s further east for a good 
+portion of the day. Radar observations and a couple MPING 
+reports indicate isolated sprinkles or light rain around ahead 
+of the front across southern CT or LI, but most should remain 
+dry.
+
+Otherwise, a seasonably warm day with a fair amount of sunshine
+developing. Temperatures are relatively mild this afternoon, and 
+likely the warmest day of the week ahead, with highs into the 
+low to mid 80s. Boundary layer mixes above 750 mb, and should 
+allow 20 to 25 mph gusts to develop by late afternoon.
+
+For tonight look for somewhat less humid air to work in gradually. 
+By the mid to late evening the drop in humidity should be more 
+noticeable. The winds will be light out of the NW, with the winds 
+even going calm in a lot of places late at night with an overall 
+light synoptic gradient. A cooler night overall with mainly middle 
+and upper 50s for minimum temperatures across the interior, and 
+mainly lower half of the 60s elsewhere.
+
+&&
+
+.SHORT TERM /TUESDAY THROUGH WEDNESDAY/...
+High pressure for the most part will build into the region for mid 
+week. A weak secondary cold front / sfc trough is progged to pivot 
+through late Tuesday into Tuesday evening. This will reinforce the 
+drier less humid air already in place. Temperatures overall should 
+average a few degrees below normal, especially night time 
+temperatures as a mostly clear sky and light winds at night will
+allow some radiational cooling in the non-urban areas. The only
+adjustment to the NBM during this period was with respect to 
+day time cloud cover for both Tuesday and Wednesday, along with 
+a sprinkle / shower chance added for a portion of the day 
+Wednesday. A long wave trough will work in over time and 
+impulses in the mid and upper levels pivots through from time to
+time. The dry weather regime will continue overall, but cannot 
+completely rule out a few sprinkles or a brief shower on 
+Wednesday with a cold pool aloft and cyclonic curvature in the 
+mid levels. Otherwise fair skies overall, as the afternoons will
+feature some cu development with the cooler air aloft, thus 
+added some cloud cover from the NBM on Tuesday, and especially 
+on Wednesday.
+
+&&
+
+.LONG TERM /WEDNESDAY NIGHT THROUGH SUNDAY/...
+Key Points:
+
+* Predominantly dry conditions expected through Thursday, with 
+  low end shower chances Friday.
+
+* Temperatures will be near to slightly below normal for the period. 
+
+Decent model agreement on the mass fields / large scale features 
+through the week with a series of upper troughs advecting through 
+the northeast with little fanfare. High pressure at the surface 
+slowly makes its way east from the Central Plains heading south of 
+the area by late week. Thus, with the high off to the west, an 
+offshore flow at the surface should prevail, and so expecting mainly 
+dry and cooler conditions Tuesday through Thursday. The only 
+adjustment with respect to the NBM was to add a bit more in terms of 
+diurnal cloud cover with upper level cool pool / troughiness. Thus 
+some afternoon cu cloud formation should be expected. For Wednesday 
+a passing shower or some sprinkles cannot be ruled out with upper 
+level disturbance pivoting through, but no real sensible wx impacts 
+are anticipated. By Friday, an upper trough approaches from the west 
+along with a weak cold front. Precipitation chances do increase 
+through the day on Friday, but with better forcing to our north via 
+the aforementioned upper trough, not anticipating much in the way of 
+shower activity associated with the system at this point. 
+
+The NBM was closely followed for this update.
+
+&&
+
+.AVIATION /15Z MONDAY THROUGH FRIDAY/...
+A cold front slowly moves across the terminals today. High 
+pressure builds in tonight into Tuesday.
+
+Generally a VFR forecast. Occasional MVFR ceilings this morning,
+mainly east of the NYC terminals. 
+
+SSW to W winds this morning at 5 to 10 kt, increasing to 10 to
+15 kt. There will be gusts to around 20 kt, but mainly at the 
+the city terminals this afternoon. Hybrid seabreezes likely at
+the coastal terminals with winds SSW. Winds will then veer 
+around to the WNW this evening and diminish.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Winds may vary between SW and W this afternoon with the cold
+front in close proximity. 
+
+.OUTLOOK FOR 12Z TUESDAY THROUGH FRIDAY...
+
+Tuesday - Friday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Sub small craft conditions prevail on the ocean through much of
+the afternoon. Seas increase toward 5 ft late day as a east to 
+southeast swell attempts to increase into this evening. Small 
+Craft Advisory has been issued from 6 PM this evening through 6 
+AM Tuesday.
+
+Seas fall below small craft criteria on Tuesday with relatively
+light winds and a weak pressure gradient overall as high 
+pressure takes control through mid week. Other than noted above,
+winds and waves are expected to remain below advisory criteria 
+through the remainder of the week.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns this week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+The high rip current risk continues through this evening with 3 to 5 
+ft. surf with long period swells. However, for Tuesday the period 
+decreases enough that the rip risk falls to moderate.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...High Risk for Rip Currents until 8 PM EDT this evening for NYZ075-
+     080-081-178-179.
+NJ...None.
+MARINE...Small Craft Advisory from 6 PM this evening to 6 AM EDT 
+     Tuesday for ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JE/DBR
+NEAR TERM...JE/DR
+SHORT TERM...JE
+LONG TERM...JE/DBR
+AVIATION...JP/DW
+MARINE...JE/DBR
+HYDROLOGY...JE/DBR
+TIDES/COASTAL FLOODING...

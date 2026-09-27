@@ -1,0 +1,224 @@
+564 
+FXUS61 KOKX 190900
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+400 AM EST Sun Jan 19 2025
+
+.SYNOPSIS...
+Low pressure develops along the Mid Atlantic coast and pushes 
+northeast tonight. High pressure builds in Monday bringing an
+arctic airmass to the area that remains over the area through 
+Friday. A weak system passes Tuesday night into Wednesday, with 
+an offshore low potentially impacting portions of the area in 
+the Thursday night/Friday period. A slight warming trend is 
+possible next weekend.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+* Winter Storm Warnings and Winter Weather Advisories in effect*
+
+A developing low pressure system over the Mid-Atlantic today
+will gradually intensify this afternoon and slide south of the
+area resulting in widespread snowfall for the area. The latest 
+guidance has come into better agreement with a SE trend of the 
+center of the low pressure system as it passes to the south. 
+This overall results in a cooler and snowier system for the 
+coast.
+
+Light snow is expected to gradually move into the area early
+this afternoon from the SW. It remains possible that coastal
+areas at least initially mix with rain. As the intensity of the
+precipitation increases with the low strengthening and passing 
+to the south, dynamic cooling should allow for any low level 
+warmer air to cool to freezing resulting in any mix of 
+rain/snow to become all snow. Snow becomes moderate to locally
+heavy at times over the CWA into the late afternoon. Heavier 
+snow will be focused along any mesoscale banding on the NW side 
+of the cyclone, but will be hard to pinpoint until it develops. 
+Any location that is able to be under a heavier snow band may 
+overperform regarding snowfall totals. The snow gradually 
+dissipates from SW to NE tonight as the low pulls to the 
+northeast of the area. Most of the accumulating snowfall should 
+be done by midnight with only residual snow showers possible 
+over Eastern CT.
+
+Snowfall totals are expected to be 6-8 inches for the warning
+areas, which has been expanded to include Northern New London
+County in CT and Eastern Bergen County in NJ. Snowfall totals
+have been slightly increased along the entire coastal CWA. The 
+NYC metro will likely see anywhere from 4-6 inches, with Long 
+Island and coastal CT expecting 3-5 inches. It remains very 
+possible that any coastal area in the advisory see locally up to
+6 inches of snow, and/or a subsequent upgrade to a warning, 
+especially if the 12Z guidance continues a SE trend in the low 
+track. This will also likely depend on how much initial mixing 
+of rain occurs and the development of any heavy snow banding.
+
+&&
+
+.SHORT TERM /MONDAY THROUGH MONDAY NIGHT/...
+The low departs to the northeast by Monday morning with a strong
+high pressure building in from the west. A tight pressure
+gradient will bring a persistent NW flow with 20-25 mph gusts 
+through the day. This may result in blowing snow possibly 
+locally reducing visibilities at times. 
+
+The persistent NW flow and building high pressure will advect a
+frigid airmass into the area. Highs on Monday will be in the
+20s with wind chills making it feel like the teens and single
+digits. Persistent wind Monday night should limit radiational
+cooling but the building frigid airmass will allow temperatures
+to fall into the single digits for most of the area. Wind chills
+will however make it feel like anywhere from near 0 for Eastern
+Long Island to -15 for portions of the interior Lower Hudson 
+Valley. Much of the area will see a wind chill value from 0 to
+-10.
+
+&&
+
+.LONG TERM /TUESDAY THROUGH SATURDAY/...
+Main points
+
+* Arctic cold airmass across the region with temperatures not 
+  getting to freezing until Friday for most locations and not above 
+  freezing for until next Saturday for most locations.
+
+* Coldest high temperatures forecast for Tuesday and Wednesday when 
+  highs only reaching upper teens to lower 20s.
+
+* Coldest low temperatures forecast Tuesday night and Wednesday 
+  night when lows plummet to single digits to lower teens for much 
+  of the area. Some locations get to sub-zero low temperatures.
+
+* Sub-zero wind chills forecast for Tuesday night and most 
+  locations north and west of NYC for Wednesday night. Wednesday
+  night, along coast mostly a few degrees above zero for wind 
+  chills.
+
+No significant changes to the overall fcst thinking in the extended. 
+Went close to the NBM for temps thru the period, with temps 
+remaining blw freezing thru Fri, except at the coasts where highs on 
+Fri could hit the mid 30s. Potential for a period of zonal flow over 
+the weekend which is progged to produce slightly milder temps. The 
+placement of the polar front will be difficult to pinpoint this far 
+out, so temps could swing much colder or warmer depending on where 
+the boundary sets up. It looks like the NBM is leaning towards the 
+colder side attm.
+
+Both the GFS and ECMWF have backed off on the lgt snow chcs for Tue 
+ngt into Wed, despite the passage of the upr trof. The NBM pops 
+however were still in chc category for most of the area, suggesting 
+that the consensus has not latched onto this trend yet. Will stick 
+with the higher pops for now and see if the trend holds.
+
+Still chcs for snow now late Thu into Fri, especially ern and srn 
+areas with an offshore low. There is not solid agreement amongst the 
+models so confidence is low. NBM pops in the 20-30 range attm.
+
+Potential for a frontal boundary to stall over the cwa during the 
+weekend. This could produce periods of mainly lgt pcpn, but 
+pinpointing the boundary this far out is very low confidence. 
+
+&&
+
+.AVIATION /08Z SUNDAY THROUGH THURSDAY/...
+Low pressure develops along the Mid Atlantic coast today, passing to 
+the southeast of the area tonight. 
+
+Becoming VFR thru 12Z, then cond will lower to IFR/LIFR in snow 
+during the afternoon, persisting into this evening. The snow tapers 
+off aft 3-5Z.
+
+Winds veer to the N then NE today with speeds generally aob 11kt. 
+Winds become NW aft 22-00Z, and increase significantly, remaining 
+strong thru Mon.
+
+Expected Snowfall Accumulations:
+
+NYC terminals, BDR, ISP: 4-6" HPN: 4-8" SWF: 5-8"
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Amendments possible for the timing on snow this aftn. Ocnl gusts 
+possible aft 18-20Z. 
+
+.OUTLOOK FOR 06Z MONDAY THROUGH THURSDAY...
+
+Late Tonight: IFR/MVFR becoming VFR. NE-N wind gusts 15-20kt in the 
+evening, becoming NW 20-25kt overnight. 
+
+Monday: VFR. NW wind gusts 20-25 kt.
+
+Tuesday: VFR. W wind gusts around 20 kt.
+
+Wednesday: Chance of MVFR or lower in -SN, particularly coastal 
+terminals.
+
+Thursday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Wave heights near 5 feet are providing for a continued SCA on
+the central and eastern ocean zones through the day today. Winds
+and seas then increase tonight across all forecast waters as 
+the low pressure passes nearby. As the low pulls away tonight, 
+SCA conditions should prevail across all waters with a gusty WNW
+behind another cold front. There will be a low end chance for 
+some gale gusts on the ocean. 
+
+Monday, widespread SCA conditions expected for all waters due to 
+wind gusts, for ocean both wind gusts and seas. Decreasing trend to 
+winds and seas Monday night, but ocean will probably still have SCA 
+conditions through Tuesday morning. Non-ocean waters stay below
+SCA for Monday night. The ocean could have some lingering SCA 
+conditions Tuesday morning with otherwise below SCA conditions 
+for the waters. For Tuesday afternoon through Thursday, sub-SCA 
+conditions forecast for all waters.
+
+Also, would expect some light freezing spray for tonight 
+through early next week for parts of the waters.
+
+&&
+
+.HYDROLOGY...
+No hydrologic issues are anticipated through Saturday.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Winter Storm Warning from 1 PM this afternoon to 4 AM EST 
+     Monday for CTZ005>008.
+     Winter Weather Advisory from 1 PM this afternoon to 4 AM EST 
+     Monday for CTZ009>012.
+NY...Winter Storm Warning from 1 PM this afternoon to 4 AM EST 
+     Monday for NYZ067>070.
+     Winter Weather Advisory from 1 PM this afternoon to 4 AM EST 
+     Monday for NYZ071>075-078>081-176>179.
+NJ...Winter Storm Warning from 1 PM this afternoon to 4 AM EST 
+     Monday for NJZ002-004-103>105-107.
+     Winter Weather Advisory from 1 PM this afternoon to 4 AM EST 
+     Monday for NJZ006-106-108.
+MARINE...Small Craft Advisory from 6 PM this evening to 6 PM EST Monday 
+     for ANZ331-332-335-338-340-345.
+     Small Craft Advisory until 7 AM EST Tuesday for ANZ350-353.
+     Small Craft Advisory from 6 PM this evening to 7 AM EST 
+     Tuesday for ANZ355.
+
+&&
+
+$$
+
+SYNOPSIS...JMC/MW
+NEAR TERM...MW
+SHORT TERM...MW
+LONG TERM...JMC
+AVIATION...JMC
+MARINE...JMC/MW
+HYDROLOGY...JMC/MW

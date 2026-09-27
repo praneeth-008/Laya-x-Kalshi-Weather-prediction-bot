@@ -1,0 +1,222 @@
+152 
+FXUS61 KOKX 141906
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+306 PM EDT Mon Jul 14 2025
+
+.SYNOPSIS...
+A weak front approaching from the west will move through 
+tonight and remain nearby as a Bermuda high remains anchored 
+well offshore. The boundary will lift north by Thursday, with an
+attendant cold front following into late week. Behind it, high
+pressure will attempt to build in this weekend. 
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Key Points: 
+
+* Flood Watch remains in effect from 2 PM to midnight for NE NJ,
+  the lower Hudson Valley, NYC, and SW CT, with scattered
+  instances of flash flooding possible. 
+
+A shortwave trough axis moving out of the the eastern Great 
+Lakes/Ohio Valley region, and an accompanying sfc trough
+approaching eastern PA, will both slide eastward toward and
+across the region late today into tonight. 
+
+An increasingly moist and unstable air mass (PW 2 inches and 
+MLCAPE 1000-1500 J/kg with both still on the increase per SPC 
+mesoanalysis/forecast) has already led to sct showers/tstms 
+with heavy downpours mostly north of NYC, and isolated amts over
+an inch in spots. An increasingly widespread threat of 
+torrential downpours from tstm activity should materialize later
+today into this evening as the trough to the west approaches, 
+with 2+"/hr rainfall rates possible as MLCAPE increases to
+1500-20 J/kg, PW increases closer to 2.25 inches, a deep warm 
+cloud layer up to 15 kft, and weak SW steering flow. 
+
+Highest coverage/confidence in this activity remains across NE 
+NJ and adjacent parts of the lower Hudson Valley, where 12Z HREF
+now forecasts a 50% chance of 3+ inches of rain in 3 hours. A
+30% chance of 3 inches in 3 hours now extends eastward into NYC
+and the rest of the lower Hudson Valley. Latest HRRR suggests
+the most likely time frame for the heaviest rainfall should be 
+from 22Z-02Z. 
+
+Weak low level shear/helicity profiles and weak LLJ appear to 
+be a limitation for sustained updraft and backbuilding storms. 
+
+Rainfall of 2-3 inches and locally up to 5 inches possible from
+Rockland/Westchester southward into NE NJ. For the west of the
+watch area, amounts of 1-2 inches and locally over 3 inches
+possible. Most of this could fall in as little as a 3-hr 
+period.
+
+Isolated strong to severe wet downbursts are also possible, more
+so NW of NYC where instability will be maximized. 
+
+The trough will slowly slides east overnight, with convective 
+coverage and intensity on the wane. 
+
+Seasonably warm and very muggy conditions will prevail through
+tonight, with low temps from the upper 60s well inland to the
+mid 70s invof NYC. 
+
+&&
+
+.SHORT TERM /TUESDAY THROUGH TUESDAY NIGHT/...
+AM showers/tstms still possible Tue morning from NYC metro east
+with the front still in the vicinity, then a chance for late day
+showers/tstms from NYC north/west in the afternoon with a subtle
+sfc trough still in the vicinity and a mid level shortwave 
+trough approaching. This activity should be on the weaker side 
+with instability much more limited and wind fields aloft weak. 
+
+Of more concern will be increasing heat/humidity. High temps on
+Tue should reach the upper 80s/lower 90s from NYC north/west,
+with mid 80s elsewhere. Combined with dewpoints in the upper
+60s/lower 70s this could yield heat index values of 95-99 for 
+much of NE NJ and also parts of the lower Hudson Valley and the 
+CT river valley. A short fused heat advisory might be needed for
+some or all of these areas. 
+
+Low temps Tue night should range once again from the upper 60s
+well inland, to the mid 70s in the NYC metro area and western
+Long Island. 
+
+&&
+
+.LONG TERM /WEDNESDAY THROUGH MONDAY/...
+Key Points: 
+
+* Increasing likelihood for heat indices to exceed 95F Wednesday  
+  through Friday across much of the region.
+
+* Unsettled pattern with chances for afternoon showers and  
+  thunderstorms into late week.
+
+The weakening frontal boundary lingers nearby into midweek as
+sprawling high pressure remains anchored well out in the 
+Atlantic. SW flow helps usher in additional warm, moist air, and
+temperatures nudge upwards. While nothing remarkable for mid 
+July, temperatures Wed through Fri likely top the upper 80s to 
+lower 90s for most, and with dew pts progged at least into the 
+upper 60s and lower 70s, heat indices should achieve mid to 
+upper 90s, with the hottest locales exceeding 100F. Heat 
+headlines will likely be needed as we move closer.
+
+One caveat may be the unsettled pattern, with showers and
+thunderstorms possible each afternoon through late week with 
+nearby frontal boundaries, though the overall severe risk 
+appears low. However, deep layer moisture should keep PWATs near
+or above 2 inches, and with it, the potential for higher 
+rainfall rates with any convective activity.
+
+Conditions potentially begin to settle into at least the start
+of the weekend behind a cold fropa, as high pressure attempts 
+to build in from the Great Lakes.
+
+&&
+
+.AVIATION /19Z MONDAY THROUGH SATURDAY/...
+A weak cold front settles over the terminals this afternoon and
+evening, gradually sinking to the south tonight.
+
+Mainly VFR this afternoon with lingering MVFR ceilings across 
+eastern Long Island and southeast Connecticut. Showers and 
+thunderstorms will continue expanding in coverage this 
+afternoon, especially from NYC terminals on north and west. 
+Showers/thunderstorms this evening slowly push east and weaken, 
+with a few showers lingering overnight. Torrential downpours 
+with MVFR/IFR conditions possible in any shower/thunderstorm.
+
+Low confidence flight category forecast tonight into early
+Tuesday, but MVFR conditions possible at all terminals. IFR 
+also possible, especially across eastern Long Island and 
+southeast Connecticut. Conditions should become VFR Tuesday 
+morning. 
+
+S-SE winds around 10 kt this afternoon. Winds will diminish 
+tonight then become SW-S under 10 kt Tuesday morning.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+Wind speeds may be a few kt higher at times through 21z. 
+
+Amendments for timing of showers and thunderstorms possible. 
+
+Low confidence flight category forecast tonight/early Tuesday
+morning.
+
+.OUTLOOK FOR 18Z TUESDAY THROUGH SATURDAY... 
+
+Tuesday Afternoon-Night: VFR during the afternoon/evening with a
+chance of a shower/thunderstorm. MVFR or lower possible, 
+especially east of NYC metro at night. 
+
+Wednesday-Friday: MVFR or lower in any afternoon/evening 
+showers/thunderstorms.
+
+Saturday: Mainly VFR. 
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+SW flow increasing to over 15 kt could build seas close to 5 ft
+on the outer ocean waters E of Fire Island Inlet Thu night. 
+Otherwise, afternoon/evening showers/tstms through the period 
+could produce locally higher winds/seas at times.
+
+&&
+
+.HYDROLOGY...
+Flood Watch remains in effect from 2 PM to midnight for NE NJ, 
+the lower Hudson Valley, NYC, and SW CT. 
+
+A widespread 2-3 inches of rainfall is likely across NE NJ and
+adjacent portions of the lower Hudson Valley, where the most
+persistent/widespread convection is likely based on predicted 
+synoptic/mesoscale environment and CAM output.
+
+A widespread 1-2 inches of rain is likely with localized
+rainfall totals of up to 3 inches possible for the rest of the
+lower Hudson Valley, NYC, and SW CT. 
+
+Most of the above could fall in as little as a 3-hr period. 
+
+Rainfall rates of over 2 inches per hour are possible with
+stronger and/or repeat convection, which could cause localized
+instances of severe flooding. 
+
+&&
+
+.TIDES/COASTAL FLOODING...
+The rip current risk is low through Tuesday, with a 10 kt or 
+less onshore flow and weakening S-SE swell.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Flood Watch until midnight EDT tonight for CTZ005-006-009.
+NY...Flood Watch until midnight EDT tonight for NYZ067>075-176-178.
+NJ...Flood Watch until midnight EDT tonight for NJZ002-004-006-
+     103>108.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...BG/DR
+NEAR TERM...BG
+SHORT TERM...BG
+LONG TERM...DR
+AVIATION...DS
+MARINE...BG/DR
+HYDROLOGY...BG/DR
+TIDES/COASTAL FLOODING...

@@ -1,0 +1,150 @@
+828 
+FXUS61 KOKX 240844
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+444 AM EDT Sun Aug 24 2025
+
+.SYNOPSIS...
+A cold front slowly approaches from the west today and moves 
+into the region late tonight, then passes east by late Monday. 
+High pressure then gradually builds in for the middle of the 
+week, and dominates into next weekend.
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+A closed longwave upper low and trough extending from central
+and eastern Canada into the central and eastern United States will
+be slow moving as a Rex blocking pattern remains today and into
+Monday. This will keep a cold front extending from the surface
+low centered north of the Great Lakes tracking slowly eastward.
+The trend continues for a slower movement, and with little frontal
+lift have also trended down with the probabilities of
+precipitation. Only a portion of the northwestern areas may see
+any rain showers through today.
+
+&&
+
+.SHORT TERM /6 PM THIS EVENING THROUGH 6 PM MONDAY/...
+The upper longwave trough and closed low continue to move 
+slowly east through Monday as a cold front also tracks slowly 
+east. Once again have trended lower with the probabilities of 
+precipitation through Monday with little frontal forcing. Mainly
+showers are expected with little CAPE or instability, which is 
+best across the interior. Precipitable water values remain 
+around 1.5 inches and any showers or thunderstorms that develop 
+will be capable of producing briefly heavy rainfall as storms 
+also track slowly eastward. The surface front moves east of the 
+area by early Monday evening.
+
+&&
+
+.LONG TERM /MONDAY NIGHT THROUGH SATURDAY/...
+Key Points:
+
+* Dry conditions expected through the long term.
+
+* Temperatures through the long term will be near or slightly below 
+  normal. 
+
+Forecast models in good agreement through the long term with a cold 
+front pushing east of the forecast area Monday night, followed by a 
+larger area of high pressure building over the area from the Central 
+Plains through the middle and end of the week, and into the
+upcoming weekend.
+
+&&
+
+.AVIATION /09Z SUNDAY THROUGH THURSDAY/...
+High pressure slides farther offshore overnight. A cold front 
+slowly approaches Sunday into Sunday evening.
+
+VFR expected throughout most of the TAF period, although there 
+will be a few pockets of brief marginal MVFR ceilings for NW 
+terminals overnight. A brief period of MVFR cigs can not be 
+ruled out early Sunday morning for a few western terminals, with
+a return to VFR shortly thereafter. Best chances of MVFR now 
+look to be at KSWF and KHPN. More widespread MVFR ceilings 
+become likely towards late Sunday night and is indicated in the 
+TAFs for the 30 hr terminals. Showers are possible late in the 
+TAF period for KSWF.
+
+A general S flow through the TAF period. NYC terminals remain 
+just under 10 kt overnight, with outlying terminals decreasing 
+toward 5 kt or less at times. Similar flow on Sunday, around 
+8-12 kt for most terminals, with gusts up to 20 kt developing by
+mid afternoon.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+There remains a low chance of MVFR cigs for early Sunday towards the 
+09z to 13z timeframe. However, confidence of occurrence remains too 
+low to include in TAFs.
+
+.OUTLOOK FOR 06Z MONDAY THROUGH THURSDAY...
+
+Sunday night: MVFR with a chance of showers mainly for western 
+terminals.
+
+Monday: Scattered PM showers, isolated tstm possible in the aft/eve, 
+MVFR or lower possible.
+
+Tuesday - Thursday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Updated, and issued a SCA until 1100 AM EDT for the ocean 
+waters as long period east to southeast swell around 4 feet 
+continue, with seas around 5 feet. Swell and seas subside late
+this morning. Otherwise, winds and waves will be below advisory
+levels today into Monday morning across the forecast waters. 
+However, ocean seas may builds to 5 feet by late Monday and 
+continue into Monday night as a southeasterly swell increases. 
+Then Tuesday through the end of the week conditions will once 
+again be below advisory levels.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through the end of the week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+The high risk for rip currents continues through this evening
+for the Atlantic Ocean beaches as residual long period 3 to 4 
+ft easterly swell @ 10-11 seconds slowly subsides.
+
+Monday there is a moderate risk for rip currents at the Atlantic
+Ocean beaches as a 3 to 4 ft swell continues. The risk may
+increase to high for the Southeastern Suffolk beaches late
+Monday as swell builds to 5 ft.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...High Risk for Rip Currents through this evening for NYZ075-080-081-
+     178-179.
+NJ...None.
+MARINE...Small Craft Advisory until 11 AM EDT this morning for ANZ350-
+     353-355.
+
+&&
+
+$$
+
+SYNOPSIS...MET
+NEAR TERM...MET
+SHORT TERM...MET
+LONG TERM...BC
+AVIATION...JE
+MARINE...MET
+HYDROLOGY...MET
+TIDES/COASTAL FLOODING...MET

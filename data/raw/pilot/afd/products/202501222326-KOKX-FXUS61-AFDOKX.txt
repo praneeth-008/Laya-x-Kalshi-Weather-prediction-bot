@@ -1,0 +1,150 @@
+710 
+FXUS61 KOKX 222326
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+626 PM EST Wed Jan 22 2025
+
+.SYNOPSIS...
+High pressure builds over the region into tonight, shifting offshore 
+on Thursday. Weak low pressure passes offshore into Thursday night. 
+High pressure builds across from the southwest Friday into Saturday. 
+A cold front sweeps across Sunday, followed by another cold front 
+Tuesday.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM THURSDAY MORNING/...
+High pressure builds over the region into this evening, shifting
+offshore overnight.
+
+Weak shortwave energy passing north in the flow brings in some high 
+clouds this evening and tonight, but no precipitation expected with 
+such a dry air mass in place, 12Z OKX sounding progged PWATs at just 
+0.06 inches. Winds calm this evening as the center of the high moves 
+overhead. While temperatures tonight not expected to be quite as
+extreme with the cloud cover, the calm wind and relatively fresh
+snowpack should once again allow locales to fall a bit below blended
+guidance, and went with bias corrected MAV/MET instead. With this,
+should still fall down into single digits and teens regionwide,
+and the coldest could slip just below zero or close to it, mainly
+interior LoHud Valley, SW CT, and perhaps the LI Pine Barrens.
+
+&&
+
+.SHORT TERM /6 AM THURSDAY MORNING THROUGH THURSDAY NIGHT/...
+Core of the cold eases Thursday as offshore high pressure allows a 
+light SW flow to develop, helping to moderate the air mass. 
+Temperatures remain below normal though, and 925 mb temperatures -8C 
+to -10C should translate into the 20s for most in the afternoon, or 
+lower 30s along the coast.
+
+A weak mid level shortwave continues to swing east on Thursday, 
+though limited moisture and forcing will keep conditions dry 
+locally. Rather, some mid and high clouds likely persist into the 
+afternoon. Weak surface low develops offshore and passes east, 
+enhancing the cloud cover over Long Island and southern CT into 
+the early evening before skies clear out everywhere. Temperatures
+Thursday night should fall back into the single digits inland, 
+teens along the coast, and around 20 for the NYC metro.
+
+&&
+
+.LONG TERM /FRIDAY THROUGH WEDNESDAY/...
+The northern branch of the jet stream will continue to be the main 
+driver in the weather regime across the region. Overall, a series of 
+northern branch shortwaves will race nearby and move quickly 
+through. The main function of this will be to reinforce cold and dry 
+air into the region. Temperatures overall will continue to average 
+below normal despite being at the coldest point of the season / year 
+climatologically. There will be a few days where temperatures 
+average near the climatological norms, with other days averaging 
+noticeably below.
+
+The main story, or lack thereof is that there appears to be no 
+significant storms in sight throughout the long term period. A look 
+at Ensemble sensitivity at 500 mb does indicate some uncertainty in 
+the positioning / speed of perhaps subtle amounts of energy 
+attempting to emerge out of the SW US. However, there doesn't appear 
+to be enough uncertainty around meaningful energy getting east in 
+the southern branch of the jet stream. This has downstream 
+implications for our area in that any northern branch feature will 
+not be able to interact or phase with southern stream energy, and 
+thus any northern branch shortwaves should remain moisture starved. 
+Overall the ensemble sensitivity add confidence for the cold and dry 
+cP regime to continue.
+
+Towards the tail end of the period the ensemble sensitivity appears 
+to shift the uncertainty more towards the behavior of the northern 
+branch of the jet stream. At this time there are varying solutions 
+with respect to the deterministic and ensemble suite guidance with 
+respect to 500 mb heights and thus thickness values along with 
+subsequent sfc temperatures. Temperatures late in the period could 
+range anywhere from near seasonable values to well below normal. 
+Thus uncertainty around temperatures increase substantially towards 
+Wednesday. This larger spread is easily seen in the NBM temperature 
+distribution.
+
+&&
+
+.AVIATION /00Z THURSDAY THROUGH MONDAY/...
+VFR with high pressure over the terminals tonight. The high weakens 
+on Thursday as it moves to the south. 
+
+The flow continues to weaken this evening and will become light and 
+variable tonight. SW winds under 10 kt then develop Thursday
+morning, inching closer to 10 kts in the afternoon and evening.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No unscheduled amendments expected. 
+
+.OUTLOOK FOR 00Z THURSDAY THROUGH MONDAY...
+
+Thursday Night-Friday: VFR. 
+
+Saturday: VFR. W gusts 15-20 kt NYC metro/coastal terminals.
+
+Sunday-Monday: VFR. W-WSW gusts 20-25 kt.  
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Sub Small Craft Advisory conditions on all waters through Thursday. 
+Increasing NW flow may allow 25 kt gusts to develop on the ocean 
+Thursday night, otherwise, with a relatively light pressure 
+gradient in place Friday into a good portion of Saturday sub 
+advisory conditions are expected. 
+
+Small craft conditions may develop on the ocean waters Saturday
+night, with the potential for more widespread small craft 
+conditions into Sunday and Monday.
+
+&&
+
+.HYDROLOGY...
+No hydrologic issues are anticipated through this weekend.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JE/DR
+NEAR TERM...DR
+SHORT TERM...DR
+LONG TERM...JE
+AVIATION...BR
+MARINE...JE/DR
+HYDROLOGY...JE/DR

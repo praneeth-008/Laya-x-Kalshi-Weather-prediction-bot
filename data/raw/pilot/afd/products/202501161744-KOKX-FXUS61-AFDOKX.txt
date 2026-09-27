@@ -1,0 +1,192 @@
+675 
+FXUS61 KOKX 161744
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1244 PM EST Thu Jan 16 2025
+
+.SYNOPSIS...
+A weakening frontal system approaches from the west today and 
+passes through the area tonight. High pressure will then briefly
+return for Friday. Another frontal system passes through on 
+Saturday. Thereafter, frontal waves move by the area Sunday into
+the beginning of next week. A strong arctic high pressure 
+system builds into the area through the middle of next week.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Forecast on track into the afternoon. 
+
+An upper trough swings across the area this evening. Ahead of
+the trough is an area of light snow and flurries that has been
+approaching. The air over the area is dry and have only seen
+some flurries observed so far across portions of the interior.
+The chance for snow showers and/or flurries increase into the
+afternoon and evening. There appears to be a better alignment
+with forcing and an increase in moisture across central and
+eastern Long Island this evening. The CAMs continue to hint at a
+a slight increase in coverage of light snow here. 
+
+Liquid equivalent amounts for this event are forecast to be 
+light with mainly a couple of hundredths of an inch or less, 
+except a bit more possible across central and eastern LI. Most
+spots will just see a tenth or two of snow, but there is a
+chance for a little bit more across central/eastern Long Island,
+with as much as an inch across the twin forks of LI. 
+
+Daytime highs will be in the upper 20s inland to the lower 30s 
+at the coast, whatever does fall should accumulate. Any 
+lingering snow shower activity will then come to an end towards
+midnight. Lows by daybreak Friday will be mainly in the 20s 
+with a few upper teens inland.
+
+&&
+
+.SHORT TERM /FRIDAY THROUGH SATURDAY/...
+For Friday, a ridge of high pressure aloft and at the surface
+moves across the area. It will be warmer with highs in the upper
+30s to around 40 with a light westerly flow. This will be 
+short-lived with a fast upper flow in the northern branch of 
+the polar jet. The next amplifying trough over central Canada 
+and the northern plains will race east, sending a frontal system
+toward the area on Saturday with the associated cold front 
+passing through at night. Rain showers will break out across the
+area Saturday afternoon. There is a possibility that snow could
+briefly mix in at the onset across the higher elevations well 
+north and west of the area. No accumulation is expected with 
+temperatures getting into the 40s. Southerly winds in the afternoon
+may gust 20 to 25 mph, highest along the coast. Rainfall amounts
+of a 0.25" or less are expected with the highest across far 
+eastern LI and SE CT.
+
+&&
+
+.LONG TERM /SATURDAY NIGHT THROUGH WEDNESDAY/...
+The cold front pushes through the area Saturday night with a weak 
+central low pressure wave developing along the front, off the Mid-
+Atlantic coast. The center of this low looks to pass south and east 
+of the area into Sunday morning with mainly dry condition expected 
+through the first half of the day. By Sunday afternoon, a secondary 
+low pressure system develops downstream of a mid-level shortwave 
+swinging around the base of the trough which is positioned over the 
+Great Lakes. Guidance has come into better agreement that this low 
+pressure system looks to remain fairly weak and once again pass 
+south and east of the area through Sunday night into early Monday. 
+The ECMWF and GFS have portions of the area being impacted by the 
+northern edge of the precipitation shield with the potential for 
+some light snow, mainly for the coastal areas. The CMC has 
+consistently showed a stronger low that approaches the coastline, 
+resulting in more widespread precipitation with rain along the coast 
+and a mix of rain and snow inland. Opted to keep PoPs at a high end 
+chance (40-50 percent) with a chance of rain and snow showers for 
+much of the coast to account for the uncertainty.
+
+The low moves northeast of the area by the afternoon on Monday with 
+a strong arctic high pressure system building into the center of the 
+US. This high pressure will gradually build eastward through the 
+middle of the week but will make for gusty NW flow with a relatively 
+tight pressure gradient over the area. Persistent CAA is expected 
+through the week with winds 10-20 mph and gusts upwards of 25-30 
+mph. This CAA and high pressure will allow for temperatures to drop 
+dramatically into midweek. High temperatures Monday will be only in 
+the middle to upper 20s. Highs by Tuesday will be in the teens with 
+the coast possible approaching 20 degrees. Lows will be in the 
+single digits Monday and Tuesday night with temperatures slowly 
+moderating later in the week.
+
+&&
+
+.AVIATION /18Z THURSDAY THROUGH TUESDAY/...
+A frontal system approaches from the west and moves offshore 
+tonight, passing south and east late tonight. High pressure 
+builds back in for Friday.
+
+Generally VFR, with MVFR likely in snow showers late afternoon
+into this evening. With chance probabilities have maintained the
+PROB30. There is a low chance of brief IFR conditions with the
+snow from the NYC terminals and west. Little to no accumulation
+expected, one to two tenths of an inch. Light snow and lowered 
+conditions may be an hour earlier than forecast. Also, better 
+chances of IFR will be at KISP and KGON this evening as low 
+pressure develops south of Long Island.
+
+Winds SW 10-14 kt this afternoon, may occasionally gust to near
+20 kt at the coast. Winds become westerly later this evening,
+and then NW around 10 kt after the snow ends.
+
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Snow showers may begin an hour earlier than forecast. Amendments
+possibly if conditions lower to IFR 00Z to 03Z. Occasional 
+gusts this afternoon near 20 kt, mainly at KJFK.
+
+
+.OUTLOOK FOR 18Z FRIDAY THROUGH TUESDAY...
+
+Friday afternoon: VFR.
+
+Saturday: MVFR or lower at times with rain likely, possible snow at 
+night. S wind gusts around 20 kt during the day.
+
+Sunday: Chance for MVFR or lower at times with increasing chances of 
+snow, with rain/snow mix for coastal terminals late day into the
+evening.
+
+Monday: Mainly VFR. Possible snow early morning with MVFR or 
+lower possible. NW wind gusts near 20 kt.
+
+Tuesday:VFR. W wind gusts around 20 kt. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Sub-SCA conditions are forecast across the waters through 
+Friday night before a frontal system approaches on Saturday. 
+Southerly winds ahead of the associated cold front will likely 
+bring SCA conditions to the ocean waters with seas building to 
+4 to 6 ft and wind gusts up to 30 kt. 
+
+Seas around 5 ft may linger into Saturday evening, but sub-SCA 
+conditions are expected shortly thereafter on all waters Saturday
+night. Waves then build on the ocean Sunday afternoon bringing 
+SCA through at least Monday night. For the non-ocean zones, wind
+gusts near 20 kt should result in generally sub-SCA conditions 
+during this timeframe, but stray gusts to near or over 25kt 
+can't be entirely ruled out.
+
+Persistent winds above 15 kt with a frigid airmass in place may 
+result in the potential for freezing spray, especially on the ocean 
+where wave heights will be more elevated, as early as Sunday night 
+and continuing into the day on Monday.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts are expected into the middle of next 
+week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...DW/MW
+NEAR TERM...DS/DW
+SHORT TERM...DW
+LONG TERM...MW
+AVIATION...MET
+MARINE...DW/MW
+HYDROLOGY...DW/MW

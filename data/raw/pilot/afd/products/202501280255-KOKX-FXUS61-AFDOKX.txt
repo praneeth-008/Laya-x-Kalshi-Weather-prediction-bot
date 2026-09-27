@@ -1,0 +1,203 @@
+952 
+FXUS61 KOKX 280255
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+955 PM EST Mon Jan 27 2025
+
+.SYNOPSIS...
+Strong low pressure moves across southeast Canada tonight,
+dragging a cold front through Tuesday morning. Another clipper 
+low passes through Tuesday night into Wednesday. High pressure 
+gradually builds in from the west through Thursday, and moves 
+offshore Thursday night. Low pressure may impact the region 
+Friday through Sunday. High pressure builds to the north late 
+Sunday before another frontal system impacts the area Monday.
+
+&&
+
+.NEAR TERM /THROUGH TUESDAY/...
+Updated temperatures and dew points for the next few hours based
+on the latest trends. The rest of the forecast is mainly on
+track. 
+
+A strong low pressure moving across southeast Canada will send 
+a cold front towards the region tonight. The system will be 
+accompanied by a potent middle level vortmax that dives 
+southeastward across the Great Lakes tonight and then New 
+England Tuesday morning. 
+
+Low level winds will strengthen ahead of the front tonight,
+40-60 kt at 925 mb. The NAM continues to be a bit stronger 
+closer to 950 mb, but there will likely be an inversion 
+preventing the strongest winds from reaching the surface. Still 
+anticipate gusts remaining below Advisory levels tonight with 
+the strongest occurring across eastern Long Island and 
+potentially towards southeast Connecticut, around 40 mph. 
+Otherwise, gusts should generally range from 25-35 mph. 
+
+The other concern for tonight into Tuesday morning revolves
+around potential for snow showers. Guidance has come into much 
+better agreement that any precipitation will hold off until 
+after day break Tuesday morning. Have gone with a dry forecast 
+for tonight. The atmosphere is quite dry and the most 
+substantial lift associated vortmax looks to pass well to our 
+north. There will be a line of snow squall/snow showers to our 
+north west Monday night. This activity will weaken considerably 
+as it enters the interior and should continue diminishing as it 
+reaches the coast. Will continue with a slight chance PoP for a 
+snow shower. However, not anticipating any significant impacts 
+with any snow shower. A few spots could see quick dusting, but 
+this looks isolated. The convective activity could also help 
+bring down a few isolated stronger gusts to 45 mph due to the 
+lingering low level dry air. 
+
+The front and any lingering snow showers push offshore by
+late morning. Some stratocu may linger into the afternoon, but 
+some sun is anticipated. High temperatures should be a few 
+degrees below normal in the lower 30s inland and middle 30s 
+closer to the coast. Gusty NW winds are likely in the morning, 
+25-35 mph, before settling to around 25 mph in the afternoon.
+
+&&
+
+.SHORT TERM /TUESDAY NIGHT THROUGH WEDNESDAY/...
+Upper troughing will remain over the northeast Tuesday night
+into Wednesday. Another shortwave, associated vort max, and 
+clipper low approach Tuesday night. This will help send a warm 
+front towards the area by early Wednesday morning. Warm 
+advection may lead to an area of light snow along and ahead of 
+the front. There is some uncertainty on the exact location of 
+the light snow, but current trends favor portions of the 
+interior and Southern Connecticut. The snow should be light, but
+may bring an accumulation up to an inch, especially interior 
+CT. The current trends have the majority of the snow ending by 
+day break Wednesday. 
+
+The Clipper low passes to the east Wednesday morning with its 
+trailing cold front moving through in the afternoon and early 
+evening. Ahead of the cold front, temperatures should be able to 
+rise into the lower 40s inland and middle 40s closer to the coast 
+with a breezy westerly flow. There may be some rain showers or snow 
+showers late in the day with the cold front passage. At this time, 
+temperatures look marginal for any impact from the potential snow 
+showers.
+
+&&
+
+.LONG TERM /WEDNESDAY NIGHT THROUGH MONDAY/...
+A developing nearly zonal flow Wednesday night, and continuing
+into the beginning of next week, will lead to a progressive and
+active long term period as system track quickly across the 
+region. And with this progressive flow, differences in the 
+global guidance increase, especially for Friday and into the 
+beginning of next week. While the deterministic NBM was used, 
+and have probabilities of precipitation through the upcoming 
+weekend, with the progressive flow, much of the weekend may end 
+up dry. There are also differences in the track of systems which
+will have an impact on precipitation types. While still have a 
+rain/snow mix, going to rain, Thursday night into Friday trends 
+have been for the low to track either farther to the north of 
+further south, which will lead to more rain, or potentially a 
+dry forecast by Saturday. Overall, very low confidence in the 
+forecast with the timing and placement of systems for the 
+upcoming weekend.
+
+&&
+
+.AVIATION /03Z TUESDAY THROUGH SATURDAY/...
+A cold front approaches tonight and moves across the area
+on Tuesday.
+
+VFR. SW-WSW winds 10-15kt,increasing after midnight with more 
+frequent gusts developing for all terminals. Winds veer more 
+westerly after the morning push with a slight chance of a snow 
+shower and brief vsby reduction until around noontime. Winds 
+veer further towards WNW for the afternoon. Gusts from approx 
+14-17z could peak 35-40kt. 
+
+     NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+KTEB may occasionally gust up to 20 kt through approx 06z.
+
+Winds during Tuesday afternoon prevailing south/left of 310 
+magnetic.
+
+.OUTLOOK FOR 00Z WEDNESDAY THROUGH SATURDAY...
+
+Tuesday night: VFR in the evening. Chance of MVFR or lower in 
+light snow after midnight, mainly across the northern terminals.
+
+Wednesday: Chance of MVFR or lower in light snow, mainly across
+the northern terminals in the morning. Otherwise, mainly VFR
+with a slight chance of a shower in the afternoon. WSW gusts
+25-30kt.
+
+Thursday: VFR. NW gusts 20-25 kt in the morning.
+
+Friday: Sub-VFR in rain. 
+
+Saturday: Morning sub-VFR and snow possible along with N gusts
+around 20kt, otherwise VFR.
+
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+No changes to the winds and seas at this time.
+
+Gale conditions are expected to develop on the ocean, LI Bays, 
+and central and eastern LI Sound tonight with gusts 35 to 40 kt.
+These winds will likely linger into Tuesday morning before 
+diminishing to SCA levels early Tuesday afternoon. The Gale 
+Warning is in effect through 18z Tuesday. On the western LI 
+sound and NY Harbor, winds should remain below gale force with 
+an SCA through Tuesday afternoon. Given the strong winds, seas 
+on the ocean likely reach 7 to 10 feet, with waves on the Sound 
+reaching 4 to 6 feet. Winds and sea briefly lower below SCA 
+criteria Tuesday night before increasing again Wednesday.
+
+In the wake of a clipper system and a cold frontal passage
+Wednesday night, a strong and gusty west to northwest flow will
+be across the forecast waters, with gale gusts likely on the 
+ocean waters, and small craft conditions on the non ocean 
+waters. With a weakening pressure gradient as high pressure 
+builds in Thursday conditions fall below SCA levels on the non 
+ocean waters Thursday morning, and on the ocean waters Thursday 
+afternoon. With another frontal system impacting the waters late
+Thursday night into the weekend, after a brief lull late 
+Thursday, SCA conditions will be possible on the ocean Thursday 
+night into Friday night as another frontal system impacts the 
+region. Marginal SCA conditions may continue on the eastern 
+ocean waters Saturday into Saturday night.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through the weekend.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Gale Warning until 1 PM EST Tuesday for ANZ331-332-340-345-350-
+     353-355.
+     Small Craft Advisory until 6 PM EST Tuesday for ANZ335-338.
+
+&&
+
+$$
+
+SYNOPSIS...DS/MET
+NEAR TERM...JC/DS
+SHORT TERM...DS
+LONG TERM...MET
+AVIATION...JC
+MARINE...DS/MET
+HYDROLOGY...DS/MET

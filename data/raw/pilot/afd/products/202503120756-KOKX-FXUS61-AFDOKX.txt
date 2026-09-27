@@ -1,0 +1,158 @@
+710 
+FXUS61 KOKX 120756
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+356 AM EDT Wed Mar 12 2025
+
+.SYNOPSIS...
+High pressure will be main feature through Friday with a weak wave 
+of low pressure slowly passing nearby to our south tonight into 
+Thursday night. A warm front lifts through Saturday, before a strong
+cold front moves through the region into Sunday night. Behind 
+it, high pressure returns early next week.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+High pressure briefly builds in from the north today. It will be 
+cooler than it has been for the past couple of days with a northerly 
+flow turning east by late in the day. This along with subsidence 
+will limit the mixing depth. High temperatures for the day might 
+have already occurred in the city and adjacent areas shortly after 
+midnight. Temperatures otherwise eventually rebound to 50-55 across 
+the region. 
+
+Shortwave with some moisture may combine for some light showers for 
+the southern half of the area and mixed rain and snow showers for 
+the northern half tonight. Precip chances are low however, capped at 
+30 percent with the higher probabilities across the north where 
+there will be a better combination of moisture and lift. 
+
+&&
+
+.SHORT TERM /THURSDAY THROUGH FRIDAY NIGHT/...
+The shortwave exits east early Thursday morning with another, but 
+weaker, shortwave passing to our south off the Mid-Atlantic Coast. 
+An associated weak wave of low pressure along a stationary front to 
+our south slowly shifts eastward. Models have trended a little drier 
+in the low levels along with isentropic lift trending farther east. 
+Will therefore leave out the mention of drizzle for both Thursday 
+and Thursday night. Models do however differ regarding the depth of 
+moisture around 850mb down to the surface. Looks like it could be 
+shallow enough for partial sunshine. High temperatures for Thursday 
+in the upper 40s to low 50s.
+
+Slight ridging at the surface and aloft for Friday. More in the way 
+of sunshine after a mostly cloudy start. A little warmer too, with 
+highs in the lower 50s for coastal areas and mid 50s inland.
+
+&&
+
+.LONG TERM /SATURDAY THROUGH TUESDAY/...
+A more unsettled pattern sets up as deepening low pressure cuts 
+through the central US and into the Upper Great Lakes this weekend 
+with a mid level trough amplifying as it shifts east. This will send 
+an associated warm front through the forecast area Saturday, and 
+strengthening southerly flow helps stream in moisture from the Gulf 
+into Sunday. Potential for a period of moderate to heavy rain ahead 
+of the attendant cold frontal passage, though still differences in 
+global guidance timing and placement that will need to be resolved 
+before getting too specific. Lingering showers for Monday with the 
+system exiting late Monday afternoon into Monday evening as high 
+pressure builds in from the south Monday night into Tuesday.
+
+Warm overnight lows for Saturday night into Sunday, especially away 
+from the coast, as the area will be warm sectored. Low temperatures 
+will only drop into the 50s for these locations, and upper 40s near 
+the coast thanks to the relatively cooler waters. Temperatures 
+remain above average for the rest of the long term with highs in the 
+50s and 60s. Cooler conditions are expected along the coast once 
+again.
+
+&&
+
+.AVIATION /08Z WEDNESDAY THROUGH SUNDAY/...
+High pressure builds across New England today. A weak wave of low 
+pressure approaches from the west this evening.
+
+VFR through the period. 
+
+Winds will be NW to N as high pressure builds in through daybreak. 
+the N flow will shift to the NE later this morning, and then to the 
+E/SE this afternoon.
+
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No unscheduled amendments expected.
+
+.OUTLOOK FOR 06Z THURSDAY THROUGH SUNDAY...
+
+Tonight-Thursday: Mainly VFR. MVFR or lower possible with slight 
+chance of a rain showers along the coast, and a chance of rain and 
+snow showers inland Wednesday night.
+
+Friday: VFR.
+
+Saturday: MVFR possible. Slight chance of rain showers. S gusts 20-
+30 kt Saturday night. 
+
+Sunday: IFR or lower possible with showers, especially in the 
+afternoon and at night. S wind gusts 25-35 kt. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90&&
+
+.MARINE...
+Swell on the ocean has increased noticeably over the past couple of 
+hours, giving confidence to issue a small craft advisory. Guidance 
+suggests that the swell doesn't increase too much over the next few 
+hours, but seas should eventually average over 5 ft across each of 
+the 3 ocean zones today. An onshore flow and swell is expected to 
+keep ocean seas to advisory levels through at least Thursday night, 
+so the SCA ends at this time for now. SCA could need to be stretched 
+into Friday, but probably not through Friday night. Sub-advisory 
+conditions on the non-ocean waters today through Friday night. 
+
+Ocean seas build late Saturday with strengthening southerly flow. 5 
+ft seas are possible late Saturday, but more so Saturday night, then 
+continue to build and peak Sunday night to 6 to 13 ft. Seas start to 
+diminish late Sunday night, but remain above SCA conditions through 
+Monday. 
+
+Winds across all waters expected to be above 25 kt by late Saturday 
+night into Sunday. Gales are possible on the ocean waters on Sunday 
+into Sunday night. Winds begin to diminish late Sunday night, 
+falling below 25 kt for most areas by daybreak Monday. 
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts expected into the beginning of this weekend.
+There is potential for heavy downpours ahead of a frontal passage 
+Sunday and Sunday night. There remains uncertainty into the duration 
+and placement, but the possibility of nuisance flooding cannot be 
+ruled out.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 6 PM EDT Thursday for ANZ350-353-
+     355.
+
+&&
+
+$$
+
+SYNOPSIS...JC/JP
+NEAR TERM...JC
+SHORT TERM...JC
+LONG TERM...JP
+AVIATION...JP
+MARINE...JC/JP
+HYDROLOGY...JC/JP

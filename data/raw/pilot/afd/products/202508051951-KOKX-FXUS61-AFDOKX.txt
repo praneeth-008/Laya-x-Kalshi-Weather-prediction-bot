@@ -1,0 +1,121 @@
+752 
+FXUS61 KOKX 051951
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+351 PM EDT Tue Aug 5 2025
+
+.SYNOPSIS...
+High pressure will remain in control through the weekend, then 
+slowly weaken on Monday.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM WEDNESDAY MORNING/...
+High pressure will be centered over Quebec. This will keep the area 
+dry with only a slight chance of a late day shower over the interior 
+CT zones with a little bit of upslope and focused moisture along a 
+stalling cold front and/or seabreeze boundary. Will keep PoPs 
+out of the forecast, consistent with NBM. Haze due to smoke 
+lingers across the area through the night. Mid/high clouds 
+should hamper radiational cooling, so NBM low temperature 
+guidance looked good.
+
+&&
+
+.SHORT TERM /6 AM WEDNESDAY MORNING THROUGH WEDNESDAY NIGHT/...
+High pressure remains anchored over Quebec with a continuation of an 
+easterly flow. Models still agree on broken to overcast mid to high 
+clouds, so anticipating a mostly cloudy day. Regarding smoke and 
+haze, models suggest that the surface visibility could be reduced to 
+perhaps 5-6 statute miles just about everywhere except eastern LI 
+and SE CT, but with improvement working westward during the day, so 
+mentioned haze in the forecast accordingly. NBM was used for high 
+temperatures - ranging mostly 80-85. Mostly cloudy conditions 
+continue Wednesday night, limiting radiational cooling. Low 
+temperatures mostly in the 60s.
+
+&&
+
+.LONG TERM /THURSDAY THROUGH TUESDAY/...
+High pressure will dominate through the period, with temps near to 
+slightly below normal Thu and Fri. A gradual warming trend will 
+commence thereafter, with slightly above normal temps inland on Sat 
+and then temps well above normal early next week, along with rising 
+dewpoints. Heat index values could exceed 95 mainly inland both 
+Mon/Tue. A late day tstm may be possible mainly NW of NYC on Tue 
+afternoon with the approach of a weak disturbance from the west.
+
+&&
+
+.AVIATION /20Z TUESDAY THROUGH SUNDAY/...
+High pressure remains over the region through the TAF period.
+
+VFR. Winds will be primarily SE late this afternoon into early this 
+evening. Some of the more southern terminals will have more of a 
+southerly component to the wind due to more of a sea breeze 
+influence. The winds then lighten to 5 kt or less tonight with more 
+of an easterly component. Light E to ENE winds should prevail at 
+most terminals overnight and into Wednesday morning.
+
+ NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No unscheduled amendments are expected.
+
+
+.OUTLOOK FOR 18Z WEDNESDAY THROUGH SUNDAY... 
+
+Wednesday afternoon - Sunday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Sub-SCA conditions are expected through Wednesday night with 
+sustained easterly winds increasing during the day Wednesday, 
+but remaining at 15 kt or less. This, along with an E to ESE 
+swell could generate ocean waves approaching 5 ft during the 
+afternoon and evening, but prevailing seas should be closer to 4
+ft. 
+
+Sub SCA conditions expected from Thu through Sunday. E swell up to 4 
+ft on Thu and possibly into Fri could cause rough conditions at the 
+ocean inlets.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through early next week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+There is a moderate rip risk thru the middle of the week with
+building swell and an east wind around 10kt at times.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Air Quality Alert until 11 PM EDT this evening for CTZ005>007-
+     009>011.
+NY...Air Quality Alert until midnight EDT tonight for NYZ067>075-
+     176-178.
+NJ...Air Quality Alert until midnight EDT tonight for NJZ002-004-
+     006-103>108.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JC
+NEAR TERM...JC
+SHORT TERM...JC
+LONG TERM...BG
+AVIATION...JE
+MARINE...JC/BG
+HYDROLOGY...JC/BG
+TIDES/COASTAL FLOODING...

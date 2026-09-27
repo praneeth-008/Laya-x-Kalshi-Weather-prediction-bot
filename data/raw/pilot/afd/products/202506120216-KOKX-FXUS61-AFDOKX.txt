@@ -1,0 +1,233 @@
+510 
+FXUS61 KOKX 120216
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1016 PM EDT Wed Jun 11 2025
+
+.SYNOPSIS...
+Weak high pressure remains nearby overnight. A cold front 
+approaches on Thursday and swings through Thursday night. The 
+front then stalls nearby or just to the south during Friday into
+Saturday and will slowly work south into the Mid Atlantic into 
+early next week. Waves of low pressure will track along the 
+boundary during this time. The front will then return northward 
+as a warm front toward the middle of next week.
+
+&&
+
+.NEAR TERM /THROUGH THURSDAY/...
+Weak high pressure remains nearby overnight, to the south and 
+southwest. This should provide primarily clear skies. With a 
+weak pressure gradient expect light winds mainly out of the SW. 
+Temperatures should be close to normal, perhaps a couple of 
+degrees above normal. With the lack of an onshore wind component
+overall, there should be enough of a temperature and dew point 
+separation to preclude fog development, although locally a 
+little patchy fog cannot be completely ruled with night time 
+minimums mainly in the 60s.
+
+Weak high pressure then drifts further east to our south on 
+Thursday, with a cold front approaching from the west-northwest 
+in the afternoon. It will be a moderately humid day with 
+dewpoints primarily in the lower 60s with the region just south 
+of the polar jet. BUFKIT forecast soundings are suggestive of at
+least a conditional convective chance, especially for the 
+western half of the area later in the day and early evening. 
+Moderate CAPE profiles are evident with over 1000 J/kg of CAPE 
+for many sites, with lower CAPE further east. Would have to get 
+parcel to 5 kft to enable lifting above the LFC. Exact timing 
+and placement of the approach of the cold frontal boundary will 
+dictate where and exactly when convection will try to initiate. 
+The conditionality with respect to convective chances comes from
+signs of warmer air in the mid levels and some potential 
+capping. If the capping is weaker or non-existant than a few 
+strong to severe storms would be possible with the jet just to 
+the north and 40 kt bulk shear in place. Thus, if convective 
+initiation is achieved, then the potential for storm 
+organization and maintenance would be high. For now will hold 
+off on any enhanced wording due to the high conditionality of 
+any convection and carry slight chance and isolated wording for 
+the late afternoon and evening. Look for a noticeably warmer day
+overall with daytime maximums primarily in the 80s region wide,
+with some spots in urban NE NJ getting to 90.
+
+&&
+
+.SHORT TERM /THURSDAY NIGHT THROUGH FRIDAY/...
+For Thursday night the cold front is progged to push through as
+the shortwave feature gets further east and in its wake later 
+at night surface high pressure attempts to ridge down from the 
+northwest out of Canada. Carry slight chance PoPs early on with 
+showers and isolated thunder chances, with skies later on going 
+partly cloudy to mostly clear on a light NW to N flow. With the 
+light wind behind the boundary if any convection did occur some 
+localized patchy fog would be possible late where any rain or 
+convection occurred, but due to the high conditionality of any 
+previous shower or convective activity have chosen to keep any 
+patchy fog wording out of the forecast for the time being. 
+Dewpoint readings should drop some by early Friday morning into 
+the middle and upper 50s, thus some drop in humidity levels is 
+expected.
+
+A sunny start is expected during Friday with weak sfc ridging 
+working in during the morning. However, the cold front which 
+moved through Thursday night is not progged to get very far to 
+the south and is expected to stall nearby, perhaps just to the 
+immediate south. This scenario would likely set up an light 
+onshore flow, especially during the afternoon along and north of
+the boundary. Any light onshore flow would keep temperatures 
+somewhat cooler from the previous day. There is a chance that 
+the flow will be quite weak and won't really penetrate much 
+inland. Thus temperatures should be able to reach the 80s, 
+perhaps middle 80s inland during the day Friday. Coastal 
+sections are likely to be in the upper half of the 70s to around
+80, thus closer to normal. A mid-level shortwave is forecast to
+approach later in the day and evening. This could trigger some 
+shower activity late in the day and evening. Thus have re- 
+introduced slight chance PoPs across far western sections late 
+in the day.
+
+&&
+
+.LONG TERM /FRIDAY NIGHT THROUGH WEDNESDAY/...
+The forecast area during this time will reside on the southern 
+edge of the westerlies which is likely to keep the area 
+unsettled into early next week. A frontal boundary just south of
+the area on Saturday will settle slowly south into the Mid 
+Atlantic states into early next week before returning northward 
+mid week. The challenging part of the forecast is 
+timing/location of frontal waves along the boundary and the 
+associated rainfall. Airmass is marginally unstable over the 
+weekend along with PWAT values approaching 2 inches. Thus, there
+could be some downpours, but by no means will it be raining all
+the time. Forecast running with chance PoPs (30-50%) over the 
+weekend into early next week with a chance of showers and 
+embedded thunderstorms. Shortwave energy passing to the north on
+Sunday will be followed by high pressure building across 
+eastern Canada and into the Northeast. This looks to push the 
+front farther south into Monday with even some drying of the 
+airmass. Airmass should be stable enough to limit convection to 
+mainly showers at this time. 12Z global models are in good 
+agreement taking low pressure off the Mid Atlantic coast early 
+Tuesday, passing to the south and east. Forecast area will be on
+the northern periphery of the system and may be far enough 
+removed from the stratiform rain shield. Rain chances will be 
+lower during this time.
+
+Temperatures Saturday through Monday will trend down through 
+the 70s and in some cases may struggle to get above 70 with an 
+easterly flow and cloud cover. Temperatures will then begin to 
+climb back up to normal by Tuesday and even above by Wednesday 
+as heights begin to rise and the front starts returning 
+northward as a warm front. Lows will be close to normal, but 
+night will be humid with dew points around 60. NBM box and 
+whisker temperatures plot shows large difference between the 
+25th and 75th percentiles from Saturday into Tuesday, likely due
+timing of the frontal waves and rain.
+
+&&
+
+.AVIATION /03Z THURSDAY THROUGH MONDAY/...
+Weak high pressure builds over the terminals through the 
+overnight. A weak cold front slowly approaches from the 
+northwest on Thursday, moving into the Lower Hudson Valley late 
+in the afternoon and through the remaining terminals during the 
+evening. An isolated shower or thunderstorm is possible late
+Thursday afternoon into the early evening, however, with the
+sparse coverage and uncertainty of occurrence, have not included
+in the forecast.
+
+VFR through the TAF period.
+
+A SW/WSW flow continues through the overnight, with a few
+locations becoming light and variable. A W flow develops 
+Thursday morning and increases into the early afternoon, 
+becoming 10-15kt with gusts up to 20kt possible. The flow may 
+start backing to the SW near the coast early afternoon, with a 
+sea breeze possible at KJFK by late afternoon.
+
+
+ NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Isolated shower/thunderstorm possible Thursday afternoon and early 
+evening. 
+
+Timing of afternoon sea breeze Thursday at KJFK may be off by 
+1-3 hours, and possible that the sea breeze does not move into
+KJFK.
+
+
+.OUTLOOK FOR 00Z FRIDAY THROUGH MONDAY... 
+
+Thursday Night: VFR. MVFR possible in isolated showers and 
+thunderstorms before 06Z.
+
+Friday: Mainly VFR.
+
+Friday Night-Saturday: MVFR or lower possible with a chance of  
+showers and a few thunderstorms possible.
+
+Sunday: MVFR or lower possible. Chance of showers with isolated
+thunderstorms possible.
+
+Monday: MVFR or lower possible. Chance of showers.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Sub advisory conditions are anticipated in the near and short term 
+for all waters. Across far eastern portions of the ocean there will 
+be 4 ft and just under 5 ft seas at times for a portion of tonight. 
+Otherwise seas gradually decline to 2 to 3 ft by Thursday afternoon, 
+and closer to 2 ft into Friday.
+
+With a weak pressure gradient force expected across the forecast 
+waters, as a frontal boundary remains in the vicinity of the ocean 
+waters, winds and seas are expected to remain below SCA levels from 
+Saturday through Monday.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through the short term, other than 
+the low chance of some nuisance urbanized minor flooding in 
+association with an isolated thunderstorm late Thursday. Showers and 
+embedded thunderstorms may produce localized heavy rainfall on 
+Saturday. WPC has portions of the area under a marginal risk of 
+excessive flooding. This represents a low probability of flash 
+flooding.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+A gradually diminishing southerly swell will result in another 
+day of a moderate rip current risk Thursday, but lowering to a 
+low risk on Friday.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...Air Quality Alert until midnight EDT Thursday night for 
+     NYZ067>075-078>081-176>179.
+NJ...Air Quality Alert from 11 AM to 11 PM EDT Thursday for NJZ004-
+     006-103>108.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JE/DW
+NEAR TERM...JE
+SHORT TERM...JE
+LONG TERM...DW
+AVIATION...MET
+MARINE...JE/DW
+HYDROLOGY...JE/DW
+TIDES/COASTAL FLOODING...

@@ -1,0 +1,197 @@
+618 
+FXUS61 KOKX 091739
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1239 PM EST Thu Jan 9 2025
+
+.SYNOPSIS...
+Low pressure in the Canadian Maritimes will slowly push northeast, 
+while high pressure to the west will gradually build through Friday. 
+An upper level disturbance pivots through Saturday while low pressure
+down to the south pushes well offshore. High pressure builds towards 
+the area Saturday night and will settle over the region Sunday into
+Sunday night. The high weakens Monday as broad low pressure and an
+associated cold front cross the area Tuesday followed by the return
+of high pressure next Wednesday.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Winds continue to the primary issue today with a broad area of
+low pressure over the western Atlantic and high pressure
+building in from the west. A wind advisory will remain in place
+through a good portion of this evening for the entire area. The
+forecast sounding profiles for the most part are supportive of 
+wind advisory criteria being met (at least lower end of wind adv
+criteria). The only uncertainty centers around inversion at 
+around 850 mb initially, with some guidance suggestive that the 
+inversion lowers closer to 900 mb. In any event, the top of the 
+mixed layer looks to get at least 40 kt winds down on momentum 
+transfer, along with the fact that the region has overachieved 
+in recent days (NW flow regime). Expect sustained winds at 20 to
+30 mph with gusts 40 to 50 mph. A few spots could gusts as high
+as 55 mph. 
+
+Thus another dry, windy, and cold day on tap with temperatures 
+struggling to get out of the 20s further north, and around 
+freezing or just above for southern coastal sections and the NYC
+metro. The advisory will last through 03z, with the winds 
+trailing off for the second half of this evening, and more 
+noticeably after midnight.
+
+Lows tonight with a gusty NW wind continuing, although the stronger 
+wind gusts will subside will be generally in the 20s, with the wind 
+making it feel about 10 to 15 degrees colder as wind chills will run 
+in the upper single digits up north, to mainly teens along the 
+immediate coast.
+
+&&
+
+.SHORT TERM /FRIDAY THROUGH SATURDAY/...
+Some subtle height rises are progged ahead of the next feature into
+Friday. The cP air mass will undergo some modification, especially
+into the day Friday. During the day Friday look for temperatures
+to get closer to normal, but likely ending up a few degrees 
+below as max temps should get into the middle and upper 30s as 
+all places should get above freezing. The winds will continue to
+gradually lighten through the day as the pressure gradient 
+continues to weaken, although the winds will still gust through 
+the morning as went above consensus guidance with wind speeds 
+through the first half of the day. After a mostly sunny start, 
+look for more in the way of high clouds as cirrus streaks in 
+during the late afternoon in advance of a strong confluent 
+trough developing upstream back to the southwest.
+
+For Friday night clouds increase from west to east. Introduce slight 
+chance PoPs across western areas closer to 3z, with the entire 
+region getting into slight chance to chance PoPs after 6z. Positive 
+vorticity advection begins to increase during this time frame, 
+however the lower levels will remain moisture starved. The main 
+driver of any synoptic lift will be PVA as any thermal advection 
+will get shunted well south of the area into Saturday morning as the 
+coastal system will not make the northerly turn up the coast to 
+begin the weekend. If anything the NWP consensus shears the storm 
+out to sea even more so with the more recent runs. By Saturday 
+morning NW interior locations may have a light coating of snow as 
+anything that fall will be colder enough to be in the form of snow. 
+Lows Friday night will be primarily in the 20s. Another night where 
+radiational cooling is not expected, but not due to wind as the 
+winds will be light, rather due to cloud cover.
+
+The trough axis approaches Saturday morning with much of the higher 
+res guidance showing snow showers moving from W to E across the 
+region. Most places are expecting to see around a dusting, to 
+perhaps a half inch to an inch in the higher elevations to the NW. 
+Look for partial sunshine to develop into the afternoon as the 
+trough axis pivots through with the winds switching to the NW for 
+the afternoon. Temperatures will be in the 30s region wide.
+
+&&
+
+.LONG TERM /SATURDAY NIGHT THROUGH WEDNESDAY/...
+No significant changes to the forecast thinking Saturday night 
+through the middle of next week. 
+
+Key Points:
+
+*Dry conditions will prevail Saturday night through the middle of 
+next week. 
+
+*Temperatures will be seasonably cold Sunday into early next week 
+with potential for colder air to arrive by the middle of  next week. 
+
+The model guidance is in overall good agreement with the larger 
+scale evolution of the pattern during the period.A progressive 
+shortwave ridge will build over the northeast Saturday night into 
+Sunday. The ridge weakens as it moves offshore by Monday with a 
+broad upper low swinging towards the region Tuesday into Wednesday. 
+High pressure will be in control through Sunday and then weaken 
+early next week. A dry cold front appears likely to be associated 
+with the aforementioned upper low sometimes Tuesday into Tuesday 
+night. This may set the stage for another period of blustery and 
+colder conditions for the middle of next week. High temperatures 
+Sunday into early next week will be in the mid to upper 30s, with 
+some of the warmer spots potentially touching 40 degrees. Nighttime 
+temperatures will largely 20s through Monday night. A colder airmass 
+arrives with the cold front allowing lows to potentially fall into 
+the teens for mid week with highs struggling to rise above freezing.
+
+&&
+
+.AVIATION /18Z THURSDAY THROUGH TUESDAY/...
+The terminals will remain between strong low pressure to the 
+northeast and strong high pressure to the west. High pressure
+weakens on Friday.
+
+VFR. 
+
+Strong flow around 300-310 true through the TAF period. Gusts
+35-40 kt this afternoon with peak gusts around 45 kt. Winds 
+begin to diminish after 00z with gusts decreasing to 30-35 kt 
+and then 25-30 kt overnight into early Friday morning. Gusts
+look to shut off sometime around 18z on Friday.
+
+     NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Occasional peak gusts around 45 kt possible this afternoon.
+
+OUTLOOK FOR 18Z FRIDAY THROUGH TUESDAY...
+
+Friday Afternoon: VFR.
+
+Friday Night-Saturday: Chance of light snow and MVFR. NW gusts 
+20 kt possible late Saturday. 
+
+Sunday-Tuesday: VFR. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Gale warnings continue on the ocean waters today with gusts to 
+around 40 kt and ocean seas mostly 6 to 9 ft. The NW winds will 
+continue into the first half of Friday, with gales going over to 
+small craft conditions towards Friday morning. High pressure draws 
+near and the pressure gradient will slacken with lighter winds 
+Friday afternoon into Friday night. Seas on the ocean fall below 5 
+ft Friday morning and eventually get down to 1 to 2 ft late Friday 
+night. Sub small craft conditions will continue through the day 
+Saturday, but a NW wind begins to pick up some late in the afternoon.
+
+Marginal SCA conditions are possible Saturday night into Sunday on 
+the ocean behind a departing offshore low pressure. Otherwise, high 
+pressure builds towards the waters Sunday night into early next week 
+allowing winds and seas to remain below SCA levels.
+
+&&
+
+.HYDROLOGY...
+No hydrologic issues are anticipated through the middle of next
+week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Wind Advisory until 10 PM EST this evening for CTZ005>012.
+NY...Wind Advisory until 10 PM EST this evening for NYZ067>075-
+     078>081-176>179.
+NJ...Wind Advisory until 10 PM EST this evening for NJZ002-004-006-
+     103>108.
+MARINE...Gale Warning until 6 AM EST Friday for ANZ331-332-335-338-340-
+     345-350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JE/DS/DW
+NEAR TERM...JE/DW
+SHORT TERM...JE
+LONG TERM...DS
+AVIATION...JT
+MARINE...JE/DS
+HYDROLOGY...JE/DS

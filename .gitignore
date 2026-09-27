@@ -27,6 +27,27 @@ data/processed/*
 !data/raw/.gitkeep
 !data/processed/.gitkeep
 
+# Exception: weather pilot state, for laptop -> desktop migration via GitHub.
+# Everything else under data/raw/* and data/processed/* stays ignored (Kalshi
+# bulk data, one-day GRIB2 feasibility-test messages, un-started pilot
+# sources, etc.) -- these are the only paths explicitly allowed through.
+!data/raw/pilot/
+data/raw/pilot/*
+!data/raw/pilot/observations/
+!data/raw/pilot/afd/
+
+!data/processed/pilot/
+data/processed/pilot/*
+!data/processed/pilot/observations/
+!data/processed/pilot/afd/
+!data/processed/pilot/hrrr/
+
+!data/processed/weather/
+data/processed/weather/*
+!data/processed/weather/pilot/
+data/processed/weather/pilot/*
+!data/processed/weather/pilot/selected_days.csv
+
 # Model checkpoints
 *.pt
 *.pth

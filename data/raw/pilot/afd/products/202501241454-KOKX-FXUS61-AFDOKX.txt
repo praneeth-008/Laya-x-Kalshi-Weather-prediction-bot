@@ -1,0 +1,155 @@
+026 
+FXUS61 KOKX 241454
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+954 AM EST Fri Jan 24 2025
+
+.SYNOPSIS...
+A cold front moves through today. High pressure then builds in 
+tonight into Saturday before moving offshore Saturday night. A 
+cold front moves east of the region Sunday night. A series of 
+cold fronts move across the region next week. Low pressure may 
+impact the region sometime in the mid to late week.
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+The forecast remains on track with just some adjustments to
+hourly temperatures, dewpoints and cloud coverage. Still 
+expecting a dry forecast with the frontal passage later today 
+but did increase the clouds above previously forecast. Max 
+temperatures were kept the same as previously forecast.
+
+An upper level shortwave over the Great Lakes region moves east
+today, deamplifying as it does so. At the surface, a cold front
+approaches and moves through late in the day into the evening 
+hours. With upper level support weakening and not a lot of 
+moisture to work with, expect this front will move through dry 
+today. 
+
+Temperatures will continue to run well below normal, with highs
+in the warmest areas (the coast and into the NYC metro area)
+only reaching to about freezing.
+
+&&
+
+.SHORT TERM /6 PM THIS EVENING THROUGH SUNDAY/...
+The upper trough axis pushes east of the area tonight, allowing
+for a more zonal flow to set up for Saturday and Saturday night
+before the next upper level shortwave dives southeast from
+southern Canada Saturday night and moves through the Northeast
+on Sunday. High pressure pushes off the mid-Atlantic coast on
+Saturday, allowing a surface cold front moves through late 
+Sunday into Sunday night.
+
+Dry conditions continue tonight through Sunday as there
+continues to be little moisture to work with and lack of phasing
+between the northern and southern jet streams. A very
+progressive pattern will limit the availability of any
+moisture. However, a stray rain or snow shower cannot be ruled
+out with the cold front Sunday, as a stronger southerly flow
+might bring in enough moisture in some very isolated areas.
+
+Lows tonight and highs Saturday continue to be well below 
+normal under renewed cold advection until about Saturday 
+morning. Overnight lows tonight will dip into the single digits 
+in the interior. With highs on Friday a couple of degrees warmer
+than yesterday, do expect warmer overnight lows. Some isolated 
+areas may dip below zero in the interior. Highs on Saturday will
+be similar to Friday, in the upper 20s to lower 30s across the
+entire forecast area. Sunday will see much warmer and near
+seasonable levels for temperatures thanks to return southerly
+flow from the offshore high.
+
+&&
+
+.LONG TERM /SUNDAY NIGHT THROUGH THURSDAY/...
+A series of upper level shortwaves and associated frontal boundaries 
+move across the region through the long term. The first will be 
+Sunday night into Monday, followed by a second Tuesday night into 
+Wednesday. Each of these systems should bring some cloud cover to 
+the area, however there is not much moisture to work with, so many 
+of these fronts will push across the area dry. 
+
+Forecast models then differ a bit on the potential for a more robust 
+upper level trough and associated surface low/cold front moving 
+across the area late Wednesday into Thursday. This next feature may 
+bring a round of precipitation and more notably, another shot of 
+arctic air to the region. 
+
+Overall, stuck somewhat close to the NBM guidance, however did 
+increase POPs for the Wednesday afternoon/Wednesday night period. 
+Will introduce some chance POPs, during the period with the 
+deterministic 00z forecast models showing the wave of low pressure 
+moving across or near the region. Felt that the NBM POPs were just 
+too low and could not be used. 
+
+Drier and colder conditions return to end the week.
+
+High temperatures Monday are forecast to be in the middle and upper 
+30s. Tuesday appears to be the warmest day of the week with highs 
+ranging from the upper 30s to lower 40s. With cloud cover and precip 
+chances, Wednesdays highs only reach the 30s. Thursday and Friday, 
+temperatures remain below or right at the freezing mark.
+
+&&
+
+.AVIATION /15Z FRIDAY THROUGH TUESDAY/...
+A cold front will move across the terminals late today, followed
+by high pressure tonight. 
+
+VFR. 
+
+WNW winds 5-10kt this morning become more NW by this evening.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+An occasional gust to 20kt possible today.
+
+.OUTLOOK FOR 15Z SATURDAY THROUGH TUESDAY...
+
+Saturday: VFR. 
+
+Sunday-Tuesday: VFR. W-WSW gusts 20-25 kt.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+A weak pressure gradient will lead to winds and seas below SCA 
+levels through Saturday. A steepening pressure gradient Saturday 
+night results in increasing SW winds and the next chance for SCA 
+wind gusts and seas on the ocean. SCA conditions should then
+continue on the ocean waters through Sunday.
+
+Small craft conditions are expected to continue for a large portion 
+of next week as a series of cold fronts move across the area.
+
+&&
+
+.HYDROLOGY...
+No hydrologic issues expected through the middle of next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...BC/JP
+NEAR TERM...JM/JP
+SHORT TERM...JP
+LONG TERM...BC
+AVIATION...MW
+MARINE...BC/JP
+HYDROLOGY...BC/JP

@@ -1,0 +1,174 @@
+186 
+FXUS61 KOKX 242041
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+441 PM EDT Sun Aug 24 2025
+
+.SYNOPSIS...
+A cold front slowly approaches from the west into tonight, before 
+passing through on Monday. High pressure then gradually builds in 
+for the middle of the week. A frontal system may approach the 
+region Friday into Saturday.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM MONDAY MORNING/...
+Closed upper trough axis remains centered over the Great Lakes 
+as a surface cold front ahead of it slowly approaches tonight.
+
+Winds ahead of the boundary are largely onshore from the south.
+The front is well back across western PA as of 18Z, and forcing
+remains weak locally, as is instability. A mid level cloud deck
+ahead of the front has worked into the Hudson Valley and 
+northeast NJ, but only a few widely scattered light rain showers
+have made it this far east, and CAMs aren't indicating much in 
+the way of additional activity through tonight with the boundary
+hanging back to the west. More likely, low stratus and areas of
+fog may develop late with saturating low levels.
+
+Meanwhile, a non tropical coastal area of low pressure skirts 
+the Carolina coast and passes just to the east of the area 
+tonight. Most guidance keeps the region dry from this system, 
+but a couple solutions do graze the LI Forks and SE CT with a 
+few showers overnight or early Monday morning as it passes 
+east, so will maintain at least slight chance PoPs here, with 
+overcast skies otherwise.
+
+&&
+
+.SHORT TERM /6 AM MONDAY MORNING THROUGH MONDAY NIGHT/...
+Trough slowly begins to shift into the Northeast on Monday, 
+with a leading cold front moving through locally during the 
+morning hours, and an offshore coastal low passing 150 mi 
+southeast of Montauk.
+
+Not anticipating widespread rainfall with the actual frontal 
+passage, and CAMs advertise only isolated showers in the early 
+morning as it moves through. Absent this, many, if not most, 
+remain dry. Any lingering fog or low stratus erodes through mid 
+morning, and remaining cloud cover attempts to break up as the 
+day progresses and the front works further offshore.
+
+Soundings show a well-mixed BL developing, up to 750 mb, as 
+flow turns westerly behind the fropa. This should lead to gusts
+20 to 25 mph much of the day. 925 mb are progged into the low 
+20s(C), which yields a rather warm and humid day prior to the 
+arrival of cooler air behind the front. Afternoon highs top the 
+low to mid 80s, or even a couple of degrees above normal for 
+late August. The drier, cooler air mass begins to advect in by 
+late day, and dew pts fall from the mid to upper 60s in the 
+afternoon, down into the 50s by the evening. Dry conditions 
+prevail Monday night with clearing skies.
+
+&&
+
+.LONG TERM /TUESDAY THROUGH SUNDAY/...
+Key Points:
+
+* Dry conditions expected through Thursday, with slight shower 
+  chances Friday.
+
+* Temperatures will be near or slightly below normal for the period. 
+
+Decent model agreement through the week with a series of upper 
+troughs advecting through the northeast with little fanfare. High 
+pressure at the surface slowly makes its way east from the Central 
+Plains heading south of the area by late week. Thus, with the high 
+off to the west, northwest flow at the surface will dominate, and so 
+expecting dry and cooler conditions Tuesday through Thursday. By 
+Friday, an upper trough approaches from the west along with a weak 
+cold front. Precipitation chances do increase through the day on 
+Friday, but with better forcing to our north via the
+aforementioned upper trough, not anticipating much in the way 
+of shower activity associated with the system at this point. 
+
+The NBM was followed for this update.
+
+&&
+
+.AVIATION /21Z SUNDAY THROUGH FRIDAY/...
+A cold front slowly approaches this evening and overnight and 
+moves across the terminals on Monday.
+
+Generally looking at VFR conditions today. The one exception will be 
+north and west of NYC, where there is a better chance of MVFR cigs, 
+mainly KSWF and KHPN, however MVFR may not prevail until this 
+evening. More widespread MVFR and IFR ceilings become likely 
+tonight with showers possible late tonight into Monday AM for 
+the more western terminals, especially KSWF.
+
+A general S flow through the TAF period. NYC terminals remain around 
+8-12 kt for most terminals, with gusts up to 20 kt during the 
+afternoon. The winds then decrease for the evening. The 
+winds will become primarily SW and W Monday morning at 5 to 10 kt.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+MVFR conditions could occur earlier than indicated in TAFs for 
+tonight.
+
+.OUTLOOK FOR 18Z MONDAY THROUGH FRIDAY...
+
+Monday afternoon: MVFR or lower possible, mainly east of 
+NYC. Scattered showers also possible 
+
+Tuesday - Friday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Extended Small Craft Advisory (SCA) on the coastal ocean waters 
+until 8 PM this evening as long period easterly swells 
+continue, with seas hanging near 5 feet. Seas gradually lower 
+into tonight, before building back toward 5 ft on waters east of
+Fire Island inlet late Monday afternoon with increasing 
+southerly swells. Additional SCA may be needed here Monday 
+evening through Tuesday morning.
+
+Other than noted above, winds and waves are expected to remain 
+below advisory criteria through the week.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through the upcoming week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+The high risk for rip currents for the Atlantic Ocean beaches
+has been extended through Monday. Ocean beach reports continue
+to highlight dangerous surf zone conditions this evening. A
+combination of southerly flow, long period 7-8 second swells and
+4-5 ft swell looks to continue until later in the day.
+
+For Tuesday, there is a moderate risk for rip currents at the 
+as a 3 to 4 ft swell continues.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...High Risk for Rip Currents through Monday evening for NYZ075-080-
+     081-178-179.
+NJ...None.
+MARINE...Small Craft Advisory until 8 PM EDT this evening for ANZ350-
+     353-355.
+
+&&
+
+$$
+
+SYNOPSIS...DBR/DR
+NEAR TERM...DR
+SHORT TERM...DR
+LONG TERM...DBR
+AVIATION...BC
+MARINE...DBR/DR
+HYDROLOGY...DBR/DR
+TIDES/COASTAL FLOODING...

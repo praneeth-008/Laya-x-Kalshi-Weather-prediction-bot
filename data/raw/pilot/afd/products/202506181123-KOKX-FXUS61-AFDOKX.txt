@@ -1,0 +1,188 @@
+807 
+FXUS61 KOKX 181123
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+723 AM EDT Wed Jun 18 2025
+
+.SYNOPSIS...
+A warm front moves north of the region this morning. Low 
+pressure developing along a cold front over the central United 
+States today will track northeast into northern New England by 
+Thursday night, sending a cold front across the region Thursday 
+night. High pressure builds in thereafter and generally remains 
+in control through early next week. A few disturbances may move 
+through during this period.
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+A warm front moving into southern New Jersey is expected to 
+move north of the area this morning. Ahead of the front dense 
+fog was across much of the region, Long Island, Southern
+Connecticut, and Southern Westchester county. With the warm
+front a little slower to move northward have extended and
+expanded the dense fog advisory until 900 AM EDT.
+
+With little to no CAPE or instability this morning, have 
+removed the mention of thunder. However, in the warm sector this
+afternoon some surface based instability and elevated CAPE 
+develop, and with weak upper energy moving through the region, 
+isolated thunderstorms will be possible. The atmosphere will 
+become moisture laden with precipitable water values increasing 
+to 2 to 2.25 inches. Any showers and thunderstorms that develop 
+have the potential of producing heavy rainfall, as the storm 
+will be relatively slow moving there is a chance of local 
+nuisance and urban flooding, mainly across northeastern New 
+Jersey, the lower Hudson Valley, and into New York City.
+
+&&
+
+.SHORT TERM /6 PM THIS EVENING THROUGH FRIDAY/...
+Once the upper disturbance moves through the region this
+evening, dry weather is expected into Thursday morning. With the
+area in a warm and humid airmass air temperatures are expected
+to range in the mid 80s along the coast to the lower 90s inland,
+and with dew points rising into the upper 60s and lower 70s heat
+indices will peak in the mid 90s to near 100. The area will
+become increasing unstable during the afternoon into the
+evening, and with the approach of a cold front and shortwave
+showers and thunderstorms become likely. Some of the
+thunderstorms could become severe with damaging wind gusts the
+primary threat, small hail is also possible, and an isolated
+tornado and/or waterspout cannot be ruled out. The Storm 
+Prediction Center has placed much of the area in a slight risk,
+with the remainder in the marginal risk for severe weather. 
+While heavy rainfall is also possible the storms will be moving 
+fairly quickly, and training is not expected. With the passage 
+of the cold front Thursday night the showers and thunderstorms 
+will end. High pressure then builds toward the region for 
+Friday, with slightly cooler temperatures.
+
+&&
+
+.LONG TERM /FRIDAY NIGHT THROUGH TUESDAY/...
+Bit of a pattern change as we head into this weekend and early 
+next week. Heights aloft start rising Friday night as a broad 
+upper level ridge builds in over the eastern half of the 
+country. At the surface, high pressure generally dominates. This
+pattern will lead to hot and humid conditions, with potential 
+for heat headlines.
+
+Highest confidence in high heat is Monday and Tuesday once the 
+upper level ridge establishes itself more. Away from the coast 
+expecting mid to upper 90s each day with upper 60s/lower 70s 
+dewpoints resulting in max heat indices 100-105. While Sunday 
+will still be hot, there is some uncertainty given some guidance
+now hinting at energy rounding the base of the ridge and 
+bringing clouds and showers. This will have a big impact on 
+temperatures and will have to monitor this trend. For now stuck 
+with NBM for PoPs for this which has only slight chance late 
+Saturday night into Sunday morning.
+
+&&
+
+.AVIATION /12Z WEDNESDAY THROUGH SUNDAY/...
+A warm front will pass through this morning.
+
+Widespread LIFR/IFR conditions, with low stratus, drizzle and 
+areas of dense fog, should persist through this morning. 
+Conditions improve in the afternoon to MVFR and potentially VFR.
+Highest chances for VFR is for NYC terminals north and west. 
+Showers with a chance for thunderstorms return in late 
+afternoon/evening. Uncertainty remains for tonight surrounding 
+the chance for fog or low ceilings redeveloping. VFR cigs 
+expected after 10z Thursday with fog potentially lingering.
+
+Winds remain light S/SE. Light winds turn SW tonight and pick up
+to around 10kt by Thursday morning. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+AMD likely for flight categories deviating from forecast.
+
+Low confidence forecast tonight with uncertainty in fog and low
+cigs redeveloping.
+
+.OUTLOOK FOR 12Z THURSDAY THROUGH SATURDAY... 
+
+Thursday: Any early morning low cloud/fog (should it occur) 
+improves to VFR by 10-13Z. Showers/tstms with IFR then possible
+in the afternoon/early evening, some with locally strong winds 
+from the NYC metros north/west. 
+
+Friday through Sunday: Mainly VFR. 
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+A Dense Fog Advisory now is in effect until 900 AM EDT for the 
+forecast waters, except New York Harbor, with visibilities less 
+than 1 NM. With the passage of a warm front this morning 
+visibilities will be improving. Depending on the timing of the 
+warm front the Dense Fog Advisory may need to be extended.
+
+Winds and seas remain below advisory levels today into Thursday
+afternoon, then with an increasing southwest flow ahead of a
+cold front Thursday gusts may be near 25 kt on the ocean waters,
+and possibly into the south shore bays, late in the day and
+Thursday evening. In addition, ocean seas build to 5 feet.
+Behind the cold front gusts will fall below 25 kt, however ocean
+seas will remain elevated through Thursday night, and possibly
+into early Friday morning.
+
+Winds and waves are expected to stay below Small Craft Advisory 
+criteria this weekend through early next week.
+
+&&
+
+.HYDROLOGY...
+Up to a quarter inch of rainfall is expected across southern
+Connecticut and Suffolk county into this evening. One half to 
+three quarters of an inch, with locally higher amounts, is 
+possible across the lower Hudson Valley, northeastern New 
+Jersey, and New York City into this evening, and local 
+nuisance and urban flooding will be possible.
+
+Locally heavy downpours are possible with any showers and 
+thunderstorms Thursday afternoon into the evening. However, the 
+risk of flooding will be mitigated by the speed of any cells and
+lack of overall cell training.
+
+There are no hydrologic concerns this weekend through early next 
+week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+The risk for the development of rip currents at the ocean
+beaches is moderate today and Thursday. Increasing SW flow late
+Thursday afternoon may result in an elevated risk for rip 
+currents later in the day.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Dense Fog Advisory until 9 AM EDT this morning for CTZ005>012.
+NY...Dense Fog Advisory until 9 AM EDT this morning for NYZ071-
+     078>081-177-179.
+NJ...None.
+MARINE...Dense Fog Advisory until 9 AM EDT this morning for ANZ331-332-
+     335-340-345-350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...MET/JT
+NEAR TERM...MET
+SHORT TERM...MET
+LONG TERM...JT
+AVIATION...JT
+MARINE...MET/JT
+HYDROLOGY...MET/JT
+TIDES/COASTAL FLOODING...

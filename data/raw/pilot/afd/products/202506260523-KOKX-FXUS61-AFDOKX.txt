@@ -1,0 +1,202 @@
+399 
+FXUS61 KOKX 260523
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+123 AM EDT Thu Jun 26 2025
+
+.SYNOPSIS...
+A cold front will move through from the north and east tonight,
+then remain to the south through Thursday night. The front will
+return north as a warm front and stall nearby Friday night 
+through Sunday night, then eventually lift north early next week
+with a passing low in Canada. This low will drag a cold front 
+through late Tuesday into Tuesday night.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM THIS MORNING/...
+A cold front sags south and west across the area overnight. 
+
+Chance for showers and isolated tstms will continue early
+morning as weak impulses ride long the frontal boundary from 
+the west and weak warm advection continues as cooler maritime 
+air undercuts the warmer westerlies aloft. Brief downpours will 
+be possible late tonight, especially across NYC metro area, Long
+Island, and the lower Hudson Valley. Meanwhile, the low levels 
+will continue to stabilize overnight in a NE-E flow. It will be 
+noticeably cooler tonight, but still several degrees above 
+normal, with lows mostly in the upper 60s/lower 70s.
+
+&&
+
+.SHORT TERM /6 AM THIS MORNING THROUGH 6 PM FRIDAY/...
+Following consistent 00Z/12Z HREF signaling potential for a band
+of locally heavy showers and isolated tstms in the morning,
+mainly across NE NJ, the NYC metro area and western Long Island. 
+
+Thereafter, convective complexes working in from the west will
+likely dissipate, with the better chances for showers and
+possible tstms north and west of NYC. Rainfall amounts will 
+generally be on the light side. 
+
+High temps on Thu will be in the lower 80s from NYC west, and 
+in the 70s across Long Island and S CT. Continued cool advection
+Thu night will lead to a downright chilly night compared to 
+recent ones during the heat wave, with lows in the upper 50s and
+lower 60s.
+
+&&
+
+.LONG TERM /FRIDAY NIGHT THROUGH WEDNESDAY/...
+Key Messages:
+
+* Wet, unsettled weather late Friday into Saturday night. 
+
+* Mostly dry Sunday into Monday. 
+
+* Low confidence temperature forecast Saturday through Monday. 
+
+* Warm & wet Monday Night into Tuesday. 
+
+A stalled frontal boundary draped over the Mid-Atlantic states 
+Friday morning pushes back northward Friday afternoon into 
+Friday night. This warm front is then expected to stall nearby 
+Friday night through the weekend. Simultaneously, weakly 
+amplified mid-level shortwave passes to our north late Friday 
+into Saturday night within mainly zonal flow. Weakly amplified 
+ridging aloft may return on Sunday into Monday.
+
+Given the nearby frontal boundary and the passing shortwave
+bringing pockets of midlevel energy through the area, 
+unsettled weather is anticipated to start late Friday and linger
+into Saturday night. While not a total washout, periodic 
+passing showers are expected. This is aided by PWATs of 1.75 to 
+2.25" through this period.
+
+Thunderstorm chances and temperatures are harder to pinpoint
+Friday night into the weekend. It is all dependent on if the 
+warm front will pass north of our area before stalling nearby or
+stall south of our area. Among the available guidance, the 
+timing and location of the warm frontal passage varies, with 
+some bringing it through Friday night and others not bringing it
+through until Sunday night or Monday. Should it stall south, 
+easterly flow would lead to cooler temperatures & showers Friday
+afternoon into Saturday night. Should it advance north, 
+southerly flow would lead to warmer temperatures & dewpoints, 
+better aiding in not only shower coverage, but also a better 
+environment for thunderstorm development. 
+
+Nothing paints this uncertainty better than looking at the NBM's 
+25th and 75th percentiles for temperatures which vary by more 
+than 10-15 degrees Saturday through Monday. Meaning highs could 
+end up in the upper-70s/lower-80s or the upper-80s/lower-90s on 
+these days, solely depending on the stalled front's location. 
+
+Regardless, confidence in mostly dry weather Sunday into Monday
+is more confident given weak ridging aloft anticipated by most
+guidance. 
+
+An occluded low in Canada should capture the warm front on
+Monday, dragging it northward. This will leave us warm-
+sectored with a period of wet, unsettled weather Monday night 
+into Tuesday. A cold front Tuesday night should lead to cooling 
+temperatures and drier weather by Wednesday. 
+
+Temperatures and POPs in the long-term forecast were driven
+mostly by NBM due to low confidence.
+
+&&
+
+.AVIATION /06Z THURSDAY THROUGH MONDAY/...
+A cold front moves through the terminals early this morning, 
+slowly pushing south through the day.
+
+Mainly VFR. Scattered SHRA or TSRA possible toward the morning 
+push, and have maintained PROB30s after 9Z. Outside chance for a
+few showers or isolated storm thru the day, but increasing 
+chances in the evening after 00Z Fri.
+
+NE flow becomes established overnight and speeds increase to 
+around 10 kt, before veering more easterly and increasing up to 
+15 kt. A few occasional gusts toward 20 kt possible this 
+afternoon.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Timing of any SHRA or TSRA this morning may be as much as a couple 
+of hours later than forecast.
+
+Occasional 20 kt gusts possible this afternoon.
+
+.OUTLOOK FOR 06Z FRIDAY THROUGH MONDAY... 
+
+Late tonight: VFR, MVFR possible, especially in showers.
+
+Friday through Sunday: MVFR or lower possible. Chance of showers.
+
+Monday: Mainly VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+A strengthening E flow on the ocean waters will lead to gusts 
+up to 20 kt and seas up to 4 ft daytime Thu. SCA cond then
+expected on the ocean waters Thu night into Fri, with seas 
+building to 5-6 ft and gusts up to 25 kt.
+
+&&
+
+.HYDROLOGY...
+Localized downpours of 1-1.5 inches may be possible somewhere 
+across NE NJ over to the NYC metro area and western Long Island 
+Thu morning, leading to localized instances of urban and poor 
+drainage flooding, with a marginal risk of flash flooding.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+Persistent E flow after a cold frontal passage should lead to
+widespread minor coastal flooding in NY Harbor, the back bays of
+S Queens/Nassau, Peconic Bay, and the Westchester/SW CT
+coastline with the Thu night high tide cycle. 
+
+There is a moderate rip current on Thursday due to a building E
+swell and 2-ft breakers in the surf zone.
+
+&&
+
+.CLIMATE...
+Today's Daily Record High Temperatures:
+EWR  100 / 2025 (ties 1943)
+BDR   95 / 2025 (was 94 / 1952)
+NYC   99 / 1943, 1952
+LGA   99 / 2025 (ties 1943, 1952)
+JFK  102 / 2025 (was 98 / 1952)
+ISP   95 / 2025 (was 92 / 2003)
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...BG/BR
+NEAR TERM...BG/MET/DW
+SHORT TERM...BG
+LONG TERM...BR
+AVIATION...DR/MET
+MARINE...BG/BR
+HYDROLOGY...BG/BR
+TIDES/COASTAL FLOODING...
+CLIMATE...

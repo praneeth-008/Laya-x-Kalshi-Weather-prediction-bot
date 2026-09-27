@@ -1,0 +1,164 @@
+378 
+FXUS61 KOKX 221132
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+632 AM EST Wed Jan 22 2025
+
+.SYNOPSIS...
+High pressure will be moving directly over the local region 
+tonight and then offshore on Thursday. A low pressure system 
+then travels offshore Thursday into Thursday night. High 
+pressure returns thereafter. A weak cold front is expected to 
+move across the region late in the weekend as another low 
+develops offshore and tracks well east of the region early next 
+week.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Forecast mainly on track this morning. Some increase in clouds
+and slight adjustments to temperatures as well as dewpoints to
+better match with observed trends.
+
+The core of this arctic airmass is across the region and lingers 
+into today. The 850mb temperatures consensus from forecast models 
+rise to greater than -20 degrees C, more near -17 to -15 degrees
+C late this afternoon into early this evening. Forecast highs
+are similar to yesterday but did not the MAV MOS captured
+temperatures better than the MET MOS, which exhibited a
+significant warm bias. Highs are in the upper to lower 20s for
+most locations.
+
+One more very cold night is expected tonight but with ridging 
+aloft, winds are going to be very light and calm in quite a few 
+locations. Some increase in clouds is expected with a shortwave
+passing aloft. Used a MAV/MET/NBM blend with lows in the single
+digits to upper teens. Wind chills will not be too much colder 
+than actual temperatures.
+
+Weather stays dry and very cold.
+
+&&
+
+.SHORT TERM /THURSDAY THROUGH FRIDAY NIGHT/...
+Main jet stream south of the region and mid level trough in the 
+Northeast will remain in the regional weather pattern through 
+Friday night. 850mb temperatures staying near -10 to -15
+degrees C from forecast model consensus. Mainly dry and 
+slightly higher temperatures expected, but still staying very 
+cold. Temperatures are expected to remain below normal.
+
+At the surface, the arctic cold airmass across the region midweek 
+will begin to moderate towards the end of this week. One high
+pressure area weakens and moves offshore, only to eventually be
+replaced by another strong high building in from the west.
+Temperatures at the surface first get to near to above freezing
+for some eastern parts of the region Thursday with a slight 
+decline for Friday.
+
+An area of low pressure passes offshore Thursday into Thursday
+night. This is expected to remain far enough offshore but some 
+forecast models show a closer approach, bringing a slight chance
+of snow along the southeast coastal sections of the local 
+region Thursday afternoon into Thursday night. Mainly dry 
+conditions are expected however.
+
+&&
+
+.LONG TERM /SATURDAY THROUGH TUESDAY/...
+High pressure remains over the region this weekend. Temperatures 
+will remain below or right around the freezing mark on Saturday. 
+Temperatures do warm a bit for Sunday with temperatures in the 
+middle and upper 30s, to near 40 along the coast. 
+
+A series of upper level troughs and associated surface cold fronts 
+push across the region late Sunday through the middle of next week. 
+Each of these systems should bring some cloud cover to the area, 
+however there is not much moisture to work with, so many of these 
+fronts will push across the area dry. A low pressure system will 
+pass south of the area on Monday. The northern edge of the 
+precipitation shield may clip parts of the area during this period. 
+Will carry just some slight chance POPs for Monday afternoon to 
+account for this. Otherwise, a mostly dry long term can be expected. 
+High temperatures Monday and Tuesday will be in the 30s, with upper 
+30s and lower 40s on Wednesday.
+
+&&
+
+.AVIATION /12Z WEDNESDAY THROUGH SUNDAY/...
+High pressure will continue to build into the region through the TAF 
+period. 
+
+VFR. NW flow will persist today. Winds speeds will be around 10
+kt or less through 23z or so, then become light and variable. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No unscheduled AMD expected.
+
+.OUTLOOK FOR 12Z THURSDAY THROUGH SUNDAY...
+
+Thursday through Friday: VFR. 
+
+Saturday: VFR. W winds 10-15G20kt NYC metro/coastal terminals.
+
+Sunday: VFR. W gusts 20 kt.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Short fused SCA remains for the ocean zones until 12PM 
+today. Otherwise, below SCA wind gusts are expected for the 
+non- ocean zones through this morning.
+
+Also, some moderate freezing spray has been reported by some 
+buoys. This is in combination of higher seas, lower SSTs in the
+low to mid 30s, low air temperatures near 20 degrees F and winds
+near 10-20 kt. Expecting this to continue into this morning 
+across the ocean zones west of Moriches Inlet and the Long 
+Island Sound west of Orient Point. Other water areas are not 
+expected to get much if any freezing spray and certainly not 
+moderate freezing spray as seas are lower and SSTs are 
+relatively warmer in some cases.
+
+Below SCA conditions are expected this afternoon through 
+Thursday. Possible SCA conditions for parts of the ocean 
+Thursday night with otherwise sub-SCA conditions continuing 
+through Friday night.
+
+Conditions remain below small craft criteria for the first half of 
+the weekend. Small craft conditions are expected to return for 
+Sunday and continue into the first half of next week.
+
+&&
+
+.HYDROLOGY...
+Mainly dry conditions through forecast period. No hydrologic 
+issues are anticipated.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Freezing Spray Advisory until noon EST today for ANZ331-335-
+     353-355.
+     Small Craft Advisory until noon EST today for ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...BC/JM
+NEAR TERM...JM
+SHORT TERM...JM
+LONG TERM...BC
+AVIATION...BC
+MARINE...BC/JM
+HYDROLOGY...BC/JM

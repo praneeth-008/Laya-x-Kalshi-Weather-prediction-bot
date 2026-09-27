@@ -1,0 +1,173 @@
+706 
+FXUS61 KOKX 051758
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+158 PM EDT Sat Jul 5 2025
+
+.SYNOPSIS...
+High pressure remains in control through the weekend. A cold
+front then approaches from the Great Lakes on Monday, passing 
+slowly across the area Tuesday or even stalling in close proximity
+into midweek. A more robust frontal system may approach the area
+by the end of the week. 
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+High pressure centered over the western Atlantic ridges into the 
+region with a light SW flow. This will result in higher dewpoints 
+and low temperatures compared to last night. Dry through the night 
+with lows ranging from the low 70s in the city and around 70 for 
+most coastal areas, to the mid 60s well inland.
+
+&&
+
+.SHORT TERM /SUNDAY THROUGH MONDAY NIGHT/...
+Dry weather continues on Sunday with subsidence and capping. h8 
+temperatures warm up to 17-18C, so anticipating highs in the low-mid 
+90s in the usual warmest spots in NE NJ, and mostly upper 80s to 
+around 90 away from the immediate south-facing coasts.
+
+Dewpoints near the the top of the mixed layer look low enough for 
+surface dewpoints to mix out at least a little during the afternoon 
+for areas away from the coast - even on a SW flow. This will help 
+keep heat indices below advisory thresholds. Dry for Sunday night 
+with patchy fog late.
+
+The flow aloft remains anticyclonic during Monday, but less so 
+during Monday night as the remnant circulation from Chantal 
+approaches from the south. It probably remains dry through most 
+of the morning as the only notable lift available appears to be
+from increasing instability, but held in check by mid-level 
+capping. Shower/thunderstorm chances would then begin thereafter
+with mechanical lift joining in via a subtle shortwave(s) head 
+of Chantal's circulation. Chances then continue through Monday 
+night with the remnant system even closer, but there's not 
+enough confidence from the varying model solutions to go with 
+likely PoPs. Some guidance even suggests a narrow band of 
+subsidence forming over the forecast area between an 
+approaching cold front from the west and Chantal's remnants from
+the south. Please refer to the latest official forecast from 
+the National Hurricane Center regarding tropical cyclone 
+Chantal.
+
+Regarding temperatures and heat indices for Monday, h8 temperatures 
+don't change all that much from Sunday, but will perhaps be slightly 
+warmer. Even if this is the case, there should be more afternoon 
+cloud cover as compared to Sunday, therefore anticipating slightly 
+lower high temps for the most part this time around. Surface 
+dewpoints will be higher, however. Boundary layer dewpoints increase 
+with the approach of Chantal's remnants, making it difficult for 
+surface dewpoints to mix out. Right now it still appears that 1-day 
+heat advisory criteria will not be met. However, an advisory could 
+still be needed in a few areas for Monday-Tuesday based on 2-day 
+criteria.
+
+&&
+
+.LONG TERM /TUESDAY THROUGH FRIDAY/...
+Despite the unsettled nature of the extended forecast, global models 
+were in fairly decent agreement, so the NBM was followed.
+
+A cold front will eventually move through the area and stall in the 
+vicinity Tuesday. On Tuesday, heights aloft will lower but flow 
+should remain fairly zonal with a subtle trough to the west. 
+Disturbances in the flow will traverse the area through much of the 
+middle of the week.
+
+High pressure over the Western Atlantic will promote a general S/SW 
+flow which likely brings subtropical moisture up the East Coast. The 
+combination of several mid-level disturbances moving through, a 
+stalled surface boundary in the vicinity, and a moist S/SW flow will 
+allow for much of the extended portion of the forecast to have a 
+chance for showers and thunderstorms. WPC has the area in a marginal 
+risk for excessive rainfall from Tuesday to Wednesday morning. 
+Showers and storms during this period may produce locally heavy 
+rainfall with some isolated hydrologic concerns.
+
+By the end of the week, more robust energy in the flow approaches 
+from the west and allows the trough to dig into the Northeast. This 
+will provide for a better opportunity for showers and storms as well 
+as a slight decreases in temperatures. High pressure may try to 
+build in from the northeast by Saturday.
+
+Despite chances for showers each day, high temperatures should 
+remain in the middle 80s through mid-week and upper 70s to low 80s 
+by the end of the week.
+
+&&
+
+.AVIATION /18Z SATURDAY THROUGH THURSDAY/...
+VFR as high pressure remains offshore through Sunday. 
+
+S-SSW winds around 10 kt this afternoon. Winds decrease in the 
+evening, then go light and variable at outlying terminals 
+overnight. S-SSW winds redevelop Sunday morning, increasing to 
+10-15 kt with gusts up to 20 kt possible Sunday afternoon.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+A few gusts 17-20 kt possible at KJFK 21-00z. 
+
+.OUTLOOK FOR 18Z SUNDAY THROUGH THURSDAY... 
+
+Sunday Afternoon-Night: Mainly VFR afternoon/evening. SSW gusts
+around 20 kt in the afternoon. MVFR/IFR fog possible east of 
+NYC metro terminals overnight. 
+
+Monday-Thursday: Mainly afternoon and evening showers/
+thunderstorms possible with MFR-IFR. Highest chance exists late
+Monday through Tuesday evening. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Sub-SCA conditions are expected on all waters through at least 
+Sunday morning. Near-advisory gusts are expected Sunday afternoon 
+into evening on the ocean with seas climbing to around 4 ft. Sub-
+advisory conditions are then likely for Monday through at least
+Thursday.
+
+&&
+
+.HYDROLOGY...
+No hydrological concerns are expected through the beginning of 
+next week. Some tropical moisture may feed into the area Tuesday
+into Wednesday which may allow for an environment supportive of
+locally heavy rainfall. WPC has portions of the area in a 
+marginal risk for excessive rainfall for this timeframe.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+No widespread hydrological concerns are expected through the 
+beginning of next week. Some tropical moisture may feed into the 
+area Tuesday into Wednesday which may allow for an environment with 
+the potential for heavy rainfall. WPC has portions of the area in a 
+marginal risk for excessive rainfall for this timeframe.
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...Air Quality Alert from 11 AM to 11 PM EDT Sunday for NJZ002-
+     004-006-103>108.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JC/MW
+NEAR TERM...JC
+SHORT TERM...JC
+LONG TERM...MW
+AVIATION...DS
+MARINE...JC/MW
+HYDROLOGY...JC/MW
+TIDES/COASTAL FLOODING...

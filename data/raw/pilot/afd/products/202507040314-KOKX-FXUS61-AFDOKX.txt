@@ -1,0 +1,156 @@
+974 
+FXUS61 KOKX 040314
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1114 PM EDT Thu Jul 3 2025
+
+.SYNOPSIS...
+A cold front passes through the area this evening. High pressure 
+builds in behind the front tonight through Friday night. High 
+pressure remains in control through Sunday. A cold front 
+approaches from the Great Lakes on Monday, passing slowly across 
+the area Tuesday or even stalling in close proximity into
+midweek.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM FRIDAY MORNING/...
+Severe Thunderstorm Watch has been cancelled.
+
+Strong to severe thunderstorms have pushed south and east of the
+area. However, some lingering showers are possible the next couple
+of hours across coastal locations. 
+
+Skies will become generally clear with NW flow brining in drier
+air. Lows tonight will be in the 60s for much of the area with
+some spots in the Lower Hudson Valley may drop into the upper
+50s.
+
+&&
+
+.SHORT TERM /6 AM FRIDAY MORNING THROUGH FRIDAY NIGHT/...
+*Ideal conditions are expected for Independence Day
+ celebrations.
+
+The upper-level trough axis shifts east on Friday and completely 
+exits east by Friday night. At the same time, an upper-level 
+ridge builds in from the west. At the surface, high pressure 
+builds in from the west Friday into Friday night, passing east 
+offshore.
+
+As high pressure builds in, skies should remain mostly clear
+with ample surface heating. The upper level trough still
+generally over the area will limit the rising of surface 
+temperatures, though highs will still be seasonable, generally
+in the low to middle 80s. Long Island and the NYC Metro may
+actually rise into the upper 80s under a light NW flow. Lows
+Friday night will be in the 60s, with interior areas possibly
+dropping into the upper 50s.
+
+&&
+
+.LONG TERM /SATURDAY THROUGH THURSDAY/...
+Key Points:
+
+* A predominately dry weekend with increasing warmth and humidity 
+  through Monday.
+
+* Unsettled conditions return Monday through Wednesday, with 
+ shower/thunderstorm chances each day.
+
+The NBM was largely followed with this update with no major changes. 
+
+Good model agreement on the synoptic pattern to start the period, 
+with upper ridging/rising heights Saturday and Sunday. Attendant 
+southerly flow with sfc high pressure to the southwest will continue 
+to advect a more warm and humid airmass into the region, peaking on 
+Monday (h85 temperatures 16-18C), which would yield sfc temperatures 
+in the low 90s, especially away from coastal areas. There is some 
+question as to the amount of cloud cover that will be present, which 
+may inhibit heating a bit and thus the high temperatures. 
+
+Those clouds appear to be in association with a stream of moisture 
+advecting north into the area from an upper low off the mid-atlantic 
+coast. Guidance is more varied on the evolution of this system, and 
+its possible interaction with an upper shortwave and cold front 
+moving in from the Great Lakes region on Tuesday. A period of 
+showers and thunderstorms is thus likely Tuesday afternoon, with the 
+frontal boundary stalling south of the area into Wednesday.
+
+&&
+
+.AVIATION /03Z FRIDAY THROUGH TUESDAY/...
+A cold front moves offshore tonight, with high pressure 
+building in behind it through Independence Day.
+
+VFR. Wind direction a bit squirrelly with the nearby front, but
+a general NW or NNW this evening goes light and variable at 
+most sites overnight. NW winds increase Friday morning, becoming
+around 10 kt in the afternoon, with gusts toward 20 kt 
+possible.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Gusts may be more occasional on Friday.
+
+.OUTLOOK FOR 00Z SATURDAY THROUGH TUESDAY... 
+
+Friday night through Saturday night: VFR.
+
+Sunday: VFR. SSW gusts up to 20 kt possible Sunday afternoon.
+
+Monday-Tuesday: Mainly VFR. Chance of afternoon and evening showers 
+and thunderstorms. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Sub-SCA conditions are expected on all waters under a weak pressure 
+gradient through Friday night. Tstms may pose a hazard of strong
+winds, lightning, heavy rain, and locally rough seas this
+afternoon and this evening.
+
+Sub-SCA conditions are expected this weekend into early next week. 
+Southerly flow on the ocean waters Sunday into Monday will feature 
+G15-20kt with seas generally around 3 ft, possibly as 4 ft late 
+Monday.
+
+&&
+
+.HYDROLOGY...
+No widespread hydrologic impacts anticipated through the middle
+of next week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+A lingering southerly swell of 2-3 ft 6-7s will produce mainly a
+low rip current risk on Friday, except for a moderate risk for 
+the beaches from Smith Point to Montauk Point. A low rip current
+risk is expected for all beaches on Saturday.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...DBR/DW/MW
+NEAR TERM...DW/MW
+SHORT TERM...MW
+LONG TERM...DBR
+AVIATION...DR
+MARINE...DBR/MW
+HYDROLOGY...DBR/MW
+TIDES/COASTAL FLOODING...

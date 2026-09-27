@@ -1,0 +1,154 @@
+414 
+FXUS61 KOKX 100535
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+135 AM EDT Sat May 10 2025
+
+.SYNOPSIS...
+Low pressure will exit the Tri-State area overnight with weak 
+high pressure building in behind it for Saturday. A surface 
+trough or another weak cold front then slowly works through the 
+area on Sunday as high pressure continues to build in. The high 
+remains in control through much of Tuesday. Unsettled weather 
+returns the rest of next week as a slow, broad low pressure 
+system approaches from the south.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM THIS MORNING/...
+An upper level low can be seen very well on satellite water 
+vapor just west of the area, moving into eastern PA. Latest 
+surface analysis shows the surface low centered just east of
+NYC. The latter of which will work slowly into southern New 
+England during the early morning hours. The deepest moisture, 
+instability and lift from a low level jet has shifted east along
+with the heaviest rain. As the upper level low moves through 
+there will be additional showers, mainly light and scattered.
+
+&&
+
+.SHORT TERM /6 AM THIS MORNING THROUGH 6 PM SUNDAY/...
+Mid level low and shortwave exit east early on Saturday, allowing 
+for weak high pressure building in through Saturday evening with 
+more of a zonal flow aloft. Generally fewer clouds in the afternoon 
+versus the morning hours as moisture centered near 850mb diminishes. 
+A gusty WNW flow should prevent sea breeze development, and 
+contribute to some downslope compressional heating. This combined 
+with 5-6C 850mb temps likely yield "full sun" high temperatures 
+warmer than deterministic NBM. Didn't want to stray too far from NBM 
+due to uncertainty of how long mostly cloudy conditions last into 
+the day along with the potential of afternoon cumulus development.
+
+A weak cold front then moves through late Saturday night, but with 
+not enough moisture for a shower threat. NBM looked good for low 
+temps.
+
+&&
+
+.LONG TERM /SUNDAY NIGHT THROUGH FRIDAY/...
+A surface trough or weak cold front slowly works through the area on 
+Sunday, as well as the associated upper level trough axis. High 
+pressure builds in behind this and remains in control through much 
+of Tuesday, leading to a few days on warm and dry weather. The 
+weather becomes unsettled again late Tuesday through the end of next 
+week as a cutoff low over the southern Plains starts to slowly lift 
+towards our area. Stuck pretty close to NBM PoPs, which has chances 
+from late Tuesday through the end of next week. At this time there 
+does not look to be a lot of instability available. The best chances 
+for any thunder looks to be Thursday afternoon, but low confidence 
+right now and have removed it from the forecast.
+
+High temperatures are in the 60s and 70s the entire forecast. Some 
+tweaks were made to the NBM, especially on Sunday where we should be 
+able to overachieve given the very light northerly flow and plenty 
+of sunshine, specifically across Long Island and coastal CT. Lows 
+will be in the 50s and 60s, except for Sunday night when good 
+radiational cooling conditions should be able to bring the cold 
+spots down to the 40s.
+
+&&
+
+.AVIATION /06Z SATURDAY THROUGH WEDNESDAY/...
+Low pressure over the area will track slowly east overnight 
+with gradually improving conditions.
+
+Conditions will gradually improve over the next several hours
+with much of the NYC metro becoming VFR already. While some
+reductions back to MVFR remain possible through the morning
+push, generally improving categories are expected from west to
+east through the morning. Eastern terminals may not improve to
+VFR until after daybreak and into the late morning or early
+afternoon, specifically KGON.
+
+There will be also be widely scattered showers into the morning
+hours as the upper low moves across the area. The best chance 
+will across the CT terminals and KSWF.
+
+Winds will vary quite a bit across the area to start as the low
+tracks slowly east. Behind the low, winds will go around to the
+WNW at 10kt or less and then gradually ramp up toward daybreak,
+increasing to 15 to 20kt with G25-30kt by mid to late morning. 
+
+     ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Timing of improving flight categories tonight could be off by 
+2-3 hours. 
+
+A few gusts may exceed 30 kt on Saturday.
+
+.OUTLOOK FOR 06Z SUNDAY THROUGH WEDNESDAY...
+
+Saturday Night: VFR with diminishing W/NW winds. 
+
+Sunday through Tuesday: VFR.
+
+Wednesday: MVFR or lower possible in showers.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+SCA on the ocean remains in effect until late afternoon Saturday. 
+There is a chance that the ocean waters east of Moriches Inlet see 
+up to 5 ft seas into early evening, but will leave the end time of 
+the advisory for the time being. Did however issue an advisory for 
+the non-ocean waters for Saturday as winds become gusty with a WNW 
+flow. Diminishing winds and seas for Saturday night. 
+
+All waters likely remain below Small Craft Advisory criteria Sunday 
+through the end of next week. On Sunday, use caution if out on the 
+water as air temperatures will be in the 70s, but water temperatures 
+are still in the mid 50s.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns Saturday through through the 
+end of next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory from 6 AM this morning to 5 PM EDT this 
+     afternoon for ANZ331-332-335-338-340-345.
+     Small Craft Advisory until 5 PM EDT this afternoon for ANZ350-
+     353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JC/JT
+NEAR TERM...JC/JT
+SHORT TERM...JC
+LONG TERM...JT
+AVIATION...MW
+MARINE...JC/JT
+HYDROLOGY...JC/JT

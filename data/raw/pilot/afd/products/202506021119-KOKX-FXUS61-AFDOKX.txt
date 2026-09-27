@@ -1,0 +1,160 @@
+113 
+FXUS61 KOKX 021119
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+719 AM EDT Mon Jun 2 2025
+
+.SYNOPSIS...
+Another surface trough will track across the area later this
+afternoon into this evening, otherwise high pressure will build
+in from the south and west through tonight. High pressure will 
+then be centered along the eastern seaboard on Tuesday, tracking
+slowly east through midweek. A cold front will slowly approach 
+the area Thursday through Friday, finally passing on Saturday. 
+High pressure builds in on Sunday.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Today will be the last day to contend with an upper trough as 
+it works offshore late tonight. Another shortwave on the backside
+of the trough will drop across the eastern Great Lakes and into
+the area this afternoon/evening, sending another surface trough
+across the area. While the airmass is dry, would not be totally
+surprised to see a brief pop up shower or sprinkle, but confidence
+is too low to add to the forecast at this time. Expect to see
+some high based stratocu this afternoon into early this evening
+with skies at times becoming partly cloudy.
+
+Highs today will be in the lower to mid 70s, which is close to 
+normal. Locations along the immediate south shore of LI may not 
+get out of the 60s with a weak onshore southerly flow developing
+by this afternoon. Lows tonight will be in the upper 40s inland
+and across the Pine Barrens region of LI, with the 50s elsewhere.
+This is at or just below normal.
+
+&&
+
+.SHORT TERM /TUESDAY THROUGH WEDNESDAY/...
+An anomalously warm upper ridge (+2SD) builds across the 
+eastern third of the country bringing a taste of summertime to 
+the area. Highs on Tuesday will generally be in the upper 70s to
+lower 80s, but for Wednesday warming to around 80 at the coast 
+and the mid to upper 80s across parts of the NYC metro and inland
+locations. The latter is about 7 to 10 degrees above normal. 
+NBM probabilities for greater than 90 highest across NE NJ 
+Wednesday at around 50 percent. NBM box and whisker plots for
+max temperature show the deterministic values to still be at or
+below the 25th percentile. This would lead one to believe that 
+temperatures could be a few degrees warmer, closer to the 50th 
+percentile. However, not seeing much support at this time from 
+MOS guidance. So for the time have stayed the course. 
+
+Winds during this time will generally be southerly at or below 
+10 mph. Expect few if any clouds with upper ridging and 
+subsidence across the area.
+
+&&
+
+.LONG TERM /WEDNESDAY NIGHT THROUGH SUNDAY/...
+Surface high pressure over the area centered just offshore to the 
+south loses its hold on the region as it moves much farther to the 
+south through Thursday. A ridge aloft Wednesday night also begins to 
+break down, becoming more zonal aloft on Thursday. Despite this, 
+heights remain high, so a warming trend is still expected. 
+
+Highs on Thursday will push 90 degrees in areas N & W of NYC with 
+low to mid-80s at the coast. The NBM deterministic is lower with 
+high temps than the 25th percentile. The 75th percentile reaches the 
+mid/upper-90s in NE NJ. Stuck closer to the deterministic NBM with 
+this one. A shortwave trough being resolved by most global models 
+should push through in the afternoon with a surface trough 
+increasing cloud cover enough over areas N & W of the city to 
+partially shut off some radiational heating. There is also a slight 
+chance for showers or thunderstorms in the afternoon and evening 
+given the nearby boundary and warmer temps in the interior, but 
+chances aren't looking overly optimistic.
+
+Precip chances increase Friday into Saturday as heights gradually 
+drop aloft from a longwave trough in Canada and a low over the Great 
+Lakes on Friday passes NE of the area on Saturday sending a cold 
+front through the CWA Saturday afternoon/evening. Chance POPs are 
+expected on Friday from showers and thunderstorms with highs in the 
+low/mid-80s, limited at some coastal areas in the 70s. Rain chances 
+may continue into the night with the best chance for showers and 
+thunderstorms due to enhanced lift (and still warm temperatures) 
+with the cold front later on Saturday. This will be the final round 
+of rain with high pressure building into the beginning of next week 
+following the cold frontal passage. There is some timing discrepancy 
+with the models with this front, so have carried slight chance POPs 
+into Saturday night for a slow/weaker cold front scenario.
+
+&&
+
+.AVIATION /11Z MONDAY THROUGH FRIDAY/...
+VFR for the TAF period. NW winds of 5-10 kt are expected. Local
+sea breezes expected at coastal terminals mainly in the 
+afternoon, with peak winds around 11 kt. By the evening and
+early night, winds begin to turn more N/NNW around 5 kt or less
+and remain so into the night. Rinse and repeat tomorrow with
+more sea breezes expected in the afternoon. 
+
+Elevated smoke from Canadian wildfires may be observed aloft, 
+but will not impact surface visibility. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+No unscheduled AMD expected.
+
+.OUTLOOK FOR 12Z TUESDAY THROUGH THURSDAY... 
+
+Tuesday through Wednesday...VFR. 
+
+Thursday...Potential for MVFR in showers and thunderstorms in
+the afternoon/evening.
+
+Friday...Possible MVFR in afternoon showers/tstms.
+
+&&
+
+.MARINE...
+Expect sub-SCA conditions through Friday as waters will be
+largely influenced by high pressure and a southerly flow. 
+
+SCA conditions are forecasted to be met Saturday into Saturday night 
+with an approaching and passing cold front on the ocean waters 
+for waves. All waters also have a chance of nearing SCA gusts 
+during this timeframe.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through the forecast period.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+There is a moderate rip current risk for Monday and Tuesday.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...BR/DW
+NEAR TERM...DW
+SHORT TERM...DW
+LONG TERM...BR
+AVIATION...BR
+MARINE...BR/DW
+HYDROLOGY...BR/DW
+TIDES/COASTAL FLOODING...

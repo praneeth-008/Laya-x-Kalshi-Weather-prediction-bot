@@ -1,0 +1,199 @@
+951 
+FXUS61 KOKX 290301
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1001 PM EST Tue Jan 28 2025
+
+.SYNOPSIS...
+A fast moving low will track east across the Great Lakes tonight
+and then pass to the north on Wednesday, dragging a cold front 
+through the area in the afternoon. High pressure briefly builds 
+in on Thursday followed by low pressure and its associated 
+frontal system Friday into Friday night. High pressure should 
+largely remain in control this weekend into early next week, but
+there is a chance for a quick moving frontal system Sunday.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM WEDNESDAY MORNING/...
+The forecast is mostly on track with minor adjustments to
+temperatures and dewpoints for the next hours. 
+
+Another fast moving clipper low will track east across the Great
+Lakes tonight and into upstate NY by daybreak. This will allow 
+the cold front that past to the south earlier today to return 
+quickly north as a warm front this evening and then well to the
+north later tonight. Guidance has trended north with the 
+overrunning snow ahead of the warm front with only a slight 
+chance this evening across far northern portions of the Lower 
+Hudson Valley and interior southern CT. Anything that does fall 
+will be light with possibly a light coating across some 
+locations.
+
+Temperatures will drop off into the 20s for all but the NYC 
+metro. However, a strengthening southerly behind the warm front 
+will allow temperatures to begin to rise around midnight with 
+most locations above freezing by daybreak except for the far 
+interior.
+
+&&
+
+.SHORT TERM /6 AM WEDNESDAY MORNING THROUGH WEDNESDAY NIGHT/...
+Low pressure passes to the north on Wednesday sending a cold
+front through the area in the afternoon. Temperatures get into
+the lower to mid 40s late morning into early afternoon. This
+will be very similar to what we saw on Tuesday with scattered 
+showers along and ahead of the cold front and increasing west 
+winds with gusts 35 to 45 mph. Model upper air soundings shows 
+deep mixing during the day with 30 to 40 kt average winds in the
+mixed layer and 50-60 kt at the top of the layer (near 700 mb).
+However, have held back on a wind advisory as it seems unlikely
+to bring the strongest winds all the way down, but like Tuesday
+a few isolated gusts to 40 kt (46 mph) will be possible. This 
+will be reevaluated later tonight with the 00Z model guidance. 
+
+In addition, with the warmer mixed layer much of the showers
+will be in the form rain, with possibly rain/snow mix across the
+higher elevations north and west of NYC. Snow squalls seem
+unlikely due to the mix and would not be as much of a factor
+with warm surface temperatures. Temperatures behind the front
+may drop off by as much as 5 degrees, but not expecting 
+temperatures at or below freezing until the evening.
+
+Gusty NW winds diminish some Wednesday evening, but likely stay
+up much of the night. Lows by daybreak Thursday will range from
+the upper teens inland to the lower 20s at the coast. This is a
+few degrees below normal. Wind chill values will fall into the
+upper single digits to lower teens after midnight.
+
+&&
+
+.LONG TERM /THURSDAY THROUGH TUESDAY/...
+The synoptic pattern to start the long term consists of an 
+upper level low moving out of the SW US on Thursday and 
+weakening into an open wave by the time it reaches the Ohio 
+Valley on Friday. The weakening wave will pass overhead late 
+Friday into Friday night and then offshore Saturday. The flow 
+aloft will then remain zonal this weekend into early next week. 
+There is potential of a weak shortwave passage within the zonal 
+flow sometime late Sunday into early Monday.
+
+A surface ridge moves over the region Thursday and then offshore 
+Thursday night. The models over the last several days were having a 
+difficult time with the confluent flow across New England and the 
+northward extent of the weakening shortwave. The last few model 
+cycles have come into better agreement on the confluence weakening 
+Thursday night allowing the parent low pressure to track either to 
+our northwest or nearly over the area Friday into Friday night. The 
+modeled pattern only supports a wintry mix of freezing rain and 
+sleet at the onset late Thursday night into early Friday morning. 
+The highest probability for this brief wintry mix lies north and 
+west of the NYC metro, where surface temperatures may take longest 
+to rise above freezing. Elsewhere, increasing warm advection and SW 
+flow will support temperatures warm enough for plain rain. Any 
+wintry mix across the interior will transition to a cold rain by mid 
+morning on Friday. The exact track of the low will ultimately 
+determine how warm temperatures reach on Friday, but the latest NBM 
+deterministic has temperatures rising into the 40s in the afternoon 
+areawide. Precip should quickly taper off Friday evening with 
+limited chances for a few snow showers as the low moves offshore. 
+Total liquid equivalent amounts range from one around a quarter inch 
+inland to one half to three quarters closer to the coast. 
+
+High pressure returns Saturday and pushes offshore on Sunday.
+The next frontal system moves through late Sunday into Sunday night. 
+Models differ on the amplitude of the associated shortwave with the 
+GFS the most amplified and the ECMWF the weakest. Capped PoPs off at 
+chance given the differences, which is lower than the NBM across 
+interior CT. High pressure then returns early next week.
+
+Near normal temperatures Thursday will become above normal on 
+Friday. Below normal temperatures return Saturday behind the first 
+frontal system before becoming above normal again Sunday and Monday.
+
+&&
+
+.AVIATION /03Z WEDNESDAY THROUGH SUNDAY/...
+A warm front moves through tonight, followed by a cold front
+Wednesday afternoon. 
+
+VFR. Light and variable winds bcmg S-SW by midnight and
+increasing from the SW through the night with gusts 20-25kt by
+the start of the morning push. Winds increase further through
+the morning push and gradually veer more westerly. The winds
+then shift WNW in the afternoon with gusts generally around 
+35kt and a peak gust of 40-45kt.
+
+   NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Winds at KLGA and KJFK could prevail SE to S 5-10kt for the next
+few hours.
+
+.OUTLOOK FOR 00Z THURSDAY THROUGH SUNDAY...
+
+Wednesday night: VFR. NW G25-30kt eve, then 20-25kt overnight.
+
+Thursday: VFR. NW winds G20kt in the morning.
+
+Friday: Rain likely with MVFR or lower cond, changing to light
+snow after midnight before ending. SW winds G20kt NYC metro/coast.
+
+Saturday: Becoming VFR in the morning. NW winds G20kt until
+around midday.
+
+Sunday: Chance MVFR or lower cond mainly at night, with snow
+changing to freezing rain/sleet at KSWF, and rain/snow/sleet 
+NYC metros/coast. 
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Gale warning in effect for all waters Wednesday. 
+
+There will be a period of sub-SCA conditions this evening, but 
+this will be short-lived as an approaching frontal system will 
+result in a W/SW gale developing toward daybreak Wednesday and 
+then becoming NW and persisting into the first half of Wednesday
+night on the ocean waters. For the non-ocean waters gales will 
+be a bit shorter ending toward evening. 
+
+Conditions will remain below SCA levels on the waters Thursday into 
+Thursday night. Low pressure and its associated frontal system 
+impact the waters Friday into Friday night with the next chance of 
+SCA conditions. SCA winds and seas may linger on the ocean Saturday 
+morning followed by conditions below SCA Saturday night into Sunday.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through early next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Gale Warning from 6 AM to 6 PM EST Wednesday for ANZ331-332-
+     335-338-340-345.
+     Small Craft Advisory until 6 AM EST Wednesday for ANZ350-353-
+     355.
+     Gale Warning from 6 AM Wednesday to 1 AM EST Thursday for 
+     ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...DS/DW
+NEAR TERM...JC/DW
+SHORT TERM...DW
+LONG TERM...DS
+AVIATION...JC
+MARINE...DS/DW
+HYDROLOGY...DS/DW

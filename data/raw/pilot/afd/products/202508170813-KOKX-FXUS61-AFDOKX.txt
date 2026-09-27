@@ -1,0 +1,229 @@
+249 
+FXUS61 KOKX 170813
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+413 AM EDT Sun Aug 17 2025
+
+.SYNOPSIS...
+Offshore high pressure will move east today. A pre-frontal 
+trough will move through this afternoon and evening, followed by
+a cold front later tonight. Strong high pressure will then 
+build southeast from Ontario and Quebec into New England on 
+Monday, then move off the New England coast on Tuesday.
+Hurricane Erin will pass well offshore on Wednesday, with a
+weakening frontal system approaching from the west. The frontal
+system and Erin will pass well out into the Atlantic on
+Thursday. High pressure will return by late week. Please refer
+to National Hurricane Center forecasts for further information
+on Erin. 
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Seeing isolated late night showers across SE CT associated with
+a weak trough and axis of weak instability/higher sfc theta-E. 
+
+For today, SW flow will advect warmer and more humid air into
+the region, with one day of heat index values in the mid/upper
+90s from the NYC metro area north/west as temperatures there
+reach the lower 90s, with afternoon dewpoints in the upper 60s
+and lower 70s. Farther east across most of Long Island and SE
+CT, high temps will reach the mid/upper 80s with dewpoints in
+the lower 70s, with max heat index values in the lower 90s. 
+
+A bkn line of late day/evening tstms is possible in association
+with a pre-frontal trough over the area and a shortwave trough 
+approaching from the upper Great Lakes that is currently
+producing tstms over srn Ontario. Activity should be mainly 
+from the NYC metro area north/west late this afternoon, then 
+spreading SE into the rest of the area after dark. Best forcing 
+with this wave will be mostly south/west but should clip the NYC
+metro area. CAPE will be limited due to weak mid level lapse 
+rates (MLCAPE up to 1000 J/kg), but with relatively dry sub- 
+cloud and mid level air, also northwesterly 0-3 km shear normal 
+to line motion, stronger cells may be capable of producing gusty
+winds. 
+
+A cold front dropping from the north late this evening into the
+overnight will bring a wind shift out of the N-NE which should 
+become gusty especially in the NYC metro area and along the 
+coast where gusts could peak as high as 25-30 mph. Lows tonight 
+will range from the mid/upper 60s for NYC metro and the coast, 
+to the upper 50s/lower 60s inland. 
+
+&&
+
+.SHORT TERM /MONDAY THROUGH TUESDAY NIGHT/...
+High pressure and cooler air will continue to build in on Mon.
+With the cooler air mass, also bkn clouds, plus isolated-sct 
+showers especially on Mon, high temps Mon/Tue should only make 
+it to the mid/upper 70s. Mon night looks mostly dry, with low 
+temps ranging from the mid 50s inland to the mid 60s in/around 
+NYC. Gusty NE winds on Mon should abate somewhat from Mon night 
+into Tue night while becoming easterly. 
+
+The frontal boundary to the south will start to return north Tue
+night as the high retreats to the east and as the outermost
+circulation of Hurricane Erin approaches. This will bring
+chances for showers and possibly a tstm mainly late at night. 
+With no appreciable change in air mass, low temps Tue night
+should be similar to those of Mon night. 
+
+&&
+
+.LONG TERM /WEDNESDAY THROUGH SATURDAY/...
+Only impacts with Hurricane Erin with the ocean and ocean
+shorelines with waves. See marine and tides/coastal flooding 
+sections for more details. Otherwise, for the land areas, no 
+significant rainfall and winds stay well below advisory 
+thresholds during the long term. 
+
+Mid levels convey trough moving into region with NW flow
+Wednesday into Wednesday night. The trough shifts northeast of
+the region Thursday through Friday. Slow ridging trend evident 
+heading into next weekend. The mid level circulation associated 
+with Erin moves well northeast of the region out in the 
+Atlantic.
+
+At the surface, a weak frontal boundary will work its way back
+north into the local region Wednesday and eventually 
+dissipate. Meanwhile, Hurricane Erin is forecast pass well 
+offshore in the Atlantic between Wednesday night and early 
+Friday. As it does so, the increase in pressure gradient between
+itself and high pressure to the north and west, will make for 
+more gusty NE to N flow.
+
+Rain showers in the Wednesday through Thursday timeframe are
+still indicated from mean precipitation plots in LREF. This is
+probably with the lingering weakening front with perhaps some 
+interaction of tropical moisture. Operational GFS, ECMWF and 
+Canadian models actually are not indicating much of any shower 
+activity. Only chance POPs for these showers and less than 50 
+percent. 
+
+Mainly dry conditions Thursday night through Saturday night in
+the forecast with return of high pressure from the north and 
+west.
+
+Regarding temperatures, below normal values forecast Wednesday 
+through Thursday night and then a return to near normal values 
+for 
+
+&&
+
+.AVIATION /07Z SUNDAY THROUGH THURSDAY/...
+A cold front approaches from the north and west today and moves
+across tonight. 
+
+A mix of VFR to MVFR conditions initially with some areas
+continuing with MVFR stratus into the AM hours. Otherwise, a 
+mainly VFR TAF period is expected. The other times MVFR or 
+perhaps briefly lower than MVFR conditions are possible would be
+when showers and thunderstorms move across, mainly late 
+afternoon into tonight. Thunderstorms relatively higher chance 
+late this afternoon into the first half of this evening.
+
+Regarding winds, S-SW flow expecting until this evening.
+Wind speeds near 5-7 kt into AM hours. Then winds increase to 
+near 10-13 kt with gusts developing to near 20 kt for this 
+afternoon. These relatively higher winds and wind gusts last 
+into early this evening before decreasing and eventually 
+shifting to more of a northerly direction.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Timing of thunderstorms could be off by 1-2 hours from TAF.
+
+MVFR stratus possible for KLGA, KEWR and KTEB into this morning. 
+KJFK MVFR stratus end time could be 1-3 hours off from TAF.
+
+.OUTLOOK FOR 08Z MONDAY THROUGH THURSDAY...
+
+Late tonight: Chance of showers and MVFR possible. N-NE flow 
+increasing late to 10-15 kt with gusts up to 20-25 kt.
+
+Monday: Lingering showers and MVFR possible. NE winds 10-15 kt 
+with gusts up to 20-25 kt.
+
+Tuesday: Mainly VFR. Chance of showers, slight chance of
+thunderstorms late at night with MVFR or lower possible. E 
+gusts 15-20 kt day into eve.
+
+Wednesday: MVFR or lower possible with a chance of showers. A
+slight chance of thunderstorms.
+
+Thursday: MVFR or lower possible with a chance of showers 
+afternoon into early eve. NE wind gusts around 20 kt.
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+SCA issued for all waters. After a cold frontal passage, NE 
+winds should gust up to at least 25-30 kt from tonight into
+early Tue morning. A few gusts up to 35 kt may be possible on
+the ocean late tonight, but of too short duration to warrant a
+gale warning. Winds diminish Mon afternoon, but a persistent
+NE-E flow should maintain hazardous ocean seas into Mon night.
+Swells from Hurricane Erin should then start to arrive, with 
+ocean seas remaining at 5-6 ft into Tue. 
+
+An extended period of SCA cond expected for the ocean and the
+sound E of Orient Point, with swells from Erin and eventually 
+gusts 25-30 kt on the ocean on Thu as Erin passes well to the 
+SE. Peak ocean seas are forecast from late Wed night into Thu,
+in excess of 10 ft and reaching 12-16 ft out east. 
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through attm. 
+
+&&
+
+.TIDES/COASTAL FLOODING...
+The risk for rip currents should increase to moderate today,
+with a stronger S-SW wind up to 10-15 kt with a longer period 
+2-ft SE swell at 10 sec. 
+
+A moderate rip current risk is forecast for Monday though it was
+borderline high risk due to increasing swell and waves toward
+the afternoon.
+
+There is potential for dangerous surf and rip currents from Tue
+onward, as building long period swells from Erin arrive. 
+Minor coastal flooding and beach erosion may also become
+possible during this time. Bias-corrected STOFS guidance
+indicates only localized minor flooding, but departures 1/2 ft 
+higher than fcst (reasonable worst case) could lead to more 
+widespread minor flooding with the Thu night high tide cycle. 
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory from 2 AM to 9 AM EDT Monday for ANZ331-
+     335-338-345.
+     Small Craft Advisory from 2 AM to noon EDT Monday for ANZ332-
+     340.
+     Small Craft Advisory from 2 AM Monday to 6 AM EDT Tuesday for 
+     ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...BG/JM
+NEAR TERM...BG
+SHORT TERM...BG
+LONG TERM...JM
+AVIATION...JM
+MARINE...BG/JM
+HYDROLOGY...BG/JM
+TIDES/COASTAL FLOODING...BG

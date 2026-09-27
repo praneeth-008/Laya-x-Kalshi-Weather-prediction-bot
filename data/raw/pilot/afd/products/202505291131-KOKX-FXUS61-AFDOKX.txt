@@ -1,0 +1,209 @@
+641 
+FXUS61 KOKX 291131
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+731 AM EDT Thu May 29 2025
+
+.SYNOPSIS...
+Weak low pressure off the southern New Jersey coast will pass
+south of Long Island this morning and head east of New England
+tonight. Another weak low over the Mid Atlantic region will
+affect the area on Friday. A stronger low developing over the
+Mid Atlantic region on Friday will pass over the area Friday
+night and then head north into New England on Saturday. 
+A trailing cold front will move through Saturday night. This low
+will then meander over eastern early next week as high pressure
+builds from the west.
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+Rain with the low off the southern NJ coast is pulling out a
+little more quickly, with steady precip over ern Long Island and
+SE CT, and some drizzle extending west from there to the NYC
+metro area. This precip could linger out east until early 
+afternoon, elsewhere a mainly dry afternoon expected, with some 
+partial clearing possible late as the low levels gradually dry 
+out and a N flow 5-10 mph takes hold in the metro area and along
+the coast. Temps late today should make it to the lower 70s 
+from NYC north/west, and remain in the 60s to the east, a few 
+degrees below normal.
+
+&&
+
+.SHORT TERM /6 PM THIS EVENING THROUGH SATURDAY/...
+Most of tonight should be dry but with mostly cloudy skies. 
+Deep layer SW flow/WAA and approaching mid level shortwave 
+energy could bring a chance of showers mainly to the NYC metro 
+area as early as late tonight, then likely PoP from NYC west and
+chance elsewhere through the day on Fri. Low temps tonight range
+form the mid 50s inland to the lower 60s inland, with highs
+mostly in the 70s.
+
+As a stronger mid level shortwave trough moves through the OH
+Valley on Fri, sfc cyclogenesis should take place over the Mid
+Atlantic region. The shortwave and sfc low will both pass over 
+the CWA Fri night, bringing a round of moderate to heavy rain 
+and a few tstms especially to areas NW of NYC Fri night into 
+early Sat morning. After the low moves up into New England on 
+Sat, a gusty flow (W-NW inland and SW along the coast) will 
+develop, but with cyclonic low level flow, another approaching 
+shortwave aloft, and continued instability, expect showers/tstms
+to develop in the afternoon and late day hours especially from
+NYC metro north/west. Highs on Sat should reach 70-75.
+
+&&
+
+.LONG TERM /SATURDAY NIGHT THROUGH WEDNESDAY/...
+No significant changes were made to the forecast Saturday night 
+through the middle of next week.
+
+Deep troughing and an associated upper low will spin over the 
+northeast Saturday night. The main surface low that passes over the 
+area Saturday morning will be located over eastern Canada Saturday 
+night. A trailing cold front will move across the area with guidance 
+signaling a weaker wave of low pressure forming along the boundary 
+as it crosses the area Saturday evening. This wave is in response to 
+a vigorous vort max rounding the base of the upper trough over the 
+southern Middle Atlantic. The NBM has increased PoPs for the first 
+half of Saturday night, but still in the chance category, as this 
+feature is beginning to get better resolved. The passage of the cold 
+front will start brining in some cooler air and forecast soundings 
+are not indicating much CAPE, if at all, so have left mention of 
+thunder out of the forecast Saturday evening. Any showers should 
+push east overnight into early Sunday with the front offshore and 
+wave of low pressure over coastal New England by day break Sunday. 
+
+The upper troughing will remain over the northeast into eastern 
+Canada Sunday through early next week. High pressure off to our west 
+will be slow to build eastward with low pressure meandering over 
+eastern Canada during this time period. The forecast remains dry 
+Sunday and Monday despite cyclonic flow aloft. However, multiple 
+shortwaves spinning around the larger trough could introduce 
+scattered to broken clouds at times both afternoons. The axis of the 
+trough should shift to our east Tuesday allowing ridging to build 
+towards the area into Wednesday with the continuation of dry 
+conditions. 
+
+Temperatures for Sunday will be below normal in the upper 60s, but 
+should slowly start trending milder early next week. Temperatures 
+look to reach the lower 70s on Monday and then should be close to 
+normal by Tuesday in the middle to upper 70s. The consensus of the 
+guidance yields highs in the middle to upper 70s next Wednesday for 
+most spots with low 80s possible in NE NJ.
+
+&&
+
+.AVIATION /12Z THURSDAY THROUGH MONDAY/...
+Low pressure passes just south and east of the terminals through 
+this evening.
+
+Mainly IFR conditions with some pockets of LIFR possible to
+start this morning. Light rain will continue this morning,
+mainly from around the NYC metro on east. Conditions will 
+likely begin improving to MVFR late this morning/early afternoon
+with VFR becoming likely late afternoon/early evening. VFR 
+should prevail first half of tonight across most terminals 
+before lower to IFR or MVFR late tonight/early Friday morning.
+
+NE winds 10 kt or less to this morning. Winds will then back 
+towards the N-NW this afternoon. Winds should then become SW-S 
+late afternoon early evening, although there is a chance at 
+variable wind directions for a time 18-22z. A light SW-S flow 
+should prevail tonight. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Timing of improving conditions may be off by 1-3 hours this
+morning and afternoon.
+
+Wind direction may become variable for a time this afternoon,
+but should settle to the SSW by this evening. 
+
+Timing of lowering conditions tonight may be off by several
+hours.  
+
+.OUTLOOK FOR 12Z FRIDAY THROUGH MONDAY... 
+
+Friday: MVFR/IFR ceilings possible with showers possible. 
+
+Friday night and Saturday: Showers and possibly a thunderstorm.
+MVFR or lower likely. SW-W winds G15-20kt Saturday afternoon.
+
+Sunday and Monday...VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+SCA remains in effect for the ocean waters, with E-NE flow just
+N of a sfc low passing from off the southern NJ to south of Long
+Island producing gust up to 25 kt and seas 5-6 ft. Winds relax
+this afternoon, but a building SE swell should keep seas 5-6 ft
+into this evening on the ocean W of Fire Island Inlet, and for 
+most of tonight E of there to Montauk. 
+
+SCA cond also likely to develop on the ocean and the far ern
+Sound and Peconic/Gardiners Bays, with WSW flow increasing to
+20-25 kt and some gusts up to 30 kt, and ocean seas building to
+5-8 ft. 
+
+SCA conditions will continue on the ocean Sat night into Sunday,
+mainly hazardous seas. Seas should subside below 5 ft late 
+Sunday and remain below through early next week.
+
+&&
+
+.HYDROLOGY...
+Rainfall of 1 to 1.5 inches with locally higher amts is possible
+from NYC north/west Fri into Sat, with the bulk of this rainfall
+occurring Fri night into early Sat morning as low pressure
+passes through. Hydrologic impacts so far appear to be limited
+to minor urban/poor drainage flooding. Forecast PW is average to
+slightly above average, but elevated convection along with a 
+chance of a LLJ and mid level shortwave passing through could 
+help maximize the potential of the PW values. Also can't rule 
+out downpours Saturday afternoon and early evening since 
+thunderstorms will still be possible.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+Astronomical tides will gradually subside through the end of
+the week. However, water levels just barely touching minor 
+flood benchmarks are possible in spots with the next two 
+nighttime high tide cycles tonight and Fri night. 
+Most vulnerable spots per latest bias corrected blend of ETSS,
+STOFS, and the NYHOPS central forecast include Freeport, 
+Newark Bay, and Bridgeport. 
+
+There is a high rip current risk today, as SE swells build to
+5-6 ft.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...High Risk for Rip Currents through this evening for NYZ075-080-081-
+     178-179.
+NJ...None.
+MARINE...Small Craft Advisory until 6 AM EDT Friday for ANZ350.
+     Small Craft Advisory until 2 AM EDT Friday for ANZ353.
+     Small Craft Advisory until 10 PM EDT this evening for ANZ355.
+
+&&
+
+$$
+
+SYNOPSIS...BG/DS
+NEAR TERM...BG
+SHORT TERM...BG
+LONG TERM...DS
+AVIATION...DS
+MARINE...BG/DS
+HYDROLOGY...BG
+TIDES/COASTAL FLOODING...

@@ -1,0 +1,222 @@
+521 
+FXUS61 KOKX 292357
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+757 PM EDT Sun Jun 29 2025
+
+.SYNOPSIS...
+A cold front slowly drifts south of the area and brief weak high 
+pressure builds in behind it. The aforementioned boundary then lifts 
+north as a warm front late Monday into Monday night, followed by a 
+cold frontal passage Tuesday night. Weak high pressure will be 
+in control mid week. A cold front approaches and moves through 
+late Thursday into Thursday night, followed by high pressure 
+returning Friday into next weekend.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM MONDAY MORNING/...
+A cold front south of the area continues to slowly drift south 
+tonight as brief weak high pressure builds in from the north. Aloft, 
+the flow remains mainly zonal tonight.
+
+Mostly clear skies expected for tonight. Combined with light 
+winds expecting decent radiational cooling conditions so went 
+with MOS consensus for low temperatures. This may also allow for
+some patchy radiation fog in the early morning hours. 
+Confidence is low at this time.
+
+&&
+
+.SHORT TERM /6 AM MONDAY MORNING THROUGH TUESDAY NIGHT/...
+Heights rise at least the first half of Monday with shortwave upper 
+level ridging ahead of a digging trough over the Mid-West. Weak high 
+pressure over the area dissipates and a warm front approaches from 
+the south. This warm front is expected to push north of the area 
+sometime late Monday into Monday night. We will be warm sectored 
+Monday until a pre-frontal trough and cold front swing through late 
+Tuesday into Tuesday night.
+
+Much of Monday remains dry with partly cloudy skies. Late in 
+the day as the warm front approaches, isentropic and mid-level 
+shortwave lift could bring some showers to the area. Chances for
+this linger into Tuesday morning. Plenty of elevated 
+instability is still seen in forecast soundings and kept thunder
+chances in during this time.
+
+Depending on what time the warm front pushes north, much of Tuesday 
+morning/early afternoon should actually be dry. There is some 
+uncertainty also in how much we can break out, but given we'll 
+be in the warm sector and some hints from forecast soundings 
+there will likely a be brief period Tuesday morning with mostly 
+sunny skies. Forecast soundings also show decent mixing on 
+Tuesday (with the NAM even mixing up to 850mb). This gave enough
+confidence to lower NBM Tds that usually have a higher bias 
+anyway. Thinking with the mixing we likely top out with Tds in 
+the lower 70s. High temperature forecast remained the same, but 
+given lower Tds now have lower heat index values and we likely 
+fall short of the 1 day Heat Advisory criteria of 100. However, 
+this will need to be monitored as Tds can still trend back up.
+
+Heights start to fall more rapidly aloft as we get into the late 
+Tuesday period. This combined with lift from an approaching pre-
+frontal trough/cold front will spark showers and thunderstorms 
+likely somewhere just west of the area. Thunderstorms should have no 
+problem developing given plenty of CAPE. Using MLCAPE given the 
+deeper mixed layer shows a model consensus of about 2000 J/kg, which 
+can definitely end up being higher. This combined with decent
+shear (0-6km bulk shear 30-35 kt) will likely allow some storms
+to organize and become severe. At this time damaging wind gusts would
+be the primary hazard, but the CAPE profile is deep and wide
+enough to support large hail as well.
+
+These showers and thunderstorms will likely produce heavy 
+downpours given an environment with 2-2.25 inches of pwat. 
+Early look at longer range CAMs do show potential for 1+ per 
+hour rainfall rates. However, storm motion is expected to be 
+fast and at this time minor urban and poor drainage flooding 
+seems more likely than flash flooding, but an instance of flash 
+flooding can not be completely ruled out.
+
+&&
+
+.LONG TERM /WEDNESDAY THROUGH SUNDAY/...
+* Seasonably warm and humid through Thursday
+
+* Less humid towards the 4th of July
+
+A cold front is forecast to be situated just offshore beginning 
+Wednesday morning. There may be some lingering showers across Long 
+Island early Wednesday morning, but for the most part, the forecast 
+area will be dry. High pressure builds in behind it and will be in 
+control Wednesday through Thursday morning with dry conditions. 
+Humidity levels drop somewhat for Wednesday and Thursday as dew 
+points slowly fall into the low to middle 60s.
+
+A cold front approaches Thursday and at this time NWP is indicating 
+some dynamics and frontal forcing with this boundary, enough for the 
+chance for thunderstorms for portions of the forecast area, with 
+highest chances across the Lower Hudson Valley. May have to bump up 
+POPs with next forecast package as ECMWF, GFS, and Canadian 
+deterministic models show more in the way of precipitation associated 
+with this cold front late Thursday as compared to previous forecast 
+runs. If this trend continues, showers and thunderstorms will be 
+more likely.  
+
+Lower humidity levels expected later in the week, towards the 4th of 
+July holiday and into the first part of the weekend with dew points 
+falling into the 50s and lower 60s by Saturday. Would not be 
+surprised to see even lower dew points as models typically have a 
+hard time handling humidity levels, especially in the long term.
+
+Conditions are expected to remain mainly dry Friday into next 
+weekend with high pressure in control. Humidity levels climb 
+Saturday night as a warm front lifts north of the area. Slight 
+chance for showers and thunderstorms Sunday with the approach of 
+another cold front to the west.
+
+&&
+
+.AVIATION /00Z MONDAY THROUGH FRIDAY/...
+A frontal boundary stalls south of the region with weak high 
+pressure residing across the area through Monday. Monday night, the 
+front starts to push back north as a warm front.
+
+VFR conditions expected through much of the TAF period. With the 
+warm front Monday night, the 30 hr TAF sites have prob30s for 
+showers and MVFR. There is a slight chance of a thunderstorm, too 
+low confidence to put in TAF.
+
+While not stated in the TAFs, some non-NYC terminals may have some 
+patchy fog early Monday morning with brief IFR to MVFR possible. 
+Confidence too low to put in TAFs at this time.
+
+Regarding winds, they are all expected to become light, at or 
+less than 5 kts, with variable direction tonight. Generally a 
+more southerly flow expected Monday with wind speeds near 5-10 
+kts. This southerly flow decreases partially Monday night with
+wind speeds expected to be below 10 kts.
+
+
+     NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Amendments possible for wind direction, timing of sea breeze Monday. 
+This could be off by 1-3 hours from the TAF.
+
+Amendments possible to refine timing of showers which could occur a 
+few hours before indicated in TAF.
+
+.OUTLOOK FOR 00Z TUESDAY THROUGH FRIDAY... 
+
+Monday night: MVFR or lower possible. A chance of showers and a 
+slight chance of thunderstorms.
+
+Tuesday: MVFR or lower possible with showers and a chance of 
+thunderstorms. Showers and any possible thunderstorms taper off late 
+at night. SW wind gusts 15-20 kt day into eve.
+
+Wednesday: VFR.
+
+Thursday: A slight chance of a shower or thunderstorm with 
+brief MVFR or lower possible.
+
+Friday: VFR.
+
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Sub SCA conditions expected up until Tuesday afternoon when a S/SW 
+strengthens. This is will likely only impact the ocean waters, with 
+5 foot seas and 25 kt gusts, but there is potential for the gust 
+forecast elsewhere to trend upward. Gusts likely die down Tuesday 
+night, but 5 ft seas linger into Wednesday morning.
+
+The eastern ocean zone may start of Wednesday with 5 ft seas, but 
+will be diminishing through the day.  Sub-SCA conditions are 
+expected from Wednesday night through Sunday with a leak of any 
+strong pressure gradients over the region.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts are anticipated through Monday. A half inch to 
+inch of rain is currently forecast for Tuesday into Tuesday
+night on average. Locally higher amounts are possible, and 
+there is at least a low chance for flash flooding to occur. 
+Minor poor drainage flooding would be more likely.
+
+No hydrologic concerns thereafter.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+There is a moderate risk of rip current development across the
+ocean beaches Monday and a high risk of rip currents on
+Tuesday.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JP/JT
+NEAR TERM...JT
+SHORT TERM...JT
+LONG TERM...JP
+AVIATION...JM
+MARINE...JP/JT
+HYDROLOGY...JP/JT
+TIDES/COASTAL FLOODING...

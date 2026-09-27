@@ -1,0 +1,259 @@
+626 
+FXUS61 KOKX 280559
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+159 AM EDT Sat Jun 28 2025
+
+.SYNOPSIS...
+High pressure will continue shifting east of the New England 
+coast tonight as a warm front approaches from the south. The 
+front lifts through during Saturday morning, followed by a cold 
+front Saturday night. High pressure returns on Sunday. A frontal
+boundary advances back north as a warm front Monday afternoon, 
+getting captured by low pressure tracking east in Canada. A cold
+front follows Tuesday evening with high pressure mid to late
+next week.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM THIS MORNING/...
+Made some minor adjustments to the forecast. Added drizzle
+wording in addition to making the mention of rain being light 
+through much of the overnight. Temperatures slightly adjusted to 
+convey less of a vast range and less spatial variance. Expanded 
+along the coast the mention of slight chance of thunder per model 
+near zero Showalter Indices towards early Saturday morning.
+
+The high will begin moving offshore tonight as the upper ridge 
+starts weakening. This is in response to an approaching shortwave 
+trough traversing across southeast Canada. The stalled front to our 
+south across the Middle Atlantic begins lifting north as a warm 
+front tonight. Clouds will thicken and lower overnight, especially 
+as the warm front draws closer to the area. Lift with the front is 
+weak with little to no shortwave energy aloft nearby to add a more 
+organized area of forcing. Cannot rule out some showers late tonight 
+and early Saturday morning. Forecast soundings indicate weak lift, 
+likely from overrunning ahead of the warm front, so some drizzle or 
+light rain is also possible early Saturday morning. Thunder 
+chances overnight/early Saturday appear limited with weak 
+elevated instability nosing in from the southwest late. Have 
+mentioned a slight chance of thunder from around the NYC metro 
+on west, but cannot completely rule it out areawide. The 
+increasing dew points and nearby warm front also support mention
+of patchy fog. Turbulent mixing above the boundary layer should
+prevent any of the fog from becoming dense.
+
+&&
+
+.SHORT TERM /6 AM THIS MORNING THROUGH 6 PM SUNDAY/...
+Main concerns for Saturday will increasing heat indices in the 
+afternoon as well as potential for an isolated severe thunderstorm 
+in the late afternoon and early evening.
+
+The warm front will continue lifting north of the area in the 
+morning. A shower or two remains possible in the morning and
+cannot completely rule out a rumble of thunder. Any low clouds,
+drizzle and fog diminish by mid to late morning as the flow 
+becomes southerly and heating takes place. Temperatures will 
+warm fairly significantly compared to the last few days. 
+Afternoon highs should reach the low 80s across Long Island and 
+southern Connecticut due to onshore flow influence. However, the
+NYC metro, NE NJ, and Lower Hudson Valley should rise into the 
+middle and upper 80s. Dew points increase into the lower 70s 
+yielding max heat indices in urban NE NJ in the mid to upper 90s
+with around 90 away from the coast and influence of the marine 
+layer.
+
+Potential for convection looks to be late in the afternoon and
+early evening. Forecast soundings indicate capping around 5 kft
+into the afternoon and there may be a weak middle level 
+cap/warm air to limit convective development. Heights aloft 
+should fall a bit late in the day with the shortwave moving 
+across New England. The main forcing will come from surface 
+convergence and some lift from weak energy aloft. These features
+should be enough to allow convection to develop in an 
+environment with about 1000 J/kg of MLCAPE and about 25 kt of 
+0-6 km unidirectional shear. The stronger flow/shear looks to 
+reside northeast of the area and greater instability likely 
+remains across the Middle Atlantic. CAMs have signaled potential
+of a fairly progressive broken line of convection developing 
+late in the day and moving into the area in the evening. As the 
+line encounters the marine environment, the line should weaken 
+as it encounters more stable air across Long Island and 
+Connecticut towards or just after sunset. SPC has maintained a 
+marginal risk for a severe thunderstorm west of Long Island and 
+Connecticut. The main concern is from damaging wind gusts. 
+
+Locally heavy downpours are possible as PWATs are increase to
+around 1.80 in. However, the progressive nature of the system 
+will limit duration of heavy rain and limit the overall flood 
+threat. Minor urban and poor drainage flooding is possible. 
+
+The front and shortwave push east of the area Saturday night.
+High pressure builds in from the west allowing some drier air to 
+move into the area. The building high pressure and lingering 
+troughing just to our east sets the stage for a predominately 
+westerly flow on Sunday. This should hold off sea breezes until 
+potentially late in the day. Guidance has trended warmer on 
+Sunday with highs now in the middle to upper 80s. Heat indices 
+look to remain near the actual air temperature as dew points 
+should mix out into the lower 60s due to the westerly flow.
+
+&&
+
+.LONG TERM /SUNDAY NIGHT THROUGH FRIDAY/...
+A weakly amplified ridge with high pressure at the surface
+keeps conditions mainly dry Sunday night into large portion of 
+Monday. Mainly clear conditions are expected Sunday night.
+
+Cloud cover may increase late Monday afternoon as the ridge
+begins to shift offshore in response to a trough that digs into
+the Great Lakes and Canada. This trough also brings surface low
+pressure to our north in Canada, which captures a stalled 
+frontal boundary to our south, bringing it through our area 
+Monday afternoon as a warm front. 
+
+We remain warm-sectored Monday evening into Tuesday evening
+before a cold front moves through early Tuesday night. Warm 
+temperatures, ample moisture, higher dewpoints, and decent 
+instability should lead to not only showers during this period, 
+but general thunderstorms. Global models are bringing pockets of
+1500-3000 J/kg through the area during this timeframe. Severe 
+weather looks unlikely until the cold front. Ahead of the FROPA,
+bulk shear looks to climb to 35-45 kts which could lead to some
+stronger updrafts in longer-lived thunderstorms. This may 
+support some heavier downpours and instances of damaging winds 
+in stronger thunderstorms that develop along and ahead of the 
+cold front. 
+
+Late Tuesday night, conditions dry as zonal flow sets in a loft
+with high pressure at the surface holding Wednesday into 
+Friday. 
+
+Temperatures Monday and Tuesday range from the mid 80s for most
+to lower 90s in parts of the urban NYC metro. With dew pts 
+progged into the 60s and 70s. Little in the way of temperature 
+relief behind the front Tuesday night, though drier air in 
+subsequent W/NW flow helps to lower humidity values mid to late 
+week.
+
+&&
+
+.AVIATION /06Z SATURDAY THROUGH WEDNESDAY/...
+A warm front approaches overnight into Saturday which gives rise to 
+very light showers and pockets of drizzle, along with the overall 
+development of lower clouds as well as the chance of some fog. The 
+warm front eventually passes north of the area Saturday, followed by 
+an approaching cold front towards late in the TAF period towards 
+Saturday evening / night.
+
+Expect mainly MVFR conditions to prevail initially for the 
+overnight, with IFR into Saturday morning. Localized LIFR possible 
+early Saturday. Improvement back to VFR is forecast Saturday 
+afternoon, with only MVFR and IFR for KGON. Improvement to VFR for 
+KISP and KBDR Saturday afternoon may be brief as MVFR and IFR return 
+into Saturday evening. For KGON and possibly KISP, low stratus could 
+return but otherwise for all terminals there is a chance for showers 
+and thunderstorms which could bring temporary MVFR to IFR conditions 
+Saturday evening. Relatively higher chances of thunder at KSWF so 
+tempo group for that terminal as opposed to PROB30 for the others.
+
+Regarding winds, it will be an overall east to southeast flow around 
+5 to 10 kt overnight. The winds then become more SE later Saturday, 
+and eventually become more S late Saturday afternoon and evening. No 
+significant changes expected in wind speeds, except within any 
+thunderstorms Saturday evening which could bring a sudden shift to 
+a more westerly direction and higher gusts.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Amendments remain likely to refine the timing of changing flight 
+categories to IFR. Some fluctuation between categories possible.
+
+Rain / showers late tonight into early Saturday may end up being 
+just intermittent drizzle. Amendments possible to refine this 
+timing. 
+
+Amendments also likely to refine the timing and probability of 
+thunderstorms for later in the TAF period.
+
+
+.OUTLOOK FOR 06Z SUNDAY THROUGH WEDNESDAY... 
+
+Late Saturday night: Any shower and thunderstorms should end towards 
+or just after midnight. Some improvement to VFR likely, although 
+MVFR may linger.
+
+Sunday: Mainly VFR.
+
+Monday: VFR during the day. A chance of showers and thunderstorms at 
+night. MVFR or lower possible at night.
+
+Tuesday: Showers and thunderstorms with MVFR or lower possible, 
+especially afternoon and evening. SW wind gusts 15-20 kt day into 
+early eve.
+
+Wednesday: Mainly VFR.
+
+Detailed information, including hourly TAF wind component forecasts,
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Ocean seas have subsided below 5 ft this evening. All marine 
+zone conditions are expected to remain below SCA thresholds for
+the rest of tonight. Winds may increase again on Saturday, but 
+should remain below 25 kt. Otherwise, conditions will remain 
+below SCA levels through Sunday. 
+
+Sub-SCA conditions are expected Sunday night through early
+Tuesday. Winds and waves may approach SCA conditions Tue 
+afternoon into early Tue night in response to an approaching and
+passing cold front. Thereafter, sub-SCA conditions return into 
+mid & late week.
+
+&&
+
+.HYDROLOGY...
+No significant hydrologic concerns are anticipated through next
+week. Locally heavy downpours will be quick moving late Saturday
+into Saturday evening with only minor nuisance flooding 
+expected.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+Localized minor coastal flooding remains possible for the most
+vulnerable spots along the back bays of S Nassau and Queens 
+during this evening's high tide cycle, as water levels come down
+slightly from a new moon early in the week. No statements were
+issued as no impacts are expected. 
+
+Surf height lowers to 2 feet Saturday with onshore flow, so rip 
+current risk will lower to moderate on Saturday. Sunday, winds
+shift to westerly for a portion of the day, but rip risk remain
+moderate under 2 ft surf height.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...BR/DS
+NEAR TERM...JM/BR/DS
+SHORT TERM...DS
+LONG TERM...BR
+AVIATION...JE
+MARINE...BR/DS
+HYDROLOGY...BR/DS
+TIDES/COASTAL FLOODING...

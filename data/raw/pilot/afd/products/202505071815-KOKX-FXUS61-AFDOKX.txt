@@ -1,0 +1,148 @@
+711 
+FXUS61 KOKX 071815
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+215 PM EDT Wed May 7 2025
+
+.SYNOPSIS...
+After weak high pressure builds into the region tonight, a
+stalled front north of New York City will set the stage for a
+soaking rainfall later Thursday into Friday. A few showers may
+linger into Saturday before high pressure brings drier weather
+early next week.
+
+&&
+
+.NEAR TERM /THROUGH THURSDAY/...
+Not seeing much in way of showers on radar this afternoon so 
+far but satellite loop shows cloudiness rotating into Tri State 
+Area from upstate NY and PA which will pass through region early
+tonight. High-res models/ensembles still indicate a few showers
+may develop near lower Hudson Valley into adjacent parts of CT 
+through sunset. As upper trough rotates through tonight, 
+cloudiness will linger and should prevent any fog formation 
+overnight.
+
+Weak cold front approaches overnight and probably stalls to the
+north of NYC Thursday. Front has little moisture to work with 
+so we're expecting dry weather to persist through much of day, 
+though a few showers could arrive late Thu afternoon in NE NJ, 
+lower Hudson Valley, and even NYC. Pressure gradient remains
+weak which will allow for coastal sea breezes Thu afternoon.
+
+&&
+
+.SHORT TERM /THURSDAY NIGHT THROUGH FRIDAY NIGHT/...
+Key Messages:
+
+ * Soaking rainfall of 1-2" Thu night into Fri, perhaps up to 3"
+   in parts of Orange County.
+
+ * Urban/poor drainage flooding possible for the Fri AM commute
+   but rivers/streams should remain within their banks.
+
+Low pressure will track from mid Atlantic to near NYC Thu night
+into Fri before slowly heading into New England Sat, bringing
+widespread soaking rainfall to region. Another blocky pattern
+taking shape as upper low closes off over eastern Great Lakes
+and eventually captures surface low, resulting in slow
+improvement (drying) by Saturday.
+
+Pattern certainly favors widespread rainfall with plenty of 
+large scale lift and broad southerly flow aloft which will bring
+deep moisture into Northeast. That said, we're not seeing a lot
+of signals for excessive (flooding) rainfall with many of the 
+ensemble parameters within 90th percentile, though PWATs of up 
+to 1.5" are certainly anomalous for this time of year. Area to 
+keep an eye on is near Catskills (Orange County) where we could 
+see totals of 2-3" in a few locations. 
+
+Ensemble river forecasts show some rises but all within their 
+banks and despite recent rainfall, global and CAM ensemble 
+probabilities for 2"+ rainfall are within FFG values. 
+Nonetheless, we do expect to see pockets of usual urban and poor
+drainage flooding around time of Friday AM commute. Given all 
+of this, we'll hold off on Flood Watches at this time but if 
+things trend upwards we would need to consider a Flood Watch
+for for parts of the region (especially Orange County).
+
+&&
+
+.LONG TERM /SATURDAY THROUGH TUESDAY/...
+Drier pattern takes shape after Saturday as upper flow becomes
+more zonal into early next week and yet another upper low closes
+off over Gulf Coast. We should also see temperatures rebound to
+near or even above normal levels during this time.
+
+&&
+
+.AVIATION /18Z WEDNESDAY THROUGH MONDAY/...
+A trough of low pressure will remain near the terminals 
+through tonight before a cold front stalls north of NYC
+Thursday.
+
+VFR through Thu with ceilings AOA 050 much of the time. A brief
+isolated shower is possible in lower Hudson Valley and into
+western CT later this afternoon but not enough confidence to
+include in TAFs. Did add mention (Prob30) of showers for NYC
+metro airports late Thu afternoon, but showers along with
+MVFR/IFR conditions are more likely Thu night into Fri.
+
+SW winds around 10kt through the evening except S sea breeze at
+KJFK. Not confident that it reaches KLGA but there is a low
+chance 21z-00z. Lighter W winds tonight shift to N/NW overnight,
+with sea breezes at KJFK/KLGA Thu afternoon.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No unscheduled amendments expected.
+
+.OUTLOOK FOR 12Z FRIDAY THROUGH MONDAY...
+
+Friday: MVFR or lower possible in showers. 
+
+Saturday: Mainly VFR, except MVFR or lower possible isolated  
+showers.
+
+Sunday and Monday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Weak pressure gradient will maintain sub-SCA conditions through
+at least Fri. It's possible we see marginal SCA conditions on at
+least ocean waters as low pressure tracks through region Fri 
+into Sat along with widespread rainfall.
+
+High pressure builds over region early next week with wind and
+sea conditions staying below SCA.
+
+&&
+
+.HYDROLOGY...
+Odds favor a widespread 1-2" rainfall late Thursday into Friday
+night, but locally there could be some 2-3" totals near
+Catskills including Orange County. Despite recent rainfall, 
+flood impacts are expected to be minor and limited to usual 
+urban and poor drainage areas, but if rainfall is expected to be
+higher, we may need Flood Watches for parts of the region
+(especially Orange County).
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+JWD

@@ -1,0 +1,185 @@
+365 
+FXUS61 KOKX 020647
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+247 AM EDT Wed Jul 2 2025
+
+.SYNOPSIS...
+A cold front slowly advances through the area from the west this 
+morning and stalls this morning. It eventually washes out tonight. 
+Another cold front passes Thursday afternoon into early Thursday 
+evening. High pressure builds in behind the front Thursday night. 
+High pressure remains on Independence Day into the beginning of
+the weekend. The high moves offshore late Sunday followed by a 
+pre- frontal trough and weak low pressure southwest of the area 
+Monday into Tuesday. 
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+A cold front is draped along the western edge of our CWA. This front 
+is expected to slowly advance eastward through a part of our area 
+this morning before stalling into the afternoon, then washing out 
+altogether, tonight. A passing shortwave will bring some pockets of 
+positive vorticity advection through the area early this morning in 
+mid-morning before exiting east by midday. 
+
+Scattered light rain/drizzle remains across the area early this 
+morning. PWATs are currently analyzed at 1.9-2 inches by SPC's 
+mesoanalysis and have dropped a few tenths of an inch over the past 
+several hours as the cold front advances. Light rainfall may 
+continue for a large portion of the area into daybreak, but will 
+taper west to east through midday, as the front slowly advances with 
+drier air filtering in behind in helping to cut off precip. Dry 
+weather is expected for much the area by this afternoon with only 
+slight chances for a few lingering light showers along the southern 
+and eastern coasts this afternoon. Instability is expected to remain 
+poor through midday, so no thunderstorms are expected. 
+
+Partly sunny skies will return to much of the area this afternoon 
+and early evening as the front stalls or washes out across the 
+eastern portion of our area. A moisture gradient may still linger 
+over far eastern areas, keeping some cloud cover around eastern 
+Suffolk county and southern New London county into tonight. Mostly 
+clear skies are expected for the rest of the area tonight. 
+
+Temperatures today will end up cooler than what we saw yesterday. 
+Highs will be in the mid/low 80s with lows tonight in the low 70s to 
+mid 60s. 
+
+&&
+
+.SHORT TERM /THURSDAY THROUGH FRIDAY NIGHT/...
+On Thursday, a long wave upper-level trough over Ontario & Quebec 
+amplifies as it rotates east into Quebec with surface low pressure 
+developing over eastern Quebec and the Canadian Maritimes. This 
+brings another cold front through the area Thursday afternoon into 
+early evening. 
+
+While much of the morning will be mostly sunny, partly to mostly 
+cloudy skies are expected in the afternoon as the cold front brings 
+with it a period of showers and thunderstorms. 00Z CAMs are wishy 
+washy on the amount of CAPE. However, they are consistent on only 
+marginal mid-level lapse rates with good 0-6 km bulk shear. With 
+marginal mid-level lapse rates (most 00Z CAMs range from 6.5-
+7.1C/km) it may be difficult for some thunderstorm development, but 
+given enough CAPE, thunderstorm chances look decent. With ample 
+shear available (most 00Z CAMs have at least 30 kts, with some 
+pushing 60 kts) any thunderstorms that do occur could become strong 
+to severe with an isolated risk for damaging winds. 
+
+Given more radiational heating, highs will be warmer on Thursday, 
+reaching the low 90s to mid 80s. Lows Thursday night will cool to 
+near 70 to the mid 50s at the coast while interior areas will cool 
+into the low 60s. 
+
+Our Independence Day forecast couldn't look better. High 
+pressure settles Thursday night following a cold front and 
+remains in place through Independence Day. Sunny skies are 
+expected with highs in the low to mid 80s. Clear skies remain 
+into Friday night allowing for good viewing of firework 
+displays. 
+
+&&
+
+.LONG TERM /SATURDAY THROUGH TUESDAY/...
+No significant changes were made to the extended forecast with NBM 
+guidance utilized.
+
+Upper ridging is expected through the weekend. Warming 
+temperatures are expected (and humidity) each day Saturday 
+through Monday.
+
+&&
+
+.AVIATION /07Z WEDNESDAY THROUGH SUNDAY/...
+A cold front stalls over the area into today, before moving east 
+Wednesday night into Thursday morning.
+
+SHRA persists much of the time into the overnight for the city and 
+especially eastern coastal terminals. MVFR cigs likely to prevail 
+overnight until daybreak or so with some pockets of MVFR and IFR 
+vsbys possible for a few outlying terminals. Then an improvement and 
+return to VFR thru mid morning, if not sooner. VFR prevails 
+for the afternoon into the evening.
+
+Winds settle in at 5 kt or less overnight. Then for the later today 
+become mainly WNW for inland terminals with coastal terminals 
+turning more SW for the afternoon with sea breeze development up to 
+10 kt. The winds then become light during Wednesday evening.
+
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Amendments likely due to uncertainty in timing of and flight rule 
+categories associated with SHRA/TSRA, improvement to VFR 
+
+Isolated shra/tsra possible late Wed afternoon.
+
+.OUTLOOK FOR 06Z THURSDAY THROUGH SUNDAY... 
+
+Wednesday night: Mainly VFR, with pockets of sub VFR possible for 
+eastern most terminals like KGON and KISP late at night.
+
+Thursday: Possible showers and thunderstorms with brief MVFR or 
+lower possible day into early eve, higher chances north and west of 
+NYC terminals.
+
+Friday-Sunday: VFR.
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Sub-SCA conditions are expected on all waters under a weak pressure 
+gradient today through Friday night. 
+
+Tstms may pose a hazard of gusty winds, lightning, heavy rain, 
+and locally rough seas Thu aft/eve.
+
+A light pressure gradient continues over the waters to begin the 
+weekend with tranquil conditions. By Sunday a return wind flow out 
+of the south takes hold with ocean seas around 3 ft. Other than 
+somewhat marginal small craft seas on the eastern ocean possible 
+Sunday night, sub advisory conditions are expected to prevail 
+through the weekend and into the start of next week.
+
+&&
+
+.HYDROLOGY...
+The flood threat has come to an end as the heavier rainfall has
+exited the area.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+A high risk of rip currents continues into Wednesday due to a 
+southerly swell of 4-5 ft 7s. This will produce waves in the 
+surf zone of 3-5 ft. The swell will subside some heading into 
+Thursday with the risk expected to lower to moderate.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...High Risk for Rip Currents through this evening for NYZ075-080-081-
+     178-179.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JE/BR
+NEAR TERM...BR
+SHORT TERM...BR
+LONG TERM...JE
+AVIATION...JE
+MARINE...JE/BR
+HYDROLOGY...JE/BR
+TIDES/COASTAL FLOODING...

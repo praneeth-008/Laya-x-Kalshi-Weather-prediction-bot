@@ -1,0 +1,140 @@
+105 
+FXUS61 KOKX 101938
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+338 PM EDT Sat May 10 2025
+
+.SYNOPSIS...
+High pressure remains in control through through the weekend.
+The high then builds offshore on Monday, placing the area between 
+low pressure to the west and high pressure to the east through the 
+rest of the week.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM SUNDAY MORNING/...
+High pressure will continue to slowly build into the region with a 
+zonal flow aloft. A weak surface trough is expected to pass through, 
+but without much of any consequence. Clear with light winds. Low 
+temperatures ranging from the mid 40s well NW of the city and the 
+Pine Barrens to the mid-upper 50s in the city.
+
+&&
+
+.SHORT TERM /6 AM SUNDAY MORNING THROUGH SUNDAY NIGHT/...
+High pressure dominates through the period with its center moving in 
+during Sunday night. Mainly clear conditions for the entire period 
+with winds around 10 mph or less. Mixing depth and temps aloft look 
+to be similar to those of today, and even with less of a downslope 
+component, anticipating highs to be similar with full sunshine. The 
+main exception would be over CT where it should end up a little 
+warmer this time. The clear conditions with light to calm winds will 
+promote radiational cooling during the night. Lows dropping to 
+around 40 well NW of the city and the Pine Barrens, with mid 50s in 
+the city.
+
+&&
+
+.LONG TERM /MONDAY THROUGH SATURDAY/...
+High pres builds offshore on Mon. Fair wx but some increasing 
+cirrus. The GFS has it way up there at over 35k ft. The NBM was used 
+for temps, with a return flow out of the S keeping the coasts 
+cooler. 
+
+A closed upr low over the sern CONUS slowly translates newd thru the 
+middle of the week. This will transport Gulf moisture into the 
+region, and allow numerous pieces of shrtwv energy to rotate into 
+the area on sly flow aloft. This will produce chances for shwrs and 
+a few tstms Tue-Wed. The residual upr trof over the region on Thu 
+will then likely allow for addition shwrs and isold tstms to 
+develop. With less widespread pcpn thru the day on Thu, sfc temps 
+are expected to warm up and lead to more instability, so perhaps 
+there is a better chance for tstms Thu aftn and eve than earlier in 
+the week. The NBM was followed for temps. It is entirely possible 
+that temps move in either direction over the coming days depending 
+on the modeled impacts of shwrs and cloud cover over the area. This 
+has already shown up in some run to run inconsistency.
+
+The airmass warms Fri and Sat, with highs in the 80s modeled in the 
+normally warmest locations by the NBM. At the same time, 
+increasingly zonal flow aloft may advect additional shrtwv energy in 
+from the W, so additional chances for shwrs and tstms are in the 
+fcst.
+
+&&
+
+.AVIATION /20Z SATURDAY THROUGH THURSDAY/...
+VFR as high pressure gradually builds from the NW. NW flow still
+gusting over 25 kt should diminish after 22-23Z, with speeds 10
+kt or less after dark. Speeds then pick up again by 14Z to 
+around or just over 10 kt, with gusts up to 20 kt E of the NYC 
+metros, and an occasional gust 15-18 kt from the metros 
+north/west. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No unscheduled AMD expected. 
+
+.OUTLOOK FOR 18Z SUNDAY THROUGH WEDNESDAY...
+
+Sunday afternoon: VFR. NW winds G15-20kt mainly E of the NYC
+metros. 
+
+Sunday night through Monday night: VFR.
+
+Tuesday: MVFR cigs possible especially from the NYC metros 
+west. 
+
+Tuesday night: Low stratus/fog with IFR cond possible especially
+near the coast at KJFK/KISP/KHPN/KBDR/KGON, otherwise MVFR cond
+expected. Chance of showers.
+
+Wednesday and Thursday: MVFR cond expected, IFR or lower cond
+possible at times especially late night and early morning. 
+Chance of showers. 
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Will allow SCA on all waters to continue through the end of the 
+afternoon. Advisory-level gusts will likely be limited closer to 
+nearshore for the rest of the afternoon, and seas should be below 5 
+ft on all ocean waters by the end of the day. Relatively light winds 
+with a lack of significant swell then leads to sub-advisory 
+conditions through the rest of the weekend.
+
+Winds are expected to remain blw sca lvls Mon-Fri on all waters. 
+Seas on the ocean however may build aoa 5 ft late Tue ngt thru the 
+day on Thu before subsiding again blw sca lvls for Fri.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through through the end of next
+week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 6 PM EDT this evening for ANZ331-
+     332-335-338-340-345-350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JMC/JC
+NEAR TERM...JC
+SHORT TERM...JC
+LONG TERM...JMC
+AVIATION...BG
+MARINE...JMC/JC
+HYDROLOGY...JMC/JC

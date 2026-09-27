@@ -1,0 +1,182 @@
+968 
+FXUS61 KOKX 251739
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+139 PM EDT Sun May 25 2025
+
+.SYNOPSIS...
+Low pressure meanders near the Canadian Maritimes today, with 
+high pressure attempting to build in from the west. The high 
+tracks over the region by late Monday as the low exits farther 
+out to sea. High pressure over the region weakens by the middle 
+of the week, allowing a series of weak disturbances to 
+potentially impact the area.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Forecast on track. Troughing remains in place over the 
+Northeast today as the upper low meanders over the Canadian 
+Maritimes. Surface high pressure over the Great Lakes attempts 
+to build in from the west.
+
+Cyclonic flow and surface heating will continue to develop
+partly to mostly cloudy skies through the afternoon. Additional
+shortwave energy rotating around the trough will maintain a 
+possibility of isolated showers, though coverage appears lower 
+than on Saturday. Pressure gradient a bit more relaxed than
+Saturday, but still anticipating some gusts 20-25 mph in the 
+afternoon.
+
+Temperatures continue to moderate a few degrees with afternoon 
+highs ranging from mid 60s to around 70. 
+
+Any showers dissipate shortly after sunset and temperatures fall
+back once again into the 40s and 50s overnight.
+
+&&
+
+.SHORT TERM /MONDAY THROUGH MONDAY NIGHT/...
+Ridging begins to build in on Memorial Day, as surface high 
+pressure centered over the Great Lakes noses into the Mid 
+Atlantic.
+
+Expect less in the way of shower activity relative to the rest 
+of the holiday weekend, with subsidence from the ridge and lack 
+of a forcing mechanism. Still can't rule out a spotty pop up 
+late day shower, especially inland, but not enough at this point
+to warrant slight chance PoPs (>15%).
+
+Additional sunshine and a bit deeper mixing on Monday yields 
+slightly milder conditions, with much of the region away from 
+the immediate shoreline topping out around 70, or low to mid 70s
+in the urban metro and NE NJ. Light flow and dew pts in the 40s
+should allow for a comfortable afternoon under a mix of sun and
+clouds.
+
+Surface high builds overhead Monday night, and skies attempt to
+clear overnight in response. This should set up one more 
+relatively cool night, falling into the 40s across the interior 
+southern CT and LoHud Valley, and LI Pine Barrens, with 50s 
+elsewhere.
+
+&&
+
+.LONG TERM /TUESDAY THROUGH SATURDAY/...
+High pres builds offshore on Tue, resulting in a return flow off the 
+ocean. Could be some enhanced sea breeze action late in the day as 
+the general flow couples with the sea breeze circulations. Dry wx 
+fcst with shrtwv ridging across the area. Temps modified by the 
+onshore flow, but close to normal nonetheless for the first time 
+since the 18th.
+
+An upr low stalled over the upr Midwest will then produce a more 
+zonal flow across the cwa thru the rest of the week, ushering in a 
+series of disturbances. This will produce chances for shwrs thru the 
+period. Any track and timing of the rain is uncertain attm, as the 
+features will be driven in part by convection from the plains to the 
+Southeast. The latest GFS is actually quite dry for most of the 
+week, but stuck with the NBM with the blended approach deemed the 
+best for now. 
+
+There is a chance for a more organized low and widespread rainfall 
+for the weekend, but uncertainty is high this far out despite a 40 
+pop from the NBM.
+
+&&
+
+.AVIATION /18Z SUNDAY THROUGH FRIDAY/...
+A weak surface trough remains across the region through this
+afternoon. High pressure builds in tonight through Monday.
+
+VFR. An isold SHRA cannot be ruled out this afternoon, however, 
+coverage and probability too low and not included in the TAFs.
+
+Winds NW, 300 to 310 magnetic, 10-15 kt with gusts around 20 
+kt. Gusts end late afternoon/early evening, by 00Z, with winds
+diminishing. Outlying terminals become light and variable
+tonight. A light NW to N flow develops Monday morning with 
+afternoon sea breezes developing.
+
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No unscheduled amendments expected. Sea breeze at KJFK may be an
+hour or so earlier than forecast. There is a chance that sea
+breezes do not reach the other metro terminals.
+
+.OUTLOOK FOR 18Z MONDAY THROUGH FRIDAY...
+
+Monday-Tuesday: VFR.
+
+Wednesday-Friday: MVFR likely. IFR possible Thursday. Chance of
+showers.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Northwest winds gust up to around 20 kt thru today, and should 
+prevail below Small Craft Advisory (SCA) criteria. Occasional 25 kt 
+gusts are possible however, particularly along the near shore waters 
+this afternoon.
+
+Flow lightens tonight as high pressure builds in, and 
+conditions remain sub SCA thru Memorial Day with winds under 10 
+kt, and seas at or below 3 ft across all coastal waters.
+
+Winds and seas then look to remain blw sca lvls Tue-Wed with 
+high pres weakening over the waters. Seas on the ocean may build
+to sca lvls for the rest of the week as a series of weak sys 
+potentially impact the waters.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts expected through the week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+There is potential for localized minor coastal flooding tonight 
+into early next week. A new moon will occur Monday evening, 
+causing areas to need as little as 1/4 ft of tidal departure for
+minor coastal flooding. Water levels may just touch or fall
+short of minor flooding benchmarks along the western CT coast 
+with tonight's high tide. It continues to look marginal so have
+held off on any statement for now. There is a higher chance of
+localized minor flooding across the Western Sound and south
+shore back bays with Monday evenings high tide. 
+
+There is a moderate rip current risk today as winds and seas gradually
+subside. Highest threat in the morning and early afternoon, with a
+residual easterly swell around 2 ft with 8 sec period. Ocean seas
+will have a general downward trend during the day.
+
+Rip current risk reduces to low for Memorial Day, as swells continue 
+to subside.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JMC/DR
+NEAR TERM...DR/DS
+SHORT TERM...DR
+LONG TERM...JMC
+AVIATION...MET
+MARINE...JMC/DR
+HYDROLOGY...JMC/DR
+TIDES/COASTAL FLOODING...

@@ -1,0 +1,212 @@
+099 
+FXUS61 KOKX 190759
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+359 AM EDT Mon May 19 2025
+
+.SYNOPSIS...
+Low pressure continues to slowly move off the northern New England 
+Coast today and sends a surface trough through the area. High 
+pressure noses in from the north thereafter and remains in control 
+through Tuesday evening. Deepening low pressure passes south of
+the area Wednesday into Thursday. The low then moves northeast 
+and into the Canadian Maritimes Thursday night through Saturday.
+High pressure builds in Saturday night and Sunday.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Vertically stacked slow moving low pressure continues to exit the 
+northern New England Coast today. In the upper levels, a quick 
+moving shortwave will swing through along with a surface trough. Not 
+expecting any notable weather from these features.
+
+The pressure gradient weakens slightly today, but with daytime mixing 
+expecting gusty northwest winds again. The winds aloft have lowered 
+slightly so gusts will peak out a few mph lower than yesterday, 
+mainly 25 to 35 mph. Despite ample sunshine, the cooler pattern we 
+are still in will result in highs in the upper 60s to mid 70s again.
+
+Skies remain clear tonight as high pressure noses in from the north. 
+Thinking winds still stay up just enough to limit the effects of 
+radiational cooling. Current low forecast is lower 40s across the 
+interior and upper 40s to lower 50s elsewhere. If winds end up 
+lighter than forecast, thinking worst case for the interior is 
+dropping to the upper 30s, so for now not expecting any frost 
+formation.
+
+&&
+
+.SHORT TERM /TUESDAY THROUGH WEDNESDAY/...
+Winds become light and variable on Tuesday with a weak pressure 
+gradient over the area. There once again may be a weak shortwave and 
+surface trough that moves through the area, but not expecting 
+anything other than some clouds out of this.
+
+Tuesday will be the last dry day before a frontal system brings 
+several days of unsettled weather to the area. There is still a 
+decent amount of uncertainty as the models try to resolve two areas 
+of low pressure and how they interact. Low pressure moves into the 
+Ohio River Valley Tuesday night and another low forms off the Mid-
+Atlantic Coast Wednesday. The question is how these interact as some 
+guidance shows the two low centers remaining separate and 
+others have one being absorbed. Regardless plenty of clouds and 
+rain can be expected. PoPs start after midnight Tuesday night 
+and become likely by 8am Wednesday. Through the short term
+period, the rain will be more light to locally moderate.
+
+&&
+
+.LONG TERM /WEDNESDAY NIGHT THROUGH SUNDAY/...
+Key Messages:
+
+ * A frontal system impacts the region Wednesday through Saturday.
+
+ * Most rainfall, with periods of moderate intensity, will occur 
+Wednesday into Thursday. Potential for local urban and poor drainage 
+flooding.
+
+ * An upper-level trough, along with a surface trough from the 
+departing low, leads to continued clouds and chances of   showers 
+Thursday night through Saturday.
+
+Once again the forecast remains rather consistent from previous 
+forecasts with the approach of a frontal system impacting the region 
+mainly Wednesday night into Thursday night, with continued chances 
+of showers into Saturday.
+
+An upper level trough deepens across the upper midwest and into the 
+Great Lakes region Wednesday night and Thursday with a closed low 
+developing. The upper low will be slow to depart to the northeast as 
+pieces of energy rotate through the low through Saturday. The upper 
+trough begins to weaken and move northeast late Friday night into 
+Saturday. Meanwhile, at the surface low pressure moves out of the 
+Great Lakes and into the region by Wednesday night. A deepening low 
+along the southeastern coast Wednesday night and Thursday becomes 
+the primary low, that then passes northeast of the region Thursday 
+night. A developing low level jet and increased Atlantic moisture 
+entraining into the low, with precipitable water values increasing 
+to around 1 inch, will lead to periods of moderate rainfall by late 
+Wednesday night and continuing into Thursday morning. This will 
+bring the potential for urban and poor drainage flooding. See the 
+Hydrology section for more information.
+
+Thursday night, the low moves northeast of the area with the 
+precipitation beginning to taper off as winds to turn back N/NW, 
+bringing in somewhat drier air and slight cold air advection aloft. 
+With a lingering upper and surface trough, chances of precipitation 
+remains into Saturday. Confidence in this is low, given it's 
+possible that dry air and weak cold air advection aloft could be 
+enough to hinder any showers from developing. 
+
+Saturday night into Sunday, the upper level trough finally departs 
+the region to the east, leading to dry and mostly clear conditions.
+
+&&
+
+.AVIATION /08Z MONDAY THROUGH FRIDAY/...
+Low pressure slowly moves away into the Canadian Maritimes through 
+today. High pressure builds in from the north tonight.
+
+VFR.
+
+NW winds overnight 10-15g20-25kt. Some outlying terminals may see 
+gusts briefly end 08-12Z. NW winds increase after 12Z, becoming 15-
+20 kt with gusts mainly 25-30kt, with occasionally higher gusts, 
+into the afternoon. Late day winds become more NNW. Winds and gusts 
+diminish Monday evening, with gusts possibly ending by 01Z at KSWF, 
+and toward 06Z at the other outlying terminals.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Gusts may briefly end or become more occasional from 08-12Z.
+
+.OUTLOOK FOR 06Z TUESDAY THROUGH FRIDAY...
+
+Late Monday night: VFR. Any remaining NW/N gusts around 20kt will be 
+ending soon after 06Z.
+
+Tuesday: VFR. 
+
+Wednesday: MVFR or lower with showers likely, especially in the 
+afternoon into the night. E wind gusts 15-25kt.
+
+Thursday: MVFR to IFR in showers. E/NE winds G20-30kt, highest 
+across southeastern Connecticut and eastern Long Island.
+
+Friday: MVFR possible, especially in the morning. Chance of showers.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+The Small Craft Advisory has been extended until midnight
+tonight for all waters as 25 kt gusts may linger. Today, expect
+25 to 30 kt gusts. Sub-SCA conditions then expected the rest of
+tonight through early Wednesday.
+
+With the approach of a frontal system during Wednesday, an easterly 
+flow will be increasing, and by late day SCA conditions are likely 
+to develop on the ocean waters. With the increased and persistent 
+east flow Wednesday night SCA conditions become likely across all 
+the forecast waters Wednesday night and continue into Thursday.
+The is a chance that gusts reach gale force on the ocean waters east 
+of Fire Island Inlet late Wednesday night into Thursday morning 
+depending on the strength and track of a developing low along the 
+coast. 
+
+As the low tracks northeast of the area Thursday night, and begins 
+to weaken, a northerly flow develops and winds diminish west to 
+east, falling below advisory levels Thursday night. However, ocean 
+seas are likely to remain elevated through Friday.
+
+Winds and seas across the forecast waters will remain below advisory 
+levels Friday night through Saturday night as low pressure continues 
+to weaken and track to the northeast and high pressure builds to the 
+west.
+
+&&
+
+.HYDROLOGY...
+Periods of moderate rainfall are possible from late Wednesday into 
+Thursday. There is the potential for 1 to 1.5 inches of rainfall 
+with locally higher amounts. The area is in a marginal risk for 
+excessive rainfall with the main threat local poor drainage and 
+urban flooding.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+A strengthening and persistent E/NE flow Wednesday through Thursday 
+could bring widespread minor coastal flooding to the area. The two 
+high tide cycles of concern as of now are the Wednesday 
+night/Thursday morning cycle and the Thursday afternoon cycle. There 
+is a bit higher confidence with the first cycle, as winds for the 
+second cycle may be northerly enough to give some coastal areas 
+a more offshore flow.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until midnight EDT tonight for ANZ331-332-
+     335-338-340-345-350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...MET/JT
+NEAR TERM...JT
+SHORT TERM...JT
+LONG TERM...MET
+AVIATION...MET
+MARINE...MET/JT
+HYDROLOGY...MET/JT
+TIDES/COASTAL FLOODING...JT

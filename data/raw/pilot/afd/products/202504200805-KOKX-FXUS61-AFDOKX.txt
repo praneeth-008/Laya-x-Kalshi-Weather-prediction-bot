@@ -1,0 +1,217 @@
+074 
+FXUS61 KOKX 200805
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+405 AM EDT Sun Apr 20 2025
+
+.SYNOPSIS...
+A cold front pushes well south of the area tonight. High 
+pressure builds in tonight and gradually slides east on Monday. 
+A weak frontal system moves through through Monday night into 
+Tuesday. Weak high pressure builds into the region Wednesday and
+Thursday. Another frontal system is expected to affect the area
+Friday into the weekend.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM THIS MORNING/...
+Key Messages: 
+
+* Much cooler but still above normal temps today (Highs in the 
+  lower to upper 60s).
+
+* Elevated threat for wildfire spread across the Tri-State today. 
+  SPS in effect for southern CT and southeastern NY for today.  
+
+* Patchy frosty for portions of E LI and coastal central and 
+  southeastern CT tonight, where growing season has started.
+
+Vigorous northern stream closed low slides east from Quebec and 
+through the Canadian Maritimes today into tonight, while southern 
+upper ridging builds back towards the region tonight. At the 
+surface, a cold front pushes well south of the region this AM, 
+with weak Canadian high pressure building in Sunday Night and 
+sliding east on Monday. 
+
+Overall gusty NW winds 15-20G25-30mph, drier and much cooler conds 
+expected today. Temps will still run several degrees above normal 
+with unseasonably mild start to the day and deep mixing and plenty 
+of sunshine in a gradual caa regime. Continued close to NBM 
+50th percentile for temps based on the above, which has a 
+better representation of warmer temps along the coast in NW flow
+than the NBM deterministic. Temps in the lower to mid 60s 
+interior and mid to upper 60s for city/coast. NBM deterministic 
+max T are generally running in the lowest 25th quartile, which 
+appears low based on synoptic regime.
+
+Canadian high pressure noses in tonight with potential for good 
+radiational cooling conds for pine barrens of LI and interior Tri-
+State with temps dropping into the lower to mid 30s and bringing 
+patchy frost conditions. Not enough frost coverage across 
+coastal areas where growing season has started to issue frost 
+headline. Elsewhere, temps dropping into the 40s for the 
+city/coast.
+
+&&
+
+.SHORT TERM /6 AM THIS MORNING THROUGH 6 PM MONDAY/...
+Key Messages: 
+
+* Below seasonable temperatures on Monday, giving way to well above 
+  seasonable temps on Tuesday.
+
+* Light rainfall event Monday Night. 
+
+A vigorous closed upper low over the SW US lifts through the central 
+plains today and into the upper Great Lakes on Monday, and then
+opens up and slides east through Ontario/Quebec on 
+Tuesday/Tuesday Night. At the surface, a resultant low pressure
+system takes a similar track, sliding NE through the Great 
+Lakes on Monday and then across southern Ontario/Quebec into 
+Northern New England Tuesday into Tuesday Night. Locally, its 
+associated warm front approaches Monday Night, followed by 
+occluded/cold front crossing late Monday Night into Tue AM.
+
+A strengthening return SE flow develops Monday as high pressure 
+slides offshore. Maritime flow off mid 40 degree waters, and 
+developing/ne advecting stratus under a strong low-level inversion, 
+will likely result in temps running a few degrees below seasonable 
+across the region on Monday (mid 50s along southern and eastern
+coasts to around 60 interior). NBM deterministic, generally in 
+the lowest 25th quartile, looks good based on above.
+
+LLJ will strengthen ahead of approaching frontal system, with warm 
+front approaching and entering the region Monday Night. Modest theta-
+e advection and lift over this boundary will bring potential for 
+scattered showers Monday Night. Limited forcing and moisture,
+and lack of instability, will keep QPF light. Warm front likely
+lifts north of most of the area late Monday Night, before weak 
+occluded/cold front crosses Tues AM. 
+
+Drying conditions Tuesday in wake of cold front. Sct cu 
+development likely Tuesday aft with shortwave moving through to 
+the north and secondary cold front approaching. Otherwise deep 
+mixing and still mild 850mb temps(7-10C), will likely result in 
+unseasonably warm temps areawide (mid to upper 70s) on gusty 
+westerly flow. Temps could challenge the daily record high for 
+KISP. Southern and eastern coastal areas could be well into the 
+70s (warmer than current forecast) as well if westerly flow 
+materializes as modeled. Will side towards 50-75th percentile 
+NBM based on downslope flow regime. Once again, NBM 
+deterministic max T are generally running in the lowest 25th 
+quartile, which appears low based on above. 
+
+Weak cold front sags south of the region Tuesday Night. With mixed 
+low-levels and little change in airmass, continued mild
+conditions likely with lows in the mid to upper 40s for much of
+the area, lower 50s NYC/NJ metro.
+
+&&
+
+.LONG TERM /MONDAY NIGHT THROUGH SATURDAY/...
+No significant changes in the long term and stuck fairly close to 
+the previous forecast/NBM.
+
+Dry weather is expected Wednesday through Thursday night with mostly 
+sunny to partly cloudy skies under weak high pressure. 
+
+The high moves east on Friday, with another shortwave/low pressure 
+system approaching for late Friday into Saturday. Mainly looking at 
+just chance POPs (30-35 percent) for now. Drier weather returns for 
+Sunday.
+
+&&
+
+.AVIATION /08Z SUNDAY THROUGH THURSDAY/...
+High pressure builds into the area today. 
+
+VFR.
+
+NW-NW winds 8-12kt to start. Winds will increase this morning and 
+will generally be 15-20 kt with gusts 25-30 kt in the morning. Winds 
+gradually weaken in the afternoon with gusts likely ending by 
+evening. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+An occasional higher gust will be possible.
+
+.OUTLOOK FOR 06Z MONDAY THROUGH THURSDAY...
+
+Sunday Night: VFR. 
+
+Monday: VFR, then MVFR or lower possible at night with a chance of 
+showers.
+
+Tuesday: Mainly VFR. Chance of showers early. SW wind gusts 15-20 kt 
+possible. 
+
+Wednesday and Thursday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+SCA gusts expected mainly on nearshore waters today, while SCA ocean 
+seas (due to residual southerly swell) slowly subside through early 
+afternoon.  
+
+Sub SCA conditions expected on all water this evening, continuing 
+thru Monday afternoon as high pressure moves across the waters. 
+
+Marginal SCA conditions possible on the ocean waters Monday Night 
+into Tuesday morning with frontal passage, but latest trend has been 
+slightly weaker with winds and waves.
+
+Otherwise, conditions will remain below SCA levels Tuesday afternoon 
+through Friday with a relatively weak pressure gradient over the 
+waters.
+
+&&
+
+.FIRE WEATHER...
+Dry conditions continue, with only spotty wetting rain across 
+Orange and Putnam counties yesterday, elsewhere little if any 
+rainfall.
+
+Elevated wildfire spread threat exists today with highs in the 60s, 
+northwest winds of 15-20G25-30 mph and min RH values in the lower to 
+mid 20 percent range.
+
+SPS for elevated threat of fire spread has been coordinated for
+southeastern NY and CT with state land and fire management 
+partners and neighboring offices. Coordination on fuel 
+conditions and possible fire weather headlines will be conducted
+with NJ state land and fire management partners later this 
+morning. 
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic issues through next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 6 PM EDT this evening for ANZ331-
+     332-335-338-340-345-350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...BC/NV
+NEAR TERM...NV
+SHORT TERM...NV
+LONG TERM...BC/NV
+AVIATION...BC
+MARINE...BC/NV
+FIRE WEATHER...NV
+HYDROLOGY...BC/NV

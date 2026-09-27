@@ -1,0 +1,200 @@
+371 
+FXUS61 KOKX 150606
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+206 AM EDT Thu May 15 2025
+
+.SYNOPSIS...
+Weak low pressure and a frontal boundary will advance toward the 
+region through Thursday. Another frontal system will move across
+from Friday through Saturday. High pressure will gradually
+return early next week as low pressure lingers just east of New
+England. A frontal system may approach during the middle of 
+next week.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM THIS MORNING/...
+Upper level low that as been spinning off to the west over the 
+past several days has opened into a trough over the OH Valley 
+today, with a surface front and weak low draped across the Mid
+Atlantic. Ridging in place has been shifting offshore, with the
+local area in between, with prolonged easterly flow and 
+unsettled conditions. 
+
+Bands of light to occasionally moderate showers continue to 
+work through this evening. The bulk of these showers should
+gradually weaken and exit to the north this evening. Areas of 
+fog likely develop, with potential to become dense overnight.
+Temperatures largely remain steady tonight, falling back a few
+degrees into the mid/upper 50s.
+
+&&
+
+.SHORT TERM /6 AM THIS MORNING THROUGH 6 PM FRIDAY/...
+Axis of the open trough tracks overhead on Thursday, with the 
+decaying surface low and warm front moving through locally. 
+
+Any morning fog should burn off by late morning, and
+temperatures climb about 10 degrees above the previous day, with
+afternoon highs in the lower 70s. Isolated to scattered pop up 
+convection is possible by late morning or early afternoon, with
+the chance persisting into the early evening. A bit more mild 
+and moist surface conditions are expected, and 12Z HREF CAPE 
+values are progged up to 500-1000 J/kg. While the threat for 
+severe weather and significant hydrological concerns is low, 
+any thunderstorm could produce locally heavy rainfall. 
+
+Rain chances gradually lower by the evening, but a weak 
+pressure gradient and very light onshore flow Thursday night 
+likely allows fog to develop once again into early Friday 
+morning.
+
+&&
+
+.LONG TERM /FRIDAY NIGHT THROUGH WEDNESDAY/...
+Key Points:
+
+* An unsettled weather regime continues through Saturday.
+ 
+* Showers and a few thunderstorms are expected Friday and 
+  Saturday mainly in the afternoon and evening, but it will not 
+  be a complete washout.
+
+* An isolated shower possible inland Sunday afternoon, otherwise
+  dry conditions should prevail through Tuesday.
+
+* Temperatures will mainly run above normal through the weekend
+  before trending closer to normal early next week. 
+
+A blocky synoptic pattern will continue through the middle of
+next week. Models continue to depict a decaying line of 
+showers and possible thunderstorms approaching from the west on 
+Friday. They are in association with a weak area of mid level 
+shortwave energy out of ahead of the next upper low and trough 
+over the Northern Plains. The potential for showers and possible
+thunderstorms appears highest in the afternoon and evening, and
+mainly north and west of the NYC metro. Onshore flow further 
+east will likely limit instability and convection potential on 
+Friday. 
+
+The aforementioned upper low and trough will move over the Great 
+Lakes on Saturday helping to push the next frontal system into 
+the area. Conditions may become more conducive to showers and 
+thunderstorms and the latest NBM has increased PoPs from its 
+previous cycles. However, there are still factors that may limit
+convective development including the main forcing remaining 
+well to our northwest and potential of some lingering mid level 
+dry air. The ECMWF appears the most aggressive with a well 
+defined complex of showers/storms moving across the area on 
+Saturday. The mesoscale setup will become better resolved over 
+the next few days, which should help give more confidence on the
+evolution of potential convection on Saturday. Forecast precip 
+probabilities are again highest north and west of the NYC metro 
+and mainly in the afternoon and evening. 
+
+The frontal system and associated upper low/trough continue
+sliding across the area Saturday night. Lingering showers 
+cannot be ruled out, but probabilities decrease through the 
+night. The system will then push east of the area on Sunday and 
+then remain near or just off the New England coast early next 
+week. Lingering cyclonic flow aloft Sunday may be enough to 
+produce a diurnally driven isolated shower well inland in the 
+afternoon. Upper ridging will build just to our west early next 
+week with another trough amplifying over the western states. The
+proximity of the ridging and upper low just offshore should 
+keep conditions dry Monday into Tuesday. The NBM indicates an 
+increase in precip probabilities on Wednesday which may be 
+overdone given the nearby ridging which may take some time to 
+break down. Will indicate a low probability for now with 
+potential of another frontal system attempting to approach mid 
+next week.
+
+&&
+
+.AVIATION /06Z THURSDAY THROUGH MONDAY/...
+Low pressure will remain to the south through the period.
+
+Bands of showers will be exiting to the north this evening. 
+The bigger story will be low cigs and vsby especially after 
+midnight as E-ESE winds diminish and become light overnight, 
+and shift to the NE or become variable. LIFR cond are likely 
+and should last until at least 14Z-15Z, and likely until around 
+16Z-17Z at KHPN/KGON.
+
+Improvement to MVFR at times from KLGA and points N and W, with
+the highest probability of MVFR conditions for KSWF. However there
+is a good deal of uncertainty in the forecast for these areas, 
+with IFR to MVFR conditions possible Thursday afternoon. Coastal
+terminals are likely to remain or improve to IFR Thursday
+afternoon. Conditions are expected to deteriorate once again 
+Thursday night to IFR or lower for all terminals. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Amendments expected for changing flight categories throughout
+the TAF period.  
+
+.OUTLOOK FOR 06Z THURSDAY THROUGH MONDAY...
+
+Thursday night: Low clouds/fog with IFR/LIFR cond returning. 
+
+Friday: IFR/LIFR in the morning, then chance of MVFR in the
+afternoon/evening with slight chance of tstms.
+
+Saturday: MVFR cond expected, IFR possible, with showers likely
+and chance of tstms. 
+
+Sunday...Mainly VFR. 
+
+Monday...VFR.
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Small Craft Advisory extended for the NY Harbor until 9pm and remains
+in effect for the ocean waters through Thursday evening. Winds 
+lighten on the harbor this evening, but ocean seas around 5 ft 
+likely linger into Thursday before lowering by Thursday night.
+
+Conditions will remain below SCA levels Friday through next Monday 
+with a relatively weak pressure gradient over the waters.
+
+&&
+
+.HYDROLOGY...
+Isolated heavy downpours could result in a quick inch of rainfall
+and result in minor flooding of urban and poor drainage areas. This
+threat appears limited and localized should it occur. QPF 
+through Thursday should average under a half inch. Additional 
+convection Thursday afternoon or evening could have the same result.
+The overall threat for flash flooding remains low.
+
+There are currently no hydrologic concerns Friday through early next 
+week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 6 PM EDT this evening for ANZ350-
+     353-355.
+
+&&
+
+$$
+
+SYNOPSIS...DR/DS
+NEAR TERM...DR/DS
+SHORT TERM...DR
+LONG TERM...DS
+AVIATION...JP
+MARINE...DR/DS
+HYDROLOGY...DR/DS

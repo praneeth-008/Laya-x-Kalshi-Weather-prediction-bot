@@ -1,0 +1,132 @@
+978 
+FXUS61 KOKX 312358
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+758 PM EDT Sat May 31 2025
+
+.SYNOPSIS...
+Low pressure heads into Quebec through Sunday as high pressure 
+builds southwest of the area into Sunday night. High pressure 
+builds over the area on Monday, then drifts offshore and 
+intensifies through the middle of the week, allowing for a 
+significant warming trend.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM SUNDAY MORNING/...
+Showers continue to diminish as low pressure over southern New 
+England heads into Quebec by Sunday morning. A surface trough will 
+move through late tonight, bringing a stray shower or two for 
+western 2/3 of the forecast area, but thereafter dry conditions are 
+expected. Additionally, with the low level jet forecast to already 
+be east of the area, winds are expected to diminish. 
+
+Overnight lows will be below normal for this time of year, in the 
+lower 40s inland to lower 50s along the coast and into NYC and 
+surrounding metro area.
+
+&&
+
+.SHORT TERM /6 AM SUNDAY MORNING THROUGH SUNDAY NIGHT/...
+Troughing in the mid and upper levels remains over the northeast 
+Sunday into Sunday night with a couple of shortwaves 
+rotating through. In turn, a couple of weak surface troughs will 
+swing through as high pressure tries to build in from the southwest. 
+These features will not result in anything other than some cloud 
+cover. It will also help in keeping running below normal, with highs 
+only in the middle to upper 60s expected.
+
+&&
+
+.LONG TERM /MONDAY THROUGH SATURDAY/...
+High pres builds into the region on Mon, then an upr ridge builds in 
+thru Wed. This will keep the region dry thru the period. Temps rise 
+thru the week, with highs approaching 90 on Wed across the interior 
+and swrn hot spots. 
+
+Heights may begin to fall on Thu as the ridge is suppressed. It will 
+still be hot, and possibly the hottest day of the week as the 
+thermal ridge is locked in, but there will also be a chance for 
+aftn/eve shwrs and tstms due to the falling heights. It is a bit far 
+out to have confidence in the falling heights and tstm aspect, but 
+better confidence in the hot temps. 
+
+A sly component llvl flow keeps LI and cstl CT cooler Tue-Thu. 
+
+With the ridge continuing to be suppressed Fri and Sat, more chances 
+for shwrs and tstms, particularly in the aftn/eve, along with 
+gradually lowering high temps.
+
+&&
+
+.AVIATION /00Z SUNDAY THROUGH THURSDAY/...
+Low pressure continues to depart through Northern New England 
+with a trailing cold front pushing east this evening. A weak 
+trough will cross the region Sunday afternoon, with high 
+pressure gradually builds in Sunday Night.
+
+MVFR conditions this evening for northern terminals in rain
+showers, likely to improve to VFR btwn 02z and 04z. VFR for
+remainder of the terminals. VFR through the remainder of the 
+TAF period.
+
+W/NW winds 15-20G25 kt this evening, diminishing to WNW 10-15kt
+with only occasional higher gusts after 02-04z. W winds 
+increasing to 15-20G25kt Sunday AM between 12-14z, backing SW 
+for south coastal terminals in the afternoon. W winds and gusts
+subsiding btwn 22z to 00z Sun eve.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+VFR. NW gusts to 25-30 kt (right of 310 mag) til 02-04z, 
+subsiding overnight. W wind gusts 20-25kt (left of 310 mag) 
+redevelop btwn 12-14z.
+
+.OUTLOOK FOR 00Z MONDAY THROUGH THURSDAY... 
+
+Sunday Night through Wednesday...VFR.
+
+Thursday...Potential for MVFR in showers and thunderstorms in
+the afternoon/evening.
+
+&&
+
+.MARINE...
+A sca has been issued until midnight on the protected waters based 
+on obs. The advy on the ocean continues as waves remain above 5ft 
+through tonight. The western ocean zone looks to come down below 5 
+ft by daybreak Sunday, and the eastern ocean zone by around sunset 
+Sunday evening. Thereafter, conditions remain below SCA for all 
+waters from Sunday night through Thursday as a broad area of high 
+pressure remains over the region.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns tonight through the end of 
+next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...High Risk for Rip Currents through Sunday evening for NYZ080-081.
+NJ...None.
+MARINE...Small Craft Advisory until midnight EDT tonight for ANZ331-332-
+     335-338-340-345.
+     Small Craft Advisory until 6 PM EDT Sunday for ANZ350-353.
+     Small Craft Advisory until 8 AM EDT Sunday for ANZ355.
+
+&&
+
+$$
+
+SYNOPSIS...JMC/JP
+NEAR TERM...JMC/JP
+SHORT TERM...JP
+LONG TERM...JMC
+AVIATION...JT/NV
+MARINE...JMC/JP
+HYDROLOGY...JMC/JP

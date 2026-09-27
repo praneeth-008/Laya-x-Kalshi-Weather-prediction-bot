@@ -1,0 +1,196 @@
+576 
+FXUS61 KOKX 071737
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+137 PM EDT Sat Jun 7 2025
+
+.SYNOPSIS...
+Weak low pressure passes by to the east this morning, then a cold 
+front moves through the area this afternoon into evening. Weak high 
+pressure then briefly follows for Sunday, followed by an area of low 
+pressure passing to the south and east Sunday night into Monday. A slow 
+moving frontal system will then work across the area Tuesday into
+Tuesday night. High pressure returns Wednesday and remains near the
+region through Friday.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+A slowly moving cold front approaches from the west today. It 
+enters the western portion of the forecast area this afternoon 
+and exits to the east this evening. Showers likely across much 
+of the area, and some embedded thunderstorms will be possible as
+well. CAPE and shear expected to be modest, so severe storms 
+are not anticipated. 
+
+PWATS remain climatologically a little higher than normal, but cell 
+training and back-building will be mitigated by the lack of 
+alignment between moisture field and steering winds aloft. Given the 
+amount of rain that occurred yesterday combined with the rain 
+potential for today, still cannot rule out isolated flash flooding 
+in the vicinity of Orange and Putnam Counties, but any hydrologic 
+impacts across the entire forecast area would likely be limited to 
+minor urban and poor drainage flooding. WPC continues to show a 
+marginal risk of flash flooding over the far NW portion of the area.
+
+A low rain threat will be ongoing after sunset mainly east of the 
+city, then dry overnight. Ample low level moisture will also bring 
+the possibility of low stratus or fog development late tonight 
+mainly for the coast, but fog still possible elsewhere away from the 
+city with light to calm winds.
+
+NBM looked good for temperatures through the near term for the most 
+part. Adjusted high temps upward slightly in the city and the urban 
+corridor of NE NJ based on early morning temperatures.
+
+&&
+
+.SHORT TERM /SUNDAY THROUGH MONDAY NIGHT/...
+Weak high pressure will be in place at the start of the day, but 
+then weakens with the approach of a broad area of low pressure 
+approaching from the south and west. It should be dry through early 
+afternoon, then rain chances begin over the western half of the area 
+late afternoon. Models depict a couple of circulations passing 
+nearby from Sunday night into Monday - one to our NW, and a somewhat 
+stronger low center passing offshore to our SE. The moisture will be 
+sufficient, and there should at at least some shortwave lift too, so 
+rain chances are 30-40% for Sunday night. Rainfall for the most part 
+would be light, and with dry mid-levels it could even be just a 
+chance of drizzle late at night. 
+
+Looks like there will be some ridging aloft during Monday with the 
+longwave pattern amplifying during the day. This in turn will help 
+put a lid on shower activity as well as slow the eastward 
+progression of a cold front over the eastern Great Lakes Region. 
+Only a slight chance of a shower over the western half of the area 
+during the day. Chances then increase Monday night as the cold front 
+draws closer, but remain no higher than 50%.
+
+&&
+
+.LONG TERM /TUESDAY THROUGH SATURDAY/...
+The long term period starts off with a slow moving frontal system 
+approaching and moving across the area Tuesday into Tuesday night. 
+
+The best chances for rain at this time looks to be during the day 
+time, with lower chances Tuesday night. Will continue to mention a 
+chance of thunder, however, instability looks to be marginal at this 
+time. The cold front pushes across the region Tuesday night.
+
+High pressure then builds into the region on Wednesday in the wake 
+of the front and remains over the area through Friday. Expect dry 
+and warm conditions for the second half of the week. Another low 
+pressure system may impact the area on Saturday.
+
+With cloud cover and rain, temperatures on Tuesday will only be  in 
+the lower and middle 70s. However, temperatures warm for the second 
+half of the week as high pressure and drier conditions return. 
+Temperatures on Wednesday through Friday will be in the 80s area 
+wide. Temperatures may be slightly cooler right along the immediate 
+coastline.
+
+&&
+
+.AVIATION /18Z SATURDAY THROUGH THURSDAY/...
+A cold frontal passage occurs late this aftn. The front stalls
+offshore on Sun. 
+
+MVFR or lower with rain ahead of the fropa. Isold tstms
+possible, especially right ahead of the front. Tempo for heavier
+shwrs, and any tstms would likely occur within this tempo
+period.
+
+Becoming mainly VFR tngt, but ern areas may drop back to IFR 
+with fog and low CIGs returning. Lowering clouds off the ocean 
+on Sun, but most areas still expected to stay VFR. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Amds possible for timing of the wind shift with the front. A few
+shwrs may linger behind the fropa. Isold tstms possible,
+especially with the line developing across PA. 
+
+.OUTLOOK FOR 18Z SUNDAY THROUGH THURSDAY... 
+
+Rest of Sunday: Mainly VFR in the aftn. Chance for rain Sun ngt
+with MVFR or lower. 
+
+Monday: Becoming VFR with light E flow.
+
+Tuesday: MVFR or lower possible with shwrs and tstms. Varying
+winds with a frontal sys.
+
+Wednesday - Thursday: VFR with W flow. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Patchy dense fog anticipated over some of the eastern waters
+until mid-morning. Not anticipating any advisories however.
+After collaboration with the surrounding offices, have decided 
+to go with a SCA on the ocean waters today into this evening. 
+Waves likely in the 4-5 ft range during most of this time. Winds
+otherwise remain below advisory thresholds through Monday.
+
+Expect sub-advisory conditions to continue through Tuesday. 
+Waves of low pressure passing to the south and a southerly swell
+will keep seas on the ocean 3 to 4 ft. Chances increase for 
+marginal SCA conditions for seas around 5 ft Tuesday night into 
+Wednesday. Seas should then fall below SCA conditions late 
+Wednesday into Wednesday night.
+
+&&
+
+.HYDROLOGY...
+Rain amounts today into early evening probably average around a half 
+of an inch, but higher locally higher amounts remain possible. See 
+the near term section above for potential impacts.
+
+No widespread hydrologic impacts otherwise for tonight through 
+Monday. 
+
+Showers and thunderstorms Tuesday into Tuesday night may produce at 
+least minor nuisance flooding. Low confidence at this time regarding 
+potential impacts this far ahead in time.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+A building SSE swell will increase to 5 ft 8-9S today.
+This is expected to produce 3 to 5 ft breakers in the surf 
+zone and increase the rip current risk to high. Thus, a High Rip 
+Current Risk remains in effect today into this evening for all 
+locations along the oceanfront. 
+
+Swells diminish some on Sunday. A moderate rip current risk is 
+forecast for most locations, however a high risk should remain 
+along the oceanfront of eastern Suffolk County.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...High Risk for Rip Currents until 9 PM EDT this evening for NYZ075-
+     080-081-178-179.
+NJ...None.
+MARINE...Small Craft Advisory until 11 PM EDT this evening for ANZ350-
+     353.
+     Small Craft Advisory until 8 PM EDT this evening for ANZ355.
+
+&&
+
+$$
+
+SYNOPSIS...BC/JC
+NEAR TERM...JC
+SHORT TERM...JC
+LONG TERM...BC
+AVIATION...JMC
+MARINE...BC/JC
+HYDROLOGY...BC/JC
+TIDES/COASTAL FLOODING...

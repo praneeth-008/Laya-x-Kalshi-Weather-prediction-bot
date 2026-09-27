@@ -1,0 +1,160 @@
+600 
+FXUS61 KOKX 061439
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+939 AM EST Mon Jan 6 2025
+
+.SYNOPSIS...
+Low pressure tracks through the Mid Atlantic today, passing to the 
+south and offshore tonight. High pressure then slowly builds in from 
+the west through Friday. An area of low pressure then passes to
+our south this weekend.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Low pressure over southern Appalachians will continue working
+east and off the coast today. Warm advection has allowed snow to
+slowly make its way north towards the area. However, weak lift,
+dry air, and nearby confluence to the northeast has made it
+difficult for any snow to reach the ground so far this morning. 
+
+There still appears to be window of opportunity for light snow
+to occur late this morning into early afternoon, mainly across
+NE NJ, NYC metro, and Long Island. Snow growth overall looks
+poor which may factor into snow-to-liquid ratios and could keep
+them closer to 10:1 despite the cold thermal profiles. Most
+places that see light snow could see a coating to several tenths
+with some areas in southern parts of the city possibly
+approaching an inch. However, latest trends suggest it may be
+very difficult to see an inch. Intensity of the snow will be
+light, but given cold temperatures, untreated surfaces could
+become slick. Will monitor observational trends where snow does
+fall in case any Special Weather Statements are needed. 
+
+Farther north, little to no accumulation is expected with 
+perhaps just some passing flurries, or remaining dry entirely, 
+especially north and east of I-287 and into southern CT.
+
+A few flurries may linger late this afternoon with dry
+conditions expected by sunset. Dry with increasing NW winds are
+anticipated overnight as the low pulls away and deepens. 
+Temperatures fall back into the teens for most, and the lower 
+20s around the NYC metro.
+
+&&
+
+.SHORT TERM /TUESDAY THROUGH WEDNESDAY NIGHT/...
+Brisk and remaining cold through midweek.
+
+As the low moves farther offshore Tuesday, surface high 
+pressure centered over the Plains begins to build east. This 
+will not only reinforce the cold air mass in place, but maintain
+a tight pressure gradient between the high and sprawling low 
+pressure anchored over far eastern Canada. With it, a blustery NW
+flow can be expected through midweek. Gusts on Tuesday look to 
+fall just shy of advisory criteria, as of now, with peak forecast
+gusts generally in the 40 to 45 mph range. Similar conditions 
+can be expected on Wednesday, with dry conditions absent a stray
+flurry or snow shower inland.
+
+Temperatures, while not record breaking, will run about 10 degrees 
+below normal and keep most at or below the freezing mark through the 
+period. Add the wind component and the region likely see wind 
+chills persistently in the single digits and teens in this period.
+
+&&
+
+.LONG TERM /THURSDAY THROUGH SUNDAY/...
+High pressure continues to slowly build in from the west on 
+Thursday, weakening as it finally shifts through the region Friday 
+into Friday night. Dry through his period with below normal 
+temperatures, although Friday's highs will at least be warming 
+closer to normal levels. Gusty NW flow continues on Thursday with a 
+tight pressure gradient in place. Wind chills early Thursday morning 
+may range 5 above to 5 below zero.
+
+Global models continue to show low pressure emerging off the east 
+coast to our south during Saturday and passing south of the 40N/70W 
+benchmark Saturday night into Sunday morning. The GFS is quickest 
+among the 00z models with the 500mb trough axis becoming negatively 
+tilted and thus farthest north with the storm center. Have nudged 
+PoPs downward a little from the previous forecast, but not as far 
+low as the 01z NBM as there's still plenty of time to see if the 
+progressive/suppressed trend continues. The current forecast has dry 
+weather for Sunday with weak high pressure in place.
+
+&&
+
+.AVIATION /15Z MONDAY THROUGH FRIDAY/...
+Low pressure will pass to the south today. 
+
+VFR with lowering cigs this morning. IFR possible in steadier light 
+snow at the NYC terminals mostly from 16Z-19Z, otherwise mainly
+MVFR during this period, improving back to VFR shortly thereafter.
+
+Variable winds veer to NW-N with onset of light snow and, then 
+northerly much of the afternoon. Speeds generally 10kt or less 
+through the daytime hours. NNW flow increases with frequent 
+gusts after 01Z.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Light snow/flurries with no vis restrictions possible before 
+16Z. Tempo MVFR cigs possible before 16z. Chance that IFR
+doesn't occur.
+
+OUTLOOK FOR 12Z TUESDAY THROUGH FRIDAY...
+
+Tuesday through Thursday: VFR. Gusts at or above 35kt at times. 
+
+Friday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Brief reprieve in conditions on all waters today, before winds ramp 
+back up again tonight. SCA conditions return to all waters
+overnight into Tuesday as NW flow increases and gusts exceed 25
+kt. Given the winds, cold air, and water temps, not out of the
+question there could also be some light freezing spray, mainly 
+on the LI Sound and immediate nearshore ocean waters.
+
+A Gale Watch remains in place for all waters Tuesday into Wednesday 
+due a strong pressure gradient and several shots of cold air moving 
+across the relatively warmer waters. Strong low pressure will reside 
+across the Canadian Maritimes during this period with high pressure 
+building in from the west. Gales likely linger into Thursday, 
+especially for the ocean waters, and may continue into Thursday 
+night.
+
+&&
+
+.HYDROLOGY...
+No significant hydrologic issues anticipated through this weekend.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Gale Watch from Tuesday morning through Wednesday afternoon 
+     for ANZ331-332-335-338-340-345-350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JC/DR
+NEAR TERM...DR/DS
+SHORT TERM...DR
+LONG TERM...JC
+AVIATION...JMC/JC
+MARINE...JC/DR
+HYDROLOGY...JC/DR

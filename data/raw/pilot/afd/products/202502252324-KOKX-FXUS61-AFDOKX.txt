@@ -1,0 +1,164 @@
+475 
+FXUS61 KOKX 252324
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+624 PM EST Tue Feb 25 2025
+
+.SYNOPSIS...
+A cold front moves through this evening. High pressure briefly 
+returns on Wednesday, followed by another frontal system Wednesday 
+night through Thursday night. High pressure will build quickly 
+across on Friday. Low pressure will then pass to the north Friday 
+night into Saturday, with a leading warm frontal passage Saturday 
+morning and trailing cold frontal passage late in the afternoon. 
+Canadian high pressure building from the west from Saturday night 
+through Monday will pass east Monday night into Tuesday.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM WEDNESDAY MORNING/...
+Narrow band of showers across SE CT and the forks of Long Island
+should pass east after 7 PM. Back to the west, cold front moving
+through NYC and SW CT attm may kick up an isolated showers
+across interior SW CT as well. It is possible that temps across
+Long Island and S CT may spike up 5-10 degrees after fropa as 
+the front scours out the marine layer on a W-NW flow gusting to
+20 mph. These winds should keep the blyr from decoupling 
+overnight despite clearing skies, so temps likely won't drop 
+below the 30s. 
+
+&&
+
+.SHORT TERM /6 AM WEDNESDAY MORNING THROUGH THURSDAY NIGHT/...
+Brief ridging builds in aloft and at the surface on Wednesday.
+This will lead to sunny and dry conditions. Tricky high 
+temperature forecast as a W/NW wind will be weakening through 
+the day. If they weaken early enough, there is potential for a 
+sea breeze that would really cool off the coastal locations. If 
+the northwest flow holds off any sea breeze, highs could reach 
+the mid 50s.
+
+By late Wednesday afternoon, clouds increase ahead of the next 
+frontal system. As a warm front approaches from the south, 
+overrunning rain can start as early as the evening hours. The 
+warm front likely pushes through Thursday morning and then is 
+followed by the cold front Thursday afternoon/evening. Felt most
+confident in the overrunning rain late Wednesday night, so went
+likely PoPs. The rest of the time, through Thursday, capped at 
+chance and lower end likely PoPs as CAMs show just scattered 
+activity. Totals should stay under a quarter of an inch of 
+liquid everywhere. This will likely be another all plain rain 
+event, but if temps drop a bit lower than forecast across the 
+interior, a brief period of a rain/snow mix is possible.
+
+&&
+
+.LONG TERM /FRIDAY THROUGH TUESDAY/...
+The big picture shows mean troughing over the Eastern CONUS and 
+ridging over the West, with one an embedded shortwave trough 
+departing to the E on Fri, and another approaching on Sat and 
+passing across Sat night. In the wake of the 1st trough, Fri 
+will feature gusty NW flow and temps close to normal as sfc high
+pressure builds quickly across. Meanwhile, a sfc low associated
+with the 2nd trough will dive SE across the Great Lakes from 
+Fri into Fri evening, and then move across upstate NY and 
+northern New England on Sat, with a leading warm frontal passage
+early Sat AM and cold frontal passage during the afternoon. 
+Deep moisture and precip with this low should be mostly to the 
+north, so have fcst only slight chance PoP for inland sections 
+for daytime Sat, but do have a mostly cloudy sky forecast 
+throughout. WAA in the warm sector may be enough to push temps 
+up to NBM 75th percentile, yielding highs in the 50s throughout 
+before a late day cold fropa. 
+
+Strong low level CAA will yield dry but much colder wx beginning
+Sat night, with lows in the 20s, then highs only in the 
+lower/mid 30s for Sunday and even colder lows in the teens/lower
+20s for Sunday night. 
+
+Mon will remain on the colder side as high pressure moves
+directly across from the west, with highs still only in the 
+30s. Then a developing return flow should quickly bring 
+moderation to near normal temps for Tue.
+
+&&
+
+.AVIATION /00Z WEDNESDAY THROUGH SUNDAY/...
+A cold front continues moving across the terminals this evening. 
+High pressure follows overnight into Wednesday. The next frontal
+system approaches Wednesday evening.
+
+VFR. There is a chance of showers Wednesday evening, mainly 
+at KSWF. 
+
+Winds will continue to shift to the WNW-NW this evening behind
+the cold front passage. Wind speeds should be 10 kt or less 
+tonight. The wind direction will remain WNW-NW on Wednesday, but
+could back toward the W late in the afternoon. Gusts 15-20 kt
+are possible. Winds diminish after sunset. 
+
+...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Gusts on Wednesday may be occasional. 
+
+.OUTLOOK FOR 00Z THURSDAY THROUGH SUNDAY...
+
+Wednesday night: Chance of showers in the evening, then likely 
+overnight. MVFR or lower possible.
+
+Thursday: Showers with MVFR or lower, mainly in the morning and
+early afternoon. VFR returns late. S-SW winds G15-20 kt in the
+afternoon. Winds shift to the WNW at night with G15-20 kt 
+possible. 
+
+Friday: VFR. WNW winds G20-25 kt. 
+
+Saturday: VFR. S winds G15-20 kt. 
+
+Sunday: VFR. NW winds G15-20 kt. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Sub-SCA conditions on all waters through early Thursday.
+Increasing S flow ahead of an approaching cold front will 
+bring SCA conditions to the ocean waters by late Thursday 
+morning. 25 kt gusts are possible along with 7-8 foot seas. 
+SCA cond likely to continue on the ocean into Fri, with W-NW 
+flow gusting up to 25 kt and and seas 5-7 ft. A brief lull Fri 
+night as high pressure slides quickly across will be followed by
+a return of SCA cond to the ocean waters on Sat, with S-SW flow
+gusting up to 25 kt and seas again building back to 5-7 ft. 
+Winds shift NW late day Sat following cold fropa, with SCA cond 
+lasting on the ocean into Sat night, possibly into Sunday AM E 
+of Moriches Inlet.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through early next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...BG/JT
+NEAR TERM...BG/JT
+SHORT TERM...JT
+LONG TERM...BG
+AVIATION...DS
+MARINE...BG/JT
+HYDROLOGY...BG/JT

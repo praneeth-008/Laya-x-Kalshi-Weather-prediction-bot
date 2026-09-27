@@ -1,0 +1,218 @@
+211 
+FXUS61 KOKX 230258
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1058 PM EDT Thu May 22 2025
+
+.SYNOPSIS...
+Low pressure just south of Nantucket early this evening will
+lift northward into New England for Friday, and into the
+Canadian Maritimes this weekend, while high pressure remains to
+the west. The high will build across on Monday, then slide east
+on Tuesday as weak low pressure begins to approach from the 
+Tennessee Valley. The low will pass south on Wednesday, followed
+by a weak low pressure trough approaching from the west on 
+Thursday.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM FRIDAY MORNING/...
+The forecast is on track with only minor changes needed.
+
+The low was just south of Nantucket early this evening and 
+should head northward toward the Gulf of Maine overnight. 
+Rain/showers become less likely through the night as the storm 
+shifts away, but the threat remains all night with cyclonic flow
+aloft and weak shortwave lift passing nearby. Northerly winds 
+diminish through the night with lows in the 40s, but still a few
+degrees above record lows for May 23rd. See the climate section
+below for more details.
+
+&&
+
+.SHORT TERM /6 AM FRIDAY MORNING THROUGH SATURDAY/...
+Cyclonic flow aloft remains over the region during the short term 
+period as an H5 low meanders over New England. For Friday, 
+still a good amount of cloud cover with plenty of moisture below
+700mb. Thinking is that the day begins as cloudy with partial 
+sunshine developing in the afternoon. The daytime heating 
+combined with the cold pool aloft and some shortwave lift could 
+trigger scattered showers mainly in the afternoon, but likely 
+with not enough instability for a thunderstorm. High 
+temperatures below normal by 5- 10 degrees, ranging from the 
+upper 50s well inland to the low-mid 60s for coastal locations. 
+
+Some improvement for Saturday is anticipated with fewer clouds 
+and slightly warmer temperatures. It likely remains dry for the 
+entire area, but still cannot rule out an isolated shower NW of 
+the city during the afternoon as shortwave approaches.
+
+&&
+
+.LONG TERM /SATURDAY NIGHT THROUGH THURSDAY/...
+Sat night and Sunday will feature partly cloudy skies with below 
+normal temps as cyclonic flow continues around the slowly weakening 
+Maritimes low. Fcst for now is dry, but with the approach of an 
+upper level jet streak and mid level shortwave from the NW can't 
+entirely rule out some sprinkles or showers especially from NYC 
+north/west. Sunday night/Mon look dry and milder, with temps near 
+normal as high pressure builds form the west.
+
+A weak low passing to the south should bring a chance of light rain 
+mainly to the NYC metro area west for Tue night, and to most of the 
+area on Wed, with temps once again below normal. Thu should see 
+temps returning to normal, but with chances for showers mainly from 
+NYC metro north/west as another trough approaches from the west.
+
+&&
+
+.AVIATION /03Z FRIDAY THROUGH TUESDAY/...
+Low pressure slowly tracks into the Gulf of Maine tonight as
+another weak low over the eastern Great Lakes tracks east across
+New England Friday. 
+
+VFR conditions have returned to many terminals, especially the
+metro terminals. Some guidance is pointing to a return to MVFR
+closer to daybreak Friday for the metro terminals, while eastern
+terminals such as KBDR and KISP may see a return to MVFR by mid
+Friday morning and KGON may remain VFR through the TAF period.  
+Decided to stick with a generally MVFR forecast for now and see
+how satellite imagery evolves over the next couple of hours. If
+MVFR conditions move back in for the metro terminals, slow 
+improvement is expected through the day Friday, with a return 
+to VFR not expected until mid afternoon. 
+
+NNE winds will shift toward the N, then NW overnight, then W
+Friday morning. A surface trough moving through may shift winds
+more to the SW or WSW for a few hours in the morning, but are
+then expected to shift back to the W as the trough passes east.
+Wind speeds will be around 10 kt or less overnight. There may be
+occasional gusts of 15 to 20 kt, especially early in the
+evening. Sustained winds of 10 to 15 kt for the metro terminals
+by mid Friday morning, most other terminals will see sustained
+winds around 10 kt for Friday. Gusts of 15 to 20 by mid morning
+increase slightly to low 20 kt for the afternoon. 
+
+  ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Amendments likely mainly for changes in flight categories. 
+Occasional gusts of 15 to 20 kt this evening. 
+
+.OUTLOOK FOR 00Z SATURDAY THROUGH TUESDAY...
+
+Friday night: VFR. W wind around 10 kt or less. 
+
+Saturday and Sunday: Mainly VFR. NW winds 
+G15-18kt. 
+
+Monday: VFR. 
+
+Tuesday: Mainly VFR, low end chance of MVFR in any showers/rain.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Gale warnings replaced with SCA over the ern waters, though
+mesonet sites right along the coast suggest there could still be
+some 35-kt gusts early this evening over the far ern coastal
+waters S of Montauk. SCA in effect for the ern Sound,
+Peconic/Gardiners Bays until 2 AM Fri until N winds gusting to 
+25-30 kt diminish, and on the ocean waters until 2 PM Fri when
+hazardous seas should subside below 5 ft. 
+
+Ocean seas probably hover around 4 ft thereafter through
+Saturday, but could be up to 5 ft at times. There will 
+probably be a long enough period of sub-5 ft seas during this 
+time frame such that the SCA probably won't need to be extended
+beyond 2 PM Fri. 
+
+Quiet from Sat night through Tue night as winds and seas
+subside.
+
+&&
+
+.HYDROLOGY...
+No further impacts expected attm.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+Water levels have remained mostly below previously forecast
+values. The high tide cycle is just peaking on the wrn Sound,
+with minor flooding only at the Stamford and Bridgeport gauges,
+so a coastal flood advisory remains in effect there until 
+10 PM. No more than localized minor coastal flooding possible 
+with the Fri evening high tide cycle there as well. 
+
+Farther down the road, there is potential for localized minor 
+coastal flooding next week with approach of the new moon, 
+causing areas to need as little as 1/4 ft of tidal departure for
+minor coastal flooding.
+
+The OKX surf zone forecast season begins on Friday with a high
+rip current risk for all the ocean beaches. Various 
+contributing factors include a 4-ft/9-sec E swell coming off
+today's gales and rough seas, with low tide in the morning, then
+an opposing WSW 10-15 flow in the afternoon leading to 
+chaotic conditions. Surf temps have cooled off to the lower/mid
+50s, which should keep most people out of the water anyway. 
+
+The rip current risk for Saturday should be moderate as seas 
+gradually subside. 
+
+Outlook for the rest of the Memorial Day weekend: RCMOS predicts a 
+moderate rip current risk for Sunday, and a low risk for Memorial 
+Day, and winds and seas continue to subside.
+
+&&
+
+.CLIMATE...
+Record daily minimum high temperatures are possible for today, 
+May 22nd. Here are the records for today with the preliminary 
+high temperature for the day as of 8 PM: 
+
+NYC: 54/1894, high temp so far: 51 
+JFK: 55/1967, high temp so far: 55
+LGA: 57/2003, high temp so far: 53
+EWR: 56/2003, high temp so far: 53 
+BDR: 54/2005, high temp so far: 52 
+ISP: 54/2003, high temp so far: 53
+
+The following are the daily record low temperatures for May 
+23rd:
+
+NYC: 43/1963
+JFK: 44/1963
+LGA: 45/1963
+EWR: 43/1931
+BDR: 42/1963
+ISP: 42/2006
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...High Risk for Rip Currents from 6 AM EDT Friday through Friday 
+     evening for NYZ075-080-081-178-179.
+NJ...None.
+MARINE...Small Craft Advisory until 2 AM EDT Friday for ANZ331-332-340.
+     Small Craft Advisory until 2 PM EDT Friday for ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JC/BG
+NEAR TERM...JC/BG/JP
+SHORT TERM...JC
+LONG TERM...BG
+AVIATION...JP
+MARINE...JC/BG
+HYDROLOGY...JC/BG
+TIDES/COASTAL FLOODING...
+CLIMATE...

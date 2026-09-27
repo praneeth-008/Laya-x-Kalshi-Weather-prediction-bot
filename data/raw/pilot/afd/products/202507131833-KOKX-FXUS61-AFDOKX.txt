@@ -1,0 +1,218 @@
+887 
+FXUS61 KOKX 131833
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+233 PM EDT Sun Jul 13 2025
+
+.SYNOPSIS...
+Offshore high pressure departs further east tonight. A cold front 
+approaches the region from the west Monday, attempting to move 
+through into Monday night. The frontal boundary likely remains just 
+south of the area for a few days before returning north as a warm 
+front sometime late in the week. This will be followed but a cold 
+frontal passage late week into the weekend.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+High pressure that has been situated off the coast of Nova Scotia 
+exits further out into the Atlantic into tonight, as a cold front 
+over the eastern Great Lakes gradually works east.
+
+Some clearing has worked in along much of the coast this 
+afternoon, with interior areas having a more difficult time, 
+though additional stratus develops and rolls in into this 
+evening. Lowered PoPs a bit across NE NJ and the LoHud Valley 
+late today with any activity likely remaining off to the west 
+based on current radar and latest hi res guidance. Still 
+possible a shower or spotty thunderstorm drifts east into this 
+evening, but coverage looks isolated at best with limited 
+forcing and most, if not all, remain dry through this evening. 
+Prefrontal convergence well ahead of an approaching frontal 
+boundary could instigate some showers into the western Lower 
+Hudson Valley overnight, but activity should weaken as it drifts
+east. 
+
+With the persistent onshore flow and saturated low levels, in 
+addition to widespread stratus tonight, will have to watch for 
+possible areas of patchy fog or drizzle late, mainly LI and 
+southern CT.
+
+
+&&
+
+.SHORT TERM /MONDAY THROUGH MONDAY NIGHT/...
+Ridge axis aloft shifts east of the region as a surface cold 
+front approaches from the west Monday, moving into the region 
+Monday night.
+
+Any morning fog or drizzle comes to an end by mid morning,
+and the stratus blanket attempts to break up into the afternoon.
+The approach of the frontal system will eventually initiate 
+showers and thunderstorms, though forcing looks relatively weak
+until later in the day. Looking at the thermo environment, 
+abundant moisture with a tropical like air mass in place and 
+PWATs progged near 2 inches will combine with modest instability,
+though denser cloud cover could hinder this. Deep layer shear 
+will be lacking, with a piddly wind profile through much of the 
+column. This should keep convection relatively unorganized, but 
+can't rule out a few strong or damaging wind gusts with any 
+thunderstorm, though the overall severe threat looks limited. 
+
+Perhaps a bit more of a concern is the potential for higher 
+rainfall rates in the moisture laden environment, particularly 
+for areas west of the Hudson. Hi res guidance, including the 12Z
+HREF, is signaling potential for pockets of convection producing
+rates over an inch an hour, mainly over NE NJ and the LoHud 
+Valley. WPC has maintained a marginal risk for excessive rainfall
+locally, though introduced a slight just off to the south and 
+west. More likely is the potential for minor nuisance flooding 
+as the convection works through, with perhaps a localized flash 
+flood threat. Timing looks mid to late afternoon for western 
+areas, including NE NJ, NYC, and the LoHud Valley, before 
+activity works east across southern CT and Long Island into the 
+evening hours, and could linger into the overnight as the
+weakening boundary slows or hangs up over the region.
+
+&&
+
+.LONG TERM /TUESDAY THROUGH SATURDAY/...
+***Key Points***
+
+*Potential remains for several days of high heat and humidity this 
+week. The higher confidence is now for Wednesday through Friday, 
+with widespread max heat index values forecast to be 95 to around 
+100 (Heat Advisory criteria).
+
+*A relatively active pattern is expected with chances for several 
+days of afternoon showers and thunderstorms.
+
+A frontal boundary will likely stall just offshore and linger near 
+the area through midweek before returning north as a warm front. A 
+cold front will then follow at the end of the week into the weekend. 
+Aloft, the pattern stays the same through the period. Although we 
+are under some high heights, we are somewhat on the eastern end of a 
+broad upper level trough centered over central Canada and few 
+shortwaves likely pass through.
+
+With strong Bermuda high in place, a S/SW flow will allow plenty of 
+moisture to be sent our way. This combined with above normal high 
+temperatures brings some potential for a heat wave, with widespread 
+heat index values of 95 to around 100 (Heat Advisory criteria) 
+currently expected Wednesday through Friday. Temperatures have 
+trended down a bit, especially for Tuesday which now looks like it 
+may not reach Heat Advisory criteria. However, there still is 
+uncertainty especially given the potential for convection and slight 
+inconsistencies in a late week frontal system among the guidance. 
+The NBM was followed for highs but did manually lower afternoon 
+dewpoints a few degrees when better mixing is expected. This still 
+gave dewpoints in the lower to mid 70s.
+
+Too early to talk specifics when it comes to severe or flooding 
+concerns with the aforementioned convection. These details will be 
+ironed over the next few days. There is plenty of moisture around 
+with pwats 1.50-2.00+ for much of the period so any convection that 
+does develop will likely be able to produce heavy downpours. As for 
+severe, while we are pretty unstable, shear looks weak through much 
+of the period, with some better values as we get into late week and 
+the weekend.
+
+&&
+
+.AVIATION /18Z SUNDAY THROUGH FRIDAY/...
+Weak offshore high pressure drifts east through tonight, and
+remains offshore through Monday.
+
+MVFR ceilings remain across much of the area, with VFR east of
+the NYC terminals and into coastal Connecticut with a light southeast
+to south flow. By around 19Z ceilings are expected to improve to
+VFR at the NYC terminals. The improved conditions will be
+short-lived as ceilings lower to MVFR during the early evening,
+and then to IFR east of the NYC terminals late tonight. IFR
+conditions are possible late tonight into early Monday morning
+at the NYC metro terminals. Conditions improve to VFR around
+midday or into Monday afternoon at all the terminals. There is 
+a lot of uncertainty with the timing of lowering conditions, 
+and areal extent of IFR, and possible LIFR. Patchy drizzle and 
+fog is also possible late tonight into early Monday morning.
+
+Light SE winds up to 10kt this afternoon becoming generally 
+light and variable tonight. A more southerly flow develops 
+Monday with speeds to around 10kt.
+
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Amendments expected due to changes in flight categories through
+the forecast period with uncertainties of flight category 
+changes and timing.
+
+
+.OUTLOOK FOR 18Z MONDAY THROUGH FRIDAY... 
+
+Monday afternoon: MVFR ceilings possible early afternoon, then
+becoming VFR. MVFR possible in thunderstorms mid afternoon into
+the evening. A chance of thunderstorms overnight. A few storms 
+could produce brief heavy rainfall late Monday afternoon into 
+the evening.
+
+Tuesday-Friday: Mainly VFR. MVFR in showers or thunderstorms 
+each afternoon and evening.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Patchy dense fog is possible on the local coastal waters Monday
+morning.
+
+With a weak pressure gradient, winds and waves likely remain below 
+Small Craft Advisory criteria through the coming weekend. However,
+a relatively active pattern is expected next week with chances 
+of afternoon showers and thunderstorms for several days. Winds 
+and waves will be higher in any storms.
+
+&&
+
+.HYDROLOGY...
+Showers and thunderstorms move through Monday afternoon and
+evening, and could produce locally heavy downpours with rainfall
+rates that briefly exceed an inch per hour. This could lead to
+areas of minor, nuisance flooding, with a localized flash flood
+risk, especially across urbanized NE NJ.
+
+At this time, there are no significant flood concerns Tuesday 
+through next weekend.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+For Atlantic Ocean beaches, the rip current risk today and 
+Monday is moderate with an onshore flow near 10 kt, a 3 ft swell
+from the southeast at a 7 to 8 sec, and added onshore swells, 
+one of which is a long period swell.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...DR/JT
+NEAR TERM...DR
+SHORT TERM...DR
+LONG TERM...JT
+AVIATION...MET
+MARINE...DR/JT
+HYDROLOGY...DR/JT
+TIDES/COASTAL FLOODING...

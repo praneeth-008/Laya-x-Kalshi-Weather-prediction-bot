@@ -1,0 +1,318 @@
+772 
+FXUS61 KOKX 120538
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1238 AM EST Wed Feb 12 2025
+
+.SYNOPSIS...
+Low pressure passes well south of the area tonight into early 
+Wednesday morning. Another low pressure and its associated frontal 
+system moves across the area Wednesday night into Thursday. 
+Strong high pressure approaches Thursday night through Friday. 
+High pressure moves directly over the local region Friday night,
+and moves out into the Atlantic on Saturday. An associated strong
+low moves across Sunday into Sunday night. High pressure 
+returns thereafter, gradually building in for early next week.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM THIS MORNING/...
+Forecast on track, increased probabilities to near 100% across 
+NE NJ, NYC, and Long Island where snow has been falling for a 
+couple of hours. Just some minor adjustments to temperatures, 
+dewpoints to better match observed and short term forecast 
+trends.
+
+Winter Weather Advisory remains in effect for Nassau and 
+Suffolk Counties through 7am EST Wednesday morning.
+
+Low pressure will push ENE off the southern Middle Atlantic 
+into late tonight. The region will continue to lie on the 
+northern periphery of the precip shield. The latest model trends
+all support a bump up in liquid equivalent with around a few 
+hundredths well inland, around a tenth southern portions of the 
+Lower Hudson Valley and coastal CT, 0.15-0.20" in the NYC metro,
+and around 0.25" across Long Island. The NAM still appears to 
+be the wettest of the guidance across the area, especially 
+across the southern half with as much as 0.3" in NYC and near 
+0.4" across eastern Long Island. The 18z NAM has lowered QPF 
+just slightly, but overall remains consistent with its last 
+several cycles. Most of the 12z CAMs have come into better 
+agreement with the rest of the model consensus. The HRRR is one 
+of the drier models, but have noted it be to dry at times in 
+previous events when the region is on the northern periphery.
+
+There are also several key ingredients that support the trend
+upward in liquid equivalent and resulting snow accumulation 
+including a stronger 700mb frontogenesis signal combining with 
+strong upper divergence from a 170-190 kt departing polar jet 
+streak to our north. Models do tend to struggle with the 
+combination of these features and have seen several past events 
+over perform with lift accompanying a strong upper jet. The 
+other factor is the majority of the model suite is indicating 
+enhancement of the precip shield from Southern NJ up into the 
+area at least the southeast portion of the area tonight as the 
+coastal low emerges off the coast. Thermal profiles are also 
+supporting an all snow event. Soundings indicate deep ice 
+saturation within the dendritic growth zone for several hours 
+tonight, especially across Long Island and portions of the NYC 
+metro. The strongest lift appears to occur between 10pm and 2am 
+with a decrease the rest of the night.
+
+There is a period between about 10pm and 2am where snowfall 
+rates could run between 0.25-0.50" per hour. There is even a low
+probability snowfall rates could briefly approach 1" per hour 
+across Long Island from around 11pm-1am as the strongest forcing
+and deepest moisture combine. Snowfall rates will drop off from
+west to east from 3am to 5am. Some flurries may linger towards 
+day break, but accumulating snow should end before sunrise. 
+
+Snow to liquid ratios look higher with this event given we are
+on the northern periphery of the low and soundings show more of
+an ice saturation signal over one with deeper supercooled water
+saturation signal. For these reasons have gone closer to a 
+12-13:1 ratio. 
+
+Updated snow totals are around 3 inches with potential of a few 
+spots approaching 4 inches across Long Island. Elsewhere across
+the NYC metro and much of NE NJ and coastal CT, generally 1-2 
+inches are forecast. Locations closer to the south shore in 
+Staten Island and southern Brooklyn and southern Queens could 
+see up to 3 inches. More locations could see closer to 3 inches 
+in the NYC metro and NE NJ if a wetter and further north trend 
+continues. Amounts across the interior will be lower and 
+generally less than an inch as this area is closer to subsidence
+from the high building in from the north. 
+
+A Special Weather Statement for areas outside the advisory where 
+amounts over an inch are expected to account for potential of
+slick conditions tonight. 
+
+Lows generally in the upper 20s along the coast and lower to 
+mid 20s interior.
+
+&&
+
+.SHORT TERM /6 AM THIS MORNING THROUGH 6 PM THURSDAY/...
+The offshore low pressure moves further out into the Atlantic 
+Wednesday morning. Heights aloft along the eastern seaboard
+will rise through the day in response to an amplifying upper 
+trough over the Plains. High pressure will briefly build down 
+across New England from southeast Canada. Another strong upper 
+jet streak will pass over New England so mid and high level 
+clouds are likely to persist through the day. The day time hours
+are expected to be dry as subsidence from the high pressure to 
+the north dominates. High temperatures range from the lower and 
+middle 30s inland to the middle and upper 30s near the coast. 
+
+The next low pressure and its associated frontal system fast 
+approach Wednesday night. Warm advection precip north of the
+warm front will expand across the region Wednesday evening and 
+Wednesday night. SW flow aloft will increase helping to drive 
+warmer air over the region. The latest model trends have 
+indicated an overall warmer solution with a brief window for a 
+wintry mix of snow/sleet changing to liquid overnight. There is 
+still potential for some freezing rain across the interior late 
+at night into early Thursday morning. For the NYC metro and Long
+Island, warmer air at the surface and aloft will change any 
+brief snow to plain rain late in the evening and night. 
+Snow/sleet accumulations look light and generally a coating near
+the NYC metro to around an inch well inland. Ice accumulations 
+for the interior could be several hundredths. 
+
+The warm front and associated weak secondary low lift north over
+the area on Thursday. It is always difficult to forecast the 
+exact placement of these features. However, the guidance has 
+been trending warmer with a much stronger parent low passing 
+well to our northwest Thursday. This should be able to scour out
+some of the low level cold air across the interior by Thursday 
+morning. The bulk of any remaining precip occurs in the morning 
+with drier air beginning to move in late in the day as the 
+associated cold front moves through. Latest model consensus 
+indicates highs in the 40s. With potential of dew points in the 
+40s as well, there may some fog around with lingering melting of
+the recent snow pack. This is something that may need to be 
+added into the forecast in future updates.
+
+&&
+
+.LONG TERM /THURSDAY NIGHT THROUGH TUESDAY/...
+The key feature of the long term will be the evolution of a
+strong quite deep mid and upper level cutoff low in Southern 
+Canada. The mid and upper level pattern is expected to be more 
+amplified as a result. The active upper jet stream remains 
+across the region much of the long term period with more periods
+of strong meridional SW flow.
+
+The overall forecast trend, POPs went up this weekend compared to 
+previously forecast and temperatures on average cooled compared to 
+previously forecast. Forecast followed NBM but did blend in 
+consensus of raw model data for temperatures this weekend. For the 
+precipitation, greater weight was given to utilize a precipitation 
+type from thickness method for Saturday night into Sunday using the 
+GFS with some manual cooling of layers.
+
+Dry conditions expected with strong high pressure building in 
+Thursday night through Friday night. Lows at night are forecast to 
+be near normal and highs forecast on Friday are slightly below 
+normal.
+
+Precipitation event, this weekend, warm front followed by strong
+low and associated occluded front. The strong low moves across 
+Sunday into Sunday night along with its occluded front. Warm air
+advection makes for plain rain for entire region pretty much 
+all of Sunday afternoon.
+
+However, with onset (Saturday) and tapering off of precipitation 
+(Sunday night), snow will be probable for all of the region. In 
+between, mainly Saturday night into Sunday, warming aloft in
+advance of the strong low will present a potential transition 
+to a wintry mix, including freezing rain across the interior. 
+There is uncertainty and subsequent forecasts may have northward
+or southward shifts with this wintry mix and snow line and its 
+timing.
+
+Too much uncertainty at this point for any exact rain, snow and/or 
+ice amounts.
+
+Behind this front, strong cold air advection is expected with jet 
+max south of the region. Coldest temperatures of the forecast period 
+are expected for Monday and Tuesday of next week. Forecast highs 
+struggle to approach the freezing mark and are well below
+normal.
+
+&&
+
+.AVIATION /06Z WEDNESDAY THROUGH SUNDAY/...
+Low pressure off the mid Atlantic coast at 05Z passes well south of 
+Long Island overnight. High pressure briefly builds to the north 
+Wednesday morning before yet another low approaches from the west 
+late Wednesday afternoon, and passes north of the region Wednesday 
+night into Thursday morning.
+
+Light snow with IFR to LIFR will be ending 08Z to 10Z, except mainly 
+dry at KSWF with a chance of MVFR in light snow. Conditions improve 
+back to MVFR once the snow ends. MVFR likely remains through 
+Wednesday with a chance Wednesday afternoon of a brief period of 
+VFR, however, confidence is low. A wintry mix is possible toward 23Z 
+Wednesday, becoming likely early evening, then transitioning to 
+plain rain along the coast 02Z to 05Z, with uncertainty in the 
+timing transition. A brief period of light freezing rain will be 
+possible at KHPN, and KTEB before 06Z, and then going over to plain 
+rain.
+
+Snow accumulations overnight 1-2 inches with locally up to 3 inches 
+from metro NYC across Long Island, 1/2 to 1 inch west and north.
+
+Light and variable wind to light NE becomes NE 10-15 kt across the 
+region as the low begins to depart toward Wednesday morning.
+Winds gradually become east Wednesday afternoon. Highest winds will 
+be along the coast.
+
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Amendments for changing flight categories with light snow ending. 
+Snowfall amounts of 1-2 inches expected,with locally up to 3 inches.
+
+Likely remaining MVFR Wednesday. Another round of wintry weather, 
+snow and sleet, may begin around 23Z Wednesday, and transition to 
+plain rain Wednesday evening. Low confidence forecast, especially 
+with timing of transitioning precipitation types.
+
+
+.OUTLOOK FOR 06Z THURSDAY THROUGH SUNDAY... 
+
+Late Wednesday Night-Thursday: Rain along the coast with a wintry 
+mix north of NYC and across Connecticut with IFR/LIFR.
+Becoming plain rain north of NYC toward Thursday morning. Rain 
+ending from the west during Thursday afternoon. LLWS at the NYC 
+metro terminals, and across Long Island into southeastern 
+Connecticut Thursday from around 15Z to 21Z, with 2K ft winds  SW 45-
+60 kt. E gusts 15-20 kt Wednesday night.
+
+Friday: VFR. NW wind gusts 15-20 kt during the day.
+
+Saturday: VFR early. MVFR or lower possible with rain/snow mix near 
+coast and snow inland late. Becoming all rain at the coast by early 
+evening, and a bit later at the inland terminals.
+
+Sunday: MVFR for much of the day in rain; winds SW 5-10kts.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Conditions will remain below SCA levels on all waters tonight.
+E/NE winds on Wednesday with marginal SCA gusts and seas likely
+in the morning then higher confidence in winds and seas at SCA 
+levels in the afternoon and at night. Winds will also increase 
+to SCA levels on the LI Bays and eastern Sound Wednesday night. 
+SCA conditions likely linger on the ocean Thursday and could 
+also expand to the Sound, Bays, and Harbor. 
+
+SCA conditions are probable on the local waters Thursday night
+into Friday. Sub-SCA conditions then probable Friday night 
+through Saturday night. SCA conditions potentially return for 
+Sunday and Sunday night.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through early next week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+With full moon on Wednesday and SCA easterly flow Wed Night into
+Thu AM ahead of approaching frontal system, there is potential 
+for scattered areas of minor coastal flooding with Thu morning 
+high tide for vulnerable areas along Jamaica Bay, western Great 
+South Bay and western LI Sound, and more isolated along NY/NJ 
+harbor. 
+
+Tidal departures needed for minor coastal flooding are
+near 2 to 2.5 feet of surge. An average of model surge guidance
+shows localized departures up to near 2 feet for parts of the
+Long Island shoreline, particularly within the South Shore 
+Bays as well as within the Southern Fairfield CT shorelines.
+However, with the aforementioned SCA easterly flow leading into
+the early Thursday high tide, the surge might end up being on 
+the higher side and above surge model averages. Therefore, the 
+minor coastal flooding may well be more widespread early
+Thursday, especially within the South Shore Bays and along
+portions of Western Long Island Sound.
+
+Some beach flooding and escarpment possible during the Thu AM high 
+tide with elevated water levels and e to w sweep of 4 to 6 ft 
+breaking surf, but dune erosion threat appears limited at this
+point.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...Winter Weather Advisory until 7 AM EST this morning for 
+     NYZ078>081-177-179.
+NJ...None.
+MARINE...Small Craft Advisory from 6 PM this evening to 6 AM EST 
+     Thursday for ANZ332-340-345.
+     Small Craft Advisory from 6 AM this morning to 7 PM EST 
+     Thursday for ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JM/DS
+NEAR TERM...JM/DS/MET
+SHORT TERM...DS
+LONG TERM...JM
+AVIATION...BC/MET
+MARINE...JM/DS
+HYDROLOGY...JM/DS
+TIDES/COASTAL FLOODING...

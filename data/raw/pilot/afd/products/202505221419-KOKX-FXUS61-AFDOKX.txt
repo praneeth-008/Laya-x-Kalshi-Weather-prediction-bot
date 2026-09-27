@@ -1,0 +1,290 @@
+368 
+FXUS61 KOKX 221419
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1019 AM EDT Thu May 22 2025
+
+.SYNOPSIS...
+A developing coastal low pushes just east of the area by this 
+afternoon, and lifts north into New England tonight into Friday. 
+The low will linger across northern New England during the first 
+half of the weekend as high pressure builds in for the second 
+half of the weekend into early next week. Low pressure then 
+heads toward the region by Tuesday-Wednesday of next week.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Some adjustments made, primarily rainfall amounts through mid- 
+afternoon based on observations and trends. The forecast is
+otherwise mainly on track.
+
+As the coastal low develops this morning look for the steady rain to 
+continue until about midday or so for the eastern half of the 
+region. The primary low begins to fill in with an occluded 
+front slowly pushing towards the area. The 700 mb lobe of low 
+pressure forms over the eastern half of the area during the day 
+so this should begin to shut off the Carlson conveyor belt of 
+Atlantic moisture as warm advection decreases into the 
+afternoon. Late in the day the 700 mb low consolidates and 
+starts to get further north. This eventually completely shuts 
+off the more organized wet weather, although mainly lighter 
+showers will pivot through into tonight with the upper level 
+portion of the system lingering. With the sfc reflection getting
+a bit further east and north the winds are expected to go to 
+more of a northerly component and be more out of the northeast 
+this afternoon, followed by more of a true northerly flow 
+tonight. With the cloud cover and more of a NE flow regime look 
+for temperatures to run well below average. Temperatures have 
+been continued to be lowered from previous forecast cycles and 
+are likely to not get out of the upper 40s inland to the NW, and
+the lower half of the 50s elsewhere across the region and 
+closer to the coast. As the coastal low develops the winds 
+should increase further, especially closer to the coast where 
+gusts get to around 30 to 35 mph in some spots. Event rainfall 
+totals should end up averaging 1 to 2 inches across the region, 
+with the highest totals across the eastern third of the area in 
+closer proximity to the strongest mid level warm advection and 
+warm tongue from the LLJ. For more details with respect to the 
+rain and any hydrologic response please refer to the hydrology 
+section.
+
+Cyclonic flow continues into tonight, however the best forcing gets 
+north of the area and into New England with deepening of the coastal 
+system, especially in the mid levels. By mid to late evening the 
+winds should begin to decrease as the wind direction becomes more 
+out of true north, then more NW late. Look for periods of light 
+shower activity with any additional rainfall to be on the light side 
+with the highest RH in the lowest 10kft as the system becomes 
+vertically stacked. Mainly cloudy skies persist with temperatures 
+averaging below average with lows mainly in the 40s region wide.
+
+&&
+
+.SHORT TERM /FRIDAY THROUGH SATURDAY/...
+The cool weather regime continues as the upper level low more or 
+less temporarily stalls over Northern New England and Upstate NY 
+Friday into Friday night. Cyclonic flow continues in the column with 
+a good deal of cloud cover remaining. Somewhat drier air begins to 
+work in down lower in the column on a W flow. This should get 
+temperatures a bit warmer, but still running below average with a 
+good deal of cloud cover with mainly upper 50s and lower 60s for max 
+temperatures. Another spoke of mid and upper level energy pivots 
+through into the afternoon and this looks to yield another round of 
+at least some scattered shower activity. The activity is likely to 
+linger into Friday night as well with the relatively higher chance 
+of showers further N and NW. Minimum temperatures Friday night will 
+mainly range from the middle 40s inland to the north, to around 50 
+or in the lower 50s for the metro and coast.
+
+For Saturday the upper level low slowly pushes northeast into Maine 
+and Nova Scotia. A deep WNW flow will reside in the column keeping 
+the region primarily dry with only the slightest chance of a shower 
+or a few sprinkles mainly across northern most sections as the cold 
+pool aloft lingers with mainly broken cloud coverage. With the upper 
+level low slowly lifting out and more of a land component to the 
+wind temperatures may be able to get a few degrees warmer, but still 
+average below normal as max temperatures should get into the lower 
+and middle 60s. This would still be around 10 degrees below normal 
+for this time of the year.
+
+&&
+
+.LONG TERM /SATURDAY NIGHT THROUGH WEDNESDAY/...
+**Key Points**
+
+* Dry conditions for the area Sunday and Monday, with shower chances 
+  returning by late Monday and Tuesday.
+
+* Slightly below normal temperates expected generally, with 
+  Memorial Day the warmest of the period; near normal.
+
+Decent model agreement on a slow-moving, closed mid-level low east 
+of the area over New England to start the period. The local area 
+thus resides under a deep cyclonic/NW flow aloft, with a few weak 
+shortwaves rounding the base of the closed low through Tuesday. 
+Ridging aloft then build over the area on Tuesday, while another 
+deep low approaches from the Great Lakes region by midweek.
+
+Have kept the forecast dry for Sunday with the cold pool aloft and 
+fairly dry airmass, but can't rule out an afternoon shower 
+especially with some shortwave energy passing over the area in the 
+afternoon (model guidance consensus still hinting at this 
+possibility) along with more favorable mid level lapse rates. This 
+looks most likely for the interior, LoHud and Southern CT. At a 
+minimum, an increase in cloud cover Sunday afternoon looks likely 
+for the whole area, with below normal high temperatures in the mid 
+to upper 60s.
+
+By Monday the surface flow becomes more westerly/southwesterly, as 
+high pressure/upper ridging builds in.  With some waa, expect a 
+warmer day than on Sunday, with mainly dry conditions for the much 
+of the day. Clouds will be on the increase, however, by Monday 
+afternoon/evening as surface low pressure originating over the 
+southeast US heads northeast toward the region. This system will 
+have some moisture to work with given its origin, with mean PWATS 
+from the LREF (NAEFS/GEFS) of around 1" by early Wednesday. Usual 
+model timing differences this far out, so have used the ensemble 
+approach for PoPs and Wx, increasing the precip potential by Tuesday 
+morning and keeping chances in through Wednesday. Given the 
+increased cloud cover and shower activity, temperatures will remain 
+slightly below normal in the mid and upper 60s.
+
+&&
+
+.AVIATION /14Z THURSDAY THROUGH MONDAY/...
+Low end MVFR and IFR cigs continue across the terminals this 
+morning, along with period of rain, some of it moderate to
+locally heavy at times. Gusts have been slow to develop but are
+increasing east of NYC. Gusts will be from the ENE 15G20-25kts.
+A return to high end MVFR may occur later this afternoon, with 
+a lowering of cigs again early Friday and toward the end of the 
+TAF period.
+
+  ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Amendments likely mainly for changes in flight categories. 
+Gusts may be more occasional than frequent.
+
+.OUTLOOK FOR 12Z FRIDAY THROUGH MONDAY...
+
+Friday: Chance of showers with MVFR cond at times. N winds 10- 
+15G20kt E of the NYC metros Thu evening. 
+
+Saturday and Sunday: Mainly VFR. NW winds G15-18kt. 
+
+Monday: VFR. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90&&
+
+.MARINE...
+SCA for western waters and Gale Warning for eastern waters
+continues through this afternoon. Occasional gales possible on 
+the waters where the advisory is currently up, but not enough 
+for an upgrade to a warning. Gale warning may need to be 
+extended by a few hours over the easternmost waters, otherwise 
+winds eventually fall below advisory thresholds through the 
+night tonight. Seas will remain elevated on the ocean with 
+advisory conditions likely through at least Friday morning. Then
+hovering 4-5 feet into Saturday.
+
+All waters look to be blw SCA lvls Sun and Mon. Seas may then 
+build on the ocean to SCA lvls late Tue.
+
+&&
+
+.MARINE...
+Gale warnings continue today for the ocean waters and the eastern 
+nearshore waters, with small craft conditions elsewhere. During 
+tonight sub advisory conditions return across the nearshore water 
+from west to east as the winds turn more NW and gradually diminish 
+into early Friday morning. Ocean seas will remain near small craft 
+criteria through tonight, followed by more marginal small craft 
+conditions with mainly 4 to 5 ft seas during the day Friday. Small 
+craft conditions are then likely for much of the ocean Friday night, 
+followed by sub advisory conditions becoming increasingly likely 
+late Saturday into Saturday night with a lighter W to NW flow
+regime. SCA criteria is not expected to be met Sunday and
+Monday.
+
+&&
+
+.HYDROLOGY...
+Rainfall event totals are to average generally 1 to 2 inches, 
+but with higher amounts of over 2 inches possible across eastern
+Long Island and southeastern CT. This is where more nuisance 
+urban poor drainage related flooding is more likely, but overall
+flood concerns remain low with the rain expected to fall over a
+long enough duration. Thereafter there remain no significant 
+hydrologic issues through the remainder of the forecast period.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+A prolonged E-NE flow continues into this afternoon, backing 
+N/NE toward evening. This backing of winds should help limit 
+the magnitude of coastal flooding for most areas, but 
+potentially enhance impacts along Peconic and Gardiners Bay and 
+north shore of LI. 
+
+The latest forecaster adjusted Stevens (75th percentile 
+weighting), ETSS, PETSS STOFS guidance blend signals widespread 
+minor coastal flooding for the south shore of Nassau County, the
+twin forks of LI (localized moderate impacts possible for north
+facing areas along the bayfront), and along much of LI Sound. 
+
+Localized minor coastal flooding likely for NY/NJ harbor where 
+winds will back to the N/NNE earlier. Magnitude of coastal 
+flooding for central and eastern great South Bay, Moriches, and 
+Shinnecock bays will depend on tidal piling trends, but looks to
+be localized here.
+
+For Fri evening high tide, coastal flooding looks to be more 
+localized for the Fri eve high tide cycle, to southern Nassau 
+and SW CT, in response to offshore flow and subsiding onshore 
+swells. 
+
+Potential for localized coastal flooding Sun into early next
+week with approach of new moon, causing areas to need as little
+as 1/4ft of tidal departure for minor coastal flooding. 
+
+As far as shoreline impacts, along the north shore of the south
+fork of Long Island, breaking waves of 1 to 3 ft may cause dune
+erosion and localized washovers, as well as enhance splashover 
+and flooding onto shoreline roads and properties. Along the 
+ocean front and Orient Point, breaking waves of 4 to 6 ft on an 
+east to west sweep will result in beach erosion and beach 
+flooding during the times of high tide. Localized dune erosion 
+is possible. Along the north shore of Long Island, breaking 
+waves of 3 to 4 ft will cause dune erosion, localized washovers,
+as well as enhance splashover and flooding onto shoreline roads
+and properties.
+
+&&
+
+.CLIMATE...
+Record minimum maximum (coldest high temperatures) are possible
+for today, May 22nd. Here are the records and forecast high
+temperatures for the date:
+
+NYC: 54/1894, forecast high: 53 
+JFK: 55/1967, forecast high: 53
+LGA: 57/2003, forecast high: 53
+EWR: 56/2003, forecast high: 53 
+BDR: 54/2005, forecast high: 51
+ISP: 54/2003, forecast high: 54
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Coastal Flood Advisory from 6 PM to 10 PM EDT this evening for 
+     CTZ009>012.
+NY...Coastal Flood Advisory from 6 PM to 10 PM EDT this evening for 
+     NYZ071-073-078-176-177.
+     Coastal Flood Advisory from 2 PM this afternoon to 11 PM EDT 
+     this evening for NYZ079>081-179.
+     Coastal Flood Advisory from 2 PM this afternoon to 7 PM EDT 
+     this evening for NYZ178.
+NJ...None.
+MARINE...Gale Warning until 6 PM EDT this evening for ANZ331-332-340-
+     350-353.
+     Small Craft Advisory until midnight EDT tonight for ANZ335-345.
+     Small Craft Advisory until 6 PM EDT this evening for ANZ338.
+     Small Craft Advisory until 6 AM EDT Friday for ANZ355.
+
+&&
+
+$$
+
+SYNOPSIS...JE/DBR
+NEAR TERM...JC/JE
+SHORT TERM...JE
+LONG TERM...DBR
+AVIATION...BC/DBR
+MARINE...JC/JE/DBR
+HYDROLOGY...JE/DBR
+TIDES/COASTAL FLOODING...
+CLIMATE...

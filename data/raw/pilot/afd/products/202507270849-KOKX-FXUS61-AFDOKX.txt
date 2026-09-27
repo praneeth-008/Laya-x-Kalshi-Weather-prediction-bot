@@ -1,0 +1,175 @@
+907 
+FXUS61 KOKX 270849
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+449 AM EDT Sun Jul 27 2025
+
+.SYNOPSIS...
+High pressure moves offshore as a weak frontal system approaches the 
+area this morning. The front heads east of the region tonight 
+into early Monday. High pressure then returns Monday into
+Tuesday. A cold front approaches Wednesday and moves across the
+area Wednesday night into Thursday. High pressure builds in 
+from the Great Lakes Friday into next Saturday.
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+GOES-16 6.95um WV channel depicts a mid/upper shortwave racing 
+through the Great Lakes this morning. A weak N-S oriented surface 
+warm front/trough was located in eastern PA heading east. A 
+moderately unstable airmass east of the frontal feature (MUCAPE 1000-
+2000J/kg) was maintain a convective complex with showers and 
+embedded thunderstorms. This activity was generating 1-2.5" of 
+precipitation in central/east PA as it heads east, with rainfall 
+rates between 1-1.25" per hour per latest MRMS.  The complex looks 
+to reach the CWA by about 0700-0800Z and should weaken as it does so 
+per SPC mesoanalysis, with a more stable environment as the complex 
+approaches.
+
+Much of the day remains cloudy with the warm front hanging around, 
+which will limit overall airmass destabilization. 
+
+Second round of showers/thunderstorms associated with the 
+approaching shortwave and warm front are likely this afternoon. 
+Model soundings do show an appreciable increase in PWAT, with over 
+2" by this afternoon along with at least some increase in 
+instability (MUCAPE ~1000J/kg) and shear (0-6km shear values 25-
+30kts) with the approaching shortwave. SPC maintains a marginal risk 
+of severe thunderstorms for the parts of area this afternoon as a 
+result. In addition, there is at least a localized flash flood 
+threat this afternoon with any thunderstorms given the high PWAT 
+environment. HREF probabilities of 3" in 3/hr are around 10%, 
+however, further supporting the localized nature of any flash 
+flooding.
+
+Any convective activity should weaken as it heads east, given the 
+more stable environment and loss of upper support this evening.
+
+&&
+
+.SHORT TERM /6 PM THIS EVENING THROUGH MONDAY NIGHT/...
+* Heat and humidity builds on Monday and continues into Tuesday. 
+  Heat Advisory in effect for the entire area for both days. 
+
+Weak upper ridging aloft takes over for Monday and Tuesday as the 
+area continues to reside on the eastern edge of a large upper ridge.
+An increase in heat and humidity on Monday as weak ridging builds 
+back in behind the departing shortwave. Dry weather is expected. 
+However, h850 temperatures approach 20-21C Monday afternoon with 
+dewpoint in the mid 70s (per NBM). Thus, heat indices of 100-105 for 
+northeast NJ and 95-100 elsewhere look possible once again Monday 
+afternoon.
+
+More heat and humidity on Tuesday, under mainly dry conditions, as 
+the upper ridging begins to break down.
+
+&&
+
+.LONG TERM /TUESDAY THROUGH SATURDAY/...
+The NBM was followed with no changes.
+
+Key Points: 
+
+* Heat and humidity will continue on Wednesday. Widespread heat 
+  index values between 95 and 99 with some locations reaching the 
+  100-104 mark. 
+
+* Chances for showers and thunderstorms increases Wednesday into 
+  Wednesday night as a cold front approaches and moves across the 
+  region. Showers could persist into Thursday. 
+
+* High pressure returns to end the week and should dominate the 
+  pattern this weekend bringing cooler temperatures and low humidity 
+  levels.
+
+&&
+
+.AVIATION /09Z SUNDAY THROUGH THURSDAY/...
+A weak warm front moves across the region today.
+
+Mainly VFR to start, with exception of MVFR visibilities due to haze 
+and smoke from wildfires. Some MVFR conditions will be possible with 
+some showers through about 12z. A period of prevailing MVFR, 
+with a low chance of IFR, will work into the Lower Hudson Valley
+this morning and then across the remainder of the area during 
+the afternoon hours. VFR conditions are then expected to return 
+Sunday night as drier low-level air filters in behind a surface 
+trough. 
+
+Light S/SE winds overnight will gradually veer to the S/SW
+toward morning, increasing to 5 to 10 kt. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Amendments are likely for the timing of showers, possibly 
+thunderstorms, today. There looks to be multiple episodes or rounds.
+
+Amendments are also likely for the timing of MVFR or lower
+conditions on Sunday.  
+
+.OUTLOOK FOR 06Z MONDAY THROUGH THURSDAY... 
+
+Sunday Night: VFR or improving to VFR.
+
+Monday - Tuesday: VFR.
+
+Wednesday: Mainly VFR. A chance of showers and thunderstorms
+late in the day and at night. 
+
+Thursday: VFR. A chance of showers with MVFR possible.
+
+Detailed information, including hourly TAF wind component 
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+A weak pressure gradient thru Wednesday will lead to the 
+continuation of conditions below Small Craft Advisory levels. 
+Conditions should remain below Advisory levels next Thursday, 
+but there may be a slight increase in winds and seas due to the 
+passage of a cold front.
+
+&&
+
+.HYDROLOGY...
+Isolated instances of flash flooding are possible this afternoon and 
+evening, mainly for NYC and points N&W.  Rainfall rates of 2"/hr are 
+possible. There are currently no hydrologic concerns next 
+week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+A low rip current risk overall is expected today and Monday 
+with any onshore swell component a bit weaker and a light 
+southerly wind wave Monday.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Heat Advisory from 11 AM Monday to 8 PM EDT Tuesday for 
+     CTZ005>012.
+NY...Heat Advisory from 11 AM Monday to 8 PM EDT Tuesday for 
+     NYZ067>075-078>081-176>179.
+     Air Quality Alert until midnight EDT tonight for NYZ067>075-
+     078>081-176>179.
+NJ...Heat Advisory from 11 AM Monday to 8 PM EDT Tuesday for NJZ002-
+     004-006-103>108.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...BC/DBR
+NEAR TERM...DBR
+SHORT TERM...DBR
+LONG TERM...
+AVIATION...BC
+MARINE...BC/DBR
+HYDROLOGY...BC/DBR
+TIDES/COASTAL FLOODING...

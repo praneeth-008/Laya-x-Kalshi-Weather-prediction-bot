@@ -1,0 +1,205 @@
+239 
+FXUS61 KOKX 171459
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+959 AM EST Mon Feb 17 2025
+
+.SYNOPSIS...
+Deepening low pressure meanders near the Canadian Maritimes today
+as a strong high drops down into the Central US. The high gradually
+builds into the region from the west through midweek. An area of
+low pressure then ejects off the Southeast coast Wednesday night,
+passing south and east of the area Thursday. High pressure returns
+from the west for the end of the week.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+
+No significant changes from the previous update. Have extended
+the mention of sct flurries for parts of the Lower Hudson 
+Valley and Southern CT through 18z.
+
+Sharply colder today while remaining very gusty. The local 
+effects from a deepening sub 970 mb low continue to be felt as 
+the system occludes and meanders over far southeastern Canada. 
+The result is the continuation of strong, locally damaging, 
+winds across the region. CAA with the flow is ushering in a 
+sharply colder air mass relative to yesterday as well. 
+Afternoon highs today climb little from where they started near
+daybreak, topping out within a few degrees of the freezing 
+mark. With the winds, expect wind chill values to remain 
+persistently in the 20s thru the day, if not lower.
+
+Soundings indicate a well mixed boundary layer, mixing to and 
+above 850 mb much of the day. Winds toward the top of this 
+layer are progged near 50 kt, which gives an idea of peak gust 
+potential, with more frequent gusts around 40 kt likely thru the
+afternoon. Thus, the Wind Advisory remains in effect regionwide
+until 6 PM this evening. Still can't rule out isolated gusts to
+50kt today. 
+
+Winds should begin to ease just a bit this evening,though the 
+gusty west flow continues overnight as strong high pressure 
+slowly builds east from the Central US. Remaining dry tonight
+with temps falling back into the teens and 20s. Wind chills
+bottom out late tonight into the single digits.
+
+&&
+
+.SHORT TERM /TUESDAY THROUGH TUESDAY NIGHT/...
+Flow remains strong Tuesday as high pressure builds in from the west.
+
+With the cold air mass entrenched, temperature anomalies run 10 to 
+15 degrees below normal. After a frigid start with morning 
+temps largely in the teens and wind chills near zero sets up an
+afternoon likely a few degrees colder than the previous day, 
+with highs generally in the mid to upper 20s and wind chills in 
+the teens.
+
+Dry conditions prevail with the building high under a mix of
+mid level clouds and sunshine. WNW gusts 30 to 35 mph are
+expected to persist thru the afternoon, gradually subsiding in 
+the evening and overnight.
+
+&&
+
+.LONG TERM /WEDNESDAY THROUGH SUNDAY/...
+Key Points...
+
+* Lowering chances of a significant winter storm in the Wed
+  night and Thursday timeframe.
+
+* Remaining cold with temperatures running 5 to 10 degrees 
+  below normal.
+
+A 1050+ mb Arctic high continues to build in from the west 
+midweek, keeping the region dry to start the period. Though as a
+baroclinic zone sets up over the South, low pressure develops 
+and deepens as shortwave energy swings through midweek. This low
+is expected to trek east and eject off the Southeast coast 
+Wednesday night, passing to the south and east of the region 
+into Thursday, before exiting well out to sea.
+
+Global guidance continues to trend farther south and east with
+this system, lessening the potential of a significant snowfall 
+locally. While the threat has not entirely diminished, 00Z GEFS 
+run offers just 10% of members with a warning level (6 in+) snow
+at KISP, and about half the members with at least an inch of 
+snow, lessening further going north and west. Tapered PoPs back 
+a bit in this period to align with forecast trend, but not 
+shutting the door entirely should the expected track shift a bit
+closer over the next 48 to 72 hours.
+
+The low passes out to sea regardless by late Thursday, and high
+pressure returns once again from the west. This high remains west
+of the area through much of the weekend, providing dry but cold
+conditions.
+
+&&
+
+.AVIATION /15Z MONDAY THROUGH FRIDAY/...
+Deep low pressure over the Canadian Maritimes remains nearly 
+stationary as strong high pressure gradually builds from the 
+west. 
+
+BKN VFR cigs expected through much of the day today, with W
+winds sustained 20 to 30 kt and gusts 35 to 45 kt, with
+occasional gusts near 50 kt through this afternoon. Cigs 
+scatter and winds lighten a bit after sunset, but speeds remain 
+around 15-20G30kt on Tuesday.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No unscheduled AMD expected. 
+
+Isolated gusts up to 50 kt possible thru this afternoon.
+
+.OUTLOOK FOR 12Z TUESDAY THROUGH FRIDAY...
+
+Tuesday: VFR. W winds G30 kt. 
+
+Wednesday: VFR. 
+
+Wednesday night: Chance of snow with MVFR or IFR vsby. 
+
+Thursday: Snow possible with MVFR/IFR cond. N-NW winds 
+G20-25kt, mainly afternoon/evening. 
+
+Friday: VFR. NW winds G20kt. 
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Strong winds associated with deep low pressure centered over 
+the Canadian Maritimes persists in the near term.
+
+For the ocean waters, Storm Warning remains in effect for the 
+ocean waters thru this afternoon. Thereafter, gales continue 
+through at least this evening, if not the overnight. Ocean seas
+10 to 14 ft today gradually lower into this evening, but
+remaining above 5 ft thru Tuesday night.
+
+For non ocean waters, Gale Warning on the through this evening,
+and through into early Tuesday morning for the eastern Long 
+Island Sound, and the eastern Long Island bays. Seas on the
+Sound 5 to 7 ft today, and up to 5 ft possible on Tuesday before
+lowering.
+
+With cold air moving in, and the combination of strong winds 
+and high seas, there is also a chance of freezing spray late 
+tonight through Tuesday night. At this time, ice accretion is 
+expected to remain below Advisory criteria, but will continue to
+monitor conditions should one be needed.
+
+Wind gusts up to 25 kt likely continue on all waters into
+Tuesday night before subsiding into early Wednesday, bringing a
+return of sub SCA conditions that could persist into late week
+depending on the track and strength of offshore low pressure 
+Thursday.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts are expected through this week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+A long duration period of strong offshore westerly flow may 
+cause a few spots to experience low water conditions around the 
+times of low tide into Tuesday evening, mainly along Raritan 
+Bay, the north shore of Nassau and western Suffolk counties, 
+and possibly the bays of Long Island. Water levels are largely 
+expected to remain less than 2 ft below MLLW however, and a Low
+Water Advisory appears less likely.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Wind Advisory until 6 PM EST this evening for CTZ005>012.
+NY...Wind Advisory until 6 PM EST this evening for NYZ067>075-
+     078>081-176>179.
+NJ...Wind Advisory until 6 PM EST this evening for NJZ002-004-006-
+     103>108.
+MARINE...Gale Warning until 6 AM EST Tuesday for ANZ331-332-335-338-340-
+     345.
+     Storm Warning until 4 PM EST this afternoon for ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...DR
+NEAR TERM...JC/DR
+SHORT TERM...DR
+LONG TERM...JP/DR
+AVIATION...DR/MET
+MARINE...DR
+HYDROLOGY...DR
+TIDES/COASTAL FLOODING...

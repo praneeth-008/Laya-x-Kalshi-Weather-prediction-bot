@@ -1,0 +1,205 @@
+972 
+FXUS61 KOKX 271445
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1045 AM EDT Thu Mar 27 2025
+
+.SYNOPSIS...
+High pressure builds of the area today and then moves offshore
+tonight. A cold front approaches tonight and moves south towards
+the area early Friday before moving back north as a warm front
+Friday night into Saturday. The front moves back towards the area
+Saturday night. This complex frontal system remains near the area
+Sunday and Monday, before finally sliding east Monday night. High
+pressure will build from the northwest on Tuesday. A frontal 
+system from the west may begin to impact the area next Wednesday.
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+Forecast remains mostly on track. High pressure builds south 
+of the area with center moving towards the North Carolina coast.
+Slight negative pressure tendency across local region. A cold 
+front moves into Great Lakes.
+
+Despite lots of sunshine, a cooler than normal day is expected
+with the westerly flow. Westerly flow expected during the day. 
+Gusts expected, and raised wind gust forecast above initial NBM
+values.
+
+Max temperatures generally upper 40s to lower 50s.
+
+&&
+
+.SHORT TERM /6 PM THIS EVENING THROUGH SATURDAY NIGHT/...
+Jet stream upper level situated well north of the area. Overall,
+on average, ridging in the mid levels. Not much in the way of
+rainfall. Mainly dry with a warming trend for the airmass.
+
+The high pressure area moves east and off the coast of North 
+Carolina and out into Atlantic tonight. Cold front from Great 
+Lakes approaches the region and eventually moves south into 
+early Friday. Weak high pressure moves in briefly for Friday 
+afternoon. 
+
+The front will be moving farther north Friday afternoon through
+Saturday as a warm front before potentially pushing back south
+Saturday night.
+
+Lows for tonight use a combination of MET/MAV/NBM/NBM 50th
+percentile, more weight with NBM and NBM 50 percentile 
+relatively warmer. Wanted relatively warmer values along coast 
+because of partial onshore flow.
+
+Mesoscale models depict some shower activity late tonight. 
+Slight chance to chance POPs. Cold enough for snow showers
+tonight for more northern locations, rain/snow shower mix along
+coast. More shower activity potentially Friday night into early
+Saturday and again for late Saturday into Saturday night. Those
+will be with a warmer ambient airmass so just rain showers.
+
+Temperatures forecast on a rising trend, especially Friday into
+Saturday with model 850mb temperatures showing an increase of
+around 6 to 7 degrees C. Used NBM 50th percentile for Friday and
+Saturday high temperatures, which were pretty consistent with
+the previous forecast. Upper 50s to lower 60s Friday and lower
+70s to lower 80s for Saturday are the range of high temperature
+forecast for much of the region.
+
+&&
+
+.LONG TERM /SUNDAY THROUGH WEDNESDAY/...
+Unsettled conditions continue Sunday through Monday night as a 
+complex frontal system remains over the region. 
+
+The long term period starts off with a frontal boundary south of the 
+region. NBM temps from the mid 50s across the eastern portion of the 
+region east to lower 60s to the west may be a few degrees too warm 
+with a cool E-SE flow across the region. 
+
+The front is forecast to lift closer to the area Sunday night and 
+lift north of the area Monday morning. A mostly cloudy day is 
+forecast which should limit highs to the upper 50s and lower 60s to 
+the east and mid 60s to lower 70s to the west. However any afternoon 
+peeks of sun could easily lead to temps several deg warmer than 
+that. 
+
+Cold front approaches on Monday and moves across the area Monday 
+night will be followed by below normal temps for Tue-Wed next week. 
+Expect drier conditions on Tuesday and most of Wednesday. Another 
+approaching frontal system late Wednesday could bring a cold rain, 
+even some wet snow mixing in across the interior. 
+
+Overall forecast confidence is below average through the entire long 
+term period with multiple questions around frontal boundary 
+positioning.
+
+&&
+
+.AVIATION /15Z THURSDAY THROUGH MONDAY/...
+High pressure builds south of the area today.
+
+VFR. NW winds persist today with gusts once again into the 
+20-24kt range. Wind then shifts more SW and lessen into the 
+evening.
+
+Isolated light rain showers are possible tonight. Low confidence
+in coverage and occurrence so have left out of the TAF.
+Conditions are expected to remain VFR regardless.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Gusts to 20-24kt may be more occasional today.
+
+Winds could occasionally be right of 310 into this early 
+afternoon, otherwise expected to be mainly 300-290.
+
+.OUTLOOK FOR 12Z FRIDAY THROUGH MONDAY...
+
+Friday: VFR.
+
+Saturday: VFR during the day, MVFR possible at night. SW winds G20-
+25kt. 
+
+Sunday: MVFR or lower possible in light rain. E-SE wind G15-20kt. 
+
+Monday: MVFR/VFR with showers possible. S-SW winds G20kt, becoming 
+NW at night. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Ocean seas already right near 5 ft for southeast of Montauk.
+Expecting rest of ocean to get more in SCA range due to wind
+gusts this afternoon and tonight. This will linger into Friday
+morning.
+
+Non-ocean waters will have some nearshore gusts around 
+25kt today, but more widespread overnight tonight into Friday 
+morning. SCAs have been issued for all but NY Harbor and Western
+LI Sound during this period.
+
+After a brief lull in waves and wind gusts Friday afternoon and
+Friday night, expecting a trend up for these parameters for the
+weekend.
+
+Small craft conditions appear to be likely this weekend and 
+into early next week as a frontal system moves across the area 
+waters. Low pressure offshore may keep seas elevated for the 
+first half of next week.
+
+&&
+
+.FIRE WEATHER...
+Mainly dry conditions expected to continue over the next few
+days. Gusty westerly flow this afternoon and early Friday is
+forecast. Gusty southwesterly flow expected for Saturday.
+
+Some elevated fire spread potential for today with combination
+of low RH and gusty winds. This will be somewhat mitigated for
+Friday and Saturday with possible shower activity the prior
+night into early morning.
+
+Special weather statements for elevated risk of fire spread have
+been issued, which considers meteorological, fuel, and land 
+conditions and has been developed in coordination with state 
+fire and land management officials.
+
+&&
+
+.HYDROLOGY...
+Less than a half inch of rain total with showers forecast 
+through Saturday night.
+
+No hydrologic impacts are expected through the upcoming weekend.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory from 3 AM to 10 AM EDT Friday for ANZ331-
+     332-340-345.
+     Small Craft Advisory until noon EDT Friday for ANZ350.
+     Small Craft Advisory from 2 PM this afternoon to noon EDT 
+     Friday for ANZ353.
+     Small Craft Advisory from 1 AM to 10 AM EDT Friday for ANZ355.
+
+&&
+
+$$
+
+SYNOPSIS...BC/JM
+NEAR TERM...JC/JM
+SHORT TERM...JM
+LONG TERM...BC
+AVIATION...BC/JT
+MARINE...BC/JM
+FIRE WEATHER...
+HYDROLOGY...BC/JM

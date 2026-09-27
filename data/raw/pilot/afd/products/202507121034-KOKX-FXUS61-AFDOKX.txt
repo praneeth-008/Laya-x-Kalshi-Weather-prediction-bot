@@ -1,0 +1,201 @@
+647 
+FXUS61 KOKX 121034
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+634 AM EDT Sat Jul 12 2025
+
+.SYNOPSIS...
+High pressure builds southward from Canadian Maritimes today 
+into tonight. On Sunday, the high shifts farther away with a 
+warm front slowly moving through the local area. An associated 
+cold front moves in Monday into Monday night. The frontal
+boundary remains in the vicinity Tuesday through Wednesday
+morning. A cold front may approach the area by the end of 
+the week.
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+Forecast on track. Temperatures and dewpoints observed to
+forecast are within a few degrees of each other with the hourly
+values.
+
+Low level winds stay from east to southeast today, higher along the 
+coast and less inland. This will be occurring as high pressure 
+builds southwest from Nova Scotia. The setup here will allow for 
+relatively more low level convergence across the interior areas.
+
+For today, starting out the day with low clouds, dry conditions and 
+perhaps some patches of fog, outside of NYC. HRRR has been more 
+aggressive with the formation of fog, but limited potential for the 
+fog and the scenario is more of low clouds as opposed to fog. Still 
+have some locations where higher relative humidity approaching 100 
+percent with patchy fog.
+
+Otherwise, any morning fog and low clouds will soon burn off with 
+low level moisture mixing out as another seasonably warm day is 
+expected. Utilized the NBM along with the MAV MOS to give warmer 
+temperatures than including the MET MOS guidance. Warmest locations 
+are within northeast NJ and Lower Hudson Valley and thereby where 
+the most low level instability will be. CAMs are not depicting much 
+convection within the local region and seem to be much less than the 
+NBM POPs would suggest. Did manually lower from NBM POPs regarding 
+the convection. The interior locations are where the chances 
+for showers and thunderstorms are, highest between 2PM and 8PM 
+EDT. Coastal areas not expected to see showers or thunderstorms.
+
+Max temperature forecast mainly within the 80s with relatively 
+cooler values along much of the immediate shoreline. Within the area 
+of Lower Hudson Valley, NE NJ, interior SW CT as well as NYC, highs 
+today are within the upper 80s. These same locations will see max 
+heat index values of several degrees higher than the actual 
+temperature with the very humid airmass. These max heat indices
+are mostly in the lower 90s, below heat advisory criteria.
+
+&&
+
+.SHORT TERM /6 PM THIS EVENING THROUGH MONDAY NIGHT/...
+For tonight into Sunday, the flow regime across the area does not 
+change much at all. Still looking at overall east to southeast 
+winds. The pressure tendency does turn more negative Sunday 
+afternoon into Monday.
+
+For tonight, with the lack of upper level forcing, the decrease of 
+diurnal instability should allow for any convection to diminish in 
+coverage. Expecting mainly dry conditions tonight. 
+
+Minimum temperatures also from MAV and NBM, limited with their 
+downward potential due to anticipated increase in cloud coverage. In 
+addition, patches of fog could develop once again for parts of the 
+region outside of NYC. 
+
+Once again, expecting the clouds to decrease as the day progresses 
+Sunday with any residual patchy fog burning off in the morning. 
+Forecast has another chance for showers and thunderstorms, but this 
+time farther away from the coast and not starting until after 2PM.
+
+Weather overall looks to become more unsettled thereafter going into 
+Sunday night and Monday. Forecast has a higher chance for showers 
+(becoming likely) on Monday and Monday night. Thunderstorm potential 
+limited to chance.
+
+The increased probability of showers comes as a result of an overall 
+trend from ridging to more troughing aloft. Likewise, models 
+indicate the presence of more instability, a sign also of cooling 
+aloft to help generate that extra CAPE. At the surface, a warm
+front moves across Sunday into Sunday night and then a cold
+front approaches Monday.
+
+Airmass itself does not significantly change during the short
+term but dewpoints trend a little higher Monday so more lower
+90s for the max heat index forecast in the region.
+
+&&
+
+.LONG TERM /TUESDAY THROUGH FRIDAY/...
+It will be unstable for much of the week with a hot airmass in 
+place. Despite a frontal boundary in the vicinity Tuesday, some 
+ridging ahead of the next system could limit convection into 
+Wednesday morning. The approach of an upper level trough could along 
+with the weak forcing from the frontal boundary could allow for some 
+showers and thunderstorms Wednesday afternoon. A cold front 
+approaching from the NW could help trigger more extensive coverage 
+Thu into the first half of next weekend. 
+
+Temps are expected to be above normal Tue-Fri, with highs in many 
+spots int the lower to middle 90s away from the coast. Thu is 
+modeled to be the hottest at this time with apparent temps around 
+100 for NE NJ and the interior.
+
+The NBM was followed.
+
+&&
+
+.AVIATION /12Z SATURDAY THROUGH WEDNESDAY/...
+Weak high pressure remains in place through Saturday night.
+
+MVFR to IFR conditions across the area. Metro terminals look to
+remain MVFR through daybreak Saturday. Higher chances for IFR
+will be fore eastern terminals such ask KISP and KGON.
+Conditions improve back to VFR Saturday morning into the
+afternoon. MVFR conditions return Saturday evening, with IFR 
+conditions Saturday night. PROB30 for shra/tsra at KSWF in the 
+afternoon.
+
+Winds SE under 10kt, becoming light and variable for outlying areas 
+Saturday night.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Amendments likely due to timing of lowering flight categories this 
+tonight. Chance that IFR does not occur at KTEB/KEWR/KLGA.
+Timing for improving categories on Saturday could be 1-2 hours off. 
+
+.OUTLOOK FOR 06Z SUNDAY THROUGH WEDNESDAY... 
+
+Saturday night-Sunday: MVFR/IFR, improving to VFR Sunday afternoon.
+
+Monday: MVFR or lower in the afternoon and early evening with 
+showers and thunderstorms likely.
+
+Tuesday-Wednesday: Mainly VFR. Showers or thunderstorm possible in 
+the afternoon and evening.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+The absence of a steep pressure gradient will keep conditions on
+all waters within the region below small craft advisory
+criteria through Monday night.
+
+With a weak pressure gradient, winds and waves are expected to 
+remain below SCA criteria from Tuesday through Wednesday night.
+
+&&
+
+.HYDROLOGY...
+No hydrologic concerns tonight through Sunday. Possible minor
+flooding on Monday and Monday night with more heavy rain
+potential. Marginal risk for flash flooding for much of the  
+but thinking this will be quite localized. PWATs are reaching a 
+little over 2 inches Monday, with higher dewpoints and more 
+humid airmass. This will allow for greater potential of heavy 
+rainfall.
+
+In the long term, localized hydrologic impacts are possible due to 
+tstms.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+Rip current risk is moderate through Sunday along Atlantic 
+facing ocean beaches with onshore flow near 10 kt and a 3-4 ft 
+swell from the southeast at a 7 to 8 sec Sat, and an added long
+period onshore swell on Sun.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...Air Quality Alert from 11 AM this morning to 11 PM EDT this 
+     evening for NJZ002-004-006-103>108.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JM
+NEAR TERM...JM
+SHORT TERM...JM
+LONG TERM...JMC/JP
+AVIATION...JP
+MARINE...JM/JP
+HYDROLOGY...JM/JP
+TIDES/COASTAL FLOODING...

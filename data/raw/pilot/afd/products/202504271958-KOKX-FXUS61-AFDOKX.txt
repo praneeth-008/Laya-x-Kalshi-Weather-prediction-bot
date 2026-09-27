@@ -1,0 +1,165 @@
+932 
+FXUS61 KOKX 271958
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+358 PM EDT Sun Apr 27 2025
+
+.SYNOPSIS...
+High pressure remains in control through Monday and pushes 
+offshore into Tuesday. A frontal system moves across the area 
+Tuesday night into Wednesday morning. High pressure briefly 
+returns late Wednesday into Thursday before another frontal 
+system impacts the area Thursday night into Saturday. High 
+pressure then builds in for the end of next weekend. 
+
+&&
+
+.NEAR TERM /UNTIL 6 AM MONDAY MORNING/...
+An upper level trough and associated surface low pressure over the 
+Canadian Maritimes continues to move to the northeast as 
+upper level ridging builds overhead tonight. This will allow 
+the mostly cloudy skies for much of the interior to become 
+progressively clearer this evening. Surface high pressure over the 
+Great Lakes region shifts overhead tonight allowing for the gusty 
+winds to gradually diminish. Lows tonight will be in the middle to 
+upper 40s for much of the area. The NYC metro may not drop out of 
+the low 50s with the interior portions of the LHV possibly dropping 
+into the low 40s.
+
+&&
+
+.SHORT TERM /6 AM MONDAY MORNING THROUGH MONDAY NIGHT/...
+High pressure shifts overhead Monday and gradually slides south of 
+the area into the evening. This will allow for light flow under 
+clear skies. Ample sunshine during the day will promote relatively 
+deep mixing of the BL. As mid-level heights rise with the upper 
+level ridging, this deep mixing will allow temperatures to warm into 
+the low to middle 70s throughout the area. Deeper mixing near 
+the NYC metro may allow temperatures to rise into the upper 70s.
+
+Given the light flow and deep BL mixing, this will allow for a 
+drying of the BL through the day, with dewpoints dropping into the 
+middle to low 30s. This will allow for RH values to fall near 20 
+percent which is significantly dry, though given the light flow and 
+recent rainfall, there aren't any fire weather concerns at this 
+time.  
+
+High pressure slides south of the area by Monday night allowing 
+for clear skies but a light SW flow. This will increase moisture and 
+continue to increase mid-level heights setting up for a warmer day 
+for Tuesday. Lows Monday night will be in the upper 40s to low
+50s.
+
+&&
+
+.LONG TERM /TUESDAY THROUGH SUNDAY/...
+There is definitely better agreement than 24h ago, specifically with 
+the timing issues with the end of the week frontal system.
+An anomalously strong upper ridge (+1-2SD) over the eastern third of 
+the country at the start of the period will work east and offshore 
+by Thursday. Interaction between the northern and southern branches 
+across the upper Midwest will send a frontal system over top of the 
+ridge. The associated warm front lifts across the area late Tuesday, 
+followed by a cold frontal passage Wednesday morning. The latter of 
+which looks uneventful with weak forcing and little moisture. High 
+pressure then briefly follows Wednesday night into the first half of 
+Thursday before the front lifts north as a warm front late Thursday, 
+followed by a cold frontal passage Friday night. Overall timing is 
+faster, but not as quick as the GFS was 24h ago. The 12Z operational 
+globals all pointing to the potential for mainly dry conditions 
+Saturday barring no changes. However, this is still 5 days out.
+The second frontal system remains the stronger of the two with a 
+good chance of showers/possible thunder with the warm front Thursday 
+night and then ahead of the cold front Friday night. Friday may 
+actually dry out in the warm sector and could very well be the 
+warmest day of the week. 
+
+As for temperatures, they will be above normal through the mid week. 
+Highs will be 75-80 away from the coast, and 60s/70s along the 
+coast. Temperatures fall back to seasonable on Thursday, with 60s 
+expected region-wide, with warmer readings expected for Friday ahead 
+of the next frontal system. NBM box and whisker plots show very 
+little spread through Tuesday, but then larger spreads Wednesday 
+with the timing of the cooler air behind the cold front. Friday has 
+the potential to be the warmest day of the week in the warm sector. 
+Median temps (50th percentile) are well into the 80s away from the 
+coast.
+
+&&
+
+.AVIATION /20Z SUNDAY THROUGH FRIDAY/...
+High pressure builds in from the west through tonight.
+
+VFR. Winds will be from the NW around 25kt with gusts to 35kt 
+for much of the day. Can not rule out a few occasional higher
+gusts. The gusts should diminish after sundown, with gusts
+ending after midnight. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Peak gusts around 40kt possible until 00z.
+
+Wind direction may be on either side of 310.
+
+.OUTLOOK FOR 18Z MONDAY THROUGH FRIDAY...
+
+Monday afternoon: VFR.
+
+Tuesday: Mainly VFR. Slight chance of MVFR with showers at
+night. SW gusts 20-25 possible in the afternoon and evening.
+
+Wednesday: VFR.
+
+Thursday: VFR during day. MVFR possible with a chance of 
+showers and slight chance of thunderstorms at night.
+
+Friday: Sub-VFR in showers.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+SCAs remain in effect for all waters through this evening with 
+widespread wind gusts of 25-30kt. Some nearshore gale-force gusts 
+will remain possible through 00Z. Non-ocean waters SCAs drop at 2Z 
+with the gusts. Wave heights should gradually fall such that SCAs 
+are able to be dropped by 6-7Z tonight. Sub-SCA conditions then 
+prevail through at least Monday night. 
+
+S flow increases on Tuesday ahead of the next cold front. This will 
+increase wind gusts to 25 kt, mainly on the ocean, Tuesday evening 
+into Tuesday night. Ocean seas will also build to around 4 to 7 ft. 
+Conditions on the ocean fall below advisory thresholds likely by the 
+end of Wednesday morning, with sub-advisory conditions for the rest 
+of the forecast period.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 10 PM EDT this evening for ANZ331-
+     332-335-338-340-345.
+     Small Craft Advisory until 3 AM EDT Monday for ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...DW/MW
+NEAR TERM...MW
+SHORT TERM...MW
+LONG TERM...DW
+AVIATION...BC
+MARINE...DW/MW
+HYDROLOGY...DW/MW

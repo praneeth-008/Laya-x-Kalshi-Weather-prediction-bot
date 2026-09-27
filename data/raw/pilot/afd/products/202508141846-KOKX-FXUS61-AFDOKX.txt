@@ -1,0 +1,196 @@
+682 
+FXUS61 KOKX 141846
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+246 PM EDT Thu Aug 14 2025
+
+.SYNOPSIS...
+A weakened cold front is moving through the area this afternoon 
+and exits south this evening. High pressure then builds in on 
+Friday followed by another another cold front that approaches 
+Sunday, moving through during the late afternoon into early 
+evening hours. The front will likely stall to the south of the 
+area with waves of low pressure tracking along it from the 
+Midwest into the Ohio Valley through the middle of next week.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+A weakening cold front is currently moving through the area and
+will makes its exit south of the area tonight. 12Z CAMs have 
+gone way down on POP coverage, all now agreeing on isolated 
+coverage. This seems to be attributed to dry air moving in 
+above the surface, which can be observed via water vapor imagery
+and seen in model soundings. With weak forcing, this dry air 
+will be hard to overcome for shower and thunderstorm 
+development. Therefore, only slight POPs remain through this 
+evening. 
+
+SBCAPEs of 1,000-2,000 J/kg are still possible, which could lead to 
+isolated thunderstorms, but with weak shear in place and PWATs 
+continually lowering, there are no longer isolated flood concerns. 
+Bulk 0-6km shear will be below 20 kts, so any thunderstorms that do 
+develop will likely be short-lived single cells through this evening.
+
+Tonight, things look to dry out as the front exits the CWA to the 
+south. Skies clear with lows in the low/mid 70s for coastal areas 
+while interior areas drop into the mid/upper 60s.
+
+A weak pressure gradient with light winds could lead to patchy fog 
+development tonight for areas out east. 
+
+&&
+
+.SHORT TERM /FRIDAY THROUGH SATURDAY NIGHT/...
+Weak ridging aloft with high pressure at the surface will lead to a 
+dry pattern Friday through Saturday night. The only exception is a 
+possible weak shortwave aloft that could lead to increased cloud 
+cover Friday night with possible isolated POPs for the interior NW 
+of NYC on Saturday. However, more than likely, it will stay dry. 
+
+Given a weak pressure gradient resulting in light/calm winds at 
+night, additional opportunities for patchy fog exist Friday and 
+Saturday nights. 
+
+Highs Friday will be similar to Thursday in the mid to upper 80s for 
+most. Saturday may be slightly cooler with highs in the low to mid 
+80s. Both Friday and Saturday nights, lows will be in the mid to 
+upper 60s for the area while NYC metro areas may only drop into the 
+low 70s. 
+
+&&
+
+.LONG TERM /SUNDAY THROUGH THURSDAY/...
+The NBM was largely followed through the forecast period.
+
+Key Points:
+
+* Following a cold frontal passage late Sunday, expect mainly dry 
+  conditions with low chances of showers mainly inland Tuesday and 
+  Wednesday.
+
+* Above seasonable high temperatures on Sunday becoming below normal 
+  Monday through Wednesday.
+
+
+An upper trough tracking across eastern Canada and northern New 
+England on Sunday will send a cold front through the area during the 
+late afternoon and evening hours. Scattered showers and 
+thunderstorms are expected along and just ahead of the front.
+At this time, the severe weather threat is low due to weak mid level 
+lapse rates and weak wind shear. There may even be too much dry air 
+aloft (stabilizing effect). However, these details should be better 
+resolved once we get within the CAMs 48h window.
+
+The front stalls south of the area on Monday while what is forecast 
+to be Hurricane Erin starts to take a more northerly track across 
+the western Atlantic, then eventually a more NE track based on a 
+consensus forecast from the global models. There is always inherent 
+uncertainty in the track forecast, especially this far out in time. 
+Please always refer to the latest official forecast from the 
+National Hurricane Center. As for any impacts, it looks almost 
+certain that long period swells will bring dangerous rip currents to 
+the oceanfront next week.
+
+As for rain, chances will be low during the period with high 
+pressure ridging across the area early in the week, but gradually 
+weakening as the high moves offshore by midweek. Depending on the 
+track of Erin, ridging to the north of the low could be 
+strengthened. For the time, there is a low chance of showers Tuesday 
+and Wednesday as rain from frontal waves to the west tries overrun 
+the ridge over the area. The frontal boundary may simply wash out by 
+Thursday as northerly flow bridges across it.
+
+Behind the front, WNW flow aloft and surface easterlies will keep 
+temperatures below normal with daytime highs Mon-Wed in the mid 70s 
+to around 80. Lows will also be several degrees below normal, 
+ranging from the upper 50s inland/Pine Barrens Region of LI to the 
+mid/upper 60s across the NYC metro. 
+
+&&
+
+.AVIATION /18Z THURSDAY THROUGH TUESDAY/...
+A cold front moves across the terminals through this evening.
+High pressure then builds in through Friday.  
+
+VFR through the TAF period. An isolated shower or thunderstorm
+possible this afternoon and early evening.
+
+Light flow to start this afternoon should become SW-S under 10
+kt mid to late afternoon. Winds diminish this evening before
+becoming NE behind the cold front passage. NE winds continue
+Friday morning, becoming SE in the afternoon 10 kt or less.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Isolated shower/thunderstorm possible this afternoon and early
+evening. 
+
+.OUTLOOK FOR 18Z FRIDAY THROUGH TUESDAY... 
+
+Friday Afternoon-Saturday: VFR. 
+
+Sunday: Mainly VFR. Chance of afternoon and evening showers and
+thunderstorms, mainly NYC terminals N and W. 
+
+Monday-Tuesday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+A weak pressure gradient remains across the local waters through the 
+first half of the weekend, with sub-SCA conditions expected to 
+continue.
+
+Sub SCA conditions are likely Sunday and Monday, though the swell on 
+the ocean waters will increase Monday into Tuesday from distant 
+tropical cyclone Erin. Seas on Tuesday are currently forecast to 
+build to around 5 ft. Follow the National Hurricane Center 
+(www.hurricanes.gov) for the latest on Erin.
+
+&&
+
+.HYDROLOGY...
+There are no significant hydrological concerns through next 
+Thursday.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+There remains a low risk of rip currents at the ocean beaches. Winds 
+are near 5 mph or less and waves are forecast to be 2 ft or less.
+
+For Friday, flow becomes more easterly. Winds become more easterly 
+and increase to near 5 to 10 mph. A 2 to 3 ft 4 second period swell 
+develops but this will be more of an along shore current, resulting 
+in waves in the surf zone only forecast to be near 1 ft or less. 
+Therefore, without a significant increase in winds compared to the 
+previous day and waves expected to be a little less, there is also a 
+low risk of rip currents forecast at the ocean beaches on
+Friday.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...BR/DW
+NEAR TERM...BR
+SHORT TERM...BR
+LONG TERM...DW
+AVIATION...DS
+MARINE...BR/DW
+HYDROLOGY...BR/DW
+TIDES/COASTAL FLOODING...

@@ -1,0 +1,188 @@
+296 
+FXUS61 KOKX 010915
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+515 AM EDT Thu May 1 2025
+
+.SYNOPSIS...
+High pressure remains in control today as the center shifts off the 
+New England coast. A warm front approaches tonight and lifts through 
+the region into Friday morning. A cold front then slowly approaches
+Saturday into Saturday night, with a wave of low pressure 
+developing along it. This frontal system may linger near the area
+through early next week, as a cutoff upper low develops to the 
+southwest.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Upper ridge axis shifts overhead today as surface high pressure 
+drifts off Cape Cod.
+
+Dry conditions expected thru the day. Winds veer SE into the 
+afternoon as the high moves offshore, and the resultant onshore flow 
+limits temperatures along the coast with SSTs still in the low 50s. 
+Highs here top out in the upper 50s to mid 60s, with lower 70s 
+expected away from the marine influence in the LoHud Valley and NE 
+NJ.
+
+As the high shifts further east tonight, low pressure tracks into 
+the Great Lakes with the associated warm front approaching the local 
+region. This introduces increased cloud cover, along with the chance 
+for showers late tonight into Friday morning. Can't rule out a 
+spotty thunderstorm with this activity either, but coverage overall 
+appears limited, and some locales may not see precipitation. The 
+front lifts through toward daybreak, and could see areas of fog 
+break out in its wake into Friday morning as the shower activity 
+exits.
+
+&&
+
+.SHORT TERM /FRIDAY THROUGH SATURDAY NIGHT/...
+A more active pattern looks to develop in this period, with an 
+increasing likelihood of unsettled conditions persisting thru at
+least early next week.
+
+Behind the warm fropa early Fri AM, a much warmer air mass advects 
+in on deep SW flow. Any fog around in the morning burns off and S/SW 
+flow and deep mixing allow temps west of the Hudson to rise into the 
+80s, or a good 15 degrees above climo for early May, while coastal 
+areas remain in the 60s to around 70.
+
+As the East Coast ridging shifts farther offshore, several northern 
+stream shortwaves dig a trough from the Canadian Plains into the 
+Mississippi River Valley Friday into Saturday. The pre-frontal 
+trough approaches western portions of the area Friday aft/eve, 
+bringing the potential for scattered showers and thunderstorms, 
+mainly for NYC and points N&W in a weakly forced, but marginally 
+unstable/modest shear environment. A more stable airmass along the 
+coast will likely have any convection dissipating as it overspreads 
+the coast and encounters this environment. Conversely, could be 
+dealing with stratus/fog development for southern and eastern 
+coastal areas late Friday into Sat with moist onshore flow over cold 
+waters (lower 50 SSTs). CSU MLP still indicates a marginal severe 
+threat, which seems conditionally possible.
+
+Perhaps a better chance for organization of scattered shower and 
+thunderstorm activity ahead of the approaching cold front Saturday 
+afternoon and evening for NYC and points NW once again with approach 
+of northern shortwave in a marginally unstable and strong deep layer 
+shear environment. Although airmass is similar on Friday to 
+Saturday, potential for more in the way of convective debris on 
+Saturday limiting full insolation.
+
+Better agreement amongst global guidance relative to this time 
+yesterday, with most ensemble members now signaling a cutoff low
+closes off to the SW of the region this weekend thru early next
+week as an omega blocking pattern develops across the Eastern 
+US into Western Atlantic. The result being the aforementioned 
+cold front stalling to the west of the region and strong 
+Canadian maritime high to the NE leading to a persistent Atlantic
+subtropical moisture flow into next week.
+
+&&
+
+.LONG TERM /SUNDAY THROUGH WEDNESDAY/...
+The combo of a cutoff upper low developing over the Ohio Valley and 
+an amplifying upper high over the western Atlantic will be the main 
+drivers of sensible wx for the area. A feed of subtropical Atlantic 
+moisture into the area between these two systems will keep us 
+unsettled through the period and offer the likelihood of some 
+periods of heavier showers, whose exact timing and rainfall amts are 
+still uncertain. Latest guidance suggests best time frames for 
+heavier rainfall may be Sunday night into Mon morning and more so 
+Tue into Tue night. Latest ECMWF ensemble is focusing in more on 
+Tue, showing higher probabilities of 1-2 inches in 24 hours in that 
+time frame, and 90th percentile QPF of over 3 inches. 
+
+&&
+
+.AVIATION /09Z THURSDAY THROUGH MONDAY/...
+High pressure passing to the north will move off the coast this 
+afternoon. A warm front will approach tonight. 
+
+VFR for most of the period, with generally light N-NE winds becoming 
+E this morning and then SE around 10 kt this afternoon. With the 
+approach of the warm front, some MVFR cigs should move into the NYC 
+metro area and across Long Island after midnight. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No unscheduled AMD expected. 
+
+.OUTLOOK FOR 06Z FRIDAY THROUGH MONDAY...
+
+Late tonight: IFR cond likely/LIFR possible with the approach of the 
+warm front. Scattered/numerous showers and an isolated tstm 
+possible. 
+
+Friday: MVFR or lower cond to start should improve to VFR by late 
+morning after warm fropa, then showers/tstms possible in the 
+afternoon and at night. S winds G15-20 kt in the afternoon. 
+
+Saturday: MVFR or lower cond possible with chance of showers/tstms. 
+thunderstorms. S winds G15-20kt. 
+
+Sunday: MVFR or lower cond possible with chance of showers/tstms. 
+
+Monday: MVFR or lower cond possible with chance of showers. E-NE 
+winds G15-20kt. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+0
+
+&&
+
+.MARINE...
+Winds and seas remain low through tonight with high pressure near 
+the region. 
+
+Marginal S/SW SCA gusts possible on the ocean Fri aft/eve and then 
+once again Sat aft/eve with approach of cold front. More confidence 
+in ocean seas building to 5 ft during this time, lingering into 
+Sunday based on persistent S/SW flow. 
+
+Residual 5-ft ocean seas Sunday morning should subside by afternoon. 
+Increasing E flow on Mon may bring minimal SCA cond to the ocean 
+waters, with E winds gusting to 20-25 kt and seas building to 5
+ft. 
+
+&&
+
+.FIRE WEATHER...
+Light southeasterly flow 5 to 10 mph develops by late morning or 
+early afternoon today. RH values drop to 25 to 35 percent by late 
+morning, increasing above 40 percent along the coast by the 
+afternoon with strengthening onshore flow. A wetting rain is 
+possible overnight into Friday.
+
+&&
+
+.HYDROLOGY...
+There is potential for heavy rain of over 2 inches next week, but 
+timing/duration of any heavier periods of rain and exact amounts 
+remain uncertain.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...BG/DR
+NEAR TERM...DR
+SHORT TERM...DR
+LONG TERM...BG
+AVIATION...BG
+MARINE...BG/DR
+FIRE WEATHER...DR
+HYDROLOGY...BG/DR

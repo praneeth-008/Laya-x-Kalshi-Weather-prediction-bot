@@ -1,0 +1,226 @@
+677 
+FXUS61 KOKX 171824
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+224 PM EDT Tue Jun 17 2025
+
+.SYNOPSIS...
+High pressure weakens further today and shifts to the east. A
+warm front approaches late tonight and moves through likely 
+sometime early Wednesday. A cold front then moves through 
+Thursday evening/night. High pressure builds in Friday, and 
+generally dominates into the beginning of next week. A warm 
+front will lift to the north and west of the region Saturday 
+night into Sunday.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Fog lingering across the area with some possible localized dense
+fog, but this localized dense fog is more across the ocean 
+waters. Otherwise, just some minor adjustments for POPs for 
+showers with no changes to high temperatures for today.
+
+High pressure that has been nosing into northeastern portions of
+the area weakens further today and shifts east. The stalled 
+frontal boundary that is well to our south will start to drift 
+north as a warm front. No big change in heights aloft, we remain
+on the eastern periphery of a broad trough. Several weak 
+embedded disturbances will pass overhead today into tonight.
+
+Plenty of cloud cover expected again today with rounds of
+scattered shower activity. Continues to be a difficult PoP 
+forecast given weak lift. With the aforementioned disturbances 
+aloft have more confidence in CAMs today and stuck close to this
+guidance.
+
+Temperatures overachieved Monday even with showers and cloud
+cover so stuck with NBM today given the similar flow. This 
+gives highs in the upper 60s to low 70s. Also stuck with NBM for
+lows with thick cloud cover expected resulting in a lack of 
+radiational cooling, 60s across the area.
+
+&&
+
+.SHORT TERM /WEDNESDAY THROUGH THURSDAY NIGHT/...
+An active short term period is expected. A warm front moves 
+through early Wednesday morning with a cold front following 
+Thursday evening/night. The train of embedded upper level 
+disturbances also continues. This pattern will result in several
+rounds of showers with potential for thunderstorms as well.
+
+Heavy showers and thunderstorms early Wednesday morning, mainly for 
+NYC and north and west: Early Wednesday morning a warm front will 
+push through and continue the surge of warm moist air into our area. 
+Pwats increase to over 2 inches, which is near the daily record for 
+the OKX upper air sounding. With the passing of the warm front the 
+some CAMS show a shower/thunderstorm activity. Exact coverage is 
+difficult to know at this point, but any shower or thunderstorm that 
+does develop should be able to produce heavy downpours. CAPE is 
+elevated but has a tall and skinny shape. It is worth noting that 
+the GFS has stronger mid-level capping and is likely resulting in 
+the lack of modeled QPF.
+
+Heavy showers and potential for strong thunderstorms Wednesday 
+afternoon, mainly for areas west of eastern LI and eastern CT: 
+With the area warm sectored we should be able to destabilize to
+about 1000 J/kg of MLCAPE or more in northeast NJ and the Lower
+Hudson Valley. A surface trough and shortwave aloft should be
+able to trigger some afternoon shower and thunderstorm activity.
+Decent instability but once again the profile is tall and skinny
+and shear is not too strong. This limits the severe threat and
+may be more of a heavy downpour threat, but some stronger cells
+could produce sub-severe wind gusts.
+
+Potential for severe thunderstorms Thursday evening: Thursday 
+continues to be highlighted as a potential severe thunderstorm day 
+by the CSU-MLP with a 15-30% chance of damaging wind gusts. The
+SPC has also outlined the area in a slight risk. The area is 
+able to destabilize again ahead of an approaching cold front 
+with guidance consensus around 1000 to 2000 J/kg of MLCAPE. The 
+triggers for this event will be more focused and stronger than 
+Wednesday given the falling heights aloft and cold front. The 
+reason for severe potential comes from a more favorable CAPE 
+profile and stronger shear than Wednesday.
+
+Aside from the shower and thunderstorm activity in the short term, 
+the warming temperature trend will continue with temperatures in the 
+upper 80s to lower 90s on Thursday. Did end up with slightly lower 
+heat indices because Tds were lowered given the expected mixing
+and NBM high bias. Still have Tds in the upper 60s.
+
+&&
+
+.LONG TERM /FRIDAY THROUGH MONDAY/...
+Key point:
+
+* Potential for high heat and humidity Sunday into early next week. 
+
+Global models are in good agreement and forecast largely followed 
+NBM during this period.
+
+In the wake of a cold frontal passage Thursday, high temperatures 
+for Friday and Saturday will be a few degrees cooler than Thursday, 
+and dew points will be much lower. Temperatures will be near normal 
+to near 5 degrees above normal.
+With high pressure centered off the southeast coast Friday into the 
+beginning of next week, heat and humidity will be building. 
+Maintained slight chance probabilities across the region for 
+Saturday night with the potential for showers and thunderstorms to 
+move over the building ridge, and with a weak shortwave and a warm 
+frontal passage to the northwest and north. The ridge and heights 
+build Sunday into Monday, and the ridge remains into Tuesday. With 
+NBM deterministic high temperatures Saturday into next week near the 
+25th percentile and the potential for higher temperatures, have 
+blended in a small percentage of the 75th percentile, resulting in 
+highs a couple of degrees above the NBM deterministic. The heat and 
+humidity increase Sunday into Tuesday with temperatures 10 to 15 
+degrees above normal. There is the potential for reaching heat 
+advisory criteria Sunday and Monday across northeastern New Jersey, 
+the lower Hudson Valley, New York City, much of southern Connecticut 
+and into northern Nassau and northwestern Suffolk counties. And a 
+few places across northeastern New Jersey into the lower Hudson 
+Valley may be near warning levels, however, this will depend on dew 
+points in the upper 60s to lower 70s, which may mix out during the 
+afternoon.
+
+&&
+
+.AVIATION /18Z TUESDAY THROUGH SUNDAY/...
+High pressure east of New England will retreat eastward farther
+out into the Atlantic as a warm front approaches from the south.
+The front will slowly lift through Wednesday morning. 
+
+Widespread LIFR conditions, with low stratus, drizzle and fog, 
+should persist into early Wed morning. There could still be a 
+window for brief improvement to IFR at KLGA/KTEB late this 
+afternoon. Showers and possibly a tstm move across ahead of warm
+fropa between 08Z-09Z to 12Z-13Z at most terminals, later at 
+KGON. Have not yet mentioned thunder in TAF due to very sparse
+coverage and uncertainty on exact timing/placement. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+AMD possible for flight categories deviating from forecast. 
+
+.OUTLOOK FOR 18Z WEDNESDAY THROUGH SATURDAY... 
+
+Wednesday afternoon: Showers likely with chance of tstms.
+MVFR cond expected, brief IFR cond possible. 
+
+Wednesday night: Low stratus and fog mainly at the Long 
+Island/CT terminals with IFR/LIFR cond. MVFR cond possible at
+the NYC metros north/west. Showers also likely in the evening,
+with chance of tstms mainly E of the NYC metros.
+
+Thursday: Any early morning low cloud/fog improve to VFR by 15Z.
+Showers/tstms with IFR then possible in the afternoon/early 
+evening, some with locally strong winds from the NYC metros 
+north/west. 
+
+Friday through Sunday: Mainly VFR. 
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Have a marine weather statement for the rest of this morning for
+patchy dense fog on the ocean waters. Areas of fog this morning
+across the ocean waters becomes more patchy this afternoon.
+Non-ocean waters also have fog but is patchy in coverage for
+this morning.
+
+Winds and seas remain below Small Craft Advisory criteria through 
+Wednesday night. A S/SW flow then increases and some 25 kt gusts are 
+possible by Thursday afternoon. Especially nearshore gusts. Seas 
+also likely increase to 4-5 ft across the ocean waters.
+
+With a strong SW to W flow in the wake of a cold front ocean seas 
+will be near 5 feet Friday into Friday evening. Winds  gradually 
+diminish late Friday into Friday evening as high pressure builds 
+toward the waters, and ocean seas fall below 5 feet by late Friday 
+night. Winds and seas then remain below SCA levels Saturday into 
+Saturday night.
+
+&&
+
+.HYDROLOGY...
+Locally heavy downpours are possible with any showers/thunderstorms
+Wednesday morning, Wednesday afternoon and again Thursday 
+afternoon into the evening. However, the risk of flooding will 
+be mitigated by the speed of any cells and lack of overall cell 
+training.
+
+No hydrologic impacts expected thereafter through the beginning
+of next week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+Rip current risk remains moderate today and Wednesday with a 
+continued E/SE 3ft 7s wave component and parallel/onshore flow.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...MET/JT
+NEAR TERM...JM/JT
+SHORT TERM...JT
+LONG TERM...MET
+AVIATION...BG
+MARINE...JM/MET/JT
+HYDROLOGY...MET/JT
+TIDES/COASTAL FLOODING...

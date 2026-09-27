@@ -1,0 +1,205 @@
+101 
+FXUS61 KOKX 090245
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+945 PM EST Sat Mar 8 2025
+
+.SYNOPSIS...
+High pressure over the Tennessee and Ohio Valleys builds east
+tonight, and off the Mid Atlantic coast on Sunday. A series of 
+weak lows will then pass north of the area Sunday into Sunday 
+night. A much stronger area of low pressure will then pass well 
+to the south Monday into Monday night. An associated cold front 
+moves across late Tuesday night into early Wednesday. High 
+pressure generally remains in control through the remainder of
+the week. A developing frontal system begins to approach next 
+Saturday.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM SUNDAY MORNING/...
+Minor adjustments were made to temperatures, dewpoints, winds
+and cloud coverage to better match observed trends. Clear sky
+conditions with decreasing temperatures this evening. Forecast 
+overall remains on track. RH levels will be on a rising trend.
+
+An upper trough across eastern Canada and into the Northeast 
+will steer a few more shortwaves across the area through the
+weekend before lifting out. At the same time, low pressure
+weakens over the Canadian Maritimes and weak high pressure
+builds east from the Tennessee and Ohio Valleys tonight. This 
+will result in a colder night with gradually diminishing winds 
+into morning. Under clear skies, lows will range from the mid 
+20s inland to around freezing across the NYC metro. This is a 
+bit below normal, but will feel even colder in the WNW flow.
+
+&&
+
+.SHORT TERM /6 AM SUNDAY MORNING THROUGH MONDAY/...
+A series of weak lows will pass to the north across eastern 
+Canada Sunday into Sunday night, while high pressure passes to 
+the south. This will cause winds to back around to the SW and 
+once again become gusty at 25 to 30 mph. A shortwave passing 
+through along with weak warm advection will allow for an 
+increase in clouds with the chance of a brief shower and/or 
+flurry during the late morning. However, with highs getting to 
+near 50, this will be in the form of sprinkles in the afternoon.
+Chances are only 20 percent and with a deep-layered west flow 
+it will be hard to get much. The HRRR is the most aggressive of
+the CAMs, which shows some weak reflectivity returns cellular 
+in nature. Lapse rates are steep with little if any CAPE. 
+Whatever does develop will be low-topped (less than 10 kft).
+Any rainfall likely not much more than a trace.
+
+For Sunday night, skies clear back out with another weak low
+passing to the north with weak high pressure to the south. A
+diminishing WSW flow and continued warm advection will result in
+a warmer night with lows in the lower to mid 30s.
+
+For Monday, weak high pressure builds over the area with a
+deepening southern branch low passing well to the south. High
+will get into the 50s and even the lower 60s inland.
+
+&&
+
+.LONG TERM /MONDAY NIGHT THROUGH SATURDAY/...
+Key points are a continuance of mainly dry conditions along 
+with generally above normal temperatures on average for the long
+term. Potential changes for next Saturday with a developing 
+frontal system approaching from the west. Possible
+precipitation, mainly in the form of rain showers Thursday and
+Thursday night with a higher chance of rain showers next
+Saturday.
+
+Jet levels at 250 mb, the local region appears to be in between the 
+northern and southern jet branches for the entire long term forecast 
+period from the consensus of numerical weather prediction model 
+forecasts. Height orientation at 250mb appears mainly zonal until 
+next Saturday when more SW to NE height orientation appears ahead of 
+a large trough and a strong meridional jet streak approaching 
+from the west.
+
+Looking at the mid levels at 500mb, numerical weather model 
+prediction height forecasts do not present any significant deviation 
+from zonal flow for much of the long term period. It is not until 
+next Saturday for any significant deviation from zonal flow, that 
+being of the SW flow ahead of a large trough.
+
+At the surface, for Monday night into Tuesday, the consensus of 
+numerical weather model predictions show the local region to be in 
+between two low pressure areas, one in SE Canada and one moving off 
+the SE US coast. These lows move farther away Tuesday night through 
+Wednesday, to the northeast and southeast of the area respectively. 
+Meanwhile, low in SE Canada with trailing cold front will have this 
+front move across late Tuesday night into early Wednesday. High 
+pressure then builds into the area from the north for Wednesday and 
+Wednesday night. High pressure shifts east of the region Thursday 
+into start of next weekend, getting eventually into Canadian 
+Maritimes and Northern Atlantic. Possible inverted trough and
+easterly low level flow could result in a few showers, mainly
+rain showers, Thursday and Thursday night. A complex developing
+frontal system begins to approach from the west next Saturday,
+which is when there is a relatively higher chance of rain
+showers in the forecast. Southerly flow ahead of trough is
+forecast to lead to a warmer trend in temperatures Friday into
+Saturday of next week.
+
+Surface winds overall present more onshore and southerly flow during 
+the long term. Airmass overall exhibits above normal temperatures on 
+average.
+
+&&
+
+.AVIATION /03Z SUNDAY THROUGH THURSDAY/...
+High pressure builds south of the area into Sunday. A surface 
+trough moves across late Sunday.
+
+VFR thru the TAF period. NW flow is gradually diminishing this
+evening with gusts still 20-30 kt through 6Z while backing a 
+bit to the W. W/SW wind then increases after 14Z Sunday with 
+gusts back up to 30 kt possible. Winds veer to the WNW late 
+Sunday behind the trough as speeds diminish late afternoon into 
+the evening.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Peak gusts on Sunday may be slightly higher than forecast in the
+17-22Z timeframe.
+
+.OUTLOOK FOR 03Z MONDAY THROUGH THURSDAY...
+
+Sunday night: VFR. Decreasing winds after 22-00Z.
+
+Monday: VFR with W/VRB flow.
+
+Tuesday: VFR with S flow.
+
+Wednesday: VFR with N flow.
+
+Thursday: MVFR or lower possible with E flow.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+WNW winds will gradually diminish tonight with a lull in the
+winds before increasing from the WSW late Sunday morning. Have
+extended SCA on the ocean due to the break only being a matter
+of a few hours. However, the non-oceans waters will come down
+late tonight. Another brief SCA is possible for these waters 
+Sunday afternoon. Confidence is lower than on the ocean waters.
+Sub-SCA conditions are then forecast Sunday into Monday with 
+weak high pressure over the area. 
+
+For marine long term, wind gusts are forecast to remain below SCA 
+thresholds through Thursday night. However, there will be a chance 
+for higher peak wind gusts reaching into SCA range late Tuesday 
+through early Wednesday with a cold frontal passage. For Tuesday 
+night through Thursday night, seas are forecast to be at SCA levels 
+on the ocean. Otherwise, seas forecast in the long term are below 
+SCA for Monday night and Tuesday on the ocean and for all time 
+periods in the long term for non-ocean zones.
+
+&&
+
+.FIRE WEATHER...
+Gusts gradually lowering and RH levels on a rising trend with 
+conditions becoming less favorable for brush fire spread tonight.
+
+Sunday will feature slightly higher minimum RH (30 to 40 percent)
+values with gusty WSW flow. Gusts up to 30 mph are expected by
+afternoon. Fine fuel moisture will change little. However, land
+partners at this time would prefer us holding off on the 
+issuance of a Special Weather Statement due to the higher RH.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 1 AM EST Sunday for ANZ331-332-335-
+     338-340-345.
+     Small Craft Advisory until 6 PM EST Sunday for ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JM/DW
+NEAR TERM...DW/MW
+SHORT TERM...DW
+LONG TERM...JM
+AVIATION...MW
+MARINE...JM/DW
+FIRE WEATHER...
+HYDROLOGY...JM/DW

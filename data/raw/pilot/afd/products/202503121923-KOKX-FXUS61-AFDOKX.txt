@@ -1,0 +1,159 @@
+525 
+FXUS61 KOKX 121923
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+323 PM EDT Wed Mar 12 2025
+
+.SYNOPSIS...
+High pressure remains in control through Friday. As the high 
+retreats further out into the Atlantic, a warm front lifts through 
+the region Saturday, before a strong cold front moves through the 
+into Sunday night. Behind it, high pressure returns early next week.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM THURSDAY MORNING/...
+High pressure will remain north of the region today. Meanwhile, weak 
+low pressure passes south of the region. A weak shortwave will pass 
+north of the region. The system lacks moisture and some of the 12z 
+guidance is drier than its earlier runs. Have lowered POPs a bit, so 
+only looking at slight chance POPs for some rain/snow showers, 
+mainly across the Lower Hudson Valley and Southern CT. Otherwise, 
+expect a mostly cloudy night with an easterly flow. Lows tonight 
+will fall into the 30s. 
+
+&&
+
+.SHORT TERM /6 AM THURSDAY MORNING THROUGH THURSDAY NIGHT/...
+High pressure north of the region gradually slides eastward 
+Thursday and Thursday night. Weak low pressure continues to pass
+south of the area. The high will keep conditions dry through 
+the short term. It will remain mostly cloudy. The cloud cover 
+combined with an easterly flow, expect temperatures to remain in
+the 40s. 
+
+&&
+
+.LONG TERM /FRIDAY THROUGH WEDNESDAY/...
+High pressure drifting off southeast Canada remains in control 
+locally to start the period on Friday. Along with weak ridging 
+aloft, conditions likely remain dry into Friday night. 
+Thereafter, the high drifts farther out into the Atlantic as a 
+warm front approaches from the south. A more unsettled pattern 
+then sets up this weekend as deepening low pressure cuts into 
+the Upper Great Lakes with a mid level trough amplifying as it 
+shifts east. This lifts the associated warm front thru the local
+area Saturday, and strengthening southerly flow helps stream in
+moisture from the Gulf into Sunday, with PWATs progged as high 
+as 1.5 inches, or about as high as recorded this time of year. 
+This will pose the potential for a period of heavy downpours 
+ahead of the attendant cold frontal passage, though some 
+lingering differences in guidance timing and placement that will
+need to be resolved before getting too detailed. Conditions 
+should generally start to dry out into Monday as the system 
+exits and high pressure builds in from the South.
+
+Temperatures remain above average through the period. In fact, 
+most should remain above the freezing mark into mid next week. 
+Mild overnight lows for Saturday night into Sunday, especially 
+away from the coast, as the area will be warm sectored. Low 
+temperatures will only drop into the 50s for these locations, 
+and upper 40s near the coast thanks to the relatively cooler 
+waters. Temperatures remain above average for the rest of the 
+long term with highs in the 50s and 60s. Cooler conditions are 
+expected along the coast once again.
+
+&&
+
+.AVIATION /19Z WEDNESDAY THROUGH MONDAY/...
+High pressure settles across Northern New England into this evening. 
+A weak wave of low pressure approaches and lingers nearby to the 
+southwest and south through Thursday morning.
+
+Mainly VFR through the period, although there remains a chance of 
+MVFR conditions across northern most terminals tonight, and for the 
+30 hr TAF terminals late on Thursday. The highest chance will be 
+across northern most terminals overnight into Thursday morning 
+(KSWF, HPN, and KGON). Currently confidence of MVFR ceilings 
+occurrence remains below average.
+
+Winds prevail from the E and SE at most terminals through the 
+evening push. Wind speeds will be at or just above 10 kt initially, 
+will then lighten a little tonight, before getting back to near 10 
+kt at most terminals Thursday.
+
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+There may be amendments for the possibility of MVFR ceilings on 
+Thursday.
+
+.OUTLOOK FOR 18Z THURSDAY THROUGH MONDAY...
+
+Thursday afternoon: VFR, along with pockets of MVFR possible late. 
+Winds E 7-12 kt.
+
+Friday: Chance of sub VFR early, otherwise VFR.
+
+Saturday: MVFR possible. Slight chance of rain showers. S gusts 20-
+30 kt Saturday night. 
+
+Sunday: Patchy sub VFR possible with chance of showers. S winds 15-
+20g25-35 kt.
+
+Sunday night: More widespread and steadier rain possible Sunday 
+night with widespread IFR expected. S winds 10-15g20-30 kt, becoming 
+SW and diminishing late.
+
+Monday: Sub VFR possible in AM, otherwise becoming VFR. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Seas on the ocean will remain between 4-6 ft through Thursday night, 
+mainly due to an onshore flow and a swell. Sub-advisory conditions 
+on the non-ocean waters are expected through Thursday night. 
+
+Ocean seas are expected to lower below SCA criteria Friday, before 
+increasing once again late Saturday with strengthening southerly 
+flow. SCA conditions return by Sunday with 25 to 30 kt gusts 
+developing on all waters. Gales possible as well, especially the 
+ocean, Sunday afternoon and Sunday night. Ocean seas build as high 
+10 to 13 ft during this time. Winds should lower below 25 kt on all 
+waters by Monday morning, but ocean seas linger at or above 5 ft 
+into Tuesday.
+
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts expected into the beginning of this 
+weekend. There is potential for heavy downpours ahead of a 
+frontal passage Sunday and Sunday night. There remains 
+uncertainty into the duration and placement, but the possibility
+of nuisance flooding cannot be ruled out.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 6 AM EDT Friday for ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...BC/BR
+NEAR TERM...BC
+SHORT TERM...BC
+LONG TERM...BR
+AVIATION...JE
+MARINE...BC/BR
+HYDROLOGY...BC/BR

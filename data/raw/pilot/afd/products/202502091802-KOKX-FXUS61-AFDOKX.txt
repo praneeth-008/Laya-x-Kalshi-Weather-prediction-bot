@@ -1,0 +1,165 @@
+531 
+FXUS61 KOKX 091802
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+102 PM EST Sun Feb 9 2025
+
+.SYNOPSIS...
+Offshore low pressure exits the region as it tracks further east 
+into the Atlantic. Behind it, high pressure builds in from the west 
+through Monday night. A series of lows will impact the area Tuesday 
+through Thursday. High pressure returns to end the week and start 
+the weekend.
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+Low pressure off Cape Cod will continue exiting farther out in 
+the Atlantic today, bringing an end to this winter storm.
+
+Conditions have dried out and the remainder of the day will
+remain so with high pressure beginning to build in from the
+west. The flow has strengthened behind the system as the high 
+slides east thru the Midwest, and will continue to see NW winds 
+gust 25 mph into late afternoon before subsiding. 
+
+Temperatures have been having struggling to climb with the 
+fresh snowpack and lingering overcast skies,and have lowered 
+highs this afternoon several degrees in response. Breaks in the 
+clouds should allow peeks of sun before the day is out.
+
+&&
+
+.SHORT TERM /6 PM THIS EVENING THROUGH MONDAY NIGHT/...
+High pressure will be building into the region tonight and be 
+over the area Monday night. Lows tonight will be near seasonal
+normals. Temperatures Monday and Monday night will be nearly 5
+degrees below normal as skies clear and winds become light,
+allowing for radiational cooling.
+
+&&
+
+.LONG TERM /TUESDAY THROUGH SATURDAY/...
+Zonal flow aloft for Tuesday and Tuesday night will help keep a
+weak area of low pressure to our south as it develops near the 
+Mid- Atlantic coast and heads east into the western Atlantic. 
+The right- entrance region of a strong upper jet streak will be 
+over us and allow for expansion of the low's precip shield into 
+the forecast area. Light snow likely Tuesday night for approx 
+the southern two-thirds of the forecast area with a 50% chance 
+of snow for the northernmost zones. Snow accumulations would be 
+up to an inch.
+
+Surface high pressure builds to our northeast during Wednesday 
+with upper confluence. Thinking is that surface ridging over 
+here will be strong enough to hold off any precipitation through
+the daytime hours and this is supported by model qpf field 
+trends, but decided to leave in a slight chance of snow for some
+areas. Precip is then expected Wednesday night and Thursday 
+with a familiar pattern of primary low pressure passing to our 
+NW while a weaker secondary low shifts through the forecast 
+area. This would send an elevated warm nose through, changing 
+snow to a wintry mix Wednesday night before an eventual 
+changeover to rain on Thursday as enough warm air pushes in. 
+Right now it appears that snow/sleet accumulations would be on 
+the light side before the changeover to rain. Can't rule out a 
+little freezing rain well NW of the city either.
+
+Colder air filters back in from the NW Thursday night as high 
+pressure builds back in behind the departing storm with 
+lingering rain showers at the coast and snow showers or mixed 
+rain/snow showers inland. Dry weather then expected for Friday 
+and Friday night with high pressure in control. Another storm 
+may then bring a wintry mix to the area by the end of Saturday.
+
+&&
+
+.AVIATION /18Z SUNDAY THROUGH FRIDAY/...
+Low pressure moves farther away southeast of Canadian Maritimes
+as high pressure moves closer to the local area from the west.
+
+Stratus scattering out but some MVFR ceilings remain, which are
+expected to scatter out by 20-21Z. Some low end VFR stratus
+(around 3.5 to 5 kft) then until evening before further 
+scattering out. VFR then remains for the rest of the TAF period.
+
+Winds will be NW near 10-15 kt with gusts near 20-25 kt. NW winds
+subside tonight to near 5-10 kt and then pick back up to near
+10-12 kt Monday with some gusts 15-20 kt developing in the
+afternoon.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Amendments likely for timing of VFR return. Amendments possible
+for timing of gusts which could be 1-2 hours different from TAF.
+
+.OUTLOOK FOR 18Z MONDAY THROUGH FRIDAY... 
+
+Monday: VFR. NW wind gusts 15-20 kt subsiding by evening.
+
+Tuesday: Increasing chance of snow afternoon into night,
+eventually becoming likely, mainly at the coastal terminals. 
+IFR/LIFR conditions possible.
+
+Wednesday: Chance of snow with IFR/MVFR early. Decreasing
+chances of snow during the day with potential return of VFR.
+However, another chance of snow with IFR to MVFR at night.
+Potential for wintry mix late at night with IFR to MVFR.
+
+Thursday: MVFR/IFR in a wintry mix to rain. NW wind gusts 15-20
+kt developing at night.
+
+Friday: Mainly VFR. NW wind gusts 15-20 kt during the day.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Northwest flow gusts 25 to 30 kt today on the ocean waters 
+behind deepening offshore low pressure. Occasional 25 kt gusts 
+on the non ocean waters.
+
+Small Craft Advisory is in effect for the ocean waters into 
+this evening and into the overnight before high pressure builds
+in from the west and winds diminish. With the high in control 
+through Monday night winds and seas remain below advisory 
+levels. And, with a weak pressure gradient continuing Tuesday 
+into Wednesday sub SCA conditions continue. An onshore flow then
+increases Wednesday night into Thursday morning with the 
+approach of low pressure approaching from the south and west. 
+Advisory-level gusts anticipated on all waters during this 
+period with even a chance of a gust or two approaching gale 
+force for a brief period on the ocean waters. Winds then shift 
+offshore Thursday afternoon after a brief lull before increasing
+once again Thursday night with SCA conditions probable on all 
+waters.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through the forecast period.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 1 AM EST Monday for ANZ350-353.
+     Small Craft Advisory until 9 PM EST this evening for ANZ355.
+
+&&
+
+$$
+
+SYNOPSIS...MET
+NEAR TERM...DR
+SHORT TERM...MET
+LONG TERM...JC
+AVIATION...JM
+MARINE...MET
+HYDROLOGY...MET

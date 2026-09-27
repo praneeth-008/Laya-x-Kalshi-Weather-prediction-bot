@@ -1,0 +1,200 @@
+652 
+FXUS61 KOKX 261633
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1133 AM EST Wed Feb 26 2025
+
+.SYNOPSIS...
+High pressure remains in control through this afternoon. A warm
+front passes late tonight into Thursday morning, followed by a 
+cold frontal passage in the late afternoon or early evening. 
+High pressure then takes over again Thursday night into Friday. 
+Low pressure approaches from the north and west Friday night. An
+associated warm front moves north of the region Friday night, 
+followed by a cold frontal passage on Saturday. High pressure 
+from the west then builds in for the rest of the weekend and 
+into early next week.
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+Temperatures similar to 24h ago are already overachieving across
+the region with weak cold or neutral advection. Thus, bumped 
+temps up some a bit and went slightly above the latest HRRR 
+guidance which has a better idea what is going on. This puts
+much of the area in the low to mid 50s this afternoon for highs. 
+Have also bumped up W/NW with gusts to around 20 mph into this
+afternoon, with even few higher gusts early. Otherwise, high 
+pressure passes to the south this afternoon. 
+
+&&
+
+.SHORT TERM /6 PM THIS EVENING THROUGH FRIDAY/...
+A frontal system will impact the area tonight into late Thursday.
+The associated low will be located over the Ohio River Valley 
+tonight, sending a warm front through late tonight into Thursday
+morning, followed by a cold frontal passage late Thursday as 
+the low passes to the north and west of the area.
+
+As the warm front pushes in tonight, we'll see precipitation 
+develop along the front. The strongest warm air advection and 
+FGEN signal appears to be over the NW half of the area as the 
+warm front advances north of the area by daybreak Thursday. This
+will lead to a good chance for rain tonight across western NE 
+NJ, the Lower Hudson Valley, and into western S CT. Precipitation
+coverage looks to decrease along the warm front as you go to 
+the eastern half of the area. Likely ending in light scattered 
+rain for eastern half of the CWA. Temperatures will be warm 
+enough for much of what falls to be liquid rain. There is a 
+small chance northern Orange or Putnam counties may see a brief 
+rain-snow mix at the onset tonight, but looks unlikely at this 
+point in time. 
+
+Following the warm frontal passage, there may be a brief break in 
+the rain before showers gradually redevelop as the low gets closer 
+and moisture increases with the southerly flow. 
+
+Scattered light rain showers may linger across the area until the 
+cold front approaches and passes late Thursday afternoon into early 
+Thursday evening. Most 00Z CAMs keep the rain pretty light and 
+scattered, but its possible they could be underrating it. 
+Thanks to the strong warm front, PWATs will range from 0.75 to 
+0.9", which exceeds the 90th percentile on SPC's Sounding 
+Climatology page. Combine this with above average temperatures 
+in the mid-50s, increasing upper-level energy from an 
+approaching longwave trough, and lift from the cold front, and 
+we could end up seeing more numerous showers in the afternoon 
+than CAMs suggest. 
+
+After the cold front passes, showers will clear late Thursday evening
+with clouds clearing west to east Thursday night. Event rain totals
+from tonight through Thursday will likely lay closer to 0.5" in
+the far interior while southern areas near the coast will likely
+lie below 0.25". There are no concerns for flooding. 
+
+A few high clouds may remain Thursday night as surface high pressure 
+under a weak upper-level ridge takes over again and sticks around 
+into Friday. Cold air advection under NW flow keeps highs on Friday 
+closer to average in the mid/low-40s.
+
+&&
+
+.LONG TERM /FRIDAY NIGHT THROUGH TUESDAY/...
+Mid level trough pattern takes shape over the Northeast Friday night 
+through the weekend. This eventually transitions to more of a zonal 
+pattern during the first half of next week.
+
+At the surface, high pressure is moving offshore with low pressure 
+approaching from the north and west Friday night. A warm front moves 
+northeast across the region with winds becoming more southerly and 
+increasing after the frontal passage. Low temperatures 
+are likely to be set Friday evening with temperatures slowly rising 
+late Friday night into early Saturday morning. A cold front then 
+moves across the region Saturday afternoon into early Saturday 
+evening.
+
+There will be chances of precipitation, mainly in the form of plain 
+rain, across mostly northern portions of the region late Friday 
+night through Saturday evening. Some snow showers will be possible 
+at the onset as well as after the cold front passage.
+
+Weather then remains dry for the rest of Saturday night through 
+early next week. Next chance for precipitation arrives Tuesday night 
+into middle part of next week with mainly rain but with some 
+possible mixing with snow for the interior.
+
+&&
+
+.AVIATION /16Z WEDNESDAY THROUGH SUNDAY/...
+High pressure builds in through this afternoon. A warm front 
+approaches tonight and moves through by early Thursday.
+
+VFR through this afternoon. Rain showers will become more 
+probable tonight, eventually becoming likely for more northern 
+terminals such as KSWF. There will be some potential for MVFR 
+and even localized IFR tonight into early Thursday.
+
+Winds generally NW near 5-10 kt through today, become more variable 
+in direction and decrease this evening to near 5 kts or less. Then 
+winds become more SE-S near 5-10 kt late tonight into early 
+Thursday. Some wind gusts near 15-20 kt are forecast today.
+
+     NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Gusts may be occasional this morning and afternoon.
+
+Timing of showers and MVFR tonight may be off by several hours.
+
+.OUTLOOK FOR 12Z THURSDAY THROUGH SUNDAY...
+
+Thursday: Showers with MVFR or lower. VFR returns at night. 
+S-SW winds G15-20 kt. Winds shift to the WNW at night with 
+G15-20 kt. Gusts diminish overnight. LLWS early with SW winds 
+near 40-45 kt at 2kft.
+
+Friday: Mainly VFR. WNW wind gusts near 20kt during the day. 
+
+Saturday: VFR. S-SW winds during day become more W-NW late. 
+Wind gusts 15-20 kt. 
+
+Sunday: VFR. NW winds G15-20 kt day into eve. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Sub-SCA conditions on all waters through early Thursday.
+
+Increasing S flow ahead of an approaching cold front will bring SCA 
+conditions to the ocean waters by late Thursday morning. 25 kt gusts 
+are possible along with 7-9 foot seas. 
+
+SCAs are issued for ocean waters, south shore bays, and E LI 
+Sound entrance. See MWW for more details. 
+
+SCA conditions will continue overnight Thursday. Near-25 kt gusts 
+are possible on all waters on Friday while 5-7 ft seas linger on the 
+ocean waters.
+
+Possible lingering SCA seas on the ocean Friday night with otherwise 
+below SCA seas for other marine zones. Seas build Saturday with more 
+widespread SCA level seas on the ocean which extend into Saturday 
+night. These could linger on the ocean for Sunday as well. 
+Otherwise, other marine areas are below SCA seas and Sunday night, 
+all forecast waters expected to be below SCA levels.
+
+Wind gusts SCA levels forecast on the ocean Friday night and much of 
+the weekend. Otherwise, non-ocean zones are below SCA level
+gusts.
+
+&&
+
+.HYDROLOGY...
+Event rain totals tonight through Thursday will likely lay closer
+to 0.5" in the far interior while southern areas near the coast
+will likely lie below 0.25". No hydrologic concerns.
+
+No issues expected Friday night through early next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory from 7 AM to 7 PM EST Thursday for ANZ332.
+     Small Craft Advisory from 10 AM to 4 PM EST Thursday for 
+     ANZ345.
+     Small Craft Advisory from 4 AM Thursday to 6 AM EST Friday for 
+     ANZ350-353-355.
+
+&&
+
+$$
+
+UPDATE...DW
+AVIATION...JM

@@ -1,0 +1,177 @@
+863 
+FXUS61 KOKX 250103
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+903 PM EDT Sat May 24 2025
+
+.SYNOPSIS...
+Low pressure over the Canadian Maritime remains through Sunday,
+then moves east and weakens Sunday night into Monday. High 
+pressure builds into the northeast Monday and Monday night 
+through Tuesday night. By midweek, high pressure moves offshore 
+into the Atlantic with a series of low pressure system moving 
+through late in the week.
+
+&&
+
+.NEAR TERM /THROUGH SUNDAY/...
+Adjusted POPs with showers with isolated to scattered rain 
+showers across the region. Coverage of showers lowers by mid to 
+late evening as any lingering instability diminishes.
+Temperatures and dewpoints were on track and not modified from
+previously forecast.
+
+An upper trough over the northeast, with a closed upper low will 
+remain nearly stationary tonight through much of Sunday before 
+beginning to shift east and weaken late Sunday afternoon. Spokes of 
+energy rotate around the upper low. 
+
+With daytime heating and instability Sunday a few showers will 
+be possible once again. With the cyclonic flow continuing into 
+Sunday, and a cool airmass over the region, daytime cloudiness 
+Sunday will increase, and temperatures will remain below normal.
+
+&&
+
+.SHORT TERM /SUNDAY NIGHT THROUGH MONDAY NIGHT/...
+An upper closed low and trough over the northeast begins to move 
+eastward as an elongated trough remains over the region. A ridge 
+will be approaching to the west late Sunday night and heights will 
+begin to rise, and continue rising into Monday night as a broad flat 
+ridge builds toward the east coast. Surface high pressure also 
+builds toward the area and will be overhead late Monday and 
+Monday night. With slowly increasing subsidence not expecting 
+any showers to develop Monday. However, there may be a few well 
+inland, but not enough to have probabilities. Temperatures 
+modify Monday with a little more sunshine likely.
+
+&&
+
+.LONG TERM /TUESDAY THROUGH SATURDAY/...
+Upper levels exhibit a ridging pattern Tuesday through the middle of 
+next week. At the surface, the center of high pressure will be close 
+to the local region Tuesday. The high pressure area builds offshore 
+Tuesday night and continues to move farther offshore out into the 
+Atlantic Wednesday.
+
+Dry conditions are expected to prevail Tuesday through much of 
+Tuesday night. Temperatures are forecast to rebound, reaching more 
+into the 70s for more areas on Tuesday with southerly flow and warm 
+air advection.
+
+For the middle to late portion of next week, low pressure will be 
+approaching at the surface. Aloft, the ridge axis moves across 
+Wednesday and then moves east of the region Wednesday night. 
+Meanwhile, a strong cutoff low approaches and moves through the 
+Great Lakes. The cutoff low transitions to a strong trough and 
+approaches the local region Thursday through Friday. One strong 
+embedded shortwave moves across early Friday. The overall synoptic 
+pattern of trough over the Northeast remains heading into next 
+weekend.
+
+At the surface, multiple areas of low pressure approach, one from 
+the Great Lakes and one from the mid-Atlantic. Both appear to be 
+rather weak in magnitude. For Thursday through Thursday night a 
+frontal system approaches the area. Associated cold front passes 
+east of the area Friday with another one to follow for next Saturday.
+
+Rain returns to the forecast late Tuesday night for parts of 
+Northeast NJ but just a slight chance of rain showers. Chances for 
+showers remain in the forecast Wednesday through Saturday. With 
+models indicating some weak low level instability Thursday night and 
+Friday, also have a slight chance of thunderstorms.
+
+Regarding temperatures, cooler days forecast Wednesday and Thursday 
+when there is forecast to be more onshore flow during the day. Range 
+of high temperatures forecast mid 60s to lower 70s for those days. 
+For Friday and Saturday, the forecast high temperatures those days 
+are well into the 70s with more westerly component to the surface 
+winds.
+
+&&
+
+.AVIATION /01Z SUNDAY THROUGH THURSDAY/...
+Low pressure will continue to slowly track over the Canadian 
+Maritimes through Sunday.
+
+VFR. WNW winds settling to around 10 kt or less overnight. Winds WNW-
+NW ON Sunday increase to 10-15 kt with gusts around 20 kt.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No unscheduled amendments expected.
+
+.OUTLOOK FOR 00Z MONDAY THROUGH THURSDAY...
+
+Sunday night: VFR.
+
+Monday-Tuesday: VFR.
+
+Wednesday-Thursday: MVFR possible. Chance of showers.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Low pressure remains over the Canadian Maritime tonight into 
+Sunday, with gusty northwest winds once again during Sunday. 
+Conditions are below SCA thresholds this evening and are
+expected to remain below SCA thresholds through Sunday. Some 
+gusts to 20 kt are still expected.
+
+Gusts Sunday are likely to be below 25 kt. There may be a few 
+nearshore gusts near 25 kt, but will not issue a SCA for Sunday.
+High pressure then builds toward the waters through Monday 
+night. Once wind gusts diminish below 25 kt by early this 
+evening, winds and seas will remain below advisory levels on all
+the forecast waters through Monday night. Pressure gradient 
+remains relatively weak Tuesday through Thursday night, keeping 
+below SCA conditions on the forecast waters. Conditions are 
+actually forecast to stay well below SCA criteria much of the 
+time.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts expected.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+There is potential for localized minor coastal flooding Sunday
+into early next week with a new moon occurring Monday evening, 
+causing areas to need as little as 1/4 ft of tidal departure for
+minor coastal flooding.
+
+The rip current risk for Sunday is moderate as winds and seas 
+gradually subside. There will still be a residual easterly
+swell around 1-2 ft with period of around 8 sec. Ocean seas
+will have a general downward trend during the day.
+
+Rip current risk reduces to low for Memorial Day, as swells 
+continue to subside.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JM/MET
+NEAR TERM...MET
+SHORT TERM...MET
+LONG TERM...JM
+AVIATION...JC
+MARINE...JM/MET
+HYDROLOGY...JM/MET
+TIDES/COASTAL FLOODING...

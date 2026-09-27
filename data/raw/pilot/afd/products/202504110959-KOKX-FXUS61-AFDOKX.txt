@@ -1,0 +1,221 @@
+184 
+FXUS61 KOKX 110959
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+559 AM EDT Fri Apr 11 2025
+
+.SYNOPSIS...
+A subtle high pressure ridge will give way to low pressure
+developing south of the area tonight. The low passes south and 
+east of Long Island Saturday and slowly drifts northeast 
+through Sunday. Weak high pressure builds in through Monday. A 
+frontal system will approach from the west Monday night, with a 
+cold frontal passage expected late Monday night into early 
+Tuesday morning. Another cold front will move through Tuesday 
+night. High pressure then remains centered to the south and west
+thereafter through next Thursday.
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+High pressure positioned to the northeast of the area has been
+keeping the lower atmosphere fairly dry with much of the
+moisture from the trough of low pressure being unable to reach
+the ground last night and through this morning. Some showers are
+building into the NYC metro but shouldn't last more than a few
+hours. As a large upper level trough digs over the East Coast 
+today, a low pressure system develops along the Mid-Atlantic 
+coast this afternoon.
+
+Until then, much of the day should be dry. As the low develops
+to the south, some subtle waves of moisture may result in
+scattered showers, mainly for the western portions of the area
+closer to the inverted trough at the surface. Highs today will 
+be in the upper 40s to near 50, being kept below average by an 
+increasing easterly flow off of the ocean.
+
+&&
+
+.SHORT TERM /6 PM THIS EVENING THROUGH SUNDAY/...
+The low pressure developing along the Mid-Atlantic coast will
+slowly approach the area from the south tonight. Much of the
+area on the north side of the low pressure system will see 
+fairly strong frontogenetical forcing allowing for the 
+blossoming of precipitation, primarily in the form of rain, this
+evening and into the overnight period. As the low approaches 
+and strengthens, an increasing easterly and then northerly 
+component to the wind will usher in colder air from the north.
+
+While much of the moisture will fall in the form of a widespread
+moderate rainfall, some areas in the Lower Hudson Valley and
+interior southern Connecticut may cool off enough to mix with
+some snow late tonight and into the early morning on Saturday.
+There remains an unusual amount of uncertainty as to the
+occurrence and duration of any snowfall as any snow
+accumulations will likely be heavily dependent on the timing and
+intensity of any snowfall. Dynamic cooling of the column may
+support the transition to primarily snow for at least a brief
+time, which would increase confidence in and accumulating
+snowfall for portions of the interior, however this is also
+difficult to pinpoint until it occurs as temperatures will be
+marginal. As of now, snowfall accumulations through Saturday
+morning are expected to be 1 inch or less, mainly for the higher
+elevations of the Lower Hudson Valley and interior SW
+Connecticut, though it's possible some locations see more than 1
+inch depending on any mesoscale features and intensity of
+precipitation.
+
+By Saturday morning, the low stalls south of the area and drifts
+slowly eastward through the day and into Saturday night. Much of
+the strongest forcing should move north of the area and along
+with it the more persistent precipitation. Residual showers
+remain possible through the day Saturday, but chances decrease
+fairly quickly later in the day. Highs Saturday will be much
+cooler than average under a northerly flow, with highs only in
+the low to middle 40s. 
+
+Thew low slowly drifts into the Canadian Maritimes Sunday with a
+weakening northerly flow. Isolated showers remain possible,
+especially for the easternmost areas. As the low pulls away,
+some breaks in the clouds are possible Sunday as temperatures
+rise into the middle 50s.
+
+Total rainfall amounts of around an inch are possible, with a
+bulk of the rainfall occurring tonight and into early Saturday.
+
+&&
+
+.LONG TERM /SUNDAY NIGHT THROUGH THURSDAY/...
+Models in good agreement with a 500mb ridge moving into the area 
+Sunday night, with its axis shifting through during Monday night. 
+This along with weak surface high pressure keeps us dry through the 
+daytime on Monday. A digging 500mb trough will help push a cold 
+front through during the earlier hours of Tuesday morning. Ahead of 
+it, a 50% chance of warm advection rainfall. Still a chance of 
+showers during the rest of Tuesday with a cyclonic flow aloft, but 
+most of the day should be dry. Moderate to high confidence of no 
+significant impacts anticipated with this system, even if a rumble 
+of thunder can't be ruled out during Monday night.
+
+A stronger, but moisture-starved cold front follows for late Tuesday 
+night, then upper ridging doesn't return until Wednesday night into 
+Thursday, resulting in a slow return of high pressure. Dry weather 
+expected for Tuesday night through Thursday.
+
+NBM looked good for temperatures through the long term forecast with 
+generally no more than about a 5 degree difference between the 25th 
+and 75th percentiles.
+
+&&
+
+.AVIATION /10Z FRIDAY THROUGH TUESDAY/...
+Weak high pressure with a surface trough nearby to the west
+gives way to low pressure approaching from the south tonight.
+
+VFR gives way to MVFR by 12z, with pockets of IFR developing 12-15z. 
+There's a chance that it remains VFR all day for KISP/KBDR/KGON. 
+Mainly dry until around 00z Saturday when rain pushes in from the 
+south. 
+
+E winds around 10 kt, backing more ENE and increasing a little this 
+afternoon along with gusts around 20 kt. Winds back farther NE this 
+evening.
+ 
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Occasional gusts around 20kt possible at KJFK through this
+morning. Light showers possible until around 15z, but likely
+without VSBY restrictions. Timing of MVFR onset may be off by
+1-2 hours. Chance that IFR doesn't occur this morning.
+
+.OUTLOOK FOR 06Z SATURDAY THROUGH TUESDAY...
+
+Late tonight: MVFR/IFR in rain. ENE flow 10-20kt, gusts to 25-30kt 
+possible at coast / city terminals.
+
+Saturday: MVFR or lower. Rain likely. NE winds 10-20 kt gusts to 25-
+30kt possible.
+
+Sunday: MVFR/VFR.
+
+Monday: VFR.
+
+Tuesday: Mainly VFR, W winds gust 20-25kt
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Low pressure developing south of the area and approaching will
+allow gusts to increase later today and wave heights to increase
+on the ocean as well. Small craft advisories are in effect
+beginning at 16Z on the ocean with gusts near 25kt and seas
+building above 5 feet. By 22Z, gusts will increase and become
+more widespread so SCA conditions will be likely on all waters 
+with gales likely on the ocean tonight. A Gale Warning is now in
+effect for the ocean through 22Z Saturday for wind gusts of 
+35-40kt possible. SCA conditions then prevail for the ocean with
+residual wave heights greater than 5 feet through at least 
+Sunday.
+
+Sub-advisory conditions for Sunday night through Monday night. Next 
+chance of SCA conditions will be on Tuesday, mainly on the ocean for 
+both winds and seas, but there could be a few gusts to 25kt on the 
+other waters as well.
+
+&&
+
+.HYDROLOGY...
+QPF from tonight through Saturday night has trended downward,
+averaging around an inch for most places. Long duration of 
+this rainfall should preclude any impacts.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+A persistent ENE-NE flow through Saturday night will likely cause 
+some tidal piling through the period with chances of minor coastal 
+flooding in some areas. It appears that all areas will fall short of 
+flooding benchmarks with tonight's high tide cycle, and with the 
+morning high tide cycle being the lower of the astronomical tides, 
+levels likely fall short during Saturday morning as well. Best 
+chance will therefore be during Saturday night with the higher 
+astronomical tide and accumulated piling. At least a statement could 
+be needed Saturday night for the south shore back bays of Nassau 
+County and Queens, as well as parts of NY Harbor and far western LI 
+Sound.
+
+Water levels may approach minor coastal flood benchmarks in
+parts of the NY Harbor area with the high tide cycle tonight 
+and Sat night due to persistent onshore flow and tidal piling. 
+This may occur on the back bays of Nassau tonight as well.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory from 6 PM this evening to 6 PM EDT 
+     Saturday for ANZ331-332-335-338-340-345.
+     Small Craft Advisory from noon today to 6 PM EDT this evening 
+     for ANZ350-353-355.
+     Gale Warning from 6 PM this evening to 6 PM EDT Saturday for 
+     ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JC/MW
+NEAR TERM...MW
+SHORT TERM...MW
+LONG TERM...JC
+AVIATION...JC
+MARINE...JC/MW
+HYDROLOGY...JC/MW
+TIDES/COASTAL FLOODING...

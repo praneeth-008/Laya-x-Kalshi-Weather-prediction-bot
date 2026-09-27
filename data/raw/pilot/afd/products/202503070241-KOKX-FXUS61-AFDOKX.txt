@@ -1,0 +1,171 @@
+708 
+FXUS61 KOKX 070241
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+941 PM EST Thu Mar 6 2025
+
+.SYNOPSIS...
+Low pressure gradually departs to the northeast tonight. A weakening 
+low pressure system and cold front over the mid-West approaches 
+and moves through Friday night into Saturday morning, followed by 
+high pressure through midweek. Another frontal system 
+approaches by week's end.
+
+&&
+
+.NEAR TERM /THROUGH FRIDAY/...
+The forecast is mainly on track. Main adjustment withs this
+update was to increase the cloud cover for the next few hours
+based on latest satellite imagery. Mostly cloudy this evening, 
+but clearing expected late tonight. Colder air moves in tonight 
+on a northwesterly flow, with lows in the upper 20s to lower 
+30s.
+
+The pressure gradient tightens tonight as low pressure gradually 
+exits to the northeast. The area stays well mixed, with winds 
+increasing aloft. NAM and GFS BUFKIT soundings show mixing up to at 
+least 850mb for an extended period of time, with 50+ kt at this 
+level. HREF mean also shows deep mixing, with multiple hours tonight 
+showing 40+ kt max momentum transfer and 50+ kt on Friday, with 
+widespread 40 kt gusts expected. Isolated gusts 45 to 50 kt can not 
+be ruled out. A Wind Advisory continues for the entire forecast 
+area from 6 PM this evening through Friday afternoon. 
+
+Highs on Friday will be slightly above normal for this time of year, 
+in the middle 40s to near 50.
+
+&&
+
+.SHORT TERM /FRIDAY NIGHT/...
+Winds diminish somewhat Friday night. A weakening low pressure 
+system over the mid-West approaches Friday night. With zonal flow 
+aloft, expect much of any precipitation to associated with this
+low, which weakens into a surface trough by the time it moves 
+through the forecast area, to pass to the south. However, there 
+is a slight chance for snow showers across northeast NJ, NYC, 
+and Long Island associated with this feature. No accumulation is
+expected. Lows will be in the middle 20s to middle 30s across 
+the area.
+
+&&
+
+.LONG TERM /SATURDAY THROUGH THURSDAY/...
+**Key Points**
+
+* Mainly dry weather through the the middle of next week. Windy 
+  conditions will continue on Saturday into Sunday.
+
+* A gradual warmup from near normal temperatures this weekend to 
+  above normal temperatures through midweek.
+
+The global models and their respective ensembles are in decent 
+agreement with the pattern into next week. Thus, the NBM was 
+followed closely for this update with adjustments to the winds/gusts 
+on Saturday into Sunday.
+
+The region lies on the southern edge of longwave trough centered 
+over eastern Canada to start the period. A series of weak shortwaves 
+moves through the flow and over the local area into early next week 
+with little fanfare. The flow then deamplifies, becoming more zonal 
+through next Thursday.
+
+At the surface, northwest flow continues Saturday and Sunday. The 
+pressure gradient remains rather tight into Saturday evening, with 
+model soundings indicating a well-mixed boundary layer. Thus, winds 
+look to remain gusty Saturday into early Sunday, though shy of 
+advisory criteria. Have bumped up winds in collaboration with 
+neighboring offices from the NBM with this update, effectively near 
+the 75th percentile.
+
+High pressure then builds in from the southwest on Sunday into 
+Wednesday, enhancing southerly flow and warm air advection. 850mb 
+temperatures max out at about 5-7C on Wednesday and again on 
+Thursday, with 50s and low to mid 60s likely at the surface; warmest 
+temperatures away from the coasts. The warmest day next week looks 
+to be Wednesday, under westerly flow, with some uncertainty in the 
+timing of a frontal passage on Thursday and a more southerly wind 
+component. NBM IQRs (75th-25th percentiles) for mid next week are in 
+the 10-15 degree range, indicating the sensitivity of the afternoon 
+highs to the surface flow. Nonetheless, above normal temperatures 
+look likely Monday - Thursday of next week.
+
+&&
+
+.AVIATION /03Z FRIDAY THROUGH TUESDAY/...
+High pressure slowly builds back into the area through Friday.
+
+VFR. 
+
+WNW gusts around 40kt for the overnight hours, which probably
+diminish closer to 35kt starting near 10z or so. Occasional
+gusts over 40kt will still be possible during Friday however,
+especially late morning into early afternoon.
+
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Gusts could prevail a few kt lower than forecast through Friday
+afternoon.
+
+.OUTLOOK FOR 00Z SATURDAY THROUGH TUESDAY...
+
+Friday NIGHT: VFR. W winds gust around 20kt.
+
+Saturday: VFR with W winds G15-20kt possible.
+
+Sunday - Monday: VFR.
+
+Tuesday: Mainly VFR, SW-S winds.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Gale conditions for all waters this evening through Friday with
+40 to 45 kt W/NW gusts. 
+
+There will be a lull in gusts Friday night, with 5+ foot seas 
+continuing on the ocean. 
+
+Gusty northwest winds return on Saturday afternoon into Sunday, but 
+look to be shy of gale conditions attm. Have left mention out of the 
+HWO with low confidence, even over ocean zones. Waves may approach 
+SCA conditions Saturday night into early Sunday for the eastern 
+ocean zones and taper by Sunday evening. Thereafter, sub-SCA 
+conditions are expected across all waters.
+
+&&
+
+.FIRE WEATHER...
+Although the area saw 1-2 inches of rain on Wednesday, windy and dry 
+conditions Friday and Saturday will allow for an increased risk in 
+fire spread. Both days will see min RH values around 30 percent. 
+Gusts on Friday are expected to reach 45 to 50 mph, with gusts on 
+Saturday around 30 to 35 mph. However, in coordination with 
+fire partners, no products are expected at this time.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through the middle of next
+week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Wind Advisory until 4 PM EST Friday for CTZ005>012.
+NY...Wind Advisory until 4 PM EST Friday for NYZ067>075-078>081-
+     176>179.
+NJ...Wind Advisory until 4 PM EST Friday for NJZ002-004-006-103>108.
+MARINE...Gale Warning until 6 PM EST Friday for ANZ331-332-335-338-340-
+     345-350-353-355.
+
+&&
+
+$$
+
+AVIATION...JC

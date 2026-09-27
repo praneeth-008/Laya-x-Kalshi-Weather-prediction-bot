@@ -1,0 +1,182 @@
+883 
+FXUS61 KOKX 300317
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1017 PM EST Wed Jan 29 2025
+
+.SYNOPSIS...
+High pressure briefly builds in tonight and moves offshore 
+Thursday. A frontal system impacts the area late Thursday night 
+and Friday, followed by high pressure Saturday into Sunday. The 
+high pressure gives way to a weaker frontal system Sunday night 
+into Monday. High pressure may return next Tuesday.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM THURSDAY MORNING/...
+Some lingering flurries moving across southeastern CT and the
+Twin Forks of Long Island, so added a slight chance of POPs to
+the forecast through 06Z, though they will likely end earlier
+than this. Temperatures were somewhat higher than forecast,
+likely because winds are keeping temperatures up. Otherwise,
+forecast is on track. However, winds have diminished enough to
+allow the Wind Advisory to expire, though there may be isolated
+gusts that reach advisory criteria over the next hour or so.
+
+Heights rise as ridging builds into the region tonight, and 
+winds and gusts will be diminishing late. Temperatures should 
+fall into the teens inland and the lower 20s closer to the 
+coast.
+
+&&
+
+.SHORT TERM /6 AM THURSDAY MORNING THROUGH THURSDAY NIGHT/...
+Surface high pressure moves across the region Thursday, as upper
+ridging also crosses the area and moves offshore late Thursday
+afternoon. With the high generally to the south the will be no
+cold air damming or a blocking high to the north. Also, with 
+the approach of the next frontal system Thursday night, and 
+mainly toward Friday morning, a deep southerly flow will be 
+developing as warm air moves in aloft. Soundings are indicting a
+rather shallow surface cold layer across the interior, and 
+especially the valleys. With the onset toward Friday morning, 
+rain is expected across most of the southwestern section, with 
+the possibility of light freezing rain inland. Light ice 
+accumulations are expected.
+
+&&
+
+.LONG TERM /FRIDAY THROUGH WEDNESDAY/...
+Unsettled weather will occur on Friday as low pressure and
+its associated frontal system impacts the region. The modeling 
+has largely been consistent with the evolution of the system 
+over the last few days with slight adjustments to the track of 
+the low. The pattern continues to support a liquid event as 
+there is no arctic air source to advect cold and dry air 
+southward. The only concern for any frozen precip will be at the
+onset of the event early Friday morning across the interior. 
+Surface temperatures will be slower to rise above freezing with 
+potential for a period of light freezing rain. The parent low 
+passing over or just N of the area support surface winds 
+increasing out of the SW, helping to warm temperatures above 
+freezing. It may take until mid morning for some of the valley 
+locations to fully rise above freezing, but overall the Friday 
+event will be a cold rain. Ice accretion of a few hundredths is 
+possible across the interior and a winter weather advisory may 
+be needed for Friday morning if current trends hold.
+
+The cold rain will persist into the evening before tapering off
+from west to east the first half of the night. Liquid 
+equivalent amounts total around three tenths inland to just 
+under an inch out east. High temperatures on Friday may be 
+reached late in the day once the low moves across the area, 
+generally in the lower to middle 40s. Colder air will return 
+behind the system Friday night, but middle level drying will 
+likely prevent any wrap around precip. Lows by early Saturday 
+range from the 20s to low 30s. 
+
+The model guidance continues to be in agreement on the overall 
+synoptic flow pattern this weekend into next week. The flow will
+be zonal with mainly flat shortwaves potentially passing 
+through from time to time. Surface high pressure will move over 
+New England on Saturday before retreating east on Sunday. A weak
+frontal system moves through Sunday night into Monday. Precip 
+chances appear low Sunday night into Monday with any notable 
+trend on the models shifting the parent north the last several 
+cycles. This may lead to chance of light rain at the coast and 
+some light snow inland Sunday as the associated warm front lifts
+through the area. PoPs have been capped off at chance given the
+weak system and continued uncertainty with timing, track, and 
+amplitude. Brief high pressure follows on Tuesday before 
+potential of another fast moving system mid week.
+
+Temperatures will largely be near normal with the only exception
+of Monday where temperatures should be above seasonable levels.
+
+&&
+
+.AVIATION /03Z THURSDAY THROUGH MONDAY/...
+Low pressure will track northeast tonight across the Canadian 
+Maritimes with high pressure building in from the southwest.
+
+VFR. NW winds 20-25 kt G30-35 kt will gradually diminish 
+overnight to around 15 to 20 kt sustained with gusts 20 to 25 kt
+by daybreak. Isolated gusts may continue to around 20 kt 
+through about 14Z Thursday at some terminals.
+
+     NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Amendments possible due to uncertainty in wind speeds. 
+
+.OUTLOOK FOR 00Z FRIDAY THROUGH MONDAY...
+
+Thursday Night: Chance of MVFR or lower in rain late at night, 
+possibly starting as freezing rain at KSWF.
+
+Friday: Any freezing rain at KSWF in the morning changing to rain 
+with MVFR or lower, possibly ending as light snow at KSWF after 
+midnight. SW winds G20kt NYC metro/coast.
+
+Saturday: Becoming VFR in the morning. NW winds G20kt until around 
+midday.
+
+Sunday: Chance MVFR or lower conditions mainly at night, with snow 
+changing to a wintry mix or rain. 
+
+Monday: VFR. SW winds G15-20kt. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+A Gale Warning remains in effect for all the forecast waters
+into late tonight. With high pressure building to the west, and
+a cold front moving to the south and east winds and gusts will
+be diminishing. However, gale gusts will likely remain on the
+ocean waters east of Fire Island Inlet until toward Thursday
+morning, and the Gale warning was extended. There may be a brief
+period of SCA gusts on the waters before falling below 25kt, and
+an advisory may be issued. Small Craft seas likely remain on 
+the ocean waters into Thursday morning, so a SCA will be more 
+likely for the ocean waters once gales end. There may be a 
+brief break in SCA conditions on the ocean waters before gusts 
+increase once again by late Thursday night as another frontal 
+system begins to impact the waters.
+
+SCA conditions are likely Friday and Saturday on the ocean. 
+Elevated seas may persist on the ocean east of Moriches Inlet 
+Saturday night with conditions below SCA levels on Sunday. 
+Marginal SCA conditions are possible on Monday, mainly east of 
+Moriches Inlet.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through the middle of next 
+week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Gale Warning until 1 AM EST Thursday for ANZ331-332-335-338-
+     340-345-355.
+     Gale Warning until 5 AM EST Thursday for ANZ350-353.
+
+&&
+
+$$
+
+SYNOPSIS...DS/MET
+NEAR TERM...JP/DS/MET
+SHORT TERM...MET
+LONG TERM...DS
+AVIATION...JP
+MARINE...DS/MET
+HYDROLOGY...DS/MET

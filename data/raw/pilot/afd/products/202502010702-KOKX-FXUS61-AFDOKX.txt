@@ -1,0 +1,199 @@
+779 
+FXUS61 KOKX 010702
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+202 AM EST Sat Feb 1 2025
+
+.SYNOPSIS...
+A frontal wave of low pressure will move east of the region into
+this morning. High pressure will then build in from the Great 
+Lakes today into tonight, while low pressure deepens over the 
+western Atlantic. A warm front then approaches on Sunday and 
+passes through during Sunday night. The trailing cold front from
+this low pressure system passing to the north will pass through
+Monday night, followed by high pressure through early 
+Wednesday. Another frontal system will then impact the area 
+later on Wednesday into Thursday. High pressure is expected to 
+follow on Friday.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM THIS MORNING/...
+A frontal wave of low pressure over ern sections of the fcst 
+area will pass east into this morning. Upward forcing 
+associated with the low, including synoptic scale lift from an 
+upper jet streak, is still bringing rain to Long Island. Rain 
+should clear eastern Long Island by around 6 AM.
+
+Light winds and low dewpoint depressions have led to areas of 
+fog. Patchy dense fog is occurring in spots, but should lift as
+post-frontal N-NW flow begins. Fog is expected to become less as
+northerly flow allows for drier air to move into the area
+towards daybreak.
+
+&&
+
+.SHORT TERM /6 AM THIS MORNING THROUGH SUNDAY NIGHT/...
+High pressure from the Great Lakes will be building in through 
+the day. The relatively tight pressure gradient between this
+high pressure area and an area deepening low pressure out in the
+Northern Atlantic will create a gusty NW flow, advecting in
+colder air throughout the day. 
+
+Expecting actually colder temperatures this afternoon compared
+to this morning. Used a colder blend of guidance for high
+temperatures which will be set in the morning and range mainly
+in the low to upper 30s. Low 30s for the interior and upper 30s
+along the coast and within NYC.
+
+Some mid level ridging will allow for more subsidence and drying
+atmospheric column will make for a sunnier day. But with cold
+air advection, actual temperatures will be colder than the
+previous day and apparent temperatures will certainly feel much
+colder than the previous day. The highest the forecast wind 
+chills reach today is the upper teens to upper 20s.
+
+Winds then diminish tonight as the center of high shifts to 
+our north and the pressure gradient weakens. Mainly clear 
+conditions and light to calm winds will allow for radiational 
+cooling, with low temperatures dropping into the single digits 
+across the northernmost zones. Teens for most other locations, 
+except low 20s in the city.
+
+For Sunday, looks like it should be dry most of the day.
+Overrunning precip will however advance from the west ahead of
+a warm front. This front is in association with a quick-moving 
+low pressure system well to our north. Snow will be possible 
+towards late in the day north of the city. Snow chances then 
+become more likely Sunday night north of the city as the warm 
+front moves through, with the highest chances being over SE CT. 
+Looks like it should be coming to an end by the time a warm nose
+pushing in could result in a wintry mix late at night. Snow 
+amounts of an inch or less anticipated - highest generally 
+across the northernmost zones. For the city, LI and the urban 
+corridor of NE NJ, precip chances are capped at chance, and it 
+should be warm enough for rain during the whole event.
+
+&&
+
+.LONG TERM /MONDAY THROUGH FRIDAY/...
+A nearly zonal flow will feature some timing issues with a
+midweek storm system that will impact the area. The latter of 
+which will be driven by kink in the flow late in the week as an 
+amplifying shortwave trough drops across the Great Lakes 
+Thursday and across the Northeast on Friday. Before then though,
+a cold front will pass through the area Monday night as low 
+pressure passes well to the north. This looks to be uneventful 
+with perhaps an isolated shower. More importantly, it will 
+return the area to temperatures closer to normal for early 
+February and potentially set the stage for some wintry weather 
+later in the week. High pressure briefly returns Tuesday into 
+early Wednesday.
+
+Where there are issues that still need to be resolved are with
+low pressure emerging from the Central Plains midweek and the 
+overrunning precipitations that breaks out well in advance of 
+the associated warm front. The parent low likely tracks west of 
+the area with warm air surging in aloft and snow or a rain/snow 
+mix the onset that goes over to rain Wednesday night. A 
+confluent flow between the two branches of the polar jet lifts 
+out to the northeast on Wednesday. How quickly that happens will
+determine the extent of cold air and how quickly it erodes. 
+There is high confidence that enough warm air moves in aloft for
+a changeover to rain, but an extended period of freezing rain 
+is possible north and west of the NYC metro Wednesday night. The
+NBM still is showing quite a temperature spread for the midweek
+system with box and whisker plots showing as much as 20 degree 
+spreads between the 25th and 75th percentiles. The deterministic
+is very close to the median during this time. Expect all rains 
+on Thursday before it comes to an end late Thursday night 
+following a cold frontal passage. Temperatures in the warm 
+sector Thursday may get into the 50s, but falling back into the 
+40s Friday. Thus, a period of quickly changing weather.
+
+&&
+
+.AVIATION /06Z SATURDAY THROUGH WEDNESDAY/...
+Low pressure over the area will move east overnight along with
+an associated cold front. High pressure will then build from 
+the Great Lakes today, while while the low deepens and moves 
+out over the western Atlantic.
+
+Widespread IFR/LIFR conditions will persist overnight, with rain
+ending. Improving conditions expected toward daybreak, with a
+return to to VFR at all terminals by 13Z.. 
+
+Winds shift N-NW and increase after cold fropa to 15-20 kt with
+gusts 25-30 kt. A few higher gusts up to 35 kt are possible. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Amendments likely for timing of category changes and
+shift/increase in N-NW winds. VFR conditions could return 
+earlier than fcst.
+
+.OUTLOOK FOR 06Z SUNDAY THROUGH WEDNESDAY...
+
+Late tonight: VFR. NW winds 10-15 kt with gusts 20-25kt early in
+the evening, then diminishing.
+
+Sunday: Chance of MVFR or lower cond at night in rain and/or 
+snow.
+
+Monday and Tuesday: VFR. 
+
+Wednesday: MVFR or lower cond in developing rain and/or snow. 
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+With the relatively tight pressure gradient between approaching
+high pressure from the north and west and deepening low pressure
+well to the north and east, a gusty NW flow will reach SCA
+levels for all waters throughout today. SCA already in effect on
+the ocean and after 6AM goes into effect for all forecast
+waters.
+
+The SCA continues on the ocean into tonight as a lingering 
+swell should keep seas elevated. There may be a few SCA level
+gusts for the non-ocean waters this evening but a decreasing
+trend is expected so just the ocean has SCA for tonight. Late
+tonight, just the ocean east of Fire Island Inlet has SCA.
+
+Sub-advisory conditions then prevail for Sunday through 
+Wednesday. The only exception would be marginal 25-kt gusts on 
+the ocean possible ahead of a cold front on Mon and behind it 
+Mon night-Tue. 
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns at this time.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory from 6 AM this morning to 6 PM EST this 
+     evening for ANZ331-332-335-338-340-345.
+     Small Craft Advisory until 6 AM EST Sunday for ANZ350-353.
+     Small Craft Advisory until 1 AM EST Sunday for ANZ355.
+
+&&
+
+$$
+
+SYNOPSIS...JM/JC/DW
+NEAR TERM...JM/JC/DW
+SHORT TERM...JM/JC
+LONG TERM...DW
+AVIATION...BG/JP
+MARINE...JM/DW/MW
+HYDROLOGY...DW/MW

@@ -1,0 +1,214 @@
+677 
+FXUS61 KOKX 201135
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+735 AM EDT Tue May 20 2025
+
+.SYNOPSIS...
+A high pressure ridge noses down from the north and northwest today. 
+An expansive frontal system approaches Wednesday with a coastal low 
+developing nearby on Thursday. The low then moves northeast and 
+into the Canadian Maritimes Thursday night through Saturday, and 
+remains over the Maritimes through Sunday. Weak high pressure
+then builds in Sunday night through Monday.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+It will be the last nice weather day for awhile as a high pressure 
+ridges down across the eastern Great Lakes and Northeast into this 
+afternoon. The pressure gradient finally relaxes as a result as the 
+gusty breezes from the previous couple of days come to an end. More 
+in the way of sunshine is anticipated during this morning in 
+comparison to later in the day. Scattered to broken cloud cover 
+should prevail going through the day. Temperatures overall should 
+average a few degrees below normal, but all in all a fairly good 
+spring day.
+
+Clouds gradually increase through tonight. The latest NWP guidance 
+is slower with the progression of mid level moisture into the region 
+during tonight compared to previous NWP model iterations. There 
+have been hints that the lower part of the column may moisten up 
+enough where a few light showers / sprinkles may develop get closer 
+to midnight. Some of the higher resolution model reflectivity progs 
+have been suggestive of this. Have doubts as to whether the depth of 
+the lower level moisture would be sufficient to produce droplets big 
+enough to descend to the surface. Thus, have kept all of the 
+evening dry, with PoPs increasing late at night and into Wed AM from 
+WSW to ENE. Temperatures should fall close to the seasonal averages 
+with night time lows mainly in the lower and middle 50s.
+
+&&
+
+.SHORT TERM /WEDNESDAY THROUGH THURSDAY/...
+A difficult forecast for Wednesday with respect to how far east any 
+organized rain gets. The NWP guidance has timing differences with 
+regard to the progression of the arrival of the leading edge of 
+organized stratiform rain in advance of an old warm / occluded 
+frontal boundary. The timing differences stem mainly from varying 
+amounts of dry air in the mid levels that needs to be overcome. 
+Forecast soundings indicate a good deal of mid level dry air and the 
+questions is how long will it take for the column to moisten 
+sufficiently to develop the steadier rainfall. For now have taken 
+more of a consensus / middle of the road approach and steadily raise 
+PoPs through the day from SW to NE. With an onshore flow steadily 
+increasing into the afternoon look for winds closer to the coast to 
+gust during the afternoon and evening. With the onshore winds and 
+clouds temperatures should average at least 10, maybe as much as 15 
+degrees below average with mainly upper 50s for daytime max 
+temperatures.
+
+For Wednesday night carry likely to categorical PoPs. A coastal low 
+begins to develop into early Thursday morning. This should focus a 
+surge of mid level warm advection into the region with a LLJ out of 
+the east at around 30 kt. This will be the main forcing function of 
+the steadier rainfall that arrives late Wed night / early Thu 
+morning. This steadier rain will fall through at least the first 
+half of the day, and perhaps carry into a portion of the afternoon. 
+With the clouds, rain, and wind temperatures will remain well below 
+normal into Thursday. Max temperatures will in all likelihood not 
+get out of the 50s region wide. Minimum temperatures Wed night will 
+average close to the seasonal averages with a cool onshore wind. For 
+rainfall totals and more detailed hydrology information see the 
+Hydrology section.
+
+&&
+
+.LONG TERM /THURSDAY NIGHT THROUGH MONDAY/...
+The forecast guidance remains rather consistent from previous 
+forecasts as a developing coastal low Wednesday night tracks 
+northeast of the region Thursday night through Friday night and 
+remains over the Canadian Maritimes Saturday into Sunday. Shower 
+chances taper off Thursday night as the low departs. However, 
+chances of showers remain through Saturday as a closed upper low and 
+trough remain over the northeast. The upper trough weakening 
+Saturday night into Sunday as heights slowly rise. As a result the 
+area will likely be dry. Additional energy tracks through the near 
+zonal flow and into the region Monday into Monday night, and may 
+brings a few showers to the area for Memorial Day. The NBM guidance 
+was used through the extended period. And blended in the 90th 
+percentile for winds and gusts Thursday night into Friday as the low 
+departs to the northeast. Temperatures will be near or just below 
+normal Thursday night through Sunday, and return to near normal 
+levels for Memorial Day.
+
+&&
+
+.AVIATION /12Z TUESDAY THROUGH SATURDAY/...
+Weakening low pressure over the Canadian Maritimes tracks slowly
+southeast out into the western Atlantic, while weak high 
+pressure builds in from the west through today. The high moves 
+east while a frontal system approaches to the southwest tonight.
+
+VFR until late tonight, with MVFR cigs developing east of the NYC 
+terminals 04Z to 06Z, and in the NYC metro area 07Z to 09Z.
+
+N wind 10-14kt through most of today, weakening late day and 
+becoming NE. The flow could weaken enough for seabreeze 
+development, mainly at KJFK, and possibly KISP and KLGA. 
+Therefore, lower confidence in wind direction at the coastal 
+terminals this afternoon. Winds become easterly during the
+evening and increase late tonight into Wednesday morning.
+
+
+  ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Occasional gusts til 14Z, up to 20kt.
+
+Chance of a late afternoon seabreeze, mainly at KJFK, but low 
+confidence at this time. Low confidence wind direction as winds 
+become light mid to late afternoon at KJFK and KLGA. 
+
+.OUTLOOK FOR 12Z WEDNESDAY THROUGH SATURDAY...
+
+Wednesday: MVFR or lower with rain developing from west to east
+through the day. E wind gusts up to 20kt, increasing to 20-25kt
+at night.
+
+Thursday: MVFR or lower with rain. E winds backing to the NE late in 
+the day with gusts up to 30kt. Wind diminishing at night and 
+becoming N.
+
+Friday: MVFR or lower with a chance of showers. 
+
+Saturday: Chance of MVFR in showers.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Sub advisory conditions return to the ocean waters today into 
+tonight with diminishing winds with a weak pressure gradient getting 
+briefly established through the first half of Tuesday night. Towards 
+Wednesday morning an easterly flow quickly ramps up, especially into 
+the late day and evening as small craft conditions develop. Small 
+craft conditions prevail Wednesday night across all waters as a 
+coastal low begins to develop, with a period of gale force winds a 
+possibility into the day Thursday out on the ocean on a stronger 
+east to northeasterly fetch.
+
+Small craft conditions will likely be on-going across the forecast 
+waters Thursday evening, with gusts falling below 25kt by late 
+Thursday night. However, ocean seas will remain elevated at SCA 
+levels through most of Friday. Thereafter, winds and seas will 
+remain below advisory levels Friday night through Sunday night.
+
+&&
+
+.HYDROLOGY...
+Average rainfall amounts of 1 to 1.5 inches is expected across the 
+CWA for mid week (mainly Wednesday through Thursday), with 
+additional quarter inch amounts across SE CT and lighter amounts 
+elsewhere into Thursday night. At this time rainfall rates are not 
+expected to exceed a half inch per hour with more of a stratiform 
+rain with periods of mainly moderate intensity with colder rain 
+processes. At this time more of a nuisance urban poor drainage type 
+flooding remains a possibility late Wed night into Thursday. Some 
+streams and rivers across mainly CT basins may rise some, but should 
+not result in flooding as the rain should fall over a long enough 
+duration. There are no hydrologic concerns Friday into the 
+beginning of next week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+A strengthening/persistent E-NE flow Wednesday through Thursday
+may result in minor coastal flooding mid to late week. The 
+latest information indicates that water levels should remain 
+below minor coastal flood benchmarks during time of high tide 
+late Wednesday and early Thursday. Based on the latest data the
+two high tides of most concern are the Thursday afternoon / 
+evening and the late Friday afternoon / evening cycles. The 
+second of these may result in only localized minor flooding in 
+and around the tidal waterways of NE NJ and Staten Island, and 
+along the south shore bays of Nassau County despite being higher
+astronomically. The first round should result in more 
+widespread minor flooding due to a stronger and more onshore 
+wind component, with departures 2.0 to 2.5 ft, as winds appear 
+more likely to remain mainly NE through most of the day Thursday
+before backing to N Thursday into Thursday night.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JE/MET
+NEAR TERM...JE
+SHORT TERM...JE
+LONG TERM...MET
+AVIATION...MET
+MARINE...JE/MET
+HYDROLOGY...JE/MET
+TIDES/COASTAL FLOODING...

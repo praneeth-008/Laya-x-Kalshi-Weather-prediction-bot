@@ -1,0 +1,206 @@
+443 
+FXUS61 KOKX 120613
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+213 AM EDT Tue Aug 12 2025
+
+.SYNOPSIS...
+High pressure remains in control into tonight as it drifts south 
+off the East Coast. A cold front then approaches on Wednesday, 
+slowly moving through the region Wednesday night into Thursday 
+morning, and lingering nearby through the day Thursday. High 
+pressure then briefly returns Friday into Saturday before another 
+cold front passes through Sunday into Monday.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Mid-level ridging remains in place over the region today, with a 
+weak surface high pressure drifting south off the Mid Atlantic 
+coast.
+
+Any patchy morning fog or stratus erodes quickly after daybreak,
+and the nearby high maintains another day of dry and sunny weather.
+With the exception of a cirrus veil, skies remain abundantly sunny,
+with perhaps a bit of afternoon cu developing in some locales west
+of the Hudson.
+
+Warm air in place aloft, 850mb temps progged around 18-19C and 
+925 mb in the mid 20s, should allow most to achieve upper 80s or
+lower 90s at the surface. A strengthening S/SW flow will lead to
+a subtle increase in dew points by mid to late afternoon, making
+for a more muggy feel to the air late in the day. Even with dew
+pts into the upper 60s though, heat indices likely only near or
+just above actual air temperatures with peak values into the 
+lower 90s.
+
+Temperatures tonight will be slightly warmer than previous nights 
+with lows in the upper 60s to low 70s. Could see a bit more
+coverage of fog or low stratus overnight into Wed AM relative to
+previous nights.
+
+&&
+
+.SHORT TERM /WEDNESDAY THROUGH THURSDAY NIGHT/...
+Hot and humid air mass still in place Wednesday ahead of an 
+approaching frontal boundary from the west.
+
+Ridging gradually breaks down and shifts east Wednesday as a trough 
+swings east through Canada. High pressure that was in place
+offshore weakens and slides well south as a cold front gradually
+approaches from the northwest. The persistent S/SW flow out 
+ahead of the front will maintain another day of heat and humidity
+to the area. The national blend was followed for temperatures,
+but blended in CONSALL to lower dew pts several degrees in the 
+afternoon with lingering dry air aloft and decent mixing toward
+and 850 mb expected, but still could see dew pts get into the 
+low 70s, especially along the coast. Air temperatures will be 
+similar to the previous day, generally upper 80s to lower 90s 
+across most of the local Tri State, but the increased moisture 
+should lead to heat indices several above air temperatures, with
+highest values into the mid to upper 90s, mainly across NYC, NE
+NJ, and much of the interior. Thursday now appears to remain 
+warm and humid, values likely decline a few degrees from 
+Wednesday with unsettled conditions, and not confident we'll see
+widespread 95F+ heat indices both days. So while not out of the
+question a heat headline could still be needed for portions of 
+the region Wed/Thu, forecast values at the moment do not warrant
+issuance of an advisory with this update. More likely, peak 
+heat indices into the mid to upper 90s on Wednesday, and into 
+the low to mid 90s on Thursday.
+
+With the approach of the front and prefrontal trough, expect
+scattered area of showers and thunderstorms to develop off to
+the west and advance into the Lower Hudson Valley and NE NJ by
+mid afternoon. While some modest instability and high PWATs 
+will be present, shear is relatively weak and best forcing is 
+located well north, so coverage and severity of any convection 
+appear relatively limited at this point. Best chance of a strong
+to severe thunderstorm will generally be north and west of NYC,
+where isolated damaging wind gusts will be possible into the
+evening with any activity.
+
+In addition, PWATs climb to near or over 2 inches, and with a deep 
+10kft+  warm cloud layer expected, efficient rain processes in any 
+thunderstorm could lead to locally heavy rainfall. Best chances for 
+this appear to be across the Lower Hudson Valley and portions of NE 
+NJ, which lines up fairly well with where WPC has a marginal risk 
+for excessive rainfall outlined. Outside of the convective maxima 
+however, QPF is low overall, generally at or under a quarter inch, 
+and anything more significant then localized nuisance flooding 
+appears unlikely.
+
+The front looks to slow as it crosses the region, and may not fully 
+advance east until later Thursday morning. The nearby boundary keeps 
+PoPs elevated into Thursday afternoon, though not a washout, a few 
+additional showers or thunderstorms could develop at times. 
+Conditions begin to fully dry out Thursday night.
+
+&&
+
+.LONG TERM /FRIDAY THROUGH MONDAY/...
+No changes were made with this update. 
+
+A slow moving cold pushes across the area Thursday, with chances for 
+showers and potentially a thunderstorm continuing. Mainly dry 
+conditions return for Thursday night through next weekend with high 
+pressure building in and remaining in control, pushing south of the 
+area by Saturday. 
+
+Conditions continue to look slightly cooler on Thursday with 
+slightly lower humidity levels. Highs are expected to reach the 
+upper 80s for most spots and around 90 in NE NJ and NYC metro.
+Dew points in the mid to upper 60s with these temperatures will 
+yield max heat indices in the lower 90s in the warmest spots.
+This will preclude the need for any heat headlines during this time 
+frame as the 2 day criteria looks unlikely to be met when factoring 
+in the warmest day on Wednesday. Near normal temperatures and 
+typical humidity levels for this time of year are expected for 
+Friday and Saturday. Slightly warmer readings and higher humidity 
+levels for Sunday as the high pushes south and east of the forecast 
+area.
+
+&&
+
+.AVIATION /06Z TUESDAY THROUGH SATURDAY/...
+High pressure remains in control with mainly VFR conditions.
+There is a chance for IFR-MVFR fog or ceilings tonight, mainly 
+across eastern Long Island and southeast Connecticut terminals. 
+
+Light SW or variable winds through 12z. SW winds increase after 12z 
+and shift towards the S late morning into the afternoon around or or 
+just over 10 kt. Winds will become SW this evening and decrease 
+overnight.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Timing of wind shift to the S may be off by 1-2 hours this afternoon.
+
+Low chance for MVFR ceilings/visibilities late tonight/early 
+Wednesday morning. 
+
+.OUTLOOK FOR 06Z WEDNESDAY THROUGH FRIDAY... 
+
+Late tonight: MVFR-IFR ceilings/visibilities possible, mainly east 
+of NYC metro terminals. 
+
+Wednesday: MVFR-IFR ceilings/visibilities possible early, then VFR 
+into the afternoon. Chance of late day/evening showers/thunderstorms 
+with MVFR or lower. Chance of showers late at night. 
+
+Thursday: Mainly VFR. Chance of showers and thunderstorms. 
+
+Thursday night-Saturday: VFR. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+With a weak pressure gradient in place, winds and seas are expected 
+to remain below Small Craft Advisory (SCA) criteria through the
+week.
+
+&&
+
+.HYDROLOGY...
+Thunderstorms ahead of an approaching cold front Wednesday
+afternoon and evening could produce locally heavy downpours 
+that result in minor nuisance flooding, especially areas west of
+the Hudson River. The overall flood threat is low however. 
+
+There are no significant hydrological concerns through the 
+week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+A moderate rip current risk remains in place today and 
+Wednesday along ocean beaches due to persistent E-ESE swells 
+with 2 to 3 ft waves and an 8 to 9 second period.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Air Quality Alert from 11 AM this morning to 11 PM EDT this 
+     evening for CTZ005>012.
+NY...Air Quality Alert from 11 AM this morning to 11 PM EDT this 
+     evening for NYZ067>075-176-178.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...DR
+NEAR TERM...DR
+SHORT TERM...DR
+LONG TERM...DS
+AVIATION...DS
+MARINE...DR/DS
+HYDROLOGY...DR/DS
+TIDES/COASTAL FLOODING...DR

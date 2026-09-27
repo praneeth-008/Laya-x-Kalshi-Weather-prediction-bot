@@ -1,0 +1,193 @@
+308 
+FXUS61 KOKX 152119
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+519 PM EDT Fri Aug 15 2025
+
+.SYNOPSIS...
+Canadian high pressure will build in through tonight, then slide off 
+the coast on Saturday. A weak cold front will approach on Sunday, 
+pass through Sunday night. High pressure from Southeast Canada 
+will sink into New England and the Northeast US through midweek 
+pushing a backdoor cold front through. Weak disturbances may 
+approach from the west but high pressure is expected to dominate
+through much of next week.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM SATURDAY MORNING/...
+High pressure continues to build into the area from SE Canada at the 
+surface into tonight. However, increasing clouds are expected 
+overnight due to upper-level flow changing with a weak embedded 
+shortwave. Mainly dry conditions anticipated through tonight, 
+though. Lows will be in the low 70s to mid 60s. Patchy fog will once 
+again be a possibility for interior locations.
+
+&&
+
+.SHORT TERM /6 AM SATURDAY MORNING THROUGH SUNDAY NIGHT/...
+Surface high pressure moves offshore on Saturday as heights aloft 
+gradually drop with a passing shortwave. This, combined with onshore 
+flow, will lead to slightly cooler highs on Saturday in the low/mid 
+80s. The shortwave may enable a few isolated showers/storms well NW 
+of NYC in the interior in the afternoon/evening. 
+
+Saturday night, as the shortwave exits, mostly clear skies make 
+their return with another chance for patchy fog, this time just for 
+far eastern locations. Lows Saturday night will be in the mid 60s to 
+low 70s. 
+
+A cold front will approach the area on Sunday as high pressure 
+pushes farther offshore. This will lead to warm & humid air getting 
+advected in from SW flow. This, in combination with lift from the 
+front, should allow for isolated to spotty showers/thunderstorms to 
+develop Saturday afternoon & evening. For now, not overly optimistic 
+on POP coverage. However, 12Z guidance shows potential for warmer, 
+more unstable air in areas N&W of NYC with potential MUCAPE values 
+between 1,500-2,500 J/kg. This in combination with 25-35 kt 0-6 km 
+Bulk Shear, could potentially see isolated instances of strong to 
+damaging wind gusts. However, not all guidance is consistent 
+with higher shear values. CSU-MLP & CIPS Analog-Based probs 
+continue to indicate a possible marginal severe risk. One thing 
+that looks to be fighting against chances for severe weather is 
+poor mid-level lapse rates. Confidence, one way or the other, 
+should increase as the event falls within the timeframe of more 
+CAMs. 
+
+The front exits south Sunday night with a ridge gradually building 
+in from the west, leading to dry conditions.
+
+Highs on Sunday will be in the mid to upper 80s at the coast to the 
+low 90s for western interior locations and the NYC metro. Lows 
+Sunday night will be in the mid to upper 60s at the coast with 
+northern interior areas cooler, closer to 60.
+
+&&
+
+.LONG TERM /MONDAY THROUGH FRIDAY/...
+On Monday and through much of the first half of next week, the area 
+will be positioned between a longwave ridge over much of the country 
+with a trough over extreme southeastern Canada and the Canadian 
+Maritimes with general NW flow overhead.
+
+A high pressure system over Southeast Canada will slowly shift south 
+into the Northeast US. This will push a backdoor cold front with a 
+general NE surface flow by Monday morning. As the high pressure 
+continues to slowly build north of the area, a persistent NE flow 
+will keep temperatures cooler than average for much of the area 
+through at least the middle of next week. 
+
+A few weak disturbances in the flow may approach the area from the 
+west by Tuesday or Wednesday. This may result in the possibility of 
+some shower development, mainly for the western portions of the 
+area, on Tuesday and Wednesday. Temperatures will still be below 
+average with highs generally in the middle to upper 70s.
+
+Global models are in decent agreement that by midweek the trough 
+over the Canadian Maritimes deepens a bit which amplifies the 
+surface ridge and high pressure over the area. By this time, 
+Hurricane Erin should be steering northward over the Western 
+Atlantic. The trough is expected to pull Erin northward and 
+accelerate it northeast and out to sea. For forecasts and updates on 
+Hurricane Erin, monitor the National Hurricane Center.
+
+If high pressure remains in control through the end of the week, a 
+persistent easterly to northeasterly flow will continue for the end 
+of the week, providing for generally dry conditions with 
+temperatures remaining at or below average.
+
+&&
+
+.AVIATION /21Z FRIDAY THROUGH WEDNESDAY/...
+High pressure will build in from the north and east through the rest 
+of the TAF period.
+
+VFR conditions initially with NE-SE flow near 5-10 kt. Winds 
+diminish tonight to near 5 kts or less.
+
+Satellite imagery shows an area of stratus offshore that will move 
+back towards the area as winds begin to shift more onshore.
+Probabilities for MVFR conditions are increasing, primarily at KJFK, 
+KISP, KEWR, and KTEB. The greatest uncertainty exists at KLGA, where 
+winds may remain more ENE overnight and keep any stratus to the 
+south of the field.
+
+
+     NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+.OUTLOOK FOR 18Z SATURDAY THROUGH WEDNESDAY...
+
+Saturday: VFR. Isolated showers and thunderstorms late in the day 
+mainly over NYC terminals and KSWF. 
+
+Sunday: Mainly VFR. However, chance of MVFR or lower briefly with 
+chances of showers and possibly a thunderstorm afternoon into 
+evening. 
+
+Monday and Tuesday: VFR. 
+
+Wednesday: Chance of MVFR or lower briefly in showers.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Quiet cond expected through the weekend, with seas no higher than 1 
+ft on the protected waters and no higher than 2 ft on the ocean 
+until late day Sunday, when a southerly Ambrose jet may build seas 
+to 3 ft on the ocean waters.
+
+Wind gusts may approach near SCA conditions on the ocean Monday 
+under a NE flow with gusts approaching 25kt. Wave heights on the 
+ocean will be building as well with waves near 3-5 feet. By Tuesday, 
+increased swell from Erin is expected to raise wave heights to above 
+SCA conditions on the ocean through the remainder of the week, 
+possibly peaking at or above 10 feet by Thursday. Non-ocean zones 
+stay below SCA thresholds.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through the middle of next
+week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+A low rip current risk continues for the ocean beaches through
+Saturday. Onshore SE winds will be less than 10 kt on Saturday,
+with seas 2 ft at 8 sec generating surf no higher than 2 ft. A
+stronger S/SW wind on Sunday up to 10-15kt along with increased
+wave height toward afternoon will allow for a moderate risk of 
+rip currents.
+
+There is potential for dangerous surf and rip currents next 
+week, mainly from Tuesday onward, as building long period swells
+from Erin arrive. Minor coastal flooding and beach erosion may
+also become possible during this time.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...Air Quality Alert until 11 PM EDT this evening for NJZ002-004-
+     006-103>108.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...BR/MW
+NEAR TERM...BR
+SHORT TERM...BR
+LONG TERM...MW
+AVIATION...MD
+MARINE...BR/MW
+HYDROLOGY...BR/MW
+TIDES/COASTAL FLOODING...

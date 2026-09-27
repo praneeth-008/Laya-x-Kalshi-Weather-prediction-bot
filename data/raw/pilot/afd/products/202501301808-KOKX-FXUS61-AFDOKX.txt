@@ -1,0 +1,179 @@
+151 
+FXUS61 KOKX 301808
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+108 PM EST Thu Jan 30 2025
+
+.SYNOPSIS...
+High pressure drifts across the area today. A frontal system
+impacts the area Friday. High pressure builds in from Southeast
+Canada Saturday through early Sunday. Then, high pressure moves
+out into the Atlantic with a frontal system moving across the 
+area Sunday into Monday. High pressure will then return 
+thereafter into the middle of next week.
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+Forecast on track with just minor adjustments to reflect 
+current observations. Winds continue to decrease this afternoon 
+as high pressure ridges across the cwa. Expect a mostly sunny 
+afternoon. The NBM was used for temps.
+
+&&
+
+.SHORT TERM /6 PM THIS EVENING THROUGH FRIDAY NIGHT/...
+Upr low emerging from invof the 4 corners tracks across the
+country today and allows weak low pres to track along a nearly
+stationary boundary. The 00Z modeling suggests this boundary
+sets up in or near the cwa. Although warm air surging in aloft
+will preclude snow chances, the weak flow should allow the
+shallow cold air near the sfc to remain in place, gradually
+warming from the top down or due to proximity to the ocean thru
+the day on Fri. Only trace amounts of fzra are needed for an
+advy, so one has been issued for the nwrn portion of the cwa for
+Fri mrng. There is the chc it could be extended a bit further S,
+especially for interior NJ zones, if the next round of modeling
+produces higher confidence. This area of higher uncertainty was
+included in the hwo. Otherwise, periods of cold rain on Fri. 
+Derived temps from modeled dewpoints blended with the NAMNest. 
+This keeps things a bit colder than the NBM. Most likely spot 
+for a surge of warmer air is LI if the front sets up over or N 
+of the island. 
+
+The pcpn tapers off Fri ngt. Due to the position of the sys, 
+llvl cold air may drain back into the area, resulting in light 
+fzra/fzdz and sleet, perhaps ending as a very brief period of 
+light snow. Expect snow amounts to be insignificant attm, but 
+there could be enough cold air drainage for refreezing along
+with fzra/fzdz impacts, particularly across the interior. Most 
+of the pcpn Fri ngt looks to be light with the dry slot across 
+the cwa. Low temps Fri ngt close to the NBM with local
+adjustments.
+
+&&
+
+.LONG TERM /SATURDAY THROUGH WEDNESDAY/...
+Mid level quasi-zonal flow returns to the area with slight ridging 
+for this weekend. At the surface, an area of high pressure will 
+build into the area from Southeast Canada for Saturday into early 
+Sunday. Eventually this high pressure area shifts towards the Gulf 
+of Maine later Sunday and eventually out into the Atlantic for 
+Sunday night into Monday.
+
+The mid levels have a shortwave traversing the local area Sunday 
+night with otherwise the nearly-zonal flow continuing into the next 
+week. At the surface, a frontal system moves north of the area 
+Sunday night into early Monday. Its associated warm front moves 
+across Sunday night with the associated cold front to follow Monday 
+into Monday night. More precipitation is possible Sunday night, 
+wintry mix for interior area, mainly rain along the coast. Moisture 
+appears limited with this system and forcing will be displaced well 
+north of the area, so max POPs are mostly in the chance, near 40 
+to 50 percent Sunday night into early Monday.
+
+High pressure then returns heading into the middle of next week. 
+Another frontal system approaches for Wednesday afternoon through 
+Wednesday night. With wet bulb cooling, forecast has this system 
+potentially with some snow for the region. Kept POPS at chance for 
+snow.
+
+Forecast high temperatures are mostly near normal except for 
+Monday when temperatures are forecast to reach the upper 40s for 
+much of the region.
+
+&&
+
+.AVIATION /18Z THURSDAY THROUGH TUESDAY/...
+High pressure over the area drifts offshore late in the day and
+through tonight. Low pressure approaches from the west late
+tonight through Friday. A warm front nears the coast during
+Friday.
+
+VFR until early Friday morning, then conditions quickly lower to
+MVFR and then IFR and LIFR as precipitation begins. Mainly rain
+is expected, with a period of light freezing rain at KSWF early
+Friday morning. There is a low chance of a brief period of
+freezing rain at KTEB and KHPN at the beginning of
+precipitation, and with low chances and confidence did not
+include in the forecast.
+
+Northwest winds 10-15 kt may be occasionally gusty up to 20 kt 
+until 21Z/22Z. Winds then back to W and SW before becoming S
+early this evening. A south to southwest flow continues into 
+Friday morning. Friday morning winds becoming light and variable
+across the terminals.
+
+
+     NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No unscheduled amendments through late tonight. Amendments
+likely late tonight into Friday for timing of onset of
+precipitation, rain, and lowering conditions.
+
+
+.OUTLOOK FOR 18Z FRIDAY THROUGH TUESDAY...
+
+Friday afternoon - Friday night: IFR to LIFR with rain. A
+rain/snow mix possible as the precipitation ends late at night.
+Becoming MVFR to VFR toward Saturday morning across western
+terminals.
+
+Saturday: Becoming VFR in the morning.
+
+Sunday: VFR during the day, a chance of MVFR or lower 
+conditions at night, with a wintry mix, possibly becoming all
+rain along the coast.
+
+Monday - Tuesday: VFR. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Winds continue to diminish today. A SCA has been issued for all
+waters for today, although it is possible that the non-ocean 
+waters could end a bit early. Winds and seas come up late tngt 
+into Fri mrng as a frontal sys passes, so a SCA may be needed, 
+especially on the ocean for building seas. Winds diminish Fri 
+ngt, but seas look to remain aoa 5 ft on the ocean.
+
+Ocean seas start on small craft levels for Saturday through Saturday 
+night. The seas then are forecast to go below SCA levels for the 
+rest of the weekend and into early next week. SCA level wind gusts 
+forecast for the ocean Saturday. Then, wind gusts are forecast to 
+remain below SCA thresholds through the rest of the weekend, with 
+potential return of SCA wind gusts for early next week.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through the middle of next 
+week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Winter Weather Advisory from 4 AM to 10 AM EST Friday for 
+     CTZ005-006.
+NY...Winter Weather Advisory from 4 AM to 10 AM EST Friday for 
+     NYZ067>070.
+NJ...None.
+MARINE...Small Craft Advisory until 6 PM EST this evening for ANZ331-
+     332-335-338-340-345-350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JMC/JM
+NEAR TERM...BC
+SHORT TERM...JMC
+LONG TERM...JM
+AVIATION...MET
+MARINE...JMC/JM
+HYDROLOGY...JMC/JM

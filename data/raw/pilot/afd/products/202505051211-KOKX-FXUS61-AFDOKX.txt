@@ -1,0 +1,216 @@
+066 
+FXUS61 KOKX 051211
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+811 AM EDT Mon May 5 2025
+
+.SYNOPSIS...
+A stalled frontal boundary remains within the area through Tuesday. 
+The front regains movement to the north Tuesday night. The 
+system will then pass through on Wednesday. A cold front will 
+approach from the northwest on Thursday and stall nearby 
+Thursday night as low pressure develops along it over the Mid 
+Atlantic region. The low will then pass slowly south of Long 
+Island on Friday and east of New England next weekend. Another 
+cold front may approach from the northwest on Sunday.
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+Forecast adjusted with POPs, still mostly across Eastern Long
+Island and SE Connecticut with the rain. Expecting this rain to
+expand back west late this morning into the afternoon.
+
+Mid and upper level cutoff low continue to slowly approach from the 
+west. At the surface, a frontal boundary settles within the area, 
+stalling out.
+
+Through today, rain is expected to increase in coverage and 
+intensity. CAMs depict increases in reflectivity in various sized 
+areas over different parts of the region.
+
+Low level forcing increases today, allowing for greater convergence 
+and lift. Some easterly wind gusts near 20 to 25 mph are forecast. 
+Instability lowers today with some cooling in lower levels. However, 
+PWATs still near 1.5 inches.
+
+Minor flooding will become more probable with the training of cells 
+as parallel low is present from lower to upper levels. Flash 
+flooding still just a slight chance or isolated in coverage.
+
+Max temperatures a blend of CONSraw and NBM but limited to no 
+more than 63 degrees Fahrenheit.
+
+&&
+
+.SHORT TERM /6 PM THIS EVENING THROUGH TUESDAY NIGHT/...
+Mid and upper level cutoff low continue to approach from the west 
+tonight through Tuesday night. 
+
+Low level winds eventually become more southeast tonight into
+Tuesday. East to southeast winds relatively higher across Long 
+Island and Southern CT tonight. Low level winds maxima shift 
+farther east of the region Tuesday into Tuesday night.
+
+Upper level southerly winds increase tonight into Tuesday. For 
+this time period, the upper level jet streak right rear quadrant
+approaches, eventually moving into western parts of the region.
+Vertical synoptic lift increases as a result of increasing upper
+level divergence.
+
+Elevated instability as shown by model near zero values of Showalter 
+Indices develops across the region late tonight into Tuesday.
+
+Rain continues tonight across the region and with a higher chance of 
+heavy rain as well which some CAMs are indicating with their max 
+reflectivity values. Slight chance of thunderstorms tonight as well.
+
+Tuesday, expecting more shower like nature to the rainfall. For
+western areas, some increase in surface CAPE forecast so a 
+chance of thunderstorms with otherwise slight chance of 
+thunderstorms. Rain showers widespread during the day with 
+decreasing coverage at night. Still minor flooding possible with
+a marginal risk for flash flooding.
+
+Temperatures forecast a little warmer Tuesday using NBM and CONSraw 
+blend, getting more into the mid 60s for western areas, lower 60s 
+for eastern areas. Not much diurnal cooling of temperatures Tuesday 
+night with lows just in the 50s.
+
+&&
+
+.LONG TERM /WEDNESDAY THROUGH SUNDAY/...
+An upper low and its weak sfc reflection will pass across on Wed. 
+Cold pool aloft plus daytime heating should generate enough 
+instability for afternoon showers/tstms especially north/west of NYC 
+(likely PoP there). Winds aloft will be weak due to the ULL passing 
+across so severe potential looks nil attm. 
+
+After this system passes through, a nrn stream trough digging S 
+through the Great Lakes will close off over or near the OH Valley 
+Thu night into Friday. This will send a sfc cold front toward the 
+area on Thu, then as the low closes off sfc cyclogenesis should take 
+place over the Mid Atlantic region, with the low passing slowly 
+south and east Fri into Sat. Have only slight chance PoP for showers 
+with the cold front, then higher chance PoP with the low development 
+throughout Thu night-Fri, and for Long Island/S CT Fri night. As the 
+low pulls away this weekend, have only slight chance PoP for Sat, 
+and mainly dry for Sunday, though it is possible another cold front 
+may approach from the NW as another northern stream upper trough 
+moves across S Canada. 
+
+Temps should be a little above normal through most of the period, 
+except cooler on Fri due to clouds/higher PoP with the low passing 
+to the south.
+
+&&
+
+.AVIATION /12Z MONDAY THROUGH FRIDAY/...
+Frontal boundary remains stalled within the region through the
+TAF period.
+
+Low clouds and occasional fog expected. Periods of rain through
+the TAF period. Mainly IFR to LIFR forecast. 
+
+Some coastal terminals could get to upper end of IFR with
+increasing winds and gusts this afternoon into early evening.
+Visibilities could get to MVFR at times but otherwise mainly IFR
+expected.
+
+Winds are easterly near 10 kt much of the TAF period. Some sites
+will increase to near 15 kt with gusts near 20 kt this afternoon
+into this evening. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Categories could fluctuate between LIFR and IFR through the TAF
+period. 
+
+.OUTLOOK FOR 09Z TUESDAY THROUGH FRIDAY...
+
+Tuesday: Rain/showers and IFR. Possible thunderstorms, mainly 
+afternoon/evening. SE gusts 15-20kt mainly during the day. 
+
+Wednesday: Chance of MVFR or lower with showers likely and a chance
+of thunderstorms.
+
+Thursday: MVFR possible with a chance of showers, mainly at
+night.
+
+Friday: MVFR possible with a chance of showers. A slight chance
+of thunderstorms.
+
+Detailed information, including hourly TAF wind component 
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Conditions start out below SCA. Winds are expected to pick up this 
+afternoon into tonight with southeasterly wind gusts near 20 kt. An 
+occasional 25 kt gust will be possible. Non-ocean waters remain 
+below SCA thresholds through Tuesday night. However, ocean seas are 
+expected to build to 5 ft starting after 2PM this afternoon and 
+continuing through the day Tuesday. Hoisted a SCA for the ocean 
+zones to cover this, which will be mainly due to seas. Fire Island 
+Inlet to Montauk start at 2PM this afternoon and west of Fire Island 
+Inlet starts at 6PM this evening. Both SCA segments end at 6PM 
+Tuesday. The higher ocean SCA seas could very well linger through 
+Tuesday night.
+
+Residual 5-ft seas should linger on the outer ocean waters E of Fire 
+Island Inlet into Wed and E of Moriches Inlet Wed night. Otherwise 
+sub advisory criteria expected longer term from Wed through Fri 
+night, but with long period 4-ft swells persisting on the ocean and 
+corresponding rougher conditions at the ocean inlets.
+
+&&
+
+.HYDROLOGY...
+A little less than 48 hour storm total QPF going until 2AM Wednesday 
+has mostly near 2 to 3.5 inches of rain across the region. 
+Locally higher amounts will be possible.
+
+Hourly rainfall rates at times could reach near 1 inch per hour. 
+HREF indicates max 3 hr QPF that for small areas within the region 
+reach near 2 inches. 
+
+With overall rainfall amounts increased from prior forecast and a 
+relatively shorter time window for this storm total, the probability 
+for flooding has increased through early Tuesday morning. Still 
+think this will be primarily minor flooding. Still think minor 
+flooding would be most common type of flooding especially for
+low lying, poor drainage and urban areas. However, there will 
+be a slight chance of flash flooding, near 15 to 20 percent. In 
+terms of areal coverage of flash flooding, this still equates to
+isolated.
+
+Marginal risk for flash flooding with otherwise minor flooding 
+possible Tuesday latter half of morning through Tuesday evening.
+
+No hydrological impacts expected mid to late week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory from 2 PM this afternoon to 6 PM EDT 
+     Tuesday for ANZ350-353.
+     Small Craft Advisory from 6 PM this evening to 6 PM EDT 
+     Tuesday for ANZ355.
+
+&&
+
+$$
+
+SYNOPSIS...BG/JM
+NEAR TERM...JM
+SHORT TERM...JM
+LONG TERM...BG
+AVIATION...JM
+MARINE...BG/JM
+HYDROLOGY...BG/JM

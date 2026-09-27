@@ -1,0 +1,193 @@
+455 
+FXUS61 KOKX 042028
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+428 PM EDT Sun May 4 2025
+
+.SYNOPSIS...
+A frontal boundary across the Lower Hudson Valley into central 
+New England will settle south tonight to near the coast as high 
+pressure builds southeast out of eastern Canada. At the same
+time, low pressure will be cutoff over the Tennessee and Ohio 
+Valleys. The system will then pass through on Wednesday. Another
+upper level disturbance may impact the area late in the week. 
+High pressure west of the region will then attempt to build 
+into the weekend.
+
+&&
+
+.NEAR TERM /THROUGH MONDAY/...
+A cutoff upper level low will meander across the Tennessee and 
+Ohio Valleys through Tuesday, while upper level ridging builds 
+across eastern Canada. This keeps the area in close proximity 
+to a frontal zone with a deep-layered southerly flow aloft. To 
+the east of the upper low, a warm conveyor belt will send 
+showers and embedded thunderstorms north off the ocean and into
+the area. In addition, SE to E winds will enhance orographic 
+lift across CT, in particular areas of western CT.The latter of 
+which though remains uncertain as timing and location of the 
+bands may change in coming days. These look to be narrow corridors
+of moderate to heavy showers with a slight chance of thunderstorms.
+There is no deep convection with marginal instability and PWAT 
+values of 1.25 to 1.50". Upper air soundings are generally moist
+adiabatic with deep-layered lift. SPC HREF shows very low
+probabilities of >1"/hour and >3"/3 hours. FFG values are 
+around 2 inches/1-hour and 3 inches/3-hour. These are unlikely
+to be achieved. Also, river and stream flow is low. Thus, dry 
+antecedent conditions and lack of deep convection should limit 
+any flooding to primarily minor nuisance. However, CAMs do show
+bullseyes across the area with some of the convection, so isolated
+flash flooding is a possibility. WPC has the area under a marginal
+risk the next couple of days. This rain will not be constant as
+the bands reorganize and setup over different locations. 
+
+Greatest uncertainty with this forecast is not whether there
+will be bands of moderate to heavy rain, but rather the
+location. The initial thought is much of the lift will be
+collocated with the LLJ which shifts east tonight and then back
+to the west on Monday. This is likely do to the building high 
+out of southeast Canada forcing the gradient to vary across the 
+area. The activity over western areas this evening is forecast 
+to gradually translate east overnight and then back to western 
+portions on Monday. 
+
+It will remain mild with the cloud cover and onshore flow with
+lows in the mid 50s to around 60. Blended in CONSALL with NBM to
+get values a bit cooler with the rain on Monday with highs in
+the lower to mid 60s.
+
+&&
+
+.SHORT TERM /MONDAY NIGHT THROUGH TUESDAY NIGHT/...
+Much of the area will continue to see showers/isolated thunderstorms
+into Tuesday. Once again, there is some uncertainty with the location
+of the LLJ and the heavier bands. Rainfall amounts will likely
+need adjustments through in subsequent forecasts. The upper low
+will begin to edge eastward along with the deeper moisture and
+lift.
+
+Much of the area is expected to see 2 to 3 inches of rain through
+the entirety of the event. The upper end of the amounts are
+currently forecast to be across western LI and into SW CT. This
+of course may vary due to the aforementioned uncertainty.
+
+Lows Tuesday night will remain above normal in the mid and upper
+50s. However, highs due to the cloud cover will be closer to
+normal in the 60s. 
+
+&&
+
+.LONG TERM /WEDNESDAY THROUGH SUNDAY/...
+Overall improving conditions to begin the period as any organized or 
+prolonged precipitation comes to an end. However, with an upper 
+level low still lingering into Wednesday, look for diurnally driven 
+pop-up showers and possibly a few isolated thunderstorms mainly 
+during the afternoon and early evening hours on most days throughout 
+the work week. The first upper level low pulls away late Wed / Wed 
+night, but to only be followed by another upper level disturbance 
+later Thursday and possibly into a good portion of Friday. Global 
+NWP guidance indicates more uncertainty with the 2nd upper level low 
+/ disturbance late in the week. Some of the global guidance 
+eventually kicks the upper level disturbance away into the weekend. 
+However, some guidance suggest that the system gets completely 
+closed off, and possibly cut off from the westerlies. The second 
+solution appears to be less likely at this time, but cannot be 
+discounted. Have chosen to keep next weekend dry, but this could 
+change if the 2nd solution emerges more in subsequent NWP cycles.
+
+Temperatures will average near normal Tuesday night through late 
+Thursday. Temperatures then may fall a bit below normal into Friday, 
+before likely recovering to normal or slightly above seasonable 
+levels into the weekend.
+
+&&
+
+.AVIATION /19Z SUNDAY THROUGH FRIDAY/...
+Frontal boundary remains stationary across the region tonight.
+As a result showers will continue to develop and gradually make
+their way farther east within the region through tonight.
+
+MVFR conditions persist through this evening with the chance of
+rain showers. Higher chance of IFR and localized LIFR conditions
+expected tonight and into Monday.
+
+Southerly winds become more easterly tonight. Wind speeds vary 
+from near 5 kts to near 15 kts. Some gusts can be expected 
+between 20-25 kt at times although this is not expected to be 
+widespread. Wind speeds tonight lower to less than 10 kts, then
+increase again Monday. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Amendments likely to refine timing of showers and thunderstorms.
+
+.OUTLOOK FOR 18Z MONDAY THROUGH FRIDAY...
+
+Monday: Showers likely with MVFR or lower expected. A chance of
+tstms mainly at night. E winds G15-20kt. 
+
+Tuesday: Showers with MVFR or lower expected. A chance of  
+thunderstorms. SE winds G15-20kt day into early eve possible.
+
+Wednesday: Chance of MVFR or lower with a slight chance of 
+showers/thunderstorms.
+
+Thursday: VFR.
+
+Friday: VFR with slight chance of showers.
+
+Detailed information, including hourly TAF wind component 
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Expecting all waters to remain below SCA through Monday 
+morning. Marginal SCA conditions are possible on the ocean 
+waters Monday into Tuesday with E/SE winds and seas building 
+close to 5 ft. NWPS guidance was used based on forecast winds.
+However, NBM and Wavewatch were around 5 ft. Stayed with the
+lower guidance at this time.
+
+Ocean seas gradually subside below small craft criteria Tuesday 
+night with as ocean seas settle in at around 4 ft through Thursday. 
+Marginal small craft conditions are possible towards later Thursday 
+night, especially out on the ocean as the winds become more 
+northerly.
+
+&&
+
+.HYDROLOGY...
+Total rainfall forecast through Tuesday evening is 1.5 to 3.5 
+inches. Locally higher amounts will be possible. There is a  
+marginal risk for excessive rainfall (localized flash flooding).
+This will be a long duration event and current thinking is that
+any flooding will be more of the minor nuisance variety. See 
+the Near Term section above for more details on reasoning. 
+
+Predominantly dry conditions return with mainly diurnally driven 
+widely scattered shower / thundershower activity towards mid and 
+late week. Thus there are no hydrologic concerns for the mid and 
+late week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JE/DW
+NEAR TERM...DW
+SHORT TERM...DW
+LONG TERM...JE
+AVIATION...20
+MARINE...JE/DW
+HYDROLOGY...JE/DW

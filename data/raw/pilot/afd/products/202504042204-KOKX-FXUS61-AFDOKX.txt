@@ -1,0 +1,190 @@
+371 
+FXUS61 KOKX 042204
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+604 PM EDT Fri Apr 4 2025
+
+.SYNOPSIS...
+High pressure passes overhead tonight. A warm front approaches the 
+area on Saturday and may lift to the north Saturday night. A cold
+front pushes through Sunday, followed by weak low pressure 
+tracking offshore on Monday into Monday night. A secondary cold 
+front pivots through late Monday night into early Tuesday. High 
+pressure builds for mid week before pushing offshore Thursday. A
+frontal system may approach late on Friday.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM SATURDAY MORNING/...
+No significant adjustments made with this latest update as the 
+forecast remains on track. Only made a slight adjustment with 
+more cloud cover further north through this evening based on 
+latest obs / satellite trends.
+
+Heights rise aloft slightly tonight as ridging builds into the area. 
+A very strong ~190kt anticyclonically curved upper level jet streak 
+will build well north of the area in southeastern Canada. At the 
+surface, the cold front that passed through this morning will stall 
+offshore. High pressure centered to our north will move through
+and offshore tonight.
+
+With a northwesterly flow, some drier air is filtering into the 
+area. Clouds continue to gradually thin and clear from north to 
+south. The clearing will not last too long as mid and upper level 
+clouds increase around midnight with a wave of low pressure 
+approaching from the south west. So even though winds will be light 
+tonight, the cloud cover will not allow for efficient radiational 
+cooling. The winds also turn easterly as the high shifts offshore, 
+which will start to bring in an increase in low level moisture. 
+Stuck with NBM for low temperatures which gave 40s everywhere.
+
+With some lift ahead of the approaching wave and associated warm 
+front, some light rain will be possible, mainly for NYC north 
+and west after midnight.
+
+&&
+
+.SHORT TERM /6 AM SATURDAY MORNING THROUGH SATURDAY NIGHT/...
+The warm front continues its approach on Saturday and may lift north 
+of the area Saturday night. There is some uncertainty across the 
+latest guidance on whether it will lift completely through or stall 
+somewhere over the area. Regardless, with the front at least nearby, 
+wet conditions are expected. There is also some disagreement
+across the CAMs on exact timing of rain. The HRRR is the
+fastest, bringing widespread rain in after 8AM. If this
+verifies, the current forecast may be a few hours too slow. Much
+of the rain will be light to locally moderate. However, 
+Saturday night elevated instability increases and may allow for 
+some heavier showers and thunder. No severe weather is expected.
+
+Highs will be cooler than the normals for early April on
+Saturday. Highs may just break 50 across LI, NYC and northeast 
+NJ, but likely stay in the 40s up in the Lower Hudson Valley and
+southern CT. Lows Saturday night will actually run a bit warmer
+than normal, in the 40s.
+
+&&
+
+.LONG TERM /SUNDAY THROUGH FRIDAY/...
+The period begins with an amplified ridge in the west and a 
+developing eastern CONUS trough as the ridge in SW Atlantic migrates 
+east. A cold front slowly pushes in from the west and moves across 
+on Sunday. This will yield high end chance and lower end likely PoPs 
+for much of the CWA during the day Sunday. PoPs then increase 
+further Sunday night as some strung out PVA is progged just 
+downstream by NWP on a SW flow aloft. This should develop a wave or 
+waves of low pressure along the boundary late Sunday into Sunday 
+night / early Monday. Uncertainty remains slightly above average 
+with respect to how far to the south and east the cold front slows 
+down and possibly stalls late Sunday into early Monday. For now have 
+taken a middle of the road approach and followed consensus PoPs, 
+thus stuck very close to the NBM in this regard. Any low pressure 
+that develops gets east of the area later Monday into Monday night. 
+Thus, any likely PoPs move offshore Monday afternoon into Monday 
+evening. A secondary boundary, a cold / occluded type boundary 
+approaches into Tuesday morning. It won't be until we get behind 
+this boundary that a large portion of the column dries out. Look for 
+strong cold air advection to follow with a W to NW flow as a cP air 
+mass out of Southern Canada builds. This will result in
+temperatures not getting out of the 40s during the day Tuesday 
+with variable cloudiness with a cold pool aloft and likely 
+strat-cu cloud deck at times. 850 mb temps are progged to get 
+down to -10 to -12C with 1000- 500mb thickness in the lower 520s
+by Wed AM. Wed AM wind chills are likely to get down into the 
+upper teens to lower 20s across a good portion of the area, with
+actual air temperatures mainly around or below freezing. With 
+high pressure in control look for dry conditions for the mid 
+week. The high will begin to push offshore sometime on Thursday 
+with a return flow out of the south developing. Temperatures 
+begin to moderate on Thursday, with coastal areas remaining 
+rather chilly with a wind off the ocean during the afternoon 
+hours which will likely drop temperatures back into the 40s. 
+Towards Friday low pressure out of the Ohio Valley and its 
+attendant frontal system will start to draw closer. Any 
+precipitation though will likely hold off until either late in 
+the day or at night based on the latest NWP consensus.
+
+&&
+
+.AVIATION /22Z FRIDAY THROUGH WEDNESDAY/...
+A cold front will settle over the Mid Atlantic states by early 
+this evening before lifting back to the north late tonight into
+Saturday. At the same time, high pressure will build in from NW,
+passing to the north and east tonight.
+
+VFR through tonight. Overrunning rain will begin to work into 
+the area Saturday morning, mainly after 12Z. Ceilings and
+visibilities will gradually lower through the afternoon, with
+IFR/LIFR conditions expected. 
+
+NW winds around 10 kt with occasional gusts to 15-20kt will 
+quickly drop off early this evening. Winds will then veer to the
+N this evening, NE overnight, becoming ESE toward 12Z Saturday,
+increasing to 10-15kt G20kt. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No unscheduled amendments expected. Occasional gusts 15-20kt
+early.
+
+.OUTLOOK FOR 18Z SATURDAY THROUGH WEDNESDAY...
+
+Saturday Afternoon/Night: Rain and/or drizzle likely with 
+IFR/LIFR conditions. Isolated thunderstorm possible at night. 
+SE winds G15-20kt in the afternoon.
+
+Sunday: Becoming MVFR with a chance of showers, then MVFR/IFR in
+rain Sunday night. 
+
+Monday: Rain, mainly early, with MVFR conditions, IFR possible.
+
+Tuesday: VFR. A slight chance of showers. NW winds 15kt,
+G25-30kt.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Sub SCA conditions expected tonight with high pressure passing
+overhead. An easterly flow picks up on Saturday and conditions
+may reach marginal SCA criteria on the ocean waters. For now, no
+headline is in effect. Winds lower again on Saturday night.
+
+Mainly sub advisory conditions prevail on the coastal waters, with 
+perhaps the eastern ocean waters being an exception with seas around 
+5 ft at times Sunday through Monday night.
+
+Behind a secondary cold front Tuesday look for small craft 
+conditions to develop on all the waters with a W to NW wind 
+increasing. A brief period of marginal gales is possible late in the 
+day Tuesday into the first half of Tuesday night. Sub advisory 
+conditions return by Wednesday.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JE/JT
+NEAR TERM...JE/JT
+SHORT TERM...JT
+LONG TERM...JE
+AVIATION...DW
+MARINE...JE/JT
+HYDROLOGY...JE/JT

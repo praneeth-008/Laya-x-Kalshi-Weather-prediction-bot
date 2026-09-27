@@ -1,0 +1,100 @@
+{
+  "pilot_start_date": "2025-01-01",
+  "pilot_end_date": "2025-08-24",
+  "n_pilot_days": 236,
+  "total_requests": 0,
+  "total_bytes_downloaded": 0,
+  "station_manifest": [
+    {
+      "station_id": "725053-94728",
+      "icao": "KNYC",
+      "total_rows_in_pilot_window": 7657,
+      "real_observation_rows": 7413,
+      "status": "DONE"
+    },
+    {
+      "station_id": "725030-14732",
+      "icao": "KLGA",
+      "total_rows_in_pilot_window": 8756,
+      "real_observation_rows": 8512,
+      "status": "DONE"
+    },
+    {
+      "station_id": "744860-94789",
+      "icao": "KJFK",
+      "total_rows_in_pilot_window": 8659,
+      "real_observation_rows": 8415,
+      "status": "DONE"
+    },
+    {
+      "station_id": "725020-14734",
+      "icao": "KEWR",
+      "total_rows_in_pilot_window": 8533,
+      "real_observation_rows": 8292,
+      "status": "DONE"
+    }
+  ],
+  "station_coordinate_consistency": {
+    "725053-94728": {
+      "distinct_lat_lon_pairs": [
+        {
+          "station_lat": 40.779,
+          "station_lon": -73.969
+        }
+      ]
+    },
+    "725030-14732": {
+      "distinct_lat_lon_pairs": [
+        {
+          "station_lat": 40.779,
+          "station_lon": -73.88
+        }
+      ]
+    },
+    "744860-94789": {
+      "distinct_lat_lon_pairs": [
+        {
+          "station_lat": 40.639,
+          "station_lon": -73.764
+        }
+      ]
+    },
+    "725020-14734": {
+      "distinct_lat_lon_pairs": [
+        {
+          "station_lat": 40.683,
+          "station_lon": -74.169
+        }
+      ]
+    }
+  },
+  "knyc_flagged_days_count": 2,
+  "knyc_flagged_days": [
+    {
+      "station_id": "725053-94728",
+      "date": "2025-02-13",
+      "observation_count": 45,
+      "temperature_observation_count": 45,
+      "first_timestamp": "2025-02-13 00:51:00+00:00",
+      "last_timestamp": "2025-02-13 23:51:00+00:00",
+      "max_temperature_f": 46.04,
+      "time_of_max": "2025-02-13 21:51:00+00:00",
+      "largest_gap_minutes": 60.0,
+      "flag": "DUPLICATES(1)"
+    },
+    {
+      "station_id": "725053-94728",
+      "date": "2025-02-21",
+      "observation_count": 22,
+      "temperature_observation_count": 22,
+      "first_timestamp": "2025-02-21 00:39:00+00:00",
+      "last_timestamp": "2025-02-21 22:23:00+00:00",
+      "max_temperature_f": 32.0,
+      "time_of_max": "2025-02-21 17:53:00+00:00",
+      "largest_gap_minutes": 270.0,
+      "flag": "LARGE_GAP"
+    }
+  ],
+  "kewr_flagged_days_count": 4,
+  "status": "WARNING"
+}

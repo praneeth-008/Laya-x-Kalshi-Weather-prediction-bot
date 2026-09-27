@@ -1,0 +1,207 @@
+787 
+FXUS61 KOKX 291519
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1119 AM EDT Sun Jun 29 2025
+
+.SYNOPSIS...
+High pressure will be in control today and weaken on Monday. A warm 
+front then approaches Monday night and lifts through the region 
+during Tuesday. This will be followed by a cold front Tuesday
+night. Weak high pressure will be in control mid week. A cold front 
+approaches and moves through late Thursday, followed by high pressure
+returning Friday into Saturday.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+High pressure builds in behind a departing cold front today, but the 
+front stalls close to the area before resuming a southward track
+this evening. It should be a partly to mostly sunny day anyway,
+probably filtered by some cirrus. Mostly clear and dry 
+conditions then continue tonight. 
+
+850mb temps progged at 17-18C along with a westerly flow should 
+allow for low 90s in parts of NYC and the urban corridor of NE NJ 
+and 85-90 for most other locations. Heat index values will however 
+be fairly close to ambient temperatures as dewpoints through the top 
+of the boundary layer are low enough for surface dewpoints to mix 
+out fairly easily during the afternoon. Low temperatures tonight 3-5 
+degrees above normal.
+
+&&
+
+.SHORT TERM /MONDAY THROUGH TUESDAY NIGHT/...
+We'll still be largely under the influence of high pressure during 
+Monday, but a shower or thunderstorm may sneak into NE NJ or the 
+city very late in the day. NBM looked good for the most part 
+regarding high temperatures for Monday, but a few minor local 
+adjustments were made. Models show dewpoints through the boundary 
+layer still low enough for surface dewpoints to mix out up until 
+winds shift onshore and boundary layer dewpoints rise in the 
+afternoon. Advisory thresholds for heat are however not expected to 
+be reached.
+
+A warm front approaches Monday night and probably remains to our 
+south through the night. Isentropic and mid-level shortwave lift 
+pass through and interact with deepening moisture, increasing the 
+chances of showers as the night progresses. There's enough CAPE 
+progged to keep in the mention of a thunderstorm.
+
+The warm front then lifts through the forecast area during Tuesday 
+with the help of a low level jet, maintaining chances of a shower or 
+thunderstorm. A prefrontal trough then quickly follows it from the 
+west, followed by a cold front Tuesday night. Showers with some 
+thunderstorms are anticipated with the higher chances being during 
+the afternoon. Shear profiles are sufficient for strong to severe 
+thunderstorms, and there should be enough CAPE, but just how much 
+CAPE is a greater uncertainty as there could be plenty of cloud 
+cover for much of the day. So far it appears that the main threat as 
+usual will be winds, but there's plenty of CAPE progged in the -10C 
+to -30C layer with some veering from the low to mid levels, so 
+cannot rule a threat of large hail. SPC has the entire area within a 
+marginal risk (5% chance) for severe weather.
+
+Regarding the flooding potential on Tuesday, PWATS are modeled at 
+around 2.25 inches, which is 2-3 standard deviations above normal. 
+This would however be mitigated by the forward motion of cells with 
+the steering flow projected at 30-40kt. There are still indications 
+however that 850-500mb winds would be parallel to the horizontal 
+orientation of the greatest low-mid level moisture convergence, 
+increasing the chances of back-building and some training. Therefore 
+cannot rule out the threat of flash flooding. WPC currently has most 
+of the forecast area within a marginal threat (5% chance) of 
+excessive rainfall. Shower and thunderstorm chances then diminish 
+Tuesday night, probably exiting east by morning, as the cold front 
+moves through.
+
+Went with NBM for high temperatures and dewpoints on Tuesday, but 
+temps could be a little too high if it remains mostly cloudy for 
+much of the day. Dewpoints will probably be in the lower to middle 
+70s with a SW flow and moisture pooling near the surface trough. 
+Heat indices could reach 1-day advisory thresholds for some spots 
+if NBM temps and dewpoints are realized.
+
+&&
+
+.LONG TERM /WEDNESDAY THROUGH SATURDAY/...
+Key messages:
+
+* Seasonably warm and humid Wednesday and Thursday
+
+* Less humid for the 4th of July
+
+Look for the typical summer air mass to be in place mid week. A cold 
+front is expected to approach Thursday and swing through Thursday 
+night. The front is expected to bring the chance of showers and 
+possibly some thunderstorms to the region. There remains some 
+uncertainty to the orientation and positioning of upper level energy 
+north of the region. This will ultimately determine how widespread 
+any shower and thunderstorm activity gets late Thursday.
+
+Regardless of how unsettled the weather gets late Thursday, it 
+appears that this cold front will serve to lower humidity levels late 
+in the week for the 4th of July holiday. Into next weekend the 
+global NWP guidance is suggestive of mid and upper level height 
+rises and is suggestive of slightly warmer temperatures for the end 
+of the period. Overall utilized the NBM guidance with only slight 
+adjustments overall with PoP late Thursday and towards the tail end 
+of the period into next weekend.
+
+&&
+
+.AVIATION /15Z SUNDAY THROUGH THURSDAY/...
+A weak front and/or surface trough will remain across the coastal
+terminals this afternoon. Weak high pressure will then build in
+from the NW tonight into Monday.
+
+VFR prevails. 
+
+The CT terminals, KJFK, and KISP will do battle this afternoon 
+as the seabreeze attempts to work in against a W-WNW flow. Have
+delayed the onset and have also gone more with of a hybrid from
+the SW. KJFK may for time may go more southerly. Elsewhere, 
+winds will be WNW around 10 kt with a few gusts possible at 
+15-18kt.
+
+The winds then lighten into this evening and veer around to the
+N/NE at less than 5 kt. In some cases, winds will just go light
+and variable.  
+
+     NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Timing of seabreeze at KJFK will be a challenge this afternoon 
+and may go back and forth for a time.
+
+There is low chance for the seabreeze to impact KLGA toward 23Z. 
+
+.OUTLOOK FOR 12Z MONDAY THROUGH THURSDAY... 
+
+Monday: VFR during the day. A chance of showers and thunderstorms at 
+night. MVFR or lower possible at night.
+
+Tuesday: Showers with a chance of thunderstorms with MVFR or lower 
+possible, especially afternoon and evening. SW wind gusts 15-20 kt 
+day into early eve.
+
+Wednesday: VFR.
+
+Thursday: Mainly VFR, but MVFR possible afternoon into early eve 
+with showers and thunderstorms possible.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Sub-SCA conditions are expected through early Tuesday. Winds 
+and seas then increase ahead of a cold front, which is expected 
+to pass through during Tuesday night. SCA conditions are 
+probable on the ocean Tuesday afternoon and night.
+
+Sub advisory conditions return Wednesday into Wednesday night with 
+mainly 3 to 4 ft ocean seas. Despite a cold front moving through 
+late Thursday sub advisory conditions are expected to remain in 
+place with the winds switching to the NW behind the front Thursday 
+night into Friday morning.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts are anticipated through Monday. A half 
+inch to inch of rain is currently forecast for Tuesday into 
+Tuesday night. Locally higher amounts are possible, and there is
+at least a low chance for flash flooding to occur. Minor poor 
+drainage flooding would be more likely. There are no significant
+hydrologic concerns at this time from Wednesday through late 
+week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+There is a moderate risk of rip current development across the
+ocean beaches today and Monday.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JC/JE
+NEAR TERM...JC
+SHORT TERM...JC
+LONG TERM...JE
+AVIATION...JE/DW
+MARINE...JC/JE
+HYDROLOGY...JC/JE
+TIDES/COASTAL FLOODING...

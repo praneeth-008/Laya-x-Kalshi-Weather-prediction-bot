@@ -1,0 +1,228 @@
+933 
+FXUS61 KOKX 090722
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+322 AM EDT Fri May 9 2025
+
+.SYNOPSIS...
+A frontal system and associated low will slowly track across the 
+area today. A weak cold front will cross the region Saturday night, 
+with high pressure building in for early next week. Another low 
+pressure system approaches for the middle of next week.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Key Messages:
+
+ * A slow-moving low pressure system will bring soaking rainfall to 
+   the area today into early tonight.
+
+ * 1-2" total additional rainfall expected through tonight. Isolated 
+   higher totals possible.
+
+ * A Flood Watch is in effect for Bergen, Passaic, Lower Hudson 
+   Valley, southern Connecticut, and Long Island.
+
+An upper-level low will drop towards the area this morning from the 
+Great Lakes region as a low at the surface approaches from the 
+southwest this morning. 
+
+This will lead to increasing precipitation across the region, 
+overspreading west to east. Some of the more persistent rain with 
+higher rain totals this morning into early afternoon is expected to 
+be along the northern tier of the low approaching from our 
+southwest, leading to more soaking rain in areas north and 
+northwest of NYC. 
+
+By late afternoon, the low is expected to near or over NYC. This 
+will lead to most rain tapering at this time over NE NJ and NYC with 
+mainly isolated to spotty showers left over. More light showers
+may continue at this time north of the low, north of NYC. 
+
+As the low positions itself over NYC this afternoon, a strong 30-40 
+kt LLJ will develop on the east side of the low, fueling strong warm 
+air advection and frontogenesis. This will lead to banded heavier 
+rainfall on the eastern side of the low with some elevated 
+thunderstorms into the early evening. Unfortunately, the location of 
+this band varies among the 00Z HREF CAMS, MPAS and RRFS due to 
+slightly different positions of the low. The consensus seems to be a 
+heavier band of rainfall may set up across Suffolk county and extend 
+into SE CT late afternoon to early evening. While most guidance
+agrees setting this up in Suffolk county and SE CT, some still 
+bring this band a little farther west into Nassau and parts of 
+New Haven or eastern Fairfield counties. It seems as the low 
+spins over NYC, east of the low, this band may move slower for a
+2-4 hour period before it begins to quicken its exit, 
+progressing faster to the east as the low eventually moves north
+and east of NYC later in the evening. This happens when the
+surface low essentially gets captured and becomes stacked with 
+the upper low. 
+
+Overall, expected rainfall this morning into tonight will be an 
+additional 1-2 inches on top of what we have already seen. Highest 
+totals are expected to be on Long Island, S CT and northern portions 
+of the Lower Hudson Valley. Some isolated higher totals of 3-4" is 
+not out of the realm of possibility. Rainfall rates mainly look to 
+range 0.5"/hr to 1.0"/hr this afternoon and evening. However, peak 
+rates in some stronger banded rainfall or convection east of the low 
+this afternoon and evening could be between 1.5-2"/hr in isolated 
+spots. The 00Z HREF 40-km neighborhood probabilities of rain rates 
+greater than 1"/hr peak at 70% across most of Nassau and Suffolk 
+county, while 10-km neighborhood probabilities peak around 50-60% 
+mainly for Suffolk county. 
+
+A Flood Watch has been continued for Bergen & Passaic counties, the 
+Lower Hudson Valley, and for S CT. Suffolk and Nassau counties on 
+Long Island have been added to the Flood Watch, based on trends in 
+the latest guidance. Hydrologic river and stream issues are possible 
+in areas north and northwest of NYC and into S CT given already wet 
+soils and streams running higher than normal. There is a chance some 
+streams could reach minor flood stage. Areas of southern Connecticut 
+and Long Island may see isolated instances of flash flooding. 
+Wherever the heaviest rain bands set up could see flash flood 
+guidance met in these spots. Flash flooding will mainly be limited 
+to urban, poor-drainage, and low-lying trouble spots, should it 
+occur. Significant flash flooding is not currently expected. 
+
+Rainfall will taper into tonight as low pressure moves north and 
+west of the area. Only isolated or spotty light showers are expected 
+on the backside of the low, with the best chances in northern 
+interior portions of NY & CT in our CWA.
+&&
+
+.SHORT TERM /SATURDAY THROUGH SUNDAY NIGHT/...
+Dry weather is expected by midday Saturday and into the weekend with 
+the low exiting to the northeast and high pressure gradually 
+beginning to take over.
+
+Another shortwave and associated surface cold front moves across the 
+area Saturday night into early Sunday morning with Canadian high 
+pressure building into its wake and gradually rising heights. 
+
+Breezy NW/WNW winds are expected through the day Saturday due to
+an increased pressure gradient at the surface from low pressure
+departing northeast. 
+
+Highs will remain at or slightly above normal in the upper-60s to 
+low-70s on Saturday and Sunday. 
+
+&&
+
+.LONG TERM /MONDAY THROUGH THURSDAY/...
+High pressure will keep conditions dry through at least much of 
+Tuesday. The next chance of precip comes by later Tuesday or 
+Wednesday with the approach of the next low pressure system.
+
+Temperatures through the long term will remain at or slightly above 
+normal with highs in the 70s.
+
+&&
+
+.AVIATION /07Z FRIDAY THROUGH TUESDAY/...
+A frontal system will remain stalled across the area into Friday
+as a series of frontal waves track along it. The front will be 
+dragged east in the afternoon and early evening as low pressure
+lifts northeast of the area.
+
+Outside of any showers the first half of tonight, expect mainly
+VFR conditions with pockets of MVFR/IFR. Ceilings and 
+visibilities will lower late tonight and into early Friday
+morning as showers increase in coverage as low pressure 
+approaches from the Mid Atlantic states. Expect widespread IFR 
+with pockets of LIFR on Friday with showers and embedded 
+thunderstorms. The better chance for thunderstorms will be 
+across the terminals east of NYC, where there is PROB30 18Z-22Z.
+Given recent trends to have the center of the low passing nearly
+overhead the NYC metro, opted to include a PROB30 for TSRA for 
+KJFK and KLGA from 14-18Z. Conditions will then begin to 
+gradually improve from west to east during the late afternoon 
+and evening hours. 
+
+Winds will become NNE/E at 10 kt or less tonight, then become
+more easterly around 10 kt at the coast on Friday. NYC and LI
+terminals could become SE for time in the late morning/early
+afternoon Friday. There also could be a few gusts 
+15-18kt at the coastal terminals. By Friday evening, the 
+frontal system moves northeast with winds in its wake becoming W
+or NW and increasing in speed into Friday morning.
+
+     NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Amendments likely through Friday night with changing flight 
+categories and wind shifts. Winds could go SE late morning/early
+afternoon, especially at KJFK. A few gusts 15-18kt possible.
+
+There is low chance for thunderstorms generally from 14-18Z for
+KJFK and KLGA. Confidence is too low at this time to include in
+TAFs at KTEB and KEWR.
+
+
+.OUTLOOK FOR 06Z SATURDAY THROUGH TUESDAY...
+
+Friday Night: MVFR/IFR in showers, mainly the first half of the
+night. Gradual improvement overnight.
+
+Saturday: Mainly VFR, except MVFR or lower possible isolated showers.
+
+Sunday through Tuesday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Seas build on Fri as low pres develops S of the waters and then 
+tracks across LI. A SCA has been issued on the ocean for this. Winds 
+increase all areas late Fri ngt. Speeds are mrgnl so did not issue a 
+sca on any of the protected waters for this.
+
+SCA conditions could continue on the ocean waters through Saturday 
+for marginal 25kt gusts and 5 ft seas. Thereafter, conditions look 
+to remain below SCA.
+
+&&
+
+.HYDROLOGY...
+1-2 inches of rainfall is expected this morning into tonight with 
+isolated higher totals possible. A Flood Watch has been continued 
+for Bergen & Passaic counties, the Lower Hudson Valley, and for S 
+CT. Suffolk and Nassau counties on Long Island have been added to 
+the Flood Watch, based on trends in the latest guidance. Hydrologic 
+river and stream issues are possible in areas north and northwest of 
+NYC and into S CT given already wet soils and streams running higher 
+than normal. There is a chance some streams could reach minor flood 
+stage. Areas of southern Connecticut and Long Island may see 
+isolated instances of flash flooding from heavy rainfall. Wherever 
+the heaviest rain bands set up could see flash flood guidance met in 
+these spots. Flash flooding will mainly be limited to urban, poor-
+drainage, and low-lying trouble spots, should it occur. Significant 
+flash flooding is not currently expected. 
+
+There are no hydrologic concerns Saturday through mid next 
+week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Flood Watch through late tonight for CTZ005>012.
+NY...Flood Watch through late tonight for NYZ067>071-078>081-177-
+     179.
+NJ...Flood Watch through late tonight for NJZ002-004-103-104.
+MARINE...Small Craft Advisory from noon today to 5 PM EDT Saturday for 
+     ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...BR
+NEAR TERM...BR
+SHORT TERM...BR
+LONG TERM...JT
+AVIATION...MW
+MARINE...BR/JT
+HYDROLOGY...BR/JT

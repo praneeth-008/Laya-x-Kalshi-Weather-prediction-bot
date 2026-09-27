@@ -1,0 +1,180 @@
+913 
+FXUS61 KOKX 131943
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+243 PM EST Mon Jan 13 2025
+
+.SYNOPSIS...
+Canadian low pressure passes north today into tonight bringing 
+a cold front through late this afternoon into this evening. The
+are will then remain in between low pressure to the east and 
+high pressure to the west Tuesday through Wednesday. High pressure
+will largely be control for the end of the week with the exception
+of a weakening frontal system moving across the area Thursday. 
+Another more potent frontal system impacts the region for the 
+weekend.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Clouds increased across the region, lowered temperatures
+slightly.
+
+Expecting the clouds to remain abundant with the cold front
+passing through this evening. 
+
+Still remains a slight possibility of a quick very light rain
+shower or snow shower late this afternoon into early this
+evening. Otherwise, dry conditions are expected to prevail.
+
+Some mid level negative vorticity advection late this evening
+into overnight, will allow for some decrease to clouds. 
+
+However, boundary layer remains mixed with cold air advection
+steady through the night. Gusty winds will be occurring that
+will mitigate radiational cooling. 
+
+Used NBM range of lows, from upper teens to mid 20s for much of
+the region. NYC Metro expected to have lows more in the upper
+20s.
+
+
+&&
+
+.SHORT TERM /TUESDAY THROUGH WEDNESDAY/...
+High pressure located to our SW slowly nudges into the area TUesday 
+through Wednesday. Simultaneously, low pressure that passed to our 
+north moves into the Canadian Maritimes and then offshore to our 
+east through this same period. We'll remain sandwiched between the 
+two opposing pressure systems under a tight pressure gradient. This 
+means NW wind gusts 25-30 mph will remain persistent Tuesday through 
+Wednesday.
+
+Cold air advection on Tuesday will be supported by strong NW flow and 
+a mid/upper-level trough that amplifies over the northeast on 
+Tuesday and remaining nearby offshore on Wednesday. Highs Tuesday 
+and Wednesday will remain near freezing (32F) to the mid-20s. Lows 
+Tuesday night will be in the mid-teens to mid-20s.
+
+Tuesday through Wednesday is expected to remain dry and mostly 
+sunny. However, a period of increased cloud cover is likely Tuesday 
+afternoon into Tuesday night with a passing surface trough.
+
+&&
+
+.LONG TERM /WEDNESDAY NIGHT THROUGH MONDAY/...
+The last in a series of shortwave troughs will drop across the 
+Northeast Thursday sending a dissipating frontal system across the 
+area with little more than some cloud cover and the last piece of 
+some cold air before a brief warmup ensues Friday into Saturday. The 
+mean longwave trough over the east lifts out at this time with Pac 
+Energy briefly breaking down the ridge across western Canada and the 
+PAC NW. The latter of which along with an amplifying northern branch 
+trough descending south from central Canada is expected to carve out 
+a longwave trough encompassing much of the Lower 48 by the close of 
+next weekend. Models do diverge somewhat with the timing of a 
+stronger frontal system along the eastern side of this trough that 
+will move off the eastern seaboard over the weekend. The question 
+resides is this a more progressive frontal system with the 
+possibility of some weak frontal waves, or does a stronger low pass 
+to the west of the area like the 00Z GFS shows next Sunday. However, 
+the 00Z GEFS shows no support for this deeper inland low and neither 
+do the EPS and GEPS. Thus, see no reason at this time to deviate 
+from the National Blend of Models (NBM), which supports a more 
+progressive cold front moving through the area Saturday into 
+Saturday night. Expect colder air to filter in for the second half 
+of the weekend which looks to be the leading edge of an arctic 
+airmass that drops south into the Central U.S. the following week. 
+Have also maintained chance PoPs for the weekend with mainly rain 
+for Saturday and possibly rain and/or snow Sunday with decreasing 
+chances.
+
+Temperatures will warm to above normal levels heading into Saturday 
+before the aforementioned cold frontal passage brings in some cooler 
+air Sunday.
+
+&&
+
+.AVIATION /20Z MONDAY THROUGH SATURDAY/...
+A cold frontal passage occurs late this afternoon into early 
+this evening.
+
+VFR thru the TAF period.
+
+Winds become W behind the front late this aftn, then all areas
+around 290 true tngt and Tue. Speeds around 10kt ahead of the
+front, then increasing winds into Tue with gusts to 30kt.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Occasional WSW G15-20kt ahead of the cold front are possible
+this afternoon. 
+
+Cold frontal passage this afternoon may vary an hour or two 
+from forecast timing (likely on the later side). Winds behind 
+the front may vary from 270-290 until late tngt. 
+
+.OUTLOOK FOR 18Z TUESDAY THROUGH SATURDAY...
+
+Rest of Tuesday - Wednesday: VFR. NW winds 15G25kt. 
+
+Wednesday night: VFR. NW winds G20kt in the evening. 
+
+Thursday - Saturday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+A cold front moves across this evening. Cold air advection will
+allow for frequent gusts tonight through Tuesday. Pressure
+gradient tightens between low pressure well north of the waters
+and high pressure well southwest of the waters.
+
+SCA already in effect across the ocean and is in effect through
+the day Tuesday. Non-ocean zones have SCA go into effect
+starting 6pm this evening and those continue through the day
+Tuesday.
+
+SCA conditions are likely to continue Tuesday night through 
+Wednesday for all forecast waters. Ocean seas during this time 
+are forecast to be near 5 to 7 ft. Gales will even be possible
+for some time on the ocean Tuesday night.
+
+A ridge of high pressure is forecast to move across the waters 
+Wednesday night into Thursday morning with sub-SCA conditions. 
+However, a dissipating frontal system moving through the area later 
+in the day could produce a short period of marginal SCA conditions 
+on the ocean waters. High pressure is then expected to follow on 
+Friday with weakening winds and subsiding seas.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts expected through next weekend.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory from 6 PM this evening to 6 PM EST 
+     Tuesday for ANZ331-332-335-338-340-345.
+     Small Craft Advisory until 6 PM EST Tuesday for ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...BR/DW
+NEAR TERM...JM
+SHORT TERM...BR
+LONG TERM...DW
+AVIATION...JMC
+MARINE...JM/BR/DW
+HYDROLOGY...BR/DW

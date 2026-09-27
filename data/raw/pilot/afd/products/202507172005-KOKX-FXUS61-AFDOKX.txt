@@ -1,0 +1,172 @@
+479 
+FXUS61 KOKX 172005
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+405 PM EDT Thu Jul 17 2025
+
+.SYNOPSIS...
+A cold front moves through the area tonight. High pressure 
+builds in Friday then moves offshore during Saturday with a 
+warm front moving to the north. A cold front moves through the 
+area late Sunday. High pressure builds in for early next week. A
+frontal boundary will be nearby for Wednesday and Thursday.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM FRIDAY MORNING/...
+The area remains in the warm sector of a large low pressure system
+this afternoon. The cold front associated with this low pressure 
+passing to the north of the area will push through this evening and 
+overnight. Given the ample heat and moisture over the area today, 
+moderate amounts of instability will be present this afternoon. 
+Instability combined with 25-35kt of 0-6km shear should be ample 
+enough to allow for the potential for strong to isolated severe 
+thunderstorms, should any storms develop. 
+
+Most of the strongest forcing associated with this cold frontal 
+passage will be north of the area. Despite this, CAMs are 
+consistently showing isolated to at most scattered convection that 
+moves into the area from the northwest this afternoon. SPC has much 
+of the western half of the area in a marginal risk for severe storms 
+this evening, with the primary threat being gusty winds. Any storms 
+that do develop should weaken and dissipate by or shortly after
+sunset.
+
+Additionally a heat advisory remains in effect through 10PM 
+this evening for heat index values of 98-103 for much of the 
+area. 
+
+The cold front will push through the area tonight allowing for 
+a shift of the wind to the NW. This will allow for drying of the
+airmass and lowering of the dew points into the 60s. This cold 
+frontal passage will allow the hot and humid conditions to end. 
+Lows tonight will be in the upper 60s to middle 70s with the 
+warmest locations being along the coast and for the NYC Metro.
+
+&&
+
+.SHORT TERM /6 AM FRIDAY MORNING THROUGH FRIDAY NIGHT/...
+By Friday, the area will be behind the departing cold front to the 
+east. High pressure over the Great Lakes regions will gradually 
+build into the area during the day Friday and into Friday night. 
+This high pressure will keep the area dry with skies being mostly 
+clear to partly cloudy. Highs will be in the low to middle 80s. 
+
+Lower dew points into the low 60s to upper 50s will allow for
+much more comfortable conditions. Lows Friday night will be able
+to drop into the 60s for most with upper 50s possible for the
+far interior NW portions of the area.
+
+&&
+
+.LONG TERM /SATURDAY THROUGH THURSDAY/...
+Near zonal upper flow Saturday gives way to a upper trough 
+passing to the north Sunday into early Monday. At the surface 
+high pressure will be moving offshore Saturday with a warm front
+moving across the region. Weak surface low pressure passing 
+through the Great Lakes and into upstate New York and into New 
+England Saturday night into Sunday will bring a cold front 
+across the region. Showers and thunderstorms will be possible 
+later Saturday into Sunday. Sunday will see a return to warm and
+humid conditions with heat indices 90 to 94 across much of the 
+region, and dew points in the lower 70s. And with high 
+precipitable water values any scattered thunderstorms could 
+produce briefly heavy rainfall. Timing of the cold front passage
+remains consistent and looks to be Sunday late 
+afternoon/evening. Much drier air returns behind the cold front 
+with temperatures returning to more seasonal normals Monday 
+through Wednesday. The cold front that moved through 
+Sunday/Sunday night will remain south of the region, and 
+possibly return north as a warm front later Wednesday into 
+Thursday, bringing warm and humid conditions back to the area.
+
+&&
+
+.AVIATION /20Z THURSDAY THROUGH TUESDAY/...
+A cold front is nearing the area from the west and north today from 
+a low pressure system over southern Ontario. This front will pass 
+through the area this evening. High pressure builds in from the west 
+tonight into tomorrow.
+
+Mainly VFR is expected through the TAF period. MVFR is possible in 
+SHRA/TSRA roughly 20Z-02Z today (late afternoon to early 
+evening). Coverage looks sparse and location is uncertain, so 
+have kept out of the TAFs except for a TEMPO for TSRA at KSWF 
+20Z-00Z. Its possible these may be added in amendments later, 
+should confidence increase.
+
+SW winds will continue to increase into the afternoon, 15-20 kt with 
+gusts 20-25 kt. Can't rule out a stray gust up to 30 kt at the NYC 
+metros. Following FROPA, winds become NW mid to late evening at 10-
+15 kts with gusts of around 20 kts becoming occasional. Outlying 
+terminals may drop below 10 kts overnight. Kept gusts out of TAFs 
+tomorrow, with winds NW/NNW around 10 kt.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+SW winds could briefly gust up to 30 kt late this afternoon.
+
+An isolated shower or tstm may be possible from about 19Z-02Z.
+
+.OUTLOOK FOR 18Z FRIDAY THROUGH TUESDAY... 
+
+Friday night-Saturday: VFR. 
+
+Saturday night and Sunday: Showers likely, chance of tstms. MVFR or 
+lower cond likely. 
+
+Monday-Tuesday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Strengthening SW flow will bring a period of marginal SCA
+conditions to the ocean waters E of Fire Island Inlet late this
+afternoon into the overnight. The remaining waters may see some
+occasional near shore gusts up to 25 kt this afternoon. High 
+pressure will build in on Friday, with conditions remaining 
+below SCA thresholds from then through Tuesday.
+
+&&
+
+.HYDROLOGY...
+Hydrologic impacts are not expected through the middle of next 
+week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+The risk for rip current development remain moderate this
+evening, and surf height will be 2-3 ft. The moderate risk will
+continue Friday and Saturday, with winds from the NW-W and a 
+remaining S swell Friday, and S winds and a southerly swell
+Saturday.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Heat Advisory until 10 PM EDT this evening for CTZ005>012.
+     Air Quality Alert until 11 PM EDT this evening for CTZ009-010.
+NY...Heat Advisory until 10 PM EDT this evening for NYZ067>075-
+     078>081-176>179.
+NJ...Heat Advisory until 10 PM EDT this evening for NJZ002-004-006-
+     103>108.
+MARINE...Small Craft Advisory until 6 AM EDT Friday for ANZ350-353.
+
+&&
+
+$$
+
+SYNOPSIS...MET/MW
+NEAR TERM...MW
+SHORT TERM...MW
+LONG TERM...MET
+AVIATION...BR
+MARINE...MET/MW
+HYDROLOGY...MET/MW
+TIDES/COASTAL FLOODING...MET

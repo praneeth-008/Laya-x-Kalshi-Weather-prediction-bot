@@ -1,0 +1,139 @@
+025 
+FXUS61 KOKX 201751
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1251 PM EST Mon Jan 20 2025
+
+.SYNOPSIS...
+Deepening low pressure lifts north across the Canadian
+Maritimes, allowing high pressure to build from the west through
+mid week. The high then remains over the region from Thursday
+into the weekend as a frontal system passes offshore Thursday
+and Thursday night, weakening on Sunday as a cold front
+approaches from the northwest. 
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+With low pressure deepening over the Canadian Maritimes this
+afternoon and high pressure building in from the west, expect 
+occasional WNW wind gusts up to 25 mph this afternoon. There is
+also a chance for some SCT-BKN stratocu to develop around 5 kft
+as well. High temps forecast to top out in the lower/mid 20s
+this afternoon are 10-15 degrees below normal.
+
+Time heights indicate clearing skies tngt, then an increase in
+high clouds possible by sunrise Tue. With some fresh snow cover
+shaved a degree off the NBM low temps. Winds progged to lessen
+with only about 20kt at h85, so that will be the wind chill
+limiting factor. The current fcst does not reach cold wx advy
+criteria, so nothing issued attm. It will still be cold with min
+apparent temps in the single digits blw zero.
+
+&&
+
+.SHORT TERM /TUESDAY THROUGH WEDNESDAY NIGHT/...
+Continued cold thru Wed ngt. Apparent temps thru the period
+still not quite at advy criteria. Some of the coldest spots 
+Tue ngt get to around zero or slightly blw. To do this though 
+the winds need to go nearly calm, so little difference between 
+wind chill and actual temps. The NBM was followed, with a few 
+local adjustments, thru the period. Temps stay blw freezing the 
+entire time. 
+
+H5 trof comes thru Tue ngt and is modeled to be dry. The passage
+of the trof appears to keep low pres offshore from impacting 
+the area attm. The NBM has captured the swd trend and pops have 
+been reduced across the cwa accordingly. Highest pops for this 
+event are across LI and only in the 20 percent range. Unless the
+upr trof slows down or acquires more of a neg tilt, pops should
+continue to trend towards zero.
+
+&&
+
+.LONG TERM /THURSDAY THROUGH SUNDAY/...
+A cold air mass remains in place for Thursday, although
+temperatures will be moderating, into Saturday as high 
+pressure generally dominates. A frontal system will be passing 
+south and east of the area Thursday into Thursday night. The 
+track is a little farther to the west, however, will maintain 
+slight chance probabilities for light snow. Temperatures from 
+Thursday through Saturday remain well below normal. With the 
+high weakening and drifting south Saturday into Sunday 
+temperatures will moderate further, and be close to normal 
+levels. A trough and cold front will be approaching from the 
+northwest Saturday into Sunday, and with little moisture a few 
+snow showers will be possible. A more zonal flow for the weekend
+will allow another trough to amplify into the northeast with 
+surface low pressure developing, and there will be chances for 
+snow for the beginning of next week.
+
+&&
+
+.AVIATION /18Z MONDAY THROUGH SATURDAY/...
+VFR as high pressure builds from the west. 
+
+NW-W flow has been less gusty than expected, most likely due to
+snow cover. Could be an interval or two of BKN VFR cigs drifting
+down from the NW into early this evening, overall maintained sky
+cover at SCT for the NYC metros. Winds back WNW-W and diminish
+to 10 kt or less tonight.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No unscheduled AMD expected.
+
+.OUTLOOK FOR 18Z TUESDAY THROUGH FRIDAY...
+
+Tuesday afternoon through Friday: VFR. 
+
+Saturday: VFR. W winds 10-15G20kt NYC metro/coastal terminals. 
+
+Detailed information, including hourly TAF wind component 
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Gusty NW flow backs to the WNW this aftn. SCA remains in effect
+for all waters with some lgt freezing spray possible. Winds 
+mrgnl tngt on the non-ocean waters, so the advy was not extended
+there and only remains on the ocean. Winds diminish further on
+Tue, and all waters might stay blw SCA lvls. Some freezing spray
+still possible. Better confidence that winds and seas are blw 
+SCA lvls on Wed.
+
+Winds and seas will remain below SCA levels Thursday through 
+Friday. A strengthening NW flow Fri night as low pressure passes
+offshore may allow for wind gusts and seas to be near SCA 
+levels on the ocean E of Moriches Inlet and across the Long
+Island eastern bays Fri night into Sat.
+
+&&
+
+.HYDROLOGY...
+No hydrologic issues anticipated. 
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 6 PM EST this evening for ANZ331-
+     332-335-338-340-345.
+     Small Craft Advisory until 7 AM EST Tuesday for ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JMC/MET
+NEAR TERM...JMC/DW
+SHORT TERM...JMC
+LONG TERM...MET
+AVIATION...BG
+MARINE...JMC/MET
+HYDROLOGY...JMC/MET

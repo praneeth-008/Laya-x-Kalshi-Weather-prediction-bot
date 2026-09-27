@@ -1,0 +1,161 @@
+623 
+FXUS61 KOKX 150558
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+158 AM EDT Tue Jul 15 2025
+
+.SYNOPSIS...
+A weak front approaching from the west will move through 
+overnight and remain nearby as a Bermuda high remains anchored 
+well offshore. The boundary will lift north by Thursday, with an
+attendant cold front following into late week. Behind it, high 
+pressure will attempt to build in this weekend.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM THIS MORNING/...
+Showers continue to weaken as they slowly shift east. A few
+areal flood warnings remain in effect late this evening,
+otherwise not anticipating any additional warnings outside of
+the Saddle River at Lodi where it is now anticipated to go into 
+minor flood stage near midnight.
+
+Seasonably warm and very muggy conditions will prevail through
+tonight, with low temps from the upper 60s well inland to the
+mid 70s invof NYC.
+
+&&
+
+.SHORT TERM /6 AM THIS MORNING THROUGH 6 PM WEDNESDAY/...
+AM showers/tstms still possible Tue morning from NYC metro east
+with the front still in the vicinity, then a chance for late day
+showers/tstms from NYC north/west in the afternoon with a subtle
+sfc trough still in the vicinity and a mid level shortwave 
+trough approaching. This activity should be on the weaker side 
+with instability much more limited and wind fields aloft weak. 
+
+Of more concern will be increasing heat/humidity. High temps on
+Tue should reach the upper 80s/lower 90s from NYC north/west,
+with mid 80s elsewhere. Combined with dewpoints in the upper
+60s/lower 70s this could yield heat index values of 95-99 for 
+much of NE NJ and also parts of the lower Hudson Valley and the 
+CT river valley. A short fused heat advisory might be needed for
+some or all of these areas. 
+
+Low temps Tue night should range once again from the upper 60s
+well inland, to the mid 70s in the NYC metro area and western
+Long Island.
+
+&&
+
+.LONG TERM /WEDNESDAY NIGHT THROUGH MONDAY/...
+Key Points: 
+
+* Increasing likelihood for heat indices to exceed 95F Wednesday  
+  through Friday across much of the region.
+
+* Unsettled pattern with chances for afternoon showers and  
+  thunderstorms into late week.
+
+The weakening frontal boundary lingers nearby into midweek as
+sprawling high pressure remains anchored well out in the 
+Atlantic. SW flow helps usher in additional warm, moist air, and
+temperatures nudge upwards. While nothing remarkable for mid 
+July, temperatures Wed through Fri likely top the upper 80s to 
+lower 90s for most, and with dew pts progged at least into the 
+upper 60s and lower 70s, heat indices should achieve mid to 
+upper 90s, with the hottest locales exceeding 100F. Heat 
+headlines will likely be needed as we move closer.
+
+One caveat may be the unsettled pattern, with showers and
+thunderstorms possible each afternoon through late week with 
+nearby frontal boundaries, though the overall severe risk 
+appears low. However, deep layer moisture should keep PWATs near
+or above 2 inches, and with it, the potential for higher 
+rainfall rates with any convective activity.
+
+Conditions potentially begin to settle into at least the start
+of the weekend behind a cold fropa, as high pressure attempts 
+to build in from the Great Lakes.
+
+&&
+
+.AVIATION /06Z TUESDAY THROUGH SATURDAY/...
+A weak cold front remains over the region through Tuesday.
+
+A fair amount of uncertainty in the flight category forecast 
+overnight as conditions may vary from IFR (mainly for eastern 
+terminals) to VFR (across city terminals, with brief IFR to 
+MVFR) tonight. Add to that the saturated ground from the heavy 
+rain yesterday, which may aid in development of fog across NE 
+NJ. The question is whether this will advect or develop over the
+city terminals as the night progresses. VFR for Tuesday into 
+Tuesday night outside any possible showers/tstms.
+
+Light and variable winds overnight, becoming S-SSW 5-10kt 
+Tuesday. 
+
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Amendments expected with overall low confidence in flight 
+category forecast tonight/early Tuesday morning. MVFR could 
+prevail all night with brief IFR possible.
+
+.OUTLOOK FOR 06Z WEDNESDAY THROUGH SATURDAY... 
+
+Tuesday Night: VFR during the afternoon/evening with a chance 
+of a shower/thunderstorm. MVFR or lower possible, especially 
+east of NYC metro at night. 
+
+Wednesday-Friday: MVFR or lower in any afternoon/evening 
+showers/thunderstorms.
+
+Saturday: Mainly VFR. 
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+SW flow increasing to over 15 kt could build seas close to 5 ft
+on the outer ocean waters E of Fire Island Inlet Thu night. 
+Otherwise, afternoon/evening showers/tstms through the period 
+could produce locally higher winds/seas at times.
+
+&&
+
+.HYDROLOGY...
+Flood Watch remains in effect until midnight for NE NJ, the 
+lower Hudson Valley, NYC, and SW CT. Residual flooding should
+continue for the next hour or two.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+The rip current risk is low through Tuesday, with a 10 kt or 
+less onshore flow and weakening S-SE swell.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...BG/DR
+NEAR TERM...BG
+SHORT TERM...BG
+LONG TERM...DR
+AVIATION...JP
+MARINE...BG/DR
+HYDROLOGY...BG/DR
+TIDES/COASTAL FLOODING...

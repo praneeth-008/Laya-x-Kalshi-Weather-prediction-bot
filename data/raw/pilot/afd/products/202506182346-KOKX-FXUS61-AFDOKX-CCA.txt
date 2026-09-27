@@ -1,0 +1,247 @@
+743 
+FXUS61 KOKX 182346 CCA
+AFDOKX
+
+Area Forecast Discussion...CORRECTED
+National Weather Service New York NY
+746 PM EDT Wed Jun 18 2025
+
+.SYNOPSIS...
+A warm front struggles north of the region through this 
+evening. A cold front approaches late Thursday and moves across 
+the region Thursday night. High pressure builds Friday and into 
+the weekend. Bermuda high pressure will then settle just south 
+of the region for the first half of next week.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM THURSDAY MORNING/...
+A warm front struggles north of the region through this 
+evening. Stratus/dense fog bank across the ocean likely works 
+back along immediate southern and eastern coastal areas this 
+evening, which may bring areas of dense fog to coastal areas.
+
+Marginal to borderline moderate surface instability for areas 
+west of the Hudson River, away from marine influence. Combined 
+with weak upper energy approaching from the SW this eve and 
+marginal deep layer shear, isolated to widely scattered 
+thunderstorms expected to slide east into the LoHud and NE NJ 
+through early this evening. 
+
+The severe thunderstorm threat is very marginal (less than 5% 
+prob for LoHud and NE NJ). Any showers and thunderstorms that 
+develop have the potential of producing heavy rainfall, as the 
+storm will be relatively slow moving (east at 20-25 mph) with
+near record PWATS of 2 1/2". Isolated to widely scattered storm
+coverage should limit flash flood threat to very marginal (less
+than 5% prob for NYC and moreso points NW, W, SW).
+
+Thunderstorm potential and intensity decreases working eastward
+this eve through NYC/SW CT into LI/E CT with greater maritime 
+influence. 
+
+Weak shortwave surface/aloft slides east this evening bringing 
+shower/thunderstorm threat to an end. Region will become warm 
+sectored under a warm and muggy airmass. Light S/SW flow of 
+high Td airmass over low 60 degrees waters point towards 
+continuation of maritime stratus/fog across southern and eastern
+coastal areas. Patchy fog threat elsewhere.
+
+&&
+
+.SHORT TERM /6 AM THURSDAY MORNING THROUGH THURSDAY NIGHT/...
+* Hot and Humid on Thursday with late afternoon/evening
+  scattered severe thunderstorm threat *
+
+Fairly deep Great Lakes/Ohio valley shortwave trough approaches
+from the west on Thursday aft/eve, with resultant developing 
+low pressure tracking ne along the St Lawrence River Valley into
+southern Quebec on Thursday, and associated pre-frontal trough 
+approaching late Thu afternoon/evening. 
+
+Coastal morning stratus/fog should quickly dissipate Thursday 
+morning with strengthening deep SW flow. Deep mixing to at least
+850mb (850mb T around 19C) will lend to widespread temps in the
+lower 90s areas away from south and east coast. Potentially 
+approaching 95F for urban NE NJ, mid to upper 80s for south and 
+east coasts. Tds will also be on the increase. 75 F Tds noted 
+in mid-Atlantic/south Jersey this afternoon pooling up against 
+the warm front. Sounding indicated some drying aloft Thursday, 
+but lower 70s Tds seen in NBM, HRRR and MOS guidance are quite 
+reasonable, with worst case of 75F Tds. One day of mid to upper 
+90 heat indices likely for NYC/NJ metro, LoHud, and interior Sw
+CT, with heat indices around 90 F for south and east coastal 
+areas. Southwesterly wind gusts increase to 25 to 30 mph in the 
+afternoon.
+
+Shortwave approach in late afternoon, encountering a moderately 
+unstable and deeply sheared environment, should allow for 
+scattered multi-cell and supercell development along/ahead of 
+the pre-frontal trough across central NY/PA in the early 
+afternoon. This activity should work east towards the region in 
+the late afternoon/evening, with organization into a bowing line
+segment or two possible. Scattered severe storms are possible 
+(SPC-WFO coordinated slight risk for the area) with damaging 
+wind gusts the primary threat (15% probability of occurrence w/i
+25 miles of a point), particularly with any bowing segment 
+development. There is a marginal risk of large hail (5% 
+probability of occurrence w/i 25 miles of a point) with any 
+supercell/multi cluster activity, and an isolated tornado threat
+(2% probability of occurrence w/i 25 miles of a point) along 
+bowing segments or supercells. Farther east across LI/CT, 
+expectation is that storms should gradually weaken in intensity 
+after 8pm as storms encounter a stabilizing environment. 
+  
+With the passage of the cold front Thursday night the showers and 
+thunderstorms will end. High pressure then builds toward the region 
+for Friday, with slightly cooler temperatures.
+
+&&
+
+.LONG TERM /FRIDAY THROUGH WEDNESDAY/...
+* PATTERN CHANGE TO HOT AND HUMID CONDITIONS BY EARLY NEXT WEEK *
+
+Expect a significant long wave pattern change for the period. A
+shortwave feature exits Northern New England and SE Canada 
+early on Friday. In its wake gradual height rises are expected 
+to take place for the most part beginning Friday and into the 
+weekend. Much of the NWP global guidance is suggestive of a 
+shortwave feature which attempts to ride and break through the 
+northern portion of the building ridge. This will be a transient
+feature as questions remain as to how this feature will track 
+and whether its effects will be mainly north of the CWA towards 
+the middle of the upcoming weekend. For now have covered this 
+feature with slight chance to low end chance PoPs. In any event,
+the turn to a hot and humid regime looks likely into early next
+week as higher heights and thicknesses build across the region.
+The warm up is expected to begin to build by late Sunday, 
+especially for western and southwestern most areas.
+
+Hot and humid conditions thus are likely to prevail Monday 
+through Wednesday with primarily dry weather as any shower / 
+t-storm activity is likely to remain west and northwest of the 
+region. At this time it appears that a good portion of the 
+region will experience the first heat wave of the season, with 
+less certainty further east. Regardless, temperatures will 
+average well above normal into next week. Towards the tail end 
+of the period (say mid to late week) if the ridge break downs 
+enough, the chance of diurnally driven convection would increase
+and could introduce some chance of late day and early evening 
+showers and t-storms.
+
+&&
+
+.AVIATION /00Z THURSDAY THROUGH MONDAY/...
+An approaching line of thunderstorms have weakened as they 
+neared NYC terminals. THunder has been removed from NYC, ISP, 
+BDR TAFs, but remain in SWF, HPN, TEB TAFs. This is because 
+thunderstorms remain in the Lower Hudson Valley as they 
+gradually push SW, but they are continuing to weaken. 
+
+After 3-4Z, rain will altogether be removed from the TAFs, but
+categories will worsen under weak flow, especially for GON, ISP,
+BDR, and HPN, where IFR to LIFR is likely through the night in
+low ceilings and fog. NYC terminals and KSWF may only drop to
+MVFR to high end IFR tonight. 
+
+VFR forecast to return by late Thursday morning and into 
+Thursday afternoon. MVFR is possible again in SHRA and TSRA 
+tomorrow late afternoon and evening. 
+
+Winds will be generally southerly at or less than 10 kt through
+much of the TAF period, until tomorrow afternoon. Winds become 
+more SW 10-15 kt for Thursday afternoon. Some terminals will 
+have more variable wind direction during times when wind speeds 
+are at or less than 5 kts.
+
+Winds increase ahead of SHRA and TSRA tomorrow afternoon S/SW 
+10-15 kt with gusts up to 22 kt. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Amendments likely. Categories may vary between MVFR and LIFR at
+times tonight into Thursday morning.
+
+Shower and thunderstorm timing could vary by 1-2 hours compared
+to TAF tomorrow.
+
+.OUTLOOK FOR 00Z FRIDAY THROUGH MONDAY... 
+
+Friday through Monday: Mainly VFR. 
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+A Dense Fog Advisory continues for ocean waters east of Fire Island, 
+southern and eastern bays of LI, and E LI Sound with stratus/dense 
+fog deck over lower 60 F waters (visibilities less than 1 NM). This 
+deck may back west for a bit late this afternoon and evening.
+
+Winds and seas remain below advisory levels today into Thursday 
+morning, then with an increasing southwest flow ahead of a cold 
+front Thursday occasional gusts to near 25 kt are likely on the 
+ocean waters and southern bays. As a result ocean seas will likely 
+build to around 5 feet late Thu into Fri AM. Behind the cold front, 
+NW gusts are expected to run below 25 kt. 
+
+Winds and waves are expected to fall below Small Craft Advisory
+criteria Friday afternoon and continue through early next week.
+Ocean seas should settle in around 2 ft, occasionally up to 3 
+ft during the weekend and into early next week.
+
+&&
+
+.HYDROLOGY...
+One quarter to three quarters of an inch rain, with locally higher 
+amounts, is possible across the lower Hudson Valley, northeastern 
+New Jersey, and New York City into this evening. The probability for 
+flash flooding is marginal (around 5% probability), with a higher 
+probability across central NJ. 
+
+Once again a marginal risk of flash flooding (around 5% probability) 
+on Thursday, with scattered locally heavy downpours and 
+thunderstorms late Thursday afternoon into the evening. The quicker 
+storm motion as compared to today, will limit the flash flood threat 
+to any localized areas of training. 
+
+There are no hydrologic concerns Friday through early next 
+week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+There will be a moderate rip current risk during the morning on 
+Thursday, before increasing to a high risk later in the day for the 
+western ocean beaches. A moderate risk is expected for the Suffolk 
+ocean beaches for Thursday. On Friday the high risk should continue, 
+at least through the morning for the western ocean beaches. The high 
+risk on Friday will likely continue for the eastern ocean beaches 
+through a good portion of the day on a lingering 5 ft near buoy wave 
+height on a south to southeast 7 second wave period.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Air Quality Alert from 11 AM to 11 PM EDT Thursday for 
+     CTZ005>007-009>011.
+NY...High Risk for Rip Currents from Thursday afternoon through Thursday 
+     evening for NYZ075-178-179.
+NJ...None.
+MARINE...Dense Fog Advisory until 8 AM EDT Thursday for ANZ331-332-335-
+     340-345-350-353.
+
+&&
+
+$$
+
+SYNOPSIS...JE/NV
+NEAR TERM...NV
+SHORT TERM...NV
+LONG TERM...JE
+AVIATION...BR
+MARINE...JE/NV
+HYDROLOGY...JE/NV
+TIDES/COASTAL FLOODING...

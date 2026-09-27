@@ -1,0 +1,178 @@
+133 
+FXUS61 KOKX 220818
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+418 AM EDT Tue Apr 22 2025
+
+.SYNOPSIS...
+A cold front slowly pushes across today. High pressure gradually
+builds tonight into Wednesday and remains in control through 
+Thursday night. A frontal system will move across the area late 
+Friday into Saturday. High pressure then builds in Sunday into 
+Monday. 
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Other than some clouds this morning along a cold front, expect more 
+in the way of sunshine for the late morning and afternoon. It will 
+be a fantastic spring day with above normal temperatures. The 
+question for today's forecast is how much to go above guidance in 
+terms of temperatures? NWP global guidance has 5 kft temperatures 
+hovering around 10 C with a W to WSW flow throughout the column. 
+Steep lapse rates will lead to excellent mixing, especially from the 
+sfc to 5-6 kft. A cold front moves into the area and sort of washes 
+out to a degree. Therefore not expecting much if any wind direction 
+shift. A W to WSW flow should be maintained with neutral advection. 
+This should lead to warmer than normal temperatures, even for 
+coastal sections. This should lead to widespread middle and upper 
+70s, with only perhaps the south fork of LI with some localized 60s 
+right at the waterfront. A few spots in NE NJ could very well get to 
+80 for max temperatures.
+
+For tonight under clear skies look for a fairly mild night. There 
+really won't be that much of an airmass change with what's left of a 
+cold front slowly sliding through. Under mostly clear skies with 
+high pressure slowly beginning it build from the west look for light 
+winds and near normal to slightly above normal temperatures. Lows 
+should range from the middle 40s in far NW interior sections, to the 
+middle 50s across the metro.
+
+&&
+
+.SHORT TERM /WEDNESDAY THROUGH THURSDAY/...
+High pressure is expected to settle nearby for mid week. This should 
+lead to large scale subsidence overall. The upper level jet is 
+progged to remain over Northern New England and into the Saint 
+Lawrence River Valley up to the north. With the area on the southern 
+side of the polar jet temperatures should continue to run above 
+normal temperatures wise, especially during the day Wednesday. A 
+deep layer W to NW flow should preclude the formation of strong sea 
+breeze development. Although, by late in the afternoon on Wednesday 
+there may be some localized sea breeze development for a few coastal 
+locations. Maximum temperatures once again on Wednesday should get 
+well into the 70s in most places, with perhaps a few 60s across some 
+eastern coastal communities.
+
+High pressure settles over the area Wednesday night with mostly 
+clear skies and light winds. Temperatures are expected to bottom out 
+in the 40s in the outlying areas, with some lower and middle 50s 
+across the metro.
+
+High pressure slowly gets further east on Thursday. A return flow of 
+shorts will attempt to set up. With the synoptic flow expected to be 
+fairly light, look for a hybrid sea breeze to develop with a 
+southerly flow off the cooler ocean during the day. By late in the 
+afternoon a wide spread in temperatures should be anticipated, with 
+mainly 60s and a few middle and upper 50s across coastal and eastern 
+coastal sections, with 70s across western and interior locations. 
+Temperatures are expected to be considerably cooler across eastern 
+coastal sections for the late day and early evening with a wind off 
+the colder ocean.
+
+&&
+
+.LONG TERM /THURSDAY NIGHT THROUGH MONDAY/...
+Global models continue to fluctuate with the timing of the frontal 
+system for late Friday into Saturday. The 00Z GFS is the fastest of 
+the globals, by about 12h. The GEFs supports a slower solution like 
+the model consenus. The timing seems to hinge on the complex 
+interaction of southern branch PAC NW energy and multiple pieces of 
+northern branch energy dropping across central Canada toward the end 
+of this week. Plan to stay close to the NBM during this time. 
+
+High pressure offshore at the start of this period will continue to 
+retreat out into the Atlantic while the aforementioned frontal 
+system brings a chance of showers into the area Friday afternoon 
+with the most likely timeframe after midnight Friday through the day 
+on Saturday. Marginal instability could result in isolated 
+thunderstorm north and west of the NYC metro Saturday afternoon. 
+However, onshore flow and weak lapse rates should limit coverage. 
+High pressure then builds in from the west Sunday into Monday. 
+
+Temperatures remain above normal through Saturday, warmest Thursday 
+night through Friday night (5 to 10 degrees). A return closer to 
+normal is expected Sunday into Monday behind the frontal system.
+
+&&
+
+.AVIATION /08Z TUESDAY THROUGH SATURDAY/...
+A weak warm front lifts across the area this morning, while the 
+trailing cold front dissipates across the area. A secondary cold 
+front pushes through Tuesday evening.
+
+NYC terminals have generally been VFR through 08Z. However, like the 
+other terminals, do expect a period of MVFR with occasional IFR 
+conditions through about 14Z, followed by improvement to VFR. KGON 
+may take as long as 17Z to improve to VFR. Isolated SHRA through 
+about 10Z.
+
+Light and variable winds across all but KISP, where it will start 
+off SSW 5-10kt. Winds veer to the SW toward daybreak with the warm 
+frontal passage, then veer to the W-WSW by late morning/early 
+afternoon. KBDR and KGON may hold on to a hybrid seabreeze out of 
+the SW until winds veer more in the afternoon ahead of an 
+approaching secondary cold front. Winds then become NW-NNW 5-10kt 
+after 00Z.
+
+There is a brief chance of SW LLWS at the eastern terminals through 
+about 09Z, with 2Kft winds 230 at around 40 kt. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Best chance of showers to the east of NYC terminals.
+
+IFR conditions could become prevailing through about 12Z.
+
+Onset of W gusts later this morning may be delayed by 1-2 hours.
+
+.OUTLOOK FOR 08Z WEDNESDAY THROUGH SATURDAY...
+
+Late Tuesday night through Thursday: VFR.
+
+Friday: VFR during the day. A chance of MVFR and showers, at night.
+
+Saturday: MVFR or lower in showers. An isolated thunderstorm is 
+possible.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+There could be a few gusts to around 20 kt with a few marginal small 
+craft gusts on some of the eastern and south shore bays of LI today, 
+otherwise sub advisory conditions will prevail through Thursday 
+night. Conditions are expected to remain below SCA levels through 
+Friday in a weak pressure regime. The next chance for SCA conditions
+will be Friday night into Saturday with a frontal system moving
+across the waters.
+
+&&
+
+.HYDROLOGY...
+At this time there are no hydrologic concerns through early next
+week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JE/DW
+NEAR TERM...JE
+SHORT TERM...JE
+LONG TERM...DW
+AVIATION...DW
+MARINE...JE/DW
+HYDROLOGY...JE/DW

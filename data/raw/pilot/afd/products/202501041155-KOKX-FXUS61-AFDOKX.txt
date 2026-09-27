@@ -1,0 +1,162 @@
+627 
+FXUS61 KOKX 041155
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+655 AM EST Sat Jan 4 2025
+
+.SYNOPSIS...
+The region remains between low pressure to the north and east with 
+high pressure to the south and west through this weekend. A quick 
+moving low pressure system passes through the Mid Atlantic on Monday 
+and offshore Monday night. Behind it, strong Canadian high 
+pressure builds in from the west through late next week.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Upper trough axis to our east this morning shifts farther east, but 
+we'll remain under a cyclonic flow aloft. At the surface, a tight 
+pressure gradient continues with broad low pressure to our
+north and east, and broad high pressure to our south and west. 
+WNW flow may be able to transport some lake effect flurries. 
+Highs in the mid 30s for coastal areas and low 30s inland. Wind 
+gusts of mostly 25 to 35 mph today with a gust or two up to 
+around 40 mph possible. Wind chills in the teens this morning 
+and only lower to mid 20s this afternoon. Dry for the overnight 
+hours with diminishing winds. Lows generally in the 20s.
+
+&&
+
+.SHORT TERM /SUNDAY THROUGH MONDAY NIGHT/...
+Not much of a change in the surface features for Sunday although 
+high pressure to our south and west weakens as low pressure 
+strengthens in the lower MS Valley. This will promote winds a little 
+lighter than today over here. Highs again in the mid 30s for coastal 
+areas and low 30s inland.
+
+Models remain in very good agreement regarding low pressure which 
+will be passing to our south Monday into Monday night. A trough axis 
+aloft with an embedded shortwave will shift east through the OH and 
+TN Valleys. This will strengthen a surface low which will emerge off 
+the NC coast late in the day Monday into Monday evening and shift 
+more east than northeast through the night as the trough doesn't 
+become negatively tilted until late at night. The 00z run of several 
+global models have either kept virtually the same storm track or 
+shifted slightly south from their 12z counterparts yesterday. A 
+shift south in the northern extent of qpf is a overall a little more 
+noticeable. Still have likely PoPs for most of the city, south shore 
+of LI, and some of NE NJ, but the liquid qpf and snow amount 
+forecasts are a little lower from the previous forecast. Most spots 
+are likely to see less than an inch of snow. Most of southern CT and 
+the Lower Hudson Valley stand a decent chance of not receiving 
+snowfall. Snow looks to be most likely from mid-late morning Monday 
+through late afternoon, possibly lingering into early evening. Dry 
+then afterwards with the storm heading farther east out to sea. 
+Highs Monday in the upper 20s to lower 30s.
+
+&&
+
+.LONG TERM /TUESDAY THROUGH FRIDAY/...
+Key Points:
+
+* Cold, windy, and predominantly dry conditions expected mid to
+  late next week. 
+
+In the wake of passing low pressure to the south, strong Canadian 
+surface high drops south out into the Plains, then begins to build 
+east into late week. This will not only reinforce the cold air mass
+in place, but maintain a tight pressure gradient between the high
+and sprawling low pressure anchored over far eastern Canada. With
+it, blustery conditions are likely Tuesday thru at least Thursday.
+And while temperatures will not necessarily be record breaking,
+the air mass will run about 10 degrees below normal and keep most
+at or below the freezing mark for at least several days. Add 
+the wind component and the region could experience wind chills 
+persistently in the single digits and teens.
+
+By late next week, a closed low over the Southwest may eject east 
+and attempt to interact with a northern branch disturbance diving 
+south. Many different solutions at this point, but will be a period 
+to watch for the next chance of appreciable precipitation should 
+timing of these features line up.
+
+&&
+
+.AVIATION /12Z SATURDAY THROUGH WEDNESDAY/...
+A sprawling area of low pressure remains centered well to the north 
+this weekend, continuing the W to NW flow.
+
+VFR through the TAF period.
+
+WNW/NW flow this morning increases to 15-20G30-35kt by 15Z. 
+Speeds lower slightly overnight into Sunday AM, but gusts up to 
+25 kt persist at all terminals. Gusts approach 30 kt once again 
+by mid morning Sunday.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+A few gusts up to 40 kt possible this afternoon.
+
+OUTLOOK FOR 06Z SUNDAY THROUGH WEDNESDAY...
+
+Late tonight: VFR. WNW wind 10-15 kt, gusts 25 kt, especially along 
+the coast.
+
+Sunday: VFR. WNW gusts 25-30kt.
+
+Monday: MVFR/IFR possible at the NYC metro terminals and KISP 
+with snow.
+
+Tuesday: VFR. WNW winds 15-20kt, gusts 25-30kt.
+
+Wednesday: VFR. W gusts 20-25kt.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+SCA conditions expected on all waters through Sunday with a 
+persistent gusty WNW flow. There could be a gust or two to gale 
+force on the ocean, but that should be the extent of such gusts. 
+Winds diminish Sunday night with a weaker pressure gradient with 
+advisory conditions ending by late at night. Next chance of advisory 
+conditions then arrives Monday night with northerly winds picking up 
+in the wake of low pressure passing well to the SE.
+
+Small Craft Advisory conditions are even more likely Tuesday, 
+continuing through late next week for all waters with gusty NW 
+flow. Possible gale force gusts on the ocean at times Tuesday 
+thru Thursday. Given the flow's persistence, seas on the ocean 
+likely rise to 7 to 8 feet midweek. Waves on the LI Sound may 
+also reach 5 to 6 feet
+
+&&
+
+.HYDROLOGY...
+No significant hydrologic issues anticipated through the end of
+next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 7 PM EST Sunday for ANZ331-332-335-
+     338-340-345-350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JC/DR
+NEAR TERM...JC
+SHORT TERM...JC
+LONG TERM...DR
+AVIATION...DR
+MARINE...JC
+HYDROLOGY...JC/DR

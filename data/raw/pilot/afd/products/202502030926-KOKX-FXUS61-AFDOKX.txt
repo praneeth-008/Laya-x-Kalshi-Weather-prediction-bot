@@ -1,0 +1,179 @@
+052 
+FXUS61 KOKX 030926
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+426 AM EST Mon Feb 3 2025
+
+.SYNOPSIS...
+A warm front moves farther northeast of the waters today. A cold
+front moves across the waters late tonight. High pressure then 
+builds in from the Great Lakes on Tuesday. This high pressure 
+area will continue building in Tuesday night and center over the
+area on Wednesday. A frontal system will approach Wednesday 
+night and impact the area into Thursday evening. High pressure 
+will then return for Thursday night into Friday night, then 
+slide east on Saturday. Another frontal system will begin to 
+approach Saturday afternoon and impact the area into Sunday. 
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+Precipitation has ended but still have quite a large part of 
+the region with freezing or below temperatures so any untreated 
+surfaces will still likely have some ice, creating slippery 
+conditions. Special weather statement out to address this. 
+Whole region forecast to be above freezing after 11AM. 
+
+Otherwise, dry conditions are expected today along with low
+level warm air advection. Mostly cloudy conditions will limit
+the sensible heat transfer. Taking that into account, using
+blend of NBM and MAV and MET guidance for high temperatures,
+ranging mainly from low to mid 40s.
+
+&&
+
+.SHORT TERM /6 PM THIS EVENING THROUGH WEDNESDAY/...
+For tonight, a cold front approaches from the north and west.
+The cold front moves through late. Most of the shortwave energy
+will be displaced well north of the region and mid level dry air
+will keep conditions dry. 
+
+Just expecting clouds to remain abundant with temperatures not 
+dropping too much tonight as the boundary layer stays more mixed
+and the clouds limit radiational cooling. Lows forecast range 
+from the low to upper 30s.
+
+For Tuesday, highs for the day are likely set in the morning
+with post-frontal strengthening NW gusty flow then developing.
+This will cause temperatures to be nearly steady late morning
+into the early afternoon and then actually decrease for the
+latter half of the afternoon. Took a blend of NBM and MAV and
+MET guidance for high temperatures and manually lowered an extra
+degree. Highs Tuesday range from the upper 30s to lower 40s,
+slightly colder than the previous day.
+
+High pressure continues to build in Tuesday night into
+Wednesday. The high pressure area centers over the local region
+on Wednesday. Dry conditions are expected to remain. Highs from
+NBM on Wednesday and are much colder than previous few days,
+only ranging from low to mid 30s for much of the area.
+
+&&
+
+.LONG TERM /WEDNESDAY NIGHT THROUGH SUNDAY/...
+Well-advertised frontal system should begin to approach Wed night, 
+with increasing PoP for snow throughout to start. Light 
+accumulations expected, either side an inch most places and perhaps 
+closer to 2 inches well inland west of the Hudson. As temps warm 
+aloft expect a transition to mixed precip, with some light freezing 
+rain on top of this snow late in NE NJ. Temps sfc/aloft warm further 
+daytime Thu, with a change to plain rain during the morning hours, 
+but not before a period of possible freezing rain for interior NE NJ 
+and the lower Hudson Valley mainly along/NW of I-287 early Thu AM. 
+Rain Thu afternoon should taper off Thu eve, with dry cond returning 
+for late Thu night into Sat AM as strong high pressure moves across. 
+
+Another frontal system will approach this weekend, beginning Sat 
+afternoon and continuing into Sunday. Once again, with warmer air 
+intruding aloft at first and then at the sfc, p-type initially 
+should be all snow, with a change to mixed precip late Sat night 
+into Sunday AM and all rain by Sunday afternoon. This system may 
+have better potential for widespread advy snow/ice amts given higher 
+forecast QPF. 
+
+&&
+
+.AVIATION /09Z MONDAY THROUGH FRIDAY/...
+A warm front will lift through overnight. A cold front will approach 
+from the west today and pass through tonight. 
+
+Seeing IFR cigs inland impacting KSWF/KBDR, also MVFR cond at 
+KTEB/KHPN/KGON, otherwise VFR to start. Prind are that these 
+terminals should improve to VFR by 13Z-14Z. 
+
+Winds either calm or light SW should pick up during the late morning 
+to 5-8 kt and then back more southerly by mid afternoon. Winds start 
+to shift back to the W-NW late behind a cold frontal passage. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Unscheduled AMD possible for KTEB to adjust timing of MVFR cigs. 
+
+.OUTLOOK FOR 06Z TUESDAY THROUGH FRIDAY... 
+
+Late tonight: VFR. 
+
+Tuesday: VFR. NW winds 15G20-25kt into the evening. 
+
+Wednesday: VFR. 
+
+Wednesday night: MVFR or lower cond in light snow, mixing with sleet 
+late, also rain at KEWR/KJFK. 
+
+Thursday: MVFR or lower cond as precip changes to freezing 
+rain/sleet and then rain at KSWF, and to plain rain elsewhere. 
+SW winds G20kt mainly in the afternoon. 
+
+Thursday night: Rain ending. W winds G20kt late. 
+
+Friday: VFR. NW winds G20-25kt. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Conditions on the waters remain below small craft advisory
+thresholds through this afternoon. Then, conditions increase
+with winds and seas tonight through Tuesday in response to a
+tightening pressure gradient between low pressure well to the
+north and east and high pressure to the north and west. A cold
+front moves across late tonight. 
+
+Ocean seas are first forecast to get SCA level seas along with
+gusty SCA winds tonight, east of Fire Island Inlet. Then all
+waters reach SCA thresholds for wind gusts Tuesday and probably
+much of Tuesday night as well. Conditions return to below SCA
+thresholds with weakening pressure gradient on Wednesday as 
+high pressure moves overhead.
+
+Increasing long fetch S flow ahead of an approaching frontal system 
+should bring SCA cond to the ocean waters from Thu into Thu evening, 
+with seas building to 4-6 ft in the morning and then to 5-8 ft at 
+night, along with some 25-kt gusts. Following a cold frontal passage 
+late Thu night, winds then shift W then NW, with all waters likely 
+to see gusts 25-30 kt. These cond improve Fri afternoon on the non 
+ocean waters, then finally on the ocean waters by midnight Fri night 
+as winds then seas gradually diminish.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through next weekend.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory from 9 AM to 6 PM EST Tuesday for ANZ331-
+     332-335-338-340-345.
+     Small Craft Advisory from 8 PM this evening to 6 PM EST 
+     Tuesday for ANZ350-353.
+     Small Craft Advisory from 6 AM to 6 PM EST Tuesday for ANZ355.
+
+&&
+
+$$
+
+SYNOPSIS...BG/JM
+NEAR TERM...JM
+SHORT TERM...JM
+LONG TERM...BG
+AVIATION...BG
+MARINE...BG/JM
+HYDROLOGY...BG/JM

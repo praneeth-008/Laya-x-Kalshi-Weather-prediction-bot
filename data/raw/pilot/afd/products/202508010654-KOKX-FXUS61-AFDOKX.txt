@@ -1,0 +1,154 @@
+283 
+FXUS61 KOKX 010654
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+254 AM EDT Fri Aug 1 2025
+
+.SYNOPSIS...
+Low pressure slides off the Mid Atlantic coast today followed by 
+high pressure building in for late today into the start of the 
+weekend. The high settles over the region into the first half of 
+next week, and possibly into the later half of the week as well.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+As a frontal boundary gets further south and southeast today, low 
+pressure along the coast south of the area will begin to push 
+offshore. Showers will linger this morning, mainly across eastern 
+and southeastern portions of the area. Otherwise, clouds will linger 
+for a good portion of the day, especially further east. Some partial 
+clearing takes place this afternoon across western and northern 
+portions of the area. A big difference today as far as temperatures 
+and the humidity. Temperatures today will be a good 10 to 15 degrees 
+cooler than yesterday, especially further south across the area 
+where it warmest yesterday. A northeast wind will remain gusty as a 
+tight pressure gradient persists through the first half of the day 
+due to high pressure to the northwest and low pressure and a frontal 
+boundary to the south. The gradient begins to relax later in the 
+afternoon, thus the wind gusts will start to become more occasional 
+and decrease some. Temperatures will actually average a good 7 to 10 
+degrees below average with mainly middle 70s for daytime highs due 
+to clouds for a good portion of the day and a northeast flow.
+
+For tonight as high pressure over the Great Lakes builds down, skies 
+begin to clear. With the winds diminishing look for temperatures to 
+fall into the middle and upper 50s late at night across the interior 
+and more rural locales. Otherwise temperatures settle into the lower 
+and middle 60s closer to the coast as dewpoint readings get down 
+mostly into the drier 50s towards daybreak.
+
+&&
+
+.SHORT TERM /SATURDAY THROUGH SUNDAY NIGHT/...
+A wonderful weather weekend is on tap with a large dome of high 
+pressure being in control with a light northerly flow to begin the 
+weekend for Saturday. Expect plenty of sunshine both days this 
+weekend with cooler 850 mb temperatures look for most places to get 
+into the upper 70s to around 80 on Saturday. For Sunday as the air 
+mass modifies some it gets a few degrees warmer as temperatures get 
+back to normal with mainly lower and middle 80s for daytime highs 
+with light winds. Dew point readings will remain fairly comfortable 
+with a nice break from the oppressive humidity levels from earlier 
+in the week. Temperatures at night will be primarily be in the 60s, 
+with some 50s in the non urban locations.
+
+&&
+
+.LONG TERM /MONDAY THROUGH THURSDAY/...
+Surface high pressure and zonal flow aloft will result in dry 
+weather and seasonable temperatures through at least Tuesday.
+Thereafter, some guidance continue to bring a trough near the region 
+which could lead to unsettled weather in the later part of the week. 
+However, the majority of available guidance seems to be backing off 
+on this scenario, instead trending drier with high pressure holding 
+as the trough looks weaker and remains further north. 
+
+Followed the NBM during this period.
+
+&&
+
+.AVIATION /07Z FRIDAY THROUGH TUESDAY/...
+A cold front will be situated south of the area through this 
+morning. High pressure begins to build in this afternoon into 
+tonight.
+
+MVFR to high-end IFR conditions may continue into the early morning 
+with ongoing showers. Visibility should mainly be 5SM and up, but a 
+few moments of lower vsbys remains possible in any heavier showers 
+that develop, but is expected to be temporary, when and if it 
+occurs. Conditions then improve into mid/late this morning. VFR by 
+this afternoon. Remaining VFR into the night. 
+
+NNE winds 10-15 kts with gusts to around 20-25 kts through the 
+morning. Gusts may occasional. Winds diminish into the afternoon, 
+becoming light from the north and possibly variable by late in the 
+evening or early tonight. 
+
+
+  NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Conditions are expected to shift between high-end IFR and low-end 
+MVFR through 13Z.
+
+Gusts in TAFs might end up being more occasional. 
+
+.OUTLOOK FOR 06Z SATURDAY THROUGH TUESDAY... 
+
+Saturday-Tuesday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Small craft conditions remain in place into the early afternoon for 
+the non-ocean waters. Small craft seas should remain in place not 
+only through today and this evening, but also into Saturday morning 
+for the ocean waters. Towards Saturday afternoon sub advisory 
+conditions are expected to prevail on the ocean. Thereafter, sub 
+advisory conditions are expected on all waters into the middle of 
+next week as high pressure remains in control.
+
+&&
+
+.HYDROLOGY...
+There are no additional hydrologic concerns through the first 
+half of next week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+There will be a high rip current risk through this evening for the 
+ocean beaches predominantly from a strong E to W longshore 
+current from 5-7ft ENE wind waves. The risk then decreases to 
+moderate on Saturday.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...High Risk for Rip Currents from 6 AM EDT this morning through this 
+     evening for NYZ075-080-081-178-179.
+NJ...None.
+MARINE...Small Craft Advisory until 2 PM EDT this afternoon for ANZ331-
+     332-335-338-340.
+     Small Craft Advisory until 6 PM EDT this evening for ANZ345.
+     Small Craft Advisory until 11 AM EDT Saturday for ANZ350-353-
+     355.
+
+&&
+
+$$
+
+SYNOPSIS...JE/BR
+NEAR TERM...JE
+SHORT TERM...JE
+LONG TERM...BR
+AVIATION...BR
+MARINE...JE/BR
+HYDROLOGY...JE/BR
+TIDES/COASTAL FLOODING...

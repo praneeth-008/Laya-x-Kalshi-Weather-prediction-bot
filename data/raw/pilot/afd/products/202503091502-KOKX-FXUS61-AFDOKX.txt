@@ -1,0 +1,166 @@
+020 
+FXUS61 KOKX 091502
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1102 AM EDT Sun Mar 9 2025
+
+.SYNOPSIS...
+High pressure noses in from the south early today as it shifts 
+offshore. A series of weak lows will then pass north of the area 
+this afternoon through tonight. The area will then be in between two 
+stronger lows, one to the north and one to the south, as they head 
+east Monday night through Tuesday. The northern low will drag a cold 
+front through our area Tuesday night. High pressure remains near 
+the region Wednesday through Friday. A frontal system begins to 
+approaches and moves across the area Saturday into Sunday.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+A shrtwv passes thru the cwa this aftn. Deepest moisture is N of
+the area, as is the best instability. Some weak sbCAPE modeled
+from the Taconics and Berkshires nwd. As a result, have
+downgraded any chc for shwrs to a slight chc of sprinkles 
+across the area today. Expecting most if not all of the area to 
+remain dry.
+
+A burst of stronger winds behind the wave with strong
+subsidence. Wind direction will veer a little to the NW as 
+well. No changes to the wind speed fcst attm. NBM90th percentile 
+gusts were blended with the NAM 850mb winds to derive forecast 
+gusts. In general gusts up to 35 mph expected, but there could
+be a few higher gusts around 40 mph with the shrtwv and any evap
+cooling contribution this aftn.
+
+Dry tngt with mainly some mid and high clouds. 
+
+&&
+
+.SHORT TERM /MONDAY THROUGH TUESDAY NIGHT/...
+Quiet weather in the short term period with warm and dry conditions 
+expected. Two stronger areas of low pressure will pass by the 
+area Monday night through Tuesday (one to the north and one to
+the south), but will not result in any weather for our area.
+
+A warm up is expected, with highs each day in the 60s for northeast 
+NJ, NYC and the Lower Hudson Valley and 50s elsewhere. The pressure 
+gradient will be very weak over the area on Monday. Given this, cold 
+water temps and plenty of sun, a sea breeze is expected. This will 
+cool off any coastal areas quite a bit. Coastal CT and the south 
+coast of LI likely see their high temperatures in the early 
+afternoon.
+
+The pressure gradient increases on Tuesday due to the influence
+of the northern low rather than the southern one. This will 
+bring a gusty S/SW flow. It will also bring a slight increase in
+moisture to the area. An associated cold front moves through 
+late Tuesday night, but does not bring any precipitation.
+
+&&
+
+.LONG TERM /WEDNESDAY THROUGH SATURDAY/...
+The period starts off with high pressure north of the region on 
+Wednesday and Wednesday night. A weak upper level shortwave and 
+associated cold front move across the area on Thursday. Some of the 
+00z forecast guidance is showing some shower activity, however the 
+NBM is mainly dry. Will go ahead and carry a slight chance POP 
+through the day to account for this feature. Its likely it will 
+remain more dry than wet.
+
+High pressure remains near the region Thursday night into early 
+Saturday morning. A cold front is then expected to move across the 
+area late Saturday into Sunday. Will carry just chance pops for the 
+weekend. 
+
+High temperatures on Wednesday and Thursday will be in the upper 40s 
+and lower to middle 50s. By Friday temperatures rise into the 50s to 
+near 60 across the NJ metro area. High temperatures for the weekend 
+will be in the middle 50s to low to mid 60s. The only exception will 
+be right along the coastline, where temperatures will be a few 
+degrees cooler.
+
+&&
+
+.AVIATION /15Z SUNDAY THROUGH THURSDAY/...
+Weak low pressure passes to the north today, dragging a surface
+trough across the area this afternoon. At the same time, high 
+pressure passes to the south off the Mid Atlantic coast. 
+
+VFR through the TAF period. W to SW winds today. Speeds will 
+increase into this afternoon with gusts back up to 25-30 kt.
+Can not rule out a few gusts over 30kt. Winds diminish this 
+evening with gusts ending 22Z-00Z. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Onset of gusts may delayed 1-2 hours.
+
+Peak gusts may be slightly higher than forecast in the 17-
+22Z timeframe.
+
+.OUTLOOK FOR 12Z MONDAY THROUGH THURSDAY...
+
+Monday: VFR with W/SW flow.
+
+Tuesday: VFR with S flow.
+
+Wednesday: VFR with N flow.
+
+Thursday: MVFR or lower possible with E flow.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Small Craft Advisory conditions are expected on all waters today 
+with 25 to 30 kt gusts expected. The SCA on the eastern ocean zone 
+will continue through tonight as seas remain at 5 ft and 25 kt gusts 
+return late tonight. Sub-SCA conditions then expected Monday through 
+Tuesday night.
+
+SCA conditions are expected on the ocean waters Wednesday and 
+Thursday will seas around 5 ft. Seas are then expected to fall below 
+5ft Thursday night. The non-ocean waters will remain below SCA 
+levels.
+
+&&
+
+.FIRE WEATHER...
+Today will feature minimum RH 20-40 percent with gusty WSW 
+flow. Gusts up to 30 to 35 mph are expected by the afternoon. 
+Fine fuel moisture will change little. An SPS has been issued
+for NJ per collab with the state. 
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through the end of next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 6 PM EDT this evening for ANZ331-
+     332-335-338-340-345.
+     Small Craft Advisory until 7 AM EDT Monday for ANZ350.
+     Small Craft Advisory until 6 PM EDT this evening for ANZ353-
+     355.
+
+&&
+
+$$
+
+SYNOPSIS...BC/JT
+NEAR TERM...JMC/JT
+SHORT TERM...JT
+LONG TERM...BC
+AVIATION...BC/DW
+MARINE...BC/JT
+FIRE WEATHER...
+HYDROLOGY...BC/JT

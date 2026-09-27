@@ -1,0 +1,217 @@
+449 
+FXUS61 KOKX 210409
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1209 AM EDT Thu Aug 21 2025
+
+.SYNOPSIS...
+A stationary front remains south of the area tonight as Hurricane 
+Erin tracks northward over the Atlantic. Erin then tracks out to sea 
+through the end of the week as high pressure builds into the area. A 
+frontal system may produce chances for showers for the beginning of 
+next week. Please refer to NHC forecasts for further information on 
+Hurricane Erin.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM THIS MORNING/...
+An upr trough passes thru the area tngt. This will produce some rain 
+across the area, especially this eve. Moisture is fairly shallow per 
+the GFS and NAM time heights, indicating a lack of a tropical 
+connection. However, decent frogen around 2k ft is indicated, 
+especially tngt, which would serve to enhance lift and rainfall. 
+Because of this, went abv the NBM for rainfall amounts. There could 
+be an embedded tstm with the extra lift despite the limited 
+instability. 
+
+ENE winds will increase overnight, especially at the coasts, as the 
+pres gradient increases ahead of Erin. Streamlines show the flow 
+coming from the N Atlc, so cool temps tngt in the 50s and lwr 60s 
+with the rain.
+
+&&
+
+.SHORT TERM /6 AM THIS MORNING THROUGH 6 PM FRIDAY/...
+Coastal flooding and dangerous surf will be the primary hazards Thu 
+and Thu ngt. Please see the TIDES/COASTAL FLOODING section for 
+details.
+
+Erin makes the turn on Thu and heads out to sea. NE flow with 
+moisture transport at h85 should keep the area mostly cloudy to ovc 
+thru most of the day, particularly E. There could be a few pockets 
+of lgt rain or sprinkles, especially in the mrng, until subsidence 
+increases thru the day. 
+
+Winds will back and strengthen thru the day, with the strongest flow 
+in the aftn and eve attm. Strongest winds over ern cstl areas where 
+gusts 30-40 mph are possible. 
+
+The NBM was followed for temps.
+
+&&
+
+.LONG TERM /FRIDAY NIGHT THROUGH WEDNESDAY/...
+High pres builds in on Fri, with a dry airmass and decreasing nly 
+winds. The flow appears lgt enough by aftn allowing sea breezes 
+to develop. Highs in the lower 80s per the NBM.
+
+Continues dry on Sat attm with highs again the the 80s per the NBM. 
+A sly return flow off the ocean so an increase in humidity can be 
+expected. 
+
+An approaching upr trop brings swly flow aloft on Sun, then the trof 
+slows over the region thru the beginning of next week. This should 
+keep temps on the cooler side of normal, and produce chances for 
+shwrs and perhaps isold tstms at times. The NBM was followed.
+
+&&
+
+.AVIATION /04Z THURSDAY THROUGH MONDAY/...
+A frontal system moves through tonight.
+
+MVFR or IFR with SHRA. Showers taper overnight toward daybreak,
+with lingering mist and spotty showers into the morning. 
+Conditions dry out entirely by late morning and cigs improve to
+VFR by mid to late afternoon.
+
+NE flow 10 to 15 kt with gusts to 20 kt, increasing on Thursday
+with gusts up to 30 kt possible by late afternoon, highest at
+the coastal terminals.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Timing of improving flight categories may be off by a couple of
+hours.
+
+Gusts tonight may be more occasional.
+
+.OUTLOOK FOR 00Z FRIDAY THROUGH MONDAY...
+
+Thursday Night: VFR. NE gusts to 30 kt.
+
+Friday: VFR. NE-N winds 15G20-25kt in the morning. 
+
+Saturday: VFR. 
+
+Sunday and Monday: MVFR or lower possible in any showers.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+All areas are now under a SCA for tngt, with the ocean going to 
+gales Thu and Thu ngt, and the remaining waters staying at SCA. 
+Dangerous/rough cond around inlets can be expected thru this period. 
+
+Winds decrease on Fri, but the ocean will need a SCA thru Sat and 
+perhaps Sun for lingering seas. All waters blw SCA lvls on Mon
+attm.
+
+&&
+
+.HYDROLOGY...
+Around an inch of rain is possible thru tngt. Some locally higher 
+amounts are possible, particularly ern LI and ern CT, where 
+convergence of moisture and forcing is greatest. In general, there 
+is a chance for some pockets of minor urban and poor drainage 
+flooding thru tngt. If the locally hvy rain develops, there is a low 
+chance for an isold flash flood mainly ern areas. The area remains 
+in a mrgnl risk for excessive rainfall. 
+
+No significant hydrologic impacts are expected Fri-Tue.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+A High Surf Advisory and High Rip Current risk are in effect for all 
+Atlantic Ocean beaches through Friday as swell from Hurricane Erin 
+will bring life-threatening surf and rip currents. 
+
+Life-threatening surf and rip currents expected for the rest of this 
+week as building long period swells from Erin continue, peaking 
+Thu/Fri. Surf heights could reach 12-16 ft from Thu afternoon and 
+continuing into early Fri morning, as large, very long period swells 
+(10-11 ft @ 15-17 sec) arrive nearly head on at the beaches. 
+
+The threat for beach flooding, beach erosion and escarpment and 
+areas of dune erosion will increase with successive high tides thru 
+Thu night. Widespread areas of dune erosion are likely with 
+localized overwashes during the Thu evening and Fri morning high 
+tides. This high surf will be combined with elevated water levels as 
+we approach a new moon.
+
+Widespread moderate coastal flooding is expected for southern 
+Queens, southern Nassau, and southwestern suffolk counties. For 
+eastern Long Island, moderate flooding will likely be more 
+localized, with north facing exposed shoreline areas along the 
+southern and eastern bays being the most susceptible due to to 
+enhanced wave action. This includes Orient Point.
+
+Elsewhere, minor coastal flooding is expected with Thursday 
+evening's high tide cycle for southern Brooklyn, the NY Harbor, and 
+much of the CT & NY coastlines along the Long Island Sound. Coastal 
+Flood Advisories have been issued in these areas. 
+
+Additional rounds of minor flooding are expected with Friday morning 
+and Friday evening's high tide cycles. Advisories are in place for 
+the areas at highest risk.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Coastal Flood Advisory from 8 PM this evening to 1 AM EDT 
+     Friday for CTZ009>011.
+     Coastal Flood Advisory from 10 PM Friday to 2 AM EDT Saturday 
+     for CTZ009.
+NY...Coastal Flood Advisory from 8 PM this evening to 1 AM EDT 
+     Friday for NYZ071-073-078-176-177.
+     Coastal Flood Advisory from 10 PM Friday to 2 AM EDT Saturday 
+     for NYZ071.
+     Coastal Flood Advisory from 6 PM to 11 PM EDT this evening for 
+     NYZ072-074-075.
+     Coastal Flood Advisory from 6 PM to 11 PM EDT Friday for 
+     NYZ072-074-075.
+     High Risk for Rip Currents through Friday evening for NYZ075-080-
+     081-178-179.
+     High Surf Advisory until 8 PM EDT Friday for NYZ075-080-081-
+     178-179.
+     Coastal Flood Warning from 5 PM this afternoon to 3 AM EDT 
+     Friday for NYZ079-081.
+     Coastal Flood Advisory from 5 AM to 2 PM EDT Friday for NYZ079-
+     081.
+     Coastal Flood Warning from 5 PM this afternoon to 1 AM EDT 
+     Friday for NYZ080-178-179.
+     Coastal Flood Advisory from 5 AM to 1 PM EDT Friday for NYZ080-
+     178-179.
+     Coastal Flood Advisory from 6 PM Friday to 2 AM EDT Saturday 
+     for NYZ080-178-179.
+NJ...Coastal Flood Advisory from 6 PM to 11 PM EDT this evening for 
+     NJZ006-106-108.
+     Coastal Flood Advisory from 6 PM to 11 PM EDT Friday for 
+     NJZ006-106-108.
+MARINE...Small Craft Advisory until 2 PM EDT Friday for ANZ331-332-340-
+     345.
+     Small Craft Advisory until 6 AM EDT Friday for ANZ335-338.
+     Small Craft Advisory until 6 AM EDT early this morning for 
+     ANZ350-353-355.
+     Gale Warning from 6 AM this morning to 2 PM EDT Friday for 
+     ANZ350.
+     Gale Warning from 6 AM this morning to 6 AM EDT Friday for 
+     ANZ353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JMC
+NEAR TERM...JMC
+SHORT TERM...JMC
+LONG TERM...JMC
+AVIATION...DR
+MARINE...JMC
+HYDROLOGY...JMC
+TIDES/COASTAL FLOODING...

@@ -1,0 +1,209 @@
+727 
+FXUS61 KOKX 231549
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1149 AM EDT Fri May 23 2025
+
+.SYNOPSIS...
+Low pressure over New England will slowly track towards the
+Canadian Maritimes through Saturday, then stall and gradually 
+weaken through Sunday. Weak high pressure will build into the 
+region on Monday and then slide east on Tuesday. Weak low 
+pressure begins to approach from the Tennessee Valley midweek, 
+possibly affecting the region mid or late week.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Main area of low pressure off the coast of Maine within a
+broader low over the northeast. A weak trough is currently 
+moving across the area along with some middle level vorticity 
+energy. This will continue to produce some pockets of light rain
+or sprinkles into the early afternoon, mainly the western half 
+of the area. Once the trough pushes north and east, some 
+improvement is expected with cloud cover, especially closer to 
+the coast mid to late afternoon. 
+
+Several areas of vorticity within the upper trough will continue 
+rotating through this afternoon and evening, which may help 
+generate some isolated to scattered showers. Soundings indicate 
+some weak instability between 5-10kft. With a freezing levels 
+around 5-6 kft, this instability may be enough to develop some 
+low topped convection in the afternoon. Depth of instability is 
+thin so any lightning would be isolated at worst, but there 
+could be brief very small hail if convection were to develop. 
+The HRRR has been hinting that this low topped convection could 
+develop where clouds start thinning out across NJ and then shift
+towards the NYC metro and Long Island this evening. 
+
+Showers should wane tonight as the BL cools, instability 
+lessens, and the jet streak exits. Skies may even become mostly 
+clear overnight. A W flow however should keep the low levels 
+mixed sufficiently to prevent significant radiational cooling. 
+If any areas do decouple, lows could be 5-10 degrees colder in 
+those spots than currently forecast.
+
+&&
+
+.SHORT TERM /SATURDAY/...
+Instability recharges on Sat with a slight warming trend across
+the cwa. All areas progged to reach the 60s. Cold aloft with h85
+blw 0C. With cyclonic flow aloft, feel the NAM is too dry, and
+the NBM pops which are basically dry across the cwa too low. As
+a result, went at least slight chance all areas during the day
+on Sat. Coverage isold-sct, with a few low topped tstms again
+possible. It will already be breezy with well mixed flow. Time
+heights show unidirectional winds thru h2. Some enhanced gusts
+possible with any convection with dcape around 200.
+
+Any pcpn should again dissipate Sat ngt, and likely quickly.
+Went with the NBM for temps which produces lows about 5 degrees
+blw normal.
+
+A drier fcst for Sun, but again cannot rule out a few aftn
+shwrs. Did not stray from the NBM however at this stage, so most
+of the cwa except for the nwrn corner has a dry fcst. Enough sun
+and mixing expected to keep the warming trend going. Cool again
+at night with lows in the 40s to around 50. Wouldn't be
+surprised if the guidance trends a little lower based on the
+current idea of better radiational cooling.
+
+&&
+
+.LONG TERM /SATURDAY NIGHT THROUGH THURSDAY/...
+Good model agreement in mean troughing to start the week as Canadian 
+Maritimes closed upper low gradually opens up and slides out to sea, 
+followed by weak ridging albeit interrupted by a northern stream 
+shortwave rotating through the area on Wed. Model spread increases 
+in terms of upper level flow for mid-late week, based on interaction 
+of a northern plains cutoff upper low and northern stream jet over 
+Canada.
+
+At the surface, weak high pressure builds into the region Mon and 
+Tue, with dry conditions and temps near seasonable. Potential for a 
+southern low to approach the region for midweek, but latest medium 
+range model trend has been for a slower approach for late week, but 
+will ultimately be predicated on earlier mention interaction of a 
+northern plains cutoff upper low and northern stream jet over Canada.
+Temps will also depend on mid to late week low pressure, generally 
+running near to slight above seasonable if the low remains 
+suppressed, otherwise a few degrees below normal if the low pressure 
+system ends up affecting the region.
+
+&&
+
+.AVIATION /16Z FRIDAY THROUGH TUESDAY/...
+Unusually strong late May coastal low pressure slowly tracks up
+the New England coast today, while another weak low over the 
+eastern Great Lakes tracks east across New England, before both 
+lift northeast tonight. 
+
+MVFR cigs continue through much of the day with iso to sct 
+showers (MVFR vsby possible with -shra with periods of IFR) thru
+late afternoon, particularly for northern terminals. A slow 
+improvement to VFR from SW to NE in the mid to late afternoon. 
+Potential for scattered late day showers/evening showers (very 
+slight and sparse tsra potential as well).
+
+Southerly winds 5 to 10 kt, backing to the W and increasing to 
+10-14g15-20kt this afternoon, particularly western terminals. 
+Gusts subside this evening, but winds likely remain in the 7 to 
+10 kt range. 
+
+  ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+VFR conds for eve push, outside of iso/sct shra. Very low and 
+sparse potential for a tsra btwn 22 and 02z. 
+
+Occasional westerly gusts of 15 to 20 kt for this aft/eve push.
+
+VFR with winds increasing to 10 to 15 kt with occasional gusts 
+to 20 kt for Sat Am push.
+
+.OUTLOOK FOR 15Z SATURDAY THROUGH TUESDAY...
+
+Saturday: VFR. W winds 15G20-25kt.
+
+Sunday: MVFR. NW winds 10-15g20kt.
+
+Monday: VFR. NW winds 10-15kt.
+
+Tuesday: VFR. Low probability of MVFR in shra late day.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Have adjusted the start time to 8pm for the SCA on the ocean 
+west of Fire Island Inlet as seas have been around 3 ft with 
+winds well below 25 kt. The rest of the SCA remains in effect 
+through tonight. Ocean seas should build close to 5 ft tonight.  
+Winds may be close to sca lvls all waters on Sat. On the ocean, 
+seas will likely be around 5 ft, so the SCA may need to be 
+extended through Saturday evening. Lighter winds and subsiding 
+seas expected Sun. Generally sub SCA conditions Mon thru Wed 
+with weak pressure regime.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts expected through the middle of next week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+Localized minor coastal flooding possible with this evening high 
+tide cycle for southern portions of Nassau County and SW CT as water 
+levels approach minor flood thresholds, but confidence is too low 
+for a statement at this time.   
+
+Farther down the road, there is potential for localized minor 
+coastal flooding Sun into early next week with approach of the new 
+moon, causing areas to need as little as 1/4 ft of tidal departure 
+for minor coastal flooding.
+
+The OKX surf zone forecast season begins today with a high rip 
+current risk for all the ocean beaches. Various contributing factors 
+include a 4-ft/9-sec E swell and an opposing WSW 10-15 flow in 
+the afternoon leading to chaotic conditions. Surf temps have 
+cooled off to the lower/mid 50s, which should keep most people 
+out of the water anyway. 
+
+The rip current risk for Saturday should be moderate as onshore
+seas gradually subside. 
+
+Outlook for the rest of the Memorial Day weekend: Rip risk likely 
+reduces to low for Sunday, and a low risk for Memorial Day, as 
+onshore swells continue to subside.
+
+&&
+
+.CLIMATE...
+The following are the daily record low temperatures for today,
+May 23rd:
+
+NYC: 43/1963
+JFK: 44/1963
+LGA: 45/1963
+EWR: 43/1931
+BDR: 42/1963
+ISP: 42/2006
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...High Risk for Rip Currents until 9 PM EDT this evening for NYZ075-
+     080-081-178-179.
+NJ...None.
+MARINE...Small Craft Advisory until 6 AM EDT Saturday for ANZ350-353.
+     Small Craft Advisory from 8 PM this evening to 6 AM EDT 
+     Saturday for ANZ355.
+
+&&
+
+$$

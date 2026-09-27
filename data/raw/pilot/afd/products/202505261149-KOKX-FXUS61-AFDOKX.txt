@@ -1,0 +1,142 @@
+867 
+FXUS61 KOKX 261149
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+749 AM EDT Mon May 26 2025
+
+.SYNOPSIS...
+High pressure builds across the area through Tuesday. A series 
+of low pressure systems then move through the region from 
+midweek through the weekend.
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+Minor tweaks to hourly temps this mrng. Otherwise, the fcst is
+on track. Rising heights today, so despite some more weak 
+instability during the daytime hours, this should inhibit the 
+development of shwrs today. With the steep llvl lapse rates, 
+skies could cu up quickly and become bkn-ovc at times as the cu 
+flattens blw subsidence aloft. A light NW flow early today 
+becomes light sly late as the ocean air attempts to advect in on
+weak background flow. High temps are still progged to be 
+slightly blw normal, although almost the entire are is expected 
+to hit at least 70 per the NBM.
+
+&&
+
+.SHORT TERM /6 PM THIS EVENING THROUGH WEDNESDAY/...
+High pres ridges across the region on Tue, keeping the cwa dry.
+A moderate sly flow develops Tue aftn aided by warming temps 
+over the land. The NBM suggests that this is the day that highs 
+reach normal. 
+
+Increasing clouds Tue ngt as moisture from the srn Plains
+reaches the area. The main sys approaches Wed and looks to be 
+the result of cycles of convection, with these remnants passing 
+S of the area on Wed along a nearly stationary front. Slightly 
+cooler with the clouds, chances for shwrs, and continued onshore
+component flow. Went with the NBM pops, but there are some
+timing differences with the ECMWF much slower than the GFS.
+
+&&
+
+.LONG TERM /WEDNESDAY NIGHT THROUGH SUNDAY/...
+Long term looks rather unsettled with troughing over the Midwest 
+swinging east through late week with a series of low pressure 
+systems developing and passing nearby.
+
+Weakening low pressure approaches from the Mid Atlantic to start Wed 
+night into Thu. Differences in placement and timing continue amongst 
+the global models, and quite a bit of uncertainty as to the primary 
+window for precipitation. Can't rule out convective thunderstorms, 
+particularly Thursday, though the risk for severe weather appears 
+low, as does any significant hydro concerns. The next low pressure 
+quickly follows Friday into the start of the weekend, with 
+additional rainfall.
+
+While not an entire washout, chances for showers persist through 
+much of the the period. Despite this, QPF isn't too impressive, with 
+ensemble means generally averaging at or under an inch in total.
+
+&&
+
+.AVIATION /12Z MONDAY THROUGH FRIDAY/...
+High pressure builds in through the day.
+
+VFR.
+
+NW winds under 10 kt veer N this morning, followed by afternoon
+sea breezes. Winds remain at around 10 kt or less thru the day,
+lightening further tonight.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No unscheduled amendments expected. 
+
+Sea breeze timing may be off by 1-2 hours.
+
+.OUTLOOK FOR 12Z TUESDAY THROUGH FRIDAY...
+
+Tuesday: VFR.
+
+Wednesday-Friday: MVFR likely. IFR possible Thursday. Chance of 
+showers.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Winds and seas will remain below SCA levels through the day on
+Wed with a relatively weak pressure gradient in place. 
+
+Ocean seas build to 5 ft Wed night or Thursday on the ocean, 
+and likely remain elevated into the weekend. Elsewhere, sub SCA 
+conditions expected.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts expected through next weekend.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+Localized minor coastal flooding possible during the next 
+couple of high tide cycles with astronomically high water levels
+from a new moon occurring this evening.
+
+Coastal Flood Statement hoisted for this evening's high tide cycle 
+for coastal Fairfield CT along the western LI Sound, as well as for 
+the back bays of Nassau, Queens, and the most vulnerable locales in 
+Brooklyn. Water levels here could touch or just exceed minor 
+flood thresholds.
+
+There is a low rip current risk thru Tue with light winds. The
+risk likely increases to moderate on Wednesday with building
+seas.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JMC/DR
+NEAR TERM...JMC
+SHORT TERM...JMC
+LONG TERM...DR
+AVIATION...JC/DR
+MARINE...JMC/DR
+HYDROLOGY...JMC/DR
+TIDES/COASTAL FLOODING...

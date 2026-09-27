@@ -1,0 +1,141 @@
+685 
+FXUS61 KOKX 031132
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+732 AM EDT Sun Aug 3 2025
+
+.SYNOPSIS...
+High pressure remains in control through the first half of next
+weekend.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+High pressure will continue to build into the area through the
+beginning of the week.
+
+Cool temperatures this morning from near ideal radiational
+cooling condition should rapidly warm with ample sunshine
+expected. Temperatures should warm a bit more than yesterday 
+with high temperatures expected to be in the middle 80s for most
+with upper 80s possible near the NYC metro.
+
+&&
+
+.SHORT TERM /MONDAY THROUGH TUESDAY NIGHT/...
+Quiet conditions continue with another night of cool
+temperatures expected given the abnormally dry airmass overhead.
+Lows are expected to drop into the upper 50s for the interior
+with low to middle 60s for coastal locations. Some patchy fog
+remains possible for the coolest of locations.
+
+Mostly sunny and dry conditions persist Monday and Tuesday with
+slightly warmer temperatures. Highs on Monday and Tuesday will 
+be in the middle to upper 80s for most with a few locations
+hitting 90 possible for NE NJ and the NYC metro. The airmass
+remains relatively dry for the middle of summer so a relatively
+comfortable feel to the air is expected with cool nights through
+Tuesday night.
+
+The only weather phenomena of note is the potential for some 
+smoke to move into the area on Monday. WHile much of this smoke
+should be aloft, its possible for some of the fine particulates
+to make it near the surface under a general sinking of the air
+under high pressure. As of now, the only impact expected is the
+presence of a possibly hazy sky.
+
+&&
+
+.LONG TERM /WEDNESDAY THROUGH SATURDAY/...
+***Key Points***
+
+* Dry conditions are expected into the beginning of next weekend as 
+  offshore high pressure remains in control.
+
+* Seasonable temperatures through the period with highs in the lower 
+  to mid 80s, and lows mainly in the 60s. Humidity levels will 
+  remain comfortable.
+
+The NBM was largely followed with this update.
+
+A decent stretch of sensible weather is in store for the extended 
+period as global models and their respective ensembles advertise a 
+building upper ridge and high pressure at the surface through much 
+of the period. With strong ridging over the Four Corners region, a 
+few weak shortwaves will pass through the northeast ridge during the 
+period without much fanfare. The flow attempts to flatten some by 
+late Thursday into Friday, as the surface high retreats to the 
+northeastern coast. The upper ridge builds once again for the 
+beginning of next weekend. There is only a slight chance of 
+thunderstorms Thursday afternoon across far western portions of 
+Orange County as a weak shortwave passes to the north.
+
+&&
+
+.AVIATION /12Z SUNDAY THROUGH THURSDAY/...
+High pressure remains over the region through Monday.
+
+VFR.
+
+Light and variable to calm winds across the region become light
+northerly this morning, and then S/SE at less than 10 kt during
+the afternoon, with sea breeze enhancement. Light and variable
+winds are once again expected tonight.
+
+
+     NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Wind shift/sea breeze timing may vary by an hour or so.
+
+
+.OUTLOOK FOR 12Z MONDAY THROUGH THURSDAY... 
+
+Monday - Thursday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Sub-SCA conditions will persist for all of the forecast waters 
+through at least Tuesday night with a light flow as high 
+pressure settles over the area. By Wednesday, seas may approach 
+5 ft, especially well away from the coast.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through next week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+The rip current risk will be low for ocean beaches today and
+Monday. Winds are going to be quite light through the forecast 
+period with wind speeds of mostly under 10 mph. Initially winds 
+are offshore but then become more onshore in the afternoon. 
+Ocean waves are expected to generally be around 1 to 2 ft.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...MET/MW
+NEAR TERM...MW
+SHORT TERM...MW
+LONG TERM...MET
+AVIATION...MET
+MARINE...MET/MW
+HYDROLOGY...MET/MW
+TIDES/COASTAL FLOODING...

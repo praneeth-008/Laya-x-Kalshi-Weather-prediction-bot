@@ -1,0 +1,176 @@
+705 
+FXUS61 KOKX 282104
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+404 PM EST Fri Feb 28 2025
+
+.SYNOPSIS...
+Low pressure passes north of the region tonight, drawing a cold 
+front through on Saturday. High pressure then builds in through
+Monday, moving off the coast Monday night into Tuesday. Low 
+pressure will then approach from the Plains states and impact 
+the area from Tuesday night into Thursday. High pressure then 
+follows on Friday.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM SATURDAY MORNING/...
+Low pres was analyzed over Lake Superior at 18Z. The low will track 
+ewd tngt across Ontario, reaching Quebec Sat mrng. 
+
+Sly flow develops across the local area tngt due to the approaching 
+low and high pres over the Atlc. The warm front is modeled to remain 
+near the Canadian border, so moisture will be limited and forcing 
+minimal. As a result, removed pops for pcpn, and only included 
+slight chances for a few sprinkles across the nrn portion of the cwa 
+tngt. Otherwise, increasing clouds and a mixed bl will limit the 
+diurnal swing. The NBM was followed pretty closely for temps as a 
+result. 
+
+&&
+
+.SHORT TERM /6 AM SATURDAY MORNING THROUGH SATURDAY NIGHT/...
+Low pres to the N will draw a cold front thru the area Sat. Temps 
+are expected to fall late in the aftn, particularly nwrn areas, with 
+caa kicking in. It will be a bit windy as well, especially behind 
+the front with subsidence, aided by evap cooling, resulting in a 
+well mixed airmass. Increased in gusts to around 30kt for all areas.
+
+As the upr trof comes thru, steepening lapse rates could trigger a 
+few shwrs across the area. It would not be surprising to see some 
+graupel mixed in. NBM pops were essentially dry, so had to manually 
+input the numbers. Went with isold wording for nrn areas where 
+confidence was higher, and slight chance wording elsewhere. Any 
+shwrs that develop could produce some wind gusts close to 40 mph 
+with the evap cooling contribution. 
+
+Any pcpn chances end by dark with decreasing instability, and skies 
+clear. Perhaps some lake clouds bleed in from the NW. 
+
+It will remain breezy Sat ngt with caa and unidirectional nwly flow. 
+This will bring wind chills into the single digits. 
+
+&&
+
+.LONG TERM /SUNDAY THROUGH FRIDAY/...
+Key Points:
+
+* Temperatures will moderate quickly, from a few degrees below 
+  normal on Monday to above normal during mid week. 
+
+* A long duration moderate to locally rainfall event will occur mid 
+  week with the approach of a frontal system. 
+
+Global models are overall good agreement through the period and
+therefore stayed close to the NBM guidance, minus some small 
+timing issues and underperformance of the NBM winds in stronger
+flow regimes (particularly W/NW flow). 
+
+The upper trough over the Northeast Monday quickly lifts out
+into the North Atlantic, while a strong southern branch closed 
+low tracks across the Four Corners region. The unseasonably 
+cold airmass in place at the start will be fleeting as a deep-
+layered W/SW flow ahead of the southern branch storm system will
+become dominant. Temperatures will moderate from highs in the 
+30s both Sunday and Monday to well into the 50s on Wednesday in
+a strong southerly flow. High pressure over the area Monday 
+retreats offshore as low pressure emerges out into the central 
+PLains. The low rapidly deepens, tracking northeast across the 
+Great Lakes on Wednesday and across eastern Canada on Thursday.
+Large scale warm advection in a deep-layered southerly flow
+ahead of the system will transport both Gulf and Atlantic moisture
+into the system with the potential for bands of moderate to 
+heavy rain Wednesday and Wednesday night. The associated cold 
+front passes through Thursday morning with lingering showers 
+possible through the day with the upper trough passing overhead.
+Airmass behind cold front brings lows back down below freezing 
+Thursday night with highs in the 40s, closer to normal.
+
+&&
+
+.AVIATION /21Z FRIDAY THROUGH WEDNESDAY/...
+VFR.
+
+High pressure over the area moves offshore early this evening. Low 
+pressure, passing north of the Great Lakes, impacts the terminals 
+tonight and Saturday, with a strong cold frontal passage midday into 
+the afternoon.
+
+W-NW winds back to W/SW late afternoon into this evening as high 
+pressure moves offshore. Gusts around 20 kt will be ending toward 
+sunset. Winds may become light and variable at most of the TAF sites 
+early this evening, around 00Z, before becoming S.
+Southerly gusts develop late tonight. And LLWS becomes likely 07Z to 
+11Z/12Z. Winds diminish with the approach of a cold front Saturday 
+morning.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No unscheduled AMD expected.
+
+.OUTLOOK FOR 18Z SATURDAY THROUGH WEDNESDAY...
+
+Saturday afternoon: VFR. W/NW G25-30 kt, around G25 kt at night.
+
+Sunday through Tuesday: VFR. Chance of rain showers Tuesday night 
+with MVFR.
+
+Wednesday: IFR to LIFR with rain showers. Winds S G20-30 kt. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Winds will decrease quickly early this eve, so the sca has been 
+canceled on the protected waters. On the ocean, seas will remain
+abv 5 ft thru tngt. All waters are at sca lvls Sat and Sat ngt.
+
+SCA conditions may linger into Sunday in a diminishing NW flow
+as high pressure builds in from the west. Increasing S flow 
+ahead of midweek storm system will likely bring 5-ft seas to 
+the ocean waters Tue night, and SCA conditions to all waters on
+Wednesday and possibly a gale for the ocean with gusts 30-35 
+kt. Seas on the ocean may build in excess of 10 ft Wednesday 
+night.
+
+&&
+
+.HYDROLOGY...
+A frontal system could bring about an inch of rain on average
+from Tuesday night into Thursday. Potential for locally higher 
+amounts exists especially Wednesday into Wednesday evening. 
+
+&&
+
+.TIDES/COASTAL FLOODING...
+A coastal flood statement remains up for S Fairfield and 
+Westchester for tonight's high tide cycle close to midnight as 
+fcst water levels at the Stamford and Bridgeport gauges may just 
+barely touch minor flood thresholds.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory from 10 AM Saturday to 6 AM EST Sunday 
+     for ANZ331-332-335-338-340-345.
+     Small Craft Advisory until 6 AM EST Sunday for ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JMC/DW
+NEAR TERM...JMC
+SHORT TERM...JMC
+LONG TERM...DW
+AVIATION...MET
+MARINE...JMC/DW
+HYDROLOGY...JMC/DW
+TIDES/COASTAL FLOODING...BG/JMC

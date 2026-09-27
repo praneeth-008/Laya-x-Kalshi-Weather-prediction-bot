@@ -1,0 +1,190 @@
+926 
+FXUS61 KOKX 312057
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+357 PM EST Fri Jan 31 2025
+
+.SYNOPSIS...
+Low pressure shifts through the region tonight, followed by high 
+pressure through Saturday night. A warm front then approaches on 
+Sunday and passes through during Sunday night. The trailing cold
+front from this low pressure system passing to the north will 
+pass through Monday night, followed by high pressure through early
+Wednesday. Another frontal system will then impact the area later
+on Wednesday into Thursday. High pressure is expected to follow 
+on Friday. 
+
+&&
+
+.NEAR TERM /UNTIL 6 AM SATURDAY MORNING/...
+A mid-level trough will help push a broad area of low pressure 
+through the forecast area tonight. Upward forcing associated with 
+the low, including synoptic scale lift from an upper jet streak will 
+bring rain across the area. The higher rain amounts will be 
+generally east of the city. The rain will likely shift offshore by 
+the end of the night, but cannot completely rule out the chance of 
+brief light snow or even freezing drizzle well north of the city 
+after midnight as the precip comes to an end.
+
+Another issue is the fog. Light winds and small dewpoint 
+depressions will lead to areas of fog mainly away from the city. 
+Patchy dense fog will be possible mainly north of the city until 
+winds can shift more northerly tonight and usher in lower dewpoint 
+air. Could need at least a special weather statement for this.
+
+&&
+
+.SHORT TERM /6 AM SATURDAY MORNING THROUGH SUNDAY NIGHT/...
+High pressure will be building in out of Canada through the day 
+Saturday, bringing in a colder air mass. It'll be sunny, and high 
+temperatures will be slightly below normal in the 30s across the 
+area. Breezy conditions, particularly in the morning will add to the 
+chill, making it feel like it's only in the 20s.
+
+Winds then diminish Saturday night as the center of high pressure 
+shifts to our north and the pressure gradient weakens. Mainly clear 
+conditions and light to calm winds will allow for radiational 
+cooling, with low temperatures dropping into the single digits 
+across the northernmost zones. Teens for most other locations, 
+except low 20s in the city.
+
+For Sunday, looks like it should be dry most of the day. Overrunning 
+precip will however advance from the west ahead of a warm front. 
+This front is in association with a quick-moving low pressure system 
+well to our north. Snow will be possible towards late in the day 
+north of the city. Snow chances then become more likely Sunday night 
+north of the city as the warm front moves through, with the highest 
+chances being over SE CT. Looks like it should be coming to an end 
+by the time a warm nose pushing in could result in a wintry mix late 
+at night. Snow amounts of an inch or less anticipated - highest 
+generally across the northernmost zones. For the city, LI and the 
+urban corridor of NE NJ, precip chances are capped at chance, and it 
+should be warm enough for rain during the whole event. 
+
+&&
+
+.LONG TERM /MONDAY THROUGH FRIDAY/...
+A nearly zonal flow will feature some timing issues with a midweek 
+storm system that will impact the area. The latter of which will be 
+driven by kink in the flow late in the week as an amplifying 
+shortwave trough drops across the Great Lakes Thursday and across 
+the Northeast on Friday. Before then though, a cold front will pass 
+through the area Monday night as low pressure passes well to the 
+north. This looks to be uneventful with perhaps an isolated shower. 
+More importantly, it will return the area to temperatures closer to 
+normal for early February and potentially set the stage for some 
+wintry weather later in the week. High pressure briefly returns 
+Tuesday into early Wednesday.
+
+Where there are issues that still need to be resolved are with low 
+pressure emerging from the Central Plains midweek and the 
+overrunning precipitations that breaks out well in advance of the 
+associated warm front. The parent low likely tracks west of the area 
+with warm air surging in aloft and snow or a rain/snow mix the onset 
+that goes over to rain Wednesday night. A confluent flow between the 
+two branches of the polar jet lifts out to the northeast on 
+Wednesday. How quickly that happens will determine the extent of 
+cold air and how quickly it erodes. There is high confidence that 
+enough warm air moves in aloft for a changeover to rain, but an 
+extended period of freezing rain is possible north and west of the 
+NYC metro Wednesday night. The NBM still is showing quite a 
+temperature spread for the midweek system with box and whisker plots 
+showing as much as 20 degree spreads between the 25th and 75th 
+percentiles. The deterministic is very close to the median during 
+this time. Expect all rains on Thursday before it comes to an end 
+late Thursday night following a cold frontal passage. Temperatures 
+in the warm sector Thursday may get into the 50s, but falling back 
+into the 40s Friday. Thus, a period of quickly changing weather. 
+
+&&
+
+.AVIATION /21Z FRIDAY THROUGH WEDNESDAY/...
+Low pressure approaches from the west this evening with a warm front 
+over the coast. A cold front moves through tonight. High pressure 
+builds in on Saturday.
+
+Widespread IFR conditions will persist this afternoon and tonight. 
+Coastal terminals like KISP, KHPN, KGON, and KJFK may be LIFR for 
+much of the time as well. There may be some localized brief 
+improvements in flight categories this evening, but largely 
+expecting IFR/LIFR the rest of the afternoon and evening. Categories 
+improve to MVFR before 12Z Saturday then VFR from 12-15Z from west 
+to east.
+
+Intermittent light rain possible through this afternoon. More 
+widespread rain expected this evening, mainly after 22-00Z and 
+through tonight, mainly before 6Z. Rain comes to an end from west to 
+east from 5-9Z. KSWF may briefly mix with -SN before ending.  
+
+Winds this afternoon/early evening will be S to SW under 10 kts, 
+with some locations being light and variable. Wind will become NW 
+and increase late tonight to near 10kt. Winds by Saturday morning 
+will be NW 10-15 kt with gusts upwards of 25kt. Some gusts upwards 
+of 30kt possible before gusts end from around 22Z Saturday.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Amendments likely for timing of category changes and onset/ending of 
+rain possible through the night. 
+
+.OUTLOOK FOR 21Z SATURDAY THROUGH WEDNESDAY...
+
+Saturday PM: VFR. NW winds 10-15G20-25kt. Some gusts to 30kt 
+possible. Gusts ending by evening.
+
+Sunday: VFR during the day, a chance of MVFR or lower conditions at 
+night in rain and/or snow.
+
+Monday: VFR.
+
+Tuesday: VFR. 
+
+Wednesday: MVFR or lower in rain or snow showers.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Will need to monitor for the potential of a dense fog advisory at 
+least during the evening hours tonight based on local weather cams 
+and with the expectation that winds won't increase and shift north 
+until the overnight hours. Otherwise, the SCA has been extended on 
+the ocean into Saturday night as a lingering swell is expected to 
+keep seas elevated. Elsewhere, have issued a SCA for the daytime 
+Saturday for gusty northerly winds as building high pressure causes 
+a tightening pressure gradient. Sub-advisory conditions then prevail 
+for Sunday through Wednesday. The only exception would be marginal
+SCA gusts on the ocean possible ahead of a cold front Monday and
+behind it Monday night into Tuesday.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns at this time.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory from 6 AM to 6 PM EST Saturday for ANZ331-
+     332-335-338-340-345.
+     Small Craft Advisory until 6 AM EST Sunday for ANZ350-353.
+     Small Craft Advisory until 1 AM EST Sunday for ANZ355.
+
+&&
+
+$$
+
+SYNOPSIS...JC/DW
+NEAR TERM...JC
+SHORT TERM...JC
+LONG TERM...DW
+AVIATION...MW
+MARINE...DW/MW
+HYDROLOGY...DW/MW

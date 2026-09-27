@@ -1,0 +1,203 @@
+150 
+FXUS61 KOKX 281211
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+711 AM EST Fri Feb 28 2025
+
+.SYNOPSIS...
+Weak high pressure will build from the west through this
+afternoon, then pass offshore by evening. A warm front will lift
+to the north tonight into Saturday morning, followed by a 
+strong cold front late Saturday. High pressure then builds in 
+through Monday, moving off the coast Monday night into Tuesday. 
+Low pressure will then approach from the Plains states and 
+impact the area from Tuesday night into Thursday.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+A shortwave will continue pushing east of the area early this
+morning. Weak high pressure builds in through the afternoon. 
+The air mass is only slightly cooler than recent days with highs
+remaining a bit above normal in the middle 40s inland and upper
+40s to around 50 closer to the coast/NYC metro.
+
+A much deeper upper trough digs towards the region tonight,
+sending a strong clipper low out of the Great Lakes toward
+northern New England. This will allow a warm front to begin 
+pushing north of the area by late tonight and early Saturday 
+morning. Much of the forcing looks to remain to our north so 
+think the nighttime hours will be mostly dry. However, cannot 
+completely rule out a brief shower across the interior closer to
+the warm front and stronger forcing. Otherwise, clouds will 
+increase with the approaching trough. Lows tonight will range 
+from the mid 30s inland, to the upper 30s and lower 40s closer 
+to the coast.
+
+&&
+
+.SHORT TERM /SATURDAY THROUGH SUNDAY NIGHT/...
+The aforementioned warm front continues to lift to the north 
+Saturday morning. The trailing cold front is progged to move
+through in the afternoon and early evening. Ahead of the front,
+SW flow increases allowing for a breezy day with gusts 25 to 35
+mph. Temperatures will also rise into the lower and middle 50s 
+for most of the area with potential of upper 50s in the NYC 
+metro. Some areas could even be a few degrees higher given the 
+strong SW-W flow ahead of the cold front. Moisture and lift 
+continue to be limited with the cold front passage, so will only
+carry a slight chance away from the coast closer to the 
+stronger lift. 
+
+The cold front passage will bring in a much colder and drier
+air mass for Saturday night. Temperatures will drop 
+significantly into the teens inland and low 20s along the 
+immediate coast by early Sunday morning. The combination of a 
+gusty NW flow (20-30 mph) and the colder temperatures will make 
+it feel like it is in the single digits to around 10 degrees by
+early Sunday morning. 
+
+Sprawling high pressure will then build towards the area on
+Sunday and then settle overhead Sunday night. High temperatures
+on Sunday will struggle to rise above 30 degrees inland with 
+the rest of the area in the lower 30s. These readings are 10-15 
+degrees below normal for early March. It will remain breezy with
+NW wind gusting 20-25 mph, making it feel like it is in the 
+teens in the afternoon.
+
+Winds weaken Sunday night with the high pressure settling over
+the northeast. Mostly clear skies and a continued cold and dry 
+air mass in place should allow temperatures to fall into the 
+teens for much of the area. A few of the colder inland locations
+could fall into the single digits with the NYC metro falling to
+around 20 degrees.
+
+&&
+
+.LONG TERM /MONDAY THROUGH THURSDAY/...
+Key Points:
+
+* Temperatures will moderate quickly, from a few degrees below 
+  normal on Monday to above normal during mid week. 
+
+* A long duration moderate to locally rainfall event will occur mid 
+  week with the approach of a frontal system. 
+
+Remained close to the NBM guidance during this period as it catches 
+the overall global model trend. On Mon an upper trough will depart 
+out over the western Atlantic while broad upper level ridging 
+arrives from the nation's mid section, and an embedded shortwave 
+trough passes well to the south and weakens under the building 
+ridge. As a result, sfc high pressure over the area on Mon will move 
+offshore Mon night into Tue, with moderation in temps as heights 
+rise aloft and a return flow starts to develop Mon night. 
+
+A closed low over the western states on Mon will amplify and phase 
+with northern stream energy as it moves into the Plains on Tue, with 
+downstream ridge amplification, and a deep sfc low developing and 
+moving up toward the upper Great Lakes on Wed, sending a leading 
+warm front toward the area Tue night and through daytime Wed. The 
+continued return flow and rise in heights aloft should should get 
+temps on Tue to a few degrees above normal, and then well above 
+normal on Wed with the warm frontal passage. The front will also 
+bring chances for light rain Tue night, then a moderate rainfall Wed 
+with the warm frontal passage, continuing into Wed night via the 
+warm conveyor belt and deep layer ahead of an approaching cold 
+front. Did not add thunder to the forecast that far out in time but 
+can't rule out at least some elevated convection/downpours late day 
+Wed into Wed evening with blended 00Z GFS/ECMWF TT indices 
+approaching 50 and SWEAT indices 250-300 in a moist air mass with PW 
+over 1.25 inches. Beyond those signals, this is still 5 days out and 
+still too early to offer more exact details.
+
+&&
+
+.AVIATION /12Z FRIDAY THROUGH TUESDAY/...
+VFR as weak high pressure builds from the west through this
+afternoon, then passes offshore by evening. 
+
+W-WNW winds prevail today. Gusts 20-25 kt return 13Z-14Z for 
+most terminals, then subside toward 20Z-21Z while backing to the
+SW. Winds then back S tonight and should increase to 10-15G20kt
+at some terminals mainly after midnight with warm fropa. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No unscheduled AMD expected.
+
+.OUTLOOK FOR 12Z SATURDAY THROUGH TUESDAY...
+
+Saturday: VFR. SW winds G20kt in the morning, becoming W 
+G25-30kt in the afternoon, then NW G25kt at night. 
+
+Sunday: VFR. NW winds G20kt. 
+
+Monday and Tuesday: VFR. 
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Marginal gusts to 25 kt are expected on the ocean through this
+afternoon with seas 5-6 ft. Winds on the non-ocean waters 
+should remain closer to 20 kt. Winds briefly weaken below SCA 
+levels tonight as ocean seas subside to 4-5 ft. SW winds then 
+increase on Saturday ahead of a cold front bringing gusts on all
+waters to 25-30 kt. Ocean seas will also build to 5-7 ft. The 
+cold front passage Saturday afternoon and evening will shift 
+winds to the NW and remain around 25 kt before subsiding 
+overnight into Sunday morning. Ocean seas should also subside 
+below 5 ft on Sunday. The SCA on the ocean remains in effect 
+through Saturday evening and may need to be extended into a 
+portion of Saturday night. Have also issued an SCA on the LI 
+Sound, LI Bays, and NY Harbor for Saturday late morning into 
+early evening. Conditions should be below SCA levels for Sunday 
+night with high pressure building over the waters.
+
+Quiet Mon and Tue with high pressure generally in control. 
+Increasing S flow during mid week could bring 5-ft seas to
+the ocean waters Tue night, and SCA cond to all waters on Wed 
+with gusts 25-30 kt and ocean seas building to 6-8 ft.
+
+&&
+
+.HYDROLOGY...
+A frontal system could bring about an inch of rain on average
+from Tue night into Thu. Potential for locally higher amts 
+exists especially Wed into Wed evening.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+Issued coastal flood statement for S Fairfield/Westchester for
+tonight's high tide cycle close to midnight as fcst water 
+levels at the Stamford and Bridgeport gauges just barely touch 
+minor flood thresholds.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory from 10 AM to 6 PM EST Saturday for 
+     ANZ331-332-335-338-340-345.
+     Small Craft Advisory until 6 PM EST Saturday for ANZ350-353-
+     355.
+
+&&
+
+$$
+
+SYNOPSIS...BG/DS
+NEAR TERM...DS
+SHORT TERM...DS
+LONG TERM...BG
+AVIATION...BG
+MARINE...BG/DS
+HYDROLOGY...BG/DS
+TIDES/COASTAL FLOODING...BG

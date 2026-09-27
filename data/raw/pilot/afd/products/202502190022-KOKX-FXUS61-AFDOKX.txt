@@ -1,0 +1,230 @@
+271 
+FXUS61 KOKX 190022
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+722 PM EST Tue Feb 18 2025
+
+.SYNOPSIS...
+High pressure builds to the southwest of the region through
+Wednesday. Deepening low pressure along the Mid Atlantic coast
+Thursday will pass well south and east of the area through 
+Thursday night. High pressure will then continue to dominate 
+through the weekend. Weak low pressure approaching from the 
+Great Lakes may then affect the region Monday night into 
+Tuesday.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM WEDNESDAY MORNING/...
+The forecast is mainly on track. Only minor adjustments to
+hourly temperatures and dewpoints were made with this update. 
+
+Confluent zonal upper flow aloft across the region, with broad 
+sheared polar trough extending from the northern plains to 
+northern New england. At the surface, the tight pressure 
+gradient slowly relents as high pressure builds towards the Mid 
+Atlantic and large Canadian Maritimes low pressure lifts towards
+Greenland.
+
+Pressure gradient will gradually weaken tonight as a result, with 
+gusts falling back into the 15 to 25 mph range. Low temperatures
+will fall into the single digits far interior, to teens along 
+the coast, with min windchills in the single digits city/coast 
+and single digits degrees below zero across the interior.
+
+&&
+
+.SHORT TERM /6 AM WEDNESDAY MORNING THROUGH THURSDAY NIGHT/...
+* Model consensus continues to point towards deepening low
+  pressure tracking well south and east of the region Thursday,
+  with a light dusting of snowfall the most likely scenario in
+  response to approaching vigorous closed upper low. 
+
+Confluent and zonal upper flow gradually amplifies Wed into Wed 
+night ahead of a deepening northern stream closed low digging 
+through the upper Mississippi River Valley and into the Ohio Valley. 
+Good agreement on this vigorous closed low sliding just south 
+of the region late Thursday into Thursday Night. Meanwhile a 
+southern stream shortwave across the Lower Mississippi River 
+Valley Wed AM (bringing snow to the southern plains and Mid 
+Mississippi River Valley today) races towards the Mid Atlantic 
+coast by Wed eve, with a second southern stream shortwave racing
+around the digging northern stream closed low to the southern 
+Mid Atlantic coast by Thu AM. 
+
+As has been the case over the last 48 hours, overwhelming 
+deterministic/ensemble model consensus is that the two streams 
+never partially or completely phase until they are both well 
+east of the region. The result is very good agreement in 
+southern surface low pressure tracking to the SE US coast late 
+Wednesday, and then intensifying as it tracks northeast and 
+offshore Thursday into Thursday Night, 300- 450 miles se of Long
+Island. The result being that most if not all the precip shield
+with the offshore low remains to the SE of the region (perhaps 
+clipping SE LI THU AM). The potential for a period of light snow
+or snow shower activity will be more-so coincident with the 
+approach/passage of the vigorous upper low and some moisture 
+convergence along weak inverted troughing Thu aft/eve.
+
+The few exceptions to this consensus are the 12z 32/12km NAM 
+deterministic runs, which although fairly similar in upper 
+dynamics through daybreak Thu AM, rapidly develop surface low 
+pressure with an abrupt jog about 150 miles close to the coast 
+THU AM compared to rest of model guidance. Interestingly this 
+is not seen in the high- res 3km NAM CAM. A possible reason for 
+the outlier NAM 12km/32km NAM surface solutions may be the 
+convective parameterization schemes used in these runs (and not 
+the 3km NAM) firing off abundant convection as the 150kt+ upper 
+jet streak overspread the gulf stream and general low position.
+The 12z 32/12km NAM solutions, for reference bring close 1/4" 
+to 1/2" liquid to the coast (around 4 to 7" snowfall), but for 
+the above mentioned reason and lack of support this scenario is 
+considered an outlier. 
+
+The 18z NAM has trended further south and less intense with the
+surface low, but still indicating potential for a widespread 
+1/10th to 1/4" qpf along the coast. This downward trend, in 
+line with consensus guidance, is anticipated to continue over 
+the next 24 hrs, but it is worth noting that this solution falls
+in line with other reasonable worst case scenarios. The source 
+of enhanced snowfall appears to be coming from enhanced lift 
+from the left front exit region of a more cyclonically curved 
+jet streak and NW enhancement of offshore low pressure precip 
+shield. Outside of the 18z NAM 12km/32KM, a few 12z SREF NMMB, 
+GEFS, and ECE members indicate some snowfall solutions in the 3 
+to 5" range for eastern LI and extreme SE CT, in line with a 
+reasonable worst case scenario.
+
+So, current thinking is potential for a period of light snow or
+snow showers Thu afternoon into Thursday evening in response to
+the deepening closed low and weak inverted trough in vicinity. 
+Snow accumulation generally less than an inch areawide, with 
+potential for an inch or so for extreme SE portions of the area
+where fringe of offshore snow shield may glance. Reasonable 
+worst case WPC WSE and NBM (1 in 10 chance of occurrence), 
+capturing 18z NAM 12/32km and other outlier ensemble members, 
+would be a 2-5" snowfall across eastern LI and SE CT.
+
+Remaining cold, region largely sub freezing with highs in the mid 
+20s interior and upper 20s to around 30 city/coast on Wed and Thu. 
+Winds are expected to be lighter than previous days with the high 
+more established and a relaxed pressure gradient in response.
+
+&&
+
+.LONG TERM /FRIDAY THROUGH TUESDAY/...
+Remaining somewhat breezy on Friday as high pressure continues to 
+build in from the west. Dry conditions with high temperatures 5-10 
+degrees below normal - in the lower and middle 30s. The high 
+pressure ridge is expected to reach the east coast on Saturday. 
+Winds will be light and shift west to southwest, allowing for milder 
+high temperatures, but still a little below normal. 
+
+A weak trough aloft shifts through the region late Saturday night 
+into Sunday with perhaps some weak surface reflection. Moisture is 
+lacking, and will go with a dry forecast for this period, however a 
+sprinkle or flurry isn't completely out of the question. High 
+temperatures on Sunday finally returning to normal at 40-45.
+
+Weakening low pressure shifts east from the Great Lakes Region, 
+likely passing to our north at some point Monday night into Tuesday. 
+A leading warm front and trailing cold front may support enough lift 
+to bring us some precip. Capped PoPs at slight chance for the time 
+being. Precip would be mainly rain for coastal areas and a mix of 
+rain and snow inland.
+
+&&
+
+.AVIATION /00Z WEDNESDAY THROUGH SUNDAY/...
+VFR as high pressure builds to the southwest. 
+
+WNW-NW winds mostly left of 310 magnetic 15-20 kt with gusts up
+to to 25 kt will hang on into this evening, then slowly 
+diminish overnight. There could be a few hours' lull where winds
+diminish to either side of 10 kt and gusts abate before 
+resuming around 13Z and continuing into at least the first part 
+of the afternoon. Winds gradually diminish late as BKN mid level
+clouds move in. 
+
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No unscheduled AMD expected.
+
+.OUTLOOK FOR 00Z THURSDAY THROUGH SUNDAY...
+
+Wednesday night: VFR. 
+
+Thursday: Chance MVFR or lower in light snow mainly for the 
+terminals E of the NYC metros, otherwise VFR. NW winds G20-25kt
+at night. 
+
+Friday: VFR. NW winds G20-25 kt.
+
+Saturday and Sunday: VFR. 
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Winds expected to fall below Gale across eastern ocean waters 
+later this evening, with conditions falling below SCA late 
+tonight on nearshore water and Wed AM for the ocean waters. 
+Ocean seas (NW Wind wave dominated) expected to follow suit and 
+fall below SCA Wed AM as well. 
+
+Light freezing spray possible everywhere through Wednesday 
+morning as well, but not anticipating it to be heavy enough to 
+necessitate an advisory.
+
+Next chance of SCA conditions late Thursday into Friday in wake of 
+rapidly deepening offshore low pressure  as it tracks northeast up 
+into the North Atlantic.
+
+Advisory conditions continue through Friday for all waters, 
+then will be limited to mainly the ocean through Friday night. 
+Sub advisory conditions then prevail through the upcoming 
+weekend with a weaker pressure gradient as a high pressure ridge
+is followed by a weak trough.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts are expected through the week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+Low water conditions expected to improve for the evening low tide ( 
+1 to 1.5 ft below MLLW) as offshore winds weaken a bit. Further 
+improvement expected with Wed high tides with continued 
+weakening of winds and rising of astro low tides.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 7 AM EST Wednesday for ANZ331-335-
+     338-345.
+     Small Craft Advisory until 10 AM EST Wednesday for ANZ332-340.
+     Gale Warning until 10 PM EST this evening for ANZ350.
+     Small Craft Advisory until 1 PM EST Wednesday for ANZ353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JC/NV
+NEAR TERM...NV
+SHORT TERM...NV
+LONG TERM...JC
+AVIATION...BG
+MARINE...JC/NV
+HYDROLOGY...JC/NV
+TIDES/COASTAL FLOODING...

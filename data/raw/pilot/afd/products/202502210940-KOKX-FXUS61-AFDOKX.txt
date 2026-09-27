@@ -1,0 +1,156 @@
+549 
+FXUS61 KOKX 210940
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+440 AM EST Fri Feb 21 2025
+
+.SYNOPSIS...
+High pressure builds Friday into the weekend. High pressure 
+moves offshore Sunday night into Monday. Low pressure impacts 
+the region Monday night through A low passes to the north Monday
+night into Tuesday night. Weak high pressure briefly returns 
+for Wednesday. Another low impacts the area Thursday.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+The forecast remains on track.
+
+Low pressure exits far to the northeast at the surface as a trough 
+aloft begins to move offshore and farther east into the Atlantic 
+tonight. At the same time, high pressure builds towards us from the 
+interior. 
+
+A few clouds may linger into the early morning, but quickly 
+clear as dry air filters in leading to a mainly sunny afternoon
+and night. 
+
+An increased pressure gradient between high and low pressure will 
+leave us under gusty NW flow until the winds gradually lessen 
+tonight as the pressure gradient weakens due to high pressure moving 
+in. Peak gusts this morning into this afternoon will be around 30 to 
+35 mph. Should lose all gusts before daybreak Saturday.
+
+Temperatures remain cold, with highs today in the upper-20s to 
+around freezing. Maximum wind chills reach the teens to low-20s this 
+afternoon. Low temperatures tonight drop into the teens to near
+20. Given some breezy weather may remain, at least early in the
+night, minimum wind chills will be in the single-digits.
+
+&&
+
+.SHORT TERM /SATURDAY THROUGH SUNDAY/...
+High pressure settles in over the weekend. A few weak, moisture-
+starved shortwaves aloft are hinted at in some global and regional 
+guidance. This may keep partly cloudy skies around for the weekend, 
+but will not lead to any precip. 
+
+Temperatures will be on a warming trend this weekend as winds turn 
+SW. Highs Saturday reach the mid/upper-30s. Highs Sunday reach the 
+upper-30s to mid-40s. Saturday night low temperatures will 
+range from the low/mid-20s in the interior and the LI Pine 
+Barrens to around 32 in the NYC metro.
+
+&&
+
+.LONG TERM /SUNDAY NIGHT THROUGH THURSDAY/...
+Key Points:
+
+* Above normal temperatures expected Monday through Thursday.
+  Highs Monday in the mid and upper 40s, and generally upper 40s 
+  Tuesday, Wednesday, and Thursday. A few locations could reach the 
+  lower 50s in metro NE NJ and NYC.
+
+* Mainly dry conditions are expected through mid week. 
+
+* A more organized low pressure system may impact the area late next 
+  week.
+
+The upper flow will be mainly zonal Sunday night into Monday with 
+surface high pressure remaining in control. A more amplified trough, 
+accompanied with a vort max, passes mainly to the north Monday 
+night, quickly followed by another trough and vort max for Tuesday 
+into Tuesday night. Still with some uncertainty with the timing, 
+strength, and areal coverage of the systems have maintained 
+generally slight chance probabilities Monday night through Tuesday 
+night.
+
+A more highly amplified trough approaches for Thursday into Thursday 
+night. There remains some uncertainty with the interaction of a 
+southerly low moving off the southeastern coast, and the track that 
+this low and a northern stream low will take. Precipitation is 
+expected to be mainly rain with warm air surging northward ahead of 
+the trough, and then possibly ending as some light snow as the 
+system exits Thursday night into Friday.
+
+&&
+
+.AVIATION /10Z FRIDAY THROUGH TUESDAY/...
+High pressure builds into the area through tonight, and remains in 
+control into Saturday.
+
+VFR through the forecast period.
+
+NW flow 15-20 kt, gusting to 25-30 kt is expected overnight and 
+Friday, but may become more occasional toward daybreak. Isolated 
+gusts of 30-35 kt possible during the day. Gusts diminish tonight. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No unscheduled amendments expected.
+
+.OUTLOOK FOR 06Z SATURDAY THROUGH TUESDAY...
+
+Late Friday Night - Sunday: VFR. 
+
+Monday and Tuesday: Mainly VFR. A chance of rain showers Monday 
+night into Tuesday night with low chance of MVFR.
+ 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+SCA is in place until late Friday evening into Friday night. NW 
+winds have peak gusts of 30 kts Friday morning into afternoon. Winds 
+drop bellow SCA criteria west to east late Friday into Friday night. 
+Waves will also reach 5-6 ft on the ocean waters. 
+
+Saturday into Sunday conditions will fall below SCA criteria. 
+
+Winds and seas remain below advisory levels Sunday night through 
+Tuesday night as a weak pressure gradient settles over the
+waters.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts are expected through the end of next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 1 AM EST Saturday for ANZ331-353-
+     355.
+     Small Craft Advisory until 4 AM EST Saturday for ANZ332-350.
+     Small Craft Advisory until 10 PM EST this evening for ANZ335-
+     338-340-345.
+
+&&
+
+$$
+
+SYNOPSIS...BR/MET
+NEAR TERM...BR
+SHORT TERM...BR
+LONG TERM...MET
+AVIATION...MET
+MARINE...BR/MET
+HYDROLOGY...BR/MET

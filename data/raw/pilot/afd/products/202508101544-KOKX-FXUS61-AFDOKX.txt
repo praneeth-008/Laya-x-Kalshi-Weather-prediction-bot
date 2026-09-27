@@ -1,0 +1,168 @@
+415 
+FXUS61 KOKX 101544
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1144 AM EDT Sun Aug 10 2025
+
+.SYNOPSIS...
+High pressure will remain in control through early this week.
+The high will then slowly weaken over the region as a frontal 
+system approaches mid week. The front will move through late in 
+the week.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+The temperatures were running were a few degrees higher than 
+forecast, especially for Long Island, this morning. Hourly and 
+high temperatures adjusted accordingly. Dewpoints were also 
+modified slightly to better match with observed trends. Sky 
+conditions still mostly sunny. No other changes made to the 
+forecast database. 
+
+High pressure will remain in over the area through tonight.
+Heights aloft will continue to rise as a high amplitude ridge
+builds over the eastern US. 
+
+Mostly clear conditions are expected through tonight. Slight 
+adjustments have been made to lower dew points a few degrees 
+this afternoon as the NBM has been running a bit high the last 
+few days, especially in areas that typically lower in the 
+afternoon with mixing. Otherwise, temperatures will continue to 
+rise compared to recent days with highs reaching the middle to 
+upper 80s for much of the area. A few of the typical warm spots 
+in NE NJ reach around 90 degrees.
+
+Made some slight adjustments to NBM low temperatures for 
+tonight, especially across outlying areas and the Long Island 
+Pine Barrens. These areas have been running several degrees 
+lower the last few nights compared to the NBM. A MAV/MET blend 
+looked more reasonable given recent these trends. Lows will 
+range from the upper 50s for outlying areas and the Long Island 
+Pine Barrens to the lower and middle 60s elsewhere. The NYC 
+metro may not fall below the upper 60s. Some patchy river valley
+fog is possible late tonight/early Monday morning.
+
+&&
+
+.SHORT TERM /MONDAY THROUGH TUESDAY NIGHT/...
+The high amplitude ridge will remain in place through Tuesday.
+Surface high pressure drifts offshore on Monday and becomes more
+of a Bermuda high by Tuesday. This pattern will continue the 
+trend of warmer temperatures and slightly higher humidity levels
+each day. A few clouds anticipated each day but overall skies 
+will remain mostly clear.
+
+NBM high temperatures look reasonable both Monday and Tuesday.
+Much of the area will see highs in the upper 80s on Monday with
+the warmest spots reaching the low 90s. Immediate coastal 
+locations may remain in the lower to middle 80s with onshore 
+flow influence. Highs on Tuesday looks to reach the upper 80s 
+and lower 90s for much of the area with again coastal locations 
+slightly cooler. Adjusted NBM dew points down slightly Monday 
+afternoon given recent trends and this allows heat indices on 
+Monday to be at or slightly below air temperatures. Dew points 
+should begin rising on Tuesday but still end up in the lower to 
+middle 60s in the afternoon. Max heat indices should end up in 
+the upper 80s and lower 90s, with a few isolated spots 
+potentially coming close to 95. 
+
+Lows each night trend warmer with temperatures Tuesday night in the 
+middle to upper 60s for most and lower 70s in the urban areas.
+
+&&
+
+.LONG TERM /WEDNESDAY THROUGH SATURDAY/...
+No significant changes were made with this update. 
+
+The high amplitude ridge will break down Wednesday into Thursday
+as an upper trough slides across southeastern Canada. This will
+allow a cold front to approach late Wednesday and move across 
+the area on Thursday. The front should settle south and east of 
+the area on Friday. A weak upper trough may then linger over the
+region into early next weekend.
+
+Wednesday continues to look like the warmest day of the week with 
+temperatures in the upper 80s and lower 90s with some middle 90s in 
+NE NJ. Higher humidity levels will likely yield heat indices in the 
+lower to middle 90s. Potential continues to exist for heat indices 
+to reach 95-99 in the warmest spots of NE NJ, NYC metro, Lower 
+Hudson Valley, and portions of S CT. The latest NBM has trended 
+slightly cooler on Thursday with dew points also a few degrees 
+lower. This trend has yielded lower max heat indices with much of 
+the area only peaking in the low 90s. Reaching the two day heat 
+advisory criteria may be difficult if this trend persists.
+
+Afternoon and evening showers and thunderstorms are possible 
+Wednesday and Thursday. The chance is lower on Friday as the front 
+pushes south and east of the area.
+
+&&
+
+.AVIATION /16Z SUNDAY THROUGH THURSDAY/...
+VFR with high pressure in control. Winds should become S around
+10 kt this afternoon, a little stronger at KJFK. Light SW winds
+follow for tonight. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No unscheduled amendments expected..
+
+.OUTLOOK FOR 12Z MONDAY THROUGH FRIDAY... 
+
+Monday and Tuesday: VFR.
+
+Wednesday: A late day or evening tstm with possible brief MVFR
+or lower cond, mainly just W of the NYC metros. 
+
+Thursday: Chance of late afternoon/early evening tstms with
+possible MVFR or lower cond. 
+
+Friday: VFR. 
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+High pressure will lead to conditions below SCA levels through
+the middle of the week. A weak area of low pressure well 
+offshore may continue to bring an E swell the next several days,
+but seas will remain below 5 ft.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through next week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+A moderate rip current risk remains through Monday evening at
+Ocean beaches due to continued E-ESE swells with around 3 ft
+waves and a 7-9 second period.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...Air Quality Alert until 11 PM EDT this evening for NYZ069>075-
+     176-178.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JP/DS
+NEAR TERM...JM/DS
+SHORT TERM...DS
+LONG TERM...JP/DS
+AVIATION...JC/BG
+MARINE...JP/DS
+HYDROLOGY...DS
+TIDES/COASTAL FLOODING...

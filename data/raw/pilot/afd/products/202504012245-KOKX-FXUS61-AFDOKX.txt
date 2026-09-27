@@ -1,0 +1,188 @@
+570 
+FXUS61 KOKX 012245
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+645 PM EDT Tue Apr 1 2025
+
+.SYNOPSIS...
+High pressure builds over the area tonight into Wednesday. A warm 
+front then approaches from the southwest on Thursday. High 
+pressure briefly builds in from the north on Friday. A couple of
+frontal boundaries near or over the region will bring unsettled
+conditions this weekend. High pressure then slowly builds in 
+for Monday and Tuesday.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM WEDNESDAY MORNING/...
+Skies remain mostly clear for much of the overnight under the 
+westerly flow aloft, though some high clouds look to begin to 
+stream in toward daybreak. Temperatures tonight will be a bit 
+tricky given this increase in cloud cover from the west along 
+with weakening winds. With good radiational cooling/decoupling 
+likely have maintained the cooler side of the guidance (MAVs) 
+with mid 20s across the interior and across eastern Long Island,
+with mid to upper 30s elsewhere. Of course, should winds remain
+elevated lows will be a bit warmer.
+
+Note: The growing season begins today for parts of the area
+including Nassau County, NYC and parts of northeast NJ. 
+Temperatures look to remain above freezing tonight for the zones
+where the growing season has begun; thus no headlines were 
+needed.
+
+&&
+
+.SHORT TERM /6 AM WEDNESDAY MORNING THROUGH THURSDAY/...
+Zonal flow aloft on Wednesday amplifies to more of a ridging 
+pattern on Thursday as an upper low ejects out of the northern 
+plains. Surface high pressure remains in control on Wednesday, 
+keeping the local area dry. Winds do become southerly late 
+Wednesday in early Thursday, as the ridge axis shifts east of 
+the area. Highs remain in the upper 40s under predominately 
+easterly surface flow.
+
+Low pressure over the Great Lakes heads east Wednesday night into 
+Thursday, bringing a warm front to the area. Increasing moisture 
+with southerly flow ahead of this front will provide increased 
+chances of rain early Thursday along with fog potential. The 
+front looks to lift north or remain draped over the northern
+parts of the CWA after 12Z Thursday. This will result shower 
+chances for much of the day, depending where the front 
+ultimately ends up. Highs will be warmer than on Wednesday as 
+much of the region is warm sectored, in the mid and upper 60s
+across the coasts and interior and low 70s for NYC. Have kept 
+thunder chances out for now with limited instability, but can't 
+rule out a rumble or two Thursday afternoon.
+
+&&
+
+.LONG TERM /THURSDAY NIGHT THROUGH TUESDAY/...
+Model consensus brings high confidence in an upper ridge over 
+the forecast area through at least Sunday afternoon. A few mid-
+level shortwaves and surface boundaries will bring varying 
+probabilities of rainfall with perhaps the exception being 
+Friday afternoon and night when surface high pressure dominates 
+with dry weather. Best chances of rain (greater than 60%) would 
+be Saturday and Saturday night with the approach of a warm 
+front, although left Thursday night's chances at 50-60% with 
+uncertainty in the position of a frontal boundary nearby. Even 
+though PWATs may be 2-3 standard deviations above normal, upward
+forcing looks to be relatively weak in the absence of notable 
+low level jets and upper jet streaks in addition to shearing of 
+mid level shortwaves as they run into the ridge in place. 
+Hydrologic impacts would therefore appear to be limited at this 
+time. As for temperatures through Sunday, NBM was used, however 
+uncertainty increases significantly on Sunday as there's a 10-20
+degree spread between the 25th and 75th percentiles for high 
+temperatures - a result of uncertainty surrounding the northward
+progression of a warm front and how much cloud cover would 
+remain ahead of a trailing cold front. Given the synoptic 
+pattern, thinking is that we would have a better chance of being
+on the warmer side of the envelope.
+
+As for Monday and Tuesday, an approaching longwave trough would help 
+push a cold front through the area Sunday night. Some uncertainty 
+regarding post-frontal shower chances for Monday as a cyclonic flow 
+remains aloft and a strong upper jet streak enhances synoptic lift. 
+In any case, moisture would be more limited, so the more likely 
+scenario is for dry weather for Monday, which would last into 
+Tuesday.
+
+&&
+
+.AVIATION /00Z WEDNESDAY THROUGH SUNDAY/...
+High pressure gradually builds in through Wednesday morning,
+then moves off the New England coast Wednesday afternoon as a
+warm front approaches to the southwest.
+
+VFR.
+
+Gusty NW winds gradually diminish through the afternoon with
+gusts ending toward sunset. There is a chance that gusts remain
+an hour longer at the New York metro terminals. Winds gradually
+veer to N and diminish, then become NE toward Wednesday 
+morning. There is some uncertainty as to how quickly winds 
+become E/SE late Wednesday morning into the afternoon.
+
+
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+End time of gusts may be an hour later than forecast. Otherwise,
+no unscheduled amendments expected.
+
+
+.OUTLOOK FOR 18Z WEDNESDAY THROUGH SUNDAY...
+
+Wednesday afternoon - Wednesday night: VFR, possibly becoming MVFR
+or lower late afternoon, with MVFR to IFR more likely at night
+with a chance of light rain.
+
+Thursday: MVFR to IFR, possibly LIFR with a chance of showers.  
+in the morning and then again at night. S/SW wind 15-20kt,
+gusting 20-30kt during the afternoon, and highest along the 
+coast.
+
+Friday: MVFR early with a chance of showers, then VFR.
+
+Saturday: MVFR to IFR, by afternoon with showers likely. E wind
+gusts 15-20kt.
+
+Sunday: IFR in the morning, becoming MVFR. A chance of showers.
+
+Detailed information, including hourly TAF wind component 
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+SCAs remain in effect on the ocean waters tonight through
+Wednesday morning. Almost canceled the advisory west of Fire
+Island Inlet based on observations at buoy 44025, which shows
+seas hovering just below 5 ft for the past few hours. With still
+a potential that a long period SSE swell pushes seas a little
+bit higher over the next few hours, decided to keep the advisory
+going for the time being. With that said, may be able to drop
+the advisory with the next update. The remaining ocean waters
+may be able to have the advisory dropped by the end of tonight
+as well. 
+
+NWPS guidance has waves lowering for a period during Wednesday,
+before becoming more elevated Wednesday night and returning to advisory
+levels by late at night all the way into Friday morning. In
+addition, non-ocean waters could see gusts to 25kt Thursday 
+afternoon.
+
+After some lingering seas of 5 ft possible Friday morning, the 
+next chance of advisory conditions would be during the day on 
+Saturday over the ocean waters, with a better chance following 
+for Sunday as low pressure approaches.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts are expected through early next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until noon EDT Wednesday for ANZ350-353-
+     355.
+
+&&
+
+$$
+
+SYNOPSIS...JC/DBR
+NEAR TERM...DBR
+SHORT TERM...DBR 
+LONG TERM...JC 
+AVIATION...MET 
+MARINE...JC/DBR 
+HYDROLOGY...JC/DBR

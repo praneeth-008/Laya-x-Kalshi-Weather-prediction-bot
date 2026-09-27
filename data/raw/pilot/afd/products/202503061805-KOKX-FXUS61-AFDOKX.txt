@@ -1,0 +1,177 @@
+790 
+FXUS61 KOKX 061805
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+105 PM EST Thu Mar 6 2025
+
+.SYNOPSIS...
+A cold front moves through the area this morning. Associated low 
+pressure gradually departs to the northeast through Saturday night, 
+with another cold front swinging through Saturday morning. High 
+pressure will then be in control for the rest of the weekend and 
+into the first half of next week.
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+Fog has lifted across the area, and clouds are diminishing
+somewhat. Where clouds have scoured out a bit, temperatures have
+risen to the upper 50s, especially across Long Island. Clouds
+have moved back into the picture across Long Island, and thus
+don't think temperatures will rise any more than they have,
+especially with a northwesterly flow developing behind the cold
+front. 
+
+Low pressure passes through the Great Lakes and drags a cold front 
+through the area this morning. The associated upper level trough 
+axis will lag behind several hours as it becomes negatively tilted 
+and likely passes through late this evening. With another area of 
+low pressure trying to spin up just to our north today, the pressure 
+gradient remains relatively weak through at least the morning. Once 
+the low makes it a bit farther east this afternoon and evening, the 
+W/NW flow starts to pick up.
+
+The heaviest showers are now east of the area. There remains 
+potential for isolated to scattered showers through the day today 
+with cyclonic flow aloft.
+
+With the strong CAA not kicking in right away, the area should be 
+able to warm up to the 50s today.
+
+&&
+
+.SHORT TERM /6 PM THIS EVENING THROUGH SATURDAY NIGHT/...
+The pressure gradient tightens tonight as low pressure gradually 
+exits to the northeast. The area stays well mixed tonight through 
+Friday, with winds increasing aloft. Model NAM and GFS soundings 
+show mixing up to at least 850mb for an extended period of time, 
+with 50+ kt at this level. HREF mean also shows deep mixing, 
+with multiple hours tonight showing 40+ kt max momentum transfer
+and 50+ kt on Friday. NBM and NBM90th percentile guidance was 
+too low given the potential, so went with a blend of NAM 900mb 
+winds and NBM90th to get several hours of widespread 40 to 45 kt
+gusts. Isolated gusts up to 50 kt can not be ruled out. A Wind 
+Advisory is now in effect everywhere from 6 PM this evening 
+through Friday afternoon. There will be a lull in gusts Friday 
+night, but with deep mixing again on Saturday there will likely 
+be 30 to 35 kt gusts.
+
+Mostly dry in this short term period, but with a weakening system 
+approaching from the west and another cold front passing through 
+there is potential for some brief rain and snow showers Friday 
+night/early Saturday morning.
+
+&&
+
+.LONG TERM /SUNDAY THROUGH WEDNESDAY/...
+High pressure remains in control of the weather Sunday through 
+Wednesday. With that said, a weak low and trough pass to our 
+north on Monday, but likely far enough away to have no impacts 
+here. A gradual warmup occurs during this period with highs on 
+Sunday near normal in the mid to upper 40s, then eventually 
+getting well into the 50s and 60s on Wednesday.
+
+&&
+
+.AVIATION /18Z THURSDAY THROUGH TUESDAY/...
+High pressure builds back into the area behind a departing cold. 
+
+Mainly VFR. A pocket of MVFR ceilings dissipates this afternoon. 
+Improvement to VFR could be possibly as late as 21Z at KGON, 
+otherwise VFR prevails through the period.
+
+Gusts gradually ramp up in W flow behind the departing cold front, 
+increasing to 30-40kt tonight. Expect some gusts over 40 kt later 
+tonight and into the first half of Friday. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Amendments may be needed around the magnitude of wind gusts, with 
+some uncertainly around maximum gusts late tonight into the first 
+half of Friday.
+
+
+.OUTLOOK FOR 18Z FRIDAY THROUGH MONDAY...
+
+Friday Afternoon: VFR. W winds 15-22G30-40 kt, a few peak gusts up 
+to 40 to 45 kt early. Winds subside evening / night.
+
+Saturday: VFR with W winds G15-20 kt possible.
+
+Sunday - Monday: VFR.
+
+Tuesday: Mainly VFR, SW-S winds.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+The Dense Fog Advisory continues for the extreme eastern sound
+zone and the eastern ocean zone, where fog remains persistent
+and generally relegated to near shore, as is seen at some of the
+beach cams across the south fork of Long Island. Therefore, the
+Dense Advisory extended until 2 pm. 
+
+Gale conditions have ended for now, but will return this evening 
+through Friday with 40 to 45 kt W/NW gusts. Before that, SCA 
+conditions continue on the ocean for elevated seas and also for 
+the NY Harbor, South Shore Bays and western LI Sound as they 
+will see a period of 25 kt gusts this afternoon before the Gale 
+Warning.
+
+There will be a lull in gusts Friday night, with 5+ foot seas 
+continuing on the ocean. By Saturday, gusty conditions return, with 
+just shy of gale conditions likely as of right. Confidence is not 
+high enough for a watch or HWO mention at this time.
+
+Thereafter, sub-SCA conditions are expected.
+
+&&
+
+.FIRE WEATHER...
+Although the area saw 1-2 inches of rain on Wednesday, windy and dry 
+conditions Friday and Saturday will allow for an increased risk in 
+fire spread. Both days will see min RH values around 30 percent. 
+Gusts on Friday are expected to reach 45 to 50 mph, with gusts on 
+Saturday around 30 to 35 mph.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through the middle of next
+week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Wind Advisory from 6 PM this evening to 4 PM EST Friday for 
+     CTZ005>012.
+NY...Wind Advisory from 6 PM this evening to 4 PM EST Friday for 
+     NYZ067>075-078>081-176>179.
+NJ...Wind Advisory from 6 PM this evening to 4 PM EST Friday for 
+     NJZ002-004-006-103>108.
+MARINE...Dense Fog Advisory until 1 PM EST this afternoon for ANZ331-
+     332-340-350.
+     Gale Warning from 6 PM this evening to 6 PM EST Friday for 
+     ANZ331-332-335-338-340-345-350-353-355.
+     Small Craft Advisory until 6 PM EST this evening for ANZ335-
+     338-345.
+     Small Craft Advisory until 6 PM EST this evening for ANZ350-
+     353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JC/JT
+NEAR TERM...JP/JT
+SHORT TERM...JT
+LONG TERM...JC
+AVIATION...JE
+MARINE...JC/JT
+FIRE WEATHER...
+HYDROLOGY...JC/JT

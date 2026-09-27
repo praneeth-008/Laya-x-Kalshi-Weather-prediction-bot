@@ -1,0 +1,271 @@
+223 
+FXUS61 KOKX 180814
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+414 AM EDT Fri Apr 18 2025
+
+.SYNOPSIS...
+High pressure slides well offshore today. A cold front approaches 
+late Saturday and moves through Saturday night into early Sunday 
+morning. High pressure then follows Sunday Night into early Monday 
+before the next frontal system late Monday through Tuesday. High 
+pressure then follows into Wednesday with potential of another front 
+for Thursday.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Key Messages:
+
+* Temps moderating to several degrees above seasonable for areas 
+  west of the Hudson River today, with highs in the lower 70s. 
+
+Gradually rising heights today as southern ridging builds north
+and sharp troughing extends from the SW US to the central 
+Canadian plains. In between, deep SW flow extends from sub- 
+tropics to New England with a strong waa regime developing. At 
+the surface, high pressure slides offshore today with a 
+strengthening low pressure system tracking from the Great Lakes 
+into southern Quebec tonight in response to a strong northern 
+stream shortwave. An associated warm front develops/lifts NW of 
+the region late today into tonight in response to a developing 
+45-50kt SW llj overhead.
+
+This setup will bring dry conditions today, but increasing high
+clouds rounding SE US ridging. A slight chance of a shower late
+today/tonight across interior with warm frontal passage to the 
+north and weak shortwave energy moving through to the north. 
+
+Strong waa and breezy southerly flow develops this afternoon (15-
+20g25-35mph), which should have areas west of the Hudson River 
+climbing well into the 60s to around 70. East of the Hudson 
+River, the strengthening southerly flow will likely have highs 
+progressively capped in the upper 50s to 60 towards south 
+coastal areas, with flow off of mid 40s degree waters. Used a 
+blend of NBM deterministic and HRRR to highlight the strong 
+mesoscale temp gradient. 
+
+The early Spring synoptic and mesoscale environment are also
+supportive of a strong coastal (Ambrose) jet formation with S 
+winds of 25-30G35 mph likely in the late aft/early eve for 
+Brooklyn/Queens/W LI.
+
+Flow veers more to the SW tonight into Sat as area is squeezed 
+between Canadian low pressure to the north and Atlantic high 
+pressure off the SE US coast to the south. Mild temps in the upper 
+40s for LI/CT in maritime airmass to lower to mid 50s for NYC/NJ 
+metro and points west with continued waa flow.
+
+&&
+
+.SHORT TERM /SATURDAY THROUGH SUNDAY NIGHT/...
+Key Messages:
+ 
+* Unseasonably warm temperatures (10 to 20 degrees above 
+  normal) areawide Saturday, particularly away from the coast, 
+  with highs in the 70s to lower 80s.
+
+* Cold water submersion dangers for recreational boaters, 
+  canoers or kayakers this weekend with warm air temperatures, 
+  but water temps remain in the 40s.
+
+East coast upper ridging holds strong through Saturday, giving 
+way to an amplifying northern stream shortwave/closed low 
+tracking east from Ontario on Saturday and through Quebec and 
+Canadian Maritimes Sat Night into Sunday Night. At the surface,
+a strengthening low pressure system takes a similar track 
+Saturday, stacking under the upper low Sat Night into Sunday 
+over SE Canada. 
+
+Models continue in good agreement with flow veering more to a 
+gusty SW on Sat (15-20g25-35mph) as area is squeezed between SE 
+Canadian low pressure and elongated Atlantic high pressure to 
+the south. Latest guidance appears to hold off any shower 
+activity until early evening, and moreso with the cold front, 
+then the developing/approaching pre-frontal trough due to low- 
+mid level capping during the day. This may present potential for
+a bit more warming of airmass, but could be limited with quite 
+a bit of high and mid cloud cover streaming in along periphery 
+of ridge. These competing factors bear out in the model 
+guidance, with quite a bit of spread in 850mb temps across 
+deterministic guidances (14-17C).
+
+NBM deterministic is generally running in the lower 25th 
+quartile of guidance for max temps on Sat, which appears to be 
+low based on the anomalously warm airmass. With likely mixing to
+850mb away from southern and eastern coasts, and unseasonably 
+warm temps aloft (+1-2 STD 850mb temps), have stayed close to 
+previous forecast, near the 50th NBM percentile, projecting 
+widespread 70s to lower 80s away from southern and eastern 
+coastal areas (greater maritime influence). If warmer end of 
+guidance verifies (NAM, HRRR, upper quartile NBM, etc.) more 
+widespread temps in the lower to mid 80s would result, with 
+record max temperatures being approached for some of the climate
+stations. 
+
+Cold front approaches Sat eve, with pre-frontal trough likely
+already in place across the interior. Convectively induced 
+vorts streaming through the upper flow likely trigger iso-sct 
+shower activity (particularly NW of NYC) in a moistening profile
+(+2 std PWAT) Sat eve. Limited forcing and low-level 
+convergence, and short window of weak instability, should 
+preclude deep convection. 
+
+Model spread exists in the deepening rate of the SE Canadian low 
+pressure Sat Night into Sun, which is causing some model timing 
+issues with cold frontal passage Sat Night, and more so the strength 
+of pressure gradient and caa Sat Night into Sun. Overall gusty, dry 
+and much cooler temps expected Sunday (still a few degrees 
+above normal), but exact details will need to be refined. Have 
+stayed close to NBM 50th for temps based on the above, which has
+a better representation of warmer temps along the coast in NW 
+flow than the NBM deterministic.
+
+High pressure noses in Sunday Night with potential for good 
+radiational cooling conds for outlying areas with temps 
+dropping into the 30s, and 40s elsewhere.
+
+
+&&
+
+.LONG TERM /MONDAY THROUGH THURSDAY/...
+No significant changes to the long term forecast. Stuck fairly close 
+to the previous forecast/NBM.
+
+Ridging aloft and at the surface will push offshore during the day 
+Monday. This will allow a warm front to lift to the north of the 
+region Monday night, which will be quickly followed by a cold 
+frontal passage on Tuesday. The retreating high pressure on Monday 
+will set up a SE flow which will keep temperatures cooler and 
+largely in the upper 50s to low 60s. Probabilities for showers are 
+initially low Monday night, but increase once the warm front lifts 
+across the area late Monday night into early Tuesday morning. The 
+shower chances coincide with a bit better forcing as a middle and 
+upper level trough moves across the region. The actual cold front 
+will follow Tuesday afternoon and evening. The cold front should 
+pass through dry as heights aloft start rising and any larger scale 
+support moves well NE of the area. Temperatures on Tuesday push back 
+above normal with highs in the mid to upper 60s for most spots 
+except portions of NE NJ and Lower Hudson Valley where low to mid 
+70s are possible. 
+
+Ridging returns aloft and at the surface for Wednesday. The pattern 
+remains progressive with potential of another frontal system moving 
+across the area at some point Thursday or Thursday night into 
+Friday. Modeling differs on the amplitude of the next shortwave and 
+associated lift and moisture return. The model consensus is 
+currently only depicting a 20 percent chance for showers late 
+Thursday into Thursday night, then slightly increasing on Friday 
+which seems reasonable at this time range. Temperature should remain 
+above normal Wednesday through Friday.
+
+&&
+
+.AVIATION /08Z FRIDAY THROUGH TUESDAY/...
+A ridge of high pressure moves offshore today. A warm front 
+approaches from the SW this evening and moves across the terminals 
+tonight
+
+VFR through the TAF period.
+
+With high pressure building over the region, winds will remain light 
+and variable through the early morning hours. SSW winds ramp up this 
+morning, increasing to 15 to 20 kt with gust to around 25 kt. Some 
+of the coastal terminals right along the water, KJFK, KBDR, and KGON 
+may see less gustiness. Most of the wind gusts end around 00z-02z 
+Saturday. Also, a strong low level jet moves over the region around 
+00z Saturday. Will include a period of SW LLWS with wind speeds 45-
+50kt at 2kft.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Gusts may be more occasional at KJFK this afternoon, but with 
+sustained winds around 20kt. 
+
+.OUTLOOK FOR 06Z SATURDAY THROUGH TUESDAY...
+
+Saturday: Mainly VFR. Slight chance of showers aft 18Z. SW 
+winds gusting to around 30kt.
+
+Sunday: VFR. NW wind gusts 15-20kt possible.
+
+Monday: VFR early, then sub VFR late day and at night with a chance 
+of showers.
+
+Tuesday: Becoming VFR with W winds.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+SCA conditions expected to develop on the ocean this aft/eve in 
+strengthening S/SW flow and building seas, continuing through 
+Saturday. 
+
+Nearshore S SCA winds to 25-30kt expected for NYC/W LI this aft/eve 
+with coastal jet development across the entrance to NY Harbor. These 
+nearshore winds may diminish below SCA late tonight into Sat 
+AM, but then re-develop for all waters Sat morning, and continue
+into early eve ahead of approaching cold front. 
+
+Cold frontal passage expected late Sat Night into Sun Am, with NW 
+windshift. Potential for SCA winds gusts across all waters in 
+wake of cold front Sat night into Sun Am, with SCA southerly 
+swells likely slow to fall below 5 ft through Sunday AM. 
+
+Sub-SCA conditions are then expected Sunday night through much of 
+next week with a weak pressure gradient over the area. 
+
+Conditions will remain below SCA levels Monday through the middle 
+part of next week with a relatively weak pressure gradient over the 
+waters.
+
+&&
+
+.FIRE WEATHER...
+Marginally elevated risk for brush fire spread for the early to
+mid afternoon today as RH levels drop into the lower to mid 30 
+percent range away from the south coasts and frequent winds
+gusts increase to the 20 to 30 mph range. Southerly wind gusts 
+continue to increase to 25 to 35 mph late this afternoon into 
+evening, while increasing RH levels to 35 to 50% range.
+
+Met, fuel and land conditions will be re-assessed with state 
+fire and land management officials later this morning.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through the middle of next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Frost Advisory until 8 AM EDT this morning for CTZ010>012.
+NY...Frost Advisory until 8 AM EDT this morning for NYZ079-081.
+NJ...None.
+MARINE...Small Craft Advisory from 8 AM to 8 PM EDT Saturday for ANZ331-
+     332-340.
+     Small Craft Advisory from 2 PM this afternoon to 8 PM EDT 
+     Saturday for ANZ335-338-345.
+     Small Craft Advisory from 6 PM this evening to 8 AM EDT Sunday 
+     for ANZ350-353.
+     Small Craft Advisory from 2 PM this afternoon to 8 AM EDT 
+     Sunday for ANZ355.
+
+&&
+
+$$
+
+SYNOPSIS...BC/NV
+NEAR TERM...NV
+SHORT TERM...NV
+LONG TERM...BC
+AVIATION...BC
+MARINE...BC/NV
+FIRE WEATHER...
+HYDROLOGY...BC/NV

@@ -1,0 +1,227 @@
+901 
+FXUS61 KOKX 162330
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+730 PM EDT Wed Jul 16 2025
+
+.SYNOPSIS...
+Stalled frontal boundary dissipates across the region with
+otherwise low pressure well to the northwest through early
+Thursday. An associated cold front approaches Thursday and moves
+across Thursday night. Weak high pressure builds in thereafter 
+for Friday. This high pressure area builds overhead Friday night 
+and moves offshore Saturday. A frontal system will impact the 
+region Saturday night and Sunday. High pressure builds to the 
+north Monday.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM THURSDAY MORNING/...
+Weak low level convergence and instability has led to a few
+showers in urban NE NJ and some thunderstorms just southwest of
+the area. This activity could continue into urban NE NJ before
+sunset, but should diminish with loss of heating. 
+
+Otherwise, the next main chance of showers and thunderstorms
+late this evening into overnight associated with a mid level 
+shortwave and increasing elevated instability. 
+
+Blended in consensus MOS with NBM for lows to increase them 
+slightly. These stay well into the 70s for much of the area. In 
+addition, some patchy fog is expected to develop outside of NYC
+and may become locally dense.
+
+&&
+
+.SHORT TERM /6 AM THURSDAY MORNING THROUGH FRIDAY/...
+First, hazard of heat advisory ongoing. This will end 10PM
+Thursday evening. With the drier trend of model convection for
+Thursday afternoon, especially for locations farther east, feel
+that uncertainty grows with temperatures possibly being higher 
+than forecast. Forecast sent out went above NBM by a degree for 
+the entire area Thursday and 2 degrees above NBM Thursday for SE
+Suffolk, which may end up hardly receiving any rainfall for 
+this next frontal event. Max heat indices for Eastern Suffolk in
+the 95-100 degree range with otherwise most other locations 
+near 100 degree heat index Thursday.
+
+For Thursday, active convection expected in the morning with
+that mid level shortwave. Again, could have some gusty winds 
+and torrential downpours with the thunderstorms. Some lingering
+morning fog can be expected, especially for eastern coastal
+locations. Locally dense fog will be possible.
+
+Some degree of organization is expected with the morning
+thunderstorms as low level jet is noted by forecast models to
+increase to near 20-30 kt. Helicity will be limited with low
+level winds stay from the south to southwest. So, main threat
+would be strong downbursts of wind.
+
+Then, after morning convection passes east of the region, there
+could be quite a lull in convective activity for the rest of the
+day. Models have trended less in convective coverage compared to
+previous forecast. Did not want to make significant changes just
+based on 12Z model run suite and still wanted to convey and 
+keep the chance of showers and thunderstorms. With that being 
+stated, did lower the POPs closer to 30 percent taking NBM and 
+the previous forecast with equal weights. Lesser POPs for
+eastern coastal areas Thursday afternoon.
+
+Contributing to this decrease in model convection is weaker
+positive vorticity advection with some models even indicating
+negative vorticity advection in the afternoon. PWATs are also
+forecast to lower as well, going from nearly 2 to 2.2 inches
+early day to near 1.7 to 1.8 inches by late day. 
+
+Winds are also forecast to increase as well with parent low
+deepening slightly as it travels just north of the US Canadian
+border Thursday into Thursday evening. 925mb flow stays near
+20-25 kt through the day. This helps mitigate the flood threat
+but will keep a marginal severe threat for thunderstorms for
+strong downbursts of wind with these faster moving thunderstorms.
+
+Cold front moves across Thursday night with high pressure to
+follow for late Thursday night through Friday. Showers and
+thunderstorms possible early Thursday evening and then trending
+drier. Dry conditions forecast thereafter through Friday. The 
+high pressure area late Thursday night into Friday will have its
+airmass in the Great Lakes. This will make a noticeable 
+difference in terms of lower temperatures and dewpoints compared
+to previously.
+
+Thursday night, cooler temperatures expected with a range from
+the upper 60s to lower 70s for much of the area, and NYC staying
+more in the mid 70s. For Friday, warm temperatures for highs
+well into the 80s forecast but dewpoints will be more in the
+60s. As a result, max heat indices are mostly in the upper 80s
+to lower 90s Friday, below heat advisory criteria.
+
+&&
+
+.LONG TERM /FRIDAY NIGHT THROUGH WEDNESDAY/...
+With the passage of a cold front early Friday, more seasonal 
+temperatures, along with drier air, will be ushered into the region 
+for Friday night into the beginning of next week.
+However, with surface high pressure moving offshore during Saturday, 
+and the approach of a warm front, humidity levels will be slowly 
+increasing, with dew points rising back into the mid 60s Saturday 
+and into the lower 70s Sunday. With a frontal system passes near the 
+region there will be a chance of showers and thunderstorms Saturday 
+night and Sunday. A cold frontal passage Sunday night will bring 
+somewhat drier air, with an east to southeast flow as high pressure 
+builds to the north, and moves off the New England coast.
+
+&&
+
+.AVIATION /00Z THURSDAY THROUGH MONDAY/...
+A trough of low pressure remains nearby into Thursday. A cold
+front approaches Thursday evening. 
+
+Mainly VFR with the exception of some brief MVFR this evening at
+KISP and IFR/LIFR at KGON tonight/early Thursday.
+
+Scattered showers are possible early this evening, mainly west 
+of the NYC metro terminals. Additional showers and thunderstorms
+are possible late this evening into early Thursday morning with
+some local MVFR. Another round of showers/thunderstorms is
+possible late Thursday afternoon into the early evening. 
+
+S-SE winds diminish this evening as they veer to the SW. SW
+winds increase after day break Thursday, becoming around 15 kt
+with gust 20-25 kt in the afternoon. Winds shift to the W
+Thursday evening once the cold front passes. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+SHRA/TSRA possible at the start of the TAF period until 02z, 
+mainly at KEWR and KTEB. 
+
+TSRA may end up just isolated during the PROB30 period tonight.
+
+Additional TSRA possible Thursday afternoon/evening.  
+
+Start time of gusts Thursday may be off by 1-3 hours. 
+
+.OUTLOOK FOR 00Z FRIDAY THROUGH MONDAY... 
+
+Thursday Night: Evening showers/storm possible, otherwise VFR.
+
+Friday and Saturday: Mainly VFR. 
+
+Sunday: Chance of showers and tstms. MVFR or lower likely. 
+
+Monday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Through tonight, conditions are below SCA criteria with a weak 
+pressure gradient in place. For Thursday and Thursday night, the
+pressure gradient increases and potentially there could be some
+SCA level wind gusts to 25 kt across parts of the ocean. For 
+Thursday night, there could be enough fetch for some 5 ft seas 
+as well on the ocean. It will be marginal for SCA conditions on
+the ocean and did not have enough confidence at this time to 
+issue SCA for the ocean. Well below SCA for other waters. SCA 
+potential relatively higher for ocean east of Fire Island Inlet.
+Also, the period of time SCA conditions could occur would be 
+brief as forecast conditions for winds and seas lower on Friday 
+with high pressure building in.
+
+Conditions remain below SCA thresholds Friday night through Monday 
+night.
+
+&&
+
+.HYDROLOGY...
+Localized flash flooding possible through early Thursday morning
+with high PWATs and less steering motion with thunderstorms.
+Less flooding threat Thursday into early Thursday evening as 
+thunderstorms pick up in speed but minor flooding will still be 
+possible.
+
+Hydrologic impacts are not expected thereafter through the 
+middle of next week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+With a strengthening southwest flow Thursday, the risk for rip 
+current development will be moderate, and wave will be 2 to 
+around 3 feet. A moderate rip current risk will continue into 
+with the passage of a cold front early in the day, and winds 
+from the northwest to west, and a southerly swell remains.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Air Quality Alert until 11 PM EDT this evening for CTZ005-009.
+     Heat Advisory until 10 PM EDT Thursday for CTZ005>012.
+     Air Quality Alert from 11 AM to 11 PM EDT Thursday for CTZ009-
+     010.
+NY...Air Quality Alert until 11 PM EDT this evening for NYZ069>075-
+     078>081-176>179.
+     Heat Advisory until 10 PM EDT Thursday for NYZ067>075-078>081-
+     176>179.
+NJ...Air Quality Alert until 11 PM EDT this evening for NJZ002-004-
+     006-103>108.
+     Heat Advisory until 10 PM EDT Thursday for NJZ002-004-006-
+     103>108.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JM/MET
+NEAR TERM...JM
+SHORT TERM...JM
+LONG TERM...MET
+AVIATION...DS
+MARINE...JM/MET
+HYDROLOGY...JM/MET
+TIDES/COASTAL FLOODING...

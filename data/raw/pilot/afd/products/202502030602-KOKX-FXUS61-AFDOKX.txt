@@ -1,0 +1,180 @@
+137 
+FXUS61 KOKX 030602
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+102 AM EST Mon Feb 3 2025
+
+.SYNOPSIS...
+A warm front will lift through tonight, followed by a cold front
+Monday night. High pressure returns Tuesday into Wednesday. A 
+complex frontal system then approaches late Wednesday and impact
+the area from Wednesday night into Thursday. High pressure will
+return on Friday before another frontal system arrives next 
+weekend.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM THIS MORNING/...
+Precip winding down across the area, with back edge of steady
+light rain/snow moving through the forks of Long Island and 
+light snow over far SE CT, and a few leftover flurries farther
+back across S CT. There were some 2+ inch amts over S CT, with 
+as much as 3.5 inches in North Haven. 
+
+A Winter Weather Advisory remains in effect til 7 AM for
+interior southern CT. 
+
+Overall, fcst snowfall amounts were light for most of the area,
+with around an inch or less from NE NJ, NY, and Long Island. 
+Farther north, fcst snowfall amounts were 1-3 inches across the
+Lower Hudson Valley, and closer to 3 inches for interior 
+southern CT. 
+
+The mid levels dry out and this may result in some lingering
+flurries and/or patchy freezing drizzle across the interior 
+into early morning. 
+
+&&
+
+.SHORT TERM /6 AM THIS MORNING THROUGH 6 PM TUESDAY/...
+The warm front will be north of the area by Monday morning and
+deep W-SW flow will continue ahead of the approaching cold 
+front. Temperatures rise and moisture increases with highs in 
+the mid to upper 40s. SW flow then picks up Monday evening and 
+the cold frontal passage is expected sometime after midnight. At
+this time, the front is expected to go through dry, but some 
+sprinkles can not be ruled out. Because the winds stay up all 
+night, went closer to the NBM and CONSALL instead of the MOS for
+lows.
+
+&&
+
+.LONG TERM /TUESDAY NIGHT THROUGH SUNDAY/...
+There has not been too much change with the forecast Tuesday
+through next weekend. A fast zonal flow aloft with several 
+embedded shortwaves/frontal systems look to impact the area, one
+mid to late week and another next weekend.
+
+High pressure builds in Tuesday and appears to settle overhead
+by Wednesday morning. The high likely lingers nearby into 
+Wednesday evening with the latest guidance slowing down the 
+timing of an approaching frontal system. With the lingering 
+surface ridging, have lowered precip probabilities during the 
+day on Wednesday with a good chance it remains dry during the 
+daytime. 
+
+The model guidance then continues to differ with the evolution
+of the complex frontal system Wednesday night into Thursday. 
+However, the general idea in the modeling is similar overall 
+with a parent low likely tracking to our northwest late 
+Wednesday night into Thursday. This will help bring a warm front
+across the area early Thursday before a trailing cold front 
+passes late Thursday or Thursday night. Still thinking there 
+will be a brief period of a wintry mix Wednesday night, first 
+starting out as some snow and sleet then transitioning to 
+freezing rain and rain early Thursday morning. The wintry mix 
+will last longest across the interior with the NYC metro and 
+Long Island becoming plain rain as the boundary layer warms late
+Wednesday night into Thursday morning. Some freezing rain could
+linger across the interior Thursday morning, depending on how 
+quickly the boundary layer can warm up. This will be dependent 
+on the strength of the SW flow. Some solutions are showing a 
+weaker parent low, which would have a weaker lower level flow, 
+and slower timing of scouring out the surface cold air inland. 
+The overall pattern however supports warm air aloft helping to 
+bring a transition to liquid at some point late Wednesday night 
+or early Thursday morning. Little to no accumulation is 
+currently expected near the coast with a light snow/sleet 
+accumulation as well as light ice accretion inland are possible.
+These details will become much clearer in the next day or so. 
+
+Rain will continue on Thursday and should taper off late in the
+day or night once the cold front passes. Dry conditions will 
+return to end the week. Model guidance is in good agreement on 
+another complex frontal system for next weekend. The synoptic 
+pattern favors a similar set up to the mid week system, but 
+PTYPE details are less certain at this time. Generally followed 
+the latest model consensus blend for next weekend. 
+
+Temperatures will be up and down through the period due to the
+fast flow. Above normal temperatures Tuesday trend below 
+normal by Wednesday. Temperatures should warm back above normal 
+on Thursday before dropping below normal to end the week.
+
+&&
+
+.AVIATION /06Z MONDAY THROUGH FRIDAY/...
+A warm front will lift through overnight. A cold front will
+approach from the west today and pass through tonight. 
+
+MVFR/IFR cigs continue with some locations north of NYC down to
+LIFR. Precipitation is quickly exiting the region from west to
+east, with the back edge of snow moving across the forks of Long
+Island and far SE CT. Cond will be slow to improve over the next
+few hours, becoming VFR toward 12Z. There is a chance that some
+fog develops north of NYC. 
+
+Winds will remain light and variable for most terminals through
+the TAF period. For the NYC terminals, a SW flow around 10 kt
+expected this afternoon. Winds start to shift back to the W-NW
+late behind a cold frontal passage. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Low cigs may last slightly longer than forecast.
+
+.OUTLOOK FOR 06Z TUESDAY THROUGH FRIDAY... 
+
+Late tonight: VFR. 
+
+Tuesday: VFR. NW winds G20-30kt. 
+
+Wednesday: VFR. 
+
+Thursday: MVFR or lower possible in rain or a wintry mix. 
+
+Friday: VFR with NW flow. 
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Sub-Small Craft Advisory conditions are expected today. SW flow
+then increases ahead of a cold front tonight, and wind gusts may
+reach 25 kt on the eastern ocean waters as well as seas reaching
+5 ft. Confidence is low and current forecast calls for only 
+marginal SCA conditions, so held off on SCA issuance. 
+
+Marginal SCA conditions are possible on the ocean on Tue, also
+Wed night-Thu as a complex frontal system impacts the waters. 
+Elevated ocean seas may then continue into Friday. 
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through next weekend.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Winter Weather Advisory until 7 AM EST this morning for 
+     CTZ005>008.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...BG/JM/DS/JT
+NEAR TERM...JM
+SHORT TERM...JT
+LONG TERM...DS
+AVIATION...BC/BG
+MARINE...DS/JT
+HYDROLOGY...DS/JT

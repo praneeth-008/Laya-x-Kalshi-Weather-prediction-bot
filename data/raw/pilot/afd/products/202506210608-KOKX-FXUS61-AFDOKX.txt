@@ -1,0 +1,217 @@
+497 
+FXUS61 KOKX 210608
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+208 AM EDT Sat Jun 21 2025
+
+.SYNOPSIS...
+Western Atlantic high pressure will become more established
+through the weekend. A few disturbances will pass through this
+weekend. High pressure just southwest of the area will be in 
+control for the first half of next week. A front will draw
+closer from the north for mid week, and may lift north again
+late in the week. 
+
+&&
+
+.NEAR TERM /UNTIL 6 AM THIS MORNING/...
+At least one more comfortable evening with dewpoints still 
+relatively low compared to future evenings ahead. At the 
+surface, a wave of low pressure traverses through the Canadian 
+Maritimes with high pressure building in from the west locally 
+in our region.
+
+Low temperatures should range mainly from lower 60s to around 
+70, with partly cloudy skies. 
+
+&&
+
+.SHORT TERM /6 AM THIS MORNING THROUGH 6 PM SUNDAY/...
+
+* Extreme Heat Watch for much of the region from Sunday
+  afternoon through 8PM Tuesday.
+
+See long term for more details about Sunday night onward.
+
+A building heat ridge develops Sunday and warming temperatures plus 
+subsidence will lead to the strengthening of this ridge. Hot 
+temperatures expected with a steady SW flow for much of the area. 
+
+High temperatures Sunday are forecast into the 90s for much of 
+the region of Western Long Island back west through NE NJ, Lower
+Hudson Valley and SW CT. Parts of NYC and NE NJ forecast to 
+reach near 100. Dewpoints forecast to be mostly upper 60s to 
+near 70. Resulting heat indices reach near 100 to 105 for 
+locations in the extreme heat watch. The high temperature
+forecast used a blend of MAV and MET MOS as well as the NBM.
+
+Uncertainty of a few degrees in temperature and opted to go with 
+just one headline at this time. Subsequent forecasts could very well 
+partition this area based on whether heat indices are expected to 
+reach near 105 versus near 100. 
+
+Left out Eastern Suffolk as those locations are expected to be 
+cooler with more clouds and potentially some showers and 
+thunderstorms, as well as more maritime influence. Eastern Suffolk 
+more in the 80 to 90 degree range on average for highs with 
+corresponding heat indices mostly in the lower 90s and that is just 
+west of the Forks of Long Island. Forks of Long Island actually 
+closer to 80 for highs with that more maritime influence.
+
+In the mid levels, a shortwave passes to the northeast of the region 
+Saturday with strong ridging building in thereafter through Sunday. 
+Models exhibit a consensus of 500mb heights exceeding 590dm.
+
+High pressure becomes established offshore this weekend. A weak 
+surface disturbance passes through Saturday with another disturbance 
+passing by early Sunday. The center of the high pressure area pushes 
+farther south Sunday in response to a wave of low pressure moving 
+across Northern New England into the Canadian Maritimes. 
+
+In response to the passing disturbances, just enough forcing along 
+with building low level instability will allow for some showers and 
+thunderstorms for parts of the region both Saturday and Sunday. Kept 
+POPs at slight chance with weak forcing and ample dry air in the low 
+levels. That being stated, there is a conditional probability here 
+in that there is a marginal risk for damaging winds with some 
+thunderstorms that develop. Models do show some increase low to mid 
+level winds this weekend and with the thunderstorm and CAPE which 
+should easily be achieved with the warmth, that will present more 
+bulk shear for any thunderstorms.
+
+Max temperatures Saturday well into the 80s. Dewpoints are
+forecast to be in the low to mid 60s for much of the region
+Saturday. Resulting heat indices just a few degrees above the
+actual temperatures well below heat advisory thresholds. Max
+heat indices Saturday reach near 90 for some parts of NE NJ.
+Rest of the forecast region stays in the 80s for max heat
+indices.
+
+&&
+
+.LONG TERM /SUNDAY NIGHT THROUGH FRIDAY/...
+Key messages:
+
+* Confidence remains high for the first heat wave of the season 
+  through Wednesday
+
+* Confidence remains below average regarding the full duration of 
+  the heat wave, and whether it lasts late in the week
+
+The first heat wave of the season continues to look more and more 
+likely with each main model run cycle of the global NWP guidance. 
+The 500 mb heights look to peak into Monday and Tuesday. Thus during 
+the course of these two days look for the heat to continue to build. 
+Excessive Heat Watches remain in effect during this time for a large 
+majority of the region.
+
+Questions begin to arise towards late Tuesday night into Wednesday 
+with regard to a frontal boundary north of the area. Blended 
+consensus guidance continues to indicate that a slow moving cold 
+front locks up over the area towards later Wednesday into Thursday. 
+However, based on the 500 mb height consensus forecast there is a 
+good degree of uncertainty as to how far this frontal boundary can 
+ultimately push. Any height falls from global NWP guidance appears 
+to be minimal and without a more potent shortwave feature to the 
+northwest that can at least temporarily knock down the East coast 
+heat ridge it may prove difficult to break the heat into mid to late 
+week. For now have gone closely to the blended guidance Wednesday 
+into Thursday, and with a frontal boundary suggested to be nearby 
+have mainly slight chance of shower / thunderstorms for this 
+timeframe. However, if a more potent shortwave does not show up in 
+future NWP runs there will be no catalyst to advect cooler air or a 
+cooler air mass into the region and thus the heat could get extended 
+further through the week. Was tempted to go warmer than guidance for 
+Wednesday through Friday with the lack of overall 500 mb height 
+falls, but will stay closer to consensus guidance for the time 
+being. The main theme is well above normal temperatures, with very 
+little if any relief at night (especially in the more urban areas 
+through at least Tuesday night). Thereafter confidence in forecast 
+temperatures and heat indices decreases due to uncertainty with the 
+frontal boundary.
+
+&&
+
+.AVIATION /06Z SATURDAY THROUGH WEDNESDAY/...
+VFR with high pressure in control. 
+
+WSW winds just under 10 kt at most of the NYC metros should
+diminish somewhat and veer W overnight. Light NW-WSW flow to 
+start after daybreak should becomes SW-S into the afternoon, 
+increasing to 8-12 kt. Sea breeze development is likely at the 
+coastal terminals, getting to KHPN late. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+S-SE harbor breeze should hold just E of KEWR this afternoon,
+but may make it in there and at KTEB toward 00Z Sunday. 
+
+.OUTLOOK FOR 06Z SUNDAY THROUGH WEDNESDAY... 
+
+Late Saturday night: VFR.
+
+Sunday: Slight chance of showers/tstms mainly in the morning. 
+WSW-SW winds G15-20kt in the afternoon. 
+
+Monday and Tuesday: VFR. 
+
+Wednesday: Chance of showers/tstms in the afternoon/evening
+mainly for KHPN/KSWF. 
+
+Detailed information, including hourly TAF wind component 
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Other than some 5-ft seas late day Sunday into Sunday evening
+for the ocean waters E of Moriches Inlet, sub advy conditions
+expected through Wed night. Ocean seas should settle in around 
+2 ft on Mon. 
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through the weekend. Limited 
+coverage and speed of showers and thunderstorms will not allow 
+for much rainfall accumulation.
+
+There are no hydrologic concerns through the rest of the
+forecast period with dry conditions prevailing.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+On Saturday look for a low risk for all ocean beaches with a 
+diminished swell and lower offshore wave heights. With an 
+increase in swell and wave heights for central and eastern ocean
+beaches look for a moderate risk on Sunday, with a lower risk 
+for Brooklyn and Queens beaches.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Air Quality Alert from 11 AM Sunday to 11 PM EDT Monday for 
+     CTZ005>012.
+     Extreme Heat Watch from Sunday afternoon through Tuesday 
+     evening for CTZ005>012.
+NY...Extreme Heat Watch from Sunday afternoon through Tuesday 
+     evening for NYZ067>075-078-080-176>179.
+NJ...Extreme Heat Watch from Sunday afternoon through Tuesday 
+     evening for NJZ002-004-006-103>108.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JE/JM
+NEAR TERM...JM
+SHORT TERM...JM
+LONG TERM...JE
+AVIATION...BG
+MARINE...JE/JM
+HYDROLOGY...JE/JM
+TIDES/COASTAL FLOODING...

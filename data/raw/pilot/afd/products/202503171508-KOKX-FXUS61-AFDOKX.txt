@@ -1,0 +1,206 @@
+699 
+FXUS61 KOKX 171508
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1108 AM EDT Mon Mar 17 2025
+
+.SYNOPSIS...
+A cold front moves off the coast today, with a large high pressure 
+ridge gradually building across tonight. The high settles over the 
+area Tuesday and Tuesday night and remains into Wednesday. A fast 
+moving frontal system moves across Thursday into Thursday night. 
+High pressure begins to build back in on Friday.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+The cold front will continue to move through the forecast area
+this afternoon and shift offshore by late in the day. Steadier
+rainfall will be limited to eastern LI into early afternoon.
+Still a chance of showers elsewhere during the daytime as an 
+upper trough axis remains to our west. Breaks of sunshine
+developing mainly west of LI and CT, and temperatures will
+continue to run above normal with high temperatures mostly
+55-60. 
+
+The upper level trough axis doesn't really get through until 06z
+or shortly thereafter, so still can't rule out a shower over CT
+or LI this evening. Further clearing should ensue quickly from 
+west to east behind the passage of the trough axis. Temperatures
+bottoming out primarily in the 30s across the region.
+
+&&
+
+.SHORT TERM /TUESDAY THROUGH TUESDAY NIGHT/...
+Look for any clouds across far eastern sections to get off the coast 
+during the morning. A rather expansive high pressure ridge will 
+build in from the west. On a dry northerly flow look for complete 
+sunshine and mild temperatures with enough of a synoptic flow to 
+likely prevent any real widespread sea breeze / ocean diurnal 
+induced wind. Look for mainly middle 50s to lower half of the 60s 
+for daytime max temperatures, a good 10 degrees or so above normal 
+in most places.
+
+With the high settling right over the region Tuesday night look for 
+clear skies and light to calm winds. This should result in a fair 
+amount of radiational cooling. Lows will range from middle 30s 
+across far northern interior and rural sections, to the middle 40s 
+across much of the NYC metro.
+
+&&
+
+.LONG TERM /WEDNESDAY THROUGH SUNDAY/...
+Key Points:
+
+* Dry conditions will prevail Wednesday into Thursday morning, 
+  and then again next weekend with temperatures mainly above 
+  average.
+
+* Showers become likely late Thursday and Thursday night along a 
+  fast moving frontal system. 
+
+* Breezy and cooler conditions briefly return Friday.
+  
+The modeling has remained relatively consistent over the last few 
+days with the overall pattern progression into next weekend.
+The upper trough that slowly moves overhead on Monday will slide 
+offshore Tuesday morning. This is in response to a build upper 
+ridge. The upper low is still expected to get trapped beneath the 
+ridge over the western Atlantic into Wednesday. This will not 
+directly impact our weather, but could enhance subsidence with the 
+ridging aloft later Tuesday and Wednesday. The upper ridging pushes 
+offshore on Thursday ahead of the next upper level trough, which 
+likely lifts over the area Thursday night into Friday. The ensemble 
+means then indicate a mostly zonal flow for next weekend. 
+
+Surface high pressure will be in control to begin the period, before
+moving offshore on Thursday. The aforementioned upper trough will
+send a fast moving frontal system across the area late Thursday
+into Thursday night. The latest model consensus indicates most of
+the daytime Thursday will be dry with just a chance of showers 
+late in the afternoon. The cold front sweeps across the area 
+Thursday night with the likelihood of showers. Low pressure may 
+develop along the front as it passes to our east and help add 
+more lift and moisture for the continuation of showers into 
+early Friday morning. Guidance has come into better agreement 
+with this scenario, but differ on the intensity of the low. The 
+progressive pattern would favor the low to quickly push off the 
+New England coast Friday morning. The NBM probabilities for 
+greater than an inch of rain in a 12 or 24 hour period Thursday 
+into Thursday night remain low and under 10 percent, consistent 
+with the speed of the system. The potential of low pressure on 
+the front may bring a possibility of some wet snow flakes mixing
+in well inland as the system pulls away and draws colder air 
+southward. 
+
+Breezy and cooler conditions are expected on Friday under strong 
+cold advection and a W-NW flow. Temperatures look to remain in the 
+mid and upper 40s for highs which are slightly below average for 
+March 21st. Winds will likely gust 25-35 mph. The pressure gradient 
+should relax Friday night with high pressure returning for the 
+remainder of the weekend. Have kept the forecast dry next weekend 
+with a mainly zonal flow aloft.
+
+&&
+
+.AVIATION /15Z MONDAY THROUGH FRIDAY/...
+Cold front and wave of low pressure along it was moving through
+eastern Connecticut and eastern Long Island at 14Z, and will
+move east of the region this afternoon. High pressure to the
+west gradually builds in tonight through Tuesday.
+
+Conditions were generally IFR and locally LIFR this morning,
+especially east of NYC, where rain showers continue. Conditions
+will be gradually improving late this morning west where
+scattered showers will be possible, and not until mid to late
+afternoon to the east, and possibly not until 22Z at KGON.
+
+Category improvement will be slow to occur, with a return to 
+VFR at the NJ terminals around 18Z to 20Z, and east later in the
+afternoon or early evening. Clear skies are expected late 
+tonight.
+
+Winds have diminished as the frontal wave moved into the area 
+this morning, and direction will remain variable for several 
+hours before a W/NW or NNW flow becomes established into late
+morning or early afternoon. Speeds increase as well, toward 
+15G25 kt by late afternoon. The gusts subside overnight into 
+Tuesday morning, though speeds linger around 10 kt into the day.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Unscheduled AMD likely to address changes in flight categories
+and timing of rain and wind shifts.
+
+LIFR cigs and vsbys possible at times this morning.
+
+Timing of category changes may be off by a couple of hours.
+
+.OUTLOOK FOR 12Z TUESDAY THROUGH FRIDAY...
+
+Tuesday and Wednesday: VFR.
+
+Thursday: IFR/LIFR cigs possible in the morning mainly E of the
+NYC metros. Chance of showers with MVFR cond possible. S winds 
+10-15 kt with G20-25 kt, winds shifting W during the evening.
+
+Friday: VFR at the NYC terminals and west, MVFR/IFR east with 
+showers ending late in the day, becoming VFR throughout. NW 
+wind 15-20 kt with G20-30kt. 
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Winds have come down for the time being, but the winds do come
+back up some for this afternoon and this evening as a cold 
+front will push from west to east through the waters today.
+Small craft advisories will be in effect for the ocean for a
+prolonged period, and for a shorter time for NY Harbor later 
+today and this evening. The winds will switch to the NNW, with
+a NNW flow prevailing later today into tonight, and into 
+Tuesday. With elevated seas on the ocean small craft seas are 
+expected to continue through much of the day Tuesday. The winds 
+will become rather light Tuesday afternoon into Tuesday night as
+high pressure settles directly over the waters.
+
+Winds on all waters should remain below SCA levels Wednesday and 
+through much of Thursday. Initially ocean seas will be around 
+4 ft, and then ocean seas become slightly more elevated at or 
+above 5 ft late Wednesday night into Thursday mainly due to 
+lingering SE swells. The next chance for SCA winds will be 
+Thursday night behind a cold front passage. There is also 
+potential for gales on the waters on Friday under a strong NW 
+flow and cold advection over the warmer waters. Seas will remain
+elevated to end the week.
+
+&&
+
+.HYDROLOGY...
+There are currently no hydrologic concerns through this week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory from 2 PM this afternoon to midnight EDT 
+     tonight for ANZ338.
+     Small Craft Advisory until 6 PM EDT Tuesday for ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JE/DS
+NEAR TERM...JC/JE
+SHORT TERM...JE
+LONG TERM...DS
+AVIATION...DR/MET
+MARINE...JC/JE/DS
+HYDROLOGY...JE/DS

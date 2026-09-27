@@ -1,0 +1,188 @@
+186 
+FXUS61 KOKX 050455
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1155 PM EST Tue Feb 4 2025
+
+.SYNOPSIS...
+High pressure will build from the Great Lakes through Wednesday.
+A low pressure system then impact the area late Wednesday night
+and into Thursday. High pressure then builds into the area 
+through the end of the week, followed by low pressure impacts 
+for Saturday night into Sunday. A seasonably cold airmass builds
+in for the beginning of next week.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM WEDNESDAY MORNING/...
+Forecast on track. The pressure gradient relaxes through early
+Wednesday morning as high pressure builds closer to the region.
+Winds gradually subside, with any remaining gusts ending. A 
+fast zonal flow aloft will begin to push mid/upper level 
+moisture toward the area overnight helping to increase cloud 
+cover during the late night hours, especially further west and 
+northwest. Cold advection from the building high should be 
+enough to allow temperatures to drop into the teens inland and 
+lower/mid 20s at the coast despite the boundary layer not 
+completely decoupling and increasing high/mid level clouds.
+
+&&
+
+.SHORT TERM /6 AM WEDNESDAY MORNING THROUGH THURSDAY/...
+High pressure continues to build in during Wednesday before
+shifting offshore in the evening. Mostly cloudy due the mid and
+upper moisture in place, but with dry lower levels and 
+subsidence the day should remain dry. Highs below normal as they
+top out in the lower and middle 30s.
+
+A broad area of low pressure then approaches the region Wednesday 
+night. The system is expected to have two areas of circulation with 
+the secondary low center passing through or nearby during Thursday 
+afternoon. Generally speaking, precipitation chances begin after 
+midnight with precip becoming likely SW to NE across the forecast 
+area towards daybreak Thursday through Thursday morning. Chances 
+then drop off Thursday afternoon.
+
+Regarding precip types, thermal profiles look cold enough everywhere 
+for the precip to begin as snow. Warming aloft in association with 
+the approaching low center then introduces a wintry mix that will 
+spread generally SW to NE during Thursday morning. Looks like a 
+brief period of snow/sleet/rain mix for LI, NYC and the urban 
+corridor of NE NJ during the morning commute before a change to 
+plain rain. Father north, the wintry mix, which includes freezing 
+rain, will last longer. 
+
+As for snow and ice accumulations, still some uncertainty as models 
+differ on the timing of the warm nose shifting in, as well as 
+quickly surface temps rise above freezing. The implications would be 
+greater inland regarding ice accretion as the surface cold air 
+likely takes the longest to dislodge across the interior of NE NJ, 
+Lower Hudson Valley, and interior CT. Still even cannot completely 
+rule out a brief period of freezing rain for coastal areas, but it's 
+currently not in the forecast. With that said, there is high enough 
+confidence that there will be impacts with slippery/hazardous 
+conditions. After collaboration with the surrounding areas, have 
+decided to issue a Winter Wx Advisory for the combination of snow 
+and ice accretion for interior southern CT, most of the Lower Hudson 
+Valley and parts of NE NJ. Looking at up to 2 inches of snow with up 
+to an tenth of an inch of ice accumulation late Wednesday night 
+through early Thursday afternoon. Plain rain expected thereafter.
+
+&&
+
+.LONG TERM /THURSDAY NIGHT THROUGH TUESDAY/...
+Conditions dry out Thu ngt as the upr trof approaches the region and 
+shifts everything out to sea. It still looks windy on Fri, with the 
+GFS still putting out 40kt at h85. The blended sfc data looks too 
+low with this, so manually brought winds up including gusts to 35kt 
+for the entire area. Could be a few higher gusts so a wind advy 
+possible with deep subsidence from jet lvl. Otherwise, dry wx Fri 
+into early Sat with the NBM generally used for temps.
+
+Clouds thicken on Sat with chances for snow increasing. The best 
+chances for the snow to break out are late in the day aft 18Z. The 
+most significant pcpn comes in Sat ngt per the 12Z modeling, then 
+tapers off during the first part of Sun. Leaned on the NBM pops for 
+timing, but as confidence in timing increases going forward, the 
+window for pops will likely shrink. Both the GFS and ECMWF are done 
+by 12Z Sun. This sys looks to be another mixed bag event based on 
+the track and nature of the low. Would expect a couple of inches of 
+snow changing to sleet and fzra across the interior before perhaps 
+ending as some lgt rain or dz, with less snow transitioning to sleet 
+then rain at the coasts.
+
+Another shot of cold air then comes in for the beginning of next 
+week at least. Although the overall pattern generally exhibits a 
+positive tilt, an active srn stream could still allow for another 
+round of wintry wx by the middle of next week.
+
+&&
+
+.AVIATION /05Z WEDNESDAY THROUGH SUNDAY/...
+High pressure builds overnight and settles over the area on 
+Wednesday.
+
+VFR.
+
+Winds will continue to weaken through tonight as any gusts should 
+end by 5-7z, with sustained winds settling on either side of 10kt. 
+Thereafter the winds should settle at 5-12kt tomorrow out of the 
+NW/NNW.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No amendments are expected. 
+
+
+.OUTLOOK FOR 0Z THURSDAY THROUGH SUNDAY... 
+
+Wednesday night: MVFR or lower cond in light snow after midnight. 
+
+Thursday: MVFR or lower cond with light snow/sleet to start.
+Precip should change to rain after about 14Z-15Z at the NYC metros 
+and KISP, by about 17Z at KBDR/KGON, and could transition to 
+freezing rain at KSWF mid to late morning before changing to rain by 
+18Z. Snowfall amounts should be light, mainly either side of an inch.
+
+Thursday night: Rain ending with cond becoming VFR. 
+
+Friday: VFR. W winds G20-25kt. 
+
+Saturday: Chance of snow with IFR cond in the afternoon. Snow 
+changing to a wintry mix expected at night. 
+
+Sunday: Precip should change over to all rain by daybreak Sunday 
+except for KSWF. MVFR to IFR at times. Becoming VFR as precip ends 
+during Sunday afternoon.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Winds and seas have subsided below SCA levels west of Moriches
+Inlet. Therefore, the Advisory here has been cancelled. Will let
+the Advisory east of Moriches Inlet run through 4 am as seas and
+winds look slower to subside. 
+
+A relatively tranquil period will then be in place during Wednesday 
+into Wednesday night as a high pressure ridge shifts through the 
+waters. The next chance of SCA conds will be on Thursday, and mainly 
+on the ocean waters as a low pressure center passing through 
+increases the wind and swell.
+
+NW flow gales likely on Fri, then cond improve for Sat. A SCA may be 
+needed on Sun with low pres passing thru the region. There is a chc 
+for gales particularly on the ocean depending on the track and 
+intensity of the low. Gradual improvement is expected Mon attm.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through the forecast period.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Winter Weather Advisory from 4 AM to 1 PM EST Thursday for 
+     CTZ005>008.
+NY...Winter Weather Advisory from 4 AM to 1 PM EST Thursday for 
+     NYZ067>070.
+NJ...Winter Weather Advisory from 4 AM to 1 PM EST Thursday for 
+     NJZ002-004-103-105-107.
+MARINE...Small Craft Advisory until 4 AM EST Wednesday for ANZ350.
+
+&&
+
+$$
+
+SYNOPSIS...JMC/JC
+NEAR TERM...JC/DS
+SHORT TERM...JC
+LONG TERM...JMC
+AVIATION...JE
+MARINE...JMC/JC
+HYDROLOGY...JMC/JC

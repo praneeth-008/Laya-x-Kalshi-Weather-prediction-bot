@@ -1,0 +1,219 @@
+569 
+FXUS61 KOKX 301822
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+222 PM EDT Mon Jun 30 2025
+
+.SYNOPSIS...
+A warm front lifts north across the area tonight, followed by a
+cold front Tuesday night into Wednesday morning. A cold front 
+approaches Thursday and moves through the area Thursday evening 
+followed by high pressure building into the area through the 
+weekend. Another frontal system may impact the area early next 
+week.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+We are still looking at the potential for some showers and 
+thunderstorms late this afternoon/evening. CAMs continue to show 
+some development, mainly across the SW part of the CWA, right around 
+21z. Will continue to carry just some slight chance or chance POPs 
+to cover this, with the best chances across the southern portion of 
+NE NJ and Staten Island. Otherwise it should be a mainly dry 
+evening. 
+
+A frontal boundary then lifts north across the forecast area 
+tonight. The frontal boundary combined with an upper level shortwave 
+will result in additional showers and thunderstorms moving across 
+the area. Chances will increase between 03-06z with most of the 
+shower activity ending around 10-12z.  
+
+Precipitable water values increase to around 2.25 inches after 
+midnight, so any showers and stronger storms could put down a quick 
+inch plus of rain locally. Most of the precipitation should end
+towards daybreak as the front lifts further north. Winds will 
+become more S/SW overnight. Lows tonight will be in the middle 
+and upper 70s. 
+
+&&
+
+.SHORT TERM /TUESDAY THROUGH WEDNESDAY/...
+The warm front continues to push northward Tuesday morning, and 
+despite what could be a mostly cloudy start, it should be a dry 
+morning. I have lowered the NBM POPs for a period Tuesday morning. 
+It will also be rather muggy with dew points rising into the lower 
+70s. 
+
+By late morning and midday enough breaks of sun should take place to 
+get temperatures rather warm. Temperatures did come down a degree or 
+two from the previous forecast, so expect highs in the 80s for most 
+of the area, and a few 90s in the NYC/NE NJ urban corridor With dew 
+point readings mainly in the lower and middle 70s, heat indices 
+should get into the lower and middle 90s, with a few locations 
+reaching the upper 90s. No plans for any heat advisories at this 
+time. 
+
+A cold front off to the west approaches with showers and storms 
+likely developing along a pre-frontal trough and back to the west 
+along the cold front itself. CAMs showing some development possible 
+as early as 16-18z, then POPs should ramp up rather quickly around 
+or after 18z. Expect shower and thunderstorms then through the 
+remainder of the afternoon/evening. Storm Prediction Center still 
+has the the region in the marginal risk of severe weather, with a 
+slight chance extended into NJ and touching parts of NYC and the 
+Lower Hudson Valley. The main threat with any storms will be severe 
+wind gusts and heavy rain. 
+
+Showers and storms are likely through the first half of Tuesday 
+night with chances trailing off getting towards and after 06z. With 
+front appearing a bit slower now, shower chances carry into early 
+Wednesday morning for far eastern sections. A warm and muggy night 
+with minimum temperatures in the upper 60s well northwest, to mostly 
+lower 70s closer to the coast.
+
+Drier weather returns for Wednesday, as the front pushes through the 
+area and slides offshore. With the front still nearby, expect clouds 
+at least through the morning before clearing later in day. It does 
+remain humid, but not as bad as Tuesday. Highs on Wednesday will be 
+in the 80s. 
+
+&&
+
+.LONG TERM /WEDNESDAY NIGHT THROUGH SUNDAY/...
+An upper level trough swings into the Northeast US from the Great 
+Lakes Wednesday night into Thursday. Energy in the flow that moves 
+within the trough will push a surface low north of the area. The 
+associated cold front moves through Thursday afternoon and evening 
+bringing the potential for showers and thunderstorms, particularly 
+for the northern and western portions of the area. 
+
+The trough lingers overhead for Friday with a surface high pressure 
+building into the area from the west through the weekend. The 
+overhead trough on Friday will result in temperatures slightly 
+cooler than Thursday, but generally around average for this time of 
+year. Highs on Friday will be in the low to middle 80s for much of 
+the area under generally clear skies.
+
+Surface high pressure continues to build into the area accompanied 
+by a building upper level ridge. This will continue to allow for 
+generally clear to partly cloudy skies and warming temperatures 
+through the weekend. Highs Saturday will be in the middle 80s for 
+much of the area. Temperatures warm into the upper 80s and low 90s 
+for Sunday and Monday. Given the ample surface heating and potential 
+development of instability into the afternoon Sunday and Monday, pop-
+up showers and storms may develop for inland areas to the north and 
+west. Another frontal system may approach the area from the 
+northwest late Monday.
+
+&&
+
+.AVIATION /18Z MONDAY THROUGH SATURDAY/...
+A stationary front to the south will lift north as a warm front
+tonight. A cold front will then approach Tuesday afternoon.
+
+VFR with SE-S flow mostly less than 10 kt except at KJFK where
+winds should be slightly higher after 20Z. ENE sound breeze at
+KLGA about to shift SE-S as well and should do so shortly after
+18Z. An isolated tstm still possible near KEWR late today but 
+should not impact the other NYC metro terminals. 
+
+For tonight, S winds diminish to less than 10 kt throughout. VFR
+cond to start, then LIFR cigs should move in at KISP/KGON this
+evening and KBDR after midnight, and may also impact KJFK this
+evening. Meanwhile showers/tstms likely to move across from the
+west overnight, mainly 04Z-08Z from the NYC metros north/west, 
+and an hour or two later at the Long Island and CT terminals. 
+Mainly MVFR cond expected at most terminals with this activity 
+(and improvement from LIFR to IFR out east), but can't rule out
+brief IFR vsby with any heavier showers/tstms. Some patchy fog
+with MVFR vsby also possible late after this activity passes. 
+
+Flight cat improves to VFR throughout by 13Z-14Z, with SW flow
+around 10 kt. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+* Any isolated showers/tstms near KEWR from about 21Z-01Z 
+  unlikely to affect the other metro terminals. 
+
+* LIFR cigs may be possible at KJFK or nearby over the water from
+  about 01Z-04Z.
+
+.OUTLOOK FOR 18Z TUESDAY THROUGH FRIDAY... 
+
+Late Tuesday afternoon and Tuesday night: Showers/tstms likely
+into the evening, with MVFR or lower cond. Stronger storms 
+could produce strong winds and brief IFR vsby. MVFR cigs likely
+at KISP/KGON through the night. 
+
+Wednesday: VFR.
+
+Thursday: Chance of afternoon showers/tstms mainly at 
+KSWF/KHPN with MVFR or lower cond possible, otherwise VFR. 
+
+Friday: VFR.
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Conditions remain below SCA levels through tonight. As a cold front 
+approaches Tuesday a southerly flow increases and ocean seas will 
+build mostly to 4-6 ft and gusts to around 25 kt resulting in small 
+craft conditions on the ocean. For the non-ocean waters, expect 
+mainly sub advisory conditions. Some of eastern non- ocean waters 
+may see marginal small craft gusts and may eventually need 
+advisories for Tuesday afternoon and evening. By later Wednesday 
+morning in the wake of the cold front sub advisory conditions should 
+return on the ocean with a W-SW wind and ocean seas mainly around 4 
+ft.
+
+Generally tranquil conditions Wednesday night through Saturday will 
+result in sub-SCA on all waters.
+
+
+&&
+
+.HYDROLOGY...
+Except for SE CT and eastern Long Island, there is a marginal 
+risk of excessive rainfall on Tuesday. With high PW in place
+instantaneous rain rates are likely to be high, leading to a 
+localized risk of flash flooding with any stronger 
+thunderstorms, confined mostly to urban and poor drainage 
+locations.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+There is a low risk of rip current development across the ocean 
+beaches today. There is a high risk of rip currents on Tuesday,
+especially in the afternoon.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory from 11 AM Tuesday to 6 AM EDT Wednesday 
+     for ANZ350-353.
+     Small Craft Advisory from 11 AM Tuesday to 2 AM EDT Wednesday 
+     for ANZ355.
+
+&&
+
+$$
+
+SYNOPSIS...BC/MW
+NEAR TERM...BC
+SHORT TERM...BC
+LONG TERM...MW
+AVIATION...BG
+MARINE...BC/MW
+HYDROLOGY...BC/MW
+TIDES/COASTAL FLOODING...

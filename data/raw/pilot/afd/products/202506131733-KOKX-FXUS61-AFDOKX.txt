@@ -1,0 +1,227 @@
+162 
+FXUS61 KOKX 131733
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+133 PM EDT Fri Jun 13 2025
+
+.SYNOPSIS...
+A cold front stalls just south of the waters on this afternoon.
+A weak low rides along the boundary late tonight and tracks 
+south and east of Long Island early on Saturday. High pressure 
+off the New England coast tries to build towards the area 
+Sunday. Next week starts out with high pressure southeast of 
+Nova Scotia and a stalled front south of the region. Multiple 
+waves of low pressure move along the front and near the area 
+through Tuesday night. Eventually a stronger low pressure system
+develops and allows for a warm front to lift north of the 
+region Wednesday with an associated cold front approaching 
+towards the end of next week.
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+Based on latest CAMs and upper air soundings have removed
+mention of isolated convection today. There does not look to be
+deep enough lift to get a parcel buoyant today. Cold front will
+also continue to work farther south of the area today. 
+
+Temperatures will be closer to normal today being on the cool
+side of the boundary, with highs ranging from the middle 70s to
+around 80.
+
+&&
+
+.SHORT TERM /6 PM THIS EVENING THROUGH SUNDAY NIGHT/...
+Low pressure is expected to form along the frontal boundary
+tonight over the mid-Atlantic states and track northeast along
+the boundary into Saturday morning, being located somewhere
+south of Long Island by late morning Saturday into Saturday
+afternoon. A period of moderate to briefly heavy rain is
+possible during this time frame, especially as PWAT values
+increase to 1.50" to 2.00". The ECMWF and NAM are the most 
+bullish on rainfall, with over an inch expected during this 12 
+hour period, mainly across Long Island. Think that these values 
+are too high and may be suffering from convective feedback 
+issues. Tried to come to some sort of consensus among the 
+models, and have a storm total ranging from a tenth of an inch 
+(southwest CT) to just over half an inch (NYC and Long Island) 
+from late tonight through the day Saturday. Localized amounts of
+inch are possible given aforementioned PWAT values, but 
+flooding is not expected at this time. The most likely outcome 
+would be minor nuisance and poor drainage flooding, mainly for 
+Long Island.
+
+Rain tapers off Saturday afternoon and into Saturday night as
+high pressure from southern Canada builds in. Unsettled pattern
+continues for Sunday as another area of low pressure forms near
+the Ohio river Valley and heads east. As it heads east, the 
+front edge of the precipitation field may affect western and 
+souther portions of the forecast area late Sunday into Sunday 
+night, however precipitation is not expected to be as widespread
+as compared to Saturday.
+
+With rain and clouds expected for Saturday and Sunday,
+temperatures are expected to run below normal for this time of
+year. Highs are not expected to climb out of the 60s. Lows will
+be in the 50s to around 60.
+
+&&
+
+.LONG TERM /MONDAY THROUGH THURSDAY/...
+Main upper level jet stays north of the region for the time period 
+of next week Monday through Thursday night. The main upper level 
+westerlies get relatively close, not that far north of the region 
+Wednesday into Wednesday night with a shortwave trough passing north 
+of the region. The westerlies increase again late in the week when a 
+stronger shortwave approaches the region.
+
+At the surface, high pressure southeast of Nova Scotia gradually 
+weakens Monday into Monday night. One wave of low pressure passes 
+well south of the region along the stalled front Monday into Monday 
+night. Another wave of low pressure passes south of the area 
+along the front Tuesday night into early Wednesday. 
+
+For Monday through early Wednesday, unsettled weather pattern 
+remains with chances of showers and cooler than normal temperatures. 
+Monday is forecast to be well below normal once again as highs only 
+near 70 are expected for much of the region. Highs forecast on 
+Tuesday warm up but are still a few degrees below normal, mostly mid 
+to upper 70s. Surface winds transition from being more easterly 
+Monday to more southerly Tuesday.
+
+Eventually by mid week, stronger trough in the Central US shifts the 
+pattern for the local area downstream as a stronger low pressure 
+system develops. The frontal boundary eventually lifts back north on 
+Wednesday as a warm front. The warm front eventually lifts north of 
+the region Wednesday night and then the local area will be fully in 
+a warm sector Thursday. Meanwhile, an associated cold front will be 
+approaching from the west. 
+
+Increasing SE to S winds Wednesday and SW winds Thursday will 
+increase low level warm air advection. Temperature continue on their 
+rising trend Wednesday into Thursday. Dewpoints will be on the rise 
+as well. Airmass will be getting more warm and humid. Max 
+temperatures WEdnesday are upper 70s to lower 80s for most locations 
+and 80s to near 90 for much of the region on Thursday. Those max 
+temperatures near 90 Thursday are within parts of NYC and Northeast 
+NJ as well as Lower Hudson Valley with corresponding heat indices 
+reaching low to mid 90s.
+
+Chances for showers remain Wednesday through Thursday but 
+thunderstorms will be possible as well with the increasing low level 
+instability from the greater surface warmth. Some thunderstorms 
+could be strong especially with the approach of the cold front when 
+more shear with those greater westerlies could enable even for a few 
+severe thunderstorms with enough shear and CAPE.
+
+There is uncertainty with model locations and fronts and even more 
+uncertainty with timing of convection. Therefore exact and refined 
+time windows for showers and thunderstorms will be difficult to 
+determine at this time.
+
+&&
+
+.AVIATION /18Z FRIDAY THROUGH WEDNESDAY/...
+A cold front stalls south of the region with an area of low pressure 
+developing and approaching along the front, before exiting towards 
+the tail end of the TAF period.
+
+VFR conditions expected through this evening and a portion of the 
+overnight. MVFR is expected to hold off, with higher chances late in 
+the overnight mainly towards and after 08-09z and carrying into 
+Saturday morning. Chances for showers increase late tonight, 
+becoming likely early Saturday morning. The chances for IFR increase 
+into Saturday morning.
+
+E to SE winds this afternoon around 10 kts this afternoon. Winds 
+will be easterly tonight and then become more northeasterly 
+Saturday. The winds decrease to near 5 to 8 kts tonight into early 
+Saturday but will be variable direction for some terminals outside 
+of NYC.
+
+...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Amendments may be needed later tonight into Saturday morning for 
+changing flight categories.
+
+
+.OUTLOOK FOR 18Z SATURDAY THROUGH WEDNESDAY... 
+
+Saturday afternoon: MVFR and IFR with chance of showers. Occasional 
+NE wind gusts 15-20 kt possible.
+
+Saturday night: Lowering chances of showers. MVFR to IFR possible.
+
+Sunday: Chance of showers. Slight chance of a thunderstorm afternoon 
+into early evening. MVFR to IFR possible at times. Otherwise VFR.
+
+Monday: Chance of showers. MVFR to IFR possible at times. Otherwise 
+VFR.
+
+Tuesday: Mainly VFR.
+
+Wednesday: Mostly VFR, with the chance of a period of sub-VFR. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Sub advisory conditions are anticipated for all waters through the 
+first half of the weekend. Ocean seas generally hold at 2 to 4 
+ft with a relaxed pressure gradient and a light onshore flow.
+Marginal SCA seas are possible for the central and eastern ocean
+zones late Saturday night into Sunday morning. 
+
+For the long term marine forecast, conditions are forecast to remain 
+below SCA thresholds on all waters Monday through Tuesday night. The 
+pressure gradient on average is expected to remain weak allowing for 
+relatively less wind and thereby less amplitude waves.
+
+&&
+
+.HYDROLOGY...
+A tenth to just over a half inch of rainfall is expected from 
+tonight through Saturday. Isolated amounts over an inch are 
+possible, especially across Long Island. There is the potential
+for moderate to briefly heavy rain, but no flooding is expected
+at this time. The most likely outcome would be minor nuisance 
+flooding. 
+
+No hydrologic impacts expected Monday and Tuesday. Thunderstorms mid 
+to late next week will be capable of producing locally heavy 
+downpours and thereby minor flooding of low lying, poor drainage and 
+urban areas.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+The rip current risk is low on Friday with a light easterly 
+flow and limited swell. There is a moderate rip current risk on 
+Saturday with increasing easterly flow and building seas 3 to 4 
+ft.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...Air Quality Alert until 11 PM EDT this evening for NJZ002-004-
+     006-103>108.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JM/JP
+NEAR TERM...JP/DW
+SHORT TERM...JP
+LONG TERM...JM
+AVIATION...JE
+MARINE...JM/JP
+HYDROLOGY...JM/JP
+TIDES/COASTAL FLOODING...

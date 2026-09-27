@@ -1,0 +1,164 @@
+149 
+FXUS61 KOKX 050740
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+340 AM EDT Thu Jun 5 2025
+
+.SYNOPSIS...
+A cold front will slowly approach the area thru Fri, and reach 
+the area on Saturday. A series of frontal systems then affect
+the region through Wednesday.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+The upr ridge begins to break down today. As heights fall, there 
+will be an opportunity for convection to trigger across the interior 
+where CIN is eroded. The NAM and HRRR suggest a narrow corridor of 
+tstm development, but keep this pcpn N of the cwa. It looks like 
+initiation may be aided by terrain. Storm motion is extremely slow, 
+so where storms do develop, not a lot of progression expected. 
+Additional convection developing on outflow may be a wildcard 
+and could be a reason activity gets into the cwa. NBM pops were 
+used which keeps the cwa dry except for nwrn Orange into nrn
+Putnam. It would not be surprising to see something get into 
+nrn Fairfield/New Haven, but will allow for mesoscale analysis 
+today before increasing pops. The hottest day of the week is 
+still expected with may areas around 90 interior and wrn zones. 
+
+After 00Z, initiation chances tank with the loss of daytime heating, 
+and any ongoing cells should rain themselves out and the rest 
+of the cwa should remain dry overnight. Low temps abv normal 
+with the NBM followed.
+
+&&
+
+.SHORT TERM /FRIDAY THROUGH SATURDAY/...
+Falling heights and upstream convection on Fri will likely 
+trigger tstm development by aftn/eve across the cwa along a 
+developing trof/outflow. This pseudo cold front should bring 
+convection to the nwrn 1/2 of the cwa, meeting resistance as 
+the activity outruns the upr support and reaches the more stable
+cstl areas. Activity diminishes Fri ngt as the airmass 
+stabilizes once again, then the main cold front gets here on Sat
+with shwrs and tstms across the area. Pops for the entire cwa 
+Sat. Heights will be lower, and cloud cover should also help to 
+keep temps cooler and reduce the amount of sb instability. It 
+should also feel humid with the onshore flow continuing. Highs 
+per the NBM mainly 80s on Fri and 70s on Sat.
+
+&&
+
+.LONG TERM /SATURDAY NIGHT THROUGH WEDNESDAY/...
+Models are in pretty good agreement with a weak h5 trough shifting 
+through the area Sunday night with a deeper, but weakening trough 
+axis moving in on Wednesday. Surface high pressure should dominate 
+during Sunday, then a series weak surface boundaries will probably 
+be nearby or pass through Sunday night through Monday night. Most of 
+the time should be dry, but a 20-30% chance of showers exists 
+through this time. A better chance of showers and possible 
+thunderstorms will be during Tuesday and Tuesday night with the 
+approach of aforementioned h5 trough, upper jet dynamics, and 
+surface cold front. 60% chance of rainfall during the afternoon and 
+evening. Thunderstorms could be strong given the potential CAPE and 
+shear, but too early to have any confidence in severe wx potential.
+Wednesday would then be dry in the morning with high pressure 
+building in behind the departing cold front. Cannot rule out an 
+afternoon shower with the h5 trough shifting in. NBM looked good for 
+temperatures through the long term.
+
+&&
+
+.AVIATION /08Z THURSDAY THROUGH MONDAY/... 
+High pressure remains offshore today.
+
+VFR conditions are forecast through the TAF period. Can't rule
+out a shower or thunderstorm tonight at KSWF, but not enough
+confidence to include in TAF at this time.
+
+SW winds under 10kt through the morning push, followed by
+sea breezes late morning/early afternoon. Winds increase closer
+to 10kt in the afternoon, but a little stronger for KLGA and
+KJFK. Winds become lighter this evening, veering more SW.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Sea breeze timing may be off by 1-2 hours. Sea breeze
+potentially meanders within a few miles of KEWR for a few hours
+this afternoon - winds could potentially prevail SW, SE or
+vary between the two directions during this time. KTEB
+potentially shifts more southerly for a few hours this
+afternoon.
+
+.OUTLOOK FOR 06Z FRIDAY THROUGH MONDAY... 
+
+Late tonight: VFR.
+
+Friday: Possible MVFR/IFR with chance of showers/tstms. 
+Possible brief MVFR/IFR east of NYC terminals early Friday 
+morning in fog/stratus. 
+
+Friday night: Possible MVFR/IFR with chance of showers/tstms. 
+Possible brief MVFR/IFR east of NYC terminals early Friday 
+morning in fog/stratus. 
+
+Saturday: Possible MVFR/IFR with showers likely. Chance of 
+tstms. Patchy fog early Saturday.
+
+Sunday: Mainly VFR.
+
+Monday: Sub-VFR possible, mainly in the morning. Showers possible at 
+any point in the day.
+
+Detailed information, including hourly TAF wind component 
+forecast, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Winds and seas are expected to stay blw sca lvls thru the day 
+Fri. Seas may approach 5 ft on the ocean late Fri ngt and Sat 
+with a frontal sys impacting the waters. Seas subside below 5 
+feet Saturday night, with sub-advisory conditions for the rest 
+of the forecast period.
+
+&&
+
+.HYDROLOGY...
+No widespread hydrologic impacts are expected thru Sat, although 
+tstms could produce locally hvy rain Fri and possibly Sat.
+
+Showers and thunderstorms Tuesday into Tuesday night may produce at 
+least minor nuisance flooding. Low confidence at this time regarding 
+potential impacts this far ahead in time.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+There is a moderate rip current risk thru Fri with waves
+generally in the 2-3 ft range but winds mainly aob 10kt.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Air Quality Alert from 11 AM this morning to 11 PM EDT this 
+     evening for CTZ005>012.
+NY...Air Quality Alert from 11 AM this morning to 11 PM EDT this 
+     evening for NYZ067>075-078>081-176>179.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JMC/JC
+NEAR TERM...JMC
+SHORT TERM...JMC
+LONG TERM...JC
+AVIATION...JC
+MARINE...JMC/JC
+HYDROLOGY...JMC/JC
+TIDES/COASTAL FLOODING...

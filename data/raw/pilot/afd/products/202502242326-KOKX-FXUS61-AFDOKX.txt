@@ -1,0 +1,169 @@
+088 
+FXUS61 KOKX 242326
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+626 PM EST Mon Feb 24 2025
+
+.SYNOPSIS...
+Offshore high pressure will move farther out to sea through
+Tuesday morning as a warm front passes well to the north. A cold
+front will approach Tuesday afternoon and move through Tuesday
+night. High pressure will briefly build in on Wednesday before a
+frontal system moves through Wednesday night through Friday.
+High pressure will return Friday night, with another frontal
+system potentially impacting the area Saturday and Saturday
+night. High pressure will then build in and remain in control
+through early next week. 
+
+&&
+
+.NEAR TERM /UNTIL 6 AM TUESDAY MORNING/...
+Biggest adjustment was made to winds for this update as 
+locations in western Long Island are still gusting 25-30 kt. 
+Earlier runs of the HRRR handled this well so followed close for
+the next few hours which has gusts ending by 01z. Otherwise, bkn
+stratocu across interior SE CT via onshore flow via combo of 
+low level warm/moist advection on S flow should dissipate this 
+evening after loss of daytime heating. Thereafter an expansive 
+area of bkn high clouds across PA back into the OH valley should
+overspread the area, with partly cloudy skies. High cloud cover
+plus low level WAA should lead to low temps a few degrees 
+warmer than those of last night, with lows near 40 in NYC, in 
+the 30s most elsewhere, perhaps still some upper 20s in the 
+valleys of Orange County.
+
+&&
+
+.SHORT TERM /6 AM TUESDAY MORNING THROUGH TUESDAY NIGHT/...
+An amplifying upper trough will approach daytime Tue, with an
+associated weak cold front approaching in the afternoon and 
+passing through in the evening, accompanied by a few rain 
+showers mainly inland during the late afternoon and early 
+evening. Before these showers arrive expect BKN high and mid 
+level clouds to dominate, with a low level S-SW flow leading to 
+an even milder day. Sided with the milder side of MOS guidance 
+showing high temps reaching the lower/mid 50s away from south 
+facing shorelines where temps will be limited to the upper 40s.
+
+Skies clear out during the late evening and overnight, though
+some lake effect clouds may encroach on areas N/W of NYC as a
+weak secondary sfc trough moves through late. Low temps Tue 
+night should be similar to those fcst for tonight, near 40 in
+NYC and in the 30s elsewhere.
+
+&&
+
+.LONG TERM /WEDNESDAY THROUGH MONDAY/...
+Key Points:
+
+* Active period with the potential for two frontal systems to
+  move through. The first is expected to bring light rain 
+  Thursday into Thursday night and the second may bring a light 
+  wintry mix Saturday into Saturday night.
+
+* Above normal temperatures expected on Wednesday and Thursday
+  drop back to near normal on Friday and Saturday and below 
+  normal Sunday and Monday.
+
+Weak ridging builds into the area at the surface and aloft on
+Wednesday. This will lead to mostly sunny skies, dry 
+conditions and above normal temperatures. 
+
+Heights aloft start to lower Wednesday night as a frontal 
+system approaches. The warm front looks to move through sometime
+Thursday morning, with the cold front moving through Thursday 
+afternoon. Given the track of the low center being to our north,
+temperatures in our area will be warm enough for an all plain 
+rain event.
+
+A secondary cold front looks to move through on Friday. 
+Latest guidance has been pretty consistent in a quick 
+tightening of the pressure gradient over the area with this 
+secondary push. Went closer to the NBM 90th percentile with 
+winds and wind gusts giving sustained winds around 20 mph and 
+gusts up to 30 mph for Friday.
+
+After brief high pressure Friday night, another low will
+approach. With some colder air to work with, this low could 
+bring us a wintry mix. Uncertainty still remains, so stuck with 
+rain/snow showers. QPF amounts do not look impressive, likely 
+under a tenth of an inch of liquid. High pressure then builds in
+and remains in control Sunday and Monday.
+
+&&
+
+.AVIATION /00Z TUESDAY THROUGH SATURDAY/...
+A cold front approaches through Tuesday morning and moves across
+the terminals Tuesday afternoon and evening.
+
+Mainly VFR. A shower is possible with the cold frontal passage 
+Tuesday afternoon/evening. The highest probability for a shower
+and brief MVFR is at KSWF where a PROB30 has been included. 
+
+SE-S winds around 10-15 kt to start will weaken through the
+evening. Winds will also veer slightly to the SSW. Wind speeds 
+fall below 10 kt overnight with many outlying terminals settling
+around 5 kt. SSW winds continue on Tuesday generally remaining 
+10 kt or less through the day. The wind direction begins to 
+shift to the WNW in the evening. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+A few gusts 20-25 kt remain possible through 01z.
+
+Timing of wind shift to the WNW Tuesday evening may be off by
+1-2 hours. 
+
+.OUTLOOK FOR 00Z WEDNESDAY THROUGH SATURDAY...
+
+Tuesday Night-Wednesday: VFR.
+
+Thursday: Showers and MVFR or lower possible. S-SW winds
+G15-20 kt in the afternoon. 
+
+Friday: VFR. NW winds G20-25 kt.
+
+Saturday: Mainly VFR. S winds G15-20 kt. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Wind gusts on the ocean waters may approach but fall short of 25
+kt, while seas briefly build as high as 4 ft. 
+
+SCA conditions expected on the ocean waters Thu through Fri
+night with 5+ ft seas. SCA conditions should hold off on the non
+ocean waters until Friday, when 25-30 kt gusts are forecast. 
+
+SCA conditions are also briefly possible on the ocean waters on
+Sat with the passage of another frontal system.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts expected attm.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...BG/JT
+NEAR TERM...BG/JT
+SHORT TERM...BG
+LONG TERM...JT
+AVIATION...DS
+MARINE...BG/JT
+HYDROLOGY...BG/JT

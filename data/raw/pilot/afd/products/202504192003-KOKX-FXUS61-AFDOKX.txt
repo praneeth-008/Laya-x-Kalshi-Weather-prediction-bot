@@ -1,0 +1,216 @@
+075 
+FXUS61 KOKX 192003
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+403 PM EDT Sat Apr 19 2025
+
+.SYNOPSIS...
+A cold front moves through tonight. High pressure builds in behind 
+it for Sunday into Monday. High pressure exits east on Monday. 
+A frontal system in southern Canada sends a warm front through 
+Monday night followed by a cold front late Tuesday. Thereafter, 
+weak high pressure remains in effect through Thursday. Another 
+frontal system is expected to impact us Friday into the weekend.
+
+
+&&
+
+.NEAR TERM /UNTIL 6 AM SUNDAY MORNING/...
+Key Messages: 
+
+* Unseasonably warm temperatures (15 to 20 degrees above 
+  normal) areawide today, particularly away from southern and 
+  eastern coast, with highs in the upper 70s to mid 80s.
+
+* Isolated late day thunderstorms with strong wind gusts 
+  possible, mainly N&W of NYC/NJ metro.
+
+* Cold water submersion dangers for recreational boaters, 
+  canoers or kayakers this weekend with warm air temperatures, 
+  but water temps remaining in the 40s.
+
+Upper level trough in southeastern Ontario moves into the Northeast 
+US tonight as an upper level high off the Southeast US coast remains 
+nearly stationary. Meanwhile, at the surface, a cold front moves 
+through early tonight. This cold front will be the focus for some 
+showers and thunderstorms this evening. Mesoscale models have been 
+keying in on a broken line of showers and thunderstorms moving 
+through from 5 pm to 11 pm, mainly across the Lower Hudson 
+Valley, northeast NJ, and inland southern CT (by the time it 
+makes it to the coast, a more stable air mass will allow for any
+storms to weaken). Convection will be supported by 40 kt 0-6 km
+shear and a few hundred J/kg of SBCAPE (inverted V in most 
+forecast soundings denoting surface based convection), and high 
+PWATs for this time of year (around 1.40" which is very close to
+the max for climatology). However, mesoscale models keep much 
+of the convection north and west of NYC and even much of the 
+forecast area. Perhaps the one area to keep an eye for is 
+central PA, where a line of storms has developed a bit farther 
+south than where most models had placed it. Additionally, models
+are about an hour or two behind what is currently happening on 
+radar around the Northeast. So, timing of any precipitation may 
+be off by an hour or two. SPC has place northeast NJ, the Lower 
+Hudson Valley, and much of inland southern CT in a marginal risk
+for severe storms. Therefore, while an isolated severe storm is
+possible, the main threat will be strong storms with gusts to 
+40 to perhaps 50 mph and small hail. Also, any thunderstorm 
+could produce an inch or more, given PWATs of near 1.50". 
+
+The front is expected to move through by the second half of tonight, 
+allowing temperatures to drop into the 50s prior to daybreak, and 
+bringing and end to any showers. However, this is still well above 
+normal for this time of year, with lows typically in the 40s.
+
+&&
+
+.SHORT TERM /6 AM SUNDAY MORNING THROUGH MONDAY/...
+Dry, but gusty day on Sunday thanks to cold air advection behind the 
+cold front. NW winds of 10 to 20 mph with gusts to 25 to 30 mph. 
+Although cooler conditions are expected, temperatures will still be 
+above normal for this time of year, in the 60s for much of the 
+forecast area, except 50s along the immediate coat and Twin 
+Forks of Long Island.
+
+Upper level ridges approaches from the west Sunday night as the 
+center of high pressure moves overhead. This will be a good night 
+for radiational cooling. Undercut guidance by several degrees for 
+many outlying locations. Frost is possible for these areas, with 
+lows in the 30 for those areas. Lows in the 40s expected
+elsewhere.
+
+&&
+
+.LONG TERM /MONDAY NIGHT THROUGH SATURDAY/...
+A surface and upper low move into the Great Lakes Monday as 
+high pressure shifts offshore to our east. Dry weather mainly 
+expected on Monday, but increasing clouds late in the day. 
+Monday night the low over the Great Lakes shifts into southern 
+Ontario sending a warm front through our area then a cold front 
+later on Tuesday as the low shifts into Quebec. 
+
+Cloud cover is expected to increase Monday ahead of the warm front. 
+It should still be a cool day on Monday with highs in the low-60s to 
+upper-50s. A warmer Monday night is expected with the warm front 
+passage with lows Monday night in the upper-40s to mid-50s. 
+Temperatures climb further on Tuesday with highs in the mid/upper-
+70s except for areas to the east cooler due to marine-influence.
+
+Isolated to scattered showers are primarily expected Monday night, 
+clearing west to east into Tuesday. 
+
+Thereafter, dry weather is expected Tuesday night through Thursday 
+night with mostly sunny to partly cloudy skies under weak high 
+pressure. 
+
+The high moves east on Friday, with another shortwave/low pressure 
+system approaching for late Friday into the weekend. Mainly looking 
+at just chance POPs (30-35 percent) late Friday into the weekend for 
+now. 
+
+&&
+
+.AVIATION /20Z SATURDAY THROUGH THURSDAY/...
+A cold front approaches from the west this evening, and moves across 
+the area overnight. 
+
+VFR. MVFR possible in any isolated to scattered showers and/or 
+thunderstorms especially N/W of NYC late this afternoon into the 
+evening. Best chance for any showers or thunder after 21Z. PROB30 
+was used to highlight this chance for SWF/HPN with TSRA. SHRA 
+elsewhere, ending by 03Z or so.
+
+WSW-SW winds gusting 20-25kts through about 00Z. Winds then shift to 
+the W then NW with the cold frontal passage later this evening. 
+Gusts end for a period overnight, but pick up once again between 10z-
+12z for Sunday morning push with gusts into the mid 20kt range 
+through early afternoon. Winds remain NW thereafter through the TAF 
+period. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+An isolated gust of 30kts+ is possible through 00Z.
+
+Chance of an isolated thunderstorm this evening especially EWR/TEB.
+
+.OUTLOOK FOR 21Z SUNDAY THROUGH WEDNESDAY...
+
+Sunday: VFR. NW wind gusts around 20kt possible.
+
+Monday: VFR, then sub VFR possible at night with a chance of showers.
+
+Tuesday: Becoming VFR with W winds.
+
+Wednesday and Thursday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90&&
+
+.MARINE...
+SCA continue on all waters, with non-ocean waters likely coming down 
+below SCA as winds diminish early tonight. SCA on the ocean waters 
+will continue overnight as waves slowly diminish, but remain above 5 
+ft. They will likely come down from west to east Sunday morning into 
+the early afternoon with high pressure building in.
+
+Marginal SCA conditions possible on the ocean waters Monday Night 
+into Tuesday morning ahead of cold frontal passage. Otherwise, 
+conditions will remain below SCA levels Tuesday afternoon through 
+Friday with a relatively weak pressure gradient over the waters.
+
+&&
+
+.FIRE WEATHER...
+Marginally elevated wildfire spread threat Sunday.
+
+Dry conditions remain. There is potential for scattered showers
+N&W of NYC this evening, and isolated showers elsewhere. A 
+widespread wetting rain is not expected.  
+
+Highs in the 60s on Sunday, with northwest winds of 10 to 20 mph 
+with gusts 20 to 30 mph and min RH values in the mid 20 percent 
+range.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic issues through next week.
+
+&&
+
+.CLIMATE...
+Record high temps for Today April 19th. Temps will approach 
+records at BDR, LGA, JFK, ISP.
+
+EWR...92
+BDR...82
+NYC...92
+LGA...85
+JFK...84
+ISP...82
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 8 PM EDT this evening for ANZ331-
+     332-335-338-340-345.
+     Small Craft Advisory until 2 PM EDT Sunday for ANZ350-353.
+     Small Craft Advisory until 11 AM EDT Sunday for ANZ355.
+
+&&
+
+$$
+
+SYNOPSIS...JP/BR
+NEAR TERM...JP
+SHORT TERM...JP
+LONG TERM...BR
+AVIATION...DBR
+MARINE...JP/BR
+FIRE WEATHER...
+HYDROLOGY...JP/BR
+CLIMATE...

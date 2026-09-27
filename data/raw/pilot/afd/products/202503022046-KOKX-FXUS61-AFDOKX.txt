@@ -1,0 +1,187 @@
+420 
+FXUS61 KOKX 022046
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+346 PM EST Sun Mar 2 2025
+
+.SYNOPSIS...
+High pressure builds in through Monday, moving off the coast
+Monday night and Tuesday. Strong low pressure tracks through the 
+Great Lakes and into Canada Tuesday night into Wednesday, sending 
+a warm front through the area Wednesday morning. A cold front then
+follows into Wednesday night. The system pulls away Thursday, 
+with high pressure building in as it passes to the south through 
+Friday. Another frontal system approaches and impacts the area 
+over the weekend.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM MONDAY MORNING/...
+The upper trough axis was moving through the region late Sunday
+afternoon as seen on the water vapor satellite loops. A
+shortwave trough does move into the longwave trough through 
+late tonight into early Monday, and may be accompanied with some
+high cloudiness.
+
+Another cold night is expected as the core of the cold airmass
+moves through the region. Tonight will be colder across most
+locations than Saturday night as winds become lighter, and
+possibly decouple late. and with little cloud cover, allowing
+for some radiational cooling. Lows will average about 10 degrees
+below normal.
+
+&&
+
+.SHORT TERM /6 AM MONDAY MORNING THROUGH TUESDAY/...
+Warm air advection sets up early Monday, and continues through
+Tuesday, as winds gradually shift to the west, southwest, and
+then south by Tuesday. Upper height rise Monday into Monday
+night as surface high pressure builds over the region, moving
+off the coast late Monday night into Tuesday. Temperatures
+moderate Monday through Tuesday, rising above normal by Tuesday.
+ 
+&&
+
+.LONG TERM /TUESDAY NIGHT THROUGH SUNDAY/...
+Key Points:
+
+* Moderate to locally heavy rainfall expected on Wednesday, tapering 
+  off to showery conditions Thursday. 
+
+* Turning brisk late week, with a return of more seasonable 
+  temperatures. 
+
+Active start to the period as strong low pressure slides through the 
+upper Great Lakes on Wednesday and into Ontario Wednesday night. 
+Associated warm front lifts thru locally Wed AM, with moderate to 
+locally heavy warm conveyor belt rainfall expected via large scale 
+ascent/WAA/moisture transport in the warm sector, then a cold 
+frontal passage Wed night. Locally heavy rainfall possible. Not 
+entirely out of the question a bit of elevated CAPE produces some 
+isolated thunder Wed night as well, but thinking this activity will 
+be limited at best if it does occur, and have omitted mention with 
+this forecast. QPF averages around an inch based on global ensemble 
+means, with perhaps some localized amount aoa 1.5 inches. In 
+addition, a potent 925 mb LLJ progged at 70 to 80 kt in soundings is 
+expected to pass over portions of the area, leading to strong S 
+winds gusting to at least 40 mph, especially for NYC metro and the 
+coast Wed afternoon/evening, even with a sfc-based inversion. Temps 
+Wednesday will be on the mild side, with highs in the 50s and 
+possibly nearing 60 in the urban corridor of NE NJ. 
+
+Associated cold front passes through late Wed night into Thu 
+morning, with lingering showers possible through the day on Thu, 
+especially over S CT and Long Island, as the parent upper trough 
+passes through. Brisk and colder conditions expected for Thu 
+night/Fri as a secondary low develops E of New England ad increases 
+the sfc pressure gradient, with temps returning to near or slightly 
+below normal. 
+
+After the upper trough associated with the midweek system pulls away 
+from the area, the flow aloft becomes zonal over the eastern US. An 
+embedded shortwave trough in the flow should send a fast-moving low 
+eastward from the mid Mississippi Valley Fri night to the Mid 
+Atlantic coast by Sat night. System appears relatively weak and 
+progressive with the flow, but depending on temperatures, could
+bring a bit of light rain or snow to the region.
+
+&&
+
+.AVIATION /21Z SUNDAY THROUGH FRIDAY/...
+VFR conditions continue into Monday. Gusty NW winds will begin 
+to diminish as high pressure builds across the area. NW winds 
+diminish to under 10 kt by late this evening and remain around 
+10 kt or under through Monday, before shifting to the southwest 
+Monday night. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No unscheduled AMD expected. 
+
+.OUTLOOK FOR 18Z MONDAY THROUGH FRIDAY...
+
+Monday: VFR. 
+
+Tuesday: VFR. SW winds G15-20kt in the afternoon. 
+
+Tuesday night: Chance of rain showers late mainly NW of the NYC 
+metro terminals, with MVFR possible. S winds G15-20 kt still 
+possible at the coastal terminals. 
+
+Wednesday: Rain with IFR/LIFR cond and LLWS expected. S winds G20-
+25kt in the morning, increasing to G30-35kt in the 
+afternoon/evening. 
+
+Thursday: Chance of rain showers with MVFR cond possible. W winds 
+G20kt in the afternoon, becoming NW G25kt at night. 
+
+Friday: VFR.
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+With frequent wind gusts having diminished below 25 kt across 
+the ocean waters west of Fire Island Inlet, and the eastern Long
+Island Sound, and eastern Long Island bays, have cancelled the
+Small Craft Advisory. Frequent gusts were also below 25 kt on
+the ocean waters. However, for the ocean waters east of Fire 
+Island Inlet seas remain elevated until 600 PM EST for the 
+waters to Moriches Inlet, and extended the advisory until 1100 
+PM EST east of Moriches Inlet. Once seas subside this evening,
+winds and seas remain below advisory levels across the forecast
+waters until late day Tuesday. With an increasing southerly flow
+ahead of an approaching frontal system Tuesday, gusts and seas 
+may be near SCA levels by late day Tuesday on the ocean waters.
+
+Strengthening S flow Tuesday night as high pressure shifts offshore. 
+The flow ramps up quickly on Wed, SCA cond develop on the ocean in 
+the morning and the non ocean waters by afternoon, with gusts at 
+least 25 to 30 kt continuing into Wed night. Potential for S gale 
+force gusts 35 to 40 kt Wed afternoon/evening, especially on ocean 
+waters. Meanwhile ocean seas should build to 4 to 6 ft by midday, 7 
+to 10 ft by evening, and peaking at 10 to 13 ft by midnight Wed 
+night.
+
+Winds begin to lower daytime Thursday after a cold frontal passage, 
+but hazardous seas of 8 to 12 ft continue on the ocean, lowering 
+slightly to 7 to 10 ft Thursday afternoon/night. Then as low 
+pressure to the east intensifies, NW flow gusting to 25 to 30 kt 
+should return to all waters Thu night, with gales possible once 
+again on Friday.
+
+&&
+
+.HYDROLOGY...
+A frontal system impacts the region Wednesday and Wednesday night 
+and is expected to produce around an inch of rainfall, with 
+localized totals up to 1.5 inches possible. The heaviest, steadiest 
+of the precipitation is expected Wed afternoon and evening, but 
+rainfall rates likely preclude anything other than nuisance minor 
+flooding. WPC continues to outline a marginal risk of excessive
+rainfall for the area.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 11 PM EST this evening for ANZ350.
+     Small Craft Advisory until 6 PM EST this evening for ANZ353.
+
+&&
+
+$$
+
+SYNOPSIS...DR/MET
+NEAR TERM...MET
+SHORT TERM...MET
+LONG TERM...DR
+AVIATION...
+MARINE...DR/MET
+HYDROLOGY...DR

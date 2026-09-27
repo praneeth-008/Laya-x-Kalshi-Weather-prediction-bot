@@ -1,0 +1,229 @@
+936 
+FXUS61 KOKX 160929
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+429 AM EST Sun Feb 16 2025
+
+.SYNOPSIS...
+A low pressure system impacts the local area as it passes to the
+northwest on Sunday and then to the north Sunday night. A 
+strong cold front will pass through behind the low late Sunday 
+afternoon into the early evening. Low pressure spins over the
+Canadian Maritimes on Monday. Strong high pressure dives south 
+into the middle of the country Tuesday into Wednesday and 
+gradually noses in. Low pressure then emerges out off 
+Southeastern US coast. This low strengthens as it lifts
+northeast along and just off the Mid Atlantic coast Thursday. 
+The low pulls away Thursday night with high pressure building 
+into next weekend.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Elevated warm nose has worked across the area with a transition
+to rain/freezing rain. Based on latest obs and hires guidance, 
+have extended Winter Weather Advisory across the far interior 
+through 16Z Sunday with the potential for storm total ice up to 
+a few tenths of an inch. Many of these locations are in the 
+upper 20s to lower 30s. However, just inland from coast across 
+CT, Rockland, and Westchester counties in NY, and portions of 
+interior NE NJ, there could still be a 2 to 3 hours of patchy 
+freezing rain/drizzle. The latter of which is being handled with
+an SPS. Elsewhere, mainly light rain until some heavier rain 
+with a strengthening LLJ arrives later this morning. 
+
+A deepening surface low will continue to impact the local area
+as it approaches the eastern Great Lakes through Sunday 
+morning, sending a warm front towards the area. 
+
+Temperatures will continue to gradually warm overnight to near
+freezing will inland and around 40 across LI and the NYC.
+
+&&
+
+.SHORT TERM /MONDAY/...
+Low pressure is forecast to be west of the area Sunday morning 
+with the associated warm front near or just south of LI. The 
+first shot of warm advection precipitation will lift to the 
+north and east with a secondary surge of warm advection as a 
+southerly LLJ approaches from the south, strongest to the south 
+and east of LI, with the potential for 75 to 85 kt just a few 
+thousand feet. Airmass will be strongly inverted and any mixing 
+of higher winds from aloft will likely not to happen until late 
+in the afternoon as the cold front approaches from the west and 
+the inversion erodes. With the warm front still in close 
+proximity, strong thermal forcing both in the warm sector and to
+the north should allow for more a convective type of rainfall. 
+Rainfall during this time will be moderate to occasionally 
+heavy with the best thermal forcing across eastern LI and SE CT.
+By the time the cold front passes late afternoon/early evening,
+much of the area is forecast to have received 1.5 to 2 inches 
+of liquid equivalent, with the highest amounts across LI and CT.
+
+A high wind watch continues for the entire area Sunday night 
+into Monday. Just ahead and behind the cold front, there is the 
+potential for wind gusts of 40-50kt, especially with the 
+pressure rises immediately behind the cold front. Winds at the 
+top of mixed layer will be around 50 kt, and on average about 40
+kt through the layer. Thus, high winds are possible through the
+overnight, aided by strong cold advection and cyclonic flow. 
+Temperatures will fall back below freezing and into the 20s by 
+daybreak Monday.
+
+&&
+
+.LONG TERM /MONDAY NIGHT THROUGH SATURDAY/...
+* Windy with the potential for strong winds on Monday.
+
+* The potential remains and has increased some for a significant / 
+  major winter storm in the Wed night - Thursday night time frame.
+
+Windy conditions continue as a strong pressure gradient remains over 
+the area due the departing low that will spin over the Canadian 
+Maritimes on Monday and strong arctic high pressure (1050-1054 mb) 
+that builds in from southern Canada. W winds of up to 25 mph are 
+forecast, with gusts around 40 mph in the morning. Winds diminish 
+late in the morning into the afternoon as the pressure gradient 
+relaxes a bit.
+
+The high continues to nose in from the north and west Tuesday and 
+Wednesday, keeping the region dry. As the arctic air moves south, a 
+baroclinic zone sets up over the southern states, allowing low 
+pressure to begin to take shape. This low then treks east along the 
+gulf states, and ejects off the Southeast US coast Wednesday night, 
+then tracks northeast into Thursday, pulling away from the area 
+Thursday night.
+
+With the current deterministic model suite, most models track the low 
+around or just east of the 40/70 benchmark, a favorable track for an 
+all snow event. Current NBM forecast also shows an all snow 
+forecast, leading to higher confidence in an all snow event. Despite 
+confidence increasing in an all snow event, the exact track of the 
+low still remains in question. If the low pushes to far east, it 
+will take the majority of the precipitation with it, and thus, snow 
+will be much less and limited to the coast. 
+
+As for ensembles, current ECMWF ensemble give coastal areas a 30-40% 
+chance of 24 total precip of great than half an inch liquid 
+equivalent, while the same metric is only 10-20% with the GFS 
+ensemble. Current NBM is closer to the ECMWF ensemble. The finer 
+details will be ironed out as we get closer to the event, and more 
+of the higher resolution models come into play.
+
+While it is too early to give snowfall forecast for this event, GEFS 
+plumes show a mean of about 2.5" for KISP, while the GFS 
+deterministic is about 9.0" for the event, with a fair number of 
+members below the 2.5" mean. This underscores the uncertainty with 
+this upcoming event.
+
+&&
+
+.AVIATION /10Z SUNDAY THROUGH THURSDAY/...
+Low pressure and a warm front approaches into this morning. The low 
+will pass west and north today, with the warm front lifting through 
+most terminals towards mid to late afternoon. A strong cold frontal 
+passage will take place early in the evening. 
+
+Widespread IFR/LIFR cond in rain at most terminals (except mainly 
+freezing rain at KSWF til around noon) should continue, and vsby 
+could lower to 1/2SM in rain and fog for a few hours this morning 
+and early this afternoon before the warm fropa. 
+
+E to NE winds at mainly 5 to 13 kts depending on the terminal should 
+veer more to the E at most sites by afternoon. Winds become S-SW and 
+gusty after warm fropa, then shift W with cold fropa early this 
+evening and increase to 20-30 kt with gusts 35-45 kt for a time. 
+
+A rumble of thunder may be possible at the NYC metros, out towards 
+KBDR, KISP, and KGON this afternoon. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Amendments may be needed for changing flight categories towards 
+afternoon. 
+
+.OUTLOOK FOR 06Z MONDAY THROUGH THURSDAY...
+
+Late Sunday night: VFR. W winds G35-45kt. 
+
+Monday: VFR. W winds G35-40kt, diminishing at night.
+
+Tuesday: VFR. W winds G25 kt. 
+
+Wednesday: VFR. 
+
+Wednesday night: Becoming IFR in snow.
+
+Thursday: IFR/LIFR in snow. NE winds G20kt, becoming NW G25kt at 
+night. 
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+High pressure over the waters weakens and then dissipates to 
+the east through tonight. A storm system will impact the area 
+with a strengthening southerly flow on Sunday, followed by 
+strong west winds Sunday night. A gale warning has been posted 
+for all waters Sunday afternoon through the first half of Monday
+night with a storm watch issued for the eastern ocean zone 
+Sunday afternoon through Monday afternoon. Seas will build to 5 
+to 8 ft on LI Sound and 10 to 18 ft on the ocean waters 
+overnight Sunday.
+
+Gale conditions across all waters on Monday with potential Storm 
+force gusts for the eastern ocean zone, in the wake of a storm 
+moving through the Canadian maritimes. High ocean seas of 7 to 16 ft 
+Monday morning, diminish through the day, but remain above SCA 
+conditions across all waters through Tuesday. Non ocean waters drop 
+below 25 kt late in the day/Tuesday evening, while ocean water gusts 
+will diminish from west to east Tuesday night.
+
+Sub-SCA conditions expected across all waters Wednesday and much of 
+Thursday. Winds increase a coastal low impacts the waters late in 
+the day, with SCA conditions over oceans waters first late Thursday, 
+then across all waters Thursday night.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts are anticipated from this weekend's storm 
+system despite the fact that 1.5 to 2 inches of liquid is expected 
+across the area. Thereafter no hydrologic impacts are anticipated
+through the remainder of the forecast period.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Winter Weather Advisory until 11 AM EST this morning for 
+     CTZ005>008.
+     Wind Advisory from 6 PM this evening to 6 PM EST Monday for 
+     CTZ005>012.
+NY...Winter Weather Advisory until 11 AM EST this morning for 
+     NYZ067-068.
+     Wind Advisory from 6 PM this evening to 6 PM EST Monday for 
+     NYZ067>075-078>081-176>179.
+NJ...Winter Weather Advisory until 11 AM EST this morning for 
+     NJZ002.
+     Wind Advisory from 6 PM this evening to 6 PM EST Monday for 
+     NJZ002-004-006-103>108.
+MARINE...Gale Warning from 4 PM this afternoon to midnight EST Monday 
+     night for ANZ331-332-335-338-340-345.
+     Storm Warning from 1 PM this afternoon to 1 PM EST Monday for 
+     ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JE/DW
+NEAR TERM...DW
+SHORT TERM...DW
+LONG TERM...JE
+AVIATION...JE
+MARINE...JE/DW
+HYDROLOGY...JE/DW

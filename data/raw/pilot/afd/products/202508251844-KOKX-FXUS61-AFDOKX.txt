@@ -1,0 +1,168 @@
+857 
+FXUS61 KOKX 251844
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+244 PM EDT Mon Aug 25 2025
+
+.SYNOPSIS...
+A cold front moves through the region and pushes offshore into this 
+evening. A weak secondary front pivots through late Tuesday, before
+high pressure gradually builds in through midweek. A cold frontal 
+passage on Friday allows for additional high pressure to build in
+through the weekend.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Mid level trough Cold front continues to gradually track through the 
+area from west to east into this evening. 
+
+A bit humid ahead of the boundary with dew points in the 60s, and 
+radar observations and a couple MPING reports indicate widely 
+isolated sprinkles or light rain around across southern CT or LI, 
+but most should remain dry through the rest of the day.
+
+Behind the fropa, drier air is punching in, with dew pts at NYC 
+terminals falling 10 or 15 degrees, already down into the mid 40s at 
+KLGA. With the exception of some diurnal cu, skies are largely 
+clearing out behind it as well, helping temperatures to climb into 
+the mid 80s, or several degrees above normal for late August. Deep 
+mixing behind the boundary is also producing 20 to 25 mph gusts as 
+the flow turns westerly, and these should persist into early evening.
+
+Cooler, drier air continues to filter in tonight, with a noticeable 
+drop in humidity for areas that haven't yet seen it. Winds will be 
+light out of the NW, perhaps going calm at times with an overall 
+weak synoptic gradient. Given the lighter flow and predominantly
+clear skies, expect a cooler night than recent ones, falling 
+into the 50s across the interior and outlying locales, and low 
+to mid 60s elsewhere. 
+
+&&
+
+.SHORT TERM /TUESDAY THROUGH TUESDAY NIGHT/...
+Mid level trough remains situated over the eastern third of the
+CONUS, with sprawling surface high pressure centered over the 
+Central US building east through midweek.
+
+A drier, bit cooler, air mass ushers in Tuesday behind the cold
+frontal passage. Dew pts fall from the 60s and 70s on Monday, 
+down into the 40s and 50s, offering a much more comfortable and 
+pleasant feel to the air. Afternoon temperatures top out into 
+the upper 70s or lower 80s for most, just about near normal for 
+the time of year. Diurnal heating and cold pool aloft should 
+yield a fair amount of cu development by the afternoon, and 
+increased sky cover over NBM more in line with hi res guidance. 
+Also lowered dew pts a good 5 degrees or more given the very 
+well mixed BL above 700 mb, and expect a few gusts from time to
+time toward 20 mph.
+
+Weak secondary front or surface trough pivots through late Tuesday,
+reinforcing the air mass, and perhaps leading to a bit more
+cloud cover into Tuesday night, but conditions remain dry. A few
+outlying locales could see temperatures approach the upper 40s 
+by daybreak Wednesday.
+
+
+&&
+
+.LONG TERM /WEDNESDAY THROUGH MONDAY/...
+An upr trof will remain over the region Wed and Thu. Despite the 
+steep lapse rates, limited moisture is expected to preclude the 
+development of shwrs attm. The modeling in the GFS, NAM, ECMWF and 
+NBM are dry. 
+
+Chances for shwrs increase Thu ngt as strong shrtwv energy begins to 
+reach the area ahead of an h5 low tracking across ON/QC. The 
+associated cold front is slow moving, and is modeled by the 12Z GFS 
+to pass on Fri. The 00Z ECMWF was slower, adding a degree of 
+uncertainty. The NBM nevertheless is closer to the faster GFS, and 
+stuck with this for the fcst. Chances for shwrs and embedded tstms 
+with the fropa.
+
+The front clears out on Sat, bringing cool and dry wx thru Labor 
+Day. If the front slows, there could be some lingering shwrs on Sat, 
+particularly early. As of now there are only some 15-20 pops for ern 
+areas per the NBM. Temps blw climo, with the NBM followed. Some of 
+the colder interior spots could see lows drop into the upr 40s Sat 
+and Sun ngt.
+
+&&
+
+.AVIATION /19Z MONDAY THROUGH SATURDAY/...
+A slow moving cold front will pass to the east of the terminals this 
+evening. High pressure noses in from the SW on Tuesday with a weak 
+surface trough developing across the area.
+
+Mainly a VFR forecast with brief MVFR possible at the terminals east 
+of NYC early this afternoon. Also, cannot rule out a brief shower 
+for those same terminals.
+
+Winds will be SSW to W winds this afternoon at 10 to 15 kt with 
+gusts to around 20 kt. Gusts will be mainly confined to the NYC and 
+Lower Hudson Valley terminals. Hybrid seabreezes likely at the 
+coastal terminals. Winds will then veer to the NW this evening.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Winds may vary between SW and W this afternoon into early this 
+evening, especially at KJFK due to the cold front in close proximity.
+
+.OUTLOOK FOR 18Z TUESDAY THROUGH SATURDAY...
+
+Tuesday - Thursday: VFR.
+
+Thursday Night-Friday: Mainly VFR. Chance of showers and 
+thunderstorms. 
+
+Saturday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Increasing southerly swells today will build seas to 5 ft on 
+the coastal ocean waters by early this evening. Small Craft
+Advisory in effect here until 6 AM Tuesday. Seas fall back 
+under 5 ft Tuesday morning, with winds and waves then expected 
+to remain below advisory criteria through the remainder of the 
+week.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns this week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+A high rip current risk remains into this eve. Waves in the 2-4 ft 
+range on Tue. A moderate risk has been forecast with NW flow in the 
+mrng favoring steeper waves, and waves less in the aftn when winds 
+are more favorable. There is a moderate risk for Wed.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...High Risk for Rip Currents until 8 PM EDT this evening for NYZ075-
+     080-081-178-179.
+NJ...None.
+MARINE...Small Craft Advisory until 6 AM EDT Tuesday for ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JMC/DR
+NEAR TERM...DR
+SHORT TERM...DR
+LONG TERM...JMC
+AVIATION...DW
+MARINE...JMC/DR
+HYDROLOGY...JMC/DR
+TIDES/COASTAL FLOODING...

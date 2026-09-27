@@ -1,0 +1,191 @@
+675 
+FXUS61 KOKX 151429
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1029 AM EDT Fri Aug 15 2025
+
+.SYNOPSIS...
+Canadian high pressure will build in through tonight, then 
+slide off the coast on Saturday. A weak cold front will 
+approach on Sunday, pass through Sunday Sunday night, and then
+slow down as it moves farther south on Monday. High pressure
+from Southeast Canada will follow for early week before moving 
+southeast of the Canadian Maritimes for mid week. As the high
+depart waves of low pressure could move along the front into
+parts of the region around mid week.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Dry wx expected as the high builds down from the north, with NE
+flow becoming SE this afternoon. High temps today will be lower
+than those of Thu and are a little above a MOS/NBM mix, 
+reaching 90 in NE NJ and the mid/upper 80s away from the 
+immediate south shores of Long Island and SE CT. Heat index 
+values will be close to actual air temps due to lower dewpoints.
+Low temps tonight are a MAV/MET blend, with lower 70s for NYC
+and vicinity, and in the 60s elsewhere.
+
+&&
+
+.SHORT TERM /SATURDAY THROUGH SUNDAY/...
+The sfc high should move offshore Sat afternoon while heights 
+fall aloft ahead of a shortwave trough. Isolated to widely sct
+showers/tstms are possible well NW of NYC. Falling heights
+aloft and continued onshore flow should result in slightly
+cooler temps, with highs in the 80s throughout, and upper 70s
+along the immediate south shores of Long Island and SE CT. 
+Low temps Sat night will be similar to those of Fri night, in
+the 60s to lower 70s. 
+
+With the sfc high offshore and an approaching cold front on 
+Sunday, winds veer SW and transport warmer and more humid air 
+into the CWA. Temps inland should reach the upper 80s/lower 90s,
+with mid/upper 80s across Long Island and coastal SE. This 
+combo of higher temps and dewpoints should get the heat index to
+95 in much of NE NJ, with lower 90s most elsewhere. There is the
+chance of an afternoon tstm mainly NW of NYC, with an attendant
+risk of gusty winds as CSU-MLP indicates a marginal svr risk.
+
+&&
+
+.LONG TERM /SUNDAY NIGHT THROUGH THURSDAY/...
+A longwave ridge in the Western US and a longwave trough in the
+Canadian Maritimes will be the main features aloft from Sunday
+night into next week.
+
+A few shortwave troughs move in for early and mid week. At the
+surface, a cold front moves across the region Sunday night and
+then slows down on its southward progress early next week. 
+Meanwhile high pressure from SE Canada builds along the 
+Northeastern Seaboard Monday into early Tuesday before shifting 
+to more southeast of the Canadian Maritimes thereafter through 
+mid week.
+
+Some models are indicating possible weak low pressure
+development along the front and more northward position that 
+would move into more parts of the local region.
+
+There are a few chances for rainfall. Sunday night, chances of 
+showers and a slight chance of thunderstorms for the evening. 
+Limiting factor for thunder is the instability. Next will be 
+Tuesday through Wednesday night with potential for showers, 
+mainly across the interior.
+
+Also, the model projection consensus of current Tropical Storm
+Erin shows a track going through the western Atlantic as a
+hurricane, staying offshore and then farther offshore toward the
+latter half of next week. See the marine and tides/coastal
+flooding sections for potential impacts next week with Erin
+passing well offshore. Also, refer to the National Hurricane
+Center for official forecasts on the strength and track 
+of Erin. 
+
+Regarding temperatures, slightly below normal values are
+forecast Sunday night through Wednesday night next week, then 
+getting close to normal for next Thursday.
+
+&&
+
+.AVIATION /15Z FRIDAY THROUGH TUESDAY/...
+A cold front continues moving south of the region this morning.
+High pressure will build in from the north and east through 
+the rest of the TAF period.
+
+VFR conditions initially with NE-E flow near 5-10 kt. As high
+pressure continues to build, winds will shift more to the SE
+this afternoon near 10-12 kt. A few gusts to 16-18 kts are possible. 
+Winds diminish tonight to near 5 kts or less and become more 
+easterly.
+
+Satellite imagery shows an area of stratus offshore that will
+move back towards the area as winds begin to shift more onshore.
+Probabilities for MVFR conditions are increasing, primarily at
+KJFK, KISP, KEWR, and KTEB. The greatest uncertainty exists at
+KLGA, where winds may remain more ENE overnight and keep any
+stratus to the south of the field.
+
+
+     NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Timing of more southerly winds could be off by 1-2 hours. 
+
+Occasional gusts to near 16-18 kt are possible before 00Z.
+
+.OUTLOOK FOR 06Z SATURDAY THROUGH TUESDAY...
+
+Late tonight: Potential for MVFR stratus and fog. Otherwise,
+VFR.
+
+Saturday: Potential for MVFR stratus and fog in the morning.
+Otherwise, VFR.
+
+Sunday: Mainly VFR. However, chance of MVFR or lower briefly
+with chances of showers and possibly a thunderstorm afternoon
+into evening. 
+
+Monday and Tuesday: VFR. 
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Quiet cond expected through the weekend, with seas no higher
+than 1 ft on the protected waters and no higher than 2 ft on the
+ocean until late day Sunday, when a southerly Ambrose jet may 
+build seas to 3 ft on the waters W of Fire Island Inlet. 
+
+Wind gusts are forecast to remain below SCA thresholds Sunday
+night through Wednesday. Seas stay below SCA criteria Sunday 
+night through Monday and then start to increase within SCA 
+levels Monday night through Wednesday. SCA seas are possible 
+Monday considering the uncertainty of forecast track and swells 
+associated with Erin. The SCA ocean chances keep increasing 
+Monday night into midweek. It is during the Monday to Wednesday 
+timeframe, that long period swell would be coming into the ocean
+waters according to some model guidance. Non-ocean zones stay 
+below SCA thresholds.
+
+&&
+
+.HYDROLOGY...
+There are no significant hydrological concerns attm.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+A low rip current risk continues for the ocean beaches through
+Saturday. Onshore SE winds will be close to 10 kt this afternoon
+and should be a little lighter on Sat, with seas 2 ft at 8 sec
+generating surf no higher than 2 ft. 
+
+There is potential for dangerous surf and rip currents next 
+week, mainly from Tuesday onward, as building long period swells
+from Erin arrive. Minor coastal flooding and beach erosion may
+also become possible during this time.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...Air Quality Alert until 11 PM EDT this evening for NJZ002-004-
+     006-103>108.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...BG/JM
+NEAR TERM...BG
+SHORT TERM...BG
+LONG TERM...JM
+AVIATION...MD/JM
+MARINE...BG/JM
+HYDROLOGY...BG/JM
+TIDES/COASTAL FLOODING...

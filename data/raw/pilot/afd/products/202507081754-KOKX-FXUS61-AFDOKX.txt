@@ -1,0 +1,237 @@
+053 
+FXUS61 KOKX 081754
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+154 PM EDT Tue Jul 8 2025
+
+.SYNOPSIS...
+A slow moving cold front settles over the area this afternoon
+and evening. The front likely stalls nearby the rest of the 
+week leading to unsettled conditions. The front may push further
+south of the area for the upcoming weekend.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Key Messages:
+
+*Hot and humid today with temperatures in the upper 80s to 
+ middle 90s with heat indices in the upper 90s to around 100. 
+ The heat advisory has been expanded to include all of the area 
+ except southeast Suffolk County this afternoon/early evening.
+
+*Showers and thunderstorms this afternoon and evening may
+ produce torrential downpours leading to a risk of flash
+ flooding. A flood watch is in effect for the entire area 2pm
+ this afternoon through 2am Wednesday.
+
+*A few thunderstorms may also be severe with damaging wind gusts
+ with the potential a bit higher across NE NJ, NYC metro, and
+ portions of the Lower Hudson Valley.
+
+A slow moving cold front will enter the area today and may stall
+nearby tonight. The front will interact with a tropical air 
+mass with PWATs around 2-2.25 inches. Models also indicate a 
+modest 80-90 kt jet streak over New England with the region 
+setting up in the favored right entrance region. This will add 
+some synoptic support for convective development this afternoon 
+and evening. Warm rainfall processes due to high freezing 
+levels and a long/skinny CAPE profile support a torrential 
+rainfall threat. The combination of these ingredients brings 
+the potential of mainly localized flash flooding. WPC has 
+maintained a slight risk for excessive rainfall across the 
+entire area. The last few runs of the HREF indicate a 3-hr QPF 
+PMM 10 percent probability of greater than 3 inches in 3 hours 
+late this afternoon and evening. It should be noted that we have
+typically seen this probability of 30 percent or more 
+coinciding with some of the more significant flash flood events 
+in recent years. While the current 3-hr QPF PMM for greater than
+3 inches is around 10 percent, it does indicate potential of 
+excessive rainfall. The CAMs vary with the location of the 
+convection, so confidence is not high where the flood potential 
+may be greatest. However, where the CAMs do simulate convection,
+1-hr rainfall rates could be 1-2" if not even slightly higher 
+in the heaviest activity. The high end of these rates may end up
+localized, but the threat does exist area wide. For these 
+reasons described above, have issued a flood watch for the 
+entire area from 2pm this afternoon through 2 am Wednesday. 
+Total rainfall out of this event will vary widely, but the 
+heaviest activity could produce 2-3 inches with locally higher 
+amounts. Some convection may persist overnight, but coverage 
+should start to diminish. If trends on the guidance later today 
+indicate convection may persist longer, parts of the watch may 
+need be extended. 
+
+There is also a severe thunderstorm threat this afternoon and
+evening. CAPE values of 1500-2000 J/kg should develop with 
+strong heating. Shear is not impressive as the mid level flow is
+relatively weak, but an average of about 25 kt should allow for
+clusters or small line segments to develop. The deep moisture 
+content of the air could allow for some damaging wind gusts in 
+the most organized activity. SPC has expanded the slight risk
+into NE NJ, NYC metro, and portions of the Lower Hudson Valley
+and has maintained a marginal risk elsewhere. 
+
+The other concern for today will be hot temperatures and high
+humidity values. A review of observational data from Monday
+indicates many spots in the Lower Hudson Valley and southern CT
+observed a few hours of heat indices at or just above 95. The
+forecast heat indices late this morning and early afternoon
+reach the mid to upper 90s. This supports the two day heat
+advisory criteria. For Western Suffolk and the north fork of 
+Suffolk County, heat indices peak around 100 degrees this 
+afternoon, supporting the 1 day criteria. For these reasons, 
+the heat advisory has been expanded to include all but SE 
+Suffolk where heat indices peak in the low 90s. Southeast CT is
+also borderline, but due to collaboration with WFO BOX, have 
+included Middlesex and New London.
+
+Otherwise, it will remain muggy tonight. Lows look fall into the
+upper 60s inland and low/mid 70s near the coast.
+
+&&
+
+.SHORT TERM /WEDNESDAY THROUGH THURSDAY NIGHT/...
+Unsettled conditions will persist Wednesday and Thursday.
+Temperatures should be held down a bit with the front stalled
+nearby. More organized support for convection may lie to our 
+southwest on Wednesday. Heights then fall as a shortwave trough 
+approaches Wednesday night. This could bring an expansion of 
+showers and possible storms, lingering into Thursday. Guidance 
+continues to differ on the evolution and timing of the greatest
+coverage however, so confidence is low on any impacts at this
+time. The main concern will continue to be locally heavy 
+downpours. WPC has maintained a marginal risk for excessive 
+rainfall both days.
+
+High temperatures on Wednesday look to reach the middle and
+upper 80s. A few isolated spots could touch 95 heat index, but
+currently not anticipating this to be widespread due to
+increased cloud cover. Temperatures trend lower on Thursday with
+highs mainly in the low to mid 80s and heat indices peaking
+around 90 in the warmest spots.
+
+&&
+
+.LONG TERM /FRIDAY THROUGH TUESDAY/...
+The NBM was followed with no changes. 
+
+Key Points:
+
+*  A stalled front will remain in the vicinity of the forecast area 
+   Friday into early next week. 
+
+*  Expect a chance of showers and/or thunderstorms each afternoon 
+   each day, especially west of NYC.
+
+*  Temperatures should be right around average for this time of
+   the year with highs each day in the 80s.
+
+&&
+
+.AVIATION /18Z TUESDAY THROUGH SUNDAY/...
+A weak cold front approaches today and passes offshore Wed 
+mrng.
+
+VFR today except for in isold-sct tstms. A better chance for
+more organized clusters of tstms aft 22Z into this eve. There 
+is a chance that the eve activity is delayed a bit. As a
+result, the prob30 was maintained, with room for an upgrade to a
+tempo or adjustment for timing with the next round of 
+amendments.
+
+Areas of MVFR possible tngt, then improvement to VFR on Wed.
+Chance for another round of tstms late Wed with a prob30 started
+at 23Z.
+
+High variability in wind direction thru the TAF period due to
+proximity of the front and tstms. In general, a W-SW flow thru
+today, becoming NW by Wed mrng, then shifting back to the S/SW 
+aft 18Z Wed. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Variability in wind direction expected this aftn and eve due to
+position of the front and impacts of nearby tstms.
+
+Still some uncertainty with exact timing and coverage of shwrs
+and tstms. Chance that activity is later than currently fcst 
+tngt.
+
+.OUTLOOK FOR 18Z WEDNESDAY THROUGH SUNDAY... 
+
+Wed-Fri: Periods of shwrs and tstms possible. Mainly VFR 
+outside of shwrs and tstms.
+
+Sat-Sun: Mainly VFR. A chance for aftn/eve shwrs and tstms.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Seas build toward 5 ft early this morning on the ocean from Fire
+Island Inlet on east with a building SE swell. These conditions
+will persist through early Wednesday morning. The SCA remains in
+effect for these waters. Otherwise, winds and seas should
+largely remain below SCA levels the rest of the week and
+potentially into next weekend.
+
+&&
+
+.HYDROLOGY...
+A flood watch has been issued for the entire area 2pm this
+afternoon through 2am Wednesday. Showers and thunderstorms this
+afternoon and evening have the potential to produce torrential
+downpours with rainfall rates 1-2" an hour. It is quite possible
+for a spots to exceed 2" an hour at times in the heaviest
+activity. WPC has maintained a slight risk for excessive rain across
+the entire area highlighting the mainly localized flash flooding
+risk. A few of the quicker responding rivers, streams, and
+creeks nay experience flash flooding. 
+
+A marginal risk of excessive rainfall remains in place for much
+of the area on Wednesday and Thursday with a continued localized
+flash flooding threat.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+There is a high rip current risk at all ocean beaches into this
+evening due to building surf to 4-5 ft and building SE swell.
+The risk remains high on Wednesday due to the linger SE swell.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Heat Advisory until 8 PM EDT this evening for CTZ005>012.
+     Air Quality Alert until 11 PM EDT this evening for CTZ005>012.
+     Flood Watch through late tonight for CTZ005>012.
+NY...Heat Advisory until 8 PM EDT this evening for NYZ067>075-
+     078>080-176>179.
+     Air Quality Alert until 11 PM EDT this evening for NYZ078>081-
+     177-179.
+     Flood Watch through late tonight for NYZ067>075-078>081-
+     176>179.
+     High Risk for Rip Currents until 8 PM EDT this evening for NYZ075-
+     080-081-178-179.
+NJ...Heat Advisory until 8 PM EDT this evening for NJZ002-004-006-
+     103>108.
+     Flood Watch through late tonight for NJZ002-004-006-103>108.
+MARINE...Small Craft Advisory until 2 AM EDT Wednesday for ANZ350-353.
+
+&&
+
+$$
+
+SYNOPSIS...DS
+NEAR TERM...DS
+SHORT TERM...DS
+LONG TERM...
+AVIATION...JMC
+MARINE...DS
+HYDROLOGY...DS
+TIDES/COASTAL FLOODING...

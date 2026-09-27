@@ -1,0 +1,159 @@
+603 
+FXUS61 KOKX 101412
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1012 AM EDT Mon Mar 10 2025
+
+.SYNOPSIS...
+High pressure remains in control through Wednesday. Weak low pressure 
+approaches from the west Thursday into early Friday. The region
+will then be in between high pressure in the Western Atlantic 
+and approaching developing low pressure to the west heading into
+next weekend.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+The fcst is on track. Sunny for today with a nearly zonal flow 
+aloft and weak surface ridging. Westerly flow should help 
+produce a mild day with temperatures above normal. Anticipating 
+afternoon sea breeze circulations to develop as the flow aloft 
+weakens with mild surface temps, sea surface temps around 40, 
+and large dewpoint depressions in place. Even south-facing 
+shores should be able to reach well into the 50s before the sea 
+breeze cools things off. Most of the forecast area should end up
+in the 60s given the westerly flow and 900mb temps ranging 
+4-6C.
+
+Clear for tonight, and with light to calm winds, expecting good 
+radiational cooling conditions in the usual spots away from the 
+city. Lows in the mid 40s for the city, ranging to around 30 for 
+some spots across the northernmost zones, and even down into the 
+mid-upper 20s in the Pine Barrens Region.
+
+&&
+
+.SHORT TERM /TUESDAY THROUGH WEDNESDAY NIGHT/...
+Not much change in the pattern for Tuesday. Remaining sunny with 
+above-normal temperatures. A weak onshore flow in the boundary layer 
+will allow for an earlier sea-breeze this time around, so cooler 
+high temps versus today for LI, a good portion of southern CT and 
+parts of the city. Lower Hudson Valley and most of NE NJ reach or 
+surpass today's highs by a few degrees. A cold front passes through 
+during Tuesday night, but with only enough moisture for some clouds.
+
+High pressure builds in from the north during Wednesday. Associated 
+subsidence will limit the mixing depth, but temperatures are still 
+expected to be a few degrees above normal in spite of this. Looks 
+like sunshine filtered through cirrus much of the day with perhaps 
+some low-mid clouds pushing in from the west by evening. These lower 
+clouds are associated with an approaching shortwave. Still can't 
+rule out a late night shower although models vary regarding how dry 
+and deep the sub-cloud layer will be when the shortwave lift 
+interacts with the moisture focused in the 850-700mb layer. Thermal 
+profile is cold enough well inland for snow to mix in should 
+anything reach the ground.
+
+&&
+
+.LONG TERM /THURSDAY THROUGH SUNDAY/...
+High pressure moves into the Canadian Maritimes Thursday while at 
+the same time a weak low over the eastern Great Lakes region 
+transitions into an inverted trough as it moves across the forecast 
+area. Much of the area can expect a slight chance for showers as 
+this feature weakens while it moves across the area and much of any 
+dynamics remains mainly north of the area. Low end chance for 
+eastern areas as this looks to interact with another trough 
+offshore. 
+
+With weak high pressure over the region Friday into the first half 
+of the weekend, and weak ridging aloft, conditions are expected to 
+be dry Friday and mainly dry for Saturday (some uncertainty with 
+timing of the next system could bring in some showers for Saturday). 
+However, better chances for late Saturday night into Sunday as a 
+more amplified pattern develops. A stronger low approaches with a 
+strengthening cold front bringing the potential for moderate to 
+briefly heavy rain and gusty winds with strong meridional flow ahead 
+of it. There are of course a fair amount of timing issues this far 
+out, so confidence is rather low in any features that might 
+contribute to heavy rain.
+
+Temperatures are expected to be above average through the period. In 
+fact, temperatures Saturday night into Sunday morning may not drop 
+below the middle 50s for areas away from the coast, while highs on 
+Sunday could reach the middle 60s across northeast NJ. For context 
+on how warm lows will be Saturday night into Sunday, normal high 
+temperatures this time of year are in the upper 40s to near 50.
+
+&&
+
+.AVIATION /14Z MONDAY THROUGH FRIDAY/...
+Weak high pressure builds in today.
+
+VFR. W/NW this morning becoming more SSW/S this afternoon 
+behind an expected seabreeze before becoming light and variable 
+overnight. Speeds should generally be around 10 kt or less. KLGA
+may see occasional gusts to around 20 kt through 15Z this
+morning.
+
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+KLGA may see gusts to around 20 kt through 15Z this morning. 
+Timing of wind shifts may vary by 1-2 hours, especially this
+afternoon in association with sea breezes. 
+
+.OUTLOOK FOR 12Z TUESDAY THROUGH THURSDAY...
+
+Tuesday-Wednesday: VFR.
+
+Thursday: MVFR or lower possible with E flow. Slight chance of 
+showers. 
+
+Friday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Guidance still shows winds and waves picking up on the ocean this 
+morning before subsiding this afternoon, but has trended lower in 
+magnitude for both. Canceled the SCA on the ocean from Fire Island 
+Inlet to Moriches Inlet, but not enough confidence to remove the 
+advisory east of Moriches Inlet at this time. Have at least 
+shortened the advisory to end at 18z. Sub-advisory conditions 
+otherwise today through Wednesday evening.
+
+Onshore flow Thursday will allow ocean waters to build to 5 ft 
+(mainly the central and eastern zones). They fall below 5 ft late 
+Thursday night and remain below SCA criteria through Friday night.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts are expected through the beginning of next
+weekend.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 2 PM EDT this afternoon for ANZ350.
+
+&&
+
+$$
+
+SYNOPSIS...JC/JP
+NEAR TERM...JMC/JC
+SHORT TERM...JC
+LONG TERM...JP
+AVIATION...JP/DS
+MARINE...JC/JP
+HYDROLOGY...JC/JP

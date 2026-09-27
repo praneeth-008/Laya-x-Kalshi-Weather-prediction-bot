@@ -1,0 +1,158 @@
+598 
+FXUS61 KOKX 111824
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+224 PM EDT Fri Jul 11 2025
+
+.SYNOPSIS...
+High pressure slowly builds in from the northeast through
+Saturday and remains into Sunday. Meanwhile a thermal trough
+develops inland Saturday and Sunday afternoon. High pressure 
+will remain over the Atlantic through the beginning of next 
+week. A cold front may approach the area by the end of the week.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+A weak upper zonal flow will initially be across the northeast 
+into this evening, and then a weak upper ridge develops as 
+heights begin to slowly rise overnight. Meanwhile a surface high
+will be building into the region from coastal New England. 
+While there is surface instability and CAPE there is little 
+forcing and a weak capping inversion for little convection to 
+develop. The main focus into this evening will be inland with a 
+surface trough developing. Any storms will be isolated, but 
+could produce briefly heavy rainfall, with high precipitable 
+water values and slow moving storms. Storms will then diminish 
+with the loss of daytime heating.
+
+Then late tonight a weak shortwave moves through the weak upper
+ridge, and this may trigger additional showers and thunderstorms
+toward Saturday morning.
+
+&&
+
+.SHORT TERM /SATURDAY THROUGH SUNDAY/...
+The weak upper shortwave will move through the area early
+Saturday morning, and there will be a brief break in the showers
+and thunderstorms until Saturday afternoon as additional upper
+energy approaches, and instability increases in the vicinity of
+another thermal trough developing inland, where there main focus
+of showers and thunderstorms will be. Overall, Saturday
+afternoon and evening will be a repeat of Friday
+afternoon/evening in regard to precipitation.
+
+Upper ridging will be in place through much of Sunday, with the
+ridge axis moving offshore Sunday afternoon with the approach of
+a digging upper trough and surface cold front.
+
+Heat indices across the interior both Saturday and Sunday will
+peak in the 90 to 95 range, falling below heat advisory
+criteria.
+
+&&
+
+.LONG TERM /SUNDAY NIGHT THROUGH THURSDAY/...
+It will be unstable for much of the week with a hot airmass in 
+place. An upr trof could help trigger shwrs and tstms Mon, then some 
+ridging ahead of the next sys could limit convection Tue and Wed. A 
+cold front approaching from the NW could help trigger more extensive 
+coverage Thu and Fri. 
+
+Temps abv normal Tue-Fri, with highs in many spots aoa 90. Thu is 
+modeled to be the hottest attm with apparent temps around 100 for 
+nern NJ and the interior.
+
+The NBM was followed.
+
+&&
+
+.AVIATION /18Z FRIDAY THROUGH WEDNESDAY/...
+A weak frontal boundary slowly shifts south of the terminals 
+through tonight.
+
+Pesky lower cigs continue to linger at some terminals, 
+particularly KISP and KGON, with gradual improvement expected 
+thru remainder of the afternoon. A spotty shower or thunderstorm
+remains possible at KSWF late afternoon and early this evening.
+
+Conditions start falling back to MVFR or IFR tonight with low 
+cigs and potentially mist or fog developing largely after 3Z. 
+Improvement and return to VFR expected for most by 15Z Sat.
+
+A light SE flow at or under 10 kt thru rest of the day. Winds become 
+light and variable tonight, then SE once again on Saturday.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+MVFR cigs may linger into early afternoon, especially at KJFK.
+
+Timing of lower cigs and vsbys tonight may be off by a couple of 
+hours. IFR or lower possible into Sat AM should fog develop.
+
+.OUTLOOK FOR 18Z SATURDAY THROUGH WEDNESDAY... 
+
+Saturday-Sunday: Mainly VFR. A chance of showers and thunderstorms 
+during the afternoon and early evening near and northwest of the NYC 
+terminals.
+
+Monday: MVFR or lower in the afternoon and early evening with 
+showers and thunderstorms likely.
+
+Tuesday-Wednesday: Mainly VFR. Showers or thunderstorm possible in 
+the afternoon and evening.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+With a light flow through Sunday winds and seas across the
+forecast waters will remain below advisory levels.
+
+A weak pres grad will likely keep winds and seas blw sca lvls 
+Mon thru the day on Wed. Seas on the ocean may build to sca lvls
+Wed ngt thru Fri with a front approaching.
+
+&&
+
+.HYDROLOGY...
+Isolated thunderstorms that develop inland this afternoon and 
+Saturday could produce a brief period of heavy rain, with 
+localized minor flooding possible. Although much of the area
+will remain dry. Otherwise there are no hydrologic concerns
+tonight through Sunday.
+
+In the long term, localized hydrologic impacts are possible due to 
+tstms.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+Rip current risk is low through Saturday along Atlantic facing 
+ocean beaches with onshore flow 5-10 kt and a 3 ft swell from 
+the southeast at a 7-8 sec period.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JMC/MET
+NEAR TERM...MET
+SHORT TERM...MET
+LONG TERM...JMC
+AVIATION...DR
+MARINE...JMC/MET
+HYDROLOGY...JMC/MET
+TIDES/COASTAL FLOODING...

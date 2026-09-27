@@ -1,0 +1,218 @@
+680 
+FXUS61 KOKX 070320
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1120 PM EDT Fri Jun 6 2025
+
+.SYNOPSIS...
+A cold front slowly approaches from the west tonight, while a weak
+low passes to the southeast. The cold front passes through the
+area Saturday evening. Weak high pressure then briefly follows 
+for Sunday followed by an area of low pressure passing to the 
+south and east Sunday night into Monday. A slow moving frontal 
+system will then work across the area Tuesday into early 
+Wednesday. High pressure returns later in the day Wednesday and 
+remains near the region through Friday.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM SATURDAY MORNING/...
+Residual showers remain possible through the night as 
+convective debris approaches from the west. Some CAMs also 
+indicate that a redevelopment of some showers and possibly an 
+isolated storm is possible for eastern coastal areas as a weak 
+surface low moves by late tonight, but fairly uncertain in that 
+occurrence. Left chance PoPs to indicate the potential for some 
+showers tonight. Lows tonight will be in the 60s.
+
+Ample low level moisture will also bring the possibility of low 
+stratus or fog development, mainly for the coast.
+
+&&
+
+.SHORT TERM /6 AM SATURDAY MORNING THROUGH SATURDAY NIGHT/...
+The cold front continues to make its way into the area by Saturday 
+morning, though ample cloud cover is expected to limit the amount of 
+instability that develops on Saturday. Scattered showers remain 
+possible Saturday morning which may expand and grow upscale into the 
+thunderstorms into the late morning and afternoon. Coverage should 
+be more widespread than Friday given the proximity of the forcing 
+despite less instability. Any hydrologic concerns should be fairly 
+localized as well with storms possibly producing rainfall rates on 
+the order of 1" per hour. Highs on Saturday will be in the middle to 
+upper 70s.
+
+Showers and storms move eastward off the coast by evening while 
+dissipating. The cold front will slowly make its way through the 
+area so that residual showers are possible Saturday evening and 
+night, mainly before midnight. Lows will be in the upper 50s to 
+middle 60s.
+
+&&
+
+.LONG TERM /SUNDAY THROUGH FRIDAY/...
+Overall, not seeing a whole lot change in the extended period 
+with a broad upper trough extending from the Upper Midwest to 
+the East Coast. Shortwave ridging embedded within the mean upper
+flow will move through the area on Sunday with weak high 
+pressure at the surface. The trend supports some sun the first 
+half of the day with mid and high level clouds streaming in from
+the SW due to large scale warm advection. Blended in some 
+CONSALL with the NBM to show this. 12Z guidance is also 
+supporting this trend. 
+
+As the upper low/trough descends across the Upper Midwest and
+Great Lakes Sunday night into Monday, the backing upper flow 
+will steer a weak wave of low pressure along the Mid Atlantic 
+coast to the south and east of the area. For the time, there is 
+a chance of rain Sunday into Monday, highest at night. There 
+remains some uncertainty with the low track with the ECMWF 
+showing some convection to the north of the low track across the
+area. This looks to be more a result of the large scale warm 
+advection ahead of the digging upper trough. In addition, the 
+low itself could maintain enough low-level ridging across the 
+northeast to limit rain chances. Sunday could very well be dry. 
+Behind the low, Monday is also looking mainly dry with chances 
+of showers/embedded thunder increasing Monday night into Tuesday
+as a frontal system approaches from the southwest. While the 
+deep-layered SW flow and wind shear increases across the area, 
+an onshore E/SE flow ahead of the warm front keeps the low- 
+levels stable with any instability elevated initially. Whether 
+or not the area can warm sector and destabilize ahead of the 
+cold front Tuesday afternoon/evening remains to be seen. The 
+best chance for rain will be Tuesday into Tuesday evening. The
+cold front passes through Tuesday night.
+
+The upper trough lifts out Wednesday with warming heights aloft
+and high pressure for the end of the week. 
+
+Sunday through Tuesday will mainly feature weak onshore flow, 
+intervals of clouds, and rain chances. This will keep daytime 
+highs mainly in the 70s with lows warming into the lower 60s 
+during this time. Humidity will be on the rise as well. 
+Temperatures will warm Wednesday through Friday with a W/SW flow
+and building heights aloft.
+
+&&
+
+.AVIATION /04Z SATURDAY THROUGH WEDNESDAY/...
+ frontal system continues to approach tonight and will slowly move 
+across the terminals on Saturday. 
+
+VFR to start for NYC and Lower Hudson Valley terminals with LIFR 
+developing across eastern Long Island and coastal southeast 
+Connecticut. The lower conditions should expand overnight with IFR, 
+locally LIFR, at all sites by late tonight into early Saturday 
+morning. Conditions should start improving after 12z with a return 
+to MVFR/VFR at NYC terminals on northwest mid to late morning. IFR- 
+MVFR may persist into the afternoon across Long Island and southern 
+Connecticut terminals.
+
+An isolated shower cannot be ruled out tonight, mainly north and 
+west of the NYC metro. Showers should become more widespread late 
+Saturday morning into the afternoon. There is also a chance of a few 
+thunderstorms. Have included mention of thunder in a PROB30 for now. 
+However, it is entirely possible for any thunder to be isolated. 
+Showers should start diminishing by early Saturday evening.
+
+Winds will continue to weaken overnight becoming light and variable. 
+Confidence in wind direction on Saturday is low due very weak flow 
+and proximity of the frontal boundary. Winds may become SW late 
+morning/early afternoon and then shift to the NW-N as the boundary 
+starts moving across the area mid afternoon into the evening. There 
+is also a chance winds remain variable around 5 kt for much of the 
+day.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Amendments likely for changing flight categories overnight into 
+early Saturday morning. Low chance for LIFR at KJFK 08z-12z.
+
+Amendments likely for timing of showers and potential thunderstorms 
+on Saturday. Any thunderstorm could remain isolated. 
+
+Low confidence wind direction forecast Saturday afternoon. 
+
+.OUTLOOK FOR 00Z SUNDAY THROUGH WEDNESDAY... 
+
+Saturday Night: Chance for MVFR/IFR, mainly east of NYC metro. 
+
+Sunday: Mainly VFR. Chance of showers late in the day and at night.
+
+Monday: Mainly VFR. Chance of showers and MVFR at night.
+
+Tuesday: MVFR or lower possible. Showers likely with a chance of 
+thunderstorms, mainly in the afternoon and evening.
+
+Wednesday: Mainly VFR. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Generally sub-SCA conditions are expected. Wave heights are expected 
+to slightly increase late tonight and into Saturday, possibly
+getting around 5 feet on the ocean. If confidence in 5 foot 
+wave heights increases, a SCA may be needed on the ocean zones 
+Saturday. 
+
+Thereafter, expect sub-advisory conditions through Tuesday. Waves of
+low pressure passing to the south and a southerly swell will keep
+seas on the ocean 3 to 4 ft. Chances increase for marginal SCA 
+conditions for seas around 5 ft Tuesday night into Wednesday. 
+Seas should then fall below SCA conditions on Thursday.
+
+&&
+
+.HYDROLOGY...
+Rain amounts overnight should generally be light and under a
+tenth of an inch. There is the potential for up to half an inch
+of rainfall Saturday as frontal system moves through the area. 
+The higher amounts will more likely occur over the Lower Hudson
+Valley. While widespread hydrologic issues aren't expected, 
+localized urban or street flooding is possible.
+
+No widespread hydrologic impacts otherwise for Saturday night through 
+Monday. 
+
+Showers and thunderstorms Tuesday into Tuesday night may produce at 
+least minor nuisance flooding. Low confidence at this time regarding 
+potential impacts this far ahead in time.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+A building SSE swell will increase to 5 ft 8-9S on Saturday.
+This is expected to produce 3 to 5 ft breakers in the surf 
+zone and increase the rip current risk to high. Thus, a High 
+Rip Current Risk is in effect Saturday for all locations along 
+the oceanfront.
+
+Swells diminish some on Sunday. A moderate rip current risk is
+forecast at this time.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...High Risk for Rip Currents from 6 AM EDT Saturday through Saturday 
+     evening for NYZ075-080-081-178-179.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...DW/MW
+NEAR TERM...DW/MW
+SHORT TERM...MW
+LONG TERM...DW
+AVIATION...DS
+MARINE...DW/MW
+HYDROLOGY...DW/MW
+TIDES/COASTAL FLOODING...

@@ -1,0 +1,165 @@
+906 
+FXUS61 KOKX 160536
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1236 AM EST Thu Jan 16 2025
+
+.SYNOPSIS...
+High pressure over the region gradually weakens tonight. The 
+high gives way to a weakening frontal system that approaches 
+from the west Thursday and passes across the area Thursday 
+night. High pressure returns Friday. A weak frontal system 
+passes on Saturday, followed by another system late Sunday. An 
+arctic high then builds towards the region during the beginning 
+of next week.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM THIS MORNING/...
+Lowered min Ts tonight a few degrees in the LoHud Valley where 
+winds have lightened enough to allow KMGJ to already drop into 
+the mid teens. Otherwise, forecast on track and previous 
+discussion follows.
+
+High pressure remains over the region tonight with the strong 
+and gusty northwest flow diminishing. Any flurries that may be 
+on- going across portions of the lower Hudson Valley and into 
+southwestern Connecticut will be ending as the winds diminish 
+and weak upper energy slides south and east. Have maintained a 
+mostly clear to clear sky condition through tonight with the dry
+airmass in place, and as any strato cu dissipate early this 
+evening. The NBM deterministic and MAV guidance were used for 
+low temperatures and dew points.
+
+&&
+
+.SHORT TERM /6 AM THIS MORNING THROUGH 6 PM FRIDAY/...
+Thursday begins with tranquil conditions as in place high 
+pressure begins to slide offshore as the next shortwave and 
+upper trough digs to the west. The forecast remains mainly on 
+track as a weak surface low develops near the Delmarva by late 
+in the day with little associated moisture. While the NBM 
+remains dry with the low, CAMs do develop snow showers by late 
+in the day and into Thursday night as the low rather quickly 
+moves south of Long Island. With light precipitation possible 
+have maintained low chance and slight chance probabilities late 
+Thursday into late Thursday night. Despite winds becoming west 
+to southwest warm advection is negligible, and with the cold 
+airmass in place and increasing cloud cover Thursday's highs 
+will be similar to Wednesday's and once again blended the NBM 
+deterministic and MAV guidance. With the possibility of a light 
+dusting of snow have added QPF. late Thursday and Thursday 
+night.
+
+&&
+
+.LONG TERM /FRIDAY NIGHT THROUGH WEDNESDAY/...
+Fair wx is expected on Fri as an h5 ridge transitions into the 
+region. This ridge will then slide offshore as a deep upr trof digs 
+into the cntrl CONUS. Moisture advection and lowering heights on Sat 
+will produce chcs for pcpn late Sat and Sat ngt. Rain attm for much 
+of the area with a mix interior with the arctic air yet to build in. 
+There could be some mixing or a changeover before the pcpn ends as 
+the cold air advects in. Although pcpn is expected to be mainly lgt 
+and therefore significant accums are not expected, there could be 
+some refreezing issues on roads etc Sat ngt. Another weak low 
+develops invof the polar front late Sun and Sun ngt. This would 
+produce some snow across the area, with a general 1-3 or 2-4 type 
+event. This is dependent on the position/timing of the sys, and the 
+blended NBM pops yield roughly 30-50 percent at this stage. This 
+seems reasonable at this time scale so did not stray from the NBM. 
+Arctic air then builds in for the beginning of next week. Dry wx 
+unless a stray flurry from the lakes reaches the cwa. Highs in many 
+places on Tue likely to stay in the teens.
+
+&&
+
+.AVIATION /06Z THURSDAY THROUGH MONDAY/...
+High pressure gradually builds in tonight and moves offshore 
+Thursday. A frontal system approaches from the west late in the 
+TAF period.
+
+VFR conditions expected through Thursday afternoon. 
+
+Gusts diminish by late this evening as flow becomes more westerly
+into Thursday morning, then SW into the afternoon. Gusts toward
+20 kt may return at some terminals Thursday afternoon, though 
+also may be more occasional. Winds veer westerly again Thursday
+night, then NW into early Friday morning.
+
+A few snow showers are possible Thursday evening, and have added
+a PROB30 to highlight this potential, along with MVFR cigs and
+vsbys. Little to no accumulation expected. Brief IFR conds 
+can't be ruled out, generally between 22Z Thu and 3Z Fri or so.
+Drying out thereafter into Friday morning.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Gusts Thursday afternoon may be more occasional.
+
+Snow shower timing Thursday evening may be off by an hour or 
+two. Brief IFR conds possible.
+
+.OUTLOOK FOR 18Z THURSDAY THROUGH MONDAY...
+
+Thursday Night: Mainly VFR. Light NW flow develops.
+
+Friday: Mainly VFR.
+
+Saturday: MVFR or lower at times with rain likely, possible snow at 
+night. SW wind gusts 15-20 kt during the day.
+
+Sunday: Chance for MVFR or lower at times with increasing
+chances of snow, with rain/snow mix for coastal terminals day
+into early evening.
+
+Monday: Mainly VFR. Possible snow early with MVFR or lower possible. 
+NW wind gusts near 20 kt.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Winds and seas will gradually diminish tngt. Once conditions 
+improve on the non ocean waters this evening sub advisory 
+conditions continue into Thursday night as high pressure weakens
+with a weak frontal system passing through the waters Thursday 
+night. For the ocean waters conditions fall below advisory soon 
+after midnight tonight, and then remain below through Thursday 
+night.
+
+Winds and seas are expected to remain blw sca lvls on Fri, then
+cond on the ocean may ramp up to sca lvls on Sat with a sys 
+moving thru. As low pres strengthens over the ocean, seas build 
+to sca lvls on the ocean Sun. All areas may hit sca or gale in 
+strong NW flow on Mon as arctic air builds in.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts are expected into early next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 1 AM EST early this morning for 
+     ANZ332-340-350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JMC/MET
+NEAR TERM...JMC/DR/MET
+SHORT TERM...MET
+LONG TERM...JMC
+AVIATION...DR/MW
+MARINE...JMC/MET
+HYDROLOGY...JMC/MET

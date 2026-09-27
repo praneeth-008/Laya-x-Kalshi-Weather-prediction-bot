@@ -1,0 +1,192 @@
+823 
+FXUS61 KOKX 060516
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1216 AM EST Thu Mar 6 2025
+
+.SYNOPSIS...
+A cold front moves through overnight as low pressure over the 
+Great Lakes lifts north into southern Ontario and Quebec into 
+Thursday night. High pressure builds in behind the front as the 
+low slowly departs to the northeast through Friday. A weak 
+frontal system then passes nearby Friday night into Saturday 
+morning. High pressure will then be in control for the rest of 
+the weekend and into the first half of next week.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM THIS MORNING/...
+Moderate to briefly heavy showers will continue to push east 
+across Long Island and CT over the next few hours from west to 
+east. No thunder expected based on a lack of CAPE and what has 
+transpired so far. Expecting another half inch to inch of rain
+this evening, with the heavier amounts east of NYC.
+
+A cold front in association with a strong surface low over the 
+Great Lakes Region will move through during the overnight hours.
+Showers along this line are expected to dissipate, but can't
+rule out a shower late at night. 
+
+LLJ will be shifting east through the evening with gusts 35-45 
+mph mainly over LI and CT, but still up to around 35 mph in the 
+city this evening. Winds diminish during the overnight hours.
+
+&&
+
+.SHORT TERM /6 AM THIS MORNING THROUGH 6 PM FRIDAY/...
+The surface low continues to lift slowly north into Quebec on 
+Thursday and into Thursday night as the cold front pushes farther 
+offshore. Mid level short wave moves through Thursday morning, 
+pushing east by the afternoon. This could provide enough lift and 
+instability for some isolated showers to move through, but much of 
+the area should remain dry for the day Thursday.
+
+Cold advection looks to hold off until Thursday night, as winds 
+increase once again, with the low in Canada slowly strengthening and 
+the high to the west building in, providing a decent pressure 
+gradient. However, winds look to be a bit weaker than previous 
+forecast for Thursday night. Current forecast has northwest winds 
+gusting to around 30 mph. Winds may be a bit too low, and there 
+remains a possibility for a Wind Advisory for Thursday night, 
+however, it looks less likely now.
+
+Above normal temperatures are expected Thursday, with highs 
+in the 50s for much of the region.
+
+&&
+
+.LONG TERM /FRIDAY NIGHT THROUGH WEDNESDAY/...
+A fairly tight pressure gradient remains in place through Friday, 
+with models trending a little stronger from 24 hours ago regarding 
+winds. Thinking is that gusts 30-40 mph will be common with the 
+potential of a few gusts around 45 mph. After collaboration with the 
+surrounding offices, have held off on issuing any wind headlines as 
+this would be a mainly late 3rd period to 4th period event. 
+Advisories could eventually be needed, but confidence is also not 
+high enough at this time. Highs on Friday slightly above normal at 
+around 50 in NYC metro, and mid to upper 40s elsewhere. A weak 
+trough or low center then passes not too far to our south late 
+Friday night into Saturday morning with only a stray sprinkle or 
+flurry possible. 
+
+High pressure otherwise remains in control of the weather Sunday 
+through Wednesday. With that said, a weak low and trough pass to our 
+north on Monday, but likely far enough away to have no impacts here. 
+A gradual warmup occurs during this period with highs on Sunday near 
+normal in the mid to upper 40s, then eventually getting well into 
+the 50s and 60s on Wednesday.
+
+&&
+
+.AVIATION /05Z THURSDAY THROUGH MONDAY/...
+Low pressure lifts up into eastern Canada overnight into Thursday,
+sending a cold front through the area during the morning hours.
+
+Mainly IFR overnight with improvement to VFR following the cold
+frontal passage, 10-12Z for the NYC and Lower Hudson Valley 
+terminals, 12-14Z for KBDR and KISP, and as late as 20Z at KGON.
+
+Southerly LLWS will end across the eastern terminals by 08-09Z.
+As the cold front approaches, southerly winds diminish and 
+gradually veer to the SSW. Gusts will gradually ramp up in the 
+westerly flow behind the cold front on Thursday, increasing to 
+25-35kt Thursday night. A few gusts up to 40 kt possible.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Amendments likely through the overnight with changing of flight
+categories. Onset of gusts behind cold front may be slower to
+come up than currently forecast.
+
+.OUTLOOK FOR 06Z FRIDAY THROUGH MONDAY...
+
+Late Thursday Night: VFR. WNW winds 15-20 kt G25-35 kt. A few 
+gusts of 35 to 40 kt. 
+
+Friday: VFR. W winds G25-35 kt.
+
+Saturday: VFR with W winds G15-20 kt possible.
+
+Sunday - Monday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Gale warning has been expanded to include LI Sound and the
+eastern bays based on obs and a strong llj shifting through the
+waters. Decided to simplify the headlines by making the Gales
+for all waters expire at 09z. It's likely that gales will not 
+be a threat at least over NY harbor and Western LI Sound by even
+before midnight but as per office policy decided to message the
+higher-level hazard and not have a double headline in the same 
+forecast period. Most spots may even have below 25 kt winds by 
+09z with fairly quick drop off of winds behind the llj. 
+
+There will be a lull in the action on Thursday, when winds fall 
+below SCA criteria, but waves remain at 5 to 12 ft on the ocean.
+By Thursday night, a northwest flow picks up and we likely see 
+a return on gale conditions. The gale watch for later on in the 
+forecast period has been extended on all waters through Friday 
+as guidance has trended stronger with winds. 
+
+Winds will subside through Friday night with conditions 
+falling below advisory thresholds on the non-ocean waters. As for 
+the ocean waters, most of Friday night through Saturday night could 
+see marginal advisory conditions. Sunday and Monday otherwise 
+feature sub-advisory conditions.
+
+&&
+
+.HYDROLOGY...
+An additional 0.5 to 1.0 inches of rain anticipated for tonight
+with the higher amounts over CT and LI. Nuisance urban and poor
+drainage flooding still possible.
+
+No hydrological impacts are expected Thursday through early next 
+week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+Astronomical tides will remain low through the end of the week. 
+Intensifying southerly flow ahead of a strong storm system will 
+increase tide levels during tonight night/early Thursday 
+morning high tide. Surge of 1.5 to 3 ft is needed to reach minor
+flooding benchmarks. The strongest winds may actually occur 
+before high tide, limiting the surge somewhat during high tide. 
+Most locations should remain at or below action stage. However, 
+some of the most vulnerable locations across the south shore 
+back bays and western Sound could touch minor flooding 
+benchmarks. 
+
+Large breaking waves 8-10 ft are forecast tonight along the 
+oceanfront, with beach flooding and erosion possible.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Gale Warning until 4 AM EST early this morning for ANZ331-332-
+     335-338-340-345-350-353-355.
+     Gale Watch from this evening through Friday afternoon for 
+     ANZ331-332-335-338-340-345-350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JC/JP
+NEAR TERM...JP
+SHORT TERM...JP
+LONG TERM...JC
+AVIATION...DW
+MARINE...JC/JP
+HYDROLOGY...JC/JP
+TIDES/COASTAL FLOODING...

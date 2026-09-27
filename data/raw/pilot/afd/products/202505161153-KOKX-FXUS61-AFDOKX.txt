@@ -1,0 +1,190 @@
+904 
+FXUS61 KOKX 161153
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+753 AM EDT Fri May 16 2025
+
+.SYNOPSIS...
+Multiple surface troughs move through today and Saturday, followed 
+by a cold frontal passage Saturday night. A secondary cold front 
+moves through Sunday afternoon and Sunday night. Low pressure 
+lingers in New England and into the Canadian Maritimes through 
+Monday as high pressure pushes in. High pressure remains in 
+control Tuesday into Tuesday night. Another frontal system impacts
+the area Wednesday into Thursday.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+The upper level trough can now be seen to our east on latest 
+satellite imagery. Heights may briefly rise aloft heading into 
+the early morning hours. At the surface, a very weak pressure 
+gradient is leading to calm to light winds. This and the 
+moisture available from several days on onshore flow has 
+resulted in fog around the area. With the fog being locally 
+dense, have issued an SPS through 13z.
+
+The convection forecast today and Saturday continues to be very 
+tricky. There will be multiple chances for showers and thunderstorms 
+with different forcing mechanisms. The first chance will be with
+the ongoing MCS moving into western NY and western PA. CAMs are
+not all that excited about this feature, but can not rule out 
+some of this making it into far western portions of our area.
+The broken line is moving into a less supportive environment 
+and if any of the activity does reach our area it will likely be
+just showers with potential for isolated thunder. Have moved 
+timing of PoPs back two hours as timing now looks closer to 
+after 14z.
+
+As we head into the afternoon, shortwave energy approaches and 
+instability increases as we warm to the upper 70s with mid 60s 
+dewpoints. Some showers and thunderstorms likely spark just west and 
+move towards the area. Highest chances are once again north and west 
+of NYC, but can not rule out a shower or thunderstorm anywhere. Some 
+organized convection is possible with this afternoon activity given 
+increased instability and shear along with better curvature in the 
+low levels on model hodographs. At this time the main hazard would 
+be isolated damaging wind gusts or large hail, again mainly north 
+and west of NYC. This activity will decrease heading into tonight.
+
+&&
+
+.SHORT TERM /SATURDAY THROUGH SUNDAY NIGHT/...
+The upper level low continues approaching on Saturday with shortwave 
+energy ejecting out ahead of it. Similar forecast challenges in the 
+morning hours as there may be some sort of approaching convection 
+left over from what happens in the Ohio Valley and Great Lakes 
+region tonight. Then, once again, the area destabilizes ahead of a 
+cold front. While CAMs are not overly excited about this either, 
+there is potential for more widespread convection over the area 
+Sunday afternoon given stronger forcing, instability(MLCAPE
+approaching 2000 J/kg) and shear(0-6km bulk shear around 40kt).
+This will also lead to more widespread chances of storms 
+reaching severe thresholds. The SPC has placed the western half 
+of the area in a slight risk. As of right now, the main threat 
+is damaging wind gusts. Model hodographs will have to be watched
+as there is some indication of favorable low level shear and an 
+isolated tornado can not be ruled out. Latest Nam3km and HRRR
+show around 150 m2/s2 of effective inflow layer SRH.
+
+The cold front moves through Saturday night and then a secondary cold 
+front moves through Sunday and Sunday night. PoPs lower 
+significantly, but there will be additional slight chances of 
+showers across the interior Sunday afternoon with the upper low 
+above us.
+
+&&
+
+.LONG TERM /MONDAY THROUGH THURSDAY/...
+Mostly sunny skies take over as high pressure centered over or near 
+Hudson Bay in Canada gradually noses into the area Monday into 
+Tuesday night, keeping the area dry. To our northeast, low pressure 
+will continue to exit into New England and into the Canadian 
+Maritimes through. This will lead to breezy W/WNW winds from an 
+increased pressure gradient through Monday. 
+
+A frontal system from the Great Plains then moves into the Ohio or 
+Tennessee River Valleys on Tuesday, moving through or in the 
+vicinity of our region Wednesday into Thursday. Expecting showers 
+during this timeframe. Too soon to call chances for thunderstorms. 
+Model guidance still varies with timing, magnitude, and track of 
+this frontal system. Have gone with chance POPs Wednesday into 
+Thursday as a result. 
+
+Temperatures look to cool each day in the long-term period, 
+especially towards Wednesday and Thursday with clouds and rain 
+limiting any heating. Highs on Monday will be in the upper 60s to 
+lower 70s and by Thursday, with will be in the upper 50s to lower 
+60s. Overnight lows will range from the middle 40s to lower 50s.
+
+&&
+
+.AVIATION /12Z FRIDAY THROUGH TUESDAY/...
+A surface trough approaches and moves through from the west
+today. A warm front approaches from the south on Saturday.
+
+Expecting VLIFR to IFR or early this morning, improving to MVFR
+this afternoon, but with potential showers. A passing 
+thunderstorm is possible, mainly for the NYC terminals, but the 
+chances for this are decreasing. Improvement to VFR for most  
+terminals late in the day. Conditions deteriorate once again 
+for all terminals to IFR or lower tonight.
+
+Light and variable winds early this morning become southerly at
+10 kt or less later this morning and continue into tonight with
+outlying terminals becoming light and variable again. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Timing of IFR onset could be off by an hour or two for KTEB and 
+KLGA. Timing of improving categories on Friday may also be off by an 
+hour or two. There is uncertainty in return to VFR conditions,
+with a low to medium chance that conditions only improve to
+MVFR.
+
+.OUTLOOK FOR 06Z SATURDAY THROUGH TUESDAY...
+
+Tonight: IFR or lower.
+
+Saturday: IFR to start, improving to MVFR mid-morning, then becoming 
+VFR in the afternoon with showers likely, and a chance of 
+thunderstorms with MVFR conditions.
+
+Sunday: Mainly VFR. Slight chance of showers inland. W winds G20-
+25kt.
+
+Monday - Tuesday: VFR. Monday NW winds G20-25kt.  
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Dense fog on all waters is expected to continue through late 
+morning. Fog will then return tonight, potentially becoming dense 
+again.
+
+Winds and waves remain below SCA criteria through Sunday for the
+most part. There looks to be brief potential for 25 kt gusts
+Sunday afternoon, mainly for NY Harbor, western Sound and
+western Ocean. During this time, seas on the ocean could also
+approach 5 ft. Outside of this, there is potential for showers 
+and thunderstorms each day, with potential for severe 
+thunderstorms Saturday afternoon. Winds and seas will be locally
+higher in any storms.
+
+Winds are expected to remain below SCA criteria for Monday. However, 
+there is a low to medium chance of 25 kt wind gusts over the ocean 
+waters with low pressure over the Gulf of Maine creating an 
+increased pressure gradient. Thereafter winds and waves should 
+remain below SCA criteria due to lack of any strong pressure 
+gradient across the waters.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through the end of next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Dense Fog Advisory until 11 AM EDT this morning for ANZ331-332-
+     335-338-340-345-350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JP/JT
+NEAR TERM...JT
+SHORT TERM...JT
+LONG TERM...JP
+AVIATION...JP
+MARINE...JP/JT
+HYDROLOGY...JP/JT

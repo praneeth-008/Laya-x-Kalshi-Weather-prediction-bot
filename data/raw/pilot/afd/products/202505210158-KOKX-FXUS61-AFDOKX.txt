@@ -1,0 +1,233 @@
+129 
+FXUS61 KOKX 210158
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+958 PM EDT Tue May 20 2025
+
+.SYNOPSIS...
+As high pressure noses down from the north, a back door cold 
+front will move through from the east tonight. An expansive low 
+pressure system will then approach from the west on Wednesday, 
+with a secondary low developing off the southern Mid Atlantic 
+coast Wednesday night. This second low will then pass south and
+east of Long Island into New England Thursday into Thursday 
+night. The low will remain over the Northeast Friday and
+Saturday before slowly moving toward the Canadian Maritimes on
+Sunday. High pressure may return early next week.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM WEDNESDAY MORNING/...
+A back door cold front about to move into far eastern LI and SE
+CT will track east to west across the area overnight with winds
+becoming easterly and gradually strengthening. Low-level clouds
+will also work in from the east in tandem with the boundary, 
+while mid and high level clouds associated with low pressure to 
+the southwest gradually move eastward. Precip with the low to 
+the west unlikely to make it into the area tonight, but a few 
+sprinkles are possible with the back door front as it moves 
+westward. 
+
+Based on latest temperature trends and increasing cloud cover,
+bumped up lows a bit overnight, ranging from the upper 40s to
+lower 50s, warmest along the coast.
+
+&&
+
+.SHORT TERM /6 AM WEDNESDAY MORNING THROUGH THURSDAY NIGHT/...
+Rain may be slow to enter the area on Wed especially out east with
+upper level ridging only starting to move east, but should make
+it into the western half of the CWA by afternoon and then
+eastern sections by late afternoon or evening as the ridge moves
+E and a lead mid level shortwave trough approaches. 
+
+Periods of rain expected throughout from Wed night into Thu, 
+with the heavier QPF mainly from late Wed night into Thu 
+morning as an easterly LLJ transports Atlantic moisture into the
+area ahead of the approaching coastal low, and as a stronger 
+mid level shortwave trough approaches from the west. As the low 
+pulls east Thu night precip should become light and more 
+intermittent/showery. 
+
+High temps both Wed/Thu should remain in the 50s. Lows Wed night
+will be 45-50 inland and in the lower 50s along the coast, and
+in the 40s throughout Thu night with some CAA on N flow on the
+back side of the low as it passes to the east and heads up 
+toward the New England coast.
+
+&&
+
+.LONG TERM /FRIDAY THROUGH TUESDAY/...
+Key Points: 
+
+*Unsettled conditions will continue Friday with cool temperatures 
+and scattered showers possible.
+
+*Temperatures start to trend warmer Saturday and especially Sunday, 
+but will remain below normal for this time of year. A shower is 
+possible on Saturday.
+
+*Mainly dry conditions are currently expected on Memorial Day with 
+temperatures slightly below normal in the upper 60s and low 70s. 
+
+Anomalous upper low and associated trough will slowly move across 
+the area Friday through Saturday. The upper low slowly shifts 
+towards the Canadian Maritimes Sunday and pushes further east next 
+Monday. 
+
+The proximity of the upper low and associated surface low Friday 
+will bring a continuation of mostly cloudy and cool conditions.
+The cold pocket aloft and any surface heating should lead to the 
+development of scattered showers. This potential may continue into 
+Friday night as the upper trough axis starts to slide east of the 
+area. Cyclonic flow will continue aloft on Saturday with an isolated 
+shower possible. Skies will likely remain partly sunny to mostly 
+cloudy due to the lingering cold pocket aloft. Highs on Friday will 
+only reach the upper 50s and low 60s. Highs on Saturday will start 
+to warm a bit, but still remain below normal in the lower to middle 
+60s. 
+
+Improving conditions continue on Sunday with low pressure slowly 
+pushing into the Canadian Maritimes. Cyclonic flow lingers aloft, 
+but should see less cloud cover versus Saturday allowing 
+temperatures to push into the upper 60s and potentially low 70s in 
+the usual warmer locations. Some guidance is hinting at some energy 
+rotating around the low to our west, but think the atmosphere will 
+be dry enough to suppress any shower development. 
+
+The evolution of the large scale pattern is much less certain 
+heading into next Tuesday, but there are hints of another trough 
+developing over the eastern US. Followed the latest model consensus 
+(NBM) which is currently keeping conditions mainly dry on Memorial 
+day as high pressure returns. The next chance of showers may occur 
+on Tuesday, but this will be dependent on the potential evolution of 
+another upper trough. Highs will be in the upper 60s and lower 70s, 
+slightly below normal for the last week of May.
+
+&&
+
+.AVIATION /01Z WEDNESDAY THROUGH SUNDAY/...
+High pressure will nose into the area from the north tonight,
+then gradually gives way to low pressure approaching from the
+southwest on Wednesday. 
+
+VFR to start with MVFR ceilings overspreading the area from 
+east to west overnight into Wednesday morning. KGON may not see 
+these ceilings initially persist as it resides closer to some 
+low-level dry air associated with the surface high. IFR conditions
+likely hold off until Wednesday night, but there could be some 
+pockets before then, especially across the Lower Hudson Valley. 
+Rain will overspread the area late morning into the afternoon, 
+but may not reach KGON until Wednesday night. 
+
+Light NE to ESE winds across area will become more easterly
+overnight as a backdoor cold front works across the area. The 
+easterly flow will gradually strengthen behind the front,
+increasing to 10-15kt G15-20kt by late morning. 
+
+  ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Winds will likely vary from SE to NE across the terminals the 
+first half of the night at less than 10 kt, becoming more
+easterly after 06Z. 
+
+Timing of the rain and MVFR conditions may vary by 1-2 hours. 
+Pockets of IFR possible Wednesday afternoon.
+
+.OUTLOOK FOR 00Z THURSDAY THROUGH SUNDAY...
+
+Wednesday Night-Thursday: MVFR or lower with periods of rain. E
+wind gusts 20-25kt, mainly at the coastal terminals. Winds 
+diminishing and veering to the N/NE Thursday afternoon/night.
+
+Friday: MVFR or lower with a chance of showers. Light/VRB winds
+becoming W.
+
+Saturday: Chance of MVFR in showers. WNW flow gusting 20-25kt.
+
+Sunday: VFR.
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Gale watch remains in effect for the ocean E of Fire Island 
+Inlet for late Wed night into Thu morning. As low pressure 
+passes to the south and then east during this time, E winds 
+should ramp up, with gusts to 35-40 kt possible during this 
+time. On the remaining waters, SCA in effect, beginning 11 AM 
+Wed for the ocean W of Fire Island Inlet, and for Wed night into
+Thu for all but western Long Island Sound, with gusts 25-30 kt.
+Seas build to 6-10 ft on the ocean during this time and also 
+4-6 ft on easternmost Long Island Sound. 
+
+By Thu evening winds back northerly and diminish, but seas will
+still be as high as 6-8 ft on the ocean and 5 ft on the ernmost
+Sound, and should gradually diminish to 4-6 ft and 3-4 ft
+respectively. 
+
+SCA conditions due to lingering 5 ft ocean seas will likely be 
+ongoing on Friday. Seas should subside below 5 ft Friday night.
+There is a chance wind gusts could approach 25 kt on Saturday. 
+Otherwise, conditions will remain below SCA levels Saturday and 
+Sunday.
+
+&&
+
+.HYDROLOGY...
+Rainfall from Wed into Thu night will range from 1-1.25 inches
+for most areas, with higher amts of 1.50-1.75 inches across ern
+Long Island and SE CT. Rainfall will be light to moderate, with
+rates not expected to exceed 1/2 inch per hour. At worst only
+nuisance impacts expected mainly from late Wed night into Thu
+morning.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+A strengthening/persistent E-NE flow Wednesday through Thursday
+may result in minor coastal flooding mid to late week. Water 
+levels should remain below minor coastal flood benchmarks during
+times of high tide Wed into Thu morning, but a round of more
+widespread minor flooding is possible with the high tide late 
+Thu afternoon into Thu evening, with tidal departures mostly 1.5
+to 2.0 ft and locally as high as 2.0 to 2.5 ft out east. These
+departures are actually lower than in some previous forecasts, 
+as it appears winds may start to back N and diminish leading 
+into this high tide cycle.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory from midnight Wednesday night to 6 PM EDT 
+     Thursday for ANZ331-332-340.
+     Small Craft Advisory from 6 PM Wednesday to 6 AM EDT Thursday 
+     for ANZ338.
+     Small Craft Advisory from midnight Wednesday night to noon EDT 
+     Thursday for ANZ345.
+     Small Craft Advisory from 11 AM Wednesday to midnight EDT 
+     Wednesday night for ANZ350-353.
+     Gale Watch from late Wednesday night through Thursday morning 
+     for ANZ350-353.
+     Small Craft Advisory from 11 AM Wednesday to noon EDT Thursday 
+     for ANZ355.
+
+&&
+
+$$
+
+SYNOPSIS...BG/DS
+NEAR TERM...BG/DS/DW
+SHORT TERM...BG
+LONG TERM...DS
+AVIATION...DW
+MARINE...BG/DS
+HYDROLOGY...BG/DS
+TIDES/COASTAL FLOODING...

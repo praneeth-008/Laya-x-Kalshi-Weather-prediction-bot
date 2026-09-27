@@ -1,0 +1,161 @@
+388 
+FXUS61 KOKX 090246
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1046 PM EDT Tue Jul 8 2025
+
+.SYNOPSIS...
+A cold front stalls near the forecast area through Thursday night, 
+then either remains stalled to the south Friday into Saturday or 
+washes out altogether. Another frontal system may pass to the north 
+Sunday into Monday.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM WEDNESDAY MORNING/...
+Convection has shifted to southern CT as a complex of
+shower/storms continues to move across the area. The severe
+thunderstorm threat has ended, but there is still a localized
+flash flood risk across CT. Have cancelled the flood watch for
+all but our Southern CT zones. 
+
+The slow moving frontal boundary will linger overnight so cannot
+completely rule out additional showers, but not anticipating any
+widespread activity once the current complex moves out of CT. 
+
+&&
+
+.SHORT TERM /6 AM WEDNESDAY MORNING THROUGH THURSDAY/...
+Somewhat cooler temperatures on Wednesday and lower dew points may 
+preclude the need for a Heat Advisory. Highs are expected to be in 
+the upper 80s to lower 90s, with index values approaching the mid 
+90s. So, it is marginal, but Heat Advisories may need to be issued 
+once again for Wednesday. Temperatures cool slightly more by 
+Thursday.
+
+With the cold front in the vicinity, shower and thunderstorms are in 
+the forecast for both days, though just a slight chance for 
+Wednesday and better chances for Thursday, as weak areas of low 
+pressure ride along the boundary and aid in any weak lift that might 
+be present with the front. SPC has a small portion of the area in a 
+marginal risk for severe thunderstorms, which includes southern 
+portions of NE NJ and SW portions of SW portions of NYC. Flooding 
+will also continue to be a concern as the air mass really does not 
+change much and very humid conditions remain in place.
+
+&&
+
+.LONG TERM /THURSDAY NIGHT THROUGH TUESDAY/...
+A stalling front eventually pushes south of the area Thursday night 
+as a midlevel shortwave and upper low exits northeast in Canada. 
+This front will then either remain stalled nearby or washout 
+altogether into the weekend. At the same time, most guidance show a 
+weak ridge building Friday into Saturday. Unfortunately, global 
+guidance really varies on solutions Sunday into Monday. Some bring 
+another frontal system Sunday into Monday night to our north while 
+others keep this system too far north to impact us, opting for 
+building high pressure at the surface instead. 
+
+Generally southerly flow is expected for most of the long-term 
+period. This should keep dewpoints and atmospheric moisture high and 
+continue chances for daily showers and thunderstorms Friday through 
+Monday. Mainly slight chance POPs east with low-end chance POPs west 
+where daily instability from daytime heating could be stronger. 
+
+Temperatures through the long-term period will generally be close to 
+just above climatological norms. Highs each day will be in the mid 
+80s to low 90s. Lows each night will be in the mid 60s to mid 70s. 
+However, the difference between NBM's 25th and 75th percentiles for 
+max temperatures is about 15 degrees Saturday through Monday, 
+further highlighting the uncertainty and disagreement among the 
+guidance in the long-term period.
+
+&&
+
+.AVIATION /03Z WEDNESDAY THROUGH SUNDAY/...
+A weak cold front stalls over or near the terminals through the
+TAF period.
+
+Showers and thunderstorms done for all terminals for the night,
+with some showers lingering for KGON. Showers and thunderstorms
+return Wednesday afternoon. Brief MVFR possible for some
+terminals tonight, otherwise VFR.
+
+High variability in wind direction through the TAF period due 
+to proximity of the front and showers/thunderstorms. In 
+general, a NW flow by Wednesday morning, then shifting back to 
+the S/SW after 18Z Wed.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Uncertainty with wind direction through the TAF period with
+nearby front and showers/thunderstorms on Wednesday.
+
+Uncertainty with coverage and timing of showers/thunderstorms
+Wednesday.
+
+.OUTLOOK FOR 00Z WEDNESDAY THROUGH SUNDAY... 
+
+Wed night-Fri: Periods of shwrs and tstms possible. Mainly VFR 
+outside of shwrs and tstms.
+
+Sat-Sun: Mainly VFR. A chance for aftn/eve shwrs and tstms.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+A diminishing SE swell will allow seas to diminish this evening. 
+SCAs continue form Fire Island Inlet through Montauk. The SCA from 
+Fire Island inlet to Moriches inlet may be need to be cancelled 
+within the next few hours. Otherwise, the SCAs are in effect until 2 
+am. Thereafter, with a weak pressure gradient, winds and waves stay 
+below SCA criteria through Thursday.
+
+&&
+
+.HYDROLOGY...
+A Flood Watch remains in effect Southern CT as a convective
+complex continues to impact the state. Localized flash flooding
+is the main threat. 
+
+A marginal risk of excessive rainfall remains in place for much of 
+the area on Wednesday and Thursday with a continued localized flash 
+flooding threat.
+
+&&
+
+.TIDES/COASTAL FLOODING...A moderate rip current risk has been
+forecast for Wed for all the ocean beaches due to incoming 3-4 
+ft/7-sec swell. It is possible that a short fused high risk may 
+be needed for Wed afternoon at the Suffolk beaches if AM beach 
+reports there come in on the high side.
+
+The moderate risk continues for all but the NYC beaches for Thu.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Flood Watch until 2 AM EDT Wednesday for CTZ005>012.
+     Air Quality Alert until 11 PM EDT this evening for CTZ005>012.
+NY...Air Quality Alert until 11 PM EDT this evening for NYZ078>081-
+     177-179.
+NJ...None.
+MARINE...Small Craft Advisory until 2 AM EDT Wednesday for ANZ350-353.
+
+&&
+
+$$
+
+SYNOPSIS...JP/BR
+NEAR TERM...JP/DS
+SHORT TERM...JP
+LONG TERM...BR
+AVIATION...DBR/JT
+MARINE...JP/BR
+HYDROLOGY...JP/BR
+TIDES/COASTAL FLOODING...

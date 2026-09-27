@@ -1,0 +1,164 @@
+906 
+FXUS61 KOKX 011714
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+114 PM EDT Sun Jun 1 2025
+
+.SYNOPSIS...
+Low pressure heads into Quebec through tonight as a surface trough 
+lingers over the area. High pressure builds into the area Monday
+into Tuesday, then drifts offshore and strengthens through the 
+middle of the week. A frontal system slowly approaches from the 
+west for the end of the week.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+A stacked occluded low exits into northern Quebec today with a 
+surface trough lingering through tonight from the low. With a large 
+upper-trough over the area, a small shortwave will rotate around the 
+base of the trough through this evening.
+
+The presence of the surface trough keeps some clouds around. 
+Clouds may increase late this afternoon and hang around into 
+early tonight as a shortwave trough passes. This along with the 
+lingering surface trough, may be enough for a quick isolated 
+shower or two to develop in northern sections of the CWA. Have 
+kept 20% POPs for the northern half of the CWA for this slim 
+chance. Smoke from Canadian wildfires can be seen across much of
+the eastern US currently. Latest HRRR smoke products and timing
+tools bring the edge of the smoke overhead sometime around
+18-20z. This smoke will all remain aloft, with nothing expected
+at the surface. This will result in some hazy skies. The smoke
+will likely push east after midnight.
+
+WSW winds remain breezy this morning and likely hold up into 
+the afternoon from a remaining pressure gradient from the 
+departing low. Winds will likely remain 10-15 mph with gusts up 
+to 25 mph until the pressure gradient finally weakens late 
+afternoon into evening. Therefore, winds diminish into tonight.
+
+Temperatures aren't looking too different from yesterday, remaining 
+below climatological norms with highs in the mid/upper-60s. Lows 
+tonight may get slightly warmer in the mid-40s (interior) to the 
+low/mid-50s (coast).
+
+&&
+
+.SHORT TERM /MONDAY THROUGH TUESDAY NIGHT/...
+The large upper trough moves offshore Monday through Tuesday as 
+ridging gradually builds in from the west. High pressure at the 
+surface builds in from the southwest on Monday, then centers it self 
+over the area or just offshore into Tuesday. This helps winds turn 
+back to the south, but overall, a weak pressure gradient will keep 
+winds light through this period.
+
+High pressure keeps conditions dry. With heights climbing aloft, 
+warming at the surface is expected Monday through Tuesday. Highs on 
+Monday will be in the low/mid-70s, warming into the mid/upper-70s 
+for most on Tuesday with sections of NE NJ and the Lower Hudson 
+Valley getting up into the low-80s. Under a weak pressure gradient, 
+synoptic flow will be light. So its possible some of these highs 
+could be a little limited at the coast from sea breezes. 
+
+Warmer nights are also expected. Monday night's lows range from the 
+upper-40s to mid-50s. Significant warming is expected Tuesday night. 
+Lows will be in the mid-50s to low-60s (mid-50s for NYC metro).
+
+&&
+
+.LONG TERM /WEDNESDAY THROUGH SATURDAY/...
+A high amplitude ridge (+2SD) builds along the eastern seaboard
+at the start of the period. This will give the area a taste of 
+summertime with daytime highs about 10 degrees above normal for 
+Wednesday and Thursday. Highs get into the 80s away from the 
+immediate shoreline, possibly around 90 for the NYC metro and 
+points north and west. NBM box and whisker plots generally show 
+the deterministic NBM at or below the 25th percentile. This
+points to the potential for even warmer readings than currently
+forecast. Coastal locations can always be tricky at this time 
+of year with water temperatures in the 50s to around 60. Winds 
+will generally be onshore from the SSW. Lows and dewpoints will
+be in the 60s, so it will feel a bit humid. At this time, have 
+stayed with NBM deterministic values.
+
+A frontal system approaching for the end of the week will allow
+for gradually increasing chances of showers/thunderstorms. The 
+upper ridge axis slips offshore on Thursday with some shortwave 
+energy and warm advection on the backside of the ridge. Airmass 
+during this time looks to be marginally unstable and weakly 
+sheared. Temperatures gradually cool Friday into Saturday, but 
+remain above normal.
+
+&&
+
+.AVIATION /18Z SUNDAY THROUGH FRIDAY/...
+VFR as a weak sfc trough approaches the terminals. SCT-
+BKN040-060 through the evening.
+
+WSW winds 15-20ktG20-25kt, becoming SW for south coastal 
+terminals in the afternoon. W winds and gusts subsiding around
+00Z. Winds become light and variable tonight before increasing 
+near daybreak W/NW 5-10kts. Local sea breezes possible for 
+JFK/ISP/LGA tomorrow afternoon after 21Z.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+W wind gusts 20-25kt subsiding near 00Z. Time may be off 1-2
+hrs.
+
+Spotty shower or sprinkle possible late this afternoon into
+early this evening. Confidence too low to mention in TAF at 
+this time.
+
+.OUTLOOK FOR 12Z MONDAY THROUGH THURSDAY... 
+
+Monday through Wednesday...VFR.
+
+Thursday...Potential for MVFR in showers and thunderstorms in
+the afternoon/evening.
+
+Friday...Possible MVFR in afternoon showers/tstms.
+
+&&
+
+.MARINE...
+SCA for non-ocean waters and western ocean now in effect 
+through 6PM for 25 kt gusts. A SCA remains up on the central and
+eastern ocean zones through early tonight for winds and
+lingering 5 ft waves.
+
+
+Thereafter, conditions remain below SCA for all waters through 
+Thursday as high pressure over the western Atlantic moves slowly
+east.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through the end of next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...High Risk for Rip Currents until 9 PM EDT this evening for NYZ080-
+     081.
+NJ...None.
+MARINE...Small Craft Advisory until 6 PM EDT this evening for ANZ331-
+     332-335-338-340-345-355.
+     Small Craft Advisory until 2 AM EDT Monday for ANZ350-353.
+
+&&
+
+$$
+
+SYNOPSIS...BR/DW
+NEAR TERM...BR/JT
+SHORT TERM...BR
+LONG TERM...DW
+AVIATION...DBR
+MARINE...BR/JT
+HYDROLOGY...BR/DW

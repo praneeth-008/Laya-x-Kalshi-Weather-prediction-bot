@@ -1,0 +1,197 @@
+873 
+FXUS61 KOKX 031540
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1040 AM EST Fri Jan 3 2025
+
+.SYNOPSIS...
+Low pressure continue to retrograde into SE Canada today.
+Meanwhile another low develops well south of the region today
+and moves well offshore tonight. High pressure will remain south
+and west of the region with low pressure north of the region 
+going into this weekend. Low pressure passes through the Mid 
+Atlantic on Monday and offshore Monday night. Behind it, strong 
+Canadian high pressure builds in from the west through mid next 
+week.
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+Longwave troughing continues anchored by a deep closed low over
+Quebec thru tonight, with northern stream shortwave pivoting 
+from the eastern Great Lakes through the region tonight. At the 
+surface, a cold front crosses east of the region by this 
+evening, with weak surface wave developing well south and east 
+of the region.
+
+Increasing cloud cover through the aft/eve with potential for a
+few flurries/isolated snow showers, with shortwave trough/cold 
+frontal passage this evening. Higher probability for steadier 
+light snow remains across Central NJ and points south, but 
+slight chance for a dusting across southern portions of NYC/NE 
+NJ. Otherwise localized dusting possible with any snow shower 
+activity. Any accum would be on mainly on grassy or elevated 
+surfaces, and primarily across interior and higher elevations.
+
+Temperatures getting colder today compared to the previous day 
+with cold air advection. Daytime mixing will achieve high 
+temperatures mainly in the mid to upper 30s. Some 40 degree high
+temperatures are forecast along the coast.
+
+Gusty winds remain but will be more in the 25 to 35 mph range.
+This will make for temperatures to actually feel like freezing
+or slightly below freezing for maximum wind chills.
+
+&&
+
+.SHORT TERM /6 PM THIS EVENING THROUGH SUNDAY/...
+In the mid levels, the region remains in between cutoff low in
+SE Canada and ridging well to the south and west. WNW mid level
+flow increases over the weekend with a tightening height
+gradient.
+
+The low pressure develops well southeast and offshore. Again,
+northern fringe of precipitation get close to Long Island but
+only chances of snow are south of Long Island within the
+forecast marine zones with higher chances farther to the south. 
+
+Otherwise, winds slightly subside but still stay up enough to
+keep a mixed boundary layer. Gusts do not completely go away
+tonight with gusts still frequent along coast. Lows forecast 
+are in the 20s but minimum wind chills will be near the 10 to 15
+degree range.
+
+For the weekend, the core of high pressure remains well to the
+south and west, keeping a tight enough pressure gradient to
+maintain gusty winds. Expecting mainly dry conditions for much 
+of the weekend. NW winds continue and advect in even colder air.
+Highs forecast on Saturday and Sunday are only in the low to 
+mid 30s. Wind chills both days will be at most mainly within the
+20s.
+
+&&
+
+.LONG TERM /SUNDAY NIGHT THROUGH THURSDAY/...
+Key Points:
+
+* Light snowfall possible Monday as low pressure passes to the south.
+
+* Temperatures remain below normal through much of next week 
+  with persistent NW flow.
+
+An active start to the period as low pressure tracks from the 
+Mississippi River Valley this weekend through the Mid Atlantic on 
+Monday, introducing chances for precipitation locally. Timing of any 
+precip looks to be during the day on Monday, tapering Monday night. 
+Given the cold air mass in place, ptype would likely be all snow. 
+The question becomes how much moisture will make it this far north. 
+Some guidance, like the 00Z GEFS, offers a wetter, more amplified 
+solution that brings the FGEN axis into the region. On the other 
+hand, the EPS and GEPS members largely keep the bulk of the 
+accumulating snowfall just to the south with a flatter wave. These 
+differences will need to be resolved and are key in determining 
+ultimately where the snowfall occurs. NBM probabilities of at least 
+1 inch of snow have been creeping up with each run, now about 50% 
+for NYC and surrounding areas. Lessening chances, though not zero, 
+for accumulating snow going north into the LoHud Valley and southern 
+CT, but trends will need to be monitored closely.
+
+All to say, a light snowfall is possible for at least portions of 
+the area on Monday. If the more amplified northern solution proves 
+valid, winter headlines *could* eventually be needed for the 
+southern half of the CWA.
+
+Conditions dry out Tuesday as the low moves offshore, and a nearly 
+blocked upper flow persists through at least mid next week with 
+sprawling low pressure centered over far eastern Canada. Behind the 
+system, Canadian high pressure drops south into the Plains and 
+builds in, reinforcing the cold air mass and maintaining a tight 
+pressure gradient that will keep winds blustery. Temperatures look 
+to run up to 10 degrees below normal through the period, with 
+afternoon highs near freezing, and morning lows in the teens and 
+20s. Wind chills likely in the single digits at times given the flow.
+
+&&
+
+.AVIATION /16Z FRIDAY THROUGH TUESDAY/...
+A quick moving low passes to the south and offshore late today into 
+tonight, while a sprawling area of low pressure remains centered to 
+the north of the region through the TAF period.
+
+VFR.
+
+W flow persists today with speeds generally 10 to 15 kt, with
+more occasional gusts 20 to 25 kt before ending by 18Z.
+Gusts return toward 06Z Sat as the flow goes NW. Speeds 
+increase with gusts up to 30 kt much of Saturday.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Gusts into early this afternoon will be more occasional before
+ending.
+
+Isolated gusts up to 35 kt on Saturday.
+
+
+OUTLOOK FOR 12Z SATURDAY THROUGH TUESDAY...
+
+Saturday: VFR. NW gusts 25-30kt, occasional gusts up to 35kt.
+
+Sunday: VFR. W gusts 20-25kt.
+
+Monday: MVFR cond likely with snow possible. IFR at NYC metros/KISP 
+possible. 
+
+Tuesday: VFR. WNW gusts 25-35kt.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+SCA conditions are in place for all the forecast waters. SCA 
+for non-ocean zones goes until 4pm this afternoon with ocean 
+zones having SCA until 7am Sunday. SCA on the ocean may very 
+well need to get extended through the day Sunday. Non-ocean 
+waters will have a lull in wind gusts tonight but for those 
+zones, SCA conditions will probably return overnight tonight and
+into the weekend.
+
+SCA conditions may briefly abate on the ocean Sunday night and 
+Monday, before returning Monday night or early Tuesday as NW flow 
+increases and seas once again build over 5 ft. SCA conditions then 
+appear likely on all waters Tuesday through midweek, with persistent 
+wind gusts above 25 kt. There is also potential for gusts across the 
+ocean waters to be near gale force, especially east of Fire Island 
+Inlet, late Tuesday into Tuesday night.
+
+&&
+
+.HYDROLOGY...
+No significant hydrologic issues anticipated through the middle
+of next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 4 PM EST this afternoon for ANZ331-
+     332-335-338-340-345.
+     Small Craft Advisory until 6 AM EST Sunday for ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JM/DR
+NEAR TERM...JM/NV
+SHORT TERM...JM
+LONG TERM...DR
+AVIATION...MET
+MARINE...JM/DR
+HYDROLOGY...JM/DR

@@ -1,0 +1,208 @@
+227 
+FXUS61 KOKX 061136
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+736 AM EDT Tue May 6 2025
+
+.SYNOPSIS...
+A frontal boundary remains near the region today as high pressure 
+moves across the Canadian Maritimes. At the same time, a broad area 
+of low pressure over the Ohio Valley will slowly track east. The 
+front gradually north tonight, while low pressure approaches from 
+the west. The low will then slide northeast through the area on 
+Wednesday. A cold front will approach from the northwest on Thursday 
+and stall nearby Thursday night as low pressure develops along it 
+over the Mid Atlantic region. Low pressure will track over or just 
+southeast of the region Friday into early Saturday, before heading 
+up the New England coast. Another cold front will approach from the 
+northwest on Sunday.
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+Forecast generally on track this morning. A band of showers, 
+some of it moderate to locally heavy continues to stream 
+northward off the ocean, mainly impacting portions of eastern 
+Long Island and eastern CT. Right now, as the precip move 
+northward, it it also slowly shifting eastward, which has 
+prevented any flooding issues across these areas. There has
+been a gradually weakening of the showers. Patchy fog has also
+developed across the forecast area. 
+
+We may get a break in the precipitation this morning as this band 
+slides eastward, however there will continue to be a chance of 
+showers throughout the day. While the forecast calls for mostly 
+cloudy skies, there is a chance that some partial clearing occurs. 
+If it does, there may be a bit more instability this afternoon, 
+especially west of the NYC metro area. There still looks to be 
+enough of a marine influence to keep it more elevated and unlikely 
+to reach severe limits. With the upper low approaching, impulses 
+will move in from the south with additional bands/pockets of rain. 
+Localized amounts up to an inch will be possibly with potential 
+training of cells in a deep-layered southerly flow. Minor nuisance 
+flooding will continue to be possible. 
+
+Temperatures will climb into the middle and upper 60s to lower
+70s.
+
+&&
+
+.SHORT TERM /6 PM THIS EVENING THROUGH 6 PM WEDNESDAY/...
+The threat of showers and possible thunder continues tonight with 
+the best chances for any storms west of NYC, mainly early in the 
+period where the airmass has its best chance to be unstable. POPs 
+gradually decrease after midnight, but don't completely go 
+away. 
+
+As the low lifts north of the region, the trough axis moves over the 
+area. As the trough moves across the area and interacts with a cold 
+pool aloft plus any daytime heating should result in enough 
+instability for at least some showers and thunderstorms from about 
+late Wed morning into the evening. The best chances for any storms 
+right now appear to be N and NW of NYC.
+
+Lows tonight fall into the 50s. Daytime highs on Wednesday will be 
+in the 60s and lower 70s.
+
+&&
+
+.LONG TERM /WEDNESDAY NIGHT THROUGH MONDAY/...
+No significant changes in the overall forecast pattern through the 
+long term and stuck fairly close to the previous forecast/NBM. 
+
+The period starts off Wednesday night with low pressure departing 
+the region with drier conditions working into the area. The drying 
+conditions in the wake of this low will be short lived as the next 
+cold front approaches Thursday afternoon and evening. 
+
+Good agreement in surface cyclogenesis over the Mid Atlantic region 
+along the cold front Thursday night into Friday as the digging 
+northern stream trough phases with the southern jet and closes off 
+at its base across the Central Appalachians. One change from the 
+previous forecast is the timing, with the latest NBM speeding up the 
+timing of this system. Regardless, Friday appears to be a rather wet 
+day, the question is how quickly does this system depart the region. 
+Will it be Friday later afternoon/evening or does is slow down 
+enough that the does not depart until late Friday night into early 
+Saturday. 
+
+Either way, expect a period of moderate to locally heavy rain late 
+Thursday night into Friday with deep layered lift and convergence of 
+Gulf/sub-tropical moisture feed over the region as low pressure 
+tracks over or near the region.
+
+Conditions improve on Saturday in wake of the low pressure system. 
+Another shortwave likely crosses the area with cold frontal passage 
+Sunday afternoon/evening. Expect dry conditions to start the week as 
+high pressure builds back into the area for Monday and Tuesday. 
+
+Temperatures will be near to slightly above seasonable for Thursday, 
+falling to a few to several degrees below seasonable Friday with low 
+pressure affecting the area. Temperatures then moderate back to 
+normal on Saturday, then above seasonable for Sunday into early next 
+week.
+
+&&
+
+.AVIATION /12Z TUESDAY THROUGH SATURDAY/...
+Frontal boundary remains stalled within the region through much
+of the TAF period, exiting NE into Wednesday.
+
+Mainly IFR or lower with low clouds, few spots of dense fog
+through 9am, and periods of rain through the morning hours and
+afternoon hours. Improvement to MVFR late in the day to early 
+evening. Showers still anticipated to end or become much more 
+isolated in the evening. Dry and returning to VFR overnight, 
+with possible IFR conditions of low ceilings and fog lingering 
+for eastern terminals, mainly KGON, past 6Z Wed. 
+
+Thunder has been excluded from the TAFs, but a small chance 
+remains, so it can not be ruled out. There is a slight chance 
+for a few more showers Wednesday, however, chances are too low 
+to include in TAFs. 
+
+Winds easterly around 10kt, backing more SE this afternoon. 
+Gusts around 20 kt may be occasional at some terminals, but 
+could prevail KISP. KGON, possibly. Winds back south late in the
+evening, dropping below 10 kt, then outlying terminals may go 
+light and variable overnight, with other terminals near 5 kt, 
+becoming SW. Winds become more west of south into the day 
+tomorrow around 10 kt. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Vsbys will fluctuate between LIFR and VFR this morning but cigs
+should remain mostly IFR/LIFR. Timing of improvement of each 
+category Tue into Tue night could be off by a couple of hours. 
+Can't rule out an isolated tstm during the day or early evening.
+
+.OUTLOOK FOR 12Z WEDNESDAY THROUGH SATURDAY...
+
+Wednesday: VFR/MVFR early, then mainly VFR in the afternoon. 
+Chance of showers and slight chance of thunderstorms.
+
+Thursday: MVFR possible with a chance of showers, mainly at
+night.
+
+Friday: MVFR possible with a chance of showers. A slight chance
+of thunderstorms.
+
+Saturday: Mainly VFR, except MVFR or lower possible in slight 
+chance of showers.
+
+Detailed information, including hourly TAF wind component 
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Marginal SCA conditions for seas around 5 ft will continue through 
+the day Tuesday in an E/SE flow. Latest NWPS guidance has the 5 ft 
+seas continuing into tonight, so will extend the SCA to cover that 
+time period. With uncertainty with just how long the 5ft seas last, 
+will extend all the ocean zones through tonight, however as seas 
+fall, the SCA may be able to end early. 
+
+Marginal 4-5 ft ocean seas possible Wed into Wed night in mainly a 
+residual E/SE swell, with sub SCA conditions likely on Thu under a 
+weak pressure gradient.
+
+Next potential for SCA conditions Fri/Sat on all waters with coastal 
+low pressure. Low prob for gales on the ocean in E/SE flow ahead of 
+the low if stronger coastal development evolves.
+
+&&
+
+.HYDROLOGY...
+An additional 0.5-1.50 inches of rainfall will be possible with 
+locally higher amounts possible in any thunderstorms or storm 
+training through tonight. Generally looking at nuisance ponding 
+of water with just an isolated flash flood threat. 
+
+There is the potential for a period of moderate to locally 
+heavy rain for late Thursday night and Friday time period.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Dense Fog Advisory until 11 AM EDT this morning for ANZ350-353-
+     355.
+     Small Craft Advisory until 6 AM EDT Wednesday for ANZ350-353-
+     355.
+
+&&
+
+$$
+
+SYNOPSIS...BC
+NEAR TERM...BC
+SHORT TERM...BC
+LONG TERM...BC
+AVIATION...BR
+MARINE...BC
+HYDROLOGY...BC

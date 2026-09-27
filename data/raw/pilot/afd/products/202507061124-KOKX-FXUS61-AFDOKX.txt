@@ -1,0 +1,169 @@
+141 
+FXUS61 KOKX 061124
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+724 AM EDT Sun Jul 6 2025
+
+.SYNOPSIS...
+High pressure will remain in control through the weekend. A cold
+front will approach from the Great Lakes on Monday, passing
+slowly across on Tuesday and Tuesday night. The front may 
+remain stalled over or just to the south of the area mid week. A
+more robust frontal system approaches by the end of the week.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Dry and warm conditions continue today with highs in the low-mid 90s 
+in the usual warmest spots in NE NJ, and mostly upper 80s to around 
+90 away from the immediate coast. Also, dew points will be a little 
+higher than yesterday.  The combination of higher temperatures and 
+dew points will result in heat index values in the low to mid 90s 
+for NE NJ and the Lower Hudson Valley. Heat index values are 
+expected to remain just below 95 degree mark. 
+
+Tonight, the SW flow will continue across the area. This would be at 
+least the 2nd consecutive night of onshore flow. Both the GFS and 
+NAM soundings are showing the potential for fog and/or stratus 
+across portions of the forecast area, especially along the coast. 
+Lows should only fall into the lower and middle 70s.
+
+&&
+
+.SHORT TERM /MONDAY THROUGH TUESDAY NIGHT/...
+The high builds further offshore Monday with a cold front 
+approaching from the west. With the high moving offshore, this will 
+also allow some of the moisture associated with Chantal to approach 
+from the south. POPs gradually increase through the morning, 
+especially west of NYC. By afternoon, POPs become likely with areas 
+of showers and thunderstorms. East of NYC, there will be a lower 
+chance of POPs. 
+
+Rain and thunderstorm chances continue into Monday night with the 
+remnant system even closer, but there's still not enough confidence 
+from the varying model solutions to go with likely PoPs. Some 
+guidance even suggests a narrow band of subsidence forming over the 
+forecast area between an approaching cold front from the west and 
+Chantal's remnants from the south.
+
+Please refer to the latest official forecast from the National 
+Hurricane Center regarding tropical cyclone Chantal.
+
+The unsettled conditions continue right into Tuesday and Tuesday 
+night with the approach and passage of a cold front. Once again, 
+showers and thunderstorms are expected to develop ahead of and along 
+the front. With PWATs in the 2.0-2.5 inch range, expect any storms 
+to be capable of locally heavy rainfall. The front eventually moves 
+either offshore of remains over the far southeastern sections of the 
+CWA into early Wednesday morning. 
+
+With respect to temperatures in the short term. Temperatures Monday 
+and Tuesday should be somewhat similar with highs in the 80s and 
+lower 90s. Dew points however should be higher, especially with 
+Chantals remnants getting a bit closer to the region. We do have 
+some heat index values exceeding 95 on Monday across portions of the 
+area, most notably NE NJ, the Lower Hudson Valley and into SE CT. As 
+dew points climb further on Tuesday, more widespread 95 heat 
+indices should be reached. However, one significant concern 
+will be the amounts of cloud cover and rainfall chances, which 
+could keep temperatures cooler than forecast. Either way, it 
+will be a very muggy two days. For now, the plan is to hold off 
+on any heat headlines for Monday and Tuesday.
+
+&&
+
+.LONG TERM /WEDNESDAY THROUGH SATURDAY/...
+Despite the unsettled nature of the extended forecast, global models 
+were in fairly decent agreement, so the NBM was followed.
+
+Disturbances in the flow will traverse the area through much of the 
+middle of the week. By the end of the week, more robust energy in 
+the flow approaches from the west and allows the trough to dig into 
+the Northeast. This will provide for a better opportunity for 
+showers and storms as well as slight decreases in temperatures. High 
+pressure may try to build in from the northeast by Saturday.
+
+Despite chances for showers each day, high temperatures should 
+remain in the mid 80s through mid week, and upper 70s to lower 80s 
+by the end of the week.
+
+&&
+
+.AVIATION /12Z SUNDAY THROUGH THURSDAY/...
+VFR through today as high pressure remains offshore. IFR in fog and 
+low stratus may return late Sunday night into Monday
+morning. Brief improvement mid/late morning Monday before 
+showers and thunderstorms appraoch the area starting around 15Z.
+
+S-SW winds redevelop mid/late morning, increasing to 10-15 kt 
+with gusts up to 25 kt possible this afternoon. A more 
+southerly sea breeze should once again make it to KEWR/KTEB 
+late. Winds drop below 10 kt Sunday night, possibly going light 
+and variable at outlying terminals. Winds S around 10 kt again
+tomorrow. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+AMD possible for wind gusts today, as timing may be off by a 
+few hours. 
+
+.OUTLOOK FOR 12Z MONDAY THROUGH THURSDAY... 
+
+Monday through Thursday: Mainly afternoon and evening showers/tstms 
+possible with MVFR or IFR cond. Highest chance exists from late Mon 
+through Tue evening. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Sub-SCA conditions are expected on all waters through at least 
+Sunday morning. Some gusts close to 25 kt are possible Sunday
+afternoon/evening on the ocean with seas climbing to around 4 
+ft. Sub-advisory conditions are then likely for Monday through 
+Friday, with seas on ocean waters possibly climbing to 5 feet 
+Friday night.
+
+&&
+
+.HYDROLOGY...
+Some tropical moisture may feed into the area Tuesday and Tuesday 
+night which may allow for an environment supportive of locally heavy 
+rainfall. WPC has portions of the area in a marginal risk for 
+excessive rainfall for this time frame.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+The rip risk for all beaches will be moderate both Sunday and
+Monday, given the southerly flow and increasing southerly swell.
+Surf heights around three ft are likely over the period, but 
+may increase to near 4ft by Monday, especially across NYC, 
+Nassau and western Suffolk beaches.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Air Quality Alert from 11 AM this morning to 11 PM EDT this 
+     evening for CTZ005-009.
+NY...None.
+NJ...Air Quality Alert from 11 AM this morning to 11 PM EDT this 
+     evening for NJZ002-004-006-103>108.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...BC
+NEAR TERM...BC
+SHORT TERM...BC
+LONG TERM...
+AVIATION...BR
+MARINE...BC/BR
+HYDROLOGY...BC/BR/MW
+TIDES/COASTAL FLOODING...

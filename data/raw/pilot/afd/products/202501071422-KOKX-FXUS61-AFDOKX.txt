@@ -1,0 +1,165 @@
+214 
+FXUS61 KOKX 071422
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+922 AM EST Tue Jan 7 2025
+
+.SYNOPSIS...
+Broad low pressure meanders over the Canadian Maritimes as a high
+slowly builds in from the west through Friday. Low pressure 
+passes to the south Saturday into Saturday night. High pressure 
+returns for Sunday and the beginning of next week.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Winds have gusted a little higher than forecast in some areas, 
+so winds have been raised slightly for the remainder of the day.
+Wind Advisory criteria (gusts of 40 kts) might be met in a few 
+locations (especially at higher elevations), but is not 
+currently expected to be widespread enough to prompt the 
+issuance of a Wind Advisory. Aside from updated winds in the 
+forecast, the rest of the forecast remains on track. 
+
+In the wake of low pressure that passed through the Mid Atlantic and 
+offshore yesterday, drier conditions can be expected today. Broad 
+low pressure remains near the Canadian Maritimes as surface 
+high pressure centered over the Northern Plains begins to build 
+south and west toward the region. Tightening pressure gradient 
+between these two features kicks up winds, and they stay gusty 
+over the next several days.
+
+Mostly clear skies to start, with some stratocu developing at 
+or under 5 kft into this afternoon as a weak shortwave swings 
+thru New England. Absent a stray flurry or snow shower inland, 
+conditions remain dry.
+
+Soundings prog the mixed layer extending up to between 850 and 
+900 mb today with winds near 40 kt at the top. With this, likely
+to see gusts down to the surface between 35 and 45 mph at 
+times. Isolated gusts toward 50 mph possible, but likely limited
+in frequency and coverage, so no advisory warranted with this 
+update.
+
+Cold advection from the flow will keep temperatures generally 
+sub freezing with wind chills in the teens thru the afternoon. 
+Similarly tonight, air temperatures in teens and low 20s, but 
+feeling closer to 0 at times.
+
+&&
+
+.SHORT TERM /WEDNESDAY THROUGH THURSDAY NIGHT/...
+Brisk, cold, and dry conditions continue Wednesday and Thursday.
+
+As high pressure treks east toward the region, the pressure 
+gradient remains tight locally, and will maintain noticeably
+blustery conditions, with gusts 30 to 40 mph likely both days.
+
+While temperatures won't break records, we're entering the 
+climatologically coldest period of the year, will still run 
+about 10 degrees below normal through Thursday. Sub freezing 
+high temperatures both days, with wind chills likely staying the
+teens on the high side during the daytime, and near 0 at night.
+
+&&
+
+.LONG TERM /FRIDAY THROUGH MONDAY/...
+High pressure ridge axis shifts through the region during Friday 
+with dry conditions and high temperatures at or slightly below 
+normal.
+
+Models then continue to vary with the extent/timing of northern and 
+southern stream phasing which would impact the track of the next low 
+pressure system to potentially impact the forecast area during 
+Saturday. Still anticipating the low center to track to our south, 
+and at this point, guidance favors better chances of it passing 
+south and east of the 40N/70W benchmark versus north and west of it. 
+Thermal profiles with this setup would support an all-snow event, 
+but still too early in the game to have much confidence regarding 
+any potential accumulations. PoPs for late Friday night through 
+Saturday night are capped at chance at this point.
+
+High pressure otherwise builds back in for Sunday and weakens on 
+Monday. Likely dry through the period. High temperatures generally 
+in the 30s through the long term period.
+
+&&
+
+.AVIATION /15Z TUESDAY THROUGH SATURDAY/...
+The terminals remain between strong low pressure to the east 
+and strong high pressure to the west.
+
+VFR. Occasional MVFR cigs possible for KSWF.
+
+Strong, gusty WNW-NW winds 30-40kt through the afternoon, 
+strongest at KJFK/KLGA/KEWR. Gusts begin to weaken somewhat this
+evening, becoming 25-30 kt overnight. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Direction should favor right/north of 310 magnetic, although may 
+occasionally be south/left of it.
+
+Gusts will likely vary a few kts from forecast at times. Peak 
+gust of 40-45kt.
+
+OUTLOOK FOR 12Z WEDNESDAY THROUGH SATURDAY...
+
+Wednesday through Thursday: VFR. NW wind gusts 30-35kt.
+
+Friday: VFR. NW wind gusts 20kt in the morning.
+
+Saturday: MVFR-IFR possible. Chance of snow. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Gale Warning now in effect on all waters thru at least early 
+Wednesday morning. Gusty NNW flow 35 to 40 kt persists through 
+this time. While the warning currently runs until Wed 6 AM on 
+non ocean waters, it's possible this could be extended thru 
+Wednesday afternoon. Otherwise, SCA conditions thereafter with 
+occasional gale force gusts both Wednesday and Thursday. 
+Similarly on the ocean, the warning in effect thru Wed 6 PM may 
+need an extension through Thursday afternoon. Seas on the ocean 
+generally between 5 and 8 ft thru this period, and as high as 5 
+ft on the LI Sound. Spotty freezing spray also possible at times
+through this period.
+
+With a prolonged NW flow, SCA conditions will likely be ongoing
+at the start of Friday morning with sub-advisory conditions 
+anticipated by Friday night. Next chance of advisory conditions 
+would then be Saturday night with an offshore storm.
+
+&&
+
+.HYDROLOGY...
+No significant hydrologic issues anticipated through early next
+week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Gale Warning until 6 AM EST Wednesday for ANZ331-332-335-338-
+     340-345.
+     Gale Warning until 6 PM EST Wednesday for ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JC/DR
+NEAR TERM...BR/DR
+SHORT TERM...DR
+LONG TERM...JC
+AVIATION...JC/DS
+MARINE...JC/DR
+HYDROLOGY...JC/DR

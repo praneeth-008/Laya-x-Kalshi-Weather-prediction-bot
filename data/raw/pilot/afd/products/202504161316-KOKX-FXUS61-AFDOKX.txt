@@ -1,0 +1,202 @@
+373 
+FXUS61 KOKX 161316
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+916 AM EDT Wed Apr 16 2025
+
+.SYNOPSIS...
+As low pressure gradually departs to the northeast, a series of weak 
+surface troughs will move through the area through Thursday. High 
+pressure passes overhead Thursday night and then moves offshore on 
+Friday. A warm front moves through Friday night. A cold front 
+approaches Saturday and moves through Saturday night. 
+High pressure returns for Sunday. Another frontal system may impact 
+the area Monday into Tuesday.
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+Strong vort max swinging overhead this morning has been able to
+produce some light rain with a few flurries for higher
+elevations in southern CT. This activity will diminish through
+in the next few hours as the energy passes to our east. 
+
+Otherwise. cyclonic flow aloft continues today with the mid and
+upper level low moving into southeastern Canada and troughing 
+down the east coast. With surface high pressure building in 
+behind the departing low, the pressure gradient will remain 
+tight over the area today. Sustained winds look to top out at 20
+to 25 mph. As for gusts, the mixing looks to not be as deep 
+today and winds should gradually decrease aloft, but we could 
+still see widespread 35 mph gusts. An isolated peak gust up to 
+around 40 mph can't be ruled out.
+
+Expect a strato cu deck today around 5 kft. Highs top out in the 
+upper 40s inland to the lower 50s closer to the coast.
+
+
+.SHORT TERM /TONIGHT THROUGH FRIDAY NIGHT/...
+The pressure gradient slackens a bit tonight, but winds stay up. 
+Given the lack of ideal radiational cooling conditions the NBM was 
+used for lows, 30s to low 40s.
+
+A nicer day is expected on Thursday. Sunny skies and a lightening 
+west wind in a pre green up environment should result in over 
+performing temperatures. To capture this, went with a blend of 
+warmer guidance, NBM 90th, and bias corrected NAM and GFS. This
+gave widespread low 60s. The air will also have a dry feel to 
+it as 60 degree temps with dewpoints in the 20s results in RH 
+around 20 to 30 percent. Heading into Thursday night, the 
+pressure gradient really weakens, skies remain clear and 
+moisture remains low. Went straight CONSMOS for now to capture 
+the normal cold spots during good radiational cooling nights.
+
+High pressure shifts offshore early Friday and a return flow sets 
+up. If this happens earlier this will impact how low temperatures 
+can get Thursday night. Low pressure approaches from the west and 
+the pressure gradient tightens which will increase the S/SW winds. 
+The actual warm front looks to move through later on Friday and may 
+bring some showers to the area. With the strengthening southerly 
+flow, Long Island and coastal CT likely don't get as warm as 
+northeast NJ or the Lower Hudson Valley, upper 60s vs mid 50s.
+
+&&
+
+.SHORT TERM /6 PM THIS EVENING THROUGH FRIDAY NIGHT/...
+The pressure gradient will be slow to completely relax, thus 
+expect breezy conditions to remain in place. Although there will
+likely be more of a relaxation at times, especially away from 
+the coast Wednesday night. The current thinking has the winds 
+staying up enough that frost formation should be avoided along 
+with any freeze. But if winds subside more than expected perhaps
+portions of Orange, Putnam, Northwestern Passaic, and portions 
+of Northern Fairfield counties could get to freezing. Otherwise 
+lows should primarily be in the upper half of the 30s to around 
+40 under partly cloudy to mostly clear skies.
+
+For Thursday it will not be as windy as the previous few days, 
+but a breeze out of the WNW should linger through the early 
+afternoon. High pressure will continue to gradually build in 
+with the winds gradually subsiding for the afternoon into the 
+evening. There will be plenty of sunshine due to synoptic scale 
+sinking motion and some subsidence provided by a WNW wind. With 
+air mass modification expect temperatures to recover into the 
+upper half of the 50s and lower 60s.
+
+&&
+
+.LONG TERM /SATURDAY THROUGH TUESDAY/...
+Low pressure over southern Quebec pushes northeast on Saturday, 
+allowing an approaching cold front to move through Saturday night. 
+High pressure builds in behind the cold front for the rest of 
+Sunday, moving overhead Sunday night as a high amplitude upper level 
+ridge approaches from the west. The ridge axis of this upper level 
+ridge moves overhead late Monday, pushing offshore Monday night. 
+With surface high pressure offshore, this allows a warm front to 
+lift north of the area Monday night, quickly followed by the 
+associated cold front. Weak high pressure builds in for Tuesday and 
+Tuesday night. However, there is a great deal of uncertainty this 
+far out as the GFS does not bring the first cold front through on 
+Saturday, keeping the area warm sectored through Sunday night, and 
+bringing the cold front through Monday night, and a secondary cold 
+front through on Tuesday. 
+
+
+With high pressure offshore and the area warm sectored on Saturday, 
+a southwesterly flow sets up, bringing in a warm air mass. Highs in 
+the upper 70s to around 80 are forecast away from the coast; across 
+northeast NJ, the lower Hudson Valley, and southwest CT. Cooler 
+conditions are expected along coastal areas. Cold air advection 
+after the passage of the cold front will bring cooler, but still 
+above normal temperatures for this time of year for Sunday, with 
+highs in the upper 60s to lower 70s. However, if the GFS model 
+solution for Sunday is correct and the area remains warm sectored, 
+then temperatures on Sunday will be comparable to those on Saturday. 
+Temperatures on Monday and Tuesday return to near normal.
+
+&&
+
+.AVIATION /13Z WEDNESDAY THROUGH SUNDAY/...
+High pressure gradually builds in from the west through Thursday.
+
+VFR through the TAF period. 
+
+Gusty WNW/W winds continue through the forecast period. WNW winds 
+increase for the late morning and early afternoon to around 20 to 25 
+kt with gusts 30-35 kt. By late day winds may become more NW and 
+begin to diminish some during the evening. The metro terminals may 
+likely hold onto to gusts through the night, but should only be 15 
+to 20 kt. However, these may end up being more occasional at times 
+rather than prevailing. Outlying terminals are expected to lose 
+gusts altogether.
+
+   ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No unscheduled amendments expected.
+
+
+.OUTLOOK FOR 12Z THURSDAY THROUGH SUNDAY...
+
+Thursday: VFR. NW winds G15-20kt.
+
+Friday: Mainly VFR. Chance of showers late afternoon and night, 
+mainly inland. S winds G15-20kt.
+
+Saturday: Mainly VFR. Chance of showers, mainly inland. SW winds G20-
+25kt.
+
+Sunday: VFR. NW wind gusts 15-20 kt possible.
+
+Detailed information, including hourly TAF wind component forecasts,
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+The Gale Warning remains in effect on the ocean through noon.
+This will be replaced with a SCA for the afternoon into tonight
+once the gale ends. Small Craft Advisories remain elsewhere 
+through the first half of tonight. Sub SCA conditions expected 
+Thursday through Friday morning. 25 kt gusts and increasing seas
+return Friday afternoon with the approach of a frontal system.
+
+Waves on Saturday start off 4 to 8 ft on the ocean on a 
+southerly flow ahead of an approaching cold front. Waves slowly 
+diminish from Saturday afternoon through Sunday, with all ocean 
+zones below 5 ft by Sunday night. 
+
+Winds are expected to gust 25 to 30 kt kt Saturday on the ocean 
+waters as a frontal system approaches from the west. Winds on the 
+ocean fall below 25 kt for Saturday night into Sunday. There is a 
+chance that non-ocean waters reach SCA gusts on 
+Saturday.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through the middle of next
+week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 2 AM EDT Thursday for ANZ331-332-
+     335-338-340-345.
+     Gale Warning until noon EDT today for ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JP/JT
+NEAR TERM...DS/JT
+SHORT TERM...JT
+LONG TERM...JP
+AVIATION...JE/JP
+MARINE...JP/JT
+HYDROLOGY...JP/JT

@@ -1,0 +1,226 @@
+052 
+FXUS61 KOKX 220558
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+158 AM EDT Sat Mar 22 2025
+
+.SYNOPSIS...
+The high pressure ridge continues building in tonight. A cold 
+front will move through Saturday evening. High pressure returns 
+briefly Sunday before another frontal system impacts the area 
+Sunday night through Monday evening. Weak high pressure once again
+returns briefly Monday night into Tuesday before another weak low
+passes to the south of the region Tuesday night into Wednesday.
+High pressure builds in for Thursday and Friday.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM THIS MORNING/...
+Minor edits to temperature and dew points to reflect current
+observations were needed. Otherwise, forecast is on track.
+
+High pressure continues to move in tonight. Winds become light 
+and with mostly clear sky conditions, radiational cooling will 
+be optimized. This should allow for a vast range in low 
+temperatures from the lower 40s within NYC to mid 20s over parts
+of the rural areas, including the Pine Barrens of Long Island.
+
+&&
+
+.SHORT TERM /6 AM THIS MORNING THROUGH 6 PM SUNDAY/...
+High pressure moves offshore Saturday. A cold front will be
+approaching from the west. Light surface winds with variable
+direction become more SW and increase in the afternoon with
+gusts developing as well.
+
+Ahead of the cold front, a few rain showers could develop across
+the region. Went a little above NBM with POPs after seeing
+several mesoscale models depicting discrete echoes of
+reflectivity, representing small areas of rain showers
+traversing the area Saturday. The rain shower timing will be
+mid Saturday afternoon into Saturday evening. 
+
+The abundance of clouds will limit high temperatures despite low
+level warm air advection. Used a MAV/MET blend, manually
+increased a degree for the interior. The high temperature
+forecast ranges from the lower 50s to near 60, warmest across
+parts of interior and NE NJ and coolest along the immediate
+coast. The immediate coast will have more onshore and maritime
+influence.
+
+For Saturday night, the cold front moves east of the region, and
+winds will eventually become more NW. Cold air advection will
+occur in the low levels and allow for more mixed boundary layer.
+The gusty winds will allow for less vast range of low
+temperatures, only ranging from the lower 30s across the coast
+to low to mid 20s far north and west of NYC.
+
+A note about wind gusts. Models have recently underestimated
+wind gusts and from BUFKIT soundings, peak gusts Saturday
+afternoon through Saturday will likely be near 5 to 10 mph higher
+than forecast at times. Peak gusts up to 35 to 40 mph possible.
+
+&&
+
+.LONG TERM /SUNDAY NIGHT THROUGH FRIDAY/...
+The northern stream remains active into Sunday and possibly early 
+Monday as the flow is near zonal and weak/low amplitude shortwaves 
+track across the northern portion of the country.
+Beginning Monday, and through the upcoming week, the upper flow 
+become much more highly amplified with the trough remaining over the 
+eastern portions of the nation, and a ridge building along the west 
+coast and tracking slowly east through the week, and the eastern 
+trough moves off the coast by late in the week. There are no polar 
+intrusions of cold air expected and temperatures will mainly be near 
+normals levels, with the exception of Monday and Monday night, and 
+again Friday and Friday night when temperatures will be several 
+degrees above normal. Precipitation moves into the region Sunday 
+night as a warm front moves toward the area with southerly winds 
+ahead of the low. Lingering cold air across the Lower Hudson Valley 
+and across portions of the interior will allow for a period of 
+wintry weather Sunday night, then transitioning to all rain Monday 
+as the warmer air moves northward. With the amplified trough over 
+the east coast early next week the next system will be passing to 
+the south, and the track is a little uncertain.
+Once again there will be interior colder air Tuesday night and the 
+precipitation may begin as a wintry mix. there and rain along the 
+coast. Dry weather will then dominate Wednesday night into Friday. 
+Through the extended used the NBM deterministic temperatures and 
+probabilities with little variance expected.
+However, did lean toward higher winds and gusts, using the 50th and 
+90th percentiles with strong winds expected with the low pressure 
+systems impacting the area.
+
+&&
+
+.AVIATION /06Z SATURDAY THROUGH WEDNESDAY/...
+A ridge axis passes through the area overnight as a weak cold
+front approaches from the west. The front will be preceded by
+a pre-frontal trough that passes through in the afternoon, 
+followed by an early evening cold frontal passage.
+
+VFR, Winds diminish and become light SW over night. S-SW winds
+will then gradually increase Saturday morning with gusts up to 
+20 kt late morning and early afternoon, increasing to around 25 
+kt by late afternoon. Winds will then become NW in the evening
+behind the cold front with similar gusts. 
+
+A slight chance for showers for the metro terminals and points
+points east after 18Z Saturday, while there is a low chance for
+showers at KSWF. Chances were generally too low to include in 
+TAFs at this time, except a PROB30 at KSWF.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Onset of gusts and wind shifts late this morning into this 
+evening may vary by 1-2 hours. Gusts could be more occasional 
+in the early evening hours Saturday before the cold frontal
+passage.
+
+.OUTLOOK FOR 06Z SUNDAY THROUGH WEDNESDAY...
+
+Late Saturday Night: VFR. NW winds G25-30kt, beginning to 
+diminish a few hours prior to daybreak Sunday.
+
+Sunday: VFR.  
+
+Sunday Night and Monday: Becoming IFR with rain. Possible onset as 
+snow for KSWF. S winds G15-25kt, strongest near the coast on 
+Monday.
+
+Tuesday: VFR. SW winds G15-20 kt possible.
+
+Wednesday: MVFR possible. Chance of showers. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Small Craft Advisories across the harbor, western sound and
+south shore bays previously expired as winds have diminished.
+All other coastal waters were cancelled except from Fire Island
+Inlet to Montauk Point where waves remain above 5 ft.
+
+SCA levels gusts continue into this evening, lasting longest 
+farther east. SCA level ocean seas continue through this evening
+and then linger overnight east of Fire Island Inlet.
+
+A brief period of sub-SCA conditions expected before daybreak
+Saturday, continuing through the morning hours. SCA conditions
+re-develop on the ocean Saturday afternoon, eventually becoming
+widespread across all waters Saturday night.
+
+A strong and gusty northwest will be continuing across the forecast 
+waters behind a departing low pressure system. Small craft advisory 
+level gusts may be on-going across all the forecast waters early 
+Sunday morning. Winds and gusts will be subsiding Sunday 
+morning as high pressure builds in from the west, however, 
+advisory conditions will remain on the ocean waters into Sunday 
+afternoon. Winds and seas then remain below advisory levels 
+Sunday night. Another low pressure system approaches for Monday,
+and increasing southeast winds ahead of the low may gust to 
+advisory levels across the forecast waters by late Monday 
+morning, with ocean seas building to advisory levels. And by 
+late Monday afternoon a few gusts on the ocean waters may be 
+near gale force. This will be dependent on the strength of the 
+low and how quickly the system tracks, before winds begin to 
+diminish as a cold front moves into the waters. Behind the cold 
+front winds shift to the southwest, and ocean seas will be 
+subsiding Monday night through Tuesday evening, before falling 
+below advisory levels. Winds and seas remain below advisory 
+levels across the forecast waters Wednesday and Wednesday night 
+with a weak pressure gradient across the region.
+
+&&
+
+.FIRE WEATHER...
+NW flow frequently gusting to 30 to 35 mph and RH quickly 
+lowering to 25-30 percent expected, after a wetting rain of 1/2 to
+1 inch overnight. Winds on a downward trend.
+
+With collab with NY land managers, SPS for rapid fire spread 
+issued for Long Island where rainfall totals were mostly near 
+quarter inch or less. SPS in effect continues until 7pm this 
+evening.
+
+Winds not nearly as gusty for Saturday and become more SW,
+allowing for low level moisture increase. Min RH will not be as
+low more in the 30 to 45 percent range. Gusts up to near 20 to
+30 mph, mainly in the afternoon. Forecast conditions Saturday
+less conducive to fire spread compared to previous day.
+
+&&
+
+.HYDROLOGY...
+Moisture limited cold front moving across with rainfall amounts
+under a quarter of an inch Saturday afternoon into Saturday night.
+No hydrologic issues expected.
+
+No significant hydrologic impacts expected through middle of next 
+week at this time.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 5 AM EDT early this morning for 
+     ANZ350-353.
+
+&&
+
+$$
+
+SYNOPSIS...JM/MET
+NEAR TERM...JM/JP/MET
+SHORT TERM...JM
+LONG TERM...MET
+AVIATION...DW
+MARINE...JM/JP/MET
+FIRE WEATHER...
+HYDROLOGY...JM/MET

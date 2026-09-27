@@ -1,0 +1,216 @@
+914 
+FXUS61 KOKX 300302
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1102 PM EDT Thu May 29 2025
+
+.SYNOPSIS...
+Weak high pressure moves across the area the first half of the
+night and then gives way to another area of low pressure over
+the Mid Atlantic states. The latter of which passes to the south
+and east on Friday. A much stronger low will approach from the 
+southwest Friday night and then head north into New England on 
+Saturday. A trailing cold front will move through Saturday 
+night. High pressure will then gradually build in through the 
+middle of next week.
+
+&&
+
+.NEAR TERM /THROUGH FRIDAY/...
+A bit more clearing than forecast combined with light winds has
+allowed temperatures to just drop a few degrees lower than
+forecast. Have adjusted temperatures down to match this trend.
+Clouds are expected to fill in by around midnight, with some
+patchy fog also possible.
+
+The upper low over the Great Lakes begins to get kicked eastward
+tonight as jet energy rounds the base of the low. At the same
+time, a digging northern trough branch descends across eastern 
+Canada. Both will interact with one another on Friday, allowing
+a full latitude trough to dig southward into the Mid Atlantic 
+states late Friday into Friday night. 
+
+Before then though, weak high pressure quickly moves through the
+area this evening, giving way to a weak frontal wave over the
+Mid Atlantic states. This frontal wave passes to the south 
+Friday morning with a slight chance of showers, then to the east
+by afternoon. A weak surface trough or stationary front over 
+the Lower Hudson valley will then be the focus for some 
+scattered showers/isolated thunderstorms in the afternoon. Both 
+instability and shear will be weak, so nothing strong or long 
+lasting. Rainfall amounts are expected to be light.
+
+Lows tonight are forecast to be in the upper 50s to lowers 60s,
+a few degrees above normal. High on Friday will top out in the
+70s with a few break in the cloud cover.
+
+&&
+
+.SHORT TERM /FRIDAY NIGHT THROUGH SATURDAY/...
+A stronger frontal wave over the central Appalachians approaches
+from the southwest Friday night with a period of moderate rainfall
+and possibly some heavier rain in any embedded thunderstorms. 
+There is some uncertainty with the low track, with a consenus 
+forecast approach taking it just east of the NYC metro and 
+Lower Hudson Valley. This should keep the heavier rainfall 
+to the north and west of the track where there will be better 
+frontogenetic forcing. System is progressive, instability is 
+weak, and PW values are near normal. Thus, not looking for high
+hourly rainfall rates, nor storm total rainfall values to produce
+much more than minor nuisance poor, drainage flooding. Any flash
+flood flooding with this system would be isolated. WPC has a 
+marginal risk of excessive rainfall across the Lower Hudson 
+Valley and NE NJ at this time. NBM (13Z) probabilities are 
+around 50-60% across the area for seeing more than an inch of 
+rainfall. Forecast storm total rainfall across the area is 
+1.00-1.25" with lesser amounts across eastern LI and SE CT. 
+These amounts are also over period of more than 6 hours.
+
+Conditions dry out Saturday morning into early afternoon with 
+a second wave of low pressure moving in during the afternoon/early
+evening, but this is also progressive. Expect a round of moderate
+showers and possibly embedded thunderstorms. Once again, neither
+severe weather or flooding is forecast with this event. Lows 
+Friday night will remain mild in the upper 50s to lower 60s, 
+but a bit cooler in the upper 60s to lower 70s on Saturday with 
+cloud cover and rain chances.
+
+&&
+
+.LONG TERM /SATURDAY NIGHT THROUGH THURSDAY/...
+Upper trough axis and shortwave lift will maintain shower chances 
+during Saturday night with a higher likelihood being east of the 
+city and before midnight.
+
+Upper troughing will remain over the Northeast into eastern Canada 
+Sunday through early next week. High pressure off to our west will 
+be slow to build eastward with low pressure meandering over eastern 
+Canada during this time period. The forecast remains dry Sunday and 
+Monday despite cyclonic flow aloft. However, multiple shortwaves 
+spinning around the larger trough could introduce scattered to 
+broken clouds at times both afternoons. The axis of the trough 
+should shift to our east Tuesday allowing ridging to build towards 
+the area into Wednesday with the continuation of dry conditions. 
+Models differ somewhat regarding the position of a cutoff h5 low 
+over the western Atlantic and how it weakens the upper ridging over 
+the forecast area. Potential showers and thunderstorms from a cold 
+front to the west may push in by the end of the day, but could be 
+mitigated by the residual ridging aloft. 
+
+Temperatures for Sunday will be below normal in the upper 60s, but 
+should slowly start trending milder early next week. Highs look to 
+reach the lower 70s on Monday and then should be close to normal by 
+Tuesday in the middle to upper 70s. Given progged h8 temperatures, 
+have blended deterministic NBM with the warmer 50th percentile for 
+both Wednesday and Thursday. Areas unaffected by a sea breeze likely 
+reach the 80s both days.
+
+&&
+
+.AVIATION /03Z FRIDAY THROUGH TUESDAY/...
+A weak area of low pressure moves through tonight into Friday. A
+stronger area of low pressure will impact the terminals Friday
+evening through Friday night.
+
+VFR expected for several hours tonight. Everywhere except KSWF 
+will then go IFR closer to Friday morning now with the 
+potential for some brief LIFR cigs. There will likely be some 
+late day improvement to VFR again Friday for the NYC terminals 
+and KSWF. Conditions come right back down Friday evening with 
+moderate to locally heavy showers. Thunder can also not be ruled
+out, but confidence is not high enough yet for the TAF. There 
+will also be some other slight chances for showers, early Friday
+morning and then Friday afternoon. Coverage will likely be very
+isolated and am not expecting any long duration vsby 
+restrictions so have left out of the TAF.
+
+Winds remain under 10 kt through the TAF period. S/SW tonight
+and S/SE on Friday.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...  
+
+Timing of lowering conditions tonight may be off by several
+hours.
+
+There are slight chances for rain Friday morning and Friday
+afternoon. Coverage is expected to be isolated and not cause any
+long duration vsby restrictions.
+
+Moderate to locally heavy showers Friday evening into Friday 
+night could potentially have some embedded thunder. Confidence 
+is low at this time.
+
+.OUTLOOK FOR 00Z SATURDAY THROUGH TUESDAY... 
+
+Friday night: Moderate to locally heavy showers and possibly a 
+thunderstorm. IFR likely.
+
+Saturday: Showers and thunderstorms possible in the afternoon. SW-W
+winds G15-20kt in the afternoon.
+
+Sunday through Tuesday...VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+SCA for seas on the ocean will come down from west to east
+tonight. Thereafter, a weak gradient will reside across the
+waters with sub-SCA conditions through Friday night. A building
+southerly swell is forecast to bring SCA conditions to the 
+ocean waters on Saturday. 
+
+SCA conditions will continue on the ocean Sat night into Sunday, 
+mainly for hazardous seas. Seas should subside below 5 ft late 
+Sunday and remain below advisory thresholds through early next
+week.
+
+&&
+
+.HYDROLOGY...
+Rainfall of 1 to 1.25 inches with locally higher amounts is 
+possible from NYC north/west Fri night into Sat morning as low 
+pressure passes through. Hydrologic impacts so far appear to be 
+limited to minor urban/poor drainage flooding. Also can't rule 
+out downpours Saturday afternoon and early evening since 
+thunderstorms will still be possible.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+Any additional widespread minor coastal flooding following the 
+recent new moon is seeming less likely as tide values gradually 
+lower and weaker southerly winds being forecast ahead of low 
+pressure Friday night. However, water levels just barely 
+touching minor flood benchmarks are possible in spots with the 
+next two nighttime high tide cycles tonight and Fri night.
+
+A high rip current risk continues into early this evening with SE 
+swells at around 6 ft. There is a moderate risk for rip current 
+development during Friday with SE swells lowering to 4 to 5 ft.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 6 AM EDT Friday for ANZ350.
+     Small Craft Advisory until 2 AM EDT Friday for ANZ353.
+
+&&
+
+$$
+
+SYNOPSIS...JC/DW
+NEAR TERM...JT/DW
+SHORT TERM...DW
+LONG TERM...JC
+AVIATION...JT
+MARINE...JC/DW
+HYDROLOGY...JC/DW
+TIDES/COASTAL FLOODING...

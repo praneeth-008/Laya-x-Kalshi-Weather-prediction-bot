@@ -1,0 +1,174 @@
+477 
+FXUS61 KOKX 201029
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+529 AM EST Thu Feb 20 2025
+
+.SYNOPSIS...
+Low pressure off the Carolina coast deepens as it tracks well east 
+of the area into tonight. Thereafter, sprawling high pressure over 
+the mid section of the country builds in through the weekend, 
+remaining in control through Monday. A weak low pressure system 
+passes to our north Monday night into Tuesday. High pressure builds 
+back in for Wednesday.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+A 1000 mb surface low off Cape Hatteras deepens as it pulls off
+to the north and east through tonight. Meanwhile, an upper low 
+swings over the region into this evening, with a weak inverted 
+surface trough extending back toward the region from the exiting
+low.
+
+Temperatures remain 10 to 15 degrees below normal for late February, 
+the morning starts out in the teens and low 20s across the 
+region, with highs this afternoon expected to remain below the 
+freezing mark, ranging from the mid 20s inland, to around 30 at 
+the coast. A high cloud canopy thickens and lowers into late 
+day.
+
+As the upper low swings through, steepening lapse rates and a 
+moistening column down to the sub cloud layer should instigate
+snow shower development late this afternoon and evening. QPF is 
+light, under a tenth of an inch everywhere, closer to several 
+hundredths. Still, with the cold air mass entrenched, and SLRs 
+progged around 15:1, the snow could stick and accumulate 
+relatively efficiently if/where it does fall. With such little 
+liquid equivalent to work with though, amounts should be limited,
+likely at or under half an inch. Localized amounts could approach
+an inch, which remains a possible solution should coverage be a
+bit more persistent as some hi res guidance is hinting. While 
+not a particularly notable event based on amounts, the expected 
+timing of this activity, in the late afternoon and early 
+evening, could pose some travel impacts and slick spots to the 
+PM rush. Still, some locales may not see any snow whatsoever, or
+just a few flurries, largely staying dry and overcast instead, 
+especially into interior southern CT.
+
+Clouds begin to thin out regardless overnight as the upper low 
+shifts offshore and drier air works in. Flow increases as the 
+exiting surface low deepens and tightens the pressure gradient 
+locally, which should preclude decoupling regionwide. Overnight 
+lows range from the teens inland, to lower 20s along the coast.
+
+&&
+
+.SHORT TERM /FRIDAY THROUGH FRIDAY NIGHT/...
+Sprawling 1040 mb high pressure across the mid section of the 
+country builds into the area on Friday. 
+
+Blustery NW flow persists with the pressure gradient between 
+the building high and exited offshore low, and gusts toward 30 
+mph are expected much of the day, adding a chill to the already 
+below normal temperatures. Some coastal locales may sneak above 
+the freezing mark by a degree or two in the afternoon, otherwise,
+upper 20s to around 30.
+
+Flow relaxes into Friday night as the high builds closer, and 
+mostly clear skies prevail as temperatures fall into the teens 
+overnight.
+
+&&
+
+.LONG TERM /SATURDAY THROUGH WEDNESDAY/...
+The upper flow will be mainly zonal Saturday into Sunday night, with 
+a very weak, low amplitude, trough moving through Saturday night 
+with surface low pressure passing well to the north, as high 
+pressure remains in control, centered to the south. With little 
+upper support and little moisture no precipitation is expected.
+
+A more amplified trough, accompanied with a vort max, passes mainly 
+to the north Monday night, quickly followed by another trough and 
+vort max for Tuesday. With some uncertainty with the timing and 
+strength of this trough, have only slight chance probabilities Monday 
+night through Tuesday. Zonal flow returns for Wednesday. With mild 
+air in the area, with temperatures 5 to 10 degrees above normal 
+Monday night through Wednesday, the precipitation will be mainly 
+light rain showers, with light snow showers inland.
+
+&&
+
+.AVIATION /12Z THURSDAY THROUGH MONDAY/...
+Low pressure passes well south and east of the area through 
+Thursday. An upper level low will cross the area Thursday evening 
+and will bring scattered snow showers to the terminals. High 
+pressure builds in late Thursday night.
+
+VFR through most of the TAF period as high clouds remain overnight. 
+A mid deck then overspreads the region and lowers through Thursday. 
+Prob30 for light snow showers after 22z Thursday with MVFR possible. 
+However, the snow could be more widespread and may need to be placed 
+in a brief TEMPO or prevailing in upcoming forecasts. Around half an 
+inch of snow or less is possible.
+
+Winds NW-N overnight at 10 kt or less. Winds then shift to the NW 
+Thursday at 10 to 15 kt with gusts to around 25 kt by the late 
+afternoon, generally after 22Z. An isolated gust to 30 kt is 
+possible. Gusts continue overnight.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No unscheduled amendments are expected. 
+
+.OUTLOOK FOR 06Z FRIDAY THROUGH MONDAY...
+
+Late Thursday Night: Snow showers ending, becoming VFR. NW winds G20-
+25kt at night.
+
+Friday: VFR. NW winds G20-25 kt.
+
+Saturday and Sunday: VFR. 
+
+Monday...Mainly A slight chance of MVFR in rain/snow showers at 
+night.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Lighter winds and seas maintain sub Small Craft Advisory (SCA) 
+conditions on all waters today. By this evening, increasing flow
+behind passing low pressure well offshore returns SCA conditions
+to all waters as NW gusts 25 to 30 kt develop tonight and persist
+thru Friday. Seas on the ocean build toward 5 to 7 ft during this
+time as well. Winds are expected to lighten below advisory criteria
+Friday evening on non ocean waters, and by Friday night on the 
+ocean.
+
+Sub advisory conditions then prevail Saturday through Monday, 
+however, Saturday night gusts on the ocean waters may briefly 
+near SCA levels as low pressure passes well to the north and W 
+to SW winds increase. A persist WSW flow Sunday night into 
+Monday night will allow ocean seas to build and by late Monday 
+night into Tuesday seas may reach 5 to 6 feet.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts are expected through the middle of next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory from 6 PM this evening to 6 PM EST Friday 
+     for ANZ331-332-335-338-340-345-350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...DR/MET
+NEAR TERM...DR
+SHORT TERM...DR
+LONG TERM...MET
+AVIATION...MET
+MARINE...DR/MET
+HYDROLOGY...DR/MET

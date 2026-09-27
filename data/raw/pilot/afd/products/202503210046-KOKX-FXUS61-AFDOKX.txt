@@ -1,0 +1,250 @@
+341 
+FXUS61 KOKX 210046
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+846 PM EDT Thu Mar 20 2025
+
+.SYNOPSIS...
+A cold front with developing low pressure will impact the region
+tonight, and pass east on Friday. A high pressure ridge will
+briefly slide in for late Friday into Friday night. Another cold
+front will move through Saturday night. High pressure will
+briefly return again on Sunday before a stronger frontal
+system moves through on Monday. Weak high pressure will return
+on Tuesday, with another low pressure system possible for 
+mid week.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM FRIDAY MORNING/...
+A quick update to include a slight chance for thunder, mainly
+for the western half of the forecast area through midnight as
+lightning was observed across portions of NYC and points north
+and west. Current SPC mesoanalysis is showing MUCAPE of up to 
+1000 J/kg, so the instability is elevated. 
+
+The forecast has been updated to include drizzle across most
+of the coastal areas. Anticipating areas of dense fog for the 
+same areas, so a special weather statement has been issued to
+address this for the next few hours. The dense fog has persisted
+and become more widespread. A Dense Fog Advisory has been issued
+for Long Island and portions of southern Connecticut (excluding
+souther Fairfield) until 1 am Friday. As the cold front
+approaches and rain enters these areas, the dense fog is
+expected to improve somewhat. There is a chance that conditions
+improve prior to this time frame. 
+
+Leading edge or rain should hold off in our CWA until about 
+00Z, and progress slowly east through 06Z. 
+
+Areas from NYC north/west should see the most rainfall (1/2 to 
+3/4 inch) via best combo of forcing from the right rear quadrant
+of an upper level jet streak to the north, mid level positive 
+cyclonic vorticity advection and frontogenesis moving directly 
+across, and low level moisture transport from the S-SE. A weak 
+sfc low developing directly over the region from 03Z-06Z will 
+interrupt the low level moisture transport enough to keep
+rainfall mostly light across Long Island and S CT, though it may
+recover enough for far SE CT to see some moderate rainfall late
+tonight. As the rain moves in, vsby out east should gradually
+improve as well. 
+
+As the developing low passes to the east, SE winds should
+quickly shift out of the NW late and gust as high as to 25-30 
+mph before daybreak. 
+
+Low temps will be a fairly uniform upper 30s to lower 40s, warm
+enough to preclude any snowfall well north/west except maybe on
+the highest hills of far wrn Orange County.
+
+&&
+
+.SHORT TERM /6 AM FRIDAY MORNING THROUGH FRIDAY NIGHT/...
+A gusty NW flow will take hold and the air mass will dry out
+quickly on Fri as the pressure gradient tightens between the 
+departing low and high pressure off to the west. Gusts 35-45 mph
+(just shy of wind advy criteria) likely from late morning into 
+early afternoon as the blyr destabilizes and stronger winds mix 
+down from aloft, and a few spots may see sustained winds 25-30 
+mph for a time as well. High temps on Fri close to a MOS blend,
+in the lower/mid 50s. 
+
+Skies will be clear to start Fri night, then some high clouds
+will slide across late as the upper ridge axis slides across.
+Diminishing NW winds will become light as winds back SW and the
+blyr decouples, with good radiational cooling. Low temps should
+range from the lower 40s in NYC, to the 30s most elsewhere in 
+the urban corridor and along the coast, to 25-30 inland.
+
+&&
+
+.LONG TERM /SATURDAY THROUGH THURSDAY/...
+A weakening shortwave and surface cold front approach on
+Saturday and pass through late in the day into the evening. 
+The system is moisture starved, with upstream shower activity 
+likely weakening as it enters the area. Left in a slight chance 
+of a shower NW of the city for Saturday afternoon/early evening.
+Mild and breezy conditions ahead of the cold front with quick 
+shot of waa and deep mixing, giving way to glancing shot of 
+polar air Sat night/Sun AM on gusty NW winds in wake of front. 
+Highs for Saturday ranging from the mid 50s for south-facing 
+coasts to the low 60s in parts of NE NJ.
+
+Brief ridging surface/aloft Sunday in wake of this system with
+temps running close to seasonable. 500mb trough and attendant 
+surface low then move eastward through the western Great Lakes 
+Region during Sunday night. Models have sped up the timing of 
+this system in the past 24 hours. Lift ahead of an approaching 
+warm front to the south interacts with increasing moisture for a
+chance of precip before midnight, but then becoming likely 
+after midnight for roughly the western half of the forecast 
+area. Thermal profiles would support a wintry mix for inland 
+areas north of the city. Profiles then warm up for rain across 
+the entire area during Monday. Although the rain could be 
+briefly moderate to heavy with help from lift via a llj, rain 
+impacts appear to minimal at this time. No wind impacts 
+anticipated either as the llj looks to weak with a strong enough
+inversion below it. Lingering chances of showers for Monday 
+night, then dry for Tuesday with weak high pressure.
+
+Models still disagree regarding the strength of a low center  
+potentially passing through here sometime on Wednesday or Wednesday 
+night. At the least, a cyclonic flow aloft with a surface trough 
+will probably be around. Slight chance to chance (20-30%) of precip 
+for this period. High pressure would then probably return for dry 
+weather on Thursday. High temperatures Tuesday through Thursday at 
+or slightly above normal.
+
+&&
+
+.AVIATION /01Z FRIDAY THROUGH TUESDAY/...
+A cold front approaches this evening and crosses the terminals
+tonight. High pressure gradually builds in through Friday.
+
+Varying conditions across the region for the remainder of the
+afternoon. South facing coastal terminals will largely remain 
+VLIFR to LIFR into early this evening with some brief 
+improvement to IFR possible. Elsewhere, conditions will be IFR- 
+VFR (mainly terminals away from the coast). Any terminals that
+are VFR are not expected to last long, especially with the
+moderate rain expected, which will limit visibility and come
+with lower ceilings. Expect LIFR-IFR after 00Z for these 
+terminals.
+
+
+Rain will then overspread the terminals from west to east
+00Z-05Z, latest for eastern terminals. The rain should largely 
+end 06Z-09Z from west to east with conditions improving to VFR 
+through day break Friday. VFR then prevails on Friday.
+
+SE winds 10-15 kt this afternoon with gusts up to 20 kt
+possible. Winds and gusts briefly weaken this evening before
+shifting to the WNW-NW with the frontal passage 06Z-10Z 
+NW winds increase behind the front becoming 15-25 kt with
+G30-40kt on Friday. Winds and gusts should start weakening 
+late Friday afternoon and into Friday evening.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Gusts of 15 to 20 kt possible through 06Z. Brief VFR possible 
+at KSWF/KTEB thru 01Z. Thereafter, moderate rain is expected to
+lower conditions LIFR to IFR.
+
+Timing of lowering conditions this evening may be off by 1-2
+hours. 
+
+Timing of rain may be off by 1-2 hours this evening with
+conditions settling to IFR. 
+
+.OUTLOOK FOR 00Z SATURDAY THROUGH TUESDAY...
+
+Friday night: VFR. NW winds 15-25g30-40kt in the afternoon. NW 
+gusts 20-25kt in the evening, diminishing at night. Winds at
+some terminals may become light and variable.
+
+Saturday: VFR. Slight chance of a shower NW of NYC in the
+afternoon. SW gusts 20-25kt in the afternoon, becoming W/NW in
+the evening.
+
+Sunday: VFR. NW gusts 15-20kt. 
+
+Sunday Night and Monday: Becoming IFR with rain. Possible onset
+as snow for KSWF. S gusts 15-20kt near the coast on Monday.
+
+Tuesday: VFR. 
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Marine dense fog advy issued for all waters til 2 AM as vsby 
+once again lowers throughout to less than 1 nm in a maritime air
+mass. As a frontal system moves across tonight, rain should
+scour out the fog with vsbys improving.
+
+SCA remains in effect for the ocean waters for tonight as SE 
+flow increases to 20 kt and pushes current 4-5 ft seas to 5-7 ft
+late tonight. 
+
+The gale warning for daytime Fri also remains in effect, with
+gusts up to 35 kt expected on all waters mainly from late
+morning into early afternoon in strong NW flow. 
+
+Sub advisory conditions for Saturday morning, then winds and
+seas build in a SW flow. Advisory conditions mainly on the 
+ocean Saturday afternoon through Sunday morning. Elsewhere, a 
+few gusts to 25 kt possible during Saturday night. Sub-SCA conds
+for Sunday afternoon and night as a high pressure ridge shifts
+through. The next potential for SCA conds is then on Monday 
+ahead of a frontal system, particularly on the ocean. 
+Elevated seas may linger through a good portion of Tuesday.
+
+&&
+
+.FIRE WEATHER...
+Strong NW flow gusting to 35-45 mph and RH quickly lowering to
+25-30 percent may present an elevated risk of fire growth/spread
+daytime Fri. A wetting rain of 1/2 to 3/4 inch expected from 
+NYC north/west tonight and about 1/4 inch to the east, so fuel
+moisture and drying are uncertain, and may lessen the risk. In
+collab with NY State land managers have decided to hold off on
+any product issuance and re-evaluate depending on how much rain
+fall tonight and how quickly conds dry out daytime Fri.
+
+&&
+
+.HYDROLOGY...
+Rainfall tonight should be from 1/2 to 3/4 inch from NYC
+north/west, with lesser amts to the east, mostly around 1/4 inch
+but possibly as much as 1/2 inch across far SE CT. No hydrologic
+impacts expected.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Dense Fog Advisory until 1 AM EDT Friday for CTZ010>012.
+NY...Dense Fog Advisory until 1 AM EDT Friday for NYZ078>081-177-
+     179.
+NJ...None.
+MARINE...Dense Fog Advisory until 2 AM EDT Friday for ANZ331-332-335-
+     338-340-345-350-353-355.
+     Gale Warning from 6 AM to 6 PM EDT Friday for ANZ331-332-335-
+     338-340-345-350-353-355.
+     Small Craft Advisory until 6 AM EDT Friday for ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JC/BG
+NEAR TERM...BG/JP
+SHORT TERM...BG
+LONG TERM...JC
+AVIATION...JP
+MARINE...JC/BG
+FIRE WEATHER...
+HYDROLOGY...JC/BG

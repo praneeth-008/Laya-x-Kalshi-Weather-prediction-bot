@@ -1,0 +1,193 @@
+231 
+FXUS61 KOKX 041540
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1140 AM EDT Sun May 4 2025
+
+.SYNOPSIS...
+A frontal boundary will remain nearly stationary from the Lower
+Hudson Valley into central New England. The frontal boundary 
+eventually moves farther south within the region Monday into 
+Tuesday. The system will then pass through on Wednesday, with a 
+cold front passing through on Thursday. The area will then 
+remain between high pressure to the west and low pressure 
+developing east of New England on Friday. The low should slowly 
+pull away from New England on Saturday.
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+Some heavier showers working across NE NJ with weak instability
+in a deep-layered southerly flow. This activity will continue 
+to work up from the south during the day and then ever so slowly
+translate east. Brief downpours are possible but storm movement
+will be south to north as 25 mph. Will have to watch for some 
+training of cells, but deep convection is unlikely today so not
+expecting high hourly rates.
+
+Only weak instability this afternoon so only have a slight 
+chance thunderstorms where the models show this instability, 
+which is within the western half of the region.
+
+SE winds stabilize surface layer with cooler temperatures overall. 
+However, noting temperatures a little above MOS initially so went 
+with NBM for the high temperature forecast which seems plausible 
+given sufficient diurnal warming this morning into early afternoon 
+before more showers develop. Upper 60s to lower 70s for the high 
+temperature forecast for most locations but relatively cooler along 
+the southern half of Long Island and NYC, which are more in the 
+low to mid 60s.
+
+&&
+
+.SHORT TERM /6 PM THIS EVENING THROUGH TUESDAY NIGHT/...
+Cutoff upper level low continues to approach from the west.
+Continued southerly lower to upper level flow will be parallel.
+Omega increases. 
+
+With synoptic lift increasing and some time periods where there
+will be more elevated instability, especially Monday night
+through Tuesday, there will be more coverage of showers and
+thunderstorms. 
+
+Tonight showers continue but not expecting too much heavy
+rainfall. Instability lowering so no thunderstorms tonight.
+There will be more low clouds and fog. Uncertain how dense or
+extensive the fog gets. Kept fog with patchy coverage. Less rain
+than forecast will probably lead to more extent of fog and
+increase the possibility for some dense fog for some locations.
+
+Monday is when the rain showers become more widespread and this
+is expected to continue Monday night through Tuesday.
+Combination of highest synoptic forcing and relatively more
+instability will lead to a greater chance for heavy rain as well
+especially for any thunderstorms that develop. Parallel flow
+from lower to upper levels will lead to training of convection
+allowing for multiple rounds of heavy showers and thunderstorms.
+
+Synoptic forcing decreases Tuesday night with highest positive
+vorticity advection areas shifting east of the area as upper
+level low center moves in. Low levels not expected to be as
+unstable also, so less heavy rain potential. However, still have
+rain showers in the forecast.
+
+Monday night both winds at 925mb and 250mb increase and are 
+southerly. They both have some easterly component.
+
+Tuesday, showers linger and could potentially be heavy as right
+rear quad of upper level jet moves into the region.
+
+Divergence increases Monday into Tuesday with the upper level 
+winds increasing.
+
+Regarding temperatures, for tonight used a combination of MAV
+and MET MOS as well as the NBM. Then blended in more raw data
+for Monday through Tuesday night as diurnal temperature
+differences become smaller.
+
+&&
+
+.LONG TERM /WEDNESDAY THROUGH SATURDAY/...
+Upper level low and weak sfc reflection pass through on Wed with 
+chance of showers. An upper trough digging SE from Ontario and 
+Quebec in their wake will send a cold front through on Thu with 
+another chance for showers. The trough is progged to close off over 
+the Northeast Fri into Sat, with a developing weak sfc low SE of 
+Long Island on Fri pivoting to E of New England. With the upper low 
+and associated cold pool aloft/low level cyclonic flow have partly 
+cloudy skies and slight chance for showers for both Fri/Sat. 
+
+Above normal temps on Wed should return to near normal on Thu and a 
+few deg below normal on Fri. Temps on Sat could moderate to a few 
+deg above normal, but this will depend on how quickly the upper low 
+pulls away on Sat. If slower to exit temps on Sat could be more 
+similar to those fcst for Fri.
+
+&&
+
+.AVIATION /15Z SUNDAY THROUGH THURSDAY/...
+Frontal boundary shifts north today. Showers develop and 
+gradually make their way farther east within the region this 
+afternoon into tonight.
+
+Mainly VFR with MVFR conditions increasing with the chance of 
+rain showers this afternoon. Higher chance of IFR and localized 
+LIFR tonight.
+
+Winds remain southerly through today and then become more easterly 
+tonight. Wind speeds vary from near 5 kts to near 15 kts. Some gusts 
+can be expected between 20-25 kt at times although this is not 
+expected to be widespread. Wind speeds tonight lower to less 
+than 10 kts.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Amendments likely to refine timing of showers and 
+thunderstorms.
+
+.OUTLOOK FOR 15Z MONDAY THROUGH THURSDAY...
+
+Monday: Showers likely with MVFR or lower expected. A chance of
+tstms mainly at night. E winds G15-20kt. 
+
+Tuesday: Showers with MVFR or lower expected. A chance of  
+thunderstorms. SE winds G15-20kt day into early eve possible.
+
+Wednesday: Chance of MVFR or lower with a slight chance of 
+showers/thunderstorms.
+
+Thursday: VFR.
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Expecting all waters to remain below SCA this morning and 
+through Monday morning. Thereafter, SCA potential increases 
+through Tuesday night on the ocean as forecast seas reach near 5
+to 6 ft at times.
+
+Quiet for Wed/Thu with winds/seas below SCA thresholds.
+
+&&
+
+.HYDROLOGY...
+Marginal flash flood risk for much of the area through early
+this week. Hourly rain rates at times could reach near 1 inch in
+1 hour. Isolated flash flooding possible. Layer precipitable
+water reaches near 1.5 inches.
+
+Total rainfall forecast from this afternoon through Tuesday
+evening is near 2 to 3.5 inches. Locally higher amounts will be
+possible. 
+
+Current forecast shows enough time period to keep flash flood
+risk marginal. Would expect a relatively greater chance of minor
+nuisance flooding in the low lying, urban, and other poor
+drainage areas.
+
+No hydrologic concerns mid to late this week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...BG/JM/DW
+NEAR TERM...JM/DW
+SHORT TERM...JM
+LONG TERM...BG
+AVIATION...20/JM
+MARINE...BG/JM
+HYDROLOGY...BG/JM

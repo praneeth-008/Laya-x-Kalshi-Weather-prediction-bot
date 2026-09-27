@@ -1,0 +1,191 @@
+654 
+FXUS61 KOKX 170506
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1206 AM EST Mon Feb 17 2025
+
+.SYNOPSIS...
+Deepening low pressure moving into the Canadian Maritimes will
+become nearly stationary late tonight through Monday. Strong high
+pressure over South Central Canada gradually build into the region
+through Wednesday. Low pressure will move off the Southeast coast
+Wednesday night and pass well south and east on Thursday. 
+High pressure will build from the west on Friday and into 
+next weekend. 
+
+&&
+
+.NEAR TERM /UNTIL 6 AM MONDAY MORNING/...
+Cold front is well east, with BKN-OVC stratocu field covering
+most of the area attm. With cold advection and strong gradient
+westerly flow, gusts are still expected to reach 45 to near 55 
+mph at times. 
+
+&&
+
+.SHORT TERM /6 AM MONDAY MORNING THROUGH TUESDAY/...
+A Wind Advisory continues through Monday afternoon. By late day
+winds at the top of the mixed layer will begin to diminish, 
+and cold advection will be weakening. However, gusty west flow 
+will be continuing into Tuesday as high pressure builds slowly 
+into the region.
+
+Cold air will remain over the region with temperatures Monday
+and Monday night 5 to 10 degrees below normals, and with highs
+Tuesday remaining in the 20s, temperatures will ne near 15
+degrees below normal.
+
+&&
+
+.LONG TERM /TUESDAY NIGHT THROUGH SUNDAY/...
+* The potential continues to decrease for a winter storm in the
+  Wed night - Thu night time frame. 
+
+A 1050-1054 mb Arctic high continues to nose in from the north 
+and west Tuesday night, keeping the region dry through the day 
+Wednesday. As the Arctic air moves south, a baroclinic zone 
+sets up over the southern states, allowing low pressure to begin
+to take shape. This low then treks east along the gulf states, 
+and ejects off the Southeast US coast Wednesday night, then 
+tracks northeast into Thursday, pulling away from the area 
+Thursday night.
+
+With the current deterministic model suite, most models track the 
+low well east of the 40/70 benchmark. Current NBM forecast also 
+shows an all snow forecast. However, these models have a storm 
+track much farther east than in previous forecast runs, pushing 
+more moisture out to sea with it. As such, the chances for a 
+significant winter storm have decreased. 
+
+The low will moves northeast Thursday night into Friday while 
+high pressure builds from the west. This high will remain west 
+of the area through much of the weekend, providing dry but cold
+conditions. 
+
+&&
+
+.AVIATION /06Z MONDAY THROUGH FRIDAY/...
+Deepening low pressure moving into the Canadian Maritimes will
+become nearly stationary late tonight through Monday. Strong high
+pressure over South Central Canada gradually build into the region
+
+BKN VFR cigs expected through much of the day on Mon, with W 
+winds sustained 20-30 kt with gusts 35-45 kt. Winds slowly
+diminish after sunset. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No unscheduled AMD expected. 
+
+.OUTLOOK FOR 00Z TUESDAY THROUGH FRIDAY...
+
+Monday night: VFR. W winds G30-35kt early, diminishing 
+after midnight. 
+
+Tuesday: VFR. W winds G25 kt. 
+
+Wednesday: VFR. 
+
+Wednesday night: Chance of snow with MVFR or IFR vsby. 
+
+Thursday: Snow likely with MVFR/IFR cond. NW winds G20-25kt, 
+mainly afternoon/evening. 
+
+Friday: VFR. NW winds G20kt. 
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Storm Warning remains in effect for the ocean waters into early
+Monday afternoon. Gale Warnings remain on the non ocean waters 
+through Monday evening, except through Monday night for the 
+eastern Long Island Sound, and the eastern Long Island bays.
+
+Once the storm warning ends on the ocean waters, gales will be 
+likely into Monday evening, except on the eastern ocean waters
+where gales will be likely through Monday night.
+
+These strong winds are associated with a deepening low that
+tracks northeast tonight and remains over the Canadian
+Maritimes late tonight through Monday, with a cold frontal 
+passage across the waters this evening with a west flow.
+
+With cold air moving into the forecast waters tonight, and
+remaining into at least Tuesday, and in combination of strong
+winds and high seas, there is a chance of light freezing spray
+Monday night through Tuesday. At this time with the light 
+freezing spray ice accretion per hour is expected to remain 
+below 0.3 inches per hour, and a Freezing Spray Advisory is not 
+likely to be needed.
+
+Also, with the strong westerly flow driving water offshore,
+tidal departures will be approaching low water thresholds 
+across the south shore back bays, especially for the late day 
+Monday and early Tuesday low tide cycles.
+
+Winds of 25 to 30 kt continue Wednesday night for all waters, 
+but diminish as the night progresses. Non ocean waters should 
+fall below 25 kt late at night, but ocean waters may hang on to 
+some 25 kt gusts through daybreak Wednesday. Thereafter, winds 
+remain below SCA criteria through Wednesday night. A coastal 
+storm may impact the waters on Wednesday night into Thursday, 
+and 25 kt gusts may come back into the picture for ocean waters 
+Thursday into Thursday night, but this is dependent on the storm
+track, which has been progressing farther east with each run. 
+If this trend continues, the higher gusts may push east as well.
+
+Ocean seas 4-7 ft Tue night diminish through the night, and 
+should fall below 5 ft on all ocean waters at or just after 
+daybreak Wed. The central Sound may see some 5 ft waves as 
+well, but should fall below 5 ft around or just after midnight. 
+Waves then remain below 5 ft through Thursday, but build to 5 to
+7 ft Thursday night. Waves diminish Thursday night into Friday.
+Again, this would all be dependent on the track of the low
+moving offshore. 
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts are expected into the beginning of next
+weekend.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+A long duration period of strong offshore (westerly) flow may
+cause a few spots to experience low water conditions around 
+the times of low tide into Tue evening, mainly along Raritan 
+Bay, the north shore of Nassau and western Suffolk, and possibly
+the bays of Long Island, with water levels as low as 2 feet
+below MLLW. A low water advisory may eventually be issued if 
+water levels fall much more beyond that.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Wind Advisory until 6 PM EST Monday for CTZ005>012.
+NY...Wind Advisory until 6 PM EST Monday for NYZ067>075-078>081-
+     176>179.
+NJ...Wind Advisory until 6 PM EST Monday for NJZ002-004-006-103>108.
+MARINE...Gale Warning until 6 AM EST Tuesday for ANZ331-332-340.
+     Gale Warning until midnight EST Monday night for ANZ335-338-
+     345.
+     Storm Warning until 1 PM EST Monday for ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...BG/JP/MET
+NEAR TERM...BG/MET
+SHORT TERM...MET
+LONG TERM...JP
+AVIATION...20/BG
+MARINE...BG/JP/MET
+HYDROLOGY...JP/MET
+TIDES/COASTAL FLOODING...BG

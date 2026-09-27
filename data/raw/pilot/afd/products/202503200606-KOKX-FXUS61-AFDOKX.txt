@@ -1,0 +1,192 @@
+732 
+FXUS61 KOKX 200606
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+206 AM EDT Thu Mar 20 2025
+
+.SYNOPSIS...
+High pressure shifts offshore overnight ahead of a low pressure
+system that will slowly approach from the west. Low pressure 
+and the attendant cold front move through the area Thursday 
+night with high pressure briefly following for Friday into 
+Saturday before a weak area of low pressure passes through 
+Saturday night. High pressure then returns Sunday, with another 
+frontal system expected to move through early next week.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM THIS MORNING/...
+For this update have increased and sped up low cloud coverage
+with advection of maritime layer off the ocean. Have lowered
+vsbys for the remainder of the overnight period, except for
+interior locations as there remains doubt as to how far inland
+(NW) low stratus and fog can get. Have upped fog wording to
+areas and may eventually need an SPS, or perhaps even a dense
+fog advisory across SE locations if lower vsbys materialize.
+Will take a wait and see approach these next few hours. Previous
+discussion follows.
+
+The combination of subsidence from high pressure aloft, diurnal
+cooling, and ESE winds will allow both the development and the 
+WNW progression of stratus and fog. Deepening low level moisture
+and at least minimal vertical ascent may additionally support 
+patchy drizzle, primarily for areas closer to the coast.
+
+Minimum temperatures will be about 10 degrees above climatological 
+normals, ranging from the mid to upper 30s inland, to mid 40s across 
+NYC.
+
+&&
+
+.SHORT TERM /6 AM THIS MORNING THROUGH 6 PM FRIDAY/...
+Increased cloud cover, fog, and drizzle may persist into the morning 
+beneath the subsidence inversion as low level flow generally remains 
+onshore. High temperatures will be cooler than the previous few 
+days, generally in the upper 40s to 50s closer to the coast and 
+closer to 60 across New Jersey and the Lower Hudson Valley.
+
+As the day progresses, phasing upper systems will strengthen 
+meridional flow aloft, allowing for moisture advection ahead of
+an approaching cold front. Although precipitable water values 
+will approach the 90th percentile for time of year, the 
+progressive nature of the front will generally keep rainfall 
+accumulations under an inch Thursday night. Cold advection 
+following the departing front may lead to a brief period of snow
+across interior portions of the Lower Hudson Valley, but 
+probabilities of occurrence remain at or below about 10 percent.
+Would not expect much if any accumulation if snow does occur. 
+
+Following the front, flow strengthens between the departing system 
+and building high pressure allowing for a blustery day. Although 
+highs will be close to climatological normals in the upper 40s to 
+lower 50s across the area, breezy winds will make temperatures feel 
+much cooler.
+
+&&
+
+.LONG TERM /FRIDAY NIGHT THROUGH WEDNESDAY/...
+High pressure builds in Friday night and weakens during Saturday as 
+an upper shortwave and surface trough shift through during the 
+afternoon to evening hours. Slight (20%) chance of a shower for the 
+NW half of the forecast area during Saturday afternoon, otherwise 
+dry Friday night through Saturday night. Above normal high 
+temperatures for Saturday, mostly 55-60. A cooler air mass follows 
+for Sunday as high pressure builds in from the NW. Highs near normal 
+at around 50.
+
+500mb trough and attendant surface low then move through the western 
+Great Lakes Region during Sunday night. Lift ahead of an approaching 
+warm front to the south interacts with increasing moisture for a 
+chance of rain after midnight. For areas north of the city, thermal 
+profiles would support snow or a wintry mix. Rain is then likely 
+(70% chance) on Monday and Monday night with the warm front lifting 
+through the region during the day, followed by a cold front at 
+night. Impacts so far appear to be very limited as the 
+convective/heavy rain/wind threats are minimal.
+
+Weak high pressure is left in the wake of the storm system for 
+Tuesday, and it remains weak on Wednesday with another 500mb trough 
+moving in. Will go with a dry forecast for Tuesday, but there's a 
+slight chance for showers on Wednesday with cyclonic flow aloft and 
+enough mid-level moisture. The sub-cloud layer may however be too 
+dry to support anything reaching the ground.
+
+&&
+
+.AVIATION /06Z THURSDAY THROUGH MONDAY/...
+High pressure gradually moves off the New England coast today,
+with a cold front approaching this evening and crossing the area
+tonight.
+
+LIFR, patchy VLIFR, in low stratus, drizzle and fog will 
+continue to overspread the area from e to w early this morning.
+Gradual improvement to IFR likely during the mid to late morning,
+with MVFR conds possible for NYC/NJ metro terminals in the 
+afternoon. IFR likely holds for south facing coastal terminals, 
+possibly even kJFK/kHPN, through the day, with a return to LIFR
+likely for the eve push. Rain likely between 00z and 09z for 
+NYC/NJ metro terminals with IFR conds, 1-2 hrs later for eastern
+terminals. Conds improving to VFR late tonight in its wake. 
+
+SE winds less than 10 kt through the AM push, increasing in the
+aft/eve with gusts around 20 kt possible. Winds and gusts
+briefly weaken with frontal passage, shifting WNW 15g25kt in its
+wake after 06z.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+IFR/LIFR likely for AM push. Timing of improvement may be off 
+by 1-3 hours.
+
+.OUTLOOK FOR 06Z FRIDAY THROUGH MONDAY...
+
+Late Tonight: Rain showers tapering off with conds improving to
+MVFR/VFR. NW winds 15G20-25kt.
+
+Friday: VFR. NW winds G30-40kt through the afternoon. NW gusts 
+20-25 kt in the evening. 
+
+Saturday: VFR. Chance of MVFR and showers, particularly NW of 
+NYC in aft/eve. SW winds G25-30kt in the aft, becoming W/NW in 
+the eve.
+
+Sunday: VFR. NW winds G20kt.
+
+Monday: IFR with rain likely. 
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Have hoisted marine dense fog adv for all zones through 15z for
+reduced vsbys. Sub small craft conditions will persist 
+overnight before ocean seas begin to gradually increase 
+beginning Thursday morning. Small craft seas should prevail by 
+afternoon with a SE wind around 15 kts late in the day and 
+evening. Low pressure and its associated frontal system pass 
+through Thursday night with an abrupt shift in winds that will 
+gust to gales from the NW into Friday. Winds and seas then 
+subside through Friday night with advisory conditions, but 
+perhaps a gust or two to gale force across the eastern ocean 
+waters early on. Sub- advisory conditions otherwise prevail by 
+Saturday morning, however increasing winds from the SW probably 
+push ocean seas back up over 5 ft Saturday afternoon into 
+Saturday night. A few gusts to 25 kt will also be possible for 
+some of the non-ocean waters Saturday night. Winds then subside 
+once again on Sunday with sub-advisory conditions Sunday 
+afternoon through Monday morning. Winds increase Monday 
+afternoon with SCA conds likely at least on the ocean.
+
+&&
+
+.HYDROLOGY...
+At this time no hydrologic impacts are expected throughout the 
+forecast period.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Dense Fog Advisory until 11 AM EDT this morning for ANZ331-332-
+     335-338-340-345-350-353-355.
+     Gale Watch from Friday morning through Friday afternoon for 
+     ANZ331-332-335-338-340-345-350-353-355.
+     Small Craft Advisory from 8 AM this morning to 6 AM EDT Friday 
+     for ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JC/MD
+NEAR TERM...MD/JE
+SHORT TERM...MD
+LONG TERM...JC
+AVIATION...NV
+MARINE...MD/JE
+HYDROLOGY...JC/MD

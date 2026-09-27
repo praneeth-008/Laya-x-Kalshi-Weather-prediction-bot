@@ -1,0 +1,168 @@
+735 
+FXUS61 KOKX 110755
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+355 AM EDT Tue Mar 11 2025
+
+.SYNOPSIS...
+High pressure will be mostly in control of the weather through 
+Thursday. Meanwhile, a cold front passes through tonight, then a
+weak wave of low pressure passes to the south Thursday into
+early Friday. The region will then be in between high pressure 
+in the Western Atlantic and approaching developing low pressure 
+to the west heading into next weekend.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM THIS MORNING/...
+Another sunny and mild day for today with high pressure in control. 
+900mb temps are similar to yesterday's levels, but an ongoing flow 
+off the area waters will result in cooler high temperatures compared 
+to yesterday over Long Island, much of southern CT, and parts of the 
+city. Elsewhere, high temps at or a little above yesterday in most 
+cases. This will lead to some 70 degree readings in parts of NE NJ, 
+55-60 along south-facing shores, and 60s for the remainder of the 
+forecast area. 
+
+A cold front passes through tonight, but lacking moisture. Only some 
+clouds with its passage, and there may be some low stratus that 
+sneaks in along the south shore of Suffolk County tonight ahead of 
+its passage.
+
+&&
+
+.SHORT TERM /6 AM THIS MORNING THROUGH THURSDAY NIGHT/...
+High pressure stretches south from Quebec on Wednesday, bringing us 
+a cooler air mass with a northerly flow turning east by late in the 
+day. This along with subsidence will limit the mixing depth, so high 
+temperatures will be generally 50-55, which is still around 5 
+degrees above normal. Shortwave with some moisture may combine for 
+some light showers for the southern half of the area and mixed rain 
+and snow showers for the northern half during Wednesday night. 
+Precip chances are low however, capped at 30 percent. 
+
+Looks like we'll be stuck with plenty of clouds during Thursday as 
+an easterly wind persists, helping to lock in lower level moisture. 
+In addition, a weak wave of low pressure forms along a stationary 
+front to our south. Associated isentropic lift could help produce 
+some drizzle in the afternoon and night. The clouds and onshore flow 
+will hold high temps in the 45-50 degree range.
+
+&&
+
+.LONG TERM /FRIDAY THROUGH MONDAY/...
+High pressure moves into the Canadian Maritimes Thursday while at 
+the same time a weak low over the eastern Great Lakes region 
+transitions into an inverted trough as it moves across the forecast 
+area. Much of the area can expect a slight chance for showers as 
+this feature weakens while it moves across the area and much of any 
+dynamics remains mainly north of the area. Low end chance for 
+eastern areas as this looks to interact with another trough 
+offshore. 
+
+With weak high pressure over the region Friday into the first half 
+of the weekend, and weak ridging aloft, conditions are expected to 
+be dry Friday and mainly dry for Saturday (some uncertainty with 
+timing of the next system could bring in some showers for Saturday). 
+However, better chances for late Saturday night into Sunday as a 
+more amplified pattern develops. A stronger low approaches with a 
+strengthening cold front bringing the potential for moderate to 
+briefly heavy rain and gusty winds with strong meridional flow ahead 
+of it. There are of course a fair amount of timing issues this far 
+out, so confidence is rather low in any features that might 
+contribute to heavy rain.
+
+Temperatures are expected to be above average through the period. In 
+fact, temperatures Saturday night into Sunday morning may not drop 
+below the middle 50s for areas away from the coast, while highs on 
+Sunday could reach the middle 60s across northeast NJ. For context 
+on how warm lows will be Saturday night into Sunday, normal high 
+temperatures this time of year are in the upper 40s to near 50.
+
+&&
+
+.AVIATION /08Z TUESDAY THROUGH SATURDAY/...
+High pressure remains in control through today. A cold front 
+approaches late today and passes through the terminals this 
+evening.
+
+VFR. 
+
+Winds mainly light and variable to a light S flow. A south flow 
+develops Tuesday morning, increasing to around 10 kt early to 
+mid afternoon. Gusts are possible away from the coast, up to 20 
+kt, for a few hours Tuesday afternoon, and most likely at KSWF 
+with gusts up to 25 kt.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No unscheduled amendments expected.
+
+.OUTLOOK FOR 06Z WEDNESDAY THROUGH SATURDAY...
+
+Tonight-Wednesday: VFR. S/SW winds early this evening shift to 
+W/NW less than 10 kt with a cold front passage by late tonight.
+
+Wednesday night-Thursday: MVFR or lower possible. Slight chance
+of a rain shower along the coast, and snow showers inland 
+Wednesday night.
+
+Friday: VFR.
+
+Saturday: Mainly VFR. Slight chance of rain showers. 
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90 
+
+&&
+
+.MARINE...
+Sub-advisory conditions prevail through tonight. A persistent onshore 
+flow along with a weak wave of low pressure passing nearby to the 
+south may generate enough swell to push seas over 5 ft Wednesday 
+night through Thursday night. Winds otherwise should remain below 25 
+kt across all waters through this period.
+
+Onshore flow Thursday will allow ocean waters to build to 5 ft 
+(mainly the central and eastern zones). They fall below 5 ft late 
+Thursday night and remain below SCA criteria through Friday night.
+
+&&
+
+.FIRE WEATHER...
+Min RH of 25-30 percent with a few wind gusts possible approaching 
+20 mph brings an elevated risk of fire spread today for portions of 
+the Lower Hudson Valley and southern CT. SPS has been coordinated 
+for these locations. RH should be higher across coastal SE CT, as 
+well as from NYC to Long Island with the flow off the area waters.
+
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts expected into the beginning of next
+weekend. There is some potential for heavy rain on Sunday, but 
+it is much too early to offer specific details.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JC/JP
+NEAR TERM...JC/JP
+SHORT TERM...JC
+LONG TERM...JP
+AVIATION...JP
+MARINE...JC/JP
+FIRE WEATHER...
+HYDROLOGY...JC/JP

@@ -1,0 +1,188 @@
+712 
+FXUS61 KOKX 260154
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+954 PM EDT Sun May 25 2025
+
+.SYNOPSIS...
+Low pressure near the Canadian Maritimes continue departing
+into Monday. High pressure settles over the area on Monday and 
+then gradually shifts offshore on Tuesday into Tuesday night.
+A series of low pressure systems move through the region 
+for the remainder of the week and into next weekend.
+
+&&
+
+.NEAR TERM /THROUGH MONDAY/...
+Added isolated sprinkles to the forecast for the next few hours,
+otherwise the forecast is mainly on track. 
+
+Cyclonic flow remains aloft through tonight as the upper low 
+that has impacted our weather only slowly moves east over the 
+Maritimes. Clouds diminish overnight and winds continue to
+weaken as the pressure gradient weakens. Lows will range from 
+the upper 40s inland to the lower 50s closer to coast.
+
+The upper low moves farther out to sea on Monday. There still
+be will be some influence from cyclonic flow aloft, but ridging
+starts building towards the area with heights rising. Amount of
+cloud cover should be a bit less than recent days, but still 
+anticipate scattered to broken stratocu late morning into the 
+afternoon. Have kept the forecast dry as instability is lacking,
+but a brief sprinkle cannot be ruled out across inland 
+locations. Winds will be much weaker with high pressure settling
+overhead along with weak afternoon sea breezes. Highs should be
+able to reach close to normal levels in the lower 70s.
+
+&&
+
+.SHORT TERM /MONDAY NIGHT THROUGH TUESDAY NIGHT/...
+High pressure remains in control Monday night, leading to
+another cool night but closer to seasonable levels. Lows look 
+to fall into the upper 40s and low 50s inland with middle to 
+upper 50s closer to the coast. 
+
+Ridging will continue building towards the area on Tuesday
+in response to the next upper low/trough amplifying over the 
+northern Plains. The ridge should remain overhead Tuesday night 
+as a shortwave well ahead of the upper low approaches. The ridge
+will keep the region dry Tuesday into Tuesday night. However, 
+mid and upper level moisture increases late Tuesday into Tuesday
+night. This will be increasing cloud cover, especially Tuesday 
+night. Otherwise, dry and seasonably warm conditions are 
+expected Tuesday with highs in the lower to middle 70s. The 
+increasing clouds should bring a milder Tuesday night with lows 
+in the 50s across the region.
+
+&&
+
+.LONG TERM /WEDNESDAY THROUGH SUNDAY/...
+Upper levels exhibit a ridge moving east of the region
+Wednesday into Wednesday night. A series of troughs then move 
+through Thursday into the next weekend. On the large scale, a 
+longwave trough takes shape over the Northeast for the latter 
+half of the week.
+
+For the middle to late portion of next week, a series of
+low pressure areas will be approaching at the surface. A weak 
+low approaches from the Mid-Atlantic with its associated warm 
+front Wednesday into Thursday. Easterly flow at the surface is 
+forecast, which will keep temperatures cooler during the day.
+
+The warm front shifts east of the region Thursday into Thursday 
+night along with the low pressure. Surface winds become more
+south to southwest. Another low pressure system will be 
+approaching from the west along with an associated cold front 
+Friday into Friday night. For the weekend, another area of low 
+pressure approaches the region.
+
+Rain is in the forecast throughout the long term. However, this
+is expected to be in the form of showers and probabilities for 
+these are mostly between 30 and 50 percent. Higher probabilities
+are for Wednesday night into early Thursday with some likely 
+POPs for western portions of the region. 
+
+Rain is not expected the entire timeframe of the long term but
+the chances each day are due to the quick succession of 
+consecutive low pressure area passages mid through late week. 
+Slight chance of thunderstorms is in the forecast Thursday 
+through Saturday. GFS and ECMWF models indicate increases in low
+level instability but have differences in timing when the 
+relatively more unstable forecast conditions are in place across
+the local area. The model differences are also apparent with 
+position and timing of low pressure and upper level troughs.
+
+Forecast daytime temperatures during the long term are cooler
+than normal Wednesday and Thursday with high temperatures more 
+in the 60s and then are close to normal Friday and into the 
+weekend as high temperatures reach more into the 70s. Low 
+temperatures are mostly in the 50s.
+
+&&
+
+.AVIATION /02Z MONDAY THROUGH FRIDAY/...
+High pressure builds in tonight through Monday.
+
+VFR.
+
+NW winds under 10 kt tonight veering N Monday morning, followed
+by afternoon sea breezes. Winds should remain at around 10 kt or
+less.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No unscheduled amendments expected. Sea breeze timing may be off
+by 1-2 hours, and there is a chance that sea breezes don't 
+reach KLGA/KEWR/KTEB.
+
+.OUTLOOK FOR 00Z TUESDAY THROUGH FRIDAY...
+
+Monday night-Tuesday: VFR.
+
+Wednesday-Friday: MVFR likely. IFR possible Thursday. Chance of
+showers.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Winds and seas will remain below SCA levels through mid week 
+with a relatively weak pressure gradient in place. 
+
+Conditions on the waters remain below SCA thresholds in the marine 
+forecast Wednesday but trend to marginal SCA conditions on the ocean 
+for Wednesday night. Non-ocean zones for the rest of forecast are 
+below SCA thresholds. SCA seas remain on the ocean in the forecast 
+Thursday through Friday, although Friday has oceans near 5 ft east 
+of Fire Island Inlet. Gusts up to 20 kt are expected Thursday and 
+Friday on all waters. Some occasional gusts up to 25 kt will be 
+possible. Marine forecast has below SCA conditions in store for 
+Friday night.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts expected through next weekend.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+There is potential for localized minor coastal flooding tonight 
+into early next week during times of high tide. A new moon will
+occur Monday evening, causing areas to need as little as 1/4 ft
+of tidal departure for minor coastal flooding. Water levels may
+just touch or fall short of minor flooding benchmarks along the
+western CT coast with tonight's high tide. It continues to look
+marginal and have held off on the issuance of a coastal flood
+statement. There is a higher chance of localized minor flooding
+across the Western Sound and south shore back bays with Monday 
+evenings high tide. 
+
+There is a low rip current risk for Memorial Day as swells 
+continue to subside with light winds. The rip current risk 
+remains low for Tuesday with light winds and subsiding seas.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JM/DS
+NEAR TERM...JC/JM/DS
+SHORT TERM...DS
+LONG TERM...JM
+AVIATION...JC
+MARINE...JM/DS
+HYDROLOGY...JM/DS
+TIDES/COASTAL FLOODING...

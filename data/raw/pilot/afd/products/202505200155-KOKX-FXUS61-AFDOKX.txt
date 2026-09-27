@@ -1,0 +1,200 @@
+883 
+FXUS61 KOKX 200155
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+955 PM EDT Mon May 19 2025
+
+.SYNOPSIS...
+Weakening high pressure over the Great Lakes and Ohio Valley 
+states will build slowly east tonight and into the area on 
+Tuesday. The high then slowly starts to give way to a broad area 
+of low pressure approaching from the southwest Tuesday night into 
+Thursday. The low then moves northeast and into the Canadian 
+Maritimes Thursday night through Saturday. Weak high pressure then
+builds in Saturday night through Monday.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM TUESDAY MORNING/...
+N/NW winds will gradually subside overnight with most locations
+losing gusts by the early morning hours. Coastal locations may
+see occasional gusts to around 20 mph linger until around 
+daybreak. Cloud cover has been a bit more extensive than 
+forecast across much of eastern CT and the twin forks of LI. 
+Much of the guidance doesn't seem to be handling it well and 
+used a blend of the 18Z NAM and GFS overnight versus the model 
+consensus solutions (NBM, CONSALL/SHORT). This cloud cover may 
+linger into Tuesday as it gets trapped beneath a subsidence 
+inversion. 
+
+Temperatures are expected to range from the lower 40s to the lower 
+50s.
+
+&&
+
+.SHORT TERM /6 AM TUESDAY MORNING THROUGH TUESDAY NIGHT/...
+Winds continue to diminish Tuesday with weak high pressure over the 
+area. Expect any northerly winds to become light and variable 
+by late morning or early afternoon. It should be a mostly sunny 
+day, however a weak shortwave that passes northeast of the area 
+may bring some increased cloudiness to the eastern portions of 
+the CWA. 
+
+The weak high over the area slides east late Tuesday into Tuesday 
+night. This will allow a weather system over the middle portion of 
+the country to approach the area. Expect an increase in cloud cover 
+Tuesday night. It should remain dry Tuesday night, however some 
+light rain will be possible towards daybreak across the western edge 
+of the area. 
+
+High temperatures on Tuesday will be in the middle and upper 60s, to 
+lower 70s. Tuesday night lows fall into the upper 40s and lower to 
+middle 50s.
+
+&&
+
+.LONG TERM /WEDNESDAY THROUGH MONDAY/...
+Global models in general agreement regarding the h5 pattern through 
+the long term. A ridge over us on Wednesday flattens as a closed low 
+slowly moves from the northern Great Lakes Region eastward through 
+the Northeast through this weekend, then into the Canadian Maritimes 
+on Monday. This will bring us an extended period of rain threat with 
+the greatest chances occurring Wednesday afternoon through Thursday 
+evening.
+
+At the surface, a double-barreled low moves closer to us from the 
+south and west on Wednesday. The circulation center emerging off the 
+Mid-Atlantic Coast during Wednesday night strengthens and eventually 
+passes not too far offshore during Thursday. Rain slowly overspreads 
+the forecast area from SW to NE across the area through the day 
+Wednesday. Rainfall then looks to be more on the moderate side in 
+terms of intensity Weds night into Thurs morning as a low level jet 
+enhances lift, coinciding with time that the deepest moisture is 
+shifting through as indicated by forecast PWATs. See the hydrology 
+section below for potential impacts with this system. Rain chances 
+then drop off during Thursday night as the low continues on its NE 
+path towards Nova Scotia. A cyclonic flow aloft with occasional 
+shortwaves passing through keeps the threat of a shower on Friday, 
+which afterwards may be more diurnally-driven for both days this 
+weekend as well as on Monday.
+
+NBM looked reasonable for temperatures through the long term. Cooler 
+than normal Weds-Friday, then warming to near normal this weekend.
+
+&&
+
+.AVIATION /01Z TUESDAY THROUGH SATURDAY/...
+Low pressure over the Canadian Maritimes will track slowly
+southeast out into the western Atlantic, while weak high
+pressure builds in from the west. 
+
+Mainly VFR thru the TAF period. Brief MVFR possible at KGON
+Tuesday morning. MVFR ceilings may begin to work into the 
+eastern terminals after 00Z Wednesday and around 06Z or later
+at the NYC and Lower Hudson Valley terminals. 
+
+NW-N wind gusts 25-30kt will gradually diminish with many of 
+the terminals losing gusts by 06Z. However, coastal locations 
+may see gusts up to 20kt linger through daybreak. N winds around
+10kt to start on Tuesday will weaken through the day and veer 
+around to the NE in the afternoon. However, the flow could 
+weaken enough for seabreeze development. Thus, there is lower 
+confidence in wind direction at the coastal terminals Tuesday 
+afternoon.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Chance of an afternoon seabreeze Tuesday, but low confidence at
+this time.
+
+.OUTLOOK FOR 00Z WEDNESDAY THROUGH SATURDAY...
+
+Tuesday Night: MVFR likely developing from west to east
+overnight. 
+
+
+Wednesday: MVFR or lower with rain developing from west to east
+through the day. E wind gusts up to 20kt.
+
+Thursday: MVFR or lower with rain, especially in the mrng. E winds 
+backing to the NE thru the day with gusts up to 30kt. Wind
+diminishing at night/
+
+Friday: MVFR or lower with a chance of showers. 
+
+Saturday: Chance of MVFR in showers. NW G15-20kt.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+With cold advection in the NW flow, have extended SCA on all
+waters through 4 AM. Airmass may stay better mixed for a bit 
+longer. Winds are expected to diminish below 25kt by this time 
+with sub-SCA conditions through at least Tuesday night.
+
+SCA conditions on most, if not all waters Wednesday through Thursday 
+as low pressure passes offshore with an east to northeast flow 
+increasing to 15-25kt with around 30kt gusts. Could be some gale 
+force gusts on the ocean as well during late Weds night into Thurs 
+morning, but not enough confidence at this time for a Gale Watch for 
+a late 4th into 5th period event. Seas probably remain elevated with 
+a residual swell for a period thereafter, so advisory conditions 
+probably continue into Friday on the ocean. Sub-advisory conditions 
+then follow for Saturday.
+
+&&
+
+.HYDROLOGY...
+Rainfall from Wednesday through Thursday night is anticipated to be 
+in the range of mostly an inch to 1.5 inches with locally higher
+amounts possible. The rainfall will probably be at its heaviest
+during Wednesday night into Thursday morning. Impacts will most
+likely be limited to minor urban/poor drainage flooding and 
+perhaps small stream flooding as well. The flash flood threat 
+remains low when considering current flash-flood guidance values
+plus a lack of convection to enhance rainfall in only a modest 
+PWAT airmass. NBM could be underestimating rainfall amounts as 
+it did with last week's system, so can't completely rule out 
+isolated flash flooding. WPC continues with a marginal risk of 
+flash flooding during this period.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+A strengthening/persistent E-NE flow Wednesday through Thursday 
+should bring minor coastal flooding late this week. The two 
+high tide cycles of concern are late Wed night/early Thu morning
+and late Thu afternoon/early Fri evening. The first of these is
+lower astronomically and should bring only localized flooding 
+to some spots in/around the tidal waterways of NE NJ and Staten 
+Island, and along the south shore bays of Nassau County. The 
+second round should be widespread, with departures 2.0 to 2.5 
+ft, as winds appear more likely to remain NE through the day Thu
+and not back N until Thu night.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 4 AM EDT Tuesday for ANZ331-332-335-
+     338-340-345-350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...BC/JC/DW
+NEAR TERM...BC
+SHORT TERM...BC
+LONG TERM...JC
+AVIATION...DW
+MARINE...BC/JC/DW
+HYDROLOGY...JC
+TIDES/COASTAL FLOODING...

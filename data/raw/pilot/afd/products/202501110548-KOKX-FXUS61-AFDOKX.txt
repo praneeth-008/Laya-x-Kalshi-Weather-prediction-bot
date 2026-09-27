@@ -1,0 +1,185 @@
+896 
+FXUS61 KOKX 110548
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1248 AM EST Sat Jan 11 2025
+
+.SYNOPSIS...
+Low pressure passes well offshore late tonight into early
+Saturday. High pressure then builds in and settles Sunday 
+before pushing offshore Monday in response to an approaching 
+cold front. The cold front passes Monday night. High pressure 
+builds in again for the middle of next week. Another low from 
+Canada may approach Thursday into Friday.
+
+&&
+
+.NEAR TERM /THROUGH TODAY/...
+Low pressure continues to move across the southeast as southern
+stream energy rapidly pushes towards the coast. PVA aloft
+increases through early Saturday, which can already be seen with
+radar returns increasing to our southwest across the Middle
+Atlantic. At the same time, a northern stream shortwave dives
+southeastward towards the area. These systems do not phase until
+the associated low is well south and east of our area on
+Saturday. This will yield only light snow early Saturday
+morning, likely beginning by 4-5am city on west and then by 6-7
+am further east. Latest trends indicate the area of light snow
+will be fast moving and likely diminishes in coverage after 12z
+as the PVA and mid level lift decrease. Most of the area should
+be dry by around 14-15z with just a few lingering flurries out
+east. 
+
+Will keep the likely PoPs early in the morning as there is 
+still a high probability of measurable precip in the form of 
+light snow. Do not think snow to liquid ratios will be much 
+higher than 10:1-11:1 given the poor snow growth expected with 
+the weak lift. Snowfall accumulations look to be about a coating
+to under a half inch. Temperatures within the light snow look to be 
+in the upper 20s and to around 30. 
+
+Dry conditions prevail this afternoon, but it will likely 
+remain mostly cloudy as the northern stream trough and energy 
+swing across the area. Temperatures then rise into the low and 
+middle 30s for highs. NW winds will also increase with gusts to 
+around 20 mph possible late in the day.
+
+&&
+
+.SHORT TERM /TONIGHT THROUGH SATURDAY NIGHT/...
+The upper level trough axis will be just east of the area at 
+the start of Saturday night. High pressure starts building in at
+the surface and the pressure gradient across the area tightens.
+This will lead to a brief period of some gusty conditions 
+Saturday night. With gusty winds, effective radiational cooling 
+is not expected and stuck close to the NBM for lows.
+
+&&
+
+.LONG TERM /SUNDAY THROUGH FRIDAY/... 
+High pressure builds into the region at the surface as an 
+upper- level ridge centers itself overhead. Both of these 
+features push east offshore on Monday in response to a sfc and 
+upper-low approaching from the Great Lakes on Monday. 
+
+NW winds continue to weaken on Sunday turning W Sunday night as they 
+go light or calm then turning SW on Monday in response to high 
+pressure moving offshore. Dry, sunny weather is expected on Sunday 
+before increasing clouds late Sunday night into Monday. Temperatures 
+will be near seasonal values Sunday into Monday. Highs on Sunday and 
+Monday will be in the upper-30s to lower-40s. Lows Sunday night will 
+drop into the low to upper-20s.
+
+A dry front pushes through Monday night as weak low pressure passes 
+to the north. A trough digs an amplifies over the region Tuesday 
+into Tuesday night, moving offshore on Wednesday. The region will 
+then remain sandwiched in-between high pressure to the west and low 
+pressure to the east on Wednesday and Thursday.
+
+Blustery weather is expected to develop on Tuesday and remain 
+through at least Thursday due to a a tight pressure gradient. Winds 
+will not be as impactful as our recent stretch of gusty winds, but 
+still expected NW winds to gust 25-30 mph, at times during this 
+period. 
+
+Strong cold air advection takes place Monday night into Tuesday 
+following the frontal passage aided by a deepening trough and lower 
+heights. Highs will be around freezing (32F) to the upper-20s 
+Tuesday through Thursday. Lows each night will likewise be colder in 
+the low-20s to mid-teens. Given the gusty NW flow, wind chills will 
+be in the 20s to teens each afternoon, dropping to the single digits 
+each night. 
+
+While most of the long-term period is expected to be dry, there are 
+some hints in global guidance that a surface trough may extend 
+across the area Tuesday night into early Wednesday. Given dry air 
+entrenched in the area, its unlikely precip will develop along this 
+trough, but at least partly cloudy skies look likely. Some isolated 
+flurries can not be ruled out. Flurries have not added to the 
+official forecast, for now, given low confidence in flurries 
+actually occurring. 
+
+Thursday into Friday, most global models agrees on a weak low in 
+Canada nearing from Hudson Bay, but they vary on its location. Some 
+models keep high pressure in charge, while others bring the low 
+closer to the region, with light snow possible in this scenario. 
+Both scenarios would keep us under a somewhat tightened pressure 
+gradient with continued breezy conditions. Though overall, winds may 
+end up being a little weaker than what we see Tue through early
+Thu.
+
+&&
+
+.AVIATION /06Z SATURDAY THROUGH WEDNESDAY/...
+Weakening high pressure moves offshore by daybreak. Developing low 
+pressure will pass well south and east of the area early this 
+morning into Saturday. A weak surface trough extending north of the 
+low will pass through the area this morning.
+
+VFR through the overnight. A period of light snow is possible late 
+this overnight (towards 09z) into Saturday morning, which may bring 
+categories down to MVFR. Accumulation is expected to be limited to a 
+light coating (less than 0.5").
+
+The winds will be light and variable through the early morning. 
+Winds will then become NW towards late morning into the afternoon 
+with gusts up to 20 kt towards evening. Gusts likely continue into 
+the first half of the night before diminishing after 06-09Z.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Timing of light snow and MVFR conditions may vary by 1-2 hours.
+
+OUTLOOK FOR 06Z SUNDAY THROUGH WEDNESDAY...
+
+Saturday night: VFR. NW gusts 20 kt, gusts ending late.
+
+Sunday-Monday: VFR.
+
+Tuesday-Wednesday: VFR. NW wind gusts 20-30 kt possible.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+With the pressure gradient weakening over the area, winds and waves 
+have lowered and fallen below SCA criteria for the first time in 
+several days. Quiet conditions continue overnight through much 
+of Saturday before northwest winds pick back up again Saturday 
+night. As of right now, confidence is only high enough to issue 
+a SCA across the ocean waters. This may need to be expanded to 
+other waters by subsequent shifts. Gusts up to 25 kt and seas 
+3-4 ft are expected across the ocean Saturday night.
+
+SCA conditions are not expected Sun-Mon. Midweek next week, winds 
+may build to SCA levels on most waters.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory from 6 PM this evening to 6 AM EST Sunday 
+     for ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...BR/JT
+NEAR TERM...DS/JT/MW
+SHORT TERM...JT
+LONG TERM...BR
+AVIATION...JE/MW
+MARINE...BR/JT
+HYDROLOGY...BR/JT

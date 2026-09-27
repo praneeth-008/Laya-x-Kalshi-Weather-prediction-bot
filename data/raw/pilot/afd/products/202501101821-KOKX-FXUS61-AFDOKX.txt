@@ -1,0 +1,205 @@
+339 
+FXUS61 KOKX 101821
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+121 PM EST Fri Jan 10 2025
+
+.SYNOPSIS...
+High pressure to the west will gradually build across today. An 
+upper level disturbance pivots through Saturday while low pressure 
+down to the south pushes well offshore. High pressure settles south 
+of the region later in the weekend and then weakens as it moves 
+east on Monday. A cold front moves across early Tuesday followed
+by high pressure gradually building in from the west Wednesday 
+and Thursday.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+High clouds will gradually increase through the afternoon ahead
+of an amplifying upper trough digging into the Great Lakes,
+
+Some subtle height rises build across and this leads to the cP 
+air mass in place undergoing some further modification. Look for
+temperatures to get closer to normal this afternoon, but likely
+ending up a couple of degrees below normal as max temps should 
+get into the middle and upper 30s as all locations except in far
+western Orange county get above freezing. The winds will 
+continue to gradually lighten through the day as the pressure 
+gradient continues to weaken, although the winds will still gust
+at times through the morning.
+
+For tonight clouds increase from west to east. Have introduced 
+slight chance PoPs across western areas towards 06z, with most of 
+the region getting into chance PoPs after 09z. Positive vorticity 
+advection begins to increase during this time frame, however the 
+lower levels will remain moisture starved. The main driver of any 
+synoptic lift will be PVA as any thermal advection will get shunted 
+well south of the area into Saturday morning as a coastal low will 
+not make the northerly turn up the coast to begin the weekend. Lows 
+tonight will be primarily in the 20s. Another night where 
+radiational cooling is not expected, but not due to wind as the 
+winds will be light, but more due to extensive cloud cover.
+
+&&
+
+.SHORT TERM /SATURDAY THROUGH SUNDAY/...
+There remains excellent agreement among NWP with a storm system 
+moving across the south and it's upper level energy getting sheared. 
+The storm system thus gets shunted to the ENE and well offshore 
+later on Saturday. The expectation is that NW interior locations may 
+have a light coating of snow by Saturday morning from the northern 
+stream upper level low as anything that falls will be cold enough 
+throughout the column to be in the form of snow. 
+
+The trough axis approaches Saturday morning with much of the higher 
+res guidance showing snow showers moving from W to E across the 
+region. Most places are expecting to see around a dusting, to 
+perhaps a half inch in the higher elevations to the NW. The HRRR has 
+hinted at some minor interaction with the coastal low, but based on 
+the mid level mass fields cannot see that taking place. Look for 
+partial sunshine to develop into the afternoon as the trough axis 
+pivots through with the winds switching to the NW for the afternoon 
+with gusts potentially returning later in the afternoon. 
+Temperatures will be in the 30s region wide.
+
+Brisk and seasonably cold Saturday night as the pressure gradient 
+tightens some, but not expecting the very windy conditions that we 
+have experienced behind previous past disturbances. Clear and brisk 
+with lows mainly in the 20s, with wind chills primarily in the teens.
+
+High pressure attempts to build in some from the SW on Sunday. It 
+may be the first day in quite some time that most coastal sections 
+get to 40 degrees, thus seasonable temperatures and remaining dry 
+with sunny skies.
+
+&&
+
+.LONG TERM /SUNDAY NIGHT THROUGH THURSDAY/...
+No significant changes to the forecast thinking Sunday night through 
+next Thursday. 
+
+Key Points:
+
+*Dry conditions will prevail through next Thursday. 
+
+*Temperatures will be seasonably cool temperatures starting the
+ period Sunday night, but begin to weaken and slide offshore on
+ Monday.
+
+*Another shot of colder air appears likely Tuesday through Thursday 
+ as below average temperatures and blustery conditions return.
+
+Model guidance continues to be in good agreement with the large 
+scale pattern evolution. Ridging both aloft and the surface will be 
+in place Sunday night before weakening as it moves offshore Monday. 
+An upper low will then swing across the Great Lakes Monday night and 
+then settle over the northeast on Tuesday. In response, a dry cold 
+front will move across the area early Tuesday. Broad low pressure 
+should then organize off the New England coast and near the Maritimes 
+Tuesday night into Wednesday with the upper low also moving 
+offshore. 
+
+The Tri-State region will once again be sandwiched between building 
+high pressure to the west and low pressure to the east for the late 
+Tuesday through Thursday period. Temperatures start to fall Tuesday 
+with highs in the lower to middle 30s. Highs for Wednesday and 
+Thursday then look to only reach the upper 20s and lower 30s. 
+Nighttime temperatures Tuesday night and Wednesday night look to 
+fall into the teens for most and low 20s in the NYC metro. 
+
+Blustery NW winds are likely to occur behind the front later Tuesday 
+and especially Wednesday and Thursday. The current model consensus 
+does not indicate winds as strong as the recent stretch of weather. 
+However, have noted a slight uptick in wind gusts in the 75th and 
+90th percentile of the NBM, generally 25 to 35 mph. NBM 
+deterministic winds which have been running low in recent NW flow 
+and cold advection regimes, so sided closer to the NBM 75th and 90th 
+percentiles with this update. The strongest winds look to peak on 
+Wednesday. It would also not be surprising to see winds and gusts 
+trend upward in the coming days given the surface pattern and winds 
+overperforming in NW flow and cold advection regimes this
+winter.
+
+&&
+
+.AVIATION /18Z FRIDAY THROUGH WEDNESDAY/...
+Weakening high pressure builds into the area through this evening
+and then offshore by daybreak. Developing low pressure will pass
+well south and east of the area late tonight into Saturday. A weak
+surface trough extending north of the low will pass through the
+area in the morning.
+
+VFR through late tonight. A period of light snow is possible 
+late tonight into Saturday morning, which may bring categories 
+down to MVFR. Accumulation is expected to be limited to a light 
+coating (less than 0.5").
+
+Gusty NW flow will likely linger across the eastern terminals
+through about 21Z. Winds will gradually back into this evening
+as speeds fall below 10 kt, eventually becoming light and variable.
+Winds will then become NW late morning into the afternoon with 
+gusts up to 20 kt toward evening.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+A brief gust 15-20kt possible through about 20Z.
+
+Timing of light snow and MVFR conditions may vary by 1-2 hours.
+
+OUTLOOK FOR 18Z SATURDAY THROUGH WEDNESDAY...
+
+Saturday Afternoon: Becoming VFR all terminals. NW gusts 20 kt 
+possible in the afternoon into the night.
+
+Sunday-Monday: VFR.
+
+Tuesday-Wednesday: VFR. NW wind gusts 20-30 kt possible.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Small craft conditions linger through the morning. This 
+afternoon any small crafts for the eastern waters will end, with
+sub advisory conditions prevailing into tonight as weak high 
+pressure settles over the waters. Light winds are expected early
+Saturday, before a NW flow returns as a coastal low off to the 
+south pushes well offshore and a disturbance works through from 
+the west. In its wake NW winds increase late in the day Saturday
+and into Saturday evening yielding marginal small craft 
+conditions across most of the waters.
+
+Conditions return below SCA levels Sunday through Monday night.
+Marginal SCA conditions are possible on the ocean Tuesday and 
+Tuesday night as NW flow increases behind a cold front passage.
+
+&&
+
+.HYDROLOGY...
+No hydrologic issues are anticipated through much of next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 1 PM EST this afternoon for ANZ332-
+     340-350-353.
+
+&&
+
+$$
+
+SYNOPSIS...JE/DS
+NEAR TERM...JE/JT
+SHORT TERM...JE
+LONG TERM...DS
+AVIATION...DW
+MARINE...JE/DS
+HYDROLOGY...JE/DS

@@ -1,0 +1,200 @@
+869 
+FXUS61 KOKX 102240
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+540 PM EST Mon Feb 10 2025
+
+.SYNOPSIS...
+High pressure continues to build in tonight and passes offshore on 
+Tuesday. Low pressure will pass south of the area Tuesday night. 
+Another low pressure system moves through during Wednesday night 
+into Thursday, followed by high pressure Friday into Saturday 
+morning. A third low then impacts the weather Saturday afternoon 
+through Sunday with high pressure building back in on Monday.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM TUESDAY MORNING/...
+The forecast is mainly on track. Minor updates made to hourly
+temperatures and dewpoints for the evening hours.
+
+Zonal flow continues aloft as high pressure builds over the area 
+tonight. Even though winds weaken, mid and high level clouds moving 
+in will likely dampen the effect of radiational cooling. If winds 
+weaken quick enough early on, this may be the type of night 
+where temperatures drop quick at first, and then become stable 
+or slightly rise with clouds moving in. To account for the 
+uncertainty, blended CONSMOS and some colder guidance with the 
+NBM.
+
+&&
+
+.SHORT TERM /6 AM TUESDAY MORNING THROUGH WEDNESDAY/...
+The flow aloft remains mostly zonal on Tuesday as high pressure 
+shifts offshore. Aforementioned cloud cover will lower and become 
+more widespread/thick as the column slowly saturates from the top 
+down.
+
+Tuesday night, a wave of low pressure will pass well south of 
+Long Island, but bring some light snow accumulation the the 
+area. Our area is on the northern edge of the expected 
+precipitation shield, so southern locations are expected to 
+receive more snowfall. Latest forecast has trended in up in QPF 
+and snow amount for a few reasons. An upper level jet streak to 
+our north has slowly been trending farther north, which places 
+us under the right entrance region. Some guidance has also been 
+trending stronger in addition to the northward shift. Given the 
+support from the upper jet, the thinking is that QPF across much
+of the guidance could be underdone. Did not make a major 
+change, but have up to 0.20 inches of QPF across the southern 
+half of the area. HREF QPF amounts look way underdone as the 
+CAMs are likely struggling with the jet. The NAM is one of the 
+highest with 0.30 inches, which is not completely out of the 
+question, but before trending closer to those totals would like 
+to see a little more support from other guidance. It is worth 
+noting that the 18z NAM brings an enhanced area of 700mb 
+frontogenesis closer to our area than previous runs and other 
+guidance. This trend will need to be monitored because this 
+would support higher QPF as well. Also went with higher SLRs 
+than the previous forecast (around 13:1 average) which is 
+leading to 2 to 2.5 inches across NYC, Long Island and portions 
+of northeast NJ. Isolated 3 inch amounts are possible along the 
+immediate south coast. Farther north totals will be closer to .5
+inches to 1 inch and northern interior CT and Lower Hudson 
+Valley likely see less than .5 inches.
+
+Given the current totals, no headlines were issued. If QPF continues 
+to trend up it is possible that a Winter Weather Advisory would be 
+needed for Long Island, NYC and portions of northeast NJ.
+
+As for timing, this will likely all be in the overnight period, with 
+the highest chances being between 10pm and 5am. Confidence is high 
+in this falling as all snow, with no other ptypes mixing in.
+
+We dry out the rest of Wednesday, with just lingering snow chances 
+in the morning. We do not get much of a break as PoP chances 
+increase late Wednesday afternoon ahead of the next system.
+
+&&
+
+.LONG TERM /WEDNESDAY NIGHT THROUGH MONDAY/...
+Primary low pressure center shifts from the Ohio Valley into the 
+eastern Great Lakes Region Wednesday night before passing well to 
+our north during Thursday. Meanwhile, a weaker secondary low center 
+shifts just south of Long Island during Thursday morning. This will 
+bring snow to the forecast area Wednesday evening, then as a warm 
+nose aloft pushes in, the snow changes to a wintry mix before an 
+eventual changeover to rain late Wednesday night through Thursday 
+morning. Rain then tapers off late morning into the afternoon. 
+Thermal profiles aloft among the various models differ with GFS 
+continuing to be a cold outlier, particularly from approx 09-15z 
+Thurs. Didn't want to completely discount the GFS, so did take it 
+into some consideration regarding precip types. Right now it appears 
+that a snow/sleet accumulation of 1-2 inches will occur for LI, NYC 
+and right along the CT coast with 2-3 inches elsewhere. Light ice 
+accumulations of up to a few hundredths of an inch expected outside 
+of LI, NYC and the urban corridor of NE NJ. Advisories could 
+eventually be needed for these areas that are expected to have an 
+ice accumulation, with combined snow and ice presenting 
+slippery/hazardous conditions. 
+
+Dry and somewhat breezy Thursday night into Friday morning as high 
+pressure builds in behind the departing storm. Its ridge axis shifts 
+through here during Friday evening with light winds. Highs on Friday 
+below normal in the lower and middle 30s. 
+
+A stronger and wetter system is then anticipated to approach from 
+the SW on Saturday before passing through or nearby to our NW during 
+Sunday. Precip becomes likely Saturday afternoon into evening and 
+probably ends by Sunday evening. Kept precip types simplified for 
+the time being with rain, snow or a mix of the two. Too early to 
+have much confidence in potential snow accumulations, but with that 
+said, rain appears to be the dominant precip type with this
+storm.
+
+&&
+
+.AVIATION /00Z TUESDAY THROUGH SATURDAY/...
+High pressure continues to build over the terminals into tonight.
+The high pressure weakens on Tuesday as low pressure develops across 
+the southeast.
+
+VFR through the TAF period with high pressure in control through 
+Tuesday.
+
+NW winds will begin weakening this evening, diminishing to around 5-
+7 kt overnight. Outlying terminals will likely become light and 
+variable. Winds Tuesday morning become SW and will be under 10 kt.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Occasional gusts around 20 kt will end by 22z. 
+
+.OUTLOOK FOR 18Z TUESDAY THROUGH SATURDAY... 
+
+Tuesday Afternoon-Night: VFR afternoon, becoming IFR/LIFR at night 
+in light snow especially across NYC metro and Long Island terminals. 
+
+Wednesday: Lingering light snow ends early. VFR possible into 
+afternoon. NE gusts 15-20 kt in the afternoon.
+
+Wednesday Night-Thursday: Snow/wintry mix developing Wednesday 
+evening with IFR/LIFR. Wintry mix becomes plain rain at the coast 
+late, gradually becoming plain rain inland Thursday morning. NE 
+gusts 15-20 kt Wednesday night.
+
+Friday: VFR. NW wind gusts 15-20 kt during the day.
+
+Saturday: VFR early. MVFR or lower possible with rain/snow mix near 
+coast and snow inland late. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Sub-Small Craft Advisory conditions are expected on all waters 
+through Tuesday night. E/NE winds increase on Wednesday and 
+marginal Small Craft Advisory conditions are possible on the 
+ocean waters with 25 kt gusts and 5 ft seas.
+
+SCA conds expected on all waters Wednesday night, followed by a
+brief lull Thursday morning as a weak low center passes nearby.
+Offshore winds will increase in the afternoon, but advisory 
+conditions might be limited to only the ocean waters. The 
+pressure gradient then perhaps tightens enough Thursday night 
+into Friday morning for all waters to have advisory-level gusts 
+during the period. Winds and seas subside throughout the day 
+Friday with sub- advisory conditions even on the ocean waters by
+early evening. Southerly winds increase for Saturday, but 
+conditions look to be short of advisory thresholds. A better 
+chance of SCA conds arrives Saturday night.
+
+&&
+
+.HYDROLOGY...
+At this time there are no hydrologic concerns through early next
+week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JC/JT
+NEAR TERM...JT
+SHORT TERM...JT
+LONG TERM...JC
+AVIATION...DS
+MARINE...JC/JT
+HYDROLOGY...JC/JT

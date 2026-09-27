@@ -1,0 +1,262 @@
+210 
+FXUS61 KOKX 211959
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+359 PM EDT Sat Jun 21 2025
+
+.SYNOPSIS...
+High pressure will become more established through the weekend.
+A few disturbances will pass through this weekend. Weak low 
+pressure moves southeast from Nova Scotia into Western Atlantic
+on Monday. Strong ridge of high pressure still based south and 
+west of the region on Monday. High pressure remains south and 
+west of the region Tuesday. A cold front moves near the area 
+Wednesday and weakens with multiple weak waves of low pressure 
+moving along it for the latter half of the week.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM SUNDAY MORNING/...
+Quiet conditions continue through tonight with some fair weather 
+cumulus clouds through this evening. While no PoPs are in the 
+forecast a few CAMs have a pop-up shower this afternoon. 
+
+A developing SW flow this afternoon and tonight will advect moisture 
+back into the area. There is still quite bit of uncertainty with the 
+possible development of a convective MCS that rides over the 
+northern portion of the developing ridge. Some CAMs indicate that 
+this MCS that develops over southern Canada this afternoon may 
+quickly traverse through parts of the area sometime late tonight 
+into Sunday morning. At this time have opted not to forecast 
+anything more than a slight chance as the potential MCS continues to 
+show rapid weakening as it approaches the area. Best chance to see 
+any sort of precipitation would be for areas north, but once again, 
+confidence in the occurrence of this is much lower than normal at 
+this time frame.
+
+Lows tonight will be in the 70s with dewpoints in the 60s. 
+
+&&
+
+.SHORT TERM /6 AM SUNDAY MORNING THROUGH SUNDAY NIGHT/...
+* Extreme Heat Warning for much of the region from Sunday  
+  afternoon through 8 PM Tuesday including NYC.
+
+* Heat Advisory is now in effect for Sunday and an Extreme Heat
+  Watch on Monday and Tuesday remains, for portions of Long
+  Island and coastal Middlesex and New London Counties.
+
+Sunday morning, the development of the ridge will be well underway 
+with heights continuing to rise aloft and high pressure 
+strengthening to the south. There is the potential of some morning 
+cloud cover or showers from a decaying MCS mostly across our 
+northern zones, but otherwise skies will be mostly clear. Sunday is 
+expected to be the beginning of what may very well be a record 
+setting heatwave for some locations.
+
+SW flow will continue to allow dew points to rise into the upper 60s 
+and lower 70s with temperatures climbing into the 90s for much of 
+the area. Some of the hottest spots near the NYC metro may approach 
+100 degrees. Heat index values will be generally 100-105 for much of 
+the area. For areas closer to the coast, heat index values of 95-100 
+will be expected. 
+
+Lows at night will not offer much relief as low temperatures will 
+only be in the 70s with more urban locations possibly not dropping 
+below 80.
+
+Given the expected excessive heat, the Extreme Heat Watch that
+was in effect for NYC has been upgraded to an Extreme Heat Warning
+for Sunday through Tuesday. The highest heat index values will 
+occur each afternoon, but especially on Monday and Tuesday.
+
+&&
+
+.LONG TERM /MONDAY THROUGH SATURDAY/...
+* Extreme heat continues Monday and Tuesday for portions of the
+ region
+
+* Heat wave potentially breaks later in the week (Thursday 
+through Saturday) with more unsettled weather pattern taking 
+shape
+
+Regarding extreme heat, the new forecast incorporates a blend of 
+MOS, NBM and the previous forecast for the max temperature forecast 
+and dewpoint forecast Monday. Used NBM for temperatures Tuesday and 
+thereafter. 
+
+The max temperature forecast for Monday used 40 percent NBM, 40 
+percent previous forecast and 20 percent MOS consensus. MOS did 
+shift several degrees lower compared to last run. Did not want to 
+make significant changes just based on suite of model runs that 
+being 12Z this morning. 12Z MOS model data did lower by several 
+degrees compared to previous run and in some locations more. That is 
+why MOS consensus was weighed less.
+
+One significant trend Monday is that dewpoints rise. Synoptically, 
+low pressure passes well to the east of the area and with high 
+pressure to the south and west, a more southerly flow will be driven 
+into the local region. If low pressure does trend any stronger or 
+closer east of the area over the Atlantic, that would invoke a more 
+southeast flow as opposed to the south flow.
+
+Models still indicate 850mb temperatures near 21 to 23 degrees C 
+with strong ridging at 500mb, well above 590 dm. Subsidence will 
+allow for dry conditions and mostly sunny sky conditions. Surface 
+temperatures will easily rise with diurnal heating as a result and 
+the southerly flow will provide more humid conditions. Max apparent 
+temperatures forecast 105 to 110 across portions of NYC, NE NJ, 
+Lower Hudson Valley and portions of Southern CT. Extreme heat 
+warning continues to cover this as well as areas that are close the 
+105 degree heat index mark.
+
+Tuesday, 500mb slight decrease in height, but still prominent ridge 
+remains established across the region. 850mb temperatures Tuesday 
+still near 22 to 23 degrees C. Daytime troughing appears more 
+evident Tuesday, giving more of a westerly component. Pressure 
+gradient is not too strong so winds near 5-10 kt SW to W. More 
+daytime mixing expected but dewpoints still mid 60s to near 70 for 
+the region. Max apparent temperature forecast just slightly less 
+than the previous day. Across the extreme heat warning area, most 
+locations are around 105 degree heat index with some locations 
+slightly higher. 
+
+Outside the extreme heat warning, we have an extreme heat watch for 
+Nassau into Western Suffolk as well as Southeast CT along the coast. 
+105 degree heat index values are possible within this region but 
+most forecast values are in the mid 90s to around 100 range.
+
+Wednesday marks a transitions time period where the heat wanes with 
+more height decreases at 500mb with 850mb temperatures more within 
+the 18 to 20 degree C range. Max apparent temperature range 
+Wednesday forecast Western Suffolk west through NE NJ and Lower 
+Hudson Valley and much of Southern CT, more in the 95 to 100 degree 
+C range. This forecast is a few days away and there is uncertainty 
+of a few degrees with temperature and dewpoints. This could very 
+well make the difference with heat indices as a result potentially 
+getting to 105 for much of the area as previous days. So, heat 
+headlines may need to get extended into Wednesday.
+
+Otherwise, less ridging and the approach of a cold front Wednesday 
+which could very well stall out thereafter will present a more 
+unsettled weather pattern. Multiple model guidance indicates a 
+substantial cool down Thursday through Saturday, with temperatures 
+on average for highs more in the 80s. Chances for showers and 
+thunderstorm reappear in the forecast.
+
+&&
+
+.AVIATION /20Z SATURDAY THROUGH THURSDAY/...
+VFR with high pressure in control. 
+
+SW-S 5-10 kt expected this afternoon. Along the coast, expect
+the afternoon sea breeze to produce winds closer to 10-15 kt. 
+Winds become light and variable tonight. Winds on Sunday will be
+from the SW. Can not rule out an isolated shower this 
+afternoon/evening.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+S-SE harbor breeze should hold just E of KEWR this afternoon, but 
+may make it in there and at KTEB toward 00Z Sunday. 
+
+.OUTLOOK FOR 18Z SUNDAY THROUGH THURSDAY... 
+
+Sunday afternoon: VFR. Chance of an isolated shower or 
+thunderstorm in the afternoon. WSW-SW winds G15-20kt in the 
+afternoon.
+
+Monday and Tuesday: VFR. 
+
+Wednesday: Chance of showers/tstms in the afternoon/evening mainly 
+for KHPN/KSWF. 
+
+Thursday: Chance of showers/tstms mainly in the
+afternoon/evening.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Below SCA conditions expected through Sunday night with some
+occasional 5 feet seas Sunday afternoon/evening. Sub-SCA
+conditions forecast Monday through Thursday night.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through the rest of the 
+forecast period with dry conditions prevailing.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+Low risk for rip currents for all ocean beaches with a
+diminished swell and lower offshore wave heights. With an 
+increase in swell and wave heights out east look for a moderate
+risk on Sunday for Nassau and Suffolk beaches, with a lower 
+risk for Brooklyn and Queens.
+
+&&
+
+.CLIMATE...
+Increasing heat may result in record high temperatures Sunday
+through Tuesday.
+
+Sunday's Record Highs (June 22):
+EWR 101 / 1988
+BDR  93 / 1949
+NYC  98 / 1988
+LGA  99 / 1988
+JFK  94 / 2012
+ISP  94 / 2012
+
+Monday's Record Highs (June 23):
+EWR  99 / 2024
+BDR  91 / 2010
+NYC  96 / 1888
+LGA  95 / 2024 and previous years
+JFK  94 / 2010
+ISP  91 / 1999
+
+Tuesday's Record Highs (June 24):
+EWR  97 / 1966
+BDR  94 / 1966
+NYC  96 / 1888
+LGA  96 / 2013
+JFK  97 / 2010
+ISP  96 / 1966
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Air Quality Alert from 11 AM Sunday to 11 PM EDT Monday for 
+     CTZ005>012.
+     Extreme Heat Warning from noon Sunday to 8 PM EDT Tuesday for 
+     CTZ005>010.
+     Heat Advisory from noon to 8 PM EDT Sunday for CTZ011-012.
+     Extreme Heat Watch from Monday afternoon through Tuesday 
+     evening for CTZ011-012.
+NY...Extreme Heat Warning from noon Sunday to 8 PM EDT Tuesday for 
+     NYZ067>075-176-178.
+     Heat Advisory from noon to 8 PM EDT Sunday for NYZ078-080-177-
+     179.
+     Extreme Heat Watch from Monday afternoon through Tuesday 
+     evening for NYZ078-080-177-179.
+     Air Quality Alert from 11 AM to 11 PM EDT Sunday for 
+     NYZ078>081-177-179.
+NJ...Extreme Heat Warning from noon Sunday to 8 PM EDT Tuesday for 
+     NJZ002-004-006-103>108.
+     Air Quality Alert from 11 AM to 11 PM EDT Monday for NJZ002-
+     004-006-103>108.
+     Air Quality Alert from 11 AM to 11 PM EDT Sunday for NJZ004-
+     006-103>108.
+MARINE...None.
+
+&&
+
+$$

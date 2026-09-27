@@ -1,0 +1,296 @@
+322 
+FXUS61 KOKX 251823
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+223 PM EDT Fri Jul 25 2025
+
+.SYNOPSIS...
+High pressure slides east this morning. A cold front will move 
+through the area late this afternoon and evening. High pressure 
+briefly builds into the area tonight into Saturday. A weak frontal 
+system moves across the area Saturday Night into Sunday. High 
+pressure returns to the area for Monday into Tuesday. A cold front 
+approaches from the west on Tuesday afternoon and moves offshore 
+Tuesday evening.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Key points...
+
+* Severe Thunderstorm Watch now in effect through 9pm 
+
+* Heat headlines remain in effect. Heat indices of 100 to 105F for 
+  most of the area, with locally up to 108F.
+
+Northern stream shortwave slides from Ontario/Quebec towards 
+northern New England this evening with a cold front across W NY 
+pushing across the region this evening. 
+
+The combination of temperatures well into the 90s, combined 
+with dew points in the lower to middle 70s, will have widespread
+heat index values of 100-105F continuing into early evening for
+much of the area. Max temps will likely flirt with daily 
+records through this afternoon. Heat alerts continue through 
+8pm.
+
+Numerous discrete tstms (isolated severe) already developing 
+across NE PA, Central NY and central New England as convective 
+temps in the lower to mid 90s are being met. Pre-frontal trough 
+across Central NY/PA and outflow boundaries from ongoing tstm 
+activity. moving into a moderate to highly unstable airmass 
+with marginal deep layer shear, along with approaching weak 
+shortwave/vort axis, should allow for groups of these storms to 
+cluster and developing into a few bowing line segments moving 
+across the area. Severe thunderstorms watch in effect through 
+9pm to address this threat.
+
+Primary threat will be damaging wind gusts from wet downbursts 
+(possibly a few bowing segments) in primarily a uni-directional
+WNW flow aloft, high PWAT environment with some mid- level dry 
+air entrainment potential, and steep low-level lapse rates. 60 
+mph winds gusts likely, with isolated gusts to 70+ mph possible 
+where mature bowing segment develops. Isolated large hail 
+possible with right moving supercells in slightly veered low 
+levels with undirectional shear aloft. 
+
+In addition, any storms will be capable of producing heavy
+rainfall. 0.4"/5min rate noted with one of the cells as it moved
+over a mesonet, presenting a localized flash flood threat with
+any storms repeating over a location. See hydrology section for
+low and localized flash flood threat in a 2+ STD PWAT 
+environment ( 2 1/4"-2 1/2" PWATs). 
+
+Cold front expected to push SE of the region by 7-9pm this 
+evening as northern stream shortwave slides through northern New
+England, with a relatively cooler and drier airmass filtering 
+in its wake as high pressure builds down from the north. Low 
+tonight into the lower to mid 70s along the coast and upper 60s
+interior with Tds gradually falling into the mid to upper 60s.
+
+&&
+
+.SHORT TERM /SATURDAY THROUGH SUNDAY NIGHT/...
+Region remain on northeast periphery of strong southern upper 
+ridge through the weekend, with subtle ridging nosing in on 
+Saturday giving way to a shearing central plain short wave Sat 
+Night into Sunday.
+
+At the surface, this evening's cold front slides well SE of the
+region by Saturday morning, with surface high pressure building
+in from the north and centering to the E of the region by Sat 
+Night. 
+
+Dry conditions expected on Saturday, with noticeably drier and 
+cooler airmass advecting in on gusty N/NE flow Saturday AM, and a 
+veil of high clouds in upper flow. Temps will still run slight above 
+seasonable with highs in the mid to upper 80s, and heat indices 
+similar. 
+
+Models in general agreement with a shearing Central plains 
+shortwave approaching Sat Night and moving across the area 
+Sunday. At the surface, this will have a warm front approaching 
+the area Sat Night but likely not cleanly moving through the 
+area till Sun aft with a trailing trough crossing the region in 
+the afternoon or evening. Models have had a hard time locking in
+on the specific of this event for a few days, with likely 
+difficulty in resolving the synoptic development tied to 
+mesoscale convective activity. Seems to be some general 
+agreement in a weak wave of low pressure tracking across the 
+region Sun morning into afternoon, which would be a focus for 
+more widespread shower and thunderstorms activity and a low 
+flash flood and severe risk in a high shear and marginally 
+unstable airmass. Latest guidance has trended this wave north 
+of the region, which would limit severe/flash flood potential 
+in the morning, and keep it low and isolated in the aft/eve with
+warm front/trough passage. This will be refined through the 
+weekend as the convectively modified shortwave gets better 
+sampled it resolved by high res CAMs.
+
+Otherwise near seasonable temps for Saturday Night with 
+increasing humidity levels as return flow develops. Warm and 
+muggy for Sunday, but temps may remain below seasonable with 
+clouds and shra/tsra activity. 
+
+
+&&
+
+.LONG TERM /MONDAY THROUGH FRIDAY/...
+No major changes were made to the long term with this update.
+
+Key Points: 
+
+*High heat and humidity will return early next week, potentially 
+lingering into Wednesday. The peak of the heat currently looks to 
+occur on Tuesday with max heat index values 100 to around 105F.
+
+*A few showers and thunderstorms are possible Tuesday afternoon and 
+evening with a weak cold front. The threat for showers and 
+thunderstorms continues Wednesday, potentially lingering into 
+Thursday as a stronger cold front moves into the area. 
+
+*Temperatures trend down to end the week with potential of below 
+normal temperatures. Humidity levels also should be much lower than 
+the first half of the week. 
+
+Good model agreement continues with a large upper ridge over much of 
+the central and southern CONUS dominating the weather pattern early 
+next week. The ridge builds towards the area Monday and Tuesday then 
+slowly gets pushed southward as a deep upper trough digs down from 
+southeast Canada to end the week. A series of shortwaves will move 
+across the northeast as the ridge weakens late Tuesday into the mid 
+week period. 
+
+850 mb temperatures nearing 18-21C early next week, peaking on 
+Tuesday, will result in max temperatures in the low to mid 90s 
+(upper 80s at the coast). Dew points will likely increase to the low 
+and mid 70s by Tuesday resulting in heat indices potentially as high 
+as the low 100s (upper 90s coastal areas). Heat headlines are likely 
+to be needed Monday and Tuesday. There is a bit more uncertainty 
+with the extent of the heat on Wednesday due to timing of the 
+aforementioned second cold front. This front passage may not occur 
+until Wednesday night or Thursday, which would potentially bring 
+another day of heat and humidity on Wednesday. The air mass then 
+cools significantly Thursday into Friday with the cold front pushing 
+to our south and east. The latest NBM deterministic indicates highs 
+in the upper 70s and lower 80s with dew points in the 50s by Friday.
+
+A shower or thunderstorm is possible Tuesday afternoon/evening, but 
+the chances are a bit higher on Wednesday with the stronger cold 
+front. Model soundings indicate 500-1000J/kg of MUCAPE though shear 
+is weak (~20kts) on Tuesday. Shear increases on Wednesday and modest 
+instability may be present. CSU-MLP machine learning output is 
+highlighting a 15-30% chance of severe thunderstorms, mainly from 
+NYC north and west Tuesday. It also indicates a similar potential on 
+Wednesday although it is shifted from NYC metro on south and west. 
+These details will come into more focus over the next few days, but 
+the trend in the last 24 hours is leaning towards Wednesday with the 
+main cold front and more organized forcing for convection. 
+
+&&
+
+.AVIATION /18Z FRIDAY THROUGH WEDNESDAY/...
+A cold front passes through late this afternoon/evening, with 
+high pressure briefly following for Saturday.
+
+VFR through much of the TAF period. MVFR or lower visibilities 
+are likely as TSRA may impact the terminals around 19-00z. 
+Strong gusty winds are possible with any thunderstorm as storms 
+could reach severe levels. Have kept TEMPO groups for TSRA.
+
+SW winds around 10 kt become NW behind the frontal passage in 
+the late afternoon/evening. Winds then veer overnight into
+Saturday becoming SE by Saturday afternoon around 10 kt. 
+Occasional gusts up to about 20 kt are possible during this 
+afternoon outside of TSRA.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Occasional gusts up to 20 kt are possible this afternoon.
+
+Severe thunderstorms are possible this afternoon/evening. Strong
+to damaging wind gusts are the biggest threat should a severe
+storm develop. Large hail looks like less of a threat.
+
+.OUTLOOK FOR 18Z SATURDAY THROUGH WEDNESDAY... 
+
+Saturday: VFR.
+
+Saturday night - Sunday: Mainly VFR. MVFR or lower possible in any 
+showers or thunderstorms.
+
+Monday: VFR.
+
+Tuesday - Wednesday: Mainly VFR with possible MVFR or lower in 
+showers and thunderstorms each afternoon.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Some occasional gusts to 25 kt are possible in a S flow on ocean
+waters and southern bays of LI this afternoon/evening ahead of 
+a cold frontal passage. Scattered severe thunderstorms are
+likely late this afternoon and this evening ahead of a cold 
+frontal passage this evening. 
+
+A brief period of 20 kt gusts are possible in wake of cold 
+frontal passage Friday night into Saturday morning. 
+
+A relatively weak pressure gradient Monday through Wednesday will 
+lead to conditions staying below SCA levels.
+
+&&
+
+.HYDROLOGY...
+Primarily a minor urban and poor drainage flooding threat with 
+thunderstorm activity this afternoon that could produce rainfall
+rates of 2+"/hr with PWATS as high as 2"-2 1/2", but will be 
+overall progressive limiting duration over an one area. Based on
+these rainfall rates, there is a localized flash flood threat 
+with any repetitive thunderstorm activity, particularly if the 
+cold front orients in a more W to E fashion as indicated by some
+CAMs. A general 1/4 to 3/4" basin average, with a low and 
+localized probability for 2-3" in 1 to 2 hrs with any training.
+
+Showers and thunderstorms associated with a frontal system 
+could produce locally heavy downpours on Sunday that present a
+minor urban flooding threat, with localized flash flood threat 
+appears low at this time.
+
+There are currently no hydrologic concerns next week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+A moderate to locally high rip current risk is in effect through
+this evening with southerly wind waves building to 3 to 4 ft. A
+moderate rip current risk continues for Saturday, though surf 
+heights lessen to 2-3ft and winds become east/southeasterly.
+
+&&
+
+.CLIMATE...
+Daily record high temperatures maybe be tied or broken today 
+July 25th. Here are the current records for the day...
+
+EWR 99/2016 
+BDR 93/2001 
+NYC 97/1999 
+LGA 97/1999 
+JFK 93/2010 
+ISP 94/1987
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Heat Advisory until 8 PM EDT this evening for CTZ005>011.
+     Air Quality Alert until 11 PM EDT this evening for CTZ009>012.
+NY...Heat Advisory until 8 PM EDT this evening for NYZ067>075-
+     078>080-176>179.
+     Air Quality Alert until 11 PM EDT this evening for NYZ069>075-
+     078>081-176>179.
+NJ...Heat Advisory until 8 PM EDT this evening for NJZ002.
+     Air Quality Alert until 11 PM EDT this evening for NJZ004-006-
+     103>108.
+     Extreme Heat Warning until 8 PM EDT this evening for NJZ004-
+     006-103>108.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...DS/NV
+NEAR TERM...NV
+SHORT TERM...NV
+LONG TERM...DS
+AVIATION...JT
+MARINE...DS/NV
+HYDROLOGY...DS/NV
+TIDES/COASTAL FLOODING...
+CLIMATE...

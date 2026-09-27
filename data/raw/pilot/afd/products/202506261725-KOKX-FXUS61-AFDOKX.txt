@@ -1,0 +1,198 @@
+535 
+FXUS61 KOKX 261725
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+125 PM EDT Thu Jun 26 2025
+
+.SYNOPSIS...
+A cold front will continue pushing south through the afternoon
+and then stall across the Mid Atlantic States tonight into
+Friday. The front will then return north as a warm front Friday
+night into Saturday. A frontal wave and cold front attempt to 
+push through Saturday night, and weak high pressure builds in 
+behind it early next week. The boundary returns north as a warm 
+front late Monday. A cold front then follows Tuesday, with high 
+pressure returning once again mid next week.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Cold front has passed and will continue to work farther to the 
+south. At the same time, the airmass will be stabilizing with a 
+gradually cooler air mass filtering in from the northeast. 
+
+Some weak impulses at the southern edge of the westerlies may 
+send additional shower activity in from the west this evening, 
+but it will struggle to get too far east as high pressure 
+continues to build into the area. Only expecting a 20-30 percent
+chance of showers tonight. Any isolated thunderstorms will be 
+limited to NYC and points west early. These should be weak and 
+dissipate quickly. Otherwise, expect mostly cloudy skies during
+this time. 
+
+High temperatures for the day will actually occur before
+daybreak, but this afternoon should see temperatures in the
+upper 70s to possibly the lower 80s in the NYC metro area, and
+lower/mid 70s to the north/east. Dew points will be mostly
+55-60.
+
+&&
+
+.SHORT TERM /FRIDAY THROUGH SATURDAY/...
+It should remain cooler and unsettled during this time under the
+influence of high pressure ridging down along the New England 
+coast. The high will gradually retreat Friday night into
+Saturday as the front to the south returns northward as a warm 
+front. The chance of showers remains low through Saturday 
+morning. However, as the warm front draws closer, the air mass
+will begin to gradually destabilize, with dew points rising
+through the 60s to around 70. There remains some uncertainty as
+to whether the warm front lifts to the north on Saturday--a
+consensus approach suggests it should stall nearby as a frontal
+wave approaches from the west. This wave should bring increasing
+chances of showers and thunderstorms toward late 
+afternoon and evening.
+
+Due to the uncertainty in the frontal location on Saturday, the 
+temperature forecast will be a challenge. The NBM deterministic 
+during this time is skewed toward the 25th percentile for highs.
+Much of the area is showing about 10 degree range from the 25th
+to 75th percentiles. Thus, while cooler temperatures are in the
+forecast, Saturday in particular is a lower confidence 
+forecast. Should the warm front get through, it would be a 
+warmer day.
+
+&&
+
+.LONG TERM /SATURDAY NIGHT THROUGH WEDNESDAY/...
+Behind a frontal passage Saturday night, briefly turning quieter
+for the second half of the weekend with weak ridging and 
+surface high pressure attempting to build in as the boundary 
+that moved through stalls to the south over the Mid Atlantic.
+
+Any lingering rain looks to taper Sunday morning, and allow for
+a predominantly dry day, that could persist thru much of 
+Monday as well. Eventually, the stalled boundary to the south 
+looks to return back north as a digging trough over the Great 
+Lakes presses east. This will reintroduce wet weather late 
+Monday and Monday night as the warm front lifts through. Showers
+and thunderstorms possible ahead of the trailing cold frontal 
+passage, progged sometime Tuesday. In its wake, cooler and drier
+conditions by mid next week as high pressure returns.
+
+&&
+
+.AVIATION /18Z THURSDAY THROUGH TUESDAY/...
+A cold front continues moving further south of the terminals
+into this evening, stalling over the Middle Atlantic tonight
+into Friday. High pressure builds in from the northeast through
+the TAF period. 
+
+Mainly VFR through 04z. Scattered showers are possible this 
+evening, mainly from the NYC metro terminals on NW. Have left 
+mention out of the TAF except at KSWF. Ceilings should then begin
+lowering to MVFR late tonight into early Friday morning, 
+prevailing through the rest of the morning. Improvement to VFR 
+is then likely in the afternoon. The only exception is at KGON 
+where conditions should remain VFR through the TAF period. 
+
+NE-E flow 10-15 kt this afternoon with occasional gusts up to 20
+kt. Winds may weaken somewhat tonight, but should increase 
+again Friday morning. E winds 10-15 kt with gusts up to 20 kt
+expected by late Friday morning. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+MVFR ceiling bkn025-bkn030 may persist an hour or two longer
+this afternoon.
+
+Occasional gusts 15-20 kt possible this afternoon.
+
+Amendments likely for timing of MVFR ceilings late tonight into
+Friday.
+
+.OUTLOOK FOR 18Z FRIDAY THROUGH TUESDAY... 
+
+Friday Afternoon-Night. MVFR ceilings and E wind gusts 20 kt 
+possible. IFR or lower possible at night.
+
+Saturday: IFR or lower in the morning. Showers likely with a 
+chance of thunderstorms and MVFR in the afternoon and evening.
+
+Sunday-Monday: Mainly VFR.
+
+Monday Night-Tuesday: Showers and thunderstorms with MVFR 
+possible, especially Tuesday afternoon and evening. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+SCA issued for all waters with E winds gusting to 25-30 kt and
+ocean seas 4-5 ft well ahead of previous forecast, and still
+expected to build to 4-7 ft. Winds on the harbor and south 
+shore bays should diminish early this afternoon, then on the 
+remaining non ocean waters by late afternoon. Seas will then 
+diminish Friday night.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts are currently expected through early next
+week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+Persistent E flow after a cold frontal passage will lead to 
+widespread minor coastal flooding in NY Harbor, the back bays of
+S Queens/Nassau, Peconic Bay, and the Westchester/SW CT 
+coastline with the this evening's high tide cycle.
+
+Coastal Flood Advisory is in effect for up to a foot of
+inundation along the shoreline of the back bays of S
+Queens/Nassau/Brooklyn, as well as along the western LI Sound 
+in Westchester and Fairfield in SW CT. A Coastal Flood Statement
+has been issued for up to a half foot of inundation along the 
+vulnerable areas along the Peconic and Shinnecock Bays, as well 
+as portions of the Lower NY Harbor.
+
+Additional minor coastal flooding is possible again during
+Friday evening's high tide, though water levels should begin to
+come down slightly.
+
+There is a moderate rip current risk for both today and Friday
+due to a building E swell and E-W sweep along the Atlantic 
+beachfront.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Coastal Flood Advisory from 11 PM this evening to 3 AM EDT 
+     Friday for CTZ009.
+NY...Coastal Flood Advisory from 11 PM this evening to 3 AM EDT 
+     Friday for NYZ071.
+     Coastal Flood Advisory from 8 PM this evening to midnight EDT 
+     tonight for NYZ074-075-178-179.
+NJ...None.
+MARINE...Small Craft Advisory until 5 PM EDT this afternoon for ANZ331-
+     332-335-340.
+     Small Craft Advisory until 2 PM EDT this afternoon for ANZ338-
+     345.
+     Small Craft Advisory until 6 PM EDT Friday for ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...BG/DR/DW
+NEAR TERM...BG
+SHORT TERM...DW
+LONG TERM...DR
+AVIATION...DS
+MARINE...BG/DR/DW
+HYDROLOGY...DR/DW
+TIDES/COASTAL FLOODING...

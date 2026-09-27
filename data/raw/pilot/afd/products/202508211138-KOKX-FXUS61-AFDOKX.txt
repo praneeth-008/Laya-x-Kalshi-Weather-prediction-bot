@@ -1,0 +1,219 @@
+259 
+FXUS61 KOKX 211138
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+738 AM EDT Thu Aug 21 2025
+
+.SYNOPSIS...
+Hurricane Erin passes well offshore today into tonight. High 
+pressure builds in thereafter for the end of the week into at 
+least the start of the weekend. A frontal system moves through 
+at the beginning of next week. High pressure gradually builds in
+thereafter. Please refer to NHC forecasts for further 
+information on Hurricane Erin.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Key Points
+
+* As Hurricane Erin passes well offshore, it will bring indirect, 
+  but significant impacts to the shoreline. See TIDES/COASTAL 
+  FLOODING section below.
+
+An upper level trough is currently moving through as Hurricane Erin 
+moves up the east coast. Shower coverage and intensity gradually 
+decreases this morning with dry conditions expected by the afternoon 
+the latest with increasing subsidence. Winds continue to increase 
+today and likely peak late morning into the evening. Some isolated 
+gusts along the Long Island coast could reach 40 mph, otherwise 
+gusts will top out around 25 to 30 mph for most.
+
+&&
+
+.SHORT TERM /FRIDAY THROUGH SATURDAY NIGHT/...
+Key Points
+
+* Shoreline impacts continue in the short term. See TIDES/COASTAL 
+  FLOODING section below.
+
+The pressure gradient weakens quickly on Friday as Hurricane Erin 
+moves farther east and high pressure builds in. Aloft, the flow
+becomes mostly zonal, with heights starting to lower a tad
+Saturday night as an upper level low moves through eastern
+Canada. Dry and sunny conditions are expected Friday and 
+Saturday with highs back in the 80s. An approaching frontal
+system may bring showers to extreme western portions of the area
+as early as late Saturday night. Followed the NBM during this 
+period.
+
+&&
+
+.LONG TERM /SUNDAY THROUGH WEDNESDAY/...
+An approaching upr trop brings swly flow aloft on Sun, then the trof 
+slows over the region thru the beginning of next week. This should 
+keep temps on the cooler side of normal, and produce chances for 
+shwrs and perhaps isold tstms at times. The NBM was followed.
+
+&&
+
+.AVIATION /12Z THURSDAY THROUGH MONDAY/...
+A frontal system moves east of the region early this morning.
+High pressure builds to the northwest today into tonight as 
+Hurricane Erin passes well to the southeast of the area. Please 
+refer to the National Hurricane Center for further information 
+on Hurricane Erin.
+
+Ceilings remain borderline between MVFR and IFR early morning
+this morning with scattered light showers or drizzle. Expect
+widespread MVFR by 14Z, however, the improvement may be later by
+an hour or so. MVFR likely into this afternoon once improvement 
+occurs, then VFR mid to late afternoon.
+
+NE flow near 15 kt with gusts 20 to 25 kt increases early this 
+morning to around 20 kt with gusts 25 to 30 kt. An occasional
+higher gust is possible. Highest winds and gusts will be along
+the coast.
+
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Timing of improving flight categories may be off by a couple of 
+hours.
+
+Gusts during the day may briefly be 30 to 34 kt, mainly KJFK and
+KLGA.
+
+.OUTLOOK FOR 12Z FRIDAY THROUGH MONDAY...
+
+Friday: VFR. For KGON NE-N winds 15G20-25kt early in the 
+morning.
+
+Saturday: VFR. 
+
+Sunday and Monday: MVFR or lower possible in any showers.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Marine hazards remain unchanged from the previous forecast. A Gale 
+Warning remains in effect across the ocean waters, with a Small 
+Craft Advisory in effect elsewhere.
+
+Winds and swell continue to increase today. Winds peak late this 
+morning through the evening with 35 to 40 kt gusts on the ocean 
+waters and 25 to 30 kt gusts expected elsewhere. Seas peak this 
+evening into early Friday with a significant wave height of 14 to 18 
+feet and occasional waves 20+ feet. This will be a combination 
+of a long period southerly swell up to 17s and an easterly wind 
+wave with a period of around 8s. Additionally, 5 to 9 ft waves 
+could make it into the far eastern Long Island Sound and 5 to 6 
+ft waves could make it near the immediate entrance to the NY 
+Harbor.
+
+Winds decrease pretty quick on Friday, but the ocean will likely 
+need a Small Craft Advisory through Saturday or Saturday night for 
+lingering 5ft seas. Conditions then remain below Small Craft 
+Advisory thereafter into mid next week.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through the middle of next
+week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+Shoreline hazards remain unchanged from the previous forecast. A 
+High Surf Advisory and High Risk for Rip Currents are in effect for all 
+Atlantic Ocean Beaches through Friday as swell from Hurricane Erin 
+in bringing life-threatening surf and rip currents.
+
+With large and long period waves from Hurricane Erin approaching the 
+beach nearly head on, surf heights during the day today will likely 
+reach 9 to 13 feet for Brooklyn and southern Queens and 12 to 16 for 
+southern Nassau and southern Suffolk. Surf heights likely peak 
+overnight tonight and could be a foot or two higher than earlier in 
+the day. Surf remains elevated Friday morning but by the afternoon 
+should drop to 5-9 for western beaches and 8-12 for eastern beaches.
+
+The threat for beach flooding, beach erosion and escarpment and 
+areas of dune erosion will increase with successive high tides 
+through tonight. Widespread areas of dune erosion are likely with 
+localized overwashes during this evening and Friday morning high 
+tides. This high surf will be combined with elevated water levels as 
+we approach a new moon.
+
+Widespread moderate coastal flooding is expected for southern 
+Queens, southern Nassau, and southwestern suffolk counties. For 
+eastern Long Island, moderate flooding will likely be more 
+localized, with north facing exposed shoreline areas along the 
+southern and eastern bays being the most susceptible due to to 
+enhanced wave action. This includes Orient Point.
+
+Elsewhere, minor coastal flooding is expected with this evening's 
+high tide cycle for southern Brooklyn, the NY Harbor, and much of 
+the CT & NY coastlines along the Long Island Sound. Coastal Flood 
+Advisories have been issued in these areas.
+
+Additional rounds of minor flooding are expected with Friday morning 
+and Friday evening's high tide cycles. Advisories are in place for 
+the areas at highest risk.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Coastal Flood Advisory from 8 PM this evening to 1 AM EDT 
+     Friday for CTZ009>011.
+     Coastal Flood Advisory from 10 PM Friday to 2 AM EDT Saturday 
+     for CTZ009.
+NY...Coastal Flood Advisory from 8 PM this evening to 1 AM EDT 
+     Friday for NYZ071-073-078-176-177.
+     Coastal Flood Advisory from 10 PM Friday to 2 AM EDT Saturday 
+     for NYZ071.
+     Coastal Flood Advisory from 6 PM to 11 PM EDT this evening for 
+     NYZ072-074-075.
+     Coastal Flood Advisory from 6 PM to 11 PM EDT Friday for 
+     NYZ072-074-075.
+     High Risk for Rip Currents through Friday evening for NYZ075-080-
+     081-178-179.
+     High Surf Advisory until 8 PM EDT Friday for NYZ075-080-081-
+     178-179.
+     Coastal Flood Warning from 5 PM this afternoon to 3 AM EDT 
+     Friday for NYZ079-081.
+     Coastal Flood Advisory from 5 AM to 2 PM EDT Friday for NYZ079-
+     081.
+     Coastal Flood Warning from 5 PM this afternoon to 1 AM EDT 
+     Friday for NYZ080-178-179.
+     Coastal Flood Advisory from 5 AM to 1 PM EDT Friday for NYZ080-
+     178-179.
+     Coastal Flood Advisory from 6 PM Friday to 2 AM EDT Saturday 
+     for NYZ080-178-179.
+NJ...Coastal Flood Advisory from 6 PM to 11 PM EDT this evening for 
+     NJZ006-106-108.
+     Coastal Flood Advisory from 6 PM to 11 PM EDT Friday for 
+     NJZ006-106-108.
+MARINE...Small Craft Advisory until 2 PM EDT Friday for ANZ331-332-340-
+     345.
+     Small Craft Advisory until 6 AM EDT Friday for ANZ335-338.
+     Gale Warning until 2 PM EDT Friday for ANZ350.
+     Gale Warning until 6 AM EDT Friday for ANZ353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JMC/JT
+NEAR TERM...JT
+SHORT TERM...JT
+LONG TERM...JMC
+AVIATION...MET
+MARINE...JMC/JT
+HYDROLOGY...JMC/JT
+TIDES/COASTAL FLOODING...

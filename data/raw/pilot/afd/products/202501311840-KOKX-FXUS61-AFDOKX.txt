@@ -1,0 +1,195 @@
+797 
+FXUS61 KOKX 311840
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+140 PM EST Fri Jan 31 2025
+
+.SYNOPSIS...
+An approaching frontal system will impact the area through 
+tonight. Strong high pressure will then build down from Ontario 
+and the upper Great Lakes into New York and New England on 
+Saturday, then pass east of New England on Sunday. Low pressure 
+approaching from south central Canada Sunday night will then 
+move into Southeast Canada Monday into Monday night, followed by
+high pressure through early Wednesday. This high will then 
+move offshore, with another frontal system eventually moving in
+toward the end of the week.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+No major changes. Temperatures will remain in the upper 30s to 
+lower 40s this afternoon, and rainfall coverage across the 
+forecast area should increase towards sundown in advance of a low
+pressure center.
+
+Steadier rain then continues into tonight as a warm front nears
+Long Island and low pressure to the west moves over the area. 
+
+Precipitation gradually tapers off tonight as the low departs. 
+As precip ends, there may be just enough cold air for some light
+snowflakes to fall across the interior, with little to no
+accumulation expected. Temps tonight fall into the upper 20s 
+and 30s, so some icy spots are possible, mainly inland and
+especially on untreated surfaces.
+
+&&
+
+.SHORT TERM /SATURDAY THROUGH SUNDAY/...
+A fast quasi-zonal flow across the lower 48 develops in the 
+wake of the departing system this weekend. Mid level confluence
+over Ontario and the upper Great Lakes will support strong sfc 
+high pressure moving quickly across NY and New England on Sat,
+passing offshore on Sunday. 
+
+Sat will be only slightly colder than today, with highs in the 
+30s to near 40, then colder wx expected for Sat night, with lows
+from the single digits well inland to the lower 20s in NYC.
+
+As the high moves offshore on Sunday, a weak upper trough will
+approach from the northern Plains. A leading warm front could
+bring some light snow to the interior in the afternoon. 
+High temps on Sunday range from the upper 20s to mid 30s.
+
+&&
+
+.LONG TERM /SUNDAY NIGHT THROUGH THURSDAY/...
+Jet stream overall remains mainly zonal through the period
+across the northern US. This same nearly zonal pattern is 
+evident in the mid levels also.
+
+At the surface, a warm front associated with an approaching low 
+Sunday night will have much of its energy north of the region. 
+However, enough vertical forcing is forecast to have some 
+precipitation briefly Sunday night into early Monday. 
+
+This could very well bring a light snow, under an inch, to
+mostly interior locations while the coast may have very brief 
+snow without much of any accumulation as more rain is expected 
+towards the coast. A warm front will be moving across with 
+slowly rising temperatures expected late at night. Temperatures 
+trend from upper 20s interior to mid 30s along coast for early 
+evening to lower 30s interior and upper 30s to near 40 along 
+coast overnight.
+
+Mainly dry conditions thereafter for the rest of Monday with an 
+associated cold front moving across Monday night. Mostly cloudy 
+conditions will continue. High pressure will then build in for 
+Tuesday into early Wednesday. This will help maintain dry 
+conditions and allow for clouds to decrease.
+
+However, clouds and eventually precipitation are expected to
+return for mid to late week as another frontal system 
+approaches from the west. High pressure moves offshore Wednesday
+and an associated warm front slowly moves in. The warm front is
+forecast to move across Thursday with an associated cold front 
+then approaching for Thursday. This is expected to move across 
+late Thursday night into Friday.
+
+Precipitation chances are forecast Wednesday through Thursday
+night. Ambient airmass expected to be cold enough for mostly 
+snow early Wednesday but then changing more to rain along the 
+coast in the afternoon and into the night as well. Snow remains 
+across the interior. Warm sector for the local area Thursday so 
+pretty much all rain chances in the forecast on Thursday. Rain 
+chances continue into Thursday night.
+
+Overall, the long term forecast period does not show much
+tightness of the pressure gradient so winds are not expected 
+to get strong. All forecast wind gusts stay under 30 mph. 
+Temperatures do not exhibit too much of a vast range. Max 
+temperature ranges from the mid 30s to lower 50s accounting for 
+all days in the long term. Only one day where some interior 
+spots may just reach near freezing for the high temperatures and
+that day is Wednesday. Min temperatures not too much of range 
+either in the long term. They range from lower 20s to upper 30s.
+
+&&
+
+.AVIATION /18Z FRIDAY THROUGH WEDNESDAY/...
+Low pressure approaches from the west today with a warm front 
+nearing the coast. A cold front moves through tonight. High
+pressure builds in on Saturday.
+
+Widespread MVFR conditions will become IFR or LIFR this 
+afternoon and tonight, though coastal terminals like KISP, KHPN,
+KGON, and KJFK may be LIFR much of the time. Some terminals are
+already IFR/LIFR. There may be some brief improvements, but 
+largely expecting IFR or lower conditions the rest of the 
+afternoon and evening. Categories improve to MVFR before 12Z 
+Saturday then VFR from 12-15Z from west to east.
+
+Intermittent light rain possible through this afternoon. More 
+widespread rain expected this evening and through tonight,
+mainly before 6Z. Rain comes to an end from west to east from
+5-9Z. KSWF may briefly mix with -SN before ending.  
+
+Winds this afternoon will be S to SW under 10 kts, with some
+locations being light and variable. Wind will become NW and 
+increase late tonight to near 10kt. Winds by Saturday morning 
+will be NW 10-15 kt with gusts upwards of 25kt. Some gusts
+upwards of 30kt possible before gusts end from around 22Z 
+Saturday.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Amendments likely for timing of category changes MVFR, IFR, and
+possibly LIFR through the day and tonight. 
+
+.OUTLOOK FOR 18Z SATURDAY THROUGH WEDNESDAY...
+
+Saturday: VFR. NW winds 10-15G20-25kt. Some gusts to 30kt
+possible. 
+
+Sunday: VFR during the day, a chance of MVFR or lower 
+conditions at night in rain and/or snow.
+
+Monday: VFR.
+
+Tuesday: VFR. 
+
+Wednesday: MVFR or lower in rain or snow showers.
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+SCA for the ocean is in effect through daytime Sat and may need
+to be extended further into Sunday. Wind gusts to 25 kt in S 
+flow and seas 5-6 ft this morning should subside for a while 
+this afternoon, then S swells 5-6 ft return tonight, and N-NW 
+winds gust to 25-30 kt on all waters daytime Sat between 
+departing low pressure and building strong high pressure. 
+Leftover 25-kt gusts on the ocean and ern Sound/bays, and 5+ ft 
+ocean seas, should subside Sat night as the high builds over the
+waters, with quiet cond thereafter through Tue night.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns attm.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 6 PM EST Saturday for ANZ350-353-
+     355.
+
+&&
+
+$$
+
+SYNOPSIS...BG/JM
+NEAR TERM...JC/BG
+SHORT TERM...BG
+LONG TERM...JM
+AVIATION...MW
+MARINE...BG/JM
+HYDROLOGY...BG/JM

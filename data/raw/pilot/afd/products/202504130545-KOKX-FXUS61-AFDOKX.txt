@@ -1,0 +1,188 @@
+487 
+FXUS61 KOKX 130545
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+145 AM EDT Sun Apr 13 2025
+
+.SYNOPSIS...
+Low pressure south of Long Island tonight weakens and 
+dissipates, while a secondary low develops east of New England.
+The low will then lift northeast on Sunday, followed by a weak 
+ridge of high pressure building in from the west Sunday night. A
+frontal system will approach from the west Monday and impact 
+the region Monday night and Tuesday, with a cold frontal passage
+expected late Monday night into early Tuesday morning. Another 
+cold front will move through Tuesday night. High pressure passes
+to the south Wednesday and Thursday. Another frontal system may
+impact the region Friday and Saturday.
+
+&&
+
+.NEAR TERM /THROUGH TODAY/...
+Forecast on track as areas of light rain and drizzle continue.
+The precipitation has become a little more scattered as drier
+air has moved into the area as the upper low moves southwest
+through Pennsylvania at 23Z.
+
+Expect occasional light rain and drizzle through the night as 
+as the upper trough tracks slowly across the area. At the 
+surface, low pressure dissipates to the south of LI tonight, 
+with a secondary low developing east of New England. Weak low- 
+level lift and moisture with dry mid levels should keep the rain
+fairly light. The 12Z HRRR indicated some steadier wraparound 
+rain moving into the area briefly toward daybreak, but this 
+scenario seems unlikely at this time with the surface low being 
+the farthest west of the guidance. However, plan to still keep a
+chance of light rain and/or drizzle into the morning. 
+Conditions then dry out from west to east with the rain ending 
+by afternoon for most locations, but could linger across far 
+eastern LI and SE CT.
+
+Overnight lows will drop into the mid and upper 30s with a very
+small diurnal change. Highs on Sunday then climb into the 50s, 
+but still several degrees below normal with plenty of clouds to 
+start along with a northerly flow. NBM and MOS were fairly 
+close and generally accepted.
+
+&&
+
+.SHORT TERM /TONIGHT THROUGH 6 PM MONDAY/...
+A weak high pressure ridge builds in from the west Sunday night
+with clear skies and diminishing NW flow. Lows Sunday night 
+will range from the upper 30s to lower 40s, which is close to 
+normal. Growing season has started across the southern half of 
+the forecast area so will have to take a further look into the 
+potential for a frost advisory tomorrow night. At this time, it 
+looks too warm.
+
+&&
+
+.LONG TERM /MONDAY NIGHT THROUGH SATURDAY/...
+The forecast from Monday through Wednesday is fairly consistent with 
+the previous forecast with the timing and spatial movement of a 
+frontal system that impacts the region Monday night into Tuesday. 
+Mainly used the NBM deterministic parameters, except blended in the 
+90th percentile for winds and gusts Tuesday and Wednesday in the 
+wake of the two cold frontal passages, and the deterministic 
+under does the winds and gusts. The upper flow continues to be 
+progressive Monday into late in the week with the first upper trough 
+affecting the area Monday and Tuesday, with the trough axis moving 
+east of the region during Wednesday as heights slowly rise with 
+cyclonic flow Wednesday into Wednesday night. Weak upper ridging 
+passes through and flattens late Wednesday night through Thursday 
+night as surface high pressure passes to the south. Another 
+shortwave upper trough affects the area late Friday through 
+Saturday. Once again used the NBM deterministic Thursday through 
+Saturday, even for winds and gusts Saturday as timing of the cold 
+front is uncertain at this time.
+
+&&
+
+.AVIATION /06Z SUNDAY THROUGH THURSDAY/...
+Low pressure slowly tracks to the north this evening and 
+overnight. Weak high pressure slowly builds in from the west 
+late Sunday.
+
+MVFR and IFR continues to dominate the forecast overnight and
+Sunday morning. General improvements to MVFR everywhere is 
+expected by 12Z-15Z Sunday. VFR conditions don't return until 
+Sunday afternoon, mainly after 18Z. However, this is a very
+uncertain forecast and VFR conditions could return several hours
+earlier than is forecast.
+
+Some rain has redeveloped across eastern terminals which could
+affect these areas through daybreak Sunday. The main 
+terminals impacted would be KGON and KISP. However, these 
+showers may push east towards the city terminals overnight,
+which could lead to temporary lowering of ceilings or
+visibilities.
+
+NNE to N winds 10-20 kt with some gusts to 20-25 kt, the 
+highest winds along the coast, mainly affecting KBDR, KGON, and
+at times, KISP. Gusts look to make a return Sunday morning,
+around 14Z, and diminish between 22Z and 00Z Monday.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Timing of flight category changes very uncertain, with the
+possibility of conditions improving several hours earlier than 
+forecast. 
+
+Gusts may be occasional this evening.
+
+.OUTLOOK FOR 06Z MONDAY THROUGH THURSDAY...
+
+Sunday night: VFR.
+
+Monday: VFR. MVFR or lower in possible showers at night.
+
+Tuesday: VFR. Slight chance of showers. W wind gusts 20-25 kt.
+
+Wednesday: VFR. NW wind gusts around 25 kt. 
+
+Thursday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+SCAs are up on all waters but are expected to be dropped later
+this evening for the non-ocean waters. However, the ocean will
+take a bit longer for northerly gusts to fall below 25 kt and 
+seas are not expected to drop below 5 ft until Sunday afternoon.
+
+Sub-advisory conditions are expected Monday through Monday night. 
+Then in the wake of a cold frontal passage Monday night into Tuesday 
+morning westerly winds may gust to around SCA levels across the 
+forecast waters. And by late day Tuesday ocean seas builds to 5 to 6 
+feet. SCA gusts continues across the forecast waters Tuesday night, 
+with elevated ocean seas. And in the wake of another cold front 
+Tuesday night, gusty west to northwest winds will be at or just 
+above SCA levels across the forecast waters Wednesday into Wednesday 
+evening, and slowly diminish late Wednesday night as high pressure 
+builds to the south. Also, ocean seas slowly subside below advisory 
+levels Wednesday night. Conditions will be sub advisory across the 
+forecast waters Thursday and Thursday night as high pressure passes 
+to the south.
+
+&&
+
+.HYDROLOGY...
+No significant hydrologic impacts are expected through the 
+period.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+Coastal flood statements have been dropped as water levels are
+forecast to stay below minor coastal flood benchmarks. With 
+winds more northerly and water levels over forecast this 
+morning, this threat has diminished.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 2 AM EDT early this morning for 
+     ANZ332-340.
+     Small Craft Advisory until 6 PM EDT this evening for ANZ350-
+     353-355.
+
+&&
+
+$$
+
+SYNOPSIS...MET/DW
+NEAR TERM...MET/DW
+SHORT TERM...DW
+LONG TERM...MET
+AVIATION...JP
+MARINE...MET/DW
+HYDROLOGY...MET/DW
+TIDES/COASTAL FLOODING...

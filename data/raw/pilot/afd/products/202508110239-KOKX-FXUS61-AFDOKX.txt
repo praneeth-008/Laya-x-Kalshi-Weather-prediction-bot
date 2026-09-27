@@ -1,0 +1,187 @@
+259 
+FXUS61 KOKX 110239
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1039 PM EDT Sun Aug 10 2025
+
+.SYNOPSIS...
+High pressure will become more based offshore in the Western
+Atlantic through early this week. The high will then slowly 
+weaken over the region as a frontal system approaches mid week. 
+The front will move through Wednesday night into Thursday 
+morning.
+
+&&
+
+.NEAR TERM /THROUGH MONDAY/...
+Numerical weather prediction models depict in their MSLP fields, no 
+significant change across the region tonight into early Monday.
+ 
+However, enough of a pressure gradient is seen within the 
+forecast models showing high pressure relative higher south of the 
+region. This will help keep more of a west to southwest flow across 
+the region, slightly higher along the coast. Airmass will be 
+trending to becoming more warm and humid. Expect the temperatures 
+and dewpoints to be slightly higher compared to the previous night.
+Forecast lows range from mid to upper 50s in the outlying rural 
+locations to lower 70s for parts of NYC.
+
+Last few nights had some fog for river valley and outlying sections 
+for early morning hours. Anticipating the same for early Monday 
+morning.
+
+&&
+
+.SHORT TERM /MONDAY NIGHT THROUGH TUESDAY/...
+For Monday, high pressure remains out in the Western Atlantic 
+but weakens in magnitude. The synoptic SW flow will continue 
+and will allow for warm air advection. Forecast 850mb 
+temperatures are slightly warmer than the previous day and 
+surface temperatures likewise are expected to trend a little 
+warmer than the previous day. More locations reach lower 90s 
+including locations within NE NJ, Lower Hudson Valley, NYC, 
+north shores of Western Long Island and parts of interior 
+Southern CT. Otherwise for other locations, high temperatures 
+are forecast well into the 80s.
+
+The warmest spots, away from south shorelines, have corresponding 
+dewpoints mostly in the upper 50s to lower 60s, making heat indices 
+right near the actual temperature. Max heat indices are in the lower 
+90s for these locations.
+
+For Monday night, high pressure in the Western Atlantic will 
+continue to slightly weaken. SW flow remains in the low levels but 
+will decrease. Winds become nearly calm in some locations. There 
+could be some low stratus and perhaps some patchy fog. Only hinted 
+at the lower stratus in the forecast with some increase in clouds, 
+more over Long Island into Southern Connecticut. With the 
+uncertainty in cloud coverage, took a blend of MAV/MET/NBM with a 
+slight decrease towards Westhampton NY for the low temperature 
+forecast, ranging from around 60 to the lower 70s across the
+entire forecast region.
+
+For Tuesday, high pressure weakens more at the surface and
+remains based in the Western Atlantic. The increase in pressure
+gradient will develop as a parent low approaches Quebec.
+
+Temperature trends will continue to exhibit a warming trend compared 
+to previous night and previous day with synoptic SW flow
+increasing Tuesday. Some locations could reach near 19 degrees 
+C for their 850mb temperatures Tuesday afternoon. Majority of 
+the region has a range of high temperatures forecast from the 
+upper 80s to lower 90s. With forecast dewpoints mostly in the 
+low to mid 60s, once again, heat indices are around the actual 
+temperature with most values in the lower 90s for much of the 
+area. Isolated forecast heat indices in the mid to upper 90s, 
+mostly within the interior are forecast.
+
+&&
+
+.LONG TERM /TUESDAY NIGHT THROUGH SUNDAY/...
+Weak ridging over the Mid-Atlantic with off shore surface high 
+pressure will keep the area mostly dry Tuesday night into Wednesday 
+morning. 
+
+The ridge pushes east as a cold front approaches from the west 
+during the day Wednesday. This will be the focus for some showers 
+and thunderstorms Wednesday afternoon in the evening hours, with the 
+highest chances for areas north and west of NYC during the 
+afternoon. However, chances increase towards the city and the coast 
+towards evening and into the early nighttime hours Wednesday night 
+as the front continues its approach. The cold front will be slow to 
+move through, with chances for precipitation continuing into 
+Thursday as the cold front pushes south of the region. 
+
+Mainly dry conditions return for Thursday night through next weekend 
+with high pressure building in and remaining in control, pushing 
+south of the area by Saturday. 
+
+Highs will generally be in the upper 80s to lower 90s on Wednesday 
+for inland areas, and low to middle 80s across the coastal areas. 
+While widespread heat indices of 95 to 99 are expected across 
+northwestern Long Island, NYC, NE NJ, the Lower Hudson Valley, and 
+much of southern CT, slightly cooler conditions on Thursday and 
+slightly lower humidity Thursday afternoon will preclude the need 
+for any heat headlines during this time frame. Near normal 
+temperatures and typical humidity levels for this time of year are 
+expected for Friday and Saturday. Slightly warmer readings and 
+higher humidity levels for Sunday as the high pushes south and east 
+of the forecast area.
+
+&&
+
+.AVIATION /03Z MONDAY THROUGH FRIDAY/...
+VFR with high pressure in control. Light SW winds overnight. SW
+winds 5-10 kt after about 14Z Mon should become S around or 
+just over 10 kt by 18Z, then decrease aft 00Z.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No unscheduled amendments expected..
+
+.OUTLOOK FOR 00Z TUESDAY THROUGH FRIDAY... 
+
+Monday Night: VFR with lgt/vrb winds.
+
+Tuesday: MVFR cigs possible at KGON and possibly KBDR/KISP, 
+otherwise VFR. 
+
+Wednesday: Chance of late day/evening tstms with MVFR or lower 
+cond, then chance of showers late at night. 
+
+Thursday: Chance of showers and possibly a tstm with MVFR or lower 
+cond. 
+
+Thursday night and Friday: VFR. 
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Offshore high pressure will keep a weak enough pressure 
+gradient to keep conditions on all forecast waters below SCA
+thresholds through Tuesday.
+
+With a lack of any strong pressure gradient, winds and waves are 
+expected to continue to remain below SCA criteria through 
+Thursday.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through the week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+A moderate rip current risk remains through Monday evening at
+Ocean beaches due to continued E-ESE swells with around 3 ft
+waves and a 7-9 second period.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...Air Quality Alert from 11 AM to 11 PM EDT Monday for 
+     NYZ067>075-078>081-176>179.
+     Air Quality Alert until 11 PM EDT this evening for NYZ069>075-
+     176-178.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JM/JP
+NEAR TERM...JM
+SHORT TERM...JM
+LONG TERM...JP
+AVIATION...JMC/BG
+MARINE...JM/JP
+HYDROLOGY...JM/JP
+TIDES/COASTAL FLOODING...

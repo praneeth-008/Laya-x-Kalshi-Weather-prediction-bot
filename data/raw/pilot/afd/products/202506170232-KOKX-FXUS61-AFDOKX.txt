@@ -1,0 +1,200 @@
+763 
+FXUS61 KOKX 170232
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1032 PM EDT Mon Jun 16 2025
+
+.SYNOPSIS...
+High pressure east of New England will gradually weaken and
+shift east Tuesday as a stationary front remains well to the 
+south. This front will move back north as a warm front 
+beginning Tuesday night, lifting north of the area early
+Wednesday, while a cold front approaches from the Midwest. The
+cold front will move across late Thursday afternoon into
+Thursday evening. Weak high pressure will then build in for the
+end of the week. Another warm front will lift to the north and
+west Saturday night into Sunday.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM TUESDAY MORNING/...
+Showers have been a bit more widespread than expected this
+evening from the NYC metro into NE NJ, LoHud, and Southern CT. 
+Have updated the forecast to account for the latest radar 
+trends. The showers will only bring light amounts where they 
+occur. Additional showers are possible overnight, especially NW 
+of the NYC metro. Otherwise, marine layer with abundant cloud 
+coverage persists over most of the area. Some patchy fog is 
+also possible tonight, with temps gradually falling to the lower
+60s throughout.
+
+&&
+
+.SHORT TERM /6 AM TUESDAY MORNING THROUGH TUESDAY NIGHT/...
+The high will weaken further on Tue, with the flow becoming SE in
+the afternoon. Additional shortwave energy approaches aloft.
+With plenty of moisture still around this will allow for 
+shower activity, especially north and west of NYC. Temp s should
+be a little milder than recent days, reaching the mid 70s in NE
+NJ and the lower 70s most elsewhere.
+
+As the warm front begins to approach, chances for showers and 
+possibly a tstm (via elevated instability) should continue Tue
+night. Fog also more likely as SE flow turns S ahead of the
+front. Low temps will be in the lower/mid 60s.
+
+&&
+
+.LONG TERM /WEDNESDAY THROUGH MONDAY/...
+Key points:
+
+* Very warm and humid Thursday with the potential for strong to
+  severe thunderstorms Thursday afternoon and night. 
+
+* Potential for high heat and humidity late in the weekend into
+  early next week. 
+
+Global models are in good agreement and forecast largely
+followed NBM during this period.
+
+Amplifying upper trough across the Midwest and Mid Mississippi 
+Valley on Wednesday will send a warm front north of the area 
+early in the day. However, the warm sector looks to be active 
+with a chance of showers and thunderstorms Wednesday, especially
+in the afternoon and evening. PW values will increase to around
+2 inches, which is close to a daily max for KOKX upper air 
+soundings. Thus, any convection will likely be efficient at 
+producing heavy rainfall. However, storm motion will be about 30
+kt with the boundary to the north. Thus, no training issues at 
+this time and large scale lift is rather weak. Instability is 
+marginal to moderate, highest across the interior. Any flooding 
+issues will likely be of the minor nuisance variety. 
+
+Thursday gets quite a bit more interesting with the cold front 
+moving into the area during the afternoon and evening hours. 
+Moderate to high instability and a strengthening vertical wind 
+profile suggest the potential for strong to severe bowing line 
+segments. SPC Day 4 and CSU-MLP have the area in greater than 
+15% for severe weather with the main threat being damaging 
+winds. Limiting factors could be too much dry air in the low-
+levels, lowering MLCAPE values. However, it is a bit early to be
+too specific with details, but nevertheless something to keep a
+watch on. In addition, temperatures will be about 10 degrees 
+above normal with dew points well into the 60s to around 70. NBM
+box and whisker plots show deterministic NBM at or below the 
+25th percentile. Thus, there is the potential for higher temps. 
+Deterministic NBM similar to long rage GFS and ECMWF MOS values.
+
+Temperatures fall off some Friday into Saturday but still
+several degrees above normal. Also have to watch out for some 
+ridge rollers Saturday night into Sunday as heights build and a 
+warm front over the Great Lakes potentially trigger MCS 
+development. What is more certain, heights build Sunday into 
+Monday, as a high amplitude ridge takes takes control east of 
+the Mississippi River Valley. This lines up with start of the 
+summer and will easily be the warmest airmass of the season. 
+Heat indices will be on the rise Sunday into Monday, with 95 to 
+100 plus from NYC and points north and west. Guidance points to 
+even warmer conditions on Tuesday. Thus, there is the potential 
+for heat headlines. NBM box and whisker plots once again showing
+NBM deterministic values at or below the 25ht percentile. 
+Values closer to the 50th support ambient temperatures around 
+100 in some locations. Dew points at this time are forecast to 
+be in the upper 60s to around 70.
+
+&&
+
+.AVIATION /03Z TUESDAY THROUGH SATURDAY/...
+A stationary front remains to the south through Tuesday. The 
+front will begin lifting north as a warm front Tuesday night. 
+
+Conditions will continue deteriorating overnight from MVFR to 
+IFR with LIFR late tonight into early Tuesday morning. 
+Conditions may gradually improve after 13z, but remain IFR at 
+most terminals into the afternoon. Some improvement to MVFR is 
+possible. Flight categories may fall back to IFR, potentially 
+LIFR, in the evening. 
+ 
+Light showers this evening for NYC metro, Lower Hudson Valley, 
+and Southern CT terminals should become more isolated 
+overnight. Additional showers are possible Tuesday evening, 
+mainly north and west of the NYC metro. 
+
+Winds will generally be E to NE 10 kt or less tonight. E-NE
+winds become ESE-SE on Tuesday and should remain under 10 kt. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+Amendments expected for flight categories through Tuesday
+evening. 
+
+Timing of LIFR may be off by several hours overnight and could
+linger a few hours longer than indicated Tuesday morning. 
+
+.OUTLOOK FOR 00Z WEDNESDAY THROUGH SATURDAY... 
+
+Tuesday night: IFR-LIFR. Showers with an isolated thunderstorm 
+possible.
+
+Wednesday: Chance of IFR early, otherwise VFR. A chance of
+showers and thunderstorms late with MVFR. 
+
+Thursday: VFR. Showers and thunderstorms with MVFR possible in 
+the afternoon and evening.
+
+Friday and Saturday: VFR. Slight chance Friday and Saturday
+evening NW of NYC metro. 
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Seas and wind gusts in E flow are likely just shy of SCA 
+criteria attm on the outermost coastal ocean waters W of Fire
+Island Inlet. With a downward trend expected tonight and 
+minimal/occasional coverage of 5-ft seas at most, elected not 
+to issue SCA.
+
+Ocean seas E of Moriches Inlet may briefly reach SCA levels Thu
+evening as SW winds ahead of a cold front increase.
+
+&&
+
+.HYDROLOGY...
+Some downpours possible with heavier showers and possible tstms
+late Tue night, mainly well inland NW of NYC. 
+
+Locally heavy downpours are also possible with any thunderstorms
+Wednesday and again Thursday afternoon into the evening.
+However, the risk of flooding will be mitigated by the speed 
+of any cells and lack of overall cell training.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+Rip current risk remains at moderate for today. The Tuesday 
+forecast will be updated within the hour. Check for update shortly.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...BG/DW
+NEAR TERM...BG
+SHORT TERM...BG
+LONG TERM...DW
+AVIATION...DS
+MARINE...BG/DW
+HYDROLOGY...BG/DW
+TIDES/COASTAL FLOODING...

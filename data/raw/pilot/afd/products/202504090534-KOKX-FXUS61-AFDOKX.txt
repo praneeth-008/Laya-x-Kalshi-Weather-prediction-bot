@@ -1,0 +1,213 @@
+837 
+FXUS61 KOKX 090534
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+134 AM EDT Wed Apr 9 2025
+
+.SYNOPSIS...
+High pressure builds and settles nearby for mid week before
+moving offshore into Thursday. A broad area of low pressure 
+will impact the area for the end of the week into the weekend. 
+A transitory high pressure ridge may build in on Monday.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM THIS MORNING/...
+Gusts are diminishing fairly quickly across the forecast area.
+Had to lower gusts over the next few hours to come more in line
+with what observations currently have. With high pressure
+building in, think winds will continue to diminish from this
+point forward, though there may be occasional gusts to around 30
+kt through about midnight or so. Otherwise, forecast is on
+track.
+
+An unseasonably cold night in store as an anomalously cold air 
+mass for April settles over the region. 1000-500 mb thickness 
+values are progged to get down to around 520 dm. Near record 
+cold is a distinct possibility at a few of our climate sites 
+(see climate section). A NW wind will make it feel a good 10 
+degrees colder much of the time, although the strongest wind 
+gusts diminish this evening. Winds overall diminish more 
+gradually during the second half of the night, and likely not 
+much until just before sunrise and mainly across NW interior 
+zones. With the winds staying up temperatures won't drop lower 
+than the middle and upper 20s in most locations, but that is 
+still a significant freeze. Thus a freeze warning remains in 
+effect where the growing season has begun (NE NJ and NYC metro) 
+into Nassau County. Other zones nearby do not begin their 
+growing season (climo based) until the 11th. Expect widespread 
+20s for lows, to around 30 for portions of NYC. Wind chills will
+bottom out mainly in the teens, so a hard freeze indeed under 
+clear skies with high pressure continuing to build.
+
+&&
+
+.SHORT TERM /6 AM THIS MORNING THROUGH 6 PM THURSDAY/...
+Quite a cold start to the morning but with lighter winds with high 
+pressure settling to the SW and S through the day. With synoptic 
+scale sinking motion firmly in place skies should be mainly sunny 
+with BUFKIT forecast soundings indicating much of the column being 
+dry, with just a hint of moderate RH in a shallow layer in the mid 
+levels. With a lighter west wind look for temperatures to be a touch 
+milder, but still below normal for this time of year. Went just a 
+touch above guidance as far as temperatures go with no sign of a 
+mesoscale sea breeze, until perhaps very late in the day and still 
+enough of a westerly synoptic flow for the most part. 
+
+For Wednesday evening the high will be just above overhead, and thus 
+the winds should go calm in many places. Thus, in the non urban 
+locations look for some degree of radiational cooling, at least 
+early in the night. However, there is uncertainty regarding how 
+quickly mid level clouds work in with high pressure beginning to 
+build offshore late. Much of the modeling has a significant amount 
+of cloud cover moving in at the mid levels. Thus, have increased 
+cloud cover some for Wednesday night. Minimum temperatures will be 
+primarily in the 30s, and around 40 for the metro.
+
+&&
+
+.LONG TERM /THURSDAY NIGHT THROUGH TUESDAY/...
+A strong jet currently blasting into the Pacific NW will carve out a 
+trof over the East Coast for the end of the week, producing 
+extensive cloud cover and periods of rain. The models are in good 
+agreement with the overall pattern, and a blend via the NBM has 
+generally been followed.
+
+Increasing clouds on Thu with highs around 50. Some lgt rain or a 
+few shwrs possible, mainly nwrn zones, with the onset of waa. 
+Chances for lgt rain again Thu ngt and Fri, but flow from high pres 
+over the N Atlc will limit somewhat 0-3kft moisture. A better 
+organized sfc low will likely produce solid rain for Fri ngt. 
+Although the timing may ultimately shift with the event still 
+several periods away, high confidence that the batch of rain will 
+come thru at some point based on the pattern and model consistency 
+over the last several days. Right now, again that window looks to be 
+Fri ngt. More chances for rain on Sat with the upr trof still 
+producing deep sly flow across the region. Moisture likely limited 
+with the mid lvls drying a bit, but extensive clouds along with at 
+least lgt rain and/or dz with this setup. The upr low is progged to 
+reach the cwa on Sun per the 12Z GFS, with the cold pool aloft and 
+some dpva, would lean more towards isold-sct shwrs. However, the 12Z 
+ECMWF has the whole sys a bit further S, and retrogrades another sfc 
+low closer to the region producing more of a stratiform rain, 
+particularly ern zones. So, stuck with the NBM pops, and kept pcpn 
+as stratiform rain for now until confidence increases one way or the 
+other. If the GFS verifies, there could be at least some breaks of 
+sunshine on Sun. Better chances for sun on Mon as an h5 ridge builds 
+in quickly. It is a quick move however, so increasing high clouds 
+could be expected aft a few hours of sun. Exact timing uncertain 
+this far out. The next upr low on the map is progged to track across 
+ON and QC on Tue, allowing a thermal ridge to build into the cwa 
+with highs in the 70s many areas. Based on the llvl flow indicated 
+by the GFS, the fcst numbers could be a little too cool for all 
+areas as this is prime warm wind direction. Too far out though to 
+make changes to the NBM at this point. Low pops for a few shwrs, 
+particularly late in the day with peak heating and falling heights 
+producing a trigger.
+
+&&
+
+.AVIATION /06Z WEDNESDAY THROUGH SUNDAY/...
+High pressure builds into the region through daybreak Wednesday,
+then slides offshore Wednesday morning.
+
+VFR. 
+
+WNW winds continue to diminish, with sustained winds of 10 to 
+around 20 kt and gusts to the lower 20s kt range. Gusts end 
+after 15Z Wednesday for most terminals. There is some 
+uncertainty as to when gusts end by several hours, and they may
+become more occasional, especially from 07Z through 18Z 
+Wednesday. Wind directions shift to the W, then SW Wednesday 
+afternoon as the high pushes offshore. Winds become light and
+variable Wednesday evening into early Thursday morning.
+ 
+     NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+End time of gusts may be off by several hours, possibly becoming
+more occasional from 07Z through 18Z Wednesday.
+
+.OUTLOOK FOR 06Z THURSDAY THROUGH SATURDAY...
+
+Wednesday night: VFR.
+
+Thursday: Mainly VFR through much of the day, MVFR possible 
+late in the afternoon and overnight with a chance of showers.
+
+Friday: IFR possible with showers likely. E-SE wind gusts 15-20 kt 
+possible.
+
+Saturday: MVFR or lower possible. Chance of showers. E-SE wind gusts 
+15-20 kt possible.
+
+Sunday: VFR. Low end chance of an MVFR shower.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+The gale wrng has been extended til 4Z for all waters. Gales 
+give way to small craft conditions across the waters overnight. 
+The WNW flow will continue to gradually diminish into the day 
+Wednesday with high pressure settling just south of the waters 
+as sub advisory conditions return. Ocean seas will continue to 
+subside into Wednesday night.
+
+Winds and seas blw sca lvls on Thu, then SCA cond likely Fri into 
+Sat with low pres tracking across the region. Mrgnl seas on the 
+ocean Sun, then winds and seas likely blw sca lvls on Mon attm.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through Thursday. 
+
+Periods of rain are likely for the end of the week into the weekend. 
+Only minor hydrologic impacts, if any, are expected attm.
+
+&&
+
+.CLIMATE...
+The following are record temperatures for Wednesday, April 9th. 
+Currently the forecast reflects that records will be approached at 
+some of our climate sites with respect to the minimum temperatures.
+
+Record Minimum Temperatures for Wednesday, April 9th    
+----------------------------------------------------     
+Central Park........25 (1977)      
+LaGuardia...........26 (1977)     
+Kennedy.............26 (1977)     
+Islip...............26 (2018,1982,1977)     
+Newark..............26 (1977) 
+Bridgeport..........24 (1977)
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...Freeze Warning until 9 AM EDT this morning for NYZ072>075-
+     176>179.
+NJ...Freeze Warning until 9 AM EDT this morning for NJZ006-106-108.
+MARINE...Small Craft Advisory until 8 AM EDT this morning for ANZ331-
+     332-340-345-355.
+     Small Craft Advisory until 5 AM EDT early this morning for 
+     ANZ335-338.
+     Small Craft Advisory until 11 AM EDT this morning for ANZ350-
+     353.
+
+&&
+
+$$
+
+SYNOPSIS...JMC/JE
+NEAR TERM...JMC/JE/JP
+SHORT TERM...JE
+LONG TERM...JMC
+AVIATION...MW
+MARINE...JMC/JE/JP
+HYDROLOGY...JMC/JE
+CLIMATE...

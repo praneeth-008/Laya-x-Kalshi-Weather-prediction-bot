@@ -1,0 +1,127 @@
+659 
+FXUS61 KOKX 010555
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+155 AM EDT Sun Jun 1 2025
+
+.SYNOPSIS...
+Low pressure heads into Quebec through Sunday as high pressure 
+builds southwest of the area into Sunday night. High pressure 
+builds over the area on Monday, then drifts offshore and 
+intensifies through the middle of the week, allowing for a 
+significant warming trend.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM THIS MORNING/...
+Deep cyclonic flow will slowly relent tonight as deep low 
+pressure heads into Quebec, with strato-cu scattering,  Gusty 
+WNW flow will slowly subside through 2am. 
+
+Overnight lows will be below normal for this time of year, in 
+the lower 40s inland to lower 50s along the coast and into NYC 
+and surrounding metro area.
+
+&&
+
+.SHORT TERM /6 AM THIS MORNING THROUGH 6 PM MONDAY/...
+Troughing in the mid and upper levels remains over the northeast 
+Sunday into Sunday night with a couple of shortwaves 
+rotating through. In turn, a couple of weak surface troughs will 
+swing through as high pressure tries to build in from the southwest. 
+These features will not result in anything other than some cloud 
+cover. It will also help in keeping running below normal, with highs 
+only in the middle to upper 60s expected.
+
+&&
+
+.LONG TERM /MONDAY NIGHT THROUGH SATURDAY/...
+High pres builds into the region on Mon, then an upr ridge builds in 
+thru Wed. This will keep the region dry thru the period. Temps rise 
+thru the week, with highs approaching 90 on Wed across the interior 
+and swrn hot spots. 
+
+Heights may begin to fall on Thu as the ridge is suppressed. It will 
+still be hot, and possibly the hottest day of the week as the 
+thermal ridge is locked in, but there will also be a chance for 
+aftn/eve shwrs and tstms due to the falling heights. It is a bit far 
+out to have confidence in the falling heights and tstm aspect, but 
+better confidence in the hot temps. 
+
+A sly component llvl flow keeps LI and cstl CT cooler Tue-Thu. 
+
+With the ridge continuing to be suppressed Fri and Sat, more chances 
+for shwrs and tstms, particularly in the aftn/eve, along with 
+gradually lowering high temps.
+
+&&
+
+.AVIATION /06Z SUNDAY THROUGH THURSDAY/...
+Low pressure will lift slowly north across eastern Canada on
+Sunday, with a weak surface trough developing by afternoon.
+
+Brief MVFR possible overnight across the Lower Hudson Valley
+terminals, otherwise VFR. 
+
+Winds will be WNW 10-15kt with occasional higher gusts overnight.
+W winds increasing to 15-20G25kt between 12-14z, backing SW for
+south coastal terminals in the afternoon. W winds and gusts 
+subsiding 22Z to 00Z.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+W wind gusts 20-25kt (left of 310 mag) redevelop between 
+12-14Z.
+
+.OUTLOOK FOR 06Z MONDAY THROUGH THURSDAY... 
+
+Late Sunday Night through Wednesday...VFR.
+
+Thursday...Potential for MVFR in showers and thunderstorms in
+the afternoon/evening.
+
+&&
+
+.MARINE...
+SCA has been extended through the overnight on the protected 
+waters based on obs and good mixing down of 25 kt winds thru the
+overnight. The advy on the ocean continues through Sunday, with
+the western ocean zone likely coming down below 5 ft Sunday 
+morning, and the eastern ocean zone by around sunset Sunday 
+evening. 
+
+Thereafter, conditions remain below SCA for all waters 
+from Sunday night through Thursday as a broad area of high 
+pressure remains over the region.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns tonight through the end of 
+next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...High Risk for Rip Currents through this evening for NYZ080-081.
+NJ...None.
+MARINE...Small Craft Advisory until 8 AM EDT this morning for ANZ331-
+     332-335-338-340-345.
+     Small Craft Advisory until 6 PM EDT this evening for ANZ350-
+     353.
+     Small Craft Advisory until 11 AM EDT this morning for ANZ355.
+
+&&
+
+$$
+
+SYNOPSIS...JMC/JP
+NEAR TERM...NV
+SHORT TERM...JP
+LONG TERM...JMC
+AVIATION...DW
+MARINE...JMC/JP
+HYDROLOGY...JMC/JP

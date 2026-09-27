@@ -1,0 +1,160 @@
+385 
+FXUS61 KOKX 221123
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+623 AM EST Sat Feb 22 2025
+
+.SYNOPSIS...
+High pressure remains south of the region through Sunday, then
+moves offshore Sunday night into Monday. A weak cold front 
+moves through Tuesday night. Weak high pressure briefly returns 
+Wednesday before a frontal system likely affects the region on 
+Thursday into early Friday. High pressure briefly follows the 
+exit of this system before another low could impact us next 
+weekend.
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+Updated for current conditions. 
+
+Surface high pressure remains centered over the southeast today
+with mainly sunny skies early. High clouds are expected to move
+in late in the day as low pressure moves into southeastern
+Canada. Temperatures continue to moderate, but will still be 
+below normal.
+
+&&
+
+.SHORT TERM /6 PM THIS EVENING THROUGH MONDAY/...
+Low pressure passes well to the north tonight with mainly high
+clouds over the region, as high pressure remains to the south. A
+light westerly flow and the cloud cover will prevent ideal
+radiational cooling, and temperatures will be several degrees
+higher than Saturday morning lows.
+
+High pressure to the south will remain in control through Monday
+with temperatures continuing to moderate. With light winds
+Sunday night temperatures across outlying locations and the Long
+Island Pine Barrens will drop into the lower 20s, with upper 20s
+to lower 30s across the rest of the region.
+
+&&
+
+.LONG TERM /MONDAY NIGHT THROUGH FRIDAY/...
+Key Points:
+
+* Warmer temperatures Tue-Thu with highs in the mid-40s to mid-50s.
+
+* Mainly dry Tue - Wed, although a small chance for a passing shower 
+  on Tuesday.
+
+* Thursday into Friday may see our next best chance for rain with a 
+  frontal system, although timing and intensity still varies.
+
+* Another low could impact us this weekend. 
+
+Mainly zonal flow aloft as a shortwave trough passes far to the 
+north in Canada Monday night. At the same time a trough digs into 
+the Ohio River Valley Monday night, moving across the northeast 
+Tuesday. This trough brings with it a weak surface low. Any precip 
+that occurs with this will be rain. However, capped chances at only 
+slight, given the surface low's position may be too far north and 
+the fact that there will be a lack of moisture to bring about any 
+significant rainfall. 
+
+Heights then rise aloft through early Thursday. Warm air advection 
+will lead to temperatures remaining above seasonal Tuesday through 
+Thursday with highs ranging from the mid-40s to mid-50s. Lows during 
+this timeframe look to be above freezing in the 30s. 
+
+Two solutions present themselves Thursday into Friday. The 
+00Z GDPS/ICON/ECMWF bring a surface low from the Great Lakes 
+region with a longwave trough that digs across the Central US to the 
+northeast Thursday into Friday. Timing and intensity still vary 
+between these three models. Given the track of the low, likely will 
+see rain with this system. The 00Z GFS appears to be the lone wolf 
+model at the moment, presenting us with a different solution. All 
+models develop a deepening trough as a southern stream jet stream 
+helps amplify the trough. However, the GFS appears to develop a 
+southern stream upper-level shortwave with this jet stream which 
+then moves up into the northeast Thursday followed by the longwave 
+trough moving in Friday after it. This first shortwave looks to 
+bring a surface low up the coast, which could end up leaving 
+temperatures a little colder than the other models, leading to some 
+snow or mixed precip in the interior during the Thursday-Thursday 
+night timeframe. Because of the uncertainty, have capped POPs at 
+chance during this timeframe. 
+
+Slightly cooler temperatures follow on Friday with highs in the 
+mid/low-40s and overnight lows at freezing into the mid/low-20s. 
+
+Guidance for the weekend still varies quite a bit to go to into any 
+significant detail. However, it does look like there may be a chance 
+for another low to impact us on Saturday or Sunday.
+
+&&
+
+.AVIATION /12Z SATURDAY THROUGH WEDNESDAY/...
+VFR as high pressure builds to the south. Diminishing NW winds 
+become W then SW around 10 kt this afternoon, dropping below 10 
+kt tonight.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No unscheduled amendments expected. 
+
+.OUTLOOK FOR 12Z SUNDAY THROUGH WEDNESDAY...
+
+Monday - Monday Night: VFR. 
+
+Tuesday: Chance of showers with MVFR cond possible at KSWF/KHPN, 
+otherwise VFR. 
+
+Wednesday: VFR. 
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+The SCA was allowed to expire, however, occasional gusts up to
+25 kt remain on the ocean waters, especially across the outer
+zones, until 800 AM. Otherwise, winds and seas will remain sub 
+advisory across the forecast waters through Monday with high 
+pressure in control.
+
+Increasing S-SW flow may bring potential for 25-kt gusts and
+5-ft seas on the ocean waters Mon night into Tue after a warm
+frontal passage and ahead of an approaching cold front.
+
+Conditions are expected to fall below SCA criteria thereafter.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts are expected through the start of next 
+weekend.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...BR/MET
+NEAR TERM...MET
+SHORT TERM...MET
+LONG TERM...BR
+AVIATION...BR
+MARINE...BR/MET
+HYDROLOGY...BR/MET

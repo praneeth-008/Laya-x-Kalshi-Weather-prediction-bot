@@ -1,0 +1,178 @@
+788 
+FXUS61 KOKX 050549
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+149 AM EDT Thu Jun 5 2025
+
+.SYNOPSIS...
+High pressure based in the Atlantic remains but will gradually
+weaken through Thursday night. A series of frontal systems affect
+the region Friday through Wednesday.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM THIS MORNING/...
+Smoke aloft expected to continue moving east, eventually east 
+of the area by tonight according to HRRR.
+
+For tonight, high pressure remains offshore but weakens. Sky
+conditions initially are mostly clear but an increase in clouds
+is expected overnight. Guidance not indicating too much in the
+way of low level clouds or fog overnight into early Thursday.
+Cloud increase will be upper level clouds. With surface flow
+remaining SW and the cloud increase, used consensus of short
+term guidance for a relatively warmer solution. Lows tonight
+into early Thursday stay mainly in the 60s.
+
+&&
+
+.SHORT TERM /6 AM THIS MORNING THROUGH 6 PM FRIDAY/...
+High pressure remains offshore based in the Atlantic but
+continues to weaken. Areas of weak low pressure approach from
+the south and west. Clouds will increase in coverage Thursday
+and Thursday night.
+
+SW flow continues with warm air advection also continuing. 850mb
+temperatures are forecast to reach slightly higher values than
+the previous day. SW flow will be relatively higher along the
+coast with more gusts.
+
+Forecast highs were from the NBM ranging from the 70s to near 80 
+across Eastern Long Island to upper 80s to near 90 for interior
+and within NYC Metro. Dewpoints are on a rising trend as well,
+with values in the 60s. Some daytime mixing is expected with the
+SW flow to limit how high the dewpoints reach. Heat indices at
+most stay mainly in the lower 90s. This stays well under heat
+advisory thresholds.
+
+With the approaching cold front and increasing instability,
+there could be a few showers and thunderstorms to the north and
+west of NYC in the mid afternoon into early evening. This is 
+indicated by several CAMs as well.
+
+Any showers or thunderstorms are expected to diminish by mid to
+late evening as the forcing will be weak and instability will
+diminish with temperatures cooling. However, the airmass will
+not change much as winds remain southerly along the coastal
+areas and for the interior become northerly but stay quite
+light. Forecast lows are also from NBM, ranging from lower 60s
+to lower 70s.
+
+&&
+
+.LONG TERM /FRIDAY NIGHT THROUGH WEDNESDAY/...
+An active long term period is expected as one upper trough passes 
+mainly to the north Friday night into Saturday. A weak ridge 
+quickly passes through during Sunday, with the flow mainly remaining 
+zonal across the region. Another, more amplified, trough affects the 
+region Monday into the midweek period. A brief dry period is 
+possible Sunday night into Monday. Otherwise unsettled weather is 
+expected. With the initial trough passing mainly to the north 
+Saturday, and increased humidity and precipitable water, there the 
+potential for periods of heavy rainfall across the interior, with 
+the best instability, and upslope flow. See the hydrology section 
+for details. Followed the deterministic NBM for the extended
+period.
+
+&&
+
+.AVIATION /06Z THURSDAY THROUGH MONDAY/...
+High pressure remains offshore today.
+
+VFR conditions are forecast through the TAF period. Can't rule
+out a shower or thunderstorm tonight at KSWF, but not enough
+confidence to include in TAF at this time.
+
+SW winds under 10kt through the morning push, followed by
+sea breezes late morning/early afternoon. Winds increase closer
+to 10kt in the afternoon, but a little stronger for KLGA and
+KJFK. Winds become lighter this evening, veering more SW.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Sea breeze timing may be off by 1-2 hours. Sea breeze
+potentially meanders within a few miles of KEWR for a few hours
+this afternoon - winds could potentially prevail SW, SE or
+vary between the two directions during this time. KTEB
+potentially shifts more southerly for a few hours this
+afternoon.
+
+.OUTLOOK FOR 06Z FRIDAY THROUGH MONDAY... 
+
+Late tonight: VFR.
+
+Friday: Possible MVFR/IFR with chance of showers/tstms. 
+Possible brief MVFR/IFR east of NYC terminals early Friday 
+morning in fog/stratus. 
+
+Friday night: Possible MVFR/IFR with chance of showers/tstms. 
+Possible brief MVFR/IFR east of NYC terminals early Friday 
+morning in fog/stratus. 
+
+Saturday: Possible MVFR/IFR with showers likely. Chance of 
+tstms. Patchy fog early Saturday.
+
+Sunday: Possible MVFR/IFR with a chance of showers.
+
+Monday: VFR initially, then possible showers with MVFR 
+possible afternoon into night.
+
+Detailed information, including hourly TAF wind component 
+forecast, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+All waters have below SCA criteria conditions in the forecast 
+through tonight. The pressure gradient overall will not be that
+tight with wind gusts Thursday afternoon only to near 20 kt. 
+Ocean seas max height in the forecast through Thursday night is 
+4 ft.
+
+Winds and seas remain below SCA levels across the forecast 
+waters Friday night. With a south to southeast flow Friday night
+through Saturday, ahead of an approaching frontal system, ocean
+seas likely build to 5 feet by late Saturday, and remain 
+elevated into late Saturday night. By late Saturday night and 
+into Sunday winds diminish and become east to northeast, and 
+ocean seas fall below 5 feet by early Sunday. Winds and seas 
+then remain below advisory levels through Monday night.
+
+&&
+
+.HYDROLOGY...
+No hydrologic concerns through Thursday night as much of the
+timeframe is expected to be dry. Showers and thunderstorms
+forecast for Thursday afternoon into early Thursday evening
+could deliver a quick downpour but will be temporally and
+spatially limited. Coverage of convection just isolated to
+widely scattered and just north and west of NYC.
+
+No hydrologic concerns through Friday. Thereafter, with an 
+increasingly humid airmass in place, layer PW gradually increase
+to 1 to 1.75 inches during Saturday, and then remains over 1 
+inch into the beginning of next week. Thunderstorms that do 
+develop have the potential of producing heavy rainfall, 
+especially Saturday. The best chances of thunderstorms is across
+the Lower Hudson Valley, and into Northeastern New Jersey, 
+where upslope will enhance rainfall. This area is where there is
+the potential for minor flooding in low lying, urban, and poor 
+drainage areas.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Air Quality Alert from 11 AM this morning to 11 PM EDT this 
+     evening for CTZ005>012.
+NY...Air Quality Alert from 11 AM this morning to 11 PM EDT this 
+     evening for NYZ067>075-078>081-176>179.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+AVIATION...JC

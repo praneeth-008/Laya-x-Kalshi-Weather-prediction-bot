@@ -1,0 +1,166 @@
+186 
+FXUS61 KOKX 091504
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1104 AM EDT Fri May 9 2025
+
+.SYNOPSIS...
+A frontal system and associated low will slowly track across the 
+area today. A weak cold front will cross the region Saturday night, 
+with high pressure building in for early next week. Another low 
+pressure system approaches for the middle of next week.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Forecast has been updated with primarily minor adjustments to
+PoPs and rainfall amounts. Enhanced lift via llj along with a
+narrow corridor of instability will be producing moderate to
+periodically heavy rainfall over eastern Long Island into this
+afternoon. Farther west, lift is not as strong and likely
+lacking a convective element, so mainly light to moderate
+rainfall with still a possibility of brief heavy downpours.
+
+Potential impacts remain primarily minor urban/poor
+drainage/small stream flooding. Still cannot rule out localized
+flash flooding over eastern LI with up to around 1.50 inch per
+hour rainfall rates. No severe thunderstorms anticipated with 
+stable low levels and only modest shear.
+
+LLJ and deepest moisture begin to shift east out of the forecast
+area late this afternoon with a lowering threat of showers, but
+a weak surface low tracking through this evening along with a 
+potent shortwave aloft maintain the threat of additional showers
+tonight.  
+
+Flood Watch remains in effect for the time being. Given trends
+in obs and models, may be able to cancel the watch before its 1
+am expiration time.
+
+&&
+
+.SHORT TERM /SATURDAY THROUGH SUNDAY NIGHT/...
+Dry weather is expected by midday Saturday and into the weekend with 
+the low exiting to the northeast and high pressure gradually 
+beginning to take over.
+
+Another shortwave and associated surface cold front moves across the 
+area Saturday night into early Sunday morning with Canadian high 
+pressure building into its wake and gradually rising heights. 
+
+Breezy NW/WNW winds are expected through the day Saturday due to
+an increased pressure gradient at the surface from low pressure
+departing northeast. 
+
+Highs will remain at or slightly above normal in the upper-60s to 
+low-70s on Saturday and Sunday.
+
+&&
+
+.LONG TERM /MONDAY THROUGH THURSDAY/...
+High pressure will keep conditions dry through at least much of 
+Tuesday. The next chance of precip comes by later Tuesday or 
+Wednesday with the approach of the next low pressure system.
+
+Temperatures through the long term will remain at or slightly above 
+normal with highs in the 70s.
+
+&&
+
+.AVIATION /15Z FRIDAY THROUGH TUESDAY/...
+Low pressure develops over the area early this afternoon and pulls 
+away to the north and northeast tonight. Weak high pressure off to 
+the west builds closer during Saturday.
+
+Eastern most terminals have held on to VFR and MVFR longer than 
+anticipated, but even eastern terminals fall to IFR this afternoon. 
+Primarily IFR conditions will remain through the day and into this 
+evening and through early Saturday morning. LIFR conditions remain 
+possible locally for low ceilings. Regarding the steadier rainfall, 
+this shall come to an end earlier for the NYC terminals, but lingers 
+longer into a portion of the afternoon for KSWF and eastern 
+northeastern terminals like KISP, KGON, and KBDR. Embedded TSRA 
+remain possible, particularly for the eastern coastal terminals such 
+as KISP and KGON where TEMPO groups were utilized, otherwise where 
+confidence of occurrence is lower maintained PROB30 for some 
+terminals. Some lingering showers and vicinity showers this evening 
+into a portion of the overnight, but prevailing showers not 
+expected. IFR conditions give way to MVFR near the morning push 
+Saturday morning, eventually improving to VFR by Saturday mid to 
+late morning.
+
+Mainly E winds to start around 10 kt. NYC and LI terminals could 
+become SE for time for the early afternoon. Also a brief period of 
+higher winds of around 15 kt and could be a few gusts to around 20 
+kt at the eastern coastal terminals. By this evening, the low 
+pressure system moves northeast with winds in its wake becoming W or 
+NW and increasing in speed into Saturday morning.
+
+     NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Amendments likely through this evening with changing flight 
+categories and wind direction changes. Winds could go SE early this 
+afternoon, especially at KJFK. A few gusts to around 20 kt possible.
+
+There remains a low chance for thunderstorms until 17Z for KJFK and 
+KLGA. 
+
+
+.OUTLOOK FOR 12Z SATURDAY THROUGH TUESDAY...
+
+Saturday: Mainly VFR, except MVFR or lower possible isolated 
+showers. NW gusts 25-30kt possible.
+
+Sunday through Tuesday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Seas build as low pres develops S of the waters and then tracks
+across LI. A SCA has been issued on the ocean for this. Winds 
+increase all areas late Fri ngt. Speeds are mrgnl so did not 
+issue a sca on any of the protected waters for this.
+
+SCA conditions could continue on the ocean waters through Saturday 
+for marginal 25kt gusts and 5 ft seas. Thereafter, conditions look 
+to remain below SCA.
+
+&&
+
+.HYDROLOGY...
+An additional 1-2 inches of rainfall potential over eastern LI,
+otherwise a half inch to inch elsewhere. 
+
+Potential impacts remain primarily minor urban/poor
+drainage/small stream flooding. Still cannot rule out localized
+flash flooding over eastern LI.
+
+There are no hydrologic concerns Saturday through mid next 
+week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Flood Watch through late tonight for CTZ005>012.
+NY...Flood Watch through late tonight for NYZ067>071-078>081-177-
+     179.
+NJ...Flood Watch through late tonight for NJZ002-004-103-104.
+MARINE...Small Craft Advisory until 5 PM EDT Saturday for ANZ350-353-
+     355.
+
+&&
+
+$$
+
+SYNOPSIS...BR
+NEAR TERM...JC/BR
+SHORT TERM...BR
+LONG TERM...JT
+AVIATION...JE/MW
+MARINE...BR/JT
+HYDROLOGY...BR/JT

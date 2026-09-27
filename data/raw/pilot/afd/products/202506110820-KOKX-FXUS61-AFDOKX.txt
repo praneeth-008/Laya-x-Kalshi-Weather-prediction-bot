@@ -1,0 +1,196 @@
+759 
+FXUS61 KOKX 110820
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+420 AM EDT Wed Jun 11 2025
+
+.SYNOPSIS...
+Weak high pressure remains south and west of the region today
+through tonight. A cold front approaches Thursday and moves
+across Thursday night into early Friday. This front then stalls
+out south of the area thereafter into early next week.
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+Patchy dense fog early is expected to dissipate with diurnal
+heating and more northerly flow this morning. Have special
+weather statement to address this until 9AM EDT this morning.
+Can see this fog development with the night fog satellite
+product with enhanced development along the river valleys.
+
+Mid level trough axis moves east of the area early today. Mid
+level heights then start slowly increasing with ridging. At the
+surface, behind a weak cold front, weak enough pressure gradient
+is keeping winds very light. Weak high pressure build in today
+but its center stays well south and west of the region.
+
+Eventually a more northerly flow develops but is expected to not
+increase much. As a result, daytime sea breeze circulations are
+expected to develop. More sun today and with 850mb temperatures
+increasing, warmer surface temperatures are expected as well.
+Used NBM and MAV/MET blend, with a range of high temperatures
+from the upper 70s to mid 80s for a majority of the region.
+
+&&
+
+.SHORT TERM /6 PM THIS EVENING THROUGH FRIDAY NIGHT/...
+Mid levels exhibit a slow ridging trend tonight through Thursday
+night and then become nearly steady with more zonal flow Friday
+through Friday night. At the surface, weak high pressure tonight
+eventually gives way to an approaching cold front Thursday. This
+cold front moves across Thursday night.
+
+Limited moisture with the cold front and some elevated
+instability in the low levels could present a possible shower or
+thunderstorm with otherwise mainly dry conditions continuing.
+
+Ahead of the cold front Thursday, a warmer day is expected with
+the trends higher at 850mb compared to the previous day. More
+low level SW flow will help establish more warm air advection.
+Forecast high temperatures once again used a blend of NBM and
+MAV and MET, ranging from the lower 80s to around 90 for much of
+the local area. Forecast dewpoints in the lower 60s for areas
+along the coast and upper 50s farther inland. Resulting max
+apparent temperature or max heat indices are forecast to reach
+lower 90s (just nearly a degree or so higher than the actual
+temperature) in parts of Northeast NJ. Northeast NJ expected to
+be the warmest spot in the forecast region.
+
+Followed NBM pretty closely for the forecast Thursday night
+through Friday night. A residual shower or thunderstorm possible
+Thursday night during the first half of the night. Dry
+conditions then return thereafter through early Friday with the
+cold front exiting south of the region. MAV/MET/NBM followed for
+lows Thursday night, ranging from the upper 50s to upper 60s.
+
+Weather becomes more unsettled Friday afternoon through Friday 
+night as the cold front stalls out near the region. Probability 
+of showers increases towards the end of the short term forecast 
+period, mainly for Friday night.
+
+With clouds increasing Friday into Friday night and surface flow
+becoming more easterly, a cooler maritime airmass infiltrates
+the region. Forecast highs more in the 70s on Friday with some
+lower 80s values within NYC and Northeast NJ. Forecast lows
+Friday night cooler trend, ranging from the upper 50s to mid
+60s.
+
+&&
+
+.LONG TERM /SATURDAY THROUGH TUESDAY/...
+A cold front is forecast to become nearly stationary to the south of 
+the area, through the Mid Atlantic region and the Delmarva, from 
+Saturday into early next week. The front, along with waves of low 
+pressure that move along it, may set off some showers. Some 
+thunderstorms are possible Saturday as the front sinks south of the 
+region. The front will be the focus for lift to aid in thunderstorm 
+development. Thereafter, with a slightly more stable air mass in 
+place on the other side of the frontal boundary, so just showers are 
+expected. While Saturday looks to be the best chance for 
+precipitation and there is a slight chance to chance POPs in the 
+forecast from Sunday through Tuesday, a washout or all day rain event 
+is not expected during this time frame.
+
+Aloft, zonal flow on Saturday transitions to a low amplitude trough 
+on Sunday that moves through New England. An approaching upper level 
+ridge from the west flattens to become more zonal for the beginning 
+of next week.
+
+Placement of the frontal boundary will affect temperatures, mainly 
+Saturday through the end of the forecast and is noted with the 
+uncertainty in highs and lows seen in the spread of possibilities 
+with the NBM guidance. As a result of the uncertainty, and no 
+targets of opportunity, have stayed close to the NBM deterministic 
+guidance.
+
+&&
+
+.AVIATION /08Z WEDNESDAY THROUGH SUNDAY/...
+Weak high pressure builds into the area today.
+
+VFR, except at LIFR fog at KGON and KHPN and MVFR fog at KBDR and 
+KISP. Conditions may improve to VFR by late tonight, especially for 
+KBDR and KISP, but KGON and KHPN may hang on to MVFR conditions a 
+few hours after sunrise. 
+
+Winds will be light W to NW to light and variable through daybreak. 
+A W to WSW flow develops this morning, with gusts up to 20 kt 
+possible during the afternoon and winds becoming SW. Gusts may be 
+more occasional before ending by late afternoon. Sea breezes are 
+expected at KJFK, KISP, KBDR, and KGON. 
+
+
+    NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+A sea breeze is expected to move into KJFK early this afternoon, and 
+may make it to KLGA by late afternoon. Afternoon gusts at KEWR, 
+KTEB, and KLGA may be more occasional.
+
+
+.OUTLOOK FOR 06Z THURSDAY THROUGH SUNDAY... 
+
+Wednesday night - Thursday: VFR. 
+
+Friday: VFR. MVFR possible with scattered showers and thunderstorms 
+during the afternoon and into the evening.
+
+Saturday - Sunday: MVFR cigs or lower likely with chance of showers.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+SCA conditions forecast for portions of the ocean heading into
+this morning. Otherwise, mainly below SCA conditions expected 
+through the short term forecast through Friday night with the
+pressure gradient remaining relatively weak.
+
+With a weak pressure gradient force expected across the forecast 
+waters, as a frontal boundary remains in the vicinity of the ocean 
+waters, winds and seas are expected to remain below SCA levels 
+from Saturday through Monday.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts are expected through next Tuesday.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+A moderate risk for rip current development remains through 
+this evening at ocean beaches.
+
+The moderate risk for rip current development continues Thursday
+at ocean beaches. 
+
+The main driving influence will be southwest flow near 5 to 10
+kts as well as lingering onshore swell of around 4 ft on average 
+and period of 7-8 seconds.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Dense Fog Advisory until 9 AM EDT this morning for ANZ332-350.
+     Small Craft Advisory until noon EDT today for ANZ350-353.
+
+&&
+
+$$
+
+SYNOPSIS...JM/JP
+NEAR TERM...JM
+SHORT TERM...JM
+LONG TERM...JP
+AVIATION...JP
+MARINE...JM/JP
+HYDROLOGY...JM/JP
+TIDES/COASTAL FLOODING...

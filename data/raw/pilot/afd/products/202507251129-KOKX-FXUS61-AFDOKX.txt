@@ -1,0 +1,229 @@
+038 
+FXUS61 KOKX 251129
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+729 AM EDT Fri Jul 25 2025
+
+.SYNOPSIS...
+High pressure slides east this morning. A cold front will move 
+through the area late this afternoon and evening. High pressure 
+briefly builds into the area tonight into Saturday. A weak frontal 
+system moves across the area Saturday Night into Sunday. High 
+pressure returns to the area for Monday into Tuesday. A cold front 
+approaches from the west on Tuesday afternoon and moves offshore 
+Tuesday evening.
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+Key points...
+
+* Heat headlines remain in effect. Heat indices are expected to 
+  reach 100 to 105F for most of the area.
+
+* Severe thunderstorms are possible this afternoon and evening with 
+  damaging wind gusts the primary threat. There is also a low flash 
+  flood threat. 
+
+High pressure slides east today allowing a cold front to push across 
+the region late in the afternoon into this evening. The two main 
+issues today will be the heat and the storms associated with the 
+cold frontal passage. 
+
+The combination of temperatures in the 90s, combined with dew points 
+in the lower to middle 70s will result in heat index values reaching 
+100-105 for much of the area. An extreme heat warning continues for 
+NE NJ with highest confidence in widespread 105F heat indices, with 
+heat advisories for most of the remainder of the area with heat 
+indices in the 100 to 105F range.
+
+A cold front approaches this afternoon and moves across the area 
+this evening. A prefrontal trough along with a shortwave should set 
+the stage for showers and thunderstorms to develop and move across 
+the area. Latest 00z CAMS are in pretty good agreement with the 
+timing of the storms mainly impacting the region between 18z-00z, 
+however they all seem to differ differently on the exact coverage 
+and placement of the storms. The main threat with any storms today 
+will be damaging wind gusts. 
+
+In addition, any storms will be capable of producing heavy 
+rainfall. PWATs are forecast to be 2.0-2.50 inches. While any storms 
+that develop today should have some movement to them, can not rule 
+out a low threat for flash flooding.
+
+&&
+
+.SHORT TERM /6 PM THIS EVENING THROUGH SATURDAY NIGHT/...
+The cold front slides SE of the region tonight with high pressure 
+building back into the region. 
+
+Dry conditions expected on Saturday, with noticeably drier and 
+cooler airmass advecting in on gusty N/NE flow. Temperatures however 
+will still be running slight above seasonable with highs in the mid 
+to upper 80s, and heat indices similar. Near seasonable temps for 
+Saturday night with increasing humidity levels as return flow 
+develops.
+
+On Sunday there is some uncertainty with the exact evolution and 
+timing of a weak frontal system that may impact the area. Low 
+confidence PoPs given the offshore high trending stronger.
+Showers and thunderstorms are expected for the second half of 
+Sunday, mainly west of NYC. Some thunderstorms will be capable of 
+gusty winds and heavy rainfall.
+
+&&
+
+.LONG TERM /SUNDAY THROUGH THURSDAY/...
+The NBM was largely followed with this update with no major changes. 
+
+Key Points:
+
+*High heat and humidity will be on the increase again early to mid 
+next week. Heat indices look to peak on Tuesday.
+
+*Dry conditions expected until a frontal passage on Tuesday 
+afternoon which will bring a round of showers/thunderstorms. 
+Unsettled conditions continue Wednesday and Thursday, with 
+thunderstorm chances each afternoon.
+
+Good model agreement with upper ridging over the northeast to start 
+the period as a ridge encompasses the eastern two-thirds of CONUS. A 
+series of shortwaves moves through the ridging and will impact the 
+area mid week.  
+
+Heights build Monday and Tuesday with sfc high pressure east of the 
+area.  h850 temperatures nearing 18-21C, peaking on Tuesday, will 
+result in sfc max temperatures in the low to mid 90s (upper 80s at 
+the coast). With dewpoints increasing to the mid 70s by Tuesday, 
+heat indices in the low 100s (upper 90s coastal areas) will be 
+possible. Heat headlines would be needed Monday and Tuesday, and 
+possible into Wednesday should the current forecast hold.
+
+With the cold frontal passage on Tuesday, a period of afternoon 
+thunderstorms is possible. Model soundings indicate 500-1000J of 
+MUCAPE though shear is weak (~20kts). CSU-MLP machine learning 
+output is highlighting a 15-30% chance of severe thunderstorms from 
+NYC north and west Tuesday, and details will come into more focus 
+over the next few days.
+
+&&
+
+.AVIATION /12Z FRIDAY THROUGH TUESDAY/...
+VFR through early this afternoon. MVFR or lower visibilities 
+are likely as TSRA may impact the terminals after 18Z. Strong 
+gusty winds are possible with any thunderstorm. Have converted 
+PROB30s to TEMPOs for this activity in the TAF as confidence in 
+coverage and occurrence has increased. 
+
+Southwest winds increase to 10-15kts this AM. Winds then become
+NW behind the frontal passage in the late afternoon/evening. 
+Occasional gusts up to about 20 kt are possible during the 
+afternoon outside of TSRA.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Occasional gusts up to 20 kt are possible this afternoon.
+
+.OUTLOOK FOR 00Z SATURDAY THROUGH TUESDAY... 
+
+Saturday: VFR.
+
+Saturday night - Sunday: Mainly VFR. MVFR or lower possible in any 
+showers or thunderstorms.
+
+Monday: VFR.
+
+Tuesday: Mainly VFR with possible MVFR or lower in showers and 
+thunderstorms.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Some occasional gusts to 25 kt are possible in a S flow on the ocean 
+waters today ahead of a cold frontal passage. Showers and 
+thunderstorms are expected late this afternoon and this evening 
+ahead of a cold frontal passage this evening. 
+
+A brief period of 20 kt gusts are possible in wake of cold 
+frontal passage Saturday night into Sunday morning. 
+
+Given a weak pressure gradient, winds and waves will largely stay 
+below Small Craft Advisory criteria Sunday through Tuesday.  
+There is a brief chance of approaching 25kts across the waters 
+in the vicinity of a cold frontal passage on Tuesday 
+afternoon/evening.
+
+&&
+
+.HYDROLOGY...
+Primarily a minor urban and poor drainage flooding threat with 
+thunderstorm activity this afternoon that could produce rainfall 
+rates of 2+"/hr with PWATS as high as 2"-2 1/2", but will be overall 
+progressive limiting duration over an one area. Based on these 
+potential rainfall rates, there is a low flash flood threat with any 
+localized repetitive thunderstorm activity. 
+
+Showers and thunderstorms associated with a frontal system 
+could produce locally heavy downpours on Sunday that result in 
+nuisance flooding, but the overall flood threat appears low at 
+this time.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+A moderate rip current risk is in effect today with southerly 
+wind waves building to 3 to 4 ft. A moderate rip current risk
+continues for Saturday, though surf heights lessen to 2-3ft and
+winds become east/southeasterly.
+
+
+&&
+
+.CLIMATE...
+Daily record high temperatures maybe be tied or broken Friday 
+July 25th. Here are the current records for the day...
+
+EWR 99/2016 
+BDR 93/2001 
+NYC 97/1999 
+LGA 97/1999 
+JFK 93/2010 
+ISP 94/1987
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Heat Advisory from 11 AM this morning to 8 PM EDT this evening 
+     for CTZ005>011.
+     Air Quality Alert from 11 AM this morning to 11 PM EDT this 
+     evening for CTZ009>012.
+NY...Heat Advisory from 11 AM this morning to 8 PM EDT this evening 
+     for NYZ067>075-078>080-176>179.
+     Air Quality Alert from 11 AM this morning to 11 PM EDT this 
+     evening for NYZ069>075-078>081-176>179.
+NJ...Heat Advisory from 11 AM this morning to 8 PM EDT this evening 
+     for NJZ002.
+     Air Quality Alert from 11 AM this morning to 11 PM EDT this 
+     evening for NJZ004-006-103>108.
+     Extreme Heat Warning from 11 AM this morning to 8 PM EDT this 
+     evening for NJZ004-006-103>108.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...BC/DBR
+NEAR TERM...BC
+SHORT TERM...BC
+LONG TERM...DBR
+AVIATION...DBR
+MARINE...BC/DBR
+HYDROLOGY...BC/DBR
+TIDES/COASTAL FLOODING...
+CLIMATE...

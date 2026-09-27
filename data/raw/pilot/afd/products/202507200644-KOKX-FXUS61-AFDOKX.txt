@@ -1,0 +1,192 @@
+954 
+FXUS61 KOKX 200644
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+244 AM EDT Sun Jul 20 2025
+
+.SYNOPSIS...
+A warm front pushes through the area this morning, followed by a 
+cold frontal passage this evening. High pressure builds in Monday 
+into Tuesday, and centers over the area Tuesday night into 
+Wednesday. The high shifts offshore Wednesday night into Thursday. A 
+low passing into east Quebec Friday will bring through a cold front 
+late Friday into Friday night.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+A warm front is approaching from the south and currently looks
+to be over southern NJ. Aloft, a shortwave is approaching from
+the west and can be seen well on satellite digging into western
+PA. Current radar is pretty quiet but activity is expected to
+increase as we head towards sunrise given the approach of these
+two features. Latest CAMs seem to be more excited about strength
+and coverage of any activity this morning over eastern portions
+of the area like Long Island and southeast CT. This is likely
+due to timing of the shortwave and instability being strongest
+across the eastern areas. Severe weather is not expected with
+the activity this morning, but with pwats nearing 2 inches heavy
+downpours are possible. These will likely occur over locations
+that can handle heavier rain and at this time there are no
+hydrological concerns other than some minor poor drainage
+flooding.
+
+During the daytime hours moisture continues to increase and with
+expected heating under mostly sunny skies we likely warm to the
+upper 80s and lower 90s. Even with lowering dewpoints due to NBM
+high bias, Max Apparent Ts are in the upper 90s with isolated 100.
+This is below the one day Heat Advisory criteria.
+
+With a cold front approaching late in the day there is a threat
+for severe weather since we should be able to destabilize well.
+Latest CAMs show MLCAPE values just ahead of the front up to
+1500-2000 J/kg. Additionally, decent shear is available with 30
+to 35 kt of 0-6km bulk shear. A few limiting factors which are 
+causing a bit of uncertainty is no real strong upper support and
+more of a skinny CAPE profile with weak lapse rates. Even with 
+a bit of uncertainty, scattered severe thunderstorms can not be 
+ruled out and a slight risk has been maintained across the same 
+areas and previous forecasts, NYC north and west. The primary 
+threat is damaging wind gusts.
+
+Showers and thunderstorms are likely done by midnight and drier
+air is filtered in behind the cold front.
+
+&&
+
+.SHORT TERM /MONDAY THROUGH TUESDAY NIGHT/...
+Some of the more comfortable weather days of the summer are expected 
+in the short term period with dry conditions, sunny skies, 80 degree 
+highs and cool nights.
+
+As high pressure builds in on Monday the pressure gradient will 
+briefly be tight and a breezy northwest flow is expected at least on 
+Monday morning. Some decent mixing is seen in forecast soundings, 
+but with winds not too strong aloft only expecting about 20 mph
+gusts at the surface.
+
+The high will bring with it a cooler and drier airmass. NBM was 
+followed for highs. Monday highs will be about normal and for 
+Tuesday they will be a few degrees below normal. Dewpoints and lows 
+were adjusted slightly to account for NBM biases. Monday night could 
+be the coolest night in a while with low to mid 50s possible across 
+the interior and upper 50s to mid 60s elsewhere. Dewpoints look
+to bottom out in the 40s and low 50s Monday night. At this time
+it looks like Tuesday night will be a bit warmer due to a 
+return flow kicking in.
+
+&&
+
+.LONG TERM /WEDNESDAY THROUGH SATURDAY/...
+Key Messages:
+
+ * Temps climb Wed into Thu. Heat index may exceed 100 by Fri.
+
+ * Dry through Thu night. 
+
+ * Showers & thunderstorms possible with cold front Fri/Fri
+   night. 
+
+In the upper-levels, a ridge builds in from the west and
+amplifies through Wednesday night. This ridge then flattens 
+Thursday into Thursday night. Shortwave energy passes late 
+Friday into Friday night.
+
+At the surface, high pressure centers over the area into 
+Wednesday, then shifts offshore Wednesday night into Thursday. A
+low passing into east Quebec Friday moves into the North 
+Atlantic Friday night into Saturday. This low brings through a 
+cold front late Friday into Friday night. 
+
+Wednesday through Friday, temperatures will warm each day in 
+response to the high moving east and higher heights aloft. Heat 
+index values may exceed 95 on Thursday for parts of the area, then 
+exceed 100 for large portions of the area on Friday. 
+
+With ample heating, shortwave energy passing aloft, high dewpoints & 
+atmospheric moisture, and lift from an approaching/passing cold 
+front, scattered showers and thunderstorms are expected late Friday 
+into early Friday night.
+
+&&
+
+.AVIATION /06Z SUNDAY THROUGH THURSDAY/...
+A warm front approaches from the southwest overnight and passes 
+through after daybreak. A cold front follows late afternoon/evening.
+
+Spotty shower activity along with MVFR cigs for most terminals 
+overnight, continuing into Sunday morning. Low prob for IFR cigs.
+
+There will be a scattered shower and isolated thunderstorm threat 
+overnight into the morning push with the highest confidence at the 
+coastal terminals east of NYC/NJ metro. 
+
+Drying conditions and becoming VFR for the second half of Sunday 
+morning. A isolated-scattered line of convection is then expected 
+between 19Z and 02Z along and ahead of the approaching cold front, 
+with a severe wind gust threat. Cold front will clear KSWF around 
+23Z, NYC terminals 01Z, and LI and CT terminals 01-02Z. 
+
+Winds will be light S/SE or variable overnight into the morning. SW 
+winds develop and increase to around 10kt by afternoon. Winds become 
+NW Sunday evening behind the cold front 10-15kt with a few G20kt. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Low and sparse coverage of TSRA between 08z through Sun AM push. 
+MVFR conditions likely through the AM push. Low prob of IFR.
+
+.OUTLOOK FOR 06Z MONDAY THROUGH THURSDAY... 
+
+Late Sunday night into Monday: Mainly VFR. NW winds 10-15g20kt.
+
+Monday Night through Thursday: VFR. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Winds and waves look to stay below Small Craft Advisory criteria 
+through the week with a weak pressure gradient in place. However, 
+there is potential for strong to possibly a few severe thunderstorms 
+late this afternoon and evening. Locally stronger wind gusts and 
+higher waves are possible in any thunderstorms.
+
+&&
+
+.HYDROLOGY...
+At this time, there are no hydrologic concerns through the week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+Mainly a low rip current risk today, with the exception being 
+for the eastern Suffolk ocean beaches where a moderate risk is 
+more likely by afternoon with lingering E to SE 8 second period 
+swells. A low rip current risk is expected for all ocean beaches
+on Monday with more of a land breeze out of the northwest.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...BR/JT
+NEAR TERM...JT
+SHORT TERM...JT
+LONG TERM...BR
+AVIATION...DW
+MARINE...BR/JT
+HYDROLOGY...BR/JT
+TIDES/COASTAL FLOODING...

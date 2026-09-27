@@ -1,0 +1,198 @@
+255 
+FXUS61 KOKX 151740
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+140 PM EDT Tue Apr 15 2025
+
+.SYNOPSIS...
+A series of weak surface troughs move through this afternoon 
+through Wednesday. High pressure starts to gradually build in 
+Wednesday night, remaining in control through Thursday night. A 
+frontal system approaches Friday and may impact the area from 
+Friday night through Saturday night. High pressure returns for 
+Sunday. Another frontal system may impact the area late Monday.
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+The frontal boundary is moving a bit slower than previously
+progged, but it does pivot through and gets clear of eastern
+portions of the area this afternoon. Sfc analysis is a bit
+convoluted with the depiction most likely indicating a cold
+front followed immediately by a strong sfc trough / area of
+convergence. Not much activity expected reflectivity / shower
+wise for a few hours, then late this afternoon (towards 20z or
+so) widely scattered to isolated showers and thundershowers/storms
+attempt to pivot through. The expectation is that the stronger 
+sub- severe and isolated severe storms would remain primarily 
+north of the area where the slightly steeper lapse rates exist. 
+CAMs suggesting widely scattered to isolated shower activity 
+overall. Cooling aloft will steepen lapse rates and allow 
+instability to increase a bit. When these showers first move 
+into the area it looks like they will likely not be able to 
+produce any thunder because of a mid- level cap evident in model
+fx soundings around 600mb. This cap is just below the -10C to- 
+20C layer. Once this cap weakens by 20z or so, then about 100 to
+200 J/kg of CAPE will be available in the 
+-10C to -20C layer and isolated thunder would be possible. With 
+a dry sub-cloud layer and strong mid- level flow, any stronger 
+showers or thunderstorms should be able to mix down with 
+primarily 35 to 40 kt gusts. Small hail or graupel is also 
+possible.
+
+Outside of any showers or thunderstorms, the synoptic winds 
+themselves will be very gusty. Deep mixing is seen in model 
+soundings in strong CAA. The deepest mixing occurs in the western 
+half of the area before and approaching sunset and expecting 
+the highest wind gusts here. Cannot completely rule out an
+isolated 45 kt gust where a strong thunderstorm develops. But
+this should be the exception rather than the rule. High
+temperatures this afternoon reach the 60s.
+
+&&
+
+.SHORT TERM /6 PM THIS EVENING THROUGH THURSDAY NIGHT/...
+Cyclonic flow aloft continues through Wednesday. At the surface a 
+series of weak troughs will move through. No precipitation is 
+expected from these features. Gusty winds expected again
+Wednesday, but closer to 30 to 35 mph. Heights start rising 
+aloft Wednesday night with ridging aloft and high pressure 
+moving in at the surface. Light winds and clear skies expected 
+by Thursday night, so went straight CONSMOS guidance for now.
+
+&&
+
+.LONG TERM /FRIDAY THROUGH MONDAY/...
+A weakening ridge in the upper levels will push east of the area 
+Friday, while at the surface high pressure will be situated to the 
+south off the mid-Atlantic coast with a surface ridge axis extending 
+from it northward into southern Quebec. This will allow a 
+warm front to lift north Friday night and will be be the next 
+chance for precipitation. However, only light amounts of rain for 
+Friday night are expected at this time. The associated cold front is 
+expected to move through on Saturday night, with a secondary cold 
+front possibly moving through late Saturday night into early Sunday 
+morning. High pressure builds in behind the cold fronts for 
+the rest of Sunday.
+
+With a building ridge moving into the region Thursday and a warm 
+front lifting north Friday night, a warming trend through the period 
+is expected. Temperatures in the 50s and 60s on Thursday will rise 
+into the 60s and 70s by Saturday for most areas. Cooler conditions 
+are expected along coastal areas. Cold air advection after the 
+passage of the cold front will temperatures back to near seasonable 
+levels for Sunday and Monday.
+
+&&
+
+.AVIATION /18Z TUESDAY THROUGH SUNDAY/... 
+A cold front moves across the terminals this afternoon.
+High pressure then gradually builds in through Wednesday.
+
+VFR through the TAF period. 
+
+W-SW winds increase this afternoon to 15-20 kt with gusts
+25-30 kt. Winds will then settle to the W becoming 15-25 kt 
+with gusts 30-35 kt, mainly 20z-01z. Showers are possible this 
+afternoon and early evening, which may contain stronger wind 
+gusts to 40-45 kt, especially from the NYC metro terminals on 
+NW. Have handled this potential with a PROB30, mainly from 
+19z-23z. The shower potential diminishes by 01z. 
+
+W-WNW winds will remain gusty overnight, 25-30 kt, although some 
+outlying terminals could see gusts briefly end or weaken early 
+Wednesday morning. WNW winds around 20 kt with gusts around 30 kt 
+expected on Wednesday. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+Gusts 40-45 kt possible in scattered showers 19z-23z. An 
+isolated thunderstorm also possible 20z-23z. 
+
+Sustained winds and gusts likely weaken somewhat overnight, but 
+gusts could still reach 30 kt at times. 
+
+.OUTLOOK FOR 18Z WEDNESDAY THROUGH SUNDAY...
+
+Wednesday Afternoon-Night: VFR. WNW winds G25-30kt in the afternoon 
+and early evening, diminishing at night.
+
+Thursday: VFR. NW winds G15-20kt.
+
+Friday: Mainly VFR. Chance of showers late afternoon and night, 
+mainly inland. S winds G15-20kt.
+
+Saturday: Mainly VFR. Chance of showers, mainly inland. SW winds G20-
+25kt.
+
+Sunday: VFR. NW wind gusts 15-20 kt possible. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Have upgraded small craft advisories to Gale Warning, primarily
+for gale force gusts during portions of this evening and
+tonight. Small craft conditions developing quickly this
+afternoon and ramp up to gales during the evening. Still a 
+tricky wind forecast in terms of the total duration of gales 
+beginning very late this afternoon and not only through tonight,
+but even into Wednesday. For now only have the Gale warning
+going through 10z, but this can be re-evaluated later. 
+Meanwhile, gusts on land could reach just below 40 kt around 
+western Long Island, NYC, northeast NJ and souther Westchester. 
+Any inversion weakens through this afternoon and stronger gusts 
+will be able to mix down over the open waters by tonight. There 
+looks to be at least 3 to 4 hours where gales are expected. 
+There remains the potential for short fused Marine Weather 
+Statements with any low top convection that attempts to get 
+going late this afternoon and early this evening..
+
+Gusts continue into Wednesday but may be more marginal in terms
+of gales, at least more marginal at times. Into Wednesday night
+some waters will be hovering around SCA criteria, although peak
+gusts do lower. Sub- SCA conditions become more prevalent later
+Thursday into Thursday night.
+
+Waves are expected to remain below SCA criteria through the 
+first half of Friday night but build to 4 to 6 ft late Friday to 
+around daybreak Saturday on the ocean. Waves continue to build to 
+4 to 8 ft by Saturday afternoon on a southerly flow ahead 
+of an approaching cold front. Waves slowly diminish thereafter 
+through Sunday, with all ocean zones below 5 ft by late Sunday 
+morning into Sunday afternoon.
+
+Winds will remain below 25 kt through Friday, are expected to gust  
+25 to 30 kt kt by late Friday night into Saturday on the ocean 
+waters as a frontal system approaches from the west. Winds on the 
+ocean fall below 25 kt for Saturday night into Sunday. There is a 
+chance that non-ocean waters reach SCA gusts on Saturday.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through the start of next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Gale Warning until 6 AM EDT Wednesday for ANZ331-332-335-338-
+     340-345-350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JP/JT
+NEAR TERM...JE/JT
+SHORT TERM...JT
+LONG TERM...JP
+AVIATION...DS
+MARINE...JE/JP/JT
+HYDROLOGY...JP/JT

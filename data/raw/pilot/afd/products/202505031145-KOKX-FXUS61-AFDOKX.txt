@@ -1,0 +1,200 @@
+018 
+FXUS61 KOKX 031145
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+745 AM EDT Sat May 3 2025
+
+.SYNOPSIS...
+A slow moving cold front will approach this afternoon and
+evening, then lift back north tonight as a warm front. A large
+sprawling low pressure system over the Ohio Valley and high 
+pressure out over the Atlantic will then combine to bring
+unsettled conditions beginning this weekend. The low will move
+across Tuesday night into early Wednesday, then pass to the
+northeast later next week, with associated frontal boundary
+remaining not too far away.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Today is starting off partly to mostly sunny with a canopy of
+thin high clouds and some patches of mid level clouds mainly
+inland. Sunshine should allow temps to quickly climb to the 
+lower 80s across a good deal of the interior and into the 70s
+across Long Island and southern CT. As the front to the west 
+begins to approach showers/tstms will become numerous north/west
+of NYC. A corridor of moderate instability with MLCAPE 1500 
+J/kg will be in place across the Hudson Valley and NW NJ, with 
+low level SW flow increasing to 25 kt and mid level flow up to 
+45 kt, providing ample ingredients for strong to severe 
+thunderstorms inland NW of NYC this afternoon mainly after 18Z. 
+SPC forecasts a slight risk for areas along/NW of I-287, with 
+damaging winds and some large hail the primary concerns. 
+A marginal tornado risk also exists given the stronger low 
+level SW flow, but think this would be isolated/conditional at 
+best, depending on channeled S low level flow up the river 
+valleys to help increase low level helicity. A marginal flash 
+flood threat also exists in this corridor, as training of cells 
+may also occur as the low to mid level flow aligns with the 
+frontal boundary. Localized rainfall amounts of 1-2+ inches 
+look possible per 00Z HREF PMM QPF. 
+
+Even though chances for tstms increase late today into this
+evening down into the NYC metro area, western Long Island and 
+southern CT as the front sags SE, the threat for svr wx is more
+marginal there as fcst soundings do not look as unstable, and 
+more of a marine influence will exist due to S flow along the 
+coast. In fact, southerly sea breezes should gust to 25-30 mph 
+during mid to late afternoon along the south shore of Long 
+Island, and to 20-25 mph across southern CT.
+
+Convection should wane during the late evening and overnight,
+and the frontal boundary should retreat back to the north as a
+warm front overnight. Some patchy fog may be possible where
+earlier heavier rainfall occurred. Low temps will fall to the 
+lower 60s in NYC and NE NJ, and into the 50s elsewhere.
+
+&&
+
+.SHORT TERM /SUNDAY THROUGH MONDAY/...
+On Sunday look for clouds to linger with a S-SE onshore flow
+ahead of the low to the west. Rain chances increase especially
+during the afternoon/evening as an Atlantic moisture feed sets 
+up between the low to the west and offshore high pressure, with 
+the best chances for heavier rain late Sunday night into Monday.
+
+With onshore flow and thicker cloud cover temps will not be as
+warm, with highs both days in the 60s to lower 70s, and lows 
+Sunday night in the 50s.
+
+&&
+
+.LONG TERM /MONDAY NIGHT THROUGH FRIDAY/...
+The region remains in a rainy weather pattern overall during the
+long term. Rain is not expected the entire timeframe but at 
+least chances for rain appear for each time period Monday night 
+through Friday. Instability and forcing make for chances of 
+thunderstorms as well within the Monday night through midweek 
+timeframe. Relatively highest chances of thunderstorms are 
+forecast on Tuesday into early Tuesday evening.
+
+Cutoff upper level low continues to approach the region Monday
+night through Tuesday night. This upper level low eventually 
+exits east of the region Wednesday into Wednesday night. 
+However, another upper level trough moves into the region behind
+the low going into late week.
+
+At the surface, a frontal boundary remains within the region
+Monday night into Tuesday. Low pressure center associated with
+this frontal boundary will be approaching the area as well. 
+Would expect a greater amount of vertical forcing as a result.
+
+The low pressure center itself moves across Tuesday night into
+early Wednesday. The low then moves northeast of the region 
+towards late week. Vertical forcing will decrease Tuesday night 
+into Wednesday. However, synoptic lift becomes favorable once 
+again with another front moving into the region.
+
+Temperatures average above normal during the long term period. 
+Relatively warmest day is on Wednesday and Thursday when 
+forecast high temperatures reach the upper 60s to lower 70s for 
+much of the region.
+
+&&
+
+.AVIATION /12Z SATURDAY THROUGH WEDNESDAY/...
+Stalled frontal boundary within the region for the TAF period. 
+Showers are forecast during the TAF period, with highest chances
+for the late afternoon and evening. There will chances of 
+thunderstorms as well for the same general timeframe as the 
+highest chances of showers.
+
+Otherwise, mainly VFR conditions are expected with possible MVFR
+with any shower activity. A greater overall chance of MVFR is
+forecast early Sunday.
+
+Winds are forecast to generally remain southerly through the TAF 
+period, mostly near 5-10 kts. Higher winds forecast for 
+afternoon into early evening with wind speeds closer to 15 kts 
+and gusts near 20-25 kts.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Amendments are likely to refine the timing of showers and 
+thunderstorms.
+
+Start and end time of gusts could be a few hours off from TAF.
+
+IFR possible early Sunday.
+
+.OUTLOOK FOR 12Z SUNDAY THROUGH WEDNESDAY...
+
+Sunday: Mainly MVFR early, possible IFR. Otherwise, mainly VFR 
+with chance of MVFR or lower in showers. Best chance will be in 
+the afternoon and nighttime hours. Slight chance of 
+thunderstorms.
+
+Monday: Showers likely with MVFR or lower expected. A slight
+chance of tstms. E winds G15-20kt. 
+
+Tuesday: Showers with MVFR or lower expected. A chance of  
+thunderstorms. SE winds G15-20kt day into early eve possible.
+
+Wednesday: Chance of MVFR or lower with a chance of showers and
+slight chance of thunderstorms. 
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+SCA conditions expected for the ocean from mid afternoon into 
+tonight, with seas building to 5-6 ft on a long fetch S flow 
+increasing to 20 kt. A period of SCA cond also expected to the 
+south shore bays of Long Island as an enhances sea breeze gusts
+up to 25 kt. 
+
+A brief window of SCA cond is also possible for the ocean W of
+Fire Island Inlet late Mon afternoon into Mon evening, with E
+flow gusting up to 25 kt and seas building to 5 ft.
+
+&&
+
+.HYDROLOGY...
+A marginal flash flood risk exists for this afternoon/evening
+for inland areas NW of NYC, as tstms there will be capable of
+producing 1-2+ inches of rain in a short period of time. Most of
+the impacts should be at nuisance level, but cannot rule out an
+isolated flash flood event. 
+
+Rain could also be heavy at times from late Sunday night 
+through early Wednesday. With parallel flow from lower to upper 
+levels, training of showers and thunderstorms could occur. 
+Minor flooding will be possible for excessive runoff in low 
+lying, urban, and poor drainage areas.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory from 2 PM this afternoon to 8 PM EDT this 
+     evening for ANZ345.
+     Small Craft Advisory from 2 PM this afternoon to 6 AM EDT 
+     Sunday for ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...BG/JM
+NEAR TERM...BG
+SHORT TERM...BG
+LONG TERM...JM
+AVIATION...JM
+MARINE...BG/JM
+HYDROLOGY...BG/JM

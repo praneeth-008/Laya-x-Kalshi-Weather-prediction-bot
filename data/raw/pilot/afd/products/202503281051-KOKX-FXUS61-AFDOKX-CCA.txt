@@ -1,0 +1,230 @@
+025 
+FXUS61 KOKX 281051 CCA
+AFDOKX
+
+Area Forecast Discussion...CORRECTED
+National Weather Service New York NY
+651 AM EDT Fri Mar 28 2025
+
+.SYNOPSIS...
+High pressure will be moving farther off the Carolina coast
+today. A cold front moves southward into the area this morning.
+The front weakens with high pressure briefly building in this 
+afternoon before this front moves back north as a warm front for
+tonight. The warm front is expected to be north of the region 
+Saturday and then shift back south for Saturday night into 
+Sunday. The front will lift back north on Monday, followed by a
+cold frontal passage Monday night. High pressure will then 
+build in its wake on Tuesday and pass east on Wednesday. A 
+frontal system will approach Wednesday night into Thursday.
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+Made some adjustments to hourly temperatures and dewpoints to
+better match observed trends.
+
+Cold front approaching will make for some gusty winds with more
+mixing in boundary layer as it moves in this morning. Dry
+conditions are expected today.
+
+The front will weaken with weak high pressure returning going into 
+this afternoon. The front is not expected to move totally through 
+the region. Some more breaks of sun are expected. Winds will 
+diminish, with the more westerly flow and slight ridging aloft 
+leading to a relatively warmer day. 
+
+However, by the latter half of this afternoon, clouds begin to move 
+in from the west ahead of an approaching warm front. Winds will be 
+light and gradually gain a more southerly component.
+
+Max temperatures forecast used the NBM 50th percentile. Warmer
+than the previous day, getting into the lower 50s to mid 60s 
+for the region.
+
+&&
+
+.SHORT TERM /6 PM THIS EVENING THROUGH SUNDAY NIGHT/...
+Main feature tonight will be the northward movement of the front 
+that was in the area earlier. The front will be making its way 
+southwest to northeast across the local region as a warm front.
+
+The warm air advection aloft is forecast to lead to a few rain 
+showers across the region tonight. Some patchy fog will be 
+possible as well.
+
+Non-diurnal trend to temperatures tonight. Lows likely set 
+early with slowly rising temperatures overnight. Used a 
+combination of NBM/NBM 50th percentile for lows forecast for 
+late tonight into early Saturday morning. 
+
+The region gets in the warm sector Saturday with warm front
+north of the region. SE Connecticut will not be too far away
+from the front. Mainly dry conditions are expected since the 
+front will not be within the region. Increased low level SW flow
+and ridging aloft will allow for a much warmer airmass. This 
+will result in temperature rising well above seasonal normals. 
+Models show 850mb temperatures Saturday afternoon to be about 10
+degrees C warmer than 24 hours prior. These higher 850 mb 
+temperatures stay through the weekend, helping establish a low 
+level inversion.
+
+MAV guidance has trended warmer for temperatures Saturday
+compared to its previous run for western locations away from
+maritime influence. Expect to see a large temperature gradient
+in temperatures Saturday due to maritime influence, lowest for 
+Eastern Long Island and SE Connecticut, closer to 55 to 60, to 
+highest for Northeast NJ, lower 80s. Lower 70s to lower 80s 
+covers the range of high temperature for much of the region 
+Saturday.
+
+The warm front does not move too much over the course of the 
+weekend. The warm front is forecast to work its way farther 
+south Saturday night into Sunday, allowing for more easterly 
+flow to the north of the boundary. This will lead to much cooler
+temperatures for Sunday especially for the more northeastern 
+locations of the forecast area. The area high temperatures
+Sunday fit mostly in the 50 to 60 degree range. The chances for
+rain showers increase for the latter half of this weekend, 
+especially Sunday night. Boundary layer moisture increases over 
+the course of the weekend with patchy fog also expected Saturday
+night into early Sunday morning as well as Sunday night into 
+early Monday morning.
+
+Locations farthest north within the region will have relatively 
+higher chances of rain showers compared to locations farther south. 
+This will mean a difference in temperatures as well for this 
+weekend, comparing SE Connecticut and Eastern Long Island to the 
+Lower Hudson Valley and NE New Jersey.
+
+&&
+
+.LONG TERM /MONDAY THROUGH THURSDAY/...
+The period starts with upper ridging to the east and an approaching 
+upper trough to the west. At the sfc, a warm front will lift to the 
+north early Mon, followed by a cold front Mon night. Mon should be 
+another mild day though not quite as warm as Sunday as flow will be 
+southerly off the ocean, with high temps in the lower 70s west of 
+the Hudson and in the 60s from NYC east. Showers will be likely 
+mainly Mon afternoon/evening via combo of the approaching cold front 
+and Atlantic moisture streaming northward in its advance via a low 
+level subtropical connection. 
+
+The front should pass east late Mon night, with precip coming to an 
+end, then skies becoming mostly sunny on Tue as the upper trough 
+axis passes east. Temps return closer to normal on Tue with highs in 
+the 50s, then cool off for Wed with highs only 45-50. 
+
+The next approaching frontal system arrives Wed night into Thu. 
+Precip type at the onset inland Wed night is a little uncertain, as 
+temps inland fall to the mid 30s and GFS hangs onto some colder air 
+aloft that might lead to a rain/snow mix, while ECMWF is warmer and 
+points more toward all rain. Rain expected for daytime Thu with 
+temps warming to the upper 50s inland and lower 60s from NYC 
+north/west as the area gets warm sectored.
+
+&&
+
+.AVIATION /12Z FRIDAY THROUGH TUESDAY/...
+High pressure off the Mid Atlantic and Southeast coasts will
+remain overnight as a weak cold front moves through. The front
+will then stall nearby today and move back north as a warm front
+tonight into Saturday.
+
+VFR. SW winds should shift back W after daybreak and increase to 
+around 10 kt as as a trough moves through. W flow should back to
+SW this afternoon, and more S late today. 
+
+Sprinkles falling out of a BKN-OVC mid level cloud deck are
+possible overnight. There is a chance of rain showers/MVFR with
+the approaching warm front tonight. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+No unscheduled AMD expected. 
+
+.OUTLOOK FOR 06Z SATURDAY THROUGH TUESDAY...
+
+Late tonight: Mainly VFR. 
+
+Saturday: VFR through the morning, MVFR possible starting in the
+evening with rain showers. SW winds G25-30kt. 
+
+Sunday: VFR, with a slight chance of rain showers during the day. 
+MVFR with a chance of rain showers at night. E-SE wind G15-20kt.
+
+Monday: MVFR or lower with showers and slight chance of thunder.
+S-SW winds G25-30kt, becoming NW at night. 
+
+Tuesday: VFR. N-NW wind G25kt daytime. 
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+SCA ongoing across the ocean waters and most non-ocean waters 
+this morning. This will be associated with a cold front moving 
+in and will be based on wind gusts primarily. There are some
+near shore wind gusts near SCA range this morning so far across
+eastern parts of the region. The front weakens going into this 
+afternoon. SCA conditions expected to lower late this morning. 
+SCAs end at 10AM for most waters with ocean east of Fire Island 
+Inlet going until 12PM.
+
+Expect sub-SCA conditions this afternoon through tonight on all
+waters.
+
+Looking at this weekend, Saturday could present some SCA 
+potential, mainly due to ocean seas though. Wind gusts appear to
+be limited with the developing low level inversion but they will
+be close. Non-ocean zones likely below SCA thresholds. The 
+elevated ocean seas with SCA levels will probably continue 
+through the rest of the weekend, especially for eastern ocean 
+zones.
+
+An extended period of SCA cond likely on the ocean into Tue night
+as seas remain elevated, first via long fetch S flow up to 20 kt 
+on Mon, then in NW flow gusting to 25 kt Mon night into Tue AM 
+after a cold frontal passage followed by lingering swell. The non 
+ocean waters may also see minimal SCA cond late Mon night in post-
+frontal NW flow but this is less certain.
+
+&&
+
+.HYDROLOGY...
+Around a tenth of an inch of rain or less with rain showers
+tonight into early Saturday. 
+
+Less than a quarter of an inch of rain expected for showers for
+the weekend through Sunday, mainly extreme northern areas.
+
+Rain with the frontal system from late Sunday night into Mon night 
+should average around or just over 1/2 inch. There is potential for 
+QPF of 3/4 to 1 inch with locally higher amts Wed night into Thu but 
+this appears less certain.
+
+No hydrologic impacts expected through the middle of next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 10 AM EDT this morning for ANZ331-
+     332-340-345-355.
+     Small Craft Advisory until noon EDT today for ANZ350-353.
+
+&&
+
+$$
+
+SYNOPSIS...BG/JM
+NEAR TERM...JM
+SHORT TERM...JM
+LONG TERM...BG
+AVIATION...BG
+MARINE...BG/JM
+HYDROLOGY...BG/JM

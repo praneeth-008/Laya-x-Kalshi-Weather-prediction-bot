@@ -1,0 +1,173 @@
+045 
+FXUS61 KOKX 261126
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+626 AM EST Sun Jan 26 2025
+
+.SYNOPSIS...
+A cold front moves through early today. High pressure briefly 
+returns tonight, before low pressure approaches from the north. The 
+low will pass well north of the area, but drag a cold front through 
+on Tuesday. Tuesday is followed by a clipper on Wednesday. High
+pressure then builds in through the rest of the week, with a 
+frontal boundary remaining in the vicinity through the weekend 
+as low pressure develops over the mid-West.
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+A weak cold front moves through early today. No precipitation is 
+expected given weak lift and lack of moisture. However, with 
+relatively deep mixing behind the front in a west flow, some 
+gusty conditions are expected. 25 to 30 mph gusts are possible 
+from late morning through the afternoon.
+
+Stuck close to the NBM for highs today. Temperatures are expected to 
+reach the low 40s (right around normal for late January), which
+would be the warmest day in about a week.
+
+&&
+
+.SHORT TERM /6 PM THIS EVENING THROUGH TUESDAY/...
+An upper level trough remains over the eastern CONUS through the 
+short term period. A potent shortwave in the broader trough dives 
+down from central Canada tonight. Associated surface low pressure 
+rapidly deepens and will pass well to our north. As it moves east it 
+will drag a cold front through the area on Tuesday.
+
+As the low deepens to the north, the pressure gradient over the area 
+tightens and winds start to increase again on Monday. By Monday 
+night, a strong low level jet forms over eastern portions of our 
+area with about 40 kt at 950mb. The NAM is the strongest, showing 45 
+to 50 kt at 950mb. Confidence is high over the warmer ocean waters 
+that these stronger winds will mix down, but there is  with 
+just how much can mix down over land given the expected 
+inversion. This will have to be monitored as advisory level 
+gusts can not be completely ruled out, mainly for the Twin Forks
+of Long Island and the southeast CT coast. While the strongest 
+winds aloft will be mainly east of the area by Tuesday morning, 
+with deep mixing behind the cold front 30 to 35 mph gusts are 
+possible through Tuesday afternoon. This cold front has a little
+bit of a better chance to bring precip to the area. Kept 
+general idea from previous forecast but fine tuned timing. PoPs 
+remain capped at 30 percent. Confidence not high enough to 
+include any QPF or snow amount as anything that falls will 
+likely be very light.
+
+&&
+
+.LONG TERM /TUESDAY NIGHT THROUGH SATURDAY/...
+A clipper system approaches Tuesday night and tracks over 
+southern/central New England Wednesday. Best pcpn chances along and 
+N of the sfc low track. Although the timing seems to be in pretty 
+good agreement amongst the models, the exact position of the low is 
+still uncertain, with the 00Z ECMWF further N than the GFS. Both 
+models however bring the CWA into the warm sector attm. Cannot rule 
+out a track ending up further S, but for now will continue to follow 
+the consensus modeling and keep the low N of the area, resulting in 
+milder temps and lower pcpn chances and amounts. 
+
+Thereafter, high pressure builds in through the end of the week. 
+However, a frontal boundary remains draped over the area, and could 
+potentially remain in the vicinity through the weekend. Another weak 
+clipper system may pass over northern New England Thursday night, but 
+looks to be too far north to bring any precipitation the the area. 
+However, this far out, there is a great deal of uncertainty with the 
+low and where the front will be, so stuck close to the NBM. 
+
+With the area in the warm sector of the clipper system on Wednesday, 
+temperatures are expected to be above normal, ranging from the lower 
+to middle 40s. The front dips south of the area on Thursday, and 
+below normal temperatures are once again expected, with near normal 
+temperatures for Friday, and slightly warmer temperatures for 
+Saturday.
+
+&&
+
+.AVIATION /12Z SUNDAY THROUGH THURSDAY/...
+A weak cold front approaches and passes through this afternoon.
+
+VFR. WSW winds mostly 5-10kt through early this morning, 
+strongest at the coastal terminals. W winds increase to around 
+15 kt with gusts around 25 kt late this morning through this 
+afternoon. Winds then diminish this evening.
+
+     NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No unscheduled amendments expected.
+
+.OUTLOOK FOR 12Z MONDAY THROUGH THURSDAY...
+
+Monday: VFR. WSW gusts 20-25kt.
+
+Tuesday: Mainly VFR. CHC brief MVFR in rain/snow shower. WNW gusts 
+25-30kt with chc 35kt.
+
+Wednesday: Chance of MVFR or lower in snow showers. W gusts around 
+25kt
+
+Thursday: VFR. NW gusts 25-30 kt.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+A Small Craft Advisory is in effect for all waters today and 
+continues on the ocean waters tonight. 25 knot gusts are expected on 
+all non ocean waters, while 25 to 30 knot gusts are expected on the 
+ocean waters, with seas rising to 5-6 feet.
+
+There will be a brief lull in activity tonight where winds and seas 
+fall below SCA criteria. However, as low pressure approaches from 
+the north the pressure gradient increases and SCA conditions return 
+by Monday morning. By Monday night, Gale conditions are possible for 
+the ocean waters, eastern LI Sound and Peconic and Gardiners Bays 
+and a Gale Watch has been issued. Gales can not be ruled out on the 
+other waters, but confidence is not high enough to issue a watch at 
+this time. Will continue a mention in the HWO. In the Gale Watch 
+areas, gusts of 35 to 40 kt are possible. Guidance continues to show 
+at least 40 kt at 950mb, with mixing over the waters up to 925mb. 
+There is potential for some isolated gusts over 40 kt. Given the 
+strong winds, seas on the ocean waters likely rise to 8 to 12 feet 
+and waves on the LI Sound likely rise to 3 to 5 feet. Winds and 
+waves lower to SCA conditions by Tuesday afternoon.
+
+A SCA may be needed through Wed as winds gust to near 25 kt. 
+Best chances for SCA would be the ocean, but there is the 
+potential that it would be needed for all waters. SCA conditions
+continue on Thursday.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts expected into the beginning of next
+weekend.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 6 PM EST this evening for ANZ331-
+     332-335-340-345.
+     Gale Watch from Monday evening through Tuesday afternoon for 
+     ANZ332-340-350-353-355.
+     Small Craft Advisory until 6 PM EST this evening for ANZ338.
+     Small Craft Advisory until 1 AM EST Monday for ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JP/JT
+NEAR TERM...JT
+SHORT TERM...JT
+LONG TERM...JP
+AVIATION...JP
+MARINE...JP/JT
+HYDROLOGY...JP/JT

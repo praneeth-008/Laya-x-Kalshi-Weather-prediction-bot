@@ -1,0 +1,47 @@
+{
+  "pilot_start_date": "2025-01-01",
+  "pilot_end_date": "2025-08-24",
+  "per_station": {
+    "725053-94728": {
+      "icao": "KNYC",
+      "total_rows": 7722,
+      "real_observations": 7475,
+      "temperature_observations": 7475,
+      "first_observation_time": "2025-01-01 00:51:00+00:00",
+      "last_observation_time": "2025-08-27 03:51:00+00:00",
+      "last_temperature_observation_time": "2025-08-27 03:51:00+00:00",
+      "last_full_date_with_temp": "2025-08-27"
+    },
+    "725030-14732": {
+      "icao": "KLGA",
+      "total_rows": 8813,
+      "real_observations": 8566,
+      "temperature_observations": 8566,
+      "first_observation_time": "2025-01-01 00:00:00+00:00",
+      "last_observation_time": "2025-08-27 03:51:00+00:00",
+      "last_temperature_observation_time": "2025-08-27 03:51:00+00:00",
+      "last_full_date_with_temp": "2025-08-27"
+    },
+    "744860-94789": {
+      "icao": "KJFK",
+      "total_rows": 8719,
+      "real_observations": 8472,
+      "temperature_observations": 8471,
+      "first_observation_time": "2025-01-01 00:00:00+00:00",
+      "last_observation_time": "2025-08-27 03:51:00+00:00",
+      "last_temperature_observation_time": "2025-08-27 03:51:00+00:00",
+      "last_full_date_with_temp": "2025-08-27"
+    },
+    "725020-14734": {
+      "icao": "KEWR",
+      "total_rows": 8549,
+      "real_observations": 8307,
+      "temperature_observations": 8305,
+      "first_observation_time": "2025-01-01 00:00:00+00:00",
+      "last_observation_time": "2025-08-25 11:51:00+00:00",
+      "last_temperature_observation_time": "2025-08-25 11:51:00+00:00",
+      "last_full_date_with_temp": "2025-08-25"
+    }
+  },
+  "method": "min over stations of (last date with a real temperature observation in the 2025 ISD annual file), minus 1 day as a conservative margin against a partially-reported final day"
+}

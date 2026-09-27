@@ -1,0 +1,212 @@
+406 
+FXUS61 KOKX 071133
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+733 AM EDT Mon Apr 7 2025
+
+.SYNOPSIS...
+Waves of low pressure move along a stalled frontal boundary to 
+our south through this evening. A secondary cold front will move 
+across the area late tonight into early Tuesday followed by high 
+pressure building in from the west through Wednesday. The high 
+moves offshore Wednesday night. A slow moving frontal system will 
+likely affect the region late Thursday into next weekend.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Updated for current conditions. Removed the mention of snow
+inland as low levels have remained warmer than forecast. Also,
+adjusted probabilities to increase to near 100% with the
+steadiest rain.
+
+A stalled frontal boundary to the south of Long Island will 
+have a series of waves moving along it into this evening. The 
+waves are in association with an amplifying northern stream 
+upper trough that tracks slowly eastward. Temperatures have 
+trended warmer, and snow is no longer expected inland. Periods 
+of rain will continue into this evening, ending late as the 
+upper trough pushes the system south and east of the area. Also,
+a strong cold front will begin to move into the region late 
+tonight/toward Tuesday morning in association of another low 
+tracking across upstate New York and New England.
+
+&&
+
+.SHORT TERM /TUESDAY THROUGH WEDNESDAY/...
+A strong cold front will move across the region Tuesday morning
+with strong cold advection behind the front, and a strong
+pressure gradient as low pressure moving off the northern
+New England coast deepens, and high pressure builds to the 
+west. Low level winds increase to 30 to 40 kt with deep mixing 
+allowing for strong and gusty winds especially during Tuesday 
+afternoon. Used a blend of the NBM 90th percentile and the 
+higher MAV guidance for both the sustained winds and the gusts. 
+With the higher guidance, both sustained winds, and gusts remain
+under wind advisory criteria. However, with the initial onset 
+of the strongest winds there is the potential for a few 
+locations along the coast to be near wind advisory criteria for 
+a brief period of time. Winds will then subside fairly quickly 
+Tuesday evening as the cold advection weakens and high pressure 
+builds closer to the area.
+
+A cold airmass will be ushered in with the cold front and
+below freezing temperatures are expected across the region, and
+will be 10+ degrees below normal. The dry airmass and winds
+remaining up Tuesday night will prevent frost formation,
+however, a freeze warning is possible for Tuesday night where
+the growing season has begun as of April 1st (NYC metro, Nassau
+County, Hudson County, eastern Essex and eastern Union 
+Counties).
+
+Tranquil weather will remain into Wednesday as the high builds
+over the area.
+
+&&
+
+.LONG TERM /WEDNESDAY NIGHT THROUGH SUNDAY/...
+Not much has change with regards to the long term forecast.
+
+Brief shortwave ridging into Thu, with modified polar high building 
+in and across into Wed Night, will bring potential for sub-freezing 
+conditions outside of NYC proper Wed Night. Frost headlines may be 
+needed for NYC/NY metro suburbs where growing season has started, 
+given lighter winds and anticipated mid/upper-30 lows in these areas 
+Wednesday night. However, a second freeze Wed night seems less 
+likely. Temps generally 5 to 10 degrees below seasonable for Wed 
+Night.
+
+Deep SW flow aloft amplifies Thu as a couple of PAC shortwaves dive 
+through the central plains towards the SE US Thu into Fri, setting 
+up an anomalous longitudinally deep east coast trough late week into 
+the weekend. Models also coming into better agreement with a 
+potential 3-4 std below normal 500mb upper low developing over the 
+Tennessee River Valley as northern stream shortwave phases in, 
+eventually lifting into the NE US through the weekend. At the 
+surface a resultant Mid-Mississippi River Valley/Ohio Valley low and 
+associated frontal system likely approaches the region late Thu/Thu 
+Night, and then likely stalls near the region Fri thru the weekend 
+as it becomes aligned with the N/S deepening east coast trough. This 
+culminates in developing southern low pressure tracking up the coast 
+through the weekend in response to the upper low. 
+
+Models trending into better agreement in the synoptics, but still 
+inherent 5-7 day model spread in location/amplitude of trough 
+development and timing/location/intensity of closed low development, 
+due to the interdependency on the interaction of several shortwaves. 
+This of course, will affect the exact location of the resultant 
+stalling frontal system, and track of coastal low. 
+
+Overall, confidence is increasing on unsettled conditions Fri into 
+next weekend, with potential for a period or periods of heavy rain 
+based on synoptic setup and potential sub-tropical moisture 
+connection. Given the increased confidence in this occurring, WPC has 
+issued a Marginal Risk for Excessive Rainfall on Day 5 (12Z Fri-12Z 
+Sat). Its possible, however, the timing of this marginal could 
+change to Saturday or be issued for both Fri & Sat, given the 
+general consensus of models having the highest PWATs around Fri 
+Night. Have increased POPs to likely for Fri night as a result. 
+Overall though, predictability on rainfall details is inherently low 
+at this timeframe (see hydrology section), with increasing detail as 
+the week progresses.
+
+&&
+
+.AVIATION /12Z MONDAY THROUGH FRIDAY/...
+A stationary front remains south of the area today as a wave of low 
+pressure track through the area along this boundary. The wave of low 
+pressure exits east tonight with a cold front pushing through 
+tonight. High pressure sets in tomorrow.
+
+Conditions this morning will be MVFR dropping to IFR, then remaining 
+IFR most of the day. Brief periods of LIFR are possible. Light rain 
+lasts until 00Z. Following the end of the rain, IFR, with possible 
+LIFR, may stick around until 6-9Z. The winds pick thereafter, 
+brining things back to VFR. VFR remains into Tuesday. Snow mixing 
+with rain has been removed from KSWF due to temperatures being 
+warmer than anticipated. It is now all -RA.
+
+Winds NE 5-10 kt today. Winds turn N this evening around 5 kt or 
+light and variable. WInds later tonight become WNW behind a passing 
+cold front and quickly increase in speed. 15-20 kt, G 20-25 kt by 
+early tomorrow morning becoming 20-25 kt, G 30-35 mid/late morning 
+into afternoon tomorrow.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Amendments likely for changing flight categories today.
+
+Timing of flight category improvements tonight is low confidence. 
+Whenever winds pick up following a cold frontal passage is when 
+categories are expected to begin improvement.
+
+.OUTLOOK FOR 12Z TUESDAY THROUGH FRIDAY...
+
+Tuesday Night: VFR. Winds diminish into the night.
+
+Wednesday-Thursday: VFR.
+
+Friday: VFR-MVFR with a chance of showers.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+No changes to winds and seas at this time.
+
+A SCA continues on the ocean waters east of Moriches Inlet 
+through early this evening as south to southeast swells keep 
+seas elevated. Across the waters from Fire Island Inlet to 
+Moriches Inlet seas may at times near 5 feet this morning with 
+the swells, however, with mainly the eastern portion of the zone
+being affected, and the infrequency of higher seas, have not 
+issued an advisory for these waters. Ocean seas may build to SCA
+levels late tonight into Tuesday morning, however, with 
+increasing winds and gusts in the wake of a cold frontal 
+passage, reaching to gale force across all the waters by Tuesday
+afternoon have continued the gale watch from Tuesday morning 
+through early Tuesday evening. Once gale gusts end a period of 
+SCA gusts will be possible on the non ocean waters through 
+Tuesday evening. On the ocean waters once gales end SCA 
+conditions will continue into Wednesday morning.
+
+Winds are waves are expected to remain below SCA criteria 
+Wednesday night through Friday night. Waves on ocean zones could
+climb 5-6 feet on Saturday.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through Thursday. 
+
+Low predictability on hydrologic concerns for late week/next 
+weekend with potential for a long duration rain event Friday-Sat
+Night period. NBM probs are showing a 25-35% prob for 1" in 24 
+hrs and 5- 10% prob of 2" in 24 hours during the Fri-Sat Night 
+period.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Gale Watch from Tuesday morning through Tuesday evening for 
+     ANZ331-332-335-338-340-345-350-353-355.
+     Small Craft Advisory until 8 PM EDT this evening for ANZ350.
+
+&&
+
+$$
+
+SYNOPSIS...BR/MET
+NEAR TERM...MET
+SHORT TERM...MET
+LONG TERM...BR
+AVIATION...BR
+MARINE...BR/MET
+HYDROLOGY...BR/MET

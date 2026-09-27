@@ -1,0 +1,199 @@
+456 
+FXUS61 KOKX 052059
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+359 PM EST Sun Jan 5 2025
+
+.SYNOPSIS...
+A quick moving low will pass through the Mid Atlantic region on 
+Monday and offshore Monday night. High pressure then slowly 
+builds in from the west through Friday. An area of low pressure
+may pass nearby next weekend.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM MONDAY MORNING/...
+The pressure gradient over the area weakens tonight, while heights 
+rise slightly aloft. Surface winds gradually lower through tonight, 
+becoming light (5 kt or less) for a period. Stratocu should slowly 
+decrease through the evening for much of the area as model 
+soundings show the lower levels drying out. 
+
+Given the loss of cloud cover and light winds, there could be a
+brief period where temps drop quick this evening. However, mid 
+to high level cloud cover moves in the second half of the night,
+so radiational cooling conditions are not ideal for the entire 
+night. Forecast lows are in the low to mid 20s for most. Given 
+the aforementioned brief period of efficient cooling, the usual 
+cold spots could potentially see lows in the mid to upper teens.
+
+&&
+
+.SHORT TERM /6 AM MONDAY MORNING THROUGH MONDAY NIGHT/...
+A surface low currently centered over Arkansas, and the associated 
+upper level low, will lift towards the Mid Atlantic tonight and move 
+offshore sometime late Monday morning into Monday afternoon. The low 
+is still progged to pass well south of the area, about 300 miles
+offshore. As it passes to the south, it will deepen as the 
+upper level low opens up and become negatively tilted.
+
+There were no major trends/changes with the 12z guidance. QPF 
+overall did come down a hair compared to the 00z guidance for 
+most locations, however, forecast SLRs were increased a bit from
+the previous forecast, so snow amounts have generally stayed 
+the same or increased by a tenth of an inch.
+
+The story remains the same. As the low passes to the south we look 
+to get scraped by the far northern edge of the precip shield. With 
+plenty of cold air in place, this will result in an all light snow 
+event. In fact, most places likely do not get above freezing on 
+Monday. All guidance is in agreement with strong 850 frontogenesis 
+staying well offshore and in turn any snow banding will stay well 
+south of the area. Light snow likely enters northeast NJ and 
+NYC around 10am and will be done by 3 to 4pm. There could be a 
+period between noon and 2pm where snow rates reach 0.2 to 0.4 
+inch/per for one hour based on model consensus timing of
+strongest lift and hourly QPF fields.
+
+As mentioned, totals have largely stayed the same as the previous 
+forecast. Extreme southwestern portions of the area (Union, Staten 
+Island, Brooklyn and southern Queens) look to have the best chance 
+at seeing an inch. On the other hand, much of the Lower Hudson 
+Valley and southern CT likely do not see more than a trace. Not 
+expecting a significant shift as we are within 18-24 hours, but
+if the system does end up tracking a bit farther north than 
+forecast then reasonable worst case amounts for the southwestern
+portion of the area are around 1.5 to 2 inches.
+
+&&
+
+.LONG TERM /TUESDAY THROUGH SUNDAY/...
+Key Points:
+
+* Cold, windy, and predominantly dry conditions expected through the 
+  upcoming week. Daytime wind chills generally in the teens and as 
+  low as the single digits overnight.
+
+* Next chance for widespread precipitation could arrive next weekend.
+
+Globals models are in good overall agreement this period with the 
+mean upper trough across eastern Canada extending into the NE 
+quarter of the CONUS. This will keep the area dry and unseasonably 
+cold through much of the week. A pattern change toward the end may 
+end with potential impacts from a storm system tracking across the 
+southern states. 
+
+Blocking over Greenland with positive height anomalies will allow a 
+polar vortex over the Canadian Maritimes to only slowly lift out to 
+the NE through the week. At the same time, ridging remains in place 
+across the E PAC into western Canada. This will allow for a steady 
+stream of polar air reinforcements through Thursday. During this 
+time, expect temperatures about 10 degrees below normal. 
+Temperatures likely don't get above freezing until Friday. NBM box 
+and whisker plots continue to show the deterministic highs at or 
+above the 75th percentile through the period, but closer to the 
+median (50th) for lows. Stayed with a blend of the NBM with its 
+median for highs to air slightly on the colder side. At the same 
+time, polar high pressure over the Plains and Midwest bleeds south 
+and east, weakening as it does so through the week. This will 
+maintain a tight pressure gradient into Friday, with a strong W/NW 
+flow. Expect gusts of 30 to 40 mph each afternoon, possibly near 
+advisory levels for Tuesday. This will generate wind chills 
+generally in the teens each day and as low as the single digits at 
+night. 
+
+The upper air pattern briefly looks to get interrupted as a piece of 
+Pac energy breaks through the ridge over western Canada. It is the 
+interaction of this piece of energy along with a cutoff low over the 
+desert SW that brings a storm system across the southern tier of 
+states. The 12Z globals have reverted to a more progressive, weaker 
+system with low pressure passing off the Carolina coast next 
+Saturday. This is quite different from some of the previous runs the 
+last 24h, which rapped up an intense coastal low just south and east 
+of the area. This system will bring the next chance for 
+precipitation to the area. It is much too early though to rely on 
+any one solution and it will need to be watched the next few days.
+
+&&
+
+.AVIATION /21Z SUNDAY THROUGH FRIDAY/...
+Weak low pres passes S of the region on Mon.
+
+VFR thru tngt, then clouds lower Mon mrng. MVFR expected aft 12Z, 
+with pockets of IFR possible in steadier snow roughly 14-19Z. 
+Improvement to VFR by 20-22Z Mon.
+
+Runway accums less than an inch expected. 
+
+Flow generally 280-300 true thru tngt. Decreasing winds aft 22Z, 
+with speeds blw 10kt all arpts by 6Z. Lgt flow blw 10kt on Mon with 
+winds veering slightly to 340-360 true.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Amendments possible for timing and intensity of -SN on Mon.
+
+OUTLOOK FOR 18Z MONDAY THROUGH FRIDAY...
+
+Rest of Monday: VFR by 20-22Z. Winds increase again aft 00Z Tue with 
+NW gusts up to 30kt.
+
+Tuesday through Thursday: VFR and windy. Gusts aoa 35kt at times.
+
+Friday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+A Small Craft Advisory remains in effect on all waters until this 
+evening for 20 to 30 knot gusts and 5 to 7 ft seas across the ocean 
+zones. As winds lower, the SCA expires gradually from west to east. 
+Quiet conditions are then expected on Monday before winds ramp back 
+up again Monday night to SCA level. Given 15-25 kt winds and cold 
+air and water temps Monday night, there is also a chance of some 
+light freezing spray. This is mainly for the LI Sound and close to 
+the shore on the ocean waters where water temps will be coldest. If 
+water temps trend colder than forecast, light freezing spray could 
+be more widespread.
+
+A Gale Watch has been issued for all Tuesday into Wednesday due a 
+strong pressure gradient and several shots of cold air moving across 
+the relatively warmer waters. Strong low pressure will reside across 
+the Canadian Maritimes during this period with high pressure 
+building in from the west. Gales could linger into Thursday, 
+especially for the ocean waters.
+
+&&
+
+.HYDROLOGY...
+No significant hydrologic issues anticipated through next weekend.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 10 PM EST this evening for ANZ331-
+     332-335-338-340-345-355.
+     Gale Watch from Tuesday morning through Wednesday afternoon 
+     for ANZ331-332-335-338-340-345-350-353-355.
+     Small Craft Advisory until 4 AM EST Monday for ANZ350.
+     Small Craft Advisory until 1 AM EST Monday for ANZ353.
+
+&&
+
+$$
+
+SYNOPSIS...JT/DW
+NEAR TERM...JT
+SHORT TERM...JT
+LONG TERM...DW
+AVIATION...JMC
+MARINE...JT/DW
+HYDROLOGY...JT/DW

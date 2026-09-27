@@ -1,0 +1,146 @@
+280 
+FXUS61 KOKX 180742
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+342 AM EDT Fri Jul 18 2025
+
+.SYNOPSIS...
+On the heels of a cold frontal passage, high pressure will 
+build from the Great Lakes through tonight, then pass offshore
+Saturday with a warm front approaching from the south. The front
+will move through Sunday morning, followed by a cold frontal 
+passage late Sunday. High pressure will follow for Sunday night 
+through Tuesday. A frontal boundary will be nearby for Wednesday
+and Thursday.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Cold front has cleared the area. NW winds gusting to 20-25 mph
+in its wake into early afternoon will usher in a more 
+refreshing mid summer air mass, with partly to mostly sunny 
+skies under high clouds streaming across from the west, high 
+temps close to the mid summer average, and afternoon dewpoints 
+55-60. Diminishing winds later this afternoon may allow a light 
+sea breeze to develop along the immediate south shore of Long 
+Island late.
+
+Mostly clear skies and light winds tonight will promote
+radiational cooling, with low temps ranging from the upper 
+50s/lower 60s inland, to the lower 70s in NYC and immediate 
+eastern/western suburbs. 
+
+&&
+
+.SHORT TERM /SATURDAY/...
+Flow aloft will be zonal, with the sfc high moving offshore and
+winds becoming S. A weak shortwave trough may allow a few 
+showers and possibly a tstm to develop in the afternoon from the
+NYC metro area west, with S CT and Long Island remaining mostly
+dry via more stable marine influence. High temps will again be
+close to the seasonal avg, with dewpoints rising through the 
+60s.
+
+&&
+
+.LONG TERM /SATURDAY NIGHT THROUGH THURSDAY/...
+As an upper trough moves across E Canada, heights aloft will
+start to fall, with a weak frontal system approaching Sat night
+into Sunday and bringing chances for showers and tstms. With PW
+near 2 inches any tstms could produce brief/locally heavy rain
+rainfall.
+
+WAA will lead to a warmer and more humid night Sat night, with 
+lows 70-75 and dewpoints in the upper 60s/lower 70s by daybreak.
+Temps daytime Sunday will also be warmer, with highs near 90 in
+NE NJ and in the mid/upper 80s most elsewhere. 
+
+Timing of the cold front passage remains consistent and looks 
+to be Sunday late afternoon/evening. Much drier air returns 
+behind the cold front with temperatures returning to more 
+seasonal normals Monday through Wednesday. The cold front that 
+moved through Sunday/Sunday night will remain south of the 
+region, and possibly return north as a warm front later 
+Wednesday into Thursday, bringing warmer and humid conditions 
+back to the area.
+
+&&
+
+.AVIATION /08Z FRIDAY THROUGH TUESDAY/...
+High pressure over the Great Lakes early this morning will build
+across the area through tonight, then offshore on Saturday.
+
+VFR. 
+
+Following a cold frontal passage, winds early this morning will
+be NW at 10-15 kt with gusts to around 20 kt. Gusts may be 
+more occasional, especially outside of the NYC terminals. 
+Gusts are likely to be lost in the 11Z-14Z timeframe as winds 
+gradually weaken, falling below 10 kt by late afternoon/early 
+evening. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+End time of gusts tonight may be off by 1-3 hours.
+
+Occasional gusts up to 20 kt possible into early afternoon. 
+
+.OUTLOOK FOR 06Z SATURDAY THROUGH TUESDAY... 
+
+Late tonight and Saturday: VFR. 
+
+Saturday night and Sunday: Showers possible with a chance of 
+thunderstorms. MVFR or lower conditions possible.
+
+Sunday night through Tuesday: VFR. 
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Seas are still at 5 ft on the ocean E of Moriches Inlet, so the
+SCA will remain in effect there til daybreak. High pressure will
+build in today, with conditions remaining below SCA thresholds
+thereafter into Tue night.
+
+&&
+
+.HYDROLOGY...
+For late Sat night into Sunday, with PW near 2 inches, any tstms
+could produce brief/locally heavy rain rainfall. 
+Widespread impacts not expected attm.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+A moderate rip current risk has been forecast for the Nassau and
+Suffolk beaches for today, with 4-ft wind waves at 6-sec period
+still out of the SW. The rip current risk for Sat has been 
+changed to low, with 2-ft southerly wind waves at 6-sec period
+and S winds mostly 10 kt or less. 
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 6 AM EDT early this morning for 
+     ANZ350.
+
+&&
+
+$$
+
+SYNOPSIS...BG
+NEAR TERM...BG
+SHORT TERM...BG
+LONG TERM...BG
+AVIATION...DW
+MARINE...BG
+HYDROLOGY...BG
+TIDES/COASTAL FLOODING...

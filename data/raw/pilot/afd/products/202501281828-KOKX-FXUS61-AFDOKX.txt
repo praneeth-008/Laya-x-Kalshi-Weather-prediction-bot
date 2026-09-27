@@ -1,0 +1,155 @@
+096 
+FXUS61 KOKX 281828
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+128 PM EST Tue Jan 28 2025
+
+.SYNOPSIS...
+On the heels of a cold frontal passage, weak surface ridging 
+builds in this evening. A clipper low moves through the area 
+late tonight through Wednesday, dragging another cold front
+through the area. High pressure builds in thereafter through 
+Thursday. A frontal system impacts the area on Friday, with 
+another one possible by the end of the weekend.
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+The last of the snow showers will work across eastern LI in
+conjunction with a cold front.  
+
+Gusty W/NW winds of 35 to 45 mph early will begin to gradually 
+subside through the afternoon as the westerly LLJ sags south of
+the area. After highs in the upper 30s to lower 40s, temperatures
+will gradually subside this afternoon in moderate cold advection.
+
+&&
+
+.SHORT TERM /6 PM THIS EVENING THROUGH THURSDAY/...
+A broad upper level trough remains over the area through Wednesday. 
+Very brief surface ridging builds in tonight, but is quickly 
+followed by the next system. A clipper low, and associated vort max
+rotating through the broader upper level trough, will move 
+through late tonight through Wednesday. The associated warm 
+front pushes north of the area tonight and warm advection may 
+lead to an area of light snow along and ahead of the front. 
+There may then be a lull in precipitation until the cold front 
+moves through during the day. Isolated to scattered snow and/or 
+rain showers are forecast, with the potential for some of this 
+activity to be in the form of squalls also. Another gusty day is
+expected with widespread 35 to 40 mph gusts.
+
+The upper level flow starts to flatten out Wednesday night into 
+Thursday and high pressure builds in at the surface. A sunny but 
+cold day is expected Thursday, with highs back down in the 30s.
+
+&&
+
+.LONG TERM /THURSDAY NIGHT THROUGH MONDAY/...
+A frontal sys approaches from the W Thu ngt. WAA pcpn is modeled to 
+overspread the area, so expect a wintry mix Thu ngt changing to rain 
+on Fri as the entire cwa is warm sectored. With the low over the 
+cntrl CONUS progged to track well N of the cwa, CAD is expected to 
+be minimal. A change in track however could alter that, but it is 
+not fcst attm.
+
+Rain on Fri tapers off Fri ngt, perhaps as snow or rasn. The area is 
+dry slotted so snow accums are expected to be minimal if any. 
+
+Colder for Sat behind the sys, then a Pacific/nrn stream hybrid 
+potentially impacts the cwa Sun into Mon. Variations in the progged 
+track right now, with the ECMWF slightly faster and further N than 
+the GFS. With this pattern, some snow turning to a mix/rain would be 
+expected late Sun and Sun ngt, then the pcpn ends for Mon. NBM pops 
+were followed.
+
+&&
+
+.AVIATION /18Z TUESDAY THROUGH SUNDAY/...
+VFR as a cold front passes to the southeast, then returns north
+as a warm front tonight as low pressure moves out of the upper
+Great Lakes and into upstate NY and New England daytime Wed. 
+
+Winds after fropa have veered more to the NW and are sustained
+just over 20 kt with gusts 30-35 kt and a few peak gusts close
+to 40 kt. These winds should begin to diminish after 20Z-21Z 
+and then quickly fall to under 10 kt by about 23Z. 
+
+Winds tonight then become light/vrb as the front returns north,
+then S 5-10 kt overnight and SW 10-15G20-25kt after about 14Z. 
+Speeds/gusts may be higher than that at the metros and along the
+coast. 
+
+...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+AMD possible if winds this afternoon back left of 310 magnetic.
+
+.OUTLOOK FOR 18Z WEDNESDAY THROUGH SATURDAY...
+
+Wednesday afternoon: WSW winds G30-35kt. Chance of rain/snow
+showers with brief IFR cond at KSWF, MVFR cond elsewhere. 
+
+Wednesday night: Cold fropa with VFR and winds shifting NW 
+G25-30kt, diminishing to G20-25kt after midnight. 
+
+Thursday: VFR. NW winds G20kt in the morning.
+
+Friday: Rain likely with MVFR or lower cond, changing to light
+snow after midnight before ending. SW winds G20kt NYC 
+metro/coast.
+
+Saturday: Becoming VFR in the morning. NW winds G20kt until
+around midday.
+
+Sunday: Chance MVFR or lower cond mainly at night, with snow
+changing to freezing rain/sleet at KSWF, and rain/snow/sleet 
+NYC metros/coast. 
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Gale warnings have been replaced by SCAs. Occasional gusts up to
+35 kt possible on all waters early this afternoon. Seas have
+built to 5 to 10 ft on the ocean and 3 to 5 ft on eastern LI 
+Sound. 
+
+Winds drop to below SCA by early tonight. The lull will be 
+brief as another low pressure system will bring gusty winds late
+tonight through Wednesday night. Additional SCA are expected, 
+with the potential for gales. Winds fall below SCA levels once 
+again on Thursday.
+
+A SCA will likely be needed for Fri and Sat, then winds and seas 
+diminish on Sun. Winds increase on Mon with a SCA possible
+again.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through the start of next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 6 PM EST this evening for ANZ331-
+     332-335-338-340-345-350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JMC/JT/DW
+NEAR TERM...JT/DW
+SHORT TERM...JT
+LONG TERM...JMC
+AVIATION...BG
+MARINE...JMC/JT/DW
+HYDROLOGY...JMC/JT

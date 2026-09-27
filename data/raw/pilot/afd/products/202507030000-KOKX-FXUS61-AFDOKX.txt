@@ -1,0 +1,222 @@
+528 
+FXUS61 KOKX 030000
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+800 PM EDT Wed Jul 2 2025
+
+.SYNOPSIS...
+A cold front sinks southeast of the area and washes out tonight. A 
+Canadian cold front approaches Thursday afternoon, crossing the area 
+Thursday evening. High pressure builds in behind the front Thursday
+night into Saturday morning, then offshore for the remainder of 
+the weekend. A cold front approaches from the Great Lakes Sunday 
+into Monday, passing slowly across the area Tuesday or even 
+stalling in close proximity.
+
+&&
+
+.NEAR TERM /THROUGH THURSDAY/...
+A very small area of showers and thunderstorms produced heavy 
+rainfall in SW CT earlier this evening, between Orange in New 
+Haven county and Shelton in far eastern Fairfield county. Radar 
+and gauges across the area indicated locations received as much 
+as 2 inches of rainfall, which resulted in the issuance of a 
+flood advisory. This was a very small scale feature that persisted
+for about 2 hours, but since has dissipated and moved off into 
+LI Sound. 
+
+Otherwise,a weak shortwave trough slides east this evening, 
+with weakening surface cold front sliding east. An isolated 
+shower is possible early near the coast. Otherwise, clearing 
+skies tonight. 
+
+A slightly drier airmass advects in behind the front tonight with 
+lows tonight in the low 70s to mid 60s. Patchy radiational fog 
+potential across outlying areas.
+
+&&
+
+.SHORT TERM /THURSDAY NIGHT THROUGH FRIDAY NIGHT/...
+Key Points:
+
+* Scattered severe thunderstorm potential( primary threat of
+  damaging winds) Thu aft/eve
+* Dry, seasonably warm, and comfortable Tds for July 4th
+
+A vigorous polar upper low track dives se thru western Quebec 
+Thursday/Thursday Night into northern New England Friday, with its 
+associated 1 std deep shortwave trough approaching the area Thursday 
+evening. 
+
+Deep mixing, sunny skies, and light offshore flow should allow for 
+temperatures to quickly warm in the morning into early afternoon 
+well into the 80s to around 90 for much of the area, away from 
+immediate south coasts with afternoon seabreeze development and far 
+NW areas. A slightly drier airmass will have heat indices near temps 
+as Tds likely mix out into into the lower to mid 60s. The very warm 
+airmass will set-up a marginal to locally moderately unstable 
+airmass across the area. 
+
+Thu aft/eve, a resultant cold front approaches from the W NY/PA. 
+Strong shortwave forcing and RRQ of 70 kt ulj should be a suitable 
+trigger in a marginal to moderately unstable airmass with fairly 
+strong unidirectional deep layer shear (35-40kt) for scattered 
+convection development along pre-frontal trough and off higher 
+terrain across Central NY/PA in the early to mid afternoon, as 
+depicted in high res CAMs. A couple of CAMS indicating isolated 
+storm development across far NW hills by early afternoon along
+outflow of decaying Western NY morning convection, but 
+cape/shear/mid- level lapse rate environment appears less 
+favorable for this to survive into the coastal plain until the 
+late afternoon/evening approach of the trough. 
+
+Environment looks increasingly favorable for cold pool development 
+and storm organization Thu aft/eve (alignment of moderately strong 
+WNW steering flow and shear vectors, mid level dry air and 
+steepening mid-level lapse rates (6.5C), and steep low-level lapse 
+rates) for isolated to scattered bowing line segments with primarily 
+a strong to severe winds gust threat into areas from NYC and N&W in 
+the late afternoon. 12z CAMs have trended a bit more robust 
+with convective development for Thu aft/eve compared to 12 to 24
+hrs ago. Steepening mid-level lapse rates late in the aft/eve 
+could also bring an isolated large hail threat with any stronger
+discrete cells. Flash flooding threat is very low with likely 
+linear and progressive storm motion. 
+
+Convective intensity should lessen somewhat as the activity 
+progresses east over the coast in the early evening, but with 
+strong forcing, increasing deep layer shear and an environment 
+favorable for cold pool development, an isolated severe threat
+for damaging wind gusts is possible all the way down to the 
+coast.
+
+Improving conditions in wake of cold frontal passage Thu 
+evening with clearing conditions, and advection of a 
+cooler/drier Canadian airmass. Lows falling into the 60s for 
+much of the regions.
+
+Shortwave axis slides east on Friday with deep NW flow (gusty NW 
+surface wind), bringing mostly sunny skies, seasonable warm temps 
+(lower 80s interior to mid 80s coastal plain), and comfortable Tds 
+(mid 50s to around 60) Friday. Temps falling back into 70s for 
+Friday evening with clear skies, allowing for ideal conditions for 
+July 4th celebrations.
+
+&&
+
+.LONG TERM /SATURDAY THROUGH WEDNESDAY/...
+Key Points:
+
+* Gradual warmup Saturday through Monday
+* A weak cold front moves into the area on Tuesday with a chance of 
+  showers and thunderstorms
+
+High pressure both aloft and at the surface will build across the 
+area Friday night into Saturday, then build offshore for the 
+remainder of the weekend into early next week. This will result in a 
+pleasant start with near normal temperatures and relatively low 
+humidity. However, with an approaching upper trough trough over the 
+Great Lakes Sunday into early next week, vertical temperatures 
+profiles will be on the upswing with 85h temps near 18C by Monday. 
+In addition, a prolonged period of southerly flow will result in 
+gradually increase humidity during this time. 
+
+A weak cold front associated with the aforementioned upper trough 
+approaches late Monday into Tuesday with increasing chances of 
+showers and thunderstorms. Environment is weakly sheared, but 
+moderately unstable ahead of the front. There is some uncertainty as 
+to when the front pushes through, or if it simply washes out in 
+close proximity Tuesday into Wednesday. This is reflected in some 
+increasing spread for temperatures between the 25th and 75th 
+percentiles. Once again, the NBM deterministic temperatures are 
+generally at ir below the 25th percentile during the forecast 
+period.
+
+&&
+
+.AVIATION /00Z THURSDAY THROUGH MONDAY/...
+A nearby front dissipates as it moves further offshore this
+evening. Another cold front will approach Thursday afternoon.
+
+VFR to start. LIFR cigs are likely overnight at KGON and may 
+also impact KISP/KJFK. 
+
+SW winds tonight may go lgt and vrb for a few hours, before
+veering NW toward daybreak Thu, then backing SW once again into
+late morning. Speeds on Thu increase to 10 kt, with gusts toward
+20 kt possible after 18Z, though may be more occasional at some
+sites. Risk for hi-topped TSRA late aft and early eve, mainly 
+20Z to 00Z Fri. Brief IFR conds psbl. Drying out and return to 
+VFR Thu night.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Low cigs may make it to KJFK late tonight.
+
+Gusts 20 kt possible Thu PM, may be more occasional.
+
+Timing of TSRA on Thu may be off by an hour or two.
+
+.OUTLOOK FOR 00Z FRIDAY THROUGH MONDAY... 
+
+Thursday night: Showers and thunderstorms with gusty winds and 
+brief MVFR or lower cond possible into early evening, otherwise 
+VFR. SW winds G15-20kt outside of tstms. 
+
+Friday: VFR. NW winds G15-18kt. 
+
+Saturday through Monday: VFR. 
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Sub-SCA conditions are expected on all waters under a weak pressure 
+gradient through Friday night. Tstms may pose a hazard of strong
+winds, lightning, heavy rain, and locally rough seas Thu 
+aft/eve.
+
+Sub-SCA conditions are expected this weekend into early next week. 
+Southerly flow on the ocean waters Sunday into Monday will feature 
+G15-20kt with seas generally around 3 ft, possibly as 4 ft late 
+Monday.
+
+&&
+
+.HYDROLOGY...
+No widespread hydrologic impacts anticipated through early next
+week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+A lingering southerly swell of 3 ft 6-7s will produce a 
+moderate rip current risk on Thursday, and low to moderate on 
+Friday. Surf looks to be around 3 ft Thursday and around 2 ft 
+on Friday, possibly a bit higher across the SE Suffolk beaches.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...High Risk for Rip Currents until 9 PM EDT this evening for NYZ075-
+     080-081-178-179.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...NV/DW
+NEAR TERM...NV/DW
+SHORT TERM...NV
+LONG TERM...DW
+AVIATION...BG/DR
+MARINE...NV/DW
+HYDROLOGY...NV/DW
+TIDES/COASTAL FLOODING...//

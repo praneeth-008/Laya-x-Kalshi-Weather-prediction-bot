@@ -1,0 +1,213 @@
+259 
+FXUS61 KOKX 310656
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+256 AM EDT Sat May 31 2025
+
+.SYNOPSIS...
+Low pressure will move across the region this morning, followed by a 
+cold frontal passage this afternoon and evening. A surface trough 
+moves through Sunday evening. High pressure then gradually builds in 
+and remains in control through mid-week, with a few more weak 
+surface troughs swinging through early in the week. A cold front 
+looks to move through sometime Thursday or Friday.
+
+&&
+
+.NEAR TERM /THROUGH TODAY/...
+Rainfall is beginning to increase across the area as a well-
+organized low approaches from the southwest. This low is expected to 
+move over NYC or just east of NYC by mid-morning. 
+
+AS this low approaches, heavy rainfall (which has already started) 
+is likely in northern NJ and up and into the Lower Hudson Valley 
+with peak rainfall rates of 1 to 2"/hr possible. Areas west and 
+north of NYC are under a FLood Watch for this, with scattered 
+instances of flash flooding likely. Total rainfall in this area may 
+approach 1-2 inches, with some isolated pockets of 3-4" possible in 
+heavier showers and thunderstorms. 
+
+Instability is present, but mostly elevated. Heavier downpours and 
+gusty winds are possible in thunderstorms into the early morning, 
+but not likely to reach severe weather criteria. 
+
+The remainder of the area east of NYC will likely see scattered 
+light showers with far less QPF, just under an inch east of Nassau 
+county and Fairfield county, down to 0.5" of total rainfall through 
+this evening for areas far east on Long Island and SE CT. 
+
+As we get into late morning and early afternoon, the low will begin 
+to exit northeast of the area. This brings in drier air & cuts off 
+most of the more intense precip. Spotty to isolated showers may 
+still occur into the early afternoon.
+
+Another chance for brief downpours with showers and thunderstorms 
+may occur with a frontal passage behind the departing low late this 
+afternoon into early tonight. Instability is marginal, so only a few 
+rumbles of thunder are expected. Flood impacts will be minimal given 
+the quicker progression of these showers with the front and given 
+coverage will be less compared to this morning.
+
+&&
+
+.SHORT TERM /TONIGHT THROUGH SUNDAY NIGHT/...
+Following the cold frontal passage, drier and cooler air will get 
+filtered in tonight. Cooler air will be aided by a large upper-level 
+low spinning over the northeast US and under westerly flow, locally.
+
+Dry weather remains until late Sunday into early Sunday night. A few 
+isolated showers may briefly return late Sunday into early Sunday 
+night aided by pockets of mid-level energy passing with a shortwave 
+that rotates around the periphery of an upper-level low still 
+sitting over the northeast. This upper-low will remain in place 
+through at least Sun night, holding cooler air in the region. 
+
+Low temps both tonight and Sunday night drop into the low-50s at the 
+coast, with mid/upper-40s in the interior. Sunday's highs will max 
+out in the mid-60s to near 70.
+
+&&
+
+.LONG TERM /MONDAY THROUGH FRIDAY/...
+Troughing in the mid and upper levels remains over the northeast 
+through early next week with several shortwaves rotating through. In 
+turn, several weak surface troughs will swing through as high 
+pressure tries to build in from the southwest. These features will 
+not result in anything other than some cloud cover. High pressure 
+that is centered to our south will slide offshore Tuesday night but 
+remain in control through at least Wednesday. A cold front then 
+looks to move through sometime Thursday or Friday resulting in some 
+showers and thunderstorms.
+
+There is some forecast uncertainty mainly for mid next week as the 
+ECMWF has shown a cutoff low just to our south that lingers near the 
+area in some past runs. This would result in cooler temperatures, 
+more cloud cover and maybe even some precip. However the guidance 
+does push this feature farther east so the trend will have to be 
+watched. Other guidance is showing this feature, but much farther 
+east and not impacting us. General consensus is for ridging to build 
+in and a deep S/SW flow to bring warm temperatures up into the 80s 
+for mid week.
+
+Overall stuck pretty close to the NBM other than cloud cover for mid 
+week. Thinking was it was leaning too much towards the ECMWF cut off 
+low situation. Temps will be a bit below normal on Sunday, normal 
+Monday and then warm for mid week.
+
+&&
+
+.AVIATION /07Z SATURDAY THROUGH WEDNESDAY/...
+Deepening low pressure over central NJ this morning will track
+slowly NNE, tracking in close proximity to NYC around 12Z, then
+lifting up into central New England by early afternoon. As the 
+low lifts across the area, it will drag a cold front through 
+the terminals later this morning into early this afternoon. A 
+secondary cold front and/or trough will follow in the afternoon.
+
+Widespread rain with embedded thunderstorms will lift north
+across the area through about 12Z. Some pockets of heavier 
+wraparound rain though will linger through about 15Z, mainly
+across the NYC and Lower Hudson Valley terminals. A round of
+heavier showers with possibly thunderstorms will move across the
+area in the afternoon into early evening hours, from about 19Z
+to 23Z. This looks to be much more scattered in coverage.
+
+Expect widespread IFR/LIFR conditions this morning. The heavier 
+showers and thunderstorms may actually help lift ceilings a bit 
+due to increasing mixing. MVFR conditions will develop behind 
+the cold front, eventually improving to VFR. MVFR ceilings may 
+linger across the Lower Hudson Valley terminals into this 
+afternoon.
+
+Low confidence with the wind forecast overnight into the morning,
+and is dependent on the track and timing of the low moving through
+the terminals. SE to E winds will likely become light and 
+variable before shifting to the W and NW early behind the cold 
+front later this morning with gusts 20-30kt.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Amendments are likely for timing of category changes, wind
+shifts, and timing of increasing gusts. 
+
+.OUTLOOK FOR 06Z SUNDAY THROUGH WEDNESDAY... 
+
+Late Saturday night: VFR. A few lingering W winds G20kt.
+
+Sunday through Wednesday...VFR.
+
+&&
+
+.MARINE...
+Wind gusts will approach SCA criteria on the ocean later this 
+morning from an approaching low. A building southerly swell is 
+forecast to bring SCA conditions to ocean waters this afternoon 
+lasting into tonight. In addition, a cold front will move across the 
+area waters which could again result in some wind gusts to near 
+25kt. A small craft advisory has been issued for the ocean waters 
+for today into tonight. 
+
+SCA conditions linger on the ocean waters into Sunday with very 
+marginal 20-25 kt gusts and 5 food seas. Thereafter, sub SCA 
+conditions expected through at least mid-week. 5 to 6 foot seas 
+could return late week ahead of an approaching cold front.
+
+&&
+
+.HYDROLOGY...
+A flood watch has been issued for NE NJ and the Lower Hudson Valley, 
+in effect now into the morning. Rainfall amounts will range between 
+1 and 2 inches, with the potential for locally 3+ inches across the 
+watch area. Rainfall rates across NJ and the Lower Hudson Valley may 
+be as high as 1 to 2 inches per hour in the heaviest and most 
+persistent rain. The heavy rain may result in isolated to scattered 
+instances of flash flooding of urban and poor drainage areas, as 
+well as a few quick responding rivers, creeks, and streams. WPC has 
+an slight risk of excessive rainfall for the watch area. 
+
+There are no hydrologic concerns Sunday through the end of next
+week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+Water levels may just barely touch minor flood benchmarks possible 
+in the most vulnerable spots with the high tide cycles tonight due 
+the passage of a deepening low pressure system. No statements have 
+been issued. No additional coastal flooding is expected this weekend 
+into early next week. 
+
+With a 5-7 ft southerly swell at 7-8 s, high rip current activity is 
+expected on Saturday at the Suffolk County beaches. Swell height and 
+period are a bit lower farther west, where a moderate risk is in 
+effect. A moderate risk is expected for all beaches on Sunday with 
+lowering swell and still no real onshore wind component.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...Flood Watch until 11 AM EDT this morning for NYZ067>071.
+     High Risk for Rip Currents from 6 AM EDT this morning through this 
+     evening for NYZ080-081.
+NJ...Flood Watch until 11 AM EDT this morning for NJZ002-004-006-
+     103>108.
+MARINE...Small Craft Advisory from 6 AM this morning to 6 PM EDT Sunday 
+     for ANZ350-353.
+     Small Craft Advisory from 6 AM this morning to 8 AM EDT Sunday 
+     for ANZ355.
+
+&&
+
+$$
+
+SYNOPSIS...BR/JT
+NEAR TERM...BR
+SHORT TERM...BR
+LONG TERM...JT
+AVIATION...DW
+MARINE...BR/JT
+HYDROLOGY...BR/JT
+TIDES/COASTAL FLOODING...

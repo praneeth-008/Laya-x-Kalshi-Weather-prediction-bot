@@ -1,0 +1,172 @@
+303 
+FXUS61 KOKX 211457
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1057 AM EDT Mon Apr 21 2025
+
+.SYNOPSIS...
+High pressure slides east and offshore today. A warm front 
+approaches the area this evening followed by a cold front on 
+Tuesday into Tuesday night. High pressure then builds back in 
+for Wednesday. High pressure remains over the region through 
+Thursday night, followed by a frontal system Friday into 
+Saturday. High pressure returns for the second half of the 
+weekend.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Good model agreement on mid and upper ridging located over much
+of the northeast shifting east, and flattening as an upper low 
+dives out of the Northern Plains and heads over the Great Lakes.
+The ridging aloft allows surface high pressure to move over the
+area then offshore this afternoon. 
+
+Dry, increasing cloudiness, and a few degrees below seasonable 
+temps expected today with maritime flow under a strong 
+subsidence inversion. 
+
+Clouds will be on the increase during the 
+afternoon as low and mid level moisture increases and a warm 
+front approaches from the southwest. A few of the CAMs continue
+to depict a few showers developing along the coast this 
+afternoon along the nose of a strengthening llj in advance of 
+approaching warm front. CAMs appears to be initializing too 
+aggressive with this activity across the Mid- Atlantic this 
+morning. Based on this, the prob of an isolated showers across 
+the coastal plain is low, with more likely just a few sprinkles 
+with a dry subcloud layer.
+
+Under the southeasterly flow, highs at the coast should be in 
+the lower to mid 50s, with upper 50s to around 60 for NYC and 
+points across the interior.
+
+&&
+
+.SHORT TERM /TUESDAY THROUGH WEDNESDAY NIGHT/...
+Winds become southerly then southwesterly overnight Monday into 
+early Tuesday as moisture advection commences and the warm front 
+shifts through, then north, of the area. Aloft, the flow becomes 
+more zonal in nature, as the upper low heads toward Quebec. Guidance 
+has been fairly consistent showing the core of light precipitation 
+with this system associated with a pre-frontal trough, which looks 
+to work through late Monday into early Tuesday morning, clearing the 
+coast by mid to late morning. Given that the best forcing is 
+north of the region and PWATS are generally less than 1", 
+precipitation amounts look light (around 0.1-0.25"), with 
+highest amounts over CT and the Lower Hudson Valley. Highs on 
+Tuesday will be in the 70s, to near 80 across the urban NYC 
+corridor. The cold front then passes through the area by Tuesday
+afternoon, and winds become westerly by Tuesday night. Adjusted
+the NBM temperatures up toward the 75th percentile, in line 
+with the previous forecast, given that much of the day Tuesday 
+the cold front slowly works east.
+
+High pressure then builds over the northeast on Wednesday, 
+resulting in another dry day locally, with highs in the lower 
+70s under weak northerly flow.
+
+&&
+
+.LONG TERM /THURSDAY THROUGH SUNDAY/...
+No significant changes in the long term and stuck fairly close to 
+the previous forecast/NBM.
+
+The long term period starts off with high pressure over the region 
+with dry conditions and mostly clear skies for Wednesday night and 
+Thursday. The high starts to slide east Thursday night and Friday, 
+with another shortwave/low pressure system approaching for Friday 
+into Saturday. The surface low is expected to pass north of the 
+region with its associated cold front moving across the area during 
+the day Saturday.  00z ECMWF is slightly faster than the 00z GFS 
+timing of the front for Saturday afternoon, but only by a difference 
+of a few hours. 
+
+Overall, expected clouds to gradually increase Thursday night and 
+early Friday, with POPs gradually increasing Friday afternoon. For 
+now, looking at just some chance POPs Friday afternoon and into the 
+first part of Friday night. POPs increase further after midnight 
+Friday night into Saturday as a cold front approaches and moves 
+across the region. POPs gradually taper off Saturday night with 
+drier conditions expected for Sunday. 
+
+Temperatures remain at or above normal for this time of year.
+
+&&
+
+.AVIATION /15Z MONDAY THROUGH FRIDAY/...
+High pressure over the terminals will push east today. A warm front 
+approaches tonight and lifts north of the terminals Tuesday
+morning. 
+
+VFR today. MVFR/IFR conditions tonight mainly after 03Z, along 
+with some showers. 
+
+Light and variable winds this morning become SE after 13Z and 
+increase through the day. Wind speeds around 10-13 kt expected 
+in the afternoon. Gusts up to 20 kt, mainly at NYC and coastal 
+terminals, with isolated gusts to around 25 kt. Tonight, winds 
+diminish, falling below 10kt. Wind become more southerly 
+tonight, then SW to W with the passage of a warm front early 
+Tuesday morning.
+
+ NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Gusts this afternoon/evening may be occasional. Isolated gusts
+to around 25 kt possible.
+
+Timing of potential showers and MVFR this evening/overnight may be 
+off by 1-2 hours. 
+
+.OUTLOOK FOR 12Z TUESDAY THROUGH FRIDAY...
+
+
+Tuesday: Lingering shower possible early, mainly east of NYC
+terminals. Becoming VFR in the morning. SW-W wind gusts 15-20 
+kt possible.
+
+Wednesday and Thursday: VFR.
+
+Friday: Chance of MVFR and showers, mainly in the late afternoon
+into the night.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Occasional gusts to 25kts are possible for a short period on 
+the ocean waters in advance of a frontal system tonight, but 
+otherwise conditions are expected to remain below SCA levels 
+through Friday in a weak pressure regime. 
+
+Next chance for SCA conditions will be Friday night into 
+Saturday with a frontal system moving across the area waters.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic issues through next weekend.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...BC/DBR
+NEAR TERM...DBR/NV
+SHORT TERM...DBR
+LONG TERM...BC
+AVIATION...BC/JP
+MARINE...BC/DBR
+HYDROLOGY...BC/DBR

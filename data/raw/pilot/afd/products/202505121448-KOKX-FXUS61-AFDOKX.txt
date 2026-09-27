@@ -1,0 +1,165 @@
+630 
+FXUS61 KOKX 121448
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1048 AM EDT Mon May 12 2025
+
+.SYNOPSIS...
+High pressure will shift offshore today. A broad area of low 
+pressure will then impact the area through the end of the week. 
+A frontal system impacts the area for the end of the week into 
+the weekend.
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+Just some minor adjustments to reflect latest temperatures and
+dew points. Otherwise, the forecast remains on track.
+
+High pressure overhead today will result in fairly clear skies and 
+dry conditions. As the center of the high moves offshore to the 
+east, a light return flow out of the south will allow low level 
+moisture to increase. THis southerly flow off the relatively cool 
+ocean will also prevent high temperatures today along the coast from 
+rising above the upper 60s to low 70s. Interior areas that aren't 
+influences by the flow off of the ocean will see highs in the middle 
+to upper 70s.
+
+&&
+
+.SHORT TERM /6 PM THIS EVENING THROUGH WEDNESDAY NIGHT/...
+High clouds begin to move into the area tonight with the approach of 
+a broad surface low from the southwest.  This weak, slow moving 
+surface low is being forced by a mid-level cut-off low that is 
+slowly becoming reintroduced to the mean flow. This will allow much 
+of the middle of the week to experience showery conditions. 
+
+Increasing clouds and moisture tonight will prevent temperatures 
+from falling too much with lows in the 50s to near 60 in the NYC 
+metro. Much of the first half of the night should be dry but the 
+chance of showers increases a bit for the western portion of the 
+area after 2-4AM. Showers should remain light in intensity. The 
+eastward progression of this band of scattered showers remains a bit 
+uncertain as the showers will be running into the drier airmass from 
+the high pressure still sitting offshore.
+
+This general pattern continues during the day on Tuesday and Tuesday 
+night with the best chance for showers being the western portions of 
+the area with eastern areas possibly remaining mostly dry during 
+this timeframe. Overcast skies will prevent temperatures from rising 
+too much Tuesday with highs in the upper 60s to middle 70s for the 
+northeasternmost areas.
+
+As the low continues to move toward the area late Tuesday night and 
+Wednesday, the chance of showers expands eastward with increasing 
+southerly flow increasing the low level moisture across the area. 
+Highs Wednesday will only be in the middle to upper 60s. By 
+Wednesday night, showers should overtake much of the area. There may 
+be enough elevated instability to result in some isolated 
+thunderstorms.
+
+Rainfall totals over this timeframe should be anywhere from 0.25" to 
+0.75" with the highest amounts more likely in the western portion of 
+the CWA. No hydrologic or flooding concerns are expected.
+
+&&
+
+.LONG TERM /THURSDAY THROUGH SUNDAY/...
+Unsettled for the long term, though no day seems to be a complete 
+washout. 
+
+Weak surface low and upper level trough will affect the 
+forecast area on Thursday, pushing offshore Thursday night. This 
+will be followed by weak upper level ridging into Friday night as a 
+warm front approaches at the surface during the day. The warm front 
+lifts north late Friday into Friday night, leaving the area warm 
+sectored for Saturday. The associated cold front approaches and 
+moves through Saturday night, with a secondary cold front/surface 
+trough moving through Sunday.
+
+It becomes more unstable on Thursday with rising temps and the upper 
+trough moving over the area. This should support initiation, so some 
+showers and thunderstorms possible especially in the afternoon and 
+evenings. 
+
+As the upper low associated with the frontal system impacting the 
+forecast area at the end of the week into the weekend slowly treks 
+east over southeastern Canada, the flow will become more westerly 
+aloft, and temperatures begin to surge towards 80 on Friday, 
+especially W of the Hudson. There could be another round of showers 
+and thunderstorms with energy embedded in the flow, but confidence 
+is low this far out. 
+
+Another warm day on Saturday with the area warm sectored. It should 
+be a few degrees warmer than Friday.
+
+&&
+
+.AVIATION /15Z MONDAY THROUGH FRIDAY/...
+VFR as high pressure works offshore today.
+
+SE-S Winds around 10 kt into the afternoon. There were few gusts
+up to 20 kt, but these should be infrequent. Increasing cloud 
+cover through the period, but cigs remain VFR through much of 
+tonight. MVFR or lower is possible around 12Z Tuesday, but more 
+likely after 12Z.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Timing of wind shifts may be off by an hour or two. Low chance
+of MVFR or lower conditions around 12Z Tuesday.
+
+.OUTLOOK FOR 12Z TUESDAY THROUGH FRIDAY...
+
+Tuesday: MVFR or lower and showers possible.
+
+Tuesday night: Low stratus/fog with IFR cond possible especially 
+near the coast at KJFK/KISP/KHPN/KBDR/KGON, otherwise MVFR cond 
+expected. Chance of showers.
+
+Wednesday and Thursday: MVFR cond expected, IFR or lower cond 
+possible at times. Showers likely. E-SE winds G20kt possible on Wed. 
+
+Friday: Mainly VFR, chance of MVFR and showers.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Sub-SCA conditions are expected on all waters through Tuesday night. 
+The pressure gradient increases with a low pressure building into 
+the area from the southwest on Wednesday. This will result in gust 
+near 25 kt on the ocean as well as wave heights near 5-7 feet. SCA 
+conditions likely linger on the ocean through Thursday before 
+subsiding Thursday night. Thereafter, winds and waves should 
+remain below SCA criteria due to lack of any strong pressure 
+gradient across the waters.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts expected through the weekend.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JP/MW
+NEAR TERM...BC/MW
+SHORT TERM...MW
+LONG TERM...JP
+AVIATION...DW/JP
+MARINE...JP/MW
+HYDROLOGY...JP/MW

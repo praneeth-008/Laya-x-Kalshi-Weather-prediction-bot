@@ -1,0 +1,169 @@
+963 
+FXUS61 KOKX 170835
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+335 AM EST Fri Jan 17 2025
+
+.SYNOPSIS...
+Fair weather today will give way to a series of systems over the
+weekend. Low pressure departs to the northeast on Monday with a
+strong arctic high pressure system building into the area 
+through the middle of next week. Another frontal system may move
+past the area toward the middle to end of next week.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+An upr ridge will translate across the cwa today and tngt. This
+will result in dry wx due to strong subsidence and a lack of 
+moisture. Time heights indicate a deep, albeit not strong, NW 
+flow promoting mixing. Model h85 temps lined up well with the 
+NBM output for highs. At ngt, strengthening onshore sly 
+component flow should keep lows more uniform across the area. 
+The NBM seemed to handle this as well, so it was followed with a
+few adjustments.
+
+&&
+
+.SHORT TERM /SATURDAY THROUGH SUNDAY NIGHT/...
+A strong subtropical jet over Baja will quickly traverse the
+country and reach the Southeast on Sat. This will help transport
+a bit of moisture into the local area as a deep trof digs into
+the Midwest. This should set up a round of rain, mainly light, 
+perhaps mixed with some snow extreme nwrn areas, particularly 
+where there is some elevation. Timing is Sat aftn and eve attm.
+By the time the colder air filters in, the pcpn is expected to
+be over. There could be some residual icy spots however as lows
+drop into the 20s most of the cwa. 
+
+As the colder airmass builds in on Sun, the upr trof spins up a
+low and tracks it somewhere E of the cwa Sun ngt per the latest
+model consensus. The NAM appears to be an outlier - even all of
+the ECMWF AI runs are in good agreement. Because of this, went 
+with the likely pops from the NBM. Now it appears to be the 
+typical exact track game to determine the heaviest snow band and
+whether ern/cstl areas get into a mix. For now, will fcst about
+4 inches of snow for the entire area, leaving room for 
+adjustment. It does appear that wrng lvl snow is a possibility 
+with this sys. Will include a mention in the HWO.
+
+&&
+
+.LONG TERM /MONDAY THROUGH THURSDAY/...
+Key Points:
+
+** A frigid airmass is expected to take hold by Monday night and 
+linger through the middle of the week.
+
+** High temperatures Tuesday and Wednesday will be in the teens to 
+near 20. Lows in the single digits Monday night through Wednesday 
+night.
+
+The low pressure departs to the northeast of the area as an arctic 
+high pressure builds into the area on Monday. A tightening pressure 
+gradient over the area between these two systems will bring a 
+persistent NW flow for much of the period. This will also filter in 
+an arctic airmass that will begin to be felt Monday but firmly 
+take hold by Monday night.
+
+High temperatures on Monday will be in the 20s with the upper 20s 
+along the coast to low 20s for the interior areas to the NW. By 
+Tuesday and Wednesday, the arctic airmass is firmly in place 
+preventing high temperatures each day form rising out of the upper 
+teens to near 20 degrees. Low temperatures will be even colder, 
+despite persistent NW flow. Lows Monday night will be in the single 
+digits to possibly near 0 for portions of the Lower Hudson Valley. 
+These frigid low temperatures will persist for Tuesday night and 
+Wednesday night as well with lows in the single digits or lower each 
+night. The peak of the frigid temperatures will be on Tuesday night 
+into early Wednesday morning with even coastal areas dropping into 
+the middle single digits. A brisk flow will also allow for wind 
+chill values to drop below 0 for the entire area during each night 
+with the coldest feels like temperatures on Tuesday night into 
+Wednesday morning with wind chill values anywhere from 0 to -5 along 
+the coast and -5 to -10 or lower for interior areas.
+
+Guidance remains inconsistent with regards to the potential 
+development of the next system where the CMC brings a developing 
+coastal low pressure system to the area by Wednesday with the GFS 
+and ECMWF suppressing it to the southeast. Left Slight chance PoPs 
+for now to account for the possibility of being impacted on the 
+northern periphery of this system. 
+
+&&
+
+.AVIATION /09Z FRIDAY THROUGH TUESDAY/...
+A frontal system moves farther offshore as high pressure builds back 
+in today. Another frontal system approaches from the west tonight 
+and into Saturday.
+
+VFR. 
+
+NW flow into this morning. Wind becomes more SW by late afternoon 
+as high pressure builds to the south, then SSW tonight. Speeds 
+remain mainly at or under 10 kt through this time.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Timing of wind shift today may be off by a couple of hours.
+
+.OUTLOOK FOR 09Z SATURDAY THROUGH TUESDAY...
+
+Saturday: MVFR or lower at times with rain likely during the 
+afternoon. S wind gusts around 20 kt during the day.
+
+Sunday: MVFR or lower at times with increasing chances of 
+snow in the afternoon and into the evening.
+
+Monday: Mainly VFR, MVFR possible in the morning. NW wind gusts near 
+20 kt.
+
+Tuesday: VFR. W wind gusts around 20 kt.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Winds and seas will be blw sca lvls today. The ocean may
+approach sca on Sat, and will likely hit sca criteria by Sun
+ngt. The protected waters will have mrgnl winds Sun and Sun ngt. 
+
+SCA conditions persist on the ocean waters on Monday with waves 
+greater than 5 feet and gusts 25-30 kt. The non-ocean waters may be 
+more marginal as wind gusts may just fall short of 25 kt. Near SCA 
+gusts then persist mainly for the ocean into Tuesday but the non-
+ocean waters may fall short. 
+
+Persistent winds above 15 kt with a frigid airmass in place may 
+result in the potential for freezing spray, especially on the ocean 
+where wave heights will be more elevated on Monday and into 
+Tuesday.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts are expected into the middle of next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JMC/MW
+NEAR TERM...JMC
+SHORT TERM...JMC
+LONG TERM...MW
+AVIATION...DR/MW
+MARINE...JMC/MW
+HYDROLOGY...JMC/MW

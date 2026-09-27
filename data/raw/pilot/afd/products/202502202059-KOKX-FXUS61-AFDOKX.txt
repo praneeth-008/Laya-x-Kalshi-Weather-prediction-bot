@@ -1,0 +1,183 @@
+376 
+FXUS61 KOKX 202059
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+359 PM EST Thu Feb 20 2025
+
+.SYNOPSIS...
+As intensifying offshore low pressure moves farther out to sea 
+tonight, a weak low pressure trough will move across. Strong
+high pressure over the Plains states will then move east to the
+Mid Atlantic coast by Saturday, and remain in control into
+Monday. Low pressure will pass to the north Monday night into
+Tuesday, followed by building high pressure on Wednesday. 
+Another low may impact the area late next week. 
+
+&&
+
+.NEAR TERM /UNTIL 6 AM FRIDAY MORNING/...
+As an upper low passes just south and an associated weak sfc 
+trough moves through, light snow showers that have already 
+moved into NYC, NE NJ and parts of the lower Hudson Valley
+should overspread Long Island. Forecast carries likely PoP for
+those areas, and also have chance PoP into parts of southern CT
+mainly over Fairfield County and toward the coast. QPF remains
+light, less than 1/10 inch in general, and corresponding
+snowfall amts should be mostly under an inch. Can't rule out an
+isolated 1 inch total in the higher elevations north/west of NYC
+and across parts of western Long Island where forcing with the 
+upper level low will be stronger. Timing of this activity could 
+pose some travel impacts and slick spots to the PM rush. Still, 
+some locales may not see any snow whatsoever, or just a few 
+flurries, largely staying mainly dry and overcast instead, 
+especially into interior southern CT. 
+
+Clouds thin out regardless overnight as the upper low shifts 
+offshore and drier air works in. NW flow increases tonight as
+the pressure gradient tightens between the offshore low and the
+strong inland high, which should preclude decoupling. Low temps
+range from the mid teens inland, to either side of 20 in NYC and
+along the coast, with wind chills in the single digits most
+places, and as low as 0 in spots well inland. 
+
+&&
+
+.SHORT TERM /6 AM FRIDAY MORNING THROUGH SATURDAY/...
+Under mostly clear skies, blustery NW flow will continue Fri 
+into Fri night between the offshore low and the high to the west
+at it builds toward the Mid Atlantic coast. Gusts 30-35 mph and
+an occasional gust up to 40 mph in the NYC metro area expected 
+Fri afternoon. Temps should reach the lower/mid 30s by 
+afternoon. 
+
+Flow relaxes into Friday night as the high builds closer, and 
+mostly clear skies prevail as temperatures fall into the teens
+and lower 20s.
+
+Winds relax by daytime Sat and back WSW in the afternoon as the
+high reaches the Mid Atlantic coast. Another mostly sunny day
+expected, with highs 35-40. 
+
+&&
+
+.LONG TERM /SATURDAY NIGHT THROUGH THURSDAY/...
+There have been no significant changes to the long term forecast. 
+
+Key Points:
+
+* A warming trend will continue Sunday through the middle of
+  next week, with mid to upper 40s possible both Tuesday and 
+  Wednesday. Some locations could reach 50 degrees in metro NE 
+  NJ and NYC.
+
+* Mainly dry conditions are expected through mid week. 
+
+* A more organized low pressure system may impact the area late
+  next week.
+
+The mean upper trough axis will remain offshore the second half
+of the upcoming weekend with a NW flow remaining aloft. The 
+orientation of the trough begins to shift back to the west early
+next week as a few shortwaves pass across the Great Lakes and 
+northeast. These appear moisture starved and may only bring an 
+increase in clouds Monday into Tuesday. Model consensus PoPs 
+remain at slight chance (20%) and this seems reasonable given 
+the progressive flow, limited moisture, and weak lift. 
+
+A progressive ridge the follows on Wednesday behind the
+departing shortwave. This will briefly bring a return to high 
+pressure. A more amplified upper trough may follow late next 
+week. The modeling is in good agreement on the larger scale 
+pattern, but differ significantly with the track of an 
+associated low pressure. This appears to be the next system to 
+bring a chance of widespread precipitation to the area. Details 
+on its track and associated precipitation types and amounts are 
+of lower confidence given this is a week out. Followed the 
+NBM/model consensus, which is leaning towards a warmer solution 
+yielding mostly plain rain. Will follow the NBM, but cap precip 
+probabilities off at chance for now since this is a week out and
+the timing could easily change in subsequent forecast cycles.
+
+&&
+
+.AVIATION /21Z THURSDAY THROUGH TUESDAY/...
+An upper level low and surface trough will cross the area 
+tonight. High pressure builds in Friday.
+
+VFR with a period of MVFR and possibly IFR in light snow 
+showers this evening. Tempo groups included for the lower 
+conditions in snow especially for city terminals. There is some 
+timing uncertainty with the onset and northeast extent given 
+drier air across CT. Up to a half inch of snow is possible.
+
+NW flow 10-15G20 kt is expected through the remainder of the 
+forecast. More gusts develop later this evening, and may be 
+more occasional until toward 00Z. Winds and gusts increase 
+overnight, with occasional gusts 30-35 kt and continue into
+Friday.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Amendments for timing of snow and lowering conditions this 
+evening. Occasional gusts late this evening and overnight may
+exceed 30 kt. 
+
+.OUTLOOK FOR 12Z FRIDAY THROUGH TUESDAY...
+
+Friday: VFR. NW winds G25 kt.
+
+Saturday and Sunday: VFR. 
+
+Monday and Tuesday...Mainly VFR.
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+SCA cond about to begin on NY Harbor and the western ocean
+waters should spread to all waters this evening an continue on
+all waters through daytime Fri. A few gusts up to 35 kt may be 
+possible on the outer ocean waters late this evening and 
+overnight as ocean seas build to 5-7 ft. 
+
+Winds slowly diminish Fri night, first by evening on the western
+sound, then on NY Harbor and the south shore bays by midnight 
+Fri night. 
+
+Other than perhaps a few lingering 5-footers on the outer ern 
+ocean waters early Sat AM, conditions will likely remain below 
+SCA levels from Sat through Tue as a weak pressure gradient 
+settles over the waters. 
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts expected.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 6 AM EST Saturday for ANZ331-332-
+     340-350-353-355.
+     Small Craft Advisory until 6 PM EST Friday for ANZ335.
+     Small Craft Advisory until midnight EST Friday night for 
+     ANZ338-345.
+
+&&
+
+$$
+
+SYNOPSIS...BG/DS
+NEAR TERM...BG
+SHORT TERM...BG
+LONG TERM...DS
+AVIATION...IRD
+MARINE...BG/DS
+HYDROLOGY...BG/DS

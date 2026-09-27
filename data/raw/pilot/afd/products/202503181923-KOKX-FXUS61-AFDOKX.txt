@@ -1,0 +1,230 @@
+039 
+FXUS61 KOKX 181923
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+323 PM EDT Tue Mar 18 2025
+
+.SYNOPSIS...
+High pressure will be in control through Wednesday. The high
+shifts east Wednesday night ahead of the next approaching cold
+front on Thursday. A coastal low develops along the cold front 
+and will impact the area Thursday night through Friday. High 
+pressure builds in very briefly Friday night before a weak area 
+of low pressure moves through Saturday into Saturday night. High
+pressure returns Sunday, with another frontal system expected 
+to move through early next week.
+
+&&
+
+.NEAR TERM /THROUGH WEDNESDAY/...
+An upper level ridge and associated surface high will continue
+to build over the region tonight. The offshore low pressure 
+will also continuing drifting further east. High clouds 
+associated with the offshore low will stream across eastern 
+portions of Long Island and southeast Connecticut this evening. 
+The building ridge aloft will gradually shift the axis of these 
+clouds offshore tonight leaving behind mainly clear skies across
+the entire area. Weak winds, dry air, will combine with the 
+clear skies for ideal radiational cooling conditions, especially
+outside of the NYC metro. Lows will range from the upper 20s 
+and low 30s inland and across LI Pine Barrens to the mid and 
+upper 30s elsewhere. Lows in the NYC metro should only fall into
+the low 40s. 
+
+Ridging will remain overhead for much of Wednesday. The surface
+high begins to shift to the east and the low level flow is 
+weak. A fairly quick warm up in the morning and early afternoon 
+will lead to sea breeze development through the afternoon. The 
+axis of the ridge also begins shifting to the east late in the 
+day with SW flow starting to increase well ahead of the next 
+amplifying trough over the Plains. This increase in SW flow will
+bring in some high clouds late. Highs in the upper 50s to 
+around 60 will be reached by early afternoon across much of Long
+Island, coastal Connecticut, and southern portions of the NYC 
+metro. Further inland highs in the lower to middle 60s are 
+forecast with a later timing of the sea breeze. 
+
+&&
+
+.SHORT TERM /WEDNESDAY NIGHT THROUGH THURSDAY/...
+Ridging will exit offshore Wednesday night into Thursday as
+the aforementioned shortwave trough quickly approaches. Low 
+level warm advection will increase Wednesday night. Increasing 
+dew points and warmer air above the surface should begin the 
+development of low clouds over the colder ocean. These clouds 
+will likely overspread the area Wednesday night. Areas of fog 
+are also possible especially closer to the coast early Thursday 
+morning. Low confidence at this time if any of the fog will 
+become dense and whether or not there will be drizzle. Model 
+precip fields indicate some trace amounts of QPF, but this could
+just be a signal for the low clouds overspreading the area. 
+Lows Wednesday night will be milder and generally in the lower 
+to middle 40s with a few interior spots dropping into the 30s. 
+
+Most of the daytime hours on Thursday will be dry. The upper trough 
+rapidly approaches with its associated frontal system late in the 
+day. Chances for showers begin to increase towards sunset from the 
+NYC metro on west. Otherwise, low clouds may persist for a portion 
+of the morning before diminishing. It is quite possible that 
+portions of Long Island and southeast Connecticut remain under low 
+clouds for a good portion of the day with the warmer air aloft 
+continuing to move over the colder ocean. Temperatures will be 
+cooler compared to Wednesday and only in the lower to middle 50s for 
+most spots with potential of some upper 50s in the usual warmer 
+spots. Temperatures may struggle to rise above 50 degrees near the 
+coast and eastern Long Island/southeast CT if the low clouds hang on 
+longer than currently forecast.
+
+&&
+
+.LONG TERM /THURSDAY NIGHT THROUGH TUESDAY/...
+Key Points: 
+
+* Moderate to locally heavy rain possible Thursday night into
+  Friday morning along with the potential for some snow across 
+  the interior
+  
+* Gusty NW flow behind the system could exceed 40 mph at times 
+  Friday
+
+* Next chance for widespread precipitation then looks to arrive 
+  Monday into Tuesday of next week 
+
+The long term period starts off with a deep trough just to our
+west. Low pressure at the surface will be centered somewhere 
+well to our north in eastern Canada while an associated cold 
+front extends southward just to our west. As this boundary 
+approaches, a coastal low looks to develop along it right over 
+or just south of our area. The guidance is in good agreement up 
+to this point. Model solutions start to diverge with how quickly
+the low departs. The GFS continues to be the slowest, and has 
+the low lingering nearby through Friday. The ECMWF remains very 
+progressive and the Canadian is somewhere in between. Something 
+to keep an eye on for the next few forecast cycles is the GEFS 
+member low locations. A cluster of members have trended a bit 
+slower and farther southwest with the coastal low in the latest 
+12z run. The GFS deterministic solution would allow for precip 
+to be lingering while colder air moves in behind the system. 
+This would be the snowiest solution. A faster system will likely
+lead to all plain rain. Given the spread, for now stuck with a 
+few tenths of accumulation across the interior, with total QPF 
+everywhere ranging from 0.50 to 0.75 inches. It is also worth 
+noting that a slower system would lead to an increase in QPF. At
+this time there are no hydrologic concerns.
+
+Regardless of speed of departure, there is pretty high confidence
+in gusty northwest winds behind this system. As the low deepens
+it is reasonable at this time to say we can see gusts exceed 40
+mph. Model soundings agree with periods of mixing up to 900mb 
+on Friday. This could even allow for a brief window of Advisory 
+level gusts. Have trended the forecast up slightly for now, but 
+this trend may continue.
+
+Brief surface ridging builds in Friday night and will allow
+for winds to lower a bit. A weak area of low pressure passes to
+the north on Saturday but will likely not bring any precip to 
+our area. The next chance for widespread precip looks to be with
+another frontal system early next week. There may be enough 
+cold air around for some snow to mix in at the onset across the 
+interior, but this will likely be a mostly plain rain event.
+
+&&
+
+.AVIATION /19Z TUESDAY THROUGH SUNDAY/...
+VFR as high pressure to the west builds in through tonight, 
+then slides just east on Wednesday.
+
+NNW through NNE winds 10 kt or less will continue to diminish 
+this afternoon. SE sea breeze already came in at KBDR, and it 
+is possible that the NYC metros and other coastal terminals 
+could see a light SE sea breeze this evening from about 00Z-04Z 
+give/take an hour. After that a light NE flow should resume, 
+becoming SE 5-10 kt in the afternoon. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Terminals could see a period of light SE flow this evening from
+about 23Z-24Z until 03Z-04Z. 
+
+.OUTLOOK FOR 18Z WEDNESDAY THROUGH SATURDAY...
+
+Wednesday afternoon: VFR. 
+
+Wednesday night: IFR/LIFR cigs possible late at KISP/KGON, and 
+MVFR elsewhere. 
+
+Thursday: IFR/LIFR cigs possible late at KISP/KGON, and 
+MVFR elsewhere, gradually improve to VFR by late morning or
+midday. SE winds G20kt in the afternoon. 
+
+Thursday night: IFR cond likely in rain. Precip could mix with 
+snow late at KSWF. NW winds G20-25kt late from the NYC metros
+north/west.
+
+Friday: MVFR cond possible in the morning at the CT/Long Island
+terminals. NW winds G30-40kt. 
+
+Friday night: VFR. NW winds G20-25 kt in the evening. 
+
+Saturday: VFR. SW winds G20kt in the afternoon at the NYC
+metros. 
+
+Sunday: VFR. NW winds G20kt.
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Winds have continued subsiding on the waters this afternoon
+with lingering potential of gusts up to 20 kt on the ocean east
+of Moriches Inlet and eastern LI Bays and Sound. These winds 
+will continue to diminish through this evening. Seas have also 
+subsided below 5 ft on the ocean west of Fire Island Inlet. Have
+therefore cancelled the Advisory for these waters. Seas east of
+Fire Island Inlet will remain 5-6 ft through tonight and may 
+linger near 5 ft east of Moriches Inlet through Wednesday 
+morning. Otherwise, conditions will remain below SCA levels 
+through much of Wednesday night. Seas may begin building back 
+towards 5 ft on the ocean late Wednesday night, but more likely 
+on Thursday ahead of an approaching frontal system. Winds will 
+also increase on Thursday and could approach 20-25 kt late in 
+the day on the ocean west of Fire Island Inlet. 
+
+As a coastal low deepens near the area, winds will strengthen 
+Thursday night into Friday morning. Gale force gusts are possible
+by Friday morning on all waters and have continued a mention of
+this in the HWO. During this time, seas on the ocean waters may
+reach 8-10 feet. Sub-SCA conditions are expected to return on 
+Saturday and could last through early next week. There is some 
+potential for brief SCA conditions on Monday with another 
+frontal system moving through.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts are expected through early next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 11 AM EDT Wednesday for ANZ350.
+     Small Craft Advisory until 6 AM EDT Wednesday for ANZ353.
+
+&&
+
+$$
+
+SYNOPSIS...DS/JT
+NEAR TERM...DS
+SHORT TERM...DS
+LONG TERM...JT
+AVIATION...BG
+MARINE...DS/JT
+HYDROLOGY...DS/JT

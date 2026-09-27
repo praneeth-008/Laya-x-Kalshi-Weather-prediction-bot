@@ -1,0 +1,197 @@
+183 
+FXUS61 KOKX 040848
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+348 AM EST Tue Feb 4 2025
+
+.SYNOPSIS...
+A cold front passes across the area by daybreak. High pressure
+will then build from the Great Lakes through Wednesday. A low 
+pressure system will impact the area late Wednesday night and 
+into Thursday.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Latest surface analysis indicates the cold front beginning to
+reach Orange and Putnam counties as of 3am. The front will 
+continue to push across the area through day break. Weak lift
+is producing some cloud cover, but there is not enough moisture
+for any precipitation. 
+
+Strong cold advection will take place behind the front today 
+bringing a gusty NW flow. Mild temperatures to start the day
+will only rise a few degrees with high temperatures peaking in 
+the upper 30s inland to low and middle 40s closer to the coast. 
+Temperature should begin to fall in the afternoon. The NW gusts 
+also look to peak this afternoon, generally 25 to 35 mph, 
+although a few gusts close to 40 mph cannot be ruled out near 
+the coast. There may be some stratocu in the afternoon, but 
+overall skies look to be mostly clear. 
+
+The pressure gradient begins to relax tonight as high pressure
+over the Great Lakes builds closer to the northeast. The windy 
+conditions will subside through the night with any gusts 
+diminishing around midnight. A fast zonal flow aloft will begin 
+to push middle and upper level moisture towards the area 
+overnight helping to increase cloud cover early Wednesday 
+morning. The cold advection should be enough to allow 
+temperatures to drop into the teens inland and lower and middle 
+20s at the coast despite the boundary layer not completely 
+decoupling and increasing clouds. 
+
+&&
+
+.SHORT TERM /WEDNESDAY THROUGH THURSDAY NIGHT/...
+The high pressure will settle over the area on Wednesday. There
+will be some weak shortwave energy passing to our south within 
+the fast flow aloft. The lower levels are dry and subsidence 
+from the high pressure will help prevent any precipitation over 
+the area during the daytime on Wednesday. There may be a bit 
+thicker cloud cover across the southern half of the area closer 
+to the passing shortwave energy with portions of eastern CT and 
+eastern Long Island potentially remaining partly cloudy. 
+Temperatures will be much colder with highs only in the lower to
+mid 30s. 
+
+Attention then turns to an approaching low pressure and its 
+associated frontal system, which will impact the area late
+Wednesday night into Thursday. The overall evolution of the 
+system has not changed much in the model guidance over the last 
+few days. The main challenges continue to be with precipitation 
+types and amounts. However, this is a fast moving system and 
+much of the precip looks to fall in about a 6 to 9 hour period 
+from early Thursday morning into early Thursday afternoon. The 
+strongest lift and deepest moisture arrive around or just before
+the morning commute with the likelihood of a period of 
+accumulating snow. Due to the strengthening SW flow in the lower
+and middle levels and approaching warm front, a warm nose will 
+likely develop bringing in a wintry mix from west to east 
+through Thursday morning. The coast will go over to plain rain 
+the quickest as temperatures rise above freezing. The surface 
+cold air likely takes the longest to dislodge across the 
+interior of NE NJ, Lower Hudson Valley, and interior CT for a 
+period of freezing rain mid to late Thursday morning. Surface 
+temperatures should begin to rise above freezing midday into the
+afternoon for these areas. 
+
+There is some concern that surface temperatures struggle to rise 
+above freezing for some of the interior due to secondary low 
+pressure development just south of Long Island. This could help 
+reinforce a light NE flow inland. Did not go this cold yet, but
+it is a trend to watch in the next 24 hours as this could lead 
+to longer duration of light freezing rain or drizzle before the 
+precip comes to an end in the afternoon. A slower warm nose and 
+slower erosion of cold air at the surface could lead to a bit 
+more snow. There is also a chance the warm nose comes in quicker
+aloft, but surface temperatures remain at or just below 
+freezing even at the coast. This may lead to a brief period of 
+freezing rain here.
+
+Impacts to the morning commute are expected across the entire 
+region. Snowfall accumulations are around an inch near the coast
+and NYC metro with up to around 2 inches possible across the 
+interior. Ice accretion up to around one tenth possible across 
+interior NE NJ, Lower Hudson Valley, and potentially interior S 
+CT. A Winter Weather Advisory will likely be needed for the 
+interior where freezing rain occurs later Thursday morning.
+
+Dry conditions are likely for the Thursday evening commute as the 
+system pushes offshore. A cold front follows Thursday night into 
+early Friday morning. Temperatures look to stay above normal 
+Thursday night with lows mainly in the 30s.
+
+&&
+
+.LONG TERM /FRIDAY THROUGH MONDAY/...
+The next sys is progged for the weekend - the current modeling 
+suggests mainly Sat ngt and Sun. Did stick with the NBM pops 
+which keeps some chances for the day on Sat due to uncertainty 
+this far out. Again, this is a WAA laden Pacific based sys so 
+expect another wintry mix type event.
+
+Another shot of cold air then looks poised to infiltrate the region 
+during the beginning of next week.
+
+&&
+
+.AVIATION /08Z TUESDAY THROUGH SATURDAY/...
+A cold front will move through overnight before the start of the
+AM push. 
+
+A period of IFR/LIFR in low clouds for KISP/KGON until 08Z-09Z,
+otherwise mainly VFR. LLWS likely until 08Z with WSW winds 45 kt
+at FL020. Sfc winds generally SW to start, shifting W-NW and
+increasing for the AM push. NW winds G20-30kt for this
+afternoon. 
+
+     NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No amendments expected. 
+
+.OUTLOOK FOR 06Z WEDNESDAY THROUGH SATURDAY... 
+
+Late tonight: VFR with diminishing NW winds. 
+
+Wednesday: VFR. 
+
+Wednesday night: MVFR or lower cond in light snow, mixing with sleet 
+late for most terminals, with rain also mixed in at KEWR/KJFK. 
+
+Thursday: MVFR or lower cond as precip changes to freezing
+rain/sleet and then rain at KSWF, and to plain rain elsewhere. 
+
+Thursday night: Rain ending. West winds G20kt late. 
+
+Friday: VFR. NW winds G25kt. 
+
+Saturday: Chance of snow with IFR cond in the afternoon. Mixed
+precip becoming likely at night. 
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+SCA cond develop on all waters on today behind a cold front
+passage in a strong NW flow, with gusts up to 30 kt possible. 
+Winds and seas then gradually lower tonight into Wed with high 
+pressure building from the NW, with conditions below SCA on all 
+waters daytime Wednesday. Another period of SCA conditions are 
+likely, especially on the ocean Thursday into Thursday due to a 
+low pressure system impacting the waters.
+
+NW gales possible on Fri behind a cold front. Winds and 
+seas fall blw SCA lvls on Sat, then may ramp up again on Sun with 
+another sys.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through next weekend.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory from 9 AM this morning to 10 PM EST this 
+     evening for ANZ331-332-335-338-340-345.
+     Small Craft Advisory until 1 AM EST Wednesday for ANZ350-353.
+     Small Craft Advisory until 1 AM EST Wednesday for ANZ355.
+
+&&
+
+$$
+
+SYNOPSIS...BG/DS
+NEAR TERM...DS
+SHORT TERM...DS
+LONG TERM...JMC
+AVIATION...BG 
+MARINE...BG/DS
+HYDROLOGY...BG/DS

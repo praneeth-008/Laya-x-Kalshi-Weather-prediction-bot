@@ -1,0 +1,174 @@
+556 
+FXUS61 KOKX 182050
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+450 PM EDT Fri Jul 18 2025
+
+.SYNOPSIS...
+High pressure moves across the Northeast tonight, then offshore on 
+Saturday. A warm front then approaches Saturday night and passes 
+through the region late tonight into Sunday, followed by a cold 
+front entering late in the day and moving south and east of the
+area early Sunday evening. High pressure then dominates through
+Wednesday. A cold front slowly approaches late Thursday through
+Friday.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM SATURDAY MORNING/...
+High pressure will be centered to our north tonight with a mostly 
+clear sky and a continuation of relatively comfortable dewpoints 
+mostly in the range of 55-60. This combined with light to calm winds 
+will allow low temperatures to fall into the mid 50s well inland and 
+across the Pine Barrens, with upper 50s to upper 60s for most other 
+locations. As usual, NBM looked too warm for these coolest spots 
+during good radiational cooling conditions, so made some local 
+adjustments.
+
+&&
+
+.SHORT TERM /6 AM SATURDAY MORNING THROUGH SUNDAY/...
+High pressure shifts off the southern New England coast on Saturday, 
+allowing for moisture to increase on a return southerly flow. PVA 
+ahead of a shortwave approaches from the SW in the afternoon, 
+bringing the chance of showers, and with enough CAPE, maybe a 
+thunderstorm too. Showers would be confined to mostly NE NJ, the 
+city, and adjacent areas. NBM looked good for high temperatures.
+
+A warm front approaches during Saturday night and is progged to move 
+through part of the forecast area by 12z Sunday. Associated lift 
+with and ahead of the front brings an increased chance of showers 
+and possible thunderstorm to the entire area. Stuck with NBM PoPs, 
+however feel that they could be too low as recent nighttime warm 
+front passages have produced higher shower coverage than what 
+NBM probabilities have implied. 
+
+The warm front then continues its progress north through the rest of 
+the forecast area during Sunday morning. A trailing cold front then 
+begins to cross the forecast area during the second half of the 
+afternoon. Better overall chances of showers and thunderstorms 
+appear to be with the cold front passage. As for severe weather 
+chances, SPC has the entire area under a marginal risk (5% chance) 
+of severe weather for Sunday. The cold front could be interacting 
+with an airmass with 1000-2000 J/kg SBCAPE. With bulk shear of 
+potentially 30-40kt, unidirectional flow and an inverted-v profile 
+in the boundary layer, strong to severe wind gusts would be possible 
+with thunderstorms. 
+
+Heat indices on Sunday reach the mid to upper 90s for the NYC metro 
+area, but with just one day of this, no heat advisories would be 
+issued.
+
+&&
+
+.LONG TERM /SUNDAY NIGHT THROUGH FRIDAY/...
+***KEY POINT***
+
+* Heat and humidity return for the end of next week.
+
+An extended period of quite weather is expected during the long term 
+forecast as an upper trough exits the northeast Sunday night with an 
+upper ridge building into Thursday, and then weakening as another 
+shortwave trough moves into eastern Canada and the northeast late 
+Thursday into Friday. At the surface a cold front will be exiting to 
+the south and east early Sunday evening with high pressure 
+dominating into Thursday. A weak surface trough develops inland 
+Wednesday afternoon with a slight chance of precipitation. A 
+stronger surface trough develops for late Thursday into Thursday 
+night with high pressure weakening and shifting south and east. And 
+there will be higher, and more widespread, chances for 
+precipitation. Temperatures will be near seasonal normals Sunday 
+night into Tuesday night, then the heat will build with temperatures 
+above normal Wednesday into the end of the week. Humidity levels 
+will also be increasing beginning Wednesday as a return flow setup 
+up later Wednesday with high pressure moving east of the area. For 
+Thursday and Friday with the combination of heat, with highs in the 
+upper 80s to mid 90s, and humidity, with dew points in the lower 70s, 
+there is the potential for a heat advisory for Thursday and Friday 
+with a 2 day period of heat indices reaching 95 to 103 across much 
+of the area.
+
+&&
+
+.AVIATION /21Z FRIDAY THROUGH WEDNESDAY/...
+High pressure builds across the area through tonight, then offshore 
+on Saturday.
+
+VFR. SHRA/TSRA is possible late Saturday, but coverage and timing 
+varies too much to include in the TAFs, at this time. 
+
+Winds are around 10 kts at KJFK and KISP will drop below 10 kts
+by 00Z. Other TAF sites are already below 10 kts. WInds will
+continue diminish into this evening becoming light and variable
+or N/NNE below 5 kts overnight. Tomorrow winds become S 5-10 
+kts.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No amendments expected at this time. 
+
+.OUTLOOK FOR 20Z SATURDAY THROUGH WEDNESDAY... 
+
+Saturday Night: Mainly VFR. Showers/isolated thunderstorms, 
+possible. 
+
+Sunday: Showers possible with a chance of thunderstorms. MVFR 
+or lower conditions possible.
+
+Sunday night through Wednesday: VFR. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Sub-advisory conditions expected through Sunday with a weak
+enough pressure gradient in place. Winds and seas remain below 
+SCA thresholds across the forecast waters from Sunday night 
+through Wednesday night as high pressure dominates.
+
+&&
+
+.HYDROLOGY...
+Widespread hydrologic impacts are not anticipated through this 
+weekend. However, with precipitable waters values near 2 inches, any 
+thunderstorms could produce brief/locally heavy rain rainfall. 
+Higher overall chances of thunderstorms would be Sunday afternoon, 
+but storms would be moving quickly enough to mitigate a flash 
+flooding threat.
+
+There are no hydrologic impacts expected from Sunday night through 
+next week with dry weather much of the time.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+A moderate rip current risk remains into this evening for the 
+Nassau and Suffolk ocean beaches. The rip current risk for
+Saturday and Sunday is low at all the ocean beaches with 2-ft 
+southerly wind waves at 4 to 6-sec period and S winds mostly 10
+kt or less.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JC/MET
+NEAR TERM...JC
+SHORT TERM...JC
+LONG TERM...MET
+AVIATION...BR
+MARINE...JC/MET
+HYDROLOGY...JC/MET
+TIDES/COASTAL FLOODING...MET

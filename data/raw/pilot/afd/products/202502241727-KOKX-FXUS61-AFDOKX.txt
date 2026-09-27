@@ -1,0 +1,211 @@
+065 
+FXUS61 KOKX 241727
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1227 PM EST Mon Feb 24 2025
+
+.SYNOPSIS...
+High pressure will move east out into the Atlantic today. A weak
+cold front will approach on Tuesday and move across during late 
+afternoon and early evening, followed by high pressure into
+Wednesday. A warm front will lift to the north Wednesday night,
+followed by a cold front on Thursday and a secondary cold frontal
+passage Thursday night. High pressure will briefly take hold on 
+Friday. A clipper low will pass over the area or just north on
+Saturday, followed by high pressure Sunday into Monday.
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+Forecast still on track. Minor adjustments made to better match
+with observed trends, mainly for AM cloud cover over parts of 
+CT and incoming clouds to the west entering the Hudson Valley.
+
+Low level southerly flow develops today and will result in warm air 
+advection. Mid level ridging will allow for more subsidence.
+Except for some AM cloud inland, mostly sunny sky conditions
+expected, with some increase in clouds throughout by late day.
+MOS in agreement with above normal temperatures today, 
+reaching well into the 40s throughout the region with near 50 
+degree values within and around the NYC Metro.
+
+&&
+
+.SHORT TERM /6 PM THIS EVENING THROUGH THURSDAY/...
+Mid level heights nearly steady tonight. The low level warm air 
+advection continues tonight at 850mb. At the surface, the 
+continuance of southerly flow will keep temperatures relatively 
+warmer along the coast while locations farther inland will be 
+relatively colder.
+
+Mid level trough approaches with decreasing mid level heights 
+Tuesday. The lowering height trend continues into Tuesday night as 
+the trough axis moves through. The 850mb warm air advection 
+continues early but will then transition eventually to cold air 
+advection by the end of the day. The mid level trough exits east of 
+the area by early Wednesday. 850mb temperatures continue to lower 
+Tuesday night. At the surface, southerly flow Tuesday switches to 
+more westerly flow late Tuesday into Tuesday night with the passage 
+of a cold front. High temperatures forecast Tuesday are a few 
+degrees higher compared to the previous day.
+
+A few rain showers are possible with the cold front with otherwise 
+mainly dry conditions and just an increase in clouds accompanying 
+the frontal passage. Low temperatures Tuesday night are forecast to 
+be nearly the same as the previous night. Low pressure well offshore 
+travels northward along the front Tuesday night, so winds stay up a 
+little more with relatively tighter pressure gradient.
+
+The airmass will moderate quickly Wednesday with temperature 
+trending warmer at 850mb. 850mb temperatures further warm Wednesday 
+night into early Thursday before decreasing again. Highs forecast on 
+Wednesday similar overall to the highs the previous day. Blended in 
+more raw model consensus data for temperatures Wednesday night and 
+Thursday. Not too much of a diurnal swing of temperatures is 
+expected. Mainly mid to upper 30s for forecast lows Wednesday night 
+followed by forecast highs in the upper 40s to lower 50s on Thursday.
+
+The frontal system approaching Wednesday night has an associated 
+warm front moving across the region followed by a cold front 
+approaching going into Thursday. This cold front moves in during the 
+day on Thursday. A higher chance of rain showers will accompany this 
+frontal system compared to the system earlier in the week. Highest 
+chances for rain showers will be Thursday afternoon into early 
+evening with some locations north and west of NYC having rain 
+showers likely.
+
+&&
+
+.LONG TERM /THURSDAY NIGHT THROUGH SUNDAY/...
+Key Points:
+
+* Few rain showers Thursday night with gusty NW winds.
+
+* Average temperatures Friday followed by below normal 
+  temperatures Friday night. 
+
+* Uncertainty surrounding a clipper low on Saturday, but likely 
+  bringing either rain or snow. 
+
+* Dry with below normal temperatures Sunday into Monday. 
+
+Model guidance agrees on a cold front passing Thursday evening in 
+response to a passing low exiting into New England Thursday evening, 
+then further deepening as it moves into the Canadian Maritimes. AS 
+the cold front passes, most rain showers are expected to clear.
+
+A secondary cold front will pass with a digging longwave trough 
+Thursday night. While we'll quickly dry following the first frontal 
+passage, some upper-level energy associated with the longwave trough 
+over the eastern US and our nearby location to the left exit of the 
+jet stream to our south, may provide just enough for a few 
+light rain/snow showers Thursday night. 
+
+Thursday night into early Friday may also see some increased winds 
+in response to a tight pressure gradient following the low's exit to 
+our northeast.
+
+Late Friday, expecting zonal flow aloft with weak surface high 
+pressure briefly settling in. Winds will likely weaken in response 
+by Friday evening. However, given the steady NW winds prior, plenty 
+of colder air should advect in to leave highs on Friday in the 
+mid/low-40s. With lighter flow Friday night due to the high 
+pressure directly overhead, temperatures should dip into the low-30s 
+to low-20s.
+
+Our next system is poised to impact us on Saturday or Saturday 
+night. A clipper low will pass either over our area, which would 
+lead to mainly snow (00Z GFS shows this) or the low will pass to our 
+north leading to mainly rain or a rain/snow mix (00Z 
+ECMWF/ICON/GDPS show this). Model timing track and strength of 
+the low still vary quite a bit, so can't make any definite calls
+just yet. For now, going with a rain to a rain-snow mix 
+solution given most guidance keeps the low to our north, but 
+there is still time for this to change. 
+
+Following Saturday's low, which comes with a small shortwave trough 
+aloft, a deeper longwave trough will settle over the eastern US for 
+the remainder of the weekend and the start of next week. Most 
+models agree on this solution with high pressure at the surface. 
+Expecting this period to be dry with below normal temperatures.
+
+&&
+
+.AVIATION /17Z MONDAY THROUGH FRIDAY/...
+High pressure continues to move offshore today. A frontal 
+system approaches from the west into tonight and pushes through
+late Tuesday.
+
+VFR. There is a chance of -SHRA with MVFR conditions, mainly 
+for ceilings, after 18Z Tuesday, but due to low confidence, 
+included this possibility with a Prob30. KSWF more likely to go
+MVFR than the NYC terminals. 
+
+SE-S wind with speeds 5-10 kt. Winds may peak 10-15 kt at KJFK 
+and KLGA. Some gusts to 20kt possible this afternoon mainly for
+the NYC terminals. Winds veer slightly to the SSW this evening
+and drop to around 5 kt or less. Continuing SSW wind 5-10 kt 
+after daybreak tomorrow before shifting to the W/NW late in the 
+day after a frontal passage.
+
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Occasional gusts to 20kt possible this afternoon.
+
+.OUTLOOK FOR 18Z TUESDAY THROUGH SATURDAY...
+
+Tuesday: Mainly VFR. Slight chance of showers and MVFR
+conditions after 18Z.
+
+Wednesday: VFR.
+
+Thursday: Showers with MVFR or lower possible. S-SW winds 
+G15-20kt in the afternoon.
+
+Friday: VFR. NW winds G15-25kt.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Overall, expected the pressure gradient to remain weak enough to 
+keep conditions below SCA thresholds on average today through 
+midweek. Higher chances for SCA, especially on the ocean, are 
+forecast Thursday associated with a frontal system moving 
+through.
+
+In wake of a frontal system, 5-7 ft waves could linger on the 
+ocean Thursday night into Friday. Wind gusts may approach 25 kts on 
+the ocean late Thursday night into early Friday. Friday night and 
+thereafter, SCA criteria is not expected to be met.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts are expected through the start of next
+week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...BG/JM/BR
+NEAR TERM...BG/JM
+SHORT TERM...JM
+LONG TERM...BR
+AVIATION...MW
+MARINE...BG/JM/BR
+HYDROLOGY...JM/BR

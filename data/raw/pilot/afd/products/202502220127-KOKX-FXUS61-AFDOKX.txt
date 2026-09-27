@@ -1,0 +1,160 @@
+733 
+FXUS61 KOKX 220127
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+827 PM EST Fri Feb 21 2025
+
+.SYNOPSIS...
+High pressure will build in this weekend, then pass offshore 
+Sunday night into Monday. A warm front will then pass to the
+north on Monday, followed by a cold front moving through 
+Tuesday night. Weak high pressure will then briefly return on
+Wednesday before a frontal system likely affects the region 
+on Thursday. 
+
+&&
+
+.NEAR TERM /UNTIL 6 AM SATURDAY MORNING/...
+Forecast on track as high pressure builds to the south tonight.
+Under clear skies, winds will diminish as the pressure gradient
+area weakens, with low temps around 20 in the city and in the 
+teens elsewhere. Wind chills fall to around 10 above in the 
+city and the single digits elsewhere.
+
+&&
+
+.SHORT TERM /6 AM SATURDAY MORNING THROUGH SATURDAY NIGHT/...
+The flow aloft will be zonal for the most part during the period 
+with weakening surface high pressure centered to our south. Sunny 
+conditions to start the day Saturday, then it appears that some 
+cirrus will be filtering the sun during the afternoon. WSW winds 
+will help push high temperatures close to 40 in the city with middle 
+and upper 30s across the rest of the area. 
+
+The cirrus should shift out of here during the overnight hours of 
+Saturday. This will probably allow for a few hours of favorable 
+radiational cooling conditions. Anticipating low temperatures in the 
+low 20s for the northernmost zones and Pine Barrens Region, around 
+30 in the city, and mid to upper 20s elsewhere.
+
+&&
+
+.LONG TERM /SUNDAY THROUGH FRIDAY/...
+Key Points:
+
+* Temperatures likely 5-10 degrees above normal Tuesday through 
+  Thursday. A return to more seasonable temps to end the week. 
+
+* Mainly dry conditions are expected through mid week. A frontal
+  system will likely affect the region Wed night into Thursday,
+  with a more organized low pressure system possible for next 
+  weekend.
+
+Quasi-zonal upper flow through early next week with PAC jet
+riding the northern tier of the ConUS around expansive polar 
+trough across southern Canada. Southern stream appears to remain
+split from northern stream until late week, after the northern 
+stream upper flow becomes increasingly amplified during the mid 
+to late week as a series of deepening shortwaves ride along the 
+flow.
+
+Seasonable conditions Sunday into Monday as a weak shortwave and
+surface trough move through on Sunday morning with weak 
+Canadian high pressure building in Sun night into Mon AM, and 
+offshore during the day Monday. 
+
+General agreement with quick succession of shortwaves moving
+through south central to southeastern tier of Canada Sunday 
+night into Monday night, and then a stronger shortwave digging 
+from the northern plains Monday to the eastern US Tuesday night
+(although there is a bit of model spread in timing/amplitude of
+this shortwave). The result will be a complex frontal system 
+with primary low pressure tracking around the base of Hudson's 
+Bay, and possible secondary triple point low developing across 
+the US/Canadian border that could bring the next chance for 
+precipitation locally late Tuesday into Wed AM. This looks to be
+a progressive system with limited precip potential. The 
+amplified SW flow into the NE US and resulting moderating trend 
+Mon into Tuesday support a mainly rain event, with temps rising 
+to above seasonable levels. Will have to monitor the low 
+probability of a potential interaction of this northern stream 
+shortwave with a southern branch shortwave, and possible backing
+of developing offshore low closer to the coast bringing a 
+wetter scenario (limited support for this from ECMWF and its 
+ensembles). 
+
+Thereafter, general model agreement in further longitudinal
+amplification of troughing across the Eastern US for late week 
+period in response to a more vigorous PAC shortwave diving 
+through the Central US into the SE US. Typical model 
+timing/amplitude spread exists at this time frame, with 
+resultant model spread in track/timing/intensity of a clipper 
+type system through the region Thu/Thu night. Pattern suggestive
+of another progressive and primarily rain system.
+ 
+In its wake, a subsequent return to more seasonable late Feb/early 
+March temps for Friday, and possibly below normal with a more 
+organized low pressure system for the weekend.
+
+&&
+
+.AVIATION /01Z SATURDAY THROUGH WEDNESDAY/...
+VFR as high pressure builds to the south. NW flow 15-20 kt, 
+gusting to 25-30 kt through this evening, diminishes overnight 
+to around 10 kt. Winds then become W-SW by Sat afternoon. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No unscheduled amendments expected. 
+
+.OUTLOOK FOR 00Z SUNDAY THROUGH WEDNESDAY...
+
+Saturday night through Monday night: VFR. 
+
+Tuesday: Chance of showers with MVFR cond possible at KSWF/KHPN,
+otherwise VFR. 
+
+Wednesday: VFR. 
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Winds gradually diminish overnight, with gusts falling below 25
+kt late tonight into Sat morning. 
+
+Increasing S-SW flow may bring potential for 25-kt gusts and
+5-ft seas on the ocean waters Mon night into Tue after a warm
+frontal passage and ahead of an approaching cold front. 
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts are expected through the end of next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 6 AM EST Saturday for ANZ331-332-
+     340-350-353-355.
+     Small Craft Advisory until 1 AM EST Saturday for ANZ335-338-
+     345.
+
+&&
+
+$$
+
+SYNOPSIS...JC/NV
+NEAR TERM...JC/NV
+SHORT TERM...JC
+LONG TERM...NV
+AVIATION...BG
+MARINE...JC/NV
+HYDROLOGY...JC/NV

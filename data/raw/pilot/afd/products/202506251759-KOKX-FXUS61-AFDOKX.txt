@@ -1,0 +1,208 @@
+003 
+FXUS61 KOKX 251759
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+159 PM EDT Wed Jun 25 2025
+
+.SYNOPSIS...
+A surface trough will remain across the area today, while a cold
+front approaches from the north and east. The cold front will
+slowly sag south and west through the area tonight and into the
+Mid Atlantic region through Friday. The front will return north as
+a warm front Friday night, then meander nearby Saturday and
+Sunday before lifting farther north into Monday. A cold front 
+will approach on Tuesday.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+A heat advisory remains in effect through 7 PM. Bumped temps up
+slightly, with Newark and JFK both having a shot at reaching 
+100 again late this afternoon. 
+
+This will be the last day of the heat wave as a confluent upper
+flow across eastern Canada and into the Northeast allows high 
+pressure to build to the north. This will allow a cold front 
+to approach from the north today and sag south across the area 
+tonight. The anomalously warm upper ridge across the area will 
+gradually be suppressed south during this time, but not before 
+another potential record breaking day. High temps look to be
+slightly less hot than those of yesterday, mid 90s to near 100
+away from the immediate shoreline. This combined with dew 
+points in the upper 60s to around 70 will produce heat index 
+values from about 97 to 104. 
+
+With the weakening upper ridge, cold front dropping in from the
+north, and weak impulses at the southern edge of the westerlies,
+widely scattered to scattered showers/thunderstorms are expected
+this afternoon into this evening. In addition, CAM's show 
+possible convection along the eastern flank of the cold front 
+which backs in from the NE this evening. Instability will be 
+greatest across the Lower Hudson Valley and interior NE NJ, but 
+wind shear is weak and mid level lapse rates are less than 6C. 
+This should keep the severe weather threat to the southwest. 
+
+A chance for showers and isolated tstms will continue overnight
+as weak impulses ride long the frontal boundary from the west 
+and weak warm advection continues as cooler maritime air 
+undercuts the warmer westerlies aloft. Brief downpours will be 
+possible late tonight, especially across the NYC metro area and
+Long Island where elevated instability will be greatest. 
+However, the low level air mass will continue to stabilize 
+overnight in a NE-E flow. It will be noticeably cooler tonight, 
+but still several degrees above normal, with lows in the upper 
+60s/lower 70s.
+
+&&
+
+.SHORT TERM /THURSDAY THROUGH FRIDAY/...
+Latest CAM's show potential for some locally heavy showers and
+isolates tstms Thu morning, with the majority of the guidance 
+suggesting the axis of this rainfall more likely to lie across
+the NYC metro area and Long Island as opposed to the lower 
+Hudson Valley and S CT. 
+
+Thereafter, convective complexes working in from the Ohio Valley
+will likely dissipate, with the better chances for rain being to 
+the north and west of NYC. Rainfall amounts will generally be on
+the light side. 
+
+Highs in the mid 70s to around 80 on Thursday will fall to the 
+lower 70s on Friday. The latter is about 10 degrees below 
+normal. Due to the cloud cover, lows will be near or slightly 
+below normal in the upper 50s to mid 60s.
+
+&&
+
+.LONG TERM /FRIDAY NIGHT THROUGH TUESDAY/...
+Stubborn boundary looks to linger nearby this weekend and early next 
+week, keeping conditions unsettled.
+
+Periods of showers and thunderstorms are possible at times, 
+particularly Friday night through Saturday night as shortwave passes 
+north, though it doesn't appear to be a washout, nor a great severe 
+concern. Brief high pressure behind the wave could allow a 
+relatively quiet Sunday, before digging trough across the Upper 
+Great Lakes slides east, returning the boundary from the south as a 
+warm front early next week. An attendant cold front looks to follow 
+by Tuesday, maintaining chances for additional showers and 
+thunderstorms.
+
+Temperatures start much more seasonable for late June, afternoon 
+highs on Saturday into the upper 70s and lower 80s, before warming 
+into the mid to upper 80s early next week. With dew pts progged into 
+the 60s and low 70s, heat indices could approach mid 90s, especially 
+Monday and Tuesday next week
+
+&&
+
+.AVIATION /18Z WEDNESDAY THROUGH MONDAY/...
+High pressure remains in control this afternoon. A cold front 
+then moves through the terminals late this evening, slowly 
+pushing south through Thursday.
+
+Mainly VFR.
+
+NW winds around 10kt this afternoon with gusts 15-19kt at the 
+NYC metro terminals. Winds veer N-NE late this evening, then
+more NE-E for Thursday.
+
+Isolated showers or thunderstorms cannot be ruled out into this
+evening, but not enough probability and coverage to include in
+TAFs at this time. Better chance toward the Thursday morning
+push, so have included PROB30 for this potential.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Only moderate confidence that sea breeze crosses KJFK. The sea 
+breeze may pass through, then thereafter shift back south 
+through the terminal and cause winds to shift back W to NW late 
+this afternoon/early evening.
+
+Gusts this afternoon may be only occasional, and will likely end
+earlier than indicated for KLGA/KEWR/KTEB.
+
+.OUTLOOK FOR 18Z THURSDAY THROUGH MONDAY... 
+
+Thursday PM: VFR.
+
+Friday - Sunday: MVFR or lower possible. Chance of showers.
+
+Monday: Mainly VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+With the absence of a steep pressure gradient, conditions on 
+the waters are forecast to remain below SCA thresholds now 
+through the weekend. However, a strengthening easterly flow on 
+the ocean waters will produce gusts up to 20 kt with seas 
+building to around 4 ft Thursday night into Friday, possibly as
+high as 5 ft Friday night east of Moriches Inlet.
+
+&&
+
+.HYDROLOGY...
+No significant hydrologic impacts expected during this time.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+There is potential for minor coastal flooding during the 
+nighttime high tide cycles this week with a new moon. Isolated 
+minor coastal flooding of the most vulnerable areas of the South
+Shore Bays and western Long Island Sound possible during high 
+tide this evening. Potentially more widespread minor coastal 
+flooding Thursday Friday evenings with easterly flow developing.
+A Coastal Flood Statement or Advisory may be needed during this
+period. 
+
+There is low risk of rip currents today at the ocean beaches 
+with 1 to 2 ft breakers in the surf zone. However, the risk 
+increases to moderate on Thursday due to a building easterly 
+swell and 2 ft breakers in the surf zone.
+
+&&
+
+.CLIMATE...
+Wednesday's Record Highs (June 25):
+EWR  100 / 1943
+BDR   94 / 1952
+NYC   99 / 1943, 1952
+LGA   99 / 1943, 1952
+JFK   98 / 1952
+ISP   95 / 2025 (was 92 / 2003)
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Heat Advisory until 7 PM EDT this evening for CTZ005>012.
+     Air Quality Alert until 11 PM EDT this evening for CTZ009>012.
+NY...Heat Advisory until 7 PM EDT this evening for NYZ067>075-
+     078>081-176>179.
+     Air Quality Alert until 11 PM EDT this evening for NYZ069>075-
+     078>081-176>179.
+NJ...Heat Advisory until 7 PM EDT this evening for NJZ002-004-006-
+     103>108.
+     Air Quality Alert until 11 PM EDT this evening for NJZ004-006-
+     103>108.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...BG/DR/DW
+NEAR TERM...BG/DW
+SHORT TERM...DW
+LONG TERM...DR
+AVIATION...JC
+MARINE...BG/DR/DW
+HYDROLOGY...DR/DW
+TIDES/COASTAL FLOODING...
+CLIMATE...

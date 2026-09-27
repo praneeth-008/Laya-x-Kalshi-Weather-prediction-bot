@@ -1,0 +1,207 @@
+588 
+FXUS61 KOKX 070837
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+437 AM EDT Mon Jul 7 2025
+
+.SYNOPSIS...
+Low pressure passes nearby Monday afternoon into Monday night. 
+A cold front approaches Tuesday and moves over the area Tuesday 
+night. The front likely stalls nearby the rest of the week 
+leading to unsettled conditions, potentially into next weekend.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Showers and thunderstorms are expected to develop late this morning 
+into the afternoon. The extratropical remnant circulation of Chantal 
+will likely track over the Delmarva in the afternoon and then 
+offshore Monday evening and night. It should be emphasized that the 
+circulation will no longer be tropical, but leftover tropical 
+moisture will be present across the Northeast. This moisture will 
+act on the sea breeze boundary as well as some mid level energy to 
+promote the development of showers and a few thunderstorms. 
+
+Given the tropical origin of the system, PWATs will be quite high 
+today, 2-2.35". Model soundings indicate tall and relatively skinny 
+CAPE, which is common in tropical air masses. Freezing levels look 
+to average around 15 kft as well, supportive of efficient/warm rain 
+processes. 1000-2000 J/kg of MUCAPE and SBCAPE lines up this 
+afternoon with highest instability expected to be in NE NJ, 
+NYC, and the Lower Hudson Valley. Most 00Z CAMs agree on this 
+area being the focus of most of the thunderstorms and QPF.
+
+Elsewhere, showers are possible but coverage looks to be lower and 
+could just be isolated. No flood watch has been issued at this time, 
+but WPC has forecasted a marginal risk of excessive rainfall 
+across NE NJ, NYC metro, and the Lower Hudson Valley. 
+
+Basin averaged rainfall amounts around one quarter of an inch 
+possible with some local areas receiving 1-2 inches with higher 
+amounts. Some locations may see little to no rainfall through Monday 
+evening.
+
+Focus for showers shifts to the eastern part of the area Monday 
+night with the weak wave of low pressure passing to our south. It 
+appears most of the coverage should be offshore, but cannot rule out 
+some showers or isolated thunderstorms across portions of Long 
+Island or even southeast Connecticut. 
+
+Highs today will be in the low to mid 80s with a few spots into the 
+upper 80s in NE NJ. Lows tonight will stay warm in the low to mid 
+70s.
+
+&&
+
+.SHORT TERM /TUESDAY THROUGH WEDNESDAY NIGHT/...
+On Tuesday, a cold front slowly approaches from the north and west. 
+Ahead of the front, tropical moisture will linger with PW around 2 
+inches. Showers and thunderstorms are likely to develop in the 
+afternoon and evening along and ahead of the front from the NYC 
+metro on NW. This activity will then slide eastward in the evening 
+and at night. The main concern from this activity will once again be 
+torrential downpours and localized flash flooding. WPC has forecast 
+a marginal risk of excessive rainfall throughout on Tuesday. 
+
+An isolated severe thunderstorm is also possible Tuesday 
+afternoon/evening. SPC has much of the area in a marginal risk. 
+Given tall CAPE profiles in a weak shear, uncapped environment, 
+there is potential for an isolated downburst or two. 00Z CAMs have 
+showers and thunderstorms developing in clusters. 
+
+The front moves over or just east of the area Tuesday night. The 
+front may begin stalling nearby, which could promote continued 
+showers/storms for the eastern half of the area.
+
+High pressure to our east over the western Atlantic will lead to 
+continued moisture advection into the area. Given the front stalled 
+just to our south, this will act as a continuing trigger for showers 
+and thunderstorms on Wednesday. Given 2"+ PWATs lingering on 
+Wednesday, WPC has carried over another marginal risk for excessive 
+rainfall on Wednesday for the potential for more isolated heavy 
+downpours. 
+
+There is a great deal of uncertainty surrounding Tuesday's high 
+temperatures and it all hinges on cloud cover and rainfall timing. 
+Some guidance clear out cloud cover Tuesday morning into early 
+afternoon before increasing it again. This extra sunshine would 
+allow temperatures to warm into the low 90s. Given high dewpoints, 
+heat indices in this scenario could reach 100. However, it seems 
+more realistic to have more cloud cover hanging around early on 
+Tuesday given an approaching front in a high moisture environment. 
+In this scenario, radiational heating would be limited and highs may 
+not reach 90 before rainfall begins in the afternoon/evening. Due to 
+this uncertainty, a heat advisory has not been issued. 
+
+Highs on Wednesday will be in the 80s across the area, cooler east, 
+warmer west. Overnight lows Tue & Wed nights will be in the upper 
+60s to middle 70s.
+
+&&
+
+.LONG TERM /THURSDAY THROUGH SUNDAY/...
+The NBM was followed with no changes. 
+
+Key Points:
+
+*  A stalled front south of the area on Thursday will remain in the 
+   general vicinity through the end of the week and into the 
+   weekend. 
+
+*  Expect a period of unsettled weather with a chance of showers 
+   and/or thunderstorms each day.
+
+*  Temperatures should be right around average for this time of
+   the year with highs each day in the lower/mid 80s.
+
+&&
+
+.AVIATION /09Z MONDAY THROUGH FRIDAY/...
+High pressure will remain offshore, while weak low pressure passes 
+to the south this afternoon and tonight. 
+
+Ceilings have started to come down in spots, lowering to IFR/LIFR
+mainly right along some of the coastal locations. These
+conditions are expected to continue to spread over more of the 
+terminals through about 10-12z or so, then some improvement back
+to mostly VFR is expected. Showers with a chance of 
+thunderstorms will be possible starting at around noontime which
+could bring lower flight categories at times. IFR/LIFR 
+conditions are expected once again tonight.
+
+S-SW mostly around 10 kt at the metro and coastal terminals, and 
+light inland. Winds should become SSE-S today around 10 kt or 
+so. Winds become light and variable once again tonight.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+AMD possible to adjust timing of lower cigs this morning.
+
+.OUTLOOK FOR 06Z TUESDAY THROUGH FRIDAY... 
+
+Monday night: MVFR/IFR cigs likely to spread inland from the coast. 
+
+Tuesday: Improvement to VFR by late morning, then afternoon showers 
+likely with chance of tstms especially from the NYC metros 
+north/west, with flight cat lowering to MVFR or IFR.
+Gusty winds also possible in stronger storms. 
+
+Wednesday through Friday: Afternoon and evening showers/tstms 
+possible each day, with brief MVFR or IFR conditions. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Conditions will remain below SCA levels on the waters through 
+Monday. Seas begin building Monday night into Tuesday and may 
+approach 5 ft east of Moriches Inlet into Tuesday night from a 
+SE swell. Generally weak flow will result in sub-SCA conditions 
+on all waters through this week and into the weekend. Ocean seas
+however will remain around 4 ft.
+
+&&
+
+.HYDROLOGY...
+Locally torrential downpours are possible late Monday morning into 
+Monday evening, especially across NE NJ, NYC metro, and Lower Hudson 
+Valley. This activity could produce localized flash flooding and WPC 
+has this area in a Marginal risk for excessive rainfall. The risk 
+for locally torrential downpours and localized flash flooding 
+remains possible on Tuesday and Wednesday for the entire area. 
+WPC has maintained a marginal risk for excessive rainfall for 
+Tuesday and Wednesday.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+The rip risk for today on all beaches is moderate with 2-3 foot
+surf heights. Tomorrow the risk increases to high on all
+beaches, especially beaches farther east. With surf heights 
+between 4 to 5 feet.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Air Quality Alert from 11 AM this morning to 11 PM EDT this 
+     evening for CTZ005-009.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...BR
+NEAR TERM...BR
+SHORT TERM...BR
+LONG TERM...
+AVIATION...BC
+MARINE...BR
+HYDROLOGY...BR
+TIDES/COASTAL FLOODING...

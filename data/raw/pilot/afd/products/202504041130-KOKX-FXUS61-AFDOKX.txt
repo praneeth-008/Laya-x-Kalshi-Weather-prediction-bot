@@ -1,0 +1,201 @@
+162 
+FXUS61 KOKX 041130
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+730 AM EDT Fri Apr 4 2025
+
+.SYNOPSIS...
+Cold front this morning followed by brief high pressure into 
+early tonight. Thereafter, a triple-point low brings a warm 
+front on Saturday followed by a cold front early on Sunday, 
+which stalls to our south Sunday afternoon/evening. Weak waves 
+of low pressure track along the stalled frontal boundary Sunday 
+night and Monday. Another cold front pushes through the area 
+Monday night into Tuesday. High pressure returns for Wednesday 
+before pushing offshore by late Thursday.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Only change made in this update was to add isolated thunder 
+over the ocean south of Long Island through 8am. Otherwise, no 
+thunderstorms expected over land. The forecast remains on track.
+
+A cold front is just starting to move into the northern fringes
+of our CWA based on surface dewpoints and winds and will push 
+through early to mid morning, keeping most rain this morning to 
+the south, but good chances still exist for southern coastlines 
+until mid/late morning. MRMS shows a steady stream of showers 
+approaching the area from the west, which will likely scrape us 
+to the south. There are some thunderstorms in PA and NJ, but 
+instability is far weaker in our area, so no thunderstorms are 
+expected. 
+
+Late this morning, northwesterly flow should finally lead to drier
+air, reducing rain chances through the rest of the day. Most of the
+rain will take place further south in central/southern New Jersey
+where moisture is better available. For us, only expecting rainfall
+through this morning to total a few hundredths north and nearing
+(possibly) a quarter inch for extreme southern areas of the CWA.
+
+An upper-level ridge builds in this afternoon and into the night. 
+Cloud cover will decrease this morning, remaining partly cloudy this 
+afternoon and into tonight. 
+
+There's good agreement among the available guidance on highs today 
+reaching the mid-60s. Tonight will be cooler than previously under 
+some cold air advection with lows in the mid/low-40s.
+
+&&
+
+.SHORT TERM /SATURDAY THROUGH SUNDAY/...
+On Saturday, an upper-level ridge remains in place, then begins to 
+weaken and exit east under lowering heights Saturday night into 
+Sunday in response to a long-wave trough that moves east to our 
+north in Canada. 
+
+A triple point surface low will approach us from the west early on 
+Saturday then move nearby to our north late Saturday/early Sunday, 
+exiting northeast into Sunday. This triple point low will bring a 
+warm front on Saturday followed by a cold front overnight Saturday 
+or early on Sunday. The warm front brings the next best chance for 
+rain Saturday afternoon/evening with a bit of a lull late Saturday 
+night until rain chances pick up again early on Sunday with the 
+passage of the cold front. Spotty rain chances may linger somewhat 
+through Sunday as the front stalls to our south with pockets of 
+energy passing aloft before the next system approaches to the 
+southwest Sunday evening/night. 
+
+Cool air will still be in place before the warm front arrives on 
+Saturday, leading to highs in the low-50s to upper-40s. Then due to 
+the warm front and rainfall, temperatures will remain mostly steady 
+Saturday night, with lows staying in the 40s. Uncertainty remains 
+for high temperatures on Sunday. The 03Z NBM 25th has highs for KNYC 
+at 57 while the 03Z NBM 75th has highs up to 77. This is a 20 degree 
+spread for high temperatures on Sunday, and it mainly has to do with 
+the timing of the cold front. Having gone with the slightly earlier 
+timing for the front, temperatures should be more limited on Sunday. 
+Forecast highs to be in the low-60s to upper-50s. This is subject to 
+change, however, depending on how guidance trends with regards to 
+the timing of the cold front, which will eventually stall to the 
+south Sunday evening.
+
+&&
+
+.LONG TERM /SUNDAY NIGHT THROUGH THURSDAY/...
+A longwave trough builds toward the region Sunday night through 
+Tuesday, and moves offshore Tuesday night into Wednesday. At the 
+surface a cold front pushes through the region Sunday and stalls 
+somewhere in the vicinity, with most guidance indicating the front 
+stale just south of the area. With waves of low pressure tracking 
+along the frontal boundary unsettled weather is likely Sunday night 
+into Monday. With the uncertainties with the setup of the front, 
+have leaned toward the NBM deterministic guidance. Although for 
+Monday went a little toward the 75th percentile for highs, if the 
+front setup up a little further to the north. A rather strong 
+shortwave rotates into the upper trough Monday night into Tuesday, 
+and this brings another cold front across the region Tuesday. 
+However there is little moisture with this front. With this front 
+bringing a cold airmass into the entire region, temperatures Tuesday 
+and Tuesday night will be 5 to 10 degrees below normal. Tuesday 
+night, freezing temperatures are expected across the region, except 
+for metro New York City, where temperatures will be just above 
+freezing. And with the growing season having begun in the NYC metro 
+area, frost and/or freeze headlines are possible for Tuesday night. 
+Temperatures remain below normal through Wednesday night, and return 
+to near normal Thursday as surface high pressure builds off the 
+coast. Also, gusty northwest winds in the wake of the front will 
+produce wind chills from around 15 to 25 degrees.
+
+&&
+
+.AVIATION /12Z FRIDAY THROUGH TUESDAY/...
+High pressure builds in from the north today and weakens 
+tonight as a warm front approaches to the west overnight. 
+
+VFR. Any lingering showers will be ending soon after 12Z. 
+Showers will again be possible toward 12Z Saturday as a warm 
+front approaches.
+
+Wind NW around 10 kt this morning with occasional gusts to 
+around 15 kt late morning into the early. Winds diminish after 
+sunset and veer to the north then northeast overnight, becoming 
+east toward 12Z Saturday.
+
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No unscheduled amendments expected.
+
+
+.OUTLOOK FOR 12Z SATURDAY THROUGH TUESDAY...
+
+Saturday: Showers likely. MVFR in the morning, lowering to IFR 
+during the afternoon, remaining IFR into the night. SE winds G15-
+20kt.
+
+Sunday: Chance of showers during the day, showers at night. MVFR 
+during the day, lowering to IFR at night. W winds 5 to 10kt becoming 
+NW G15-20kt during the afternoon.
+
+Monday: Chance of showers, mainly early, with MVFR conditions, IFR 
+possible.
+
+Tuesday: VFR. A slight chance of showers. NW winds 15kt,
+G20-30kt.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Small craft advisories remain in place on ocean waters early this 
+morning for waves 5-7 feet, but waves are expected to drop below 5 
+feet west to east later this morning and into the early evening west-
+to-east, with the SCAs expiring in response. 
+
+Waves remain below 5 feet until Sunday where they may climb 
+above 5 feet on ocean waters. Winds remain below SCA criteria, 
+but could come close on ocean waters, and possibly non-ocean 
+waters Saturday with a passing warm front and Sunday with a 
+passing cold front. 
+
+Sunday night ocean seas remain elevated near 5 feet, especially on 
+the eastern ocean waters, with a northwest flow, becoming northeast 
+Monday. Another cold front moving through Monday night into Tuesday 
+with bring gusty SCA level winds to the ocean waters by late Monday 
+night and through Tuesday, with ocean seas building to 5 to 6 feet. 
+Small craft conditions remain on the ocean waters into Tuesday 
+night, slowly diminishing overnight, and falling below advisory 
+levels late Tuesday night into early Wednesday as a high builds 
+towards the waters.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through the forecast period.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 5 PM EDT this afternoon for ANZ350.
+     Small Craft Advisory until 2 PM EDT this afternoon for ANZ353.
+     Small Craft Advisory until 9 AM EDT this morning for ANZ355.
+
+&&
+
+$$
+
+SYNOPSIS...BR/MET
+NEAR TERM...BR
+SHORT TERM...BR
+LONG TERM...MET
+AVIATION...MET
+MARINE...DR/MET
+HYDROLOGY...BR/MET

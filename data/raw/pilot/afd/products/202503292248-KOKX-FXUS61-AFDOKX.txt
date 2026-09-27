@@ -1,0 +1,219 @@
+011 
+FXUS61 KOKX 292248
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+648 PM EDT Sat Mar 29 2025
+
+.SYNOPSIS...
+A backdoor cold front will remain south of the area tonight. 
+The same front then returns on Sunday, lifting through the area 
+Sunday night. A cold frontal passage Monday night will allow 
+high pressure to build in through the middle of next week. 
+Another frontal system will likely impact the area for the end 
+of the week.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM SUNDAY MORNING/...
+The backdoor cold front has cleared the cwa, with all areas now
+in a chilly nely flow. Shwrs continue to overspread the area
+from the nw. Pops have been increased across the area based on
+radar trends, with the highest chances this eve.
+
+Under mostly cloudy skies, lows will range from the upper 30s 
+across interior southern CT, to the lower 40s for the rest of 
+the area. This is about 5 degrees above normal.
+
+&&
+
+.SHORT TERM /6 AM SUNDAY MORNING THROUGH SUNDAY NIGHT/...
+Expect mainly dry conditions on Sunday as the best thermal
+forcing lifts north of the area. However, easterly flow and low
+clouds will result in a much cooler day with highs ranging from
+the mid 40s eastern LI/SE CT, to the lower and mid 50s across
+western portions of the Lower Hudson Valley and the NYC/NJ
+metro. Patchy fog is also a possibility but more likely at 
+night as the boundary moves across the area. There is some 
+uncertainty here with some of the model guidance supporting 
+colder 2m temps. The NBM and CONSENUS are a bit warmer. Went in 
+between the warmer NBM and cooler model consensus.
+
+Warm front approaches Sunday night and passes to the north of
+the area by the early morning hours in a strengthening southerly
+flow. Chance of showers will increase at night but still not
+expecting high chances with rainfall amounts expected to be less
+than a tenth of an inch. Lows will pretty much be what the 
+highs were on Sunday as temperatures will gradually rise Sunday
+night. Toward daybreak Monday, temperatures will be in the 50s,
+possibly nearing 60 across NE NJ and the NYC metro.
+
+&&
+
+.LONG TERM /MONDAY THROUGH SATURDAY/...
+The modeling over the long term has remained relatively consistent. 
+The first sys is a cdfnt Mon and Mon ngt. The fropa is still timed 
+for Mon ngt. Some sct shwrs possible during the day Mon as heights 
+fall in general, but the best forcing is invof the sfc front which 
+reaches wrn areas around 00Z, bisects the area around 6Z, and is 
+offshore by 12Z Tue. Some subtle changes in the timing possible as 
+we draw closer to the event. Continued with slight chcs for tstms 
+with the best forcing late Mon and Mon ngt. Most of the convection 
+attm should be elevated, limiting impacts to heavier pockets of rain 
+and isold lightning. However, tightly packed thicknesses along with 
+cold pool processes could produce a strong burst of winds behind the 
+front. Best estimates attm 40-50kt peak gusts possible in this 
+scenario.
+
+NW flow and clearing on Tue. Temps back close to normal in the 50s. 
+It still looks cold Tue ngt with the high building in. The fcst 
+remains mainly 20s with a few 30s in the warmest urban/cstl 
+locations.
+
+Increasing clouds ahead of the next sys Wed. Chances for shwrs Wed 
+ngt thru Fri and perhaps Sat as a wrmfnt comes thru, followed by the 
+associated cdfnt which potentially stalls in the area. Right now the 
+modeling does not suggest rain for days on end, but with the front 
+in the area and quasizonal flow aloft, there will be periods of 
+possible shwrs. Went with the blended approach and stuck with the 
+NBM for this time period.
+
+&&
+
+.AVIATION /00Z SUNDAY THROUGH THURSDAY/...
+A frontal boundary will be the focus of the TAF period. The boundary 
+is currently moving through and makes its way farther southwest 
+through the city terminals to begin this evening.
+
+VFR conditions begin the TAF period. As the front moves southwest, a 
+switch from WSW-SW winds to more E winds takes place to begin this 
+evening. There will be some continued gusts near 20 kt into a 
+portion of this evening. The winds go quickly ENE with the frontal 
+passage.
+
+A few rain showers, especially across northern most terminals into 
+this evening. Increasing chances for MVFR late this afternoon 
+towards KGON and eastern terminals, then towards and into this 
+evening further west. MVFR prevails this evening, with IFR towards 
+and just after midnight. IFR is expected to continue into Sunday 
+morning with a period of LIFR which is currently handled with TEMPO 
+groups. Northern terminals have relatively higher chances of 
+showers. Slight possibility for thunderstorms tonight for some 
+terminals. Patchy fog and drizzle remains a possibility late tonight 
+and early Sunday morning.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Amendments becoming more likely around the timing of flight category 
+changes to MVFR and IFR tonight. The timing could be a few hours off 
+from TAF.
+
+.OUTLOOK FOR 18Z SUNDAY THROUGH THURSDAY...
+
+Sunday afternoon: MVFR and IFR. E winds 5 to 10 kt.
+
+Sunday night: MVFR to IFR. Areas of fog developing at night. 
+Increasing chances for showers, becoming likely for some terminals. 
+S wind gusts 15-20 kt developing late.
+
+Monday: MVFR to IFR with chance of showers, becoming more  likely 
+afternoon and at night with chance of thunderstorms afternoon into 
+night. Areas of fog early, becoming more patchy late morning into 
+afternoon before redeveloping at night. S-SW wind gusts 20-25kt, 
+becoming NW late at night.
+
+Tuesday: VFR. N-NW wind gusts around 20 kt daytime, just for  some 
+coastal terminals at night.
+
+Wednesday: Mainly VFR but chances for MVFR at night with increasing 
+chance of showers. E-SE wind gusts 15-20 kt.
+
+Thursday: VFR, with pockets of MVFR possible in showers.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+SCA all waters to start with a gusty easterly flow developing 
+with the passage of a backdoor cold front. Winds on the non- 
+ocean waters drop off toward midnight but it will be bit later
+for the ocean waters. Seas will also start off around 5 ft 
+Sunday morning for the ocean waters east of Fire Island Inlet. 
+A brief respite Sunday before southerly winds increase ahead of
+an approaching cold front. SCA conditions are likely to return 
+to the ocean waters after midnight Sunday. 
+
+A frontal sys will produce solid SCA cond on the ocean Mon and 
+Mon ngt, with gales possible. Elsewhere, SCA winds possible. 
+There will likely be areas of fog, possibly a few tstms, and 
+maybe a burst of gale force winds as the associated cold front 
+passes thru Mon ngt.
+
+A SCA will be needed on the ocean for Tue, with winds mrgnl 
+elsewhere. Winds on Wed blw SCA lvls, but seas on the ocean may 
+remain aoa 5 ft. Winds and seas come up again Thu with another 
+frontal sys.
+
+&&
+
+.FIRE WEATHER...
+A special weather statement remains out for NE NJ, the Lower 
+Hudson Valley, NYC, and Long Island until 6 pm.
+
+An backdoor cold frontal passage followed by easterly winds, 
+scattered showers and a colder airmass will end the threat.
+
+&&
+
+.HYDROLOGY...
+Some localized minor flooding, mainly urban and poor drainage, is 
+possible late Mon and Mon ngt with a frontal sys. No additional 
+hydrologic impacts are expected Tue-Sat.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+With tides running astronomically high with the new moon, less
+surge will be needed for minor coastal flooding. An easterly
+flow behind a back door cold front this afternoon into early
+this evening will allow for enough of a surge across western LI
+Sound to push water levels to right around coastal flood 
+benchmarks around the time of high tide. These locations are 
+mainly along Southern Fairfield CT and with exceedance of minor 
+benchmarks only expected to be 0.2 ft or less, coastal flood 
+statements are in effect for the times of high tide tonight 
+from 10PM to 1AM EDT. 
+
+More sites are forecast to reach minor coastal flood benchmarks
+for Sunday night, expanding beyond the shorelines of Fairfield
+CT to also include some other adjacent shoreline areas along 
+Western LI Sound as well as the Long Island South Shore Bays and
+the Lower NY Harbor.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until midnight EDT tonight for ANZ331-332-
+     335-338-340-345.
+     Small Craft Advisory until noon EDT Sunday for ANZ350-353.
+     Small Craft Advisory until 6 AM EDT Sunday for ANZ355.
+
+&&
+
+$$
+
+SYNOPSIS...JMC/DW
+NEAR TERM...JMC/DW
+SHORT TERM...DW
+LONG TERM...JMC
+AVIATION...JE
+MARINE...JMC/DW
+FIRE WEATHER...
+HYDROLOGY...JMC/DW
+TIDES/COASTAL FLOODING...

@@ -1,0 +1,162 @@
+538 
+FXUS61 KOKX 280538
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1238 AM EST Fri Feb 28 2025
+
+.SYNOPSIS...
+Weak high pressure will build from the west through this
+afternoon, then pass offshore by evening. A strong cold front 
+will pass through Saturday afternoon, followed by building high 
+pressure into Monday. Deepening low pressure over the mid 
+section of the country will then lift out of the central Plains 
+on Tuesday. 
+
+&&
+
+.NEAR TERM /UNTIL 6 AM THIS MORNING/...
+Cold front along with a few showers has clear eastern Long
+Island. Expect a dry westerly flow with some isolated gusts
+20-25 mph mainly east of NYC. Skies have cleared from NYC 
+north/west and will gradually so so elsewhere to the east. 
+
+Low temps will remain above normal, in the lower 30s inland, and
+the mid 30s to around 40 at the coast. 
+
+&&
+
+.SHORT TERM /6 AM THIS MORNING THROUGH 6 PM SATURDAY/...
+High pres ridges across the area today ahead of an Alberta 
+Clipper low dropping down from the Great Lakes. The low is 
+modeled to track into nrn New England, so this puts the area in 
+the warm sector and out of the region of best lift and dynamics.
+As a result, only some low PoP in the fcst attm, with the 
+highest chances inland to the north. 
+
+Mainly light rain as the pcpn type, but there could be some wet
+flakes at times across the far nrn tier. No accums expected.
+
+Based on a well mixed wly flow today, did increase wind gusts 
+abv the NBM to about 25 mph thru the day. 
+
+Temps today and tonight are close to the NBM with some local
+adjustments made. 
+
+&&
+
+.LONG TERM /SATURDAY NIGHT THROUGH THURSDAY/...
+Key Points:
+
+* Significant temperature decrease Saturday night with lows by
+  Sunday morning in the teens to lower 20s.
+
+* Well below normal Sunday and Monday with highs only in the
+  30s.
+
+* Temperatures trending warmer for midweek, returning to above 
+  normal.
+
+* Heavy rain possibility for the middle of next week.
+
+Stayed close to the NBM guidance during this period as global
+models are in decent agreement. However, made some minor 
+adjustments in timing and speed based on trends in 12Z globals 
+and ensembles.
+
+An amplifying upper trough across eastern Canada south into the
+Mid Atlantic states will send a strong polar cold front through
+the area Saturday afternoon. Any showers will be brief and 
+mainly across the interior. The core of cold air will stay well 
+to the north across eastern Canada with 85h temps of -30C. 
+However, there will be a period Saturday night into Sunday where
+85h temps get as low as -15 to -20c. After highs in the lower 
+to mid 50s Saturday, temperatures will quickly drop behind the 
+front with lows by daybreak Sunday into the teens to lower 20s. 
+Gusty NW winds up to 25 mph will follow Saturday night and then 
+gradually subside heading into Sunday as high pressure builds in
+from the west. Highs Sunday will only get into the upper 20s to
+mid 30s, warmest across the coast. With no upstream blocking 
+over the north Atlantic, the airmass will be fleeting with the 
+upper trough quickly lifting offshore by Monday. 
+
+Expect a significant warmup heading into midweek as a southern 
+branch storm system emerges from the southern Plains Tuesday, 
+heading up through the Great Lakes Wednesday and into eastern 
+Canada by Thursday. Ahead of it will be a period of large scale
+warm advection Tuesday night into Wednesday, followed by a cold
+frontal passage on Thursday. The system looks to have a good
+feed of moisture from both the Gulf and Atlantic. This combined
+with deep-layered lift would be able to produce some heavy warm
+conveyor belt rains. Keep in mind, this is almost a week out 
+and way too early to be too specific with the details.
+
+&&
+
+.AVIATION /06Z FRIDAY THROUGH TUESDAY/...
+VFR as weak high pressure builds from the west through this
+afternoon, then passes offshore by evening. 
+
+W-WNW winds prevail this morning. Gusts 20-25 kt return near 14Z 
+for most terminals, then subside toward 20Z-21Z.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No unscheduled AMD expected.
+
+.OUTLOOK FOR 06Z SATURDAY THROUGH TUESDAY...
+
+Late tonight: VFR. S winds G15-20kt. 
+
+Saturday: VFR. WNW winds G25-30kt in the afternoon. 
+
+Sunday: VFR. NW winds G15-20kt. 
+
+Monday and Tuesday: VFR. 
+
+Detailed information, including hourly TAF wind component
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+SCA remains up for the ocean waters through Saturday. There
+could be an ocnl gust to around 25 kt right behind the cold 
+front tonight. Otherwise, increasing W winds and seas should
+remain aoa 5 ft on the ocean thru tonight. Winds mrgnl elsewhere
+thru the period. 
+
+SCA conditions continue into Saturday on the ocean waters,
+mainly for seas to start. However, a cold frontal passage will
+be followed by marginal NW gust to around 25 kt Saturday 
+afternoon and night. Thereafter, high pressure builds in from 
+the west Sunday into Monday with diminishing winds and seas.
+
+&&
+
+.HYDROLOGY...
+There is a storm system that has potential to bring some heavy
+rain for the middle of next week. However, it's too early to
+be specific with rainfall amounts. 
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 6 PM EST Saturday for ANZ350-353-
+     355.
+
+&&
+
+$$
+
+SYNOPSIS...JMC/DW
+NEAR TERM...JMC/DW
+SHORT TERM...JMC
+LONG TERM...DW
+AVIATION...JE/BG
+MARINE...JMC/DW
+HYDROLOGY...JMC/DW

@@ -1,0 +1,271 @@
+526 
+FXUS61 KOKX 060911
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+411 AM EST Thu Feb 6 2025
+
+.SYNOPSIS...
+Low pressure impacts the area today before moving to the northeast 
+tonight. High pressure builds back into the area for Friday and into 
+the first half of the weekend. Another area of low pressure 
+impacts the area Saturday night into Sunday. High pressure 
+returns Sunday into Monday night. A series of low pressures may 
+pass south of Long Island Tuesday and Wednesday.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Low pressure will impact the area today with a variety of
+precipitation types expected across the CWA throughout the day.
+Some bands of moisture and precip are beginning to move across
+the area this morning with an initial bout of snow. Antecedent
+cold air is allowing this snowfall to fairly quickly accumulate
+to surfaces. As the low pressure continues to progress into the
+area and enhanced moisture moves in, the character of the
+precipitation will begin to change as well. Some warmer air is
+expected to move in aloft as the low approaches which may allow
+the initial snow to mix with and transition to sleet and 
+freezing rain for a period this morning.
+
+SW flow should begin to increase this morning and allow 
+temperatures along the coast to rise above freezing, thus 
+transitioning any frozen precipitation to a plain rain. Interior
+areas are expecting this transition from snow to sleet to 
+freezing rain and plain rain as well, though it will take 
+longer to progress to a plain rain, likely some time in the late
+morning to early afternoon. Precipitation is expected to come to
+an end this afternoon. Some patchy fog development is also
+possible late this afternoon and into this evening as a moist
+surface and generally light winds will support fog development.
+
+Total snow accumulations of generally around an inch for Long
+Island and 1-2 inches for the rest of the CWA, though some spots
+in the Lower Hudson Valley or CT may get slightly more than 2
+inches. A glaze of ice is possible along the coast as well with
+up to a tenth of ice possible for northern areas. As such,
+Winter Weather Advisories are in effect for this icing potential
+to impact the morning commute.
+
+Winds will increase from the W and NW tonight, allowing for any
+fog to mix out as drier air moves in. Lows tonight will be in
+the low to middle 30s.
+
+&&
+
+.SHORT TERM /FRIDAY THROUGH SATURDAY/...
+High pressure builds in behind the departing low on Friday. This
+will bring in a drier airmass, though a tightening pressure
+gradient will allow for windy conditions on Friday with gusts
+upwards of 30-35 mph, locally to 40 mph possible. High
+temperatures on Friday will be in the middle to upper 30s.
+
+High pressure continues to build into the area with dry
+conditions and diminishing winds Friday night. Low temperatures
+will be in the teens for the inland areas with the low to middle
+20s expected for the coast. The cold airmass remains in place on
+Saturday as high pressure begins to slide overhead. Highs will 
+be in the low to middle 30s for much of the area on Saturday.
+
+&&
+
+.LONG TERM /SATURDAY NIGHT THROUGH WEDNESDAY/...
+Confidence is increasing in active period with several chances for 
+wintry weather.
+
+*Key Points*
+
+*Recent model trends indicate increasing probabilities for an 
+accumulating/advisory level snowfall and low potential for warning 
+level snowfall across the interior Saturday night.
+
+*The accumulating snow may transition to a wintry mix late Saturday 
+night, especially closer to the coast.
+
+*A series of low pressures may pass off the Middle Atlantic Tuesday 
+into Wednesday with another chance for snow.
+
+Fast, zonal flow aloft will continue into early next week. The 
+modeling has been in excellent agreement with a fast moving middle 
+level shortwave and strong upper jet moving towards the region 
+Saturday night. The differences in the guidance continue be with the 
+exact track of the parent low and its transfer to the coast by early 
+Sunday morning. The system is fast moving and will pull away from 
+the area Sunday morning and early Sunday afternoon.
+
+There have a been a few notable dprog/dt trends over the last 
+several cycles of the models that may be beginning to shed a little 
+clearer picture of the evolution of the event. The parent low will 
+likely be moving across the Ohio Valley in the evening with its 
+associated warm front approaching from the southwest. The trend has 
+been for the parent low to track into western PA rather than up into 
+western NY. The low then transfers to a secondary low along and just 
+off the Middle Atlantic coast. As a result, the model consensus is 
+starting to lean towards a colder solution especially at the 
+beginning of the event as departing high pressure leaves behind a 
+cold and dry air mass Saturday evening. There may still be some 
+mixing/ptype changes closer to the coast as warmer air aloft tries 
+to get into the area late at night. Some warmer surface air may also 
+try to edge north across portions of the NYC metro and Long Island, 
+but the magnitude of this is a bit uncertain. If the secondary low 
+develops quicker, it may help keep the flow more N or NE and hold 
+back some of the warmer air. These are some of the mesoscale details 
+that still need to be worked out in the next 24 to 48 hours.
+
+The current anticipated evolution will be a period of accumulating 
+snow beginning Saturday night 7pm to 10pm, from west to east. The 
+system will likely have more moisture and more organized dynamics to 
+work with compared to the event today (early Thursday morning). 
+Model soundings indicate strong lift in the Dendritic growth zone 
+along with thermal profiles favorable for all snow area wide the 
+first half of the night. Moderate snow is possible and there could 
+be some bands of heavier snow with some of the modeled 850-700mb 
+frontogenesis. Sometime around or just after midnight some warmer 
+air aloft may try to bring a mix of of snow and sleet along the 
+coast and potentially into the NYC metro. Most of the global models 
+show this, but the timing and magnitude differ. However, given how 
+quickly the modeled QPF increases before the potential transition, 
+advisory level snowfall is possible even down to the coast. 
+Locations further inland should stay snow well into the early 
+morning hours with any mixing potentially coming from the loss of 
+snow growth and weaker lift. Some colder air could wrap back into 
+the system as the storm pulls away early Sunday morning, but lift is 
+not as impressive. Any lingering precip should end shortly after day 
+break Sunday based on the latest trends. 
+
+NBM probabilities for a 3 inches or more (advisory level) of snow 
+between 00z and 12z Sunday have been steadily increasing over the 
+last three cycles. They were around 50 percent for Southern CT and 
+the Lower Hudson Valley on the 13z Feb 5th cycle and are now around 
+80 percent on the 01z Feb 6th cycle. These probabilities have also 
+increased down to the coast and went from around 20 percent to 
+around 50 percent on the 01z cycle. NBM probabilities have also 
+increased for 6 inches (warning level) going from about 15 percent 
+to 50-60 percent inland. The probability for a 6 inch event at the 
+coast notably jumped from near 0 to about 15-20 percent. Based on 
+collaboration with neighboring offices and WPC, our latest official 
+snowfall forecast ranges from 2-4 inches Long Island and NYC metro 
+up to 4-6 inches with isolated amounts up to 7 in higher elevations 
+for interior NE NJ, Lower Hudson Valley and Southern Connecticut. 
+Adjustments to these totals are expected given that this is still 3 
+days out. A further north track would lead to lower snowfall totals 
+whereas a further south track could lead to higher totals down to 
+the coast. A brief period of freezing rain is possible, but have 
+left out of the forecast for now given some lingering uncertainties 
+with the depth of the surface cold as well as the potential warm 
+nose. Any freezing rain if it were to happen would be well after 
+midnight. Adjust
+
+Dry conditions return on Sunday into Monday with high pressure 
+building over the region. The baroclinic/thermal gradient looks to 
+reside a bit further south than this week with several areas of 
+shortwave energy riding along this gradient. Guidance continues to 
+signal a series of low pressures passing to our south Tuesday and 
+potentially into Wednesday. Lots of questions remain with whether or 
+not it will be one main wave or broken up into different periods. 
+However, the chance is there for another wintry event mid next week. 
+The current model consensus was followed which gives a snow 
+solution. There is still room for this to trend a bit more 
+suppressed, which could lower precip amounts. For this reason, have 
+capped PoPs off at 50 percent for now.
+
+&&
+
+.AVIATION /08Z THURSDAY THROUGH MONDAY/...
+Low pressure approaches approaches early this morning and impacts 
+the terminals into the evening.
+
+Lowering conditions early this morning as -SN develops  Expect MVFR 
+cigs with -SN by 10-11z. IFR follows shortly thereafter. Snow 
+transitions to sleet and/or freezing rain around 13-15z along the 
+coast and across the NYC metro. Have continued with PROB30s for FZRA 
+at KJFK and KLGA, with the higher probability of FZRA for the 
+terminals NW of the NYC metro. A transition to plain rain takes 
+place for the NYC terminals from 15-16Z, but should stay FZRA at 
+KSWF for some time afterwards. Precip to end as DZ towards 18-20Z 
+with LIFR into the evening. IFR visibilities may continue into the 
+evening. 
+
+Winds pick up to around 5-10 kt from the E-SE early this morning. 
+For the afternoon as the low begins to get further east the winds 
+briefly go ENE at most terminals, then shift to WSW late in the day 
+into the evening.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Amendments are likely this morning for flight categories as well as 
+precipitation type changes.
+
+Low chance for LIFR visibilities this evening.
+
+.OUTLOOK FOR 06Z FRIDAY THROUGH MONDAY... 
+
+Late Tonight: VFR returns. 
+
+Friday: VFR. WNW winds G25-30kt. 
+
+Saturday: VFR during the day. Snow at night with IFR, changing to a 
+wintry mix late at night, especially near the coast.
+
+Sunday: Light snow possible early inland with wintry mix near the 
+coast with IFR, then VFR.
+
+Monday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Sub-SCA conditions are expected this morning with a building sea
+allowing for SCA conditions on the ocean by this afternoon and
+evening. Increasing W and NW winds tonight and especially on
+Friday behind a departing low will allow the expansion of SCAs 
+to the rest of the waters. Gusts will generally be 25-30kt,
+though a gale force gust can't be entirely ruled out on Friday
+for the waters. Sub-SCA condition are then expected Friday night
+and through at least Saturday. 
+
+SCA conditions are possible on the ocean Saturday night into Sunday 
+as low pressure impacts the waters. High pressure then returns with 
+a weak pressure gradient and conditions below SCA levels Sunday 
+night into Monday night. 
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through the forecast period.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Winter Weather Advisory until 1 PM EST this afternoon for 
+     CTZ005>012.
+NY...Winter Weather Advisory until 1 PM EST this afternoon for 
+     NYZ067>071.
+     Winter Weather Advisory until 11 AM EST this morning for 
+     NYZ072>075-078-080-176>179.
+NJ...Winter Weather Advisory until 1 PM EST this afternoon for 
+     NJZ002-004-103>105-107.
+     Winter Weather Advisory until 11 AM EST this morning for 
+     NJZ006-106-108.
+MARINE...Small Craft Advisory from 6 AM to 6 PM EST Friday for ANZ331-
+     332-335-338-340-345.
+     Small Craft Advisory from 1 PM this afternoon to 6 PM EST 
+     Friday for ANZ350.
+     Small Craft Advisory from 6 PM this evening to 6 PM EST Friday 
+     for ANZ353-355.
+
+&&
+
+$$
+
+SYNOPSIS...DS/MW
+NEAR TERM...MW
+SHORT TERM...MW
+LONG TERM...DS
+AVIATION...DS
+MARINE...DS/MW
+HYDROLOGY...DS/MW

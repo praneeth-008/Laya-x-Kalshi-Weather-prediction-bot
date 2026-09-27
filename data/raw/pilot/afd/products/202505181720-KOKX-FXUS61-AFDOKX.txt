@@ -1,0 +1,201 @@
+889 
+FXUS61 KOKX 181720
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+120 PM EDT Sun May 18 2025
+
+.SYNOPSIS...
+Low pressure is slow to exit the New England Coast and will 
+send several surface troughs through the area through Monday. 
+High pressure noses in from the north thereafter through Tuesday
+night. A frontal system impacts the area Wednesday into Friday 
+night, moving northeast of the region Saturday.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Forecast remains generally on track with mostly clear skies
+slowly becoming more cloud covered from northwest flow advecting
+a low-level cloud deck into the area. Temperatures are rising
+slightly quicker than forecast so adjusted high temperatures
+today slightly upwards, mainly for Long Island and the NYC
+metro, but an upper trough should limit the amount of surface 
+heating allowing temperatures to rise more than the middle 70s. 
+
+The upper level low can be seen well on latest water vapor 
+imagery centered to our north and moving over northern NY. At 
+the surface, a cold front is now pushing offshore and W/NW flow 
+is filtering in some drier air. The upper level low and 
+associated surface low are slow to exit the area and will 
+gradually move off the New England Coast tonight. The surface 
+low will send a few surface troughs through the area through 
+Monday, the first being this afternoon.
+
+Today starts off mostly sunny, but with the help of cyclonic 
+flow aloft a decent cloud deck around 4 kft should fill in and 
+lead to mostly cloudy skies. There is also potential for some 
+light showers, mainly across the Lower Hudson Valley and 
+interior southern CT. If anything makes it farther south it will
+likely only be sprinkles. The more notable weather today will 
+be the gusty W/NW flow. There is some concern with how well 
+mixed we can get once clouds fill in, but confidence was high 
+enough to go above the NBM90th percentile for gusts as even 
+shallow mixing up to 950mb could bring down some 35+ mph gusts.
+
+Stuck with NBM for highs today, giving upper 60s to mid 70s. 
+Mixed in other global guidance and NBM10th percentile for Td as 
+the NBM has shown some high bias in drier regimes.
+
+The pressure gradient increases a bit over the area tonight and
+sustained winds may increase slightly, but gusts lower with 
+less mixing. Stuck with NBM for lows with the lack of strong 
+radiational cooling. Lows will be in the 50s.
+
+&&
+
+.SHORT TERM /MONDAY THROUGH TUESDAY NIGHT/...
+A quick approaching shortwave will move overhead on Monday 
+along with another surface trough. Not expecting any 
+precipitation from these features. Gusty winds do continue 
+though, a few mph lower than today.
+
+Winds finally start lowering Monday night with high pressure 
+nosing in from the north. Thinking winds will still be a bit too
+high though for ideal radiational cooling conditions.
+
+Light winds expected on Tuesday with at least a mostly sunny 
+sky through the early afternoon. Some mid and upper level clouds
+may move in from the northeast in the afternoon thanks to the 
+influence of the still-departing upper level low.
+
+Late in the period, Tuesday night, unsettled weather returns 
+with an approaching large frontal system. Slight chance PoPs 
+begin after midnight for the western third of the area.
+
+&&
+
+.LONG TERM /WEDNESDAY THROUGH SATURDAY/...
+Key Message:
+
+ * A frontal system impacts the region Wednesday into Friday night.
+   Periods of moderate rainfall are possible Wednesday afternoon
+   into Wednesday night.
+
+The forecast remains fairly consistent from previous forecasts 
+with the approach of a frontal system Tuesday night that impacts
+the region during Wednesday into at least Friday, and possibly 
+into Friday night. An upper level trough deepens across the 
+upper midwest and into the Great Lakes region Wednesday into 
+Wednesday night with a closed low developing. The upper low will
+be slow to depart to the northeast as pieces of energy rotate 
+through the low. The upper trough begins to weaken and move 
+northeast during Saturday. Meanwhile, at the surface low 
+pressure moves out of the Great Lakes and into the region 
+Wednesday into Wednesday night. The guidance is still developing
+a deepening low along the mid Atlantic coast late Wednesday. 
+This low deepens through Thursday while tracking over or just 
+east of the region. This is in response to the upper low energy 
+moving toward the coast Wednesday. With an influx of Atlantic 
+moisture and strong lift with the upper low and surface low. 
+periods of moderate to possibly briefly heavy rainfall are 
+becoming more likely late Wednesday into Wednesday night. 
+However, no hydrologic impacts are expected at this time. With 
+the upper low slow to depart have kept chances and slight 
+chances of precipitation in the area into Saturday. With 
+extensive cloud cover and rainfall, daytime temperatures will be
+5 to near 10 degrees below normal Wednesday through Friday, and
+night time lows will be near to around 5 degrees below normal.
+
+&&
+
+.AVIATION /18Z SUNDAY THROUGH FRIDAY/...
+Low pressure over Northern New England slowly moves towards the
+Canadian Maritimes into Monday.
+
+VFR. There is a low chance of a shower at KSWF this
+afternoon/early evening. 
+
+W-NW winds 15-20 kt, with gusts 25-35 kt. The highest gusts
+should be at NYC and coastal terminals. A few gusts may peak at
+40 kt along the coast into this evening. Winds become more NW 
+tonight with winds becoming 10-15 kt and gusts 20-25 kt. Some
+outlying terminals may see gusts briefly end. NW winds increase
+after 12z Monday, becoming 15-20 kt with gusts 25-30 kt into the
+afternoon.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+A few gusts may peak 35-40 kt into early evening.
+
+Gusts may briefly end or become occasional 08-12z.
+
+.OUTLOOK FOR 18Z MONDAY THROUGH THURSDAY...
+
+Monday Afternoon-Night: VFR. NW winds G25-30 kt into the 
+evening. Gusts up to 20 kt possible overnight, especially Long
+Island and Southern Connecticut. 
+
+Tuesday: VFR. 
+
+Wednesday: MVFR or lower with showers likely, especially in the 
+afternoon into the night. E wind gusts 15-20kt.
+
+Thursday: MVFR or lower possible in showers. NE winds G20-30kt, 
+highest across southeastern Connecticut and eastern Long Island.
+
+Friday: MVFR possible. Chance of showers. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Small Craft Advisory conditions will start this morning with 25 to 
+30 kt gusts. Nearshore gusts could even be a few kt higher. 
+There will likely be a bit of a lull overnight before 25 kt 
+gusts are expected again on Monday. Thereafter, sub-SCA 
+conditions expected through Tuesday night. Seas on the ocean may
+build to around 5 ft today into tonight.
+
+With the approach of a frontal system during Wednesday, an easterly 
+flow will be increasing, and by late day SCA conditions are likely 
+to develop on the ocean waters. With the increased and persistent 
+east flow Wednesday night SCA conditions become likely across all 
+the forecast waters Wednesday night and continue into Thursday. A 
+brief period of near gale force gusts are possible on the ocean 
+waters east of Moriches Inlet Thursday.
+
+As the low tracks northeast of the area Thursday night a northerly 
+flow develops and winds diminish west to east, falling below 
+advisory levels Thursday night. However, ocean seas are likely to 
+remain elevated through Friday, and possible into Friday
+evening.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through the week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 6 PM EDT Monday for ANZ331-332-335-
+     338-340-345-350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...MET/JT
+NEAR TERM...JT/MW
+SHORT TERM...JT
+LONG TERM...MET
+AVIATION...DS
+MARINE...MET/JT
+HYDROLOGY...MET/JT

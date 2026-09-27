@@ -1,0 +1,213 @@
+480 
+FXUS61 KOKX 221914
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+314 PM EDT Sun Jun 22 2025
+
+.SYNOPSIS...
+High pressure continues to build into and south of the region 
+Monday and Tuesday. A frontal boundary becomes nearly stationary
+across the region late Tuesday night through the upcoming 
+weekend as multiple waves of low pressure move along the 
+boundary.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM MONDAY MORNING/...
+Upper level ridge and surface high pressure build into the region 
+tonight. Skies will continue to clear out with temperatures 
+overnight remaining rather mild. Expect lows to only fall into the 
+70s. Temperatures in the NYC/NJ metro area may only remain in the 
+upper 70s to near 80. 
+
+&&
+
+.SHORT TERM /6 AM MONDAY MORNING THROUGH TUESDAY/...
+* Extreme Heat headlines continue for a majority of the forecast 
+  area. 
+
+* The extreme Heat Watch has been converted to Heat Advisories
+
+* Monday and Tuesday will be the hottest days of the week. 
+
+The heat really kicks up on Monday gets going on Monday with 
+high temperatures expected to be in the 90s for most of the 
+forecast area. The only exception may be right along the 
+immediate coastline. Temperatures will reach the upper 90s for 
+NE NJ and the Lower Hudson Valley, and can not rule out a few 
+100 readings. Heat Index values will peak in the 105-110 range 
+inland and 95-105 along the coast.
+
+Lows Monday night will not offer much relief as low temperatures 
+will only be in the 70s with more urban locations possibly not 
+dropping below 80.
+
+Right now, temperatures are expected to be slightly higher on 
+Tuesday as compared to Monday, though dew points may be slightly 
+lower so heat index values will be comparable. High temperatures for 
+much of the area Tuesday may approach 100 or rise into the low 100s 
+away from the coast. Given a westerly flow, coastal areas like Long 
+Island may rise into the middle to upper 90s as well. This will 
+likely be the hottest day for the coastal areas. 
+
+Given the expected excessive heat, an Extreme Heat Warning is in 
+effect through Tuesday. The highest heat index values will occur 
+each afternoon, but especially on Monday and Tuesday. Heat 
+Advisories are in effect for portions of Long Island and coastal 
+Middlesex and New London County in CT. 
+
+&&
+
+.LONG TERM /TUESDAY NIGHT THROUGH SUNDAY/...
+* Wednesday will likely be the the last day of heat/humidity for 
+  this week.
+
+* A more unsettled weather pattern likely develops Wednesday through 
+  the upcoming weekend.
+
+The upper ridge begins to weaken and flatten Tuesday night with 
+heights falling into Wednesday. Continental zonal flow then remains 
+across the northern tier of the country Wednesday night into the 
+upcoming weekend as a series of weak shortwaves move through the 
+flow. At the surface a backdoor cold front drops into the region 
+Tuesday night into Wednesday, and then with the near zonal flow the 
+front becomes nearly stationary across the region. The last day of 
+the current heat and humidity will be Wednesday as air temperatures 
+rise into the lower and mid 90s, and heat indices peak at around 95 
+to 100 across much of the region. There is the potential for a final 
+day of heat headlines. However, with the chance of precipitation 
+Wednesday heat advisory criteria may not be reached. Unsettled 
+weather is possible Wednesday afternoon into the upcoming weekend, 
+with temperatures falling back to near normal Thursday through 
+Sunday. Followed the deterministic NBM guidance for all
+parameters.
+
+&&
+
+.AVIATION /19Z SUNDAY THROUGH FRIDAY/...
+High pressure will remain mostly in control. Southwesterly 
+winds around 10-15kt with gusts up to 20-25kt this afternoon, 
+with highest gust expected around the NYC terminals will 
+diminish tonight. 
+
+VFR conditions tonight and into Monday with westerly winds 
+around 5-10kts becoming south around 10kt Monday afternoon. 
+
+     NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No unscheduled amendments expected.
+
+.OUTLOOK FOR 18Z MONDAY THROUGH FRIDAY... 
+
+Tuesday: VFR. 
+
+Wednesday: Chance of showers/tstms in the afternoon/evening
+mainly for KSWF/KHPN/KTEB/KEWR. 
+
+Thursday and Friday: Chance of showers/tstms mainly in the
+afternoon/evening. 
+
+Detailed information, including hourly TAF wind component 
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Winds and seas are expected to remain below SCA levels. Have 
+cancelled the small craft advisory for the remainder of the 
+afternoon/evening. Sub-SCA conditions are expected through the 
+middle of the week as high pressure settles over and south of 
+the area.
+
+Winds and seas remain below small craft advisory levels Tuesday 
+night through Friday night across all of the forecast waters.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through the rest of the 
+forecast period with dry conditions prevailing.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+With an increase in onshore swell (3 to 4 ft) and southerly winds 
+(SW 10-15 kts), a moderate risk of rip currents is forecast for all 
+ocean beaches today.
+
+Winds lighten and become more variable tonight into early Monday 
+with a resumption of light southerly flow Monday afternoon (5-10 
+kts). Onshore swell decreases for Monday (2 to 3 ft). There is a low 
+risk of rip currents forecast for Monday for all ocean beaches.
+
+&&
+
+.CLIMATE...
+Increasing heat may result in record high temperatures through
+Tuesday.
+
+Today's Record Highs (June 22):
+EWR 101 / 1988
+BDR  93 / 1949
+NYC  98 / 1988
+LGA  99 / 1988
+JFK  94 / 2012
+ISP  94 / 2012
+
+Monday's Record Highs (June 23):
+EWR  99 / 2024
+BDR  91 / 2010
+NYC  96 / 1888
+LGA  95 / 2024 and previous years
+JFK  94 / 2010
+ISP  91 / 1999
+
+Tuesday's Record Highs (June 24):
+EWR  97 / 1966
+BDR  94 / 1966
+NYC  96 / 1888
+LGA  96 / 2013
+JFK  97 / 2010
+ISP  96 / 1966
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Air Quality Alert until 11 PM EDT Monday for CTZ005>012.
+     Extreme Heat Warning until 8 PM EDT Tuesday for CTZ005>010.
+     Heat Advisory until 8 PM EDT this evening for CTZ011-012.
+     Heat Advisory from noon Monday to 8 PM EDT Tuesday for CTZ011-
+     012.
+NY...Extreme Heat Warning until 8 PM EDT Tuesday for NYZ067>075-176-
+     178.
+     Heat Advisory until 8 PM EDT this evening for NYZ078-080-177-
+     179.
+     Heat Advisory from noon Monday to 8 PM EDT Tuesday for NYZ078-
+     080-177-179.
+     Air Quality Alert from 11 AM to 11 PM EDT Monday for 
+     NYZ069>075-078>081-176>179.
+     Air Quality Alert until 11 PM EDT this evening for NYZ078>081-
+     177-179.
+NJ...Extreme Heat Warning until 8 PM EDT Tuesday for NJZ002-004-006-
+     103>108.
+     Air Quality Alert from 11 AM to 11 PM EDT Monday for NJZ002-
+     004-006-103>108.
+     Air Quality Alert until 11 PM EDT this evening for NJZ004-006-
+     103>108.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...BC/MET
+NEAR TERM...BC
+SHORT TERM...BC
+LONG TERM...MET
+AVIATION...20
+MARINE...BC/MET
+HYDROLOGY...BC/MET
+TIDES/COASTAL FLOODING...
+CLIMATE...

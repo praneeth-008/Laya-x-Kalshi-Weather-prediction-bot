@@ -1,0 +1,175 @@
+594 
+FXUS61 KOKX 131435
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1035 AM EDT Tue May 13 2025
+
+.SYNOPSIS...
+An area of low pressure slowly approaches from the Mid- 
+Atlantic this afternoon into Wednesday and passes nearby during
+Thursday. Another frontal system impacts the area for the end 
+of the week into next weekend.
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+Forecast remains on track into the afternoon with only minor 
+adjustments to account for observations. High pressure continues
+to hold through the early afternoon, especially further east. 
+Low levels continues to indicate drier air winning out through 
+the next several hours. Showers have tried to make their way 
+into the western portion of the area but despite seemingly 
+decent radar returns, much of this rain is falling out of a mid-
+level deck and has struggled to reach the ground. Only a few
+stations have reported light showers / sprinkles.
+
+High pressure remains to the east of the area this afternoon 
+with a broad low pressure system approaching from the southwest 
+through the day. This low will slowly move over the area through
+the middle of the week.
+
+Clouds are continuing to gradually build into the area from the
+southwest along with a broken shield of light rain showers. 
+These rain showers should gradually approach NE NJ and the NYC,
+but models have largely backed off on the intensity and 
+eastward progression as the rain pushes into the high pressure 
+positioned off to the east. As a result, much of the CWA is 
+expected to be dry for much of the day, perhaps with the 
+exception of NE NJ and the NYC metro. High temperatures today 
+will be in the upper 60s to the middle 70s.
+
+&&
+
+.SHORT TERM /6 PM THIS EVENING THROUGH THURSDAY NIGHT/...
+The low continues to make its slow progression into the area
+tonight with additional showers moving in from the southwest. As
+the BL saturates and the high pressure to the east gives way a
+bit, showers should be able to make some eastward movement by
+tonight with much of the area seeing at least some light rain,
+though it may not be until after midnight or toward daybreak for
+central and eastern areas.
+
+By Wednesday, the southeasterly flow increases as the low comes
+closer to the area. As the upper trough works its way overhead,
+the development of some subtle elevated instability may allow
+for the development of more convective-type showers and some 
+embedded thunderstorms. This may allow for briefly moderate to
+heavier rain, though it's expected to be embedded in a more
+widespread light rain. Highs Wednesday will be in the middle
+60s, given the ongoing precipitation.
+
+On and off showers with perhaps some thunderstorms continue 
+Wednesday night and into early Thursday as the low continues to
+move overhead. By Thursday, much of the precipitation should 
+move northeast of the area but with the upper trough overhead,
+additional scattered showers or isolated thunderstorms will be
+possible through the afternoon. The area should begin to dry out
+a bit by Thursday night.
+
+&&
+
+.LONG TERM /FRIDAY THROUGH MONDAY/...
+A warm front associated with a cutoff low over the western Great 
+Lakes region lifts north Friday into Friday night with with ridging 
+aloft mitigating shower chances. A cold front follows for Saturday 
+into Saturday night with additional showers and maybe a thunderstorm.
+
+Uncertainty then increases for Sunday and Monday, stemming from 
+global model disagreement on the placement of the cut off/upper low. 
+There's general agreement that it remains to our north, but still 
+cannot rule out a diurnally-driven shower both days as a surface 
+trough and cyclonic flow aloft are potentially in the area.
+
+Above normal temperatures are expected for Friday and especially 
+Saturday with the area warm sectored. Temperatures will be in the 
+70s to around 80 away from the coast, with low to middle 70s along 
+the coast. After Saturday, the area will be in a cooling trend, with 
+slightly cooler readings for Sunday compared to Saturday, and 
+temperatures close to normal for Monday.
+
+&&
+
+.AVIATION /15Z TUESDAY THROUGH SATURDAY/...
+A weak cold front moves through the forecast area into the 
+afternoon, stalling near the metro terminals. At the same time, 
+a weak area of low pressure approaches from the south.
+
+VFR conditions expected through much of the day today. MVFR chances 
+increase from west to east thereafter for the rest of the TAF 
+period. 
+
+Some light rain is possible this morning for NYC and Lower Hudson 
+Valley terminals. Chances for rain increase for NYC and Lower Hudson 
+Valley terminals this afternoon into start of this evening with MVFR 
+chances also increasing, though MVFR conditions are possible with 
+any showers in the afternoon. Conditions deteriorate to IFR by late 
+tonight for these areas. To the east, expecting mainly dry 
+conditions and VFR conditions to prevail through much of this 
+afternoon, with MVFR or lower expected by overnight tonight.
+There is a low to medium chance of LIFR conditions around 06Z 
+and thereafter. 
+
+Winds through the TAF period are around 10 kts or less. Wind 
+direction generally S to SE shifting to the SE early this 
+morning, then E to ESE this afternoon.
+ 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+MVFR and IFR timing could be a few hours off from TAF.
+
+.OUTLOOK FOR 12Z WEDNESDAY THROUGH SATURDAY...
+
+Tuesday night through Wednesday night: Low stratus/fog with IFR 
+conditions at times. Periods of rain. Slight chance of thunderstorms 
+Wednesday afternoon into Wednesday night. E-SE winds G20kt possible 
+on Wednesday afternoon into early evening.
+
+Thursday: MVFR possible with a chance of showers.
+
+Friday and Saturday: Mainly VFR, chance of MVFR and showers.
+Slight chance of thunderstorms afternoon into early evening.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Sub-SCA conditions are expected on all waters through tonight. 
+Onshore flow will help build seas to 5-6 ft on the ocean waters 
+during Wednesday along with gusts around 25 kt. Winds weaken 
+Wednesday night, however a residual swell should keep seas at 
+advisory levels through the night and into a portion of 
+Thursday. Sub-advisory conditions then follow for Thursday night 
+through Sunday with winds remaining at around 10kt or less.
+
+&&
+
+.HYDROLOGY...
+Rainfall through Wednesday night is expected to average around 
+a half of an inch across the area, but locally upwards of an 
+inch is possible. No hydrologic impacts are expected with this 
+event, and no impacts are expected thereafter through Monday.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...MW
+NEAR TERM...JE/MW
+SHORT TERM...MW
+LONG TERM...JP
+AVIATION...BC/JP
+MARINE...JP/MW
+HYDROLOGY...JP/MW

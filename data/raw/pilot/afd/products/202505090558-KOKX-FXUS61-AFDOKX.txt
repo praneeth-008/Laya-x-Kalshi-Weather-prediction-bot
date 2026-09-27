@@ -1,0 +1,183 @@
+422 
+FXUS61 KOKX 090558
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+158 AM EDT Fri May 9 2025
+
+.SYNOPSIS...
+A frontal system and associated low will slowly track across the
+area through Friday. A weak cold front will cross the region 
+Saturday night, with high pressure building in for early next 
+week. Another low pressure system approaches for the middle of 
+next week.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM THIS MORNING/...
+Frontal boundary has worked across much of the area. Latest 
+analysis has it from SE CT across central LI and south of the 
+NYC metro. Pockets of showers reside to the NW of the boundary, 
+across SW CT, the Lower Hudson Valley, and NE NJ. Airmass has 
+stabilized and the rainfall ins generally light. 
+
+Intensity looks to pick back up again Friday morning as an upr 
+low currently over the eastern Great Lakes continues to drop 
+swd tngt and low pres begins to develop along the Mid Atlantic. 
+The latter of which will strengthen the frontogenetic forcing 
+to the NW of the surface boundary later tonight.
+
+A flood watch is in effect for CT, NY north of NYC, and portions
+of nrn NJ until late Fri ngt. This captures the chance for 
+isold flash flooding through Fri as the low begins to wrap up. 
+See the hydro section for more details.
+
+There is a chance that some patchy fog develops tngt, particularly
+ern cstl areas. Increasing clouds and the development of shwrs
+appear to be limiting factors however, so it was kept out of the
+fcst for now.
+
+&&
+
+.SHORT TERM /6 AM THIS MORNING THROUGH 6 PM SATURDAY/...
+Periods of rain with embedded tstms will continue on Fri, 
+gradually tapering off from SW to NE late Fri ngt. 
+
+Low pres likely tracks across the cwa during the day. This
+should keep the heaviest rainfall across the nrn half of the
+cwa, with a dry slot potentially limiting amounts from srn NJ
+thru NYC and into LI. LI could be tricky however, with shwrs and
+tstms developing ahead of the low which could overperform with
+convection enhanced on the nose of the theta-e ridge and invof 
+the warm front. Any change in track of the low will alter the 
+rainfall distribution for this event.
+
+Most of the tstm activity looks to be elevated, so the main
+threat with this sys is expected to be the rain attm. Widespread
+urban and poor drainage flooding, as well as some mainly minor
+river flooding, are the expected primary impacts in the watch 
+area.
+
+Cooler temps on Fri with the rain and the NBM was followed
+there.
+
+&&
+
+.LONG TERM /SATURDAY NIGHT THROUGH THURSDAY/...
+Dry weather is expected by midday Saturday with the low exiting to 
+the northeast and high pressure gradually beginning to take over.
+
+Another shortwave and associated surface cold front moves across the 
+area Saturday night into early Sunday morning with Canadian high 
+pressure building into its wake and gradually rising heights. 
+
+The high will keep conditions dry through at least much of Tuesday. 
+The next chance of precip comes by later Tuesday or Wednesday with 
+the approach of the next low pressure system.
+
+Temperatures through the long term will remain at or slightly above 
+normal with highs in the 70s.
+
+&&
+
+.AVIATION /06Z FRIDAY THROUGH TUESDAY/...
+A frontal system will remain stalled across the area into Friday
+as a series of frontal waves track along it. The front will be 
+dragged east in the afternoon and early evening as low pressure
+lifts northeast of the area.
+
+Outside of any showers the first half of tonight, expect mainly
+VFR conditions with pockets of MVFR/IFR. Ceilings and 
+visibilities will lower late tonight and into early Friday
+morning as showers increase in coverage as low pressure 
+approaches from the Mid Atlantic states. Expect widespread IFR 
+with pockets of LIFR on Friday with showers and embedded 
+thunderstorms. The better chance for thunderstorms will be 
+across the terminals east of NYC, where there is PROB30 18Z-22Z.
+Given recent trends to have the center of the low passing nearly
+overhead the NYC metro, opted to include a PROB30 for TSRA for 
+KJFK and KLGA from 14-18Z. Conditions will then begin to 
+gradually improve from west to east during the late afternoon 
+and evening hours. 
+
+Winds will become NNE/E at 10 kt or less tonight, then become
+more easterly around 10 kt at the coast on Friday. NYC and LI
+terminals could become SE for time in the late morning/early
+afternoon Friday. There also could be a few gusts 
+15-18kt at the coastal terminals. By Friday evening, the 
+frontal system moves northeast with winds in its wake becoming W
+or NW and increasing in speed into Friday morning.
+
+...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Amendments likely through Friday night with changing flight 
+categories and wind shifts. Winds could go SE late morning/early
+afternoon, especially at KJFK. A few gusts 15-18kt possible.
+
+There is low chance for thunderstorms generally from 14-18Z for
+KJFK and KLGA. Confidence is too low at this time to include in
+TAFs at KTEB and KEWR.
+
+
+.OUTLOOK FOR 06Z SATURDAY THROUGH TUESDAY...
+
+Friday Night: MVFR/IFR in showers, mainly the first half of the
+night. Gradual improvement overnight.
+
+Saturday: Mainly VFR, except MVFR or lower possible isolated showers.
+
+Sunday through Tuesday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Seas build on Fri as low pres develops S of the waters and then
+tracks across LI. A sca has been issued on the ocean for this, 
+lasting thru Fri ngt. Winds increase all areas late Fri ngt. 
+Speeds are mrgnl so did not issue a sca on any of the protected 
+waters for this.
+
+SCA conditions could continue on the ocean waters through Saturday 
+for marginal 25kt gusts and 5 ft seas. Thereafter, conditions look 
+to remain below SCA.
+
+&&
+
+.HYDROLOGY...
+Around 1.5 to 2 inches of additional rainfall can be expected 
+thru Fri ngt. Locally higher amounts are possible in heavier
+showers/thunderstorms. The RFC ensembles indicate minor river 
+flooding possible across CT. FFG is lowest across NJ into NY. 
+For these reasons, a Flood Watch is in effect for all areas N 
+of NYC and LI, including portions of nrn NJ zones. Some areas 
+of minor urban and poor drainage flooding can be expected 
+outside of the watch area as well, but the more significant 
+flood risk in low attm. 
+
+There are no hydrologic concerns Saturday through mid next 
+week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Flood Watch through late tonight for CTZ005>012.
+NY...Flood Watch through late tonight for NYZ067>071.
+NJ...Flood Watch through late tonight for NJZ002-004-103-104.
+MARINE...Small Craft Advisory from noon today to 6 AM EDT Saturday for 
+     ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JMC/JT
+NEAR TERM...JMC/JT/DW
+SHORT TERM...JMC
+LONG TERM...JT
+AVIATION...MW
+MARINE...JMC/JT
+HYDROLOGY...JMC/JT

@@ -1,0 +1,208 @@
+103 
+FXUS61 KOKX 060801
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+401 AM EDT Fri Jun 6 2025
+
+.SYNOPSIS...
+A cold front slowly approaches the area today before passing through 
+on Saturday afternoon into evening. Weak high pressure then briefly 
+follows for Sunday followed by a series of weak lows passing to the 
+south and east Sunday night into Monday. A slow moving frontal system 
+will then work across the area Tuesday into early Wednesday. High
+pressure returns later in the day Wednesday and remains near the
+region through Friday.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+A surface trough lingers over or nearby the far NW portion of the 
+forecast area today. Meanwhile, shortwave lift approaches from the 
+west and passes through this afternoon into tonight. This forcing is 
+progged to be over the NW half of the area, and along with CAPES of 
+1000-2000 J/kg, this is where the better chances of showers and 
+thunderstorms will be during this period. Thunderstorms could be 
+strong given the CAPE, but shear is weak, so the threat of severe 
+storms is limited. The weak shear will however promote slow-moving 
+storm cells. PWATs will be highest (near 2 inches) in the vicinity 
+of the surface trough where moisture convergence will be greatest, 
+and the mid level flow, while weak, will still be parallel to the 
+horizontal orientation of this moisture convergence. This will then 
+promote the chances of training for any of these relatively slow-
+morning cells that may develop. The highest threat of flooding 
+impacts will therefore be over the far NW zones, where HREF 1 and 3-
+hour rainfall exceedance probabilities are the highest, and where WPC 
+maintains a marginal risk of flash flooding. Any flooding will more 
+likely be minor, but cannot rule out isolated flash flooding here. 
+Also can't rule out minor/poor drainage flooding for the rest of the 
+Lower Hudson Valley and adjacent areas.
+
+The rain threat then lowers late evening, but begins to increase 
+late at night, particularly for the NW portions where the surface 
+boundary remains and another shortwave approaches. CAPEs will be 
+much lower by this time, so left out thunder for the late night 
+hours. Otherwise, low temps above normal across the area and 
+probably at least some patchy fog overnight for parts of LI and CT 
+with a continued light onshore flow.
+
+&&
+
+.SHORT TERM /SATURDAY THROUGH SUNDAY NIGHT/...
+A pre-frontal trough and shortwave pass through during Saturday 
+morning, followed by a cold front during the afternoon and evening. 
+Showers likely for all but eastern LI and SE CT, but even here 
+chances are still 30-50%. Instability will be lower this time, but 
+thunderstorms remain possible. Severe storms not anticipated with 
+lower CAPE and shear remaining weak. Flooding impacts not 
+anticipated either with less training potential and faster forward 
+motion as compared to today. There should be less in the way of 
+clouds during the afternoon, and high temperatures probably end up a 
+few degrees above normal in most cases.
+
+High pressure builds in behind the departing cold front after 
+Saturday evening. This likely keeps us dry through the daytime on 
+Sunday, but still can't rule out some light rain in the afternoon, 
+mainly from around the city to points west. Rain chances then 
+increase at night as a broad area of low pressure approaches from the 
+south and west. Have PoPs capped at 50% for the time being, but 
+based on trends over the past day, might need to bump up chances 
+with subsequent updates. Highs for Sunday near normal in spite of an 
+abundance of mid to high level clouds.
+
+&&
+
+.LONG TERM /MONDAY THROUGH THURSDAY/...
+Stayed close to the NBM/previous forecast However, there continues 
+to be some timing and placement issues with some weather features 
+towards the beginning of the long term period. 
+
+The long term period starts off with a broad upper level trough over 
+the area with a series of weak lows expected to pass near the region 
+Monday into Tuesday. There is some uncertainty with the location of 
+a weak surface low passing to the south Sunday night into Monday 
+morning. Like its previous run, the 00Z GFS is far enough to the 
+south to keep the area dry. Meanwhile the ECMWF is far enough north 
+to bring some rainfall to the region, however not as wet as the 12z 
+run yesterday. The NBM for now has around a 20 POP for Monday 
+morning, with some drier conditions for Monday afternoon.  
+
+POPs increase again Monday night into Tuesday as a frontal system 
+works into the area. The best chances for rain at this time looks to 
+be Tuesday afternoon/evening. Will continue to carry a chance of 
+thunder, however, instability looks to be marginal at this time. The 
+cold front pushes across the region late Tuesday night into early 
+Wednesday morning. High pressure then builds in behind the front. 
+Can not rule out a few isolated showers Wednesday afternoon as the 
+upper low is a bit slower to depart. Dry weather then follows for 
+Thursday and Friday. 
+
+With cloud cover and rain chances, expect temperatures to remain in 
+the lower to middle 70s Monday and Tuesday. Temperatures then 
+gradually warm Wednesday through Friday, with temperatures in the 
+upper 70s and 80s. 
+
+&&
+
+.AVIATION /08Z FRIDAY THROUGH TUESDAY/...
+A cold front slowly approaches from the west through the TAF 
+period. 
+
+Mainly VFR through the TAF period. There is a chance for MVFR/IFR at 
+KGON and potentially KISP early this morning. There is also a chance 
+for showers and thunderstorms and MVFR conditions this afternoon and 
+evening, mainly from the NYC metro on NW. Additional MVFR cigs/vsbys 
+possible once again tonight into Saturday morning. 
+
+SW winds will remain less than 10 kt with most terminals becoming 
+light and/or variable early this morning. Winds should settle to the 
+SW-S by midday and remain there through the afternoon. Speeds will 
+be around 10 kt for most sites, but could be a few kt higher at 
+times near the coast. Light winds return for tonight.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Some wind direction variability is expected this morning, mainly 
+before 15z. 
+
+Amendments possible for timing of shower/thunderstorm potential 
+this evening.
+
+.OUTLOOK FOR 06Z SATURDAY THROUGH TUESDAY... 
+
+Friday night: Pockets of MVFR/IFR possible. Chance of a shower or 
+thunderstorm, mainly NW of the NYC metro. 
+
+Saturday: MVFR/IFR and showers possible. Slight chance of a 
+thunderstorm.
+
+Sunday: VFR daytime. Chance of MVFR and showers at night.
+
+Monday: VFR. Slight chance of a shower. 
+
+Tuesday: MVFR or lower possible. Showers likely with a chance of 
+thunderstorms in the afternoon and evening.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Winds and waves are expected to remain below SCA levels on all 
+waters through at least Saturday morning. Waves may reach 5 feet on 
+the ocean starting midday Saturday. With it being a late 3rd period 
+start, have decided to hold off on a SCA to see if models trend 
+lower with wave height forecasts. 5 ft seas could potentially
+linger into Saturday night.
+
+Thereafter, expect sub-advisory conditions through Tuesday. Waves of
+low pressure passing to the south and a southerly swell will 
+keep seas on the ocean 3 to 4 ft. Chances increase for marginal 
+SCA conditions for seas around 5 ft Tuesday night into 
+Wednesday. Seas should then fall below SCA conditions on 
+Thursday. 
+
+&&
+
+.HYDROLOGY...
+Rain amounts of a half inch to inch are expected today through 
+Saturday afternoon, but mainly from around the city to points north 
+and west. The higher amounts will more likely occur over the Lower 
+Hudson Valley, and amounts higher than an inch are possible here. 
+See the near term section above for potential impacts.
+
+No widespread hydrologic impacts otherwise for Saturday night through 
+Monday. 
+
+Showers and thunderstorms Tuesday into Tuesday night may produce at 
+least minor nuisance flooding. Low confidence at this time regarding 
+potential impacts this far ahead in time.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+There is a low rip current risk today for the Atlantic beaches,
+but a building SE swell will result in a moderate risk for Saturday.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...BC/JC
+NEAR TERM...JC
+SHORT TERM...JC
+LONG TERM...BC
+AVIATION...JC
+MARINE...BC/JC
+HYDROLOGY...BC/JC
+TIDES/COASTAL FLOODING...

@@ -1,0 +1,169 @@
+355 
+FXUS61 KOKX 240333
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1033 PM EST Thu Jan 23 2025
+
+.SYNOPSIS...
+Low pressure moves well offshore overnight ahead of a cold 
+frontal passage on Friday. High pressure then builds into the 
+area Friday night into Saturday before moving offshore Saturday 
+night. A cold front sweeps across Sunday, followed by another 
+cold front towards Tuesday or Tuesday night.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM FRIDAY MORNING/...
+Some adjustments needed to be made based on clearing skies and
+light winds. Several locations dropped well below the latest
+hourly forecast. However, with some weak cold advection 
+overnight, winds could come up enough to limit these areas from
+going much lower. Thus, plan to stay close to the current 
+forecast lows, but there is the potential for some locations to 
+be lower than forecast if winds don't come back up some. 
+
+
+Otherwise, high pressure over the area that has provided the 
+arctic air the last several days has weakened. A baroclinic 
+zone remains offshore along with a strong 170-180 kt jet streak 
+to our south. A wave of low pressure has developed offshore in 
+association with this jet energy. The flow will keep this low 
+well offshore overnight with dry conditions continuing along 
+with only a few clouds. Temperatures will still be well below 
+normal, but should be warmer than the last several nights. Low 
+temperatures look to range from around 10 degrees inland to the 
+middle and upper teens closer to the coast. The NYC metro may 
+not fall below 20 degrees. A few outlying areas and the LI Pine 
+Barrens could fall into the upper single digits. There will 
+likely be a light NW flow through the night, which may make it 
+feel like it is in the single digits to low teens at times, 
+especially early Friday morning.
+
+&&
+
+.SHORT TERM /6 AM FRIDAY MORNING THROUGH SATURDAY NIGHT/...
+An upper trough approaches on Friday along with an associated
+dry cold front. The front likely passes east by evening as the 
+shortwave axis begins to move offshore. The passage of the 
+trough and cold front will bring a reinforcement of cold air, 
+but not to the magnitude observed earlier this week. High 
+pressure builds towards the area Friday night, but most likely 
+remains to our south on Saturday with a surface ridge in place 
+over the northeast. The high then pushes off the Middle Atlantic
+and southeast Saturday night. This pattern will lead to dry 
+conditions through the period. 
+
+Lows Friday night will be in the single digits inland and teens
+most elsewhere. Winds will be light, but not completely calm 
+allowing wind chills to fall into the single digits to low 
+teens. Temperatures for Saturday look to range from the upper 
+20s inland to the lower 30s near the coast. 
+
+Moisture in the atmosphere gradually increases on Saturday.
+Zonal flow aloft will begin to send mid level clouds into the
+area in the afternoon and evening. A broad shortwave is then 
+progged to pass to our northwest at the same time as the surface
+high pressure moving offshore. Warm advection commences 
+Saturday night as a result with mostly cloudy skies and milder 
+temperatures. Low temperatures for most locations will be in the
+20s.
+
+&&
+
+.LONG TERM /SUNDAY THROUGH THURSDAY/...
+A predominantly dry and seasonably cold weather regime prevails
+in the long term period. Temperatures may dip back below 
+seasonal levels towards the end of the period getting closer to 
+mid week.
+
+The northern branch of the jet stream will remain dominant. With 
+energy closed off in the southern branch across the SW CONUS
+there will be the lack of a moisture source for the foreseeable
+future. The polar jet stream will be nearby throughout the 
+period. A cold front is expected to push through during Sunday. 
+The front will be moisture starved as mainly just some clouds 
+are expected preceding the front, with nothing more that a few 
+passing flurries across the interior.
+
+The main question during next week is whether the region gets 
+reintroduced to very cold / arctic air. A stronger cold front
+is expected to come down from Canada and cross the Great Lakes 
+early next week. Some of the global guidance is more aggressive 
+with the surge of cold air with a further south displacement and
+release of cold air. The latest 12z GFS and DWD global 
+deterministic models are in this camp, with the previous 0z 
+ECMWF deterministic not as aggressive with the drive south of 
+colder air. There are also timing differences with the boundary
+as the latest 12z ECMWF is a bit faster with the boundary and 
+drive it through sometime during the day Tuesday, with the GFS 
+driving it through later. The National Blend of Models (NBM) 
+continues to show an substantial increase in spread with 
+temperatures Tuesday night and through the mid to late week 
+period. Thus, the uncertainty with temperatures remains large 
+for the middle and latter part of next week. For the time being 
+went 1 to 2 degrees below NBM guidance Tuesday night through 
+Thursday.
+
+&&
+
+.AVIATION /03Z FRIDAY THROUGH TUESDAY/...
+High pressure remains over the region into Friday. A weak cold
+front passes through Friday evening.  
+
+VFR. 
+
+WSW winds 5-10kt will gradually veer to the WNW overnight,
+becoming NW Friday evening.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No unscheduled amendments expected. 
+
+.OUTLOOK FOR 00Z SATURDAY THROUGH TUESDAY...
+
+Friday Night-Saturday: VFR. 
+
+Sunday-Tuesday: VFR. W-WSW gusts 20-25 kt.
+
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+A weak pressure gradient will lead to winds and seas below SCA 
+levels through Saturday. A steepening pressure gradient Saturday 
+night results in increasing SW winds and the next chance for SCA 
+wind gusts and seas on the ocean. SCA conditions should then
+continue on the ocean waters for Sunday through Tuesday, with 
+marginal SCA conditions likely for the non-ocean waters on 
+primarily a west wind. Ocean seas during this time are expected 
+to be mainly between 4 and 6 ft.
+
+&&
+
+.HYDROLOGY...
+No hydrologic issues expected through the middle of next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JE/DS/DW
+NEAR TERM...DS/DW
+SHORT TERM...DS
+LONG TERM...JE
+AVIATION...DW
+MARINE...JE/DS
+HYDROLOGY...JE/DS

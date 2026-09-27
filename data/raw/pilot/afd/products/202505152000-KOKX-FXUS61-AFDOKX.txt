@@ -1,0 +1,210 @@
+886 
+FXUS61 KOKX 152000
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+400 PM EDT Thu May 15 2025
+
+.SYNOPSIS...
+A warm frontal boundary moves in from the south this evening and
+stalls within the area. Associated weak low pressure moves
+across late tonight into early Friday. Thereafter a surface
+trough moves across Friday and another one moves across
+Saturday. A low to the north sends a cold front through 
+Saturday night. This low lingers in New England and into the 
+Canadian Maritimes through Monday as high pressure pushes in. 
+High pressure remains in control Tuesday into Tuesday night. 
+Another frontal system impacts the area Wednesday into Thursday.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM FRIDAY MORNING/...
+For tonight, with any instability decreasing with the loss of 
+diurnal heating, shower and thunderstorm coverage is expected to
+considerably decrease with the absence of any significant 
+synoptic lift. Upper level trough will be shifting east of the
+area, taking the highest positive vorticity advection farther
+east of the region.
+
+Winds become light and variable direction. Another night of low
+clouds and fog is expected across the area. A relatively warmer
+guidance for low temperatures tonight using MET/NBM ranging from
+the mid 50s to lower 60s.
+
+&&
+
+.SHORT TERM /6 AM FRIDAY MORNING THROUGH SATURDAY/...
+A subtle mid level shortwave moves across Friday with some
+associated positive vorticity advection. At the surface, the
+frontal boundary across the area dissipates, leaving a general
+weak pressure gradient between low pressure well to the north
+and west and high pressure well to the south and east. 
+
+Light southerly flow at the surface is expected. A warmer day is
+expected. NBM/NBM 50th percentile combination used for daytime
+high temperatures, well into the 70s for most locations and some
+locations reaching 80. More instability will be generated at the
+surface as a result, making for a higher chance of showers and
+thunderstorms. Marginal risk for damaging winds with these 
+thunderstorms, particularly for areas that have more 
+instability.
+
+The convection trends downward Friday night with the loss of
+diurnal heating. Winds in lower levels increase. This will keep
+warmer min temperatures Friday night. Again used combination of
+NBM and NBM 50th percentile, with lows ranging from upper 50s to
+lower 60s. Fog will be possible but was not put in forecast due
+to uncertainty with how well mixed boundary layer could be.
+
+Upper level low approaches the region Saturday with greater
+height falls. At the surface, a cold front approaches from the
+north and west. There is a likely a pre-frontal trough that
+develops that will be the focus for convective initiation.
+Chances for showers and thunderstorms increase during the day
+with highest chances mid afternoon through early evening.
+
+The southerly flow increases Saturday and with further increase
+in winds in 5-10 kft, bulk shear increases. Warmer temperatures
+are forecast also using NBM and NBM 50th percentile. Outside of
+Twin Forks and SE Connecticut which have highs more in the lower
+70s, rest of area is in mid 70s to near 80 with NYC Metro and 
+parts of NE NJ getting more into the lower 80s. With more low 
+level instability and more bulk shear, there is more of a risk 
+for damaging winds with thunderstorms. SPC has western parts of 
+the region with a slight risk for severe thunderstorms.
+
+&&
+
+.LONG TERM /SATURDAY NIGHT THROUGH THURSDAY/...
+Key Messages:
+
+ * A cold front cuts off precip Saturday night. 
+
+ * Becoming mostly sunny on Sunday with only slight chances for 
+   showers. 
+
+ * Dry & quiet Monday into Tuesday.
+
+ * Another frontal system may bring a return to rainfall Wednesday 
+   into Thursday. 
+
+A surface low in southern Canada/northern New York sends a cold 
+front through Saturday night. Showers and/or any remaining 
+thunderstorms diminish with the passage of the cold front with drier 
+air getting advected in. 
+
+Mostly sunny skies take over as high pressure gradually builds in 
+from the northwest. To our northeast, low pressure will continue to 
+exit into New England and into the Canadian Maritimes through 
+Monday. This will lead to breezy W/WNW winds from an increased 
+pressure gradient through Monday. 
+
+An upper-level trough to our west on Saturday passes east SUnday 
+night. As it moves farther away, it takes the surface low with it 
+farther out to sea Monday night and thereafter. This allows a ridge 
+to our west with high pressure at the surface to fully take hold, if 
+briefly, Tuesday into Tuesday night. Dry conditions continue with 
+winds becoming light under a weak pressure gradient. 
+
+A frontal system from the Great Plains then moves into the Ohio or 
+Tennessee River Valleys on Tuesday, moving through or in the 
+vicinity of our region Wednesday into Thursday. Expecting showers 
+during this timeframe. Too soon to call chances for thunderstorms. 
+MOdel guidance still varies with timing, magnitude, and track of 
+this frontal system. Have gone with chance POPs Wednesday into 
+Thursday, as a result. 
+
+Temperatures look to cool each day in the long-term period. Highs on 
+Sunday will be in the low/mid 70s with all highs in the mid/upper-
+60s by Wednesday. Nightly lows will range from the mid-50s to the 
+mid-40s. 
+
+&&
+
+.AVIATION /20Z THURSDAY THROUGH TUESDAY/...
+Low pressure weakens and passes near or just south of Long Island 
+tonight. Another weak low approaches late Friday morning.
+
+Conditions vary significantly across the region from LIFR to VFR as 
+breaks in the overcast have developed along the south coast of Long 
+Island. Periods of VFR are possible along the coast into early this 
+evening. Toward sunset conditions lower again to LIFR and IFR, and 
+at times late tonight VLIFR. Conditions will be improving to MVFR 
+Friday morning. There will be a chance of showers with thunderstorms 
+Friday afternoon. Low confidence forecast with timing and conditions 
+for tonight.
+
+Winds light E/SE to light and variable become light and variable 
+throughout during this evening. A light south flow develops Friday 
+morning.
+
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Amendments expected for changing flight categories throughout the 
+TAF period.  
+
+.OUTLOOK FOR 18Z FRIDAY THROUGH TUESDAY...
+
+Friday afternoon: MVFR with showers and a slight chance of tstms.
+
+Saturday: MVFR. possibly IFR in the morning, becoming VFR in the 
+afternoon with showers likely, and a chance of thunderstorms with 
+MVFR.
+
+Sunday: Mainly VFR. Slight chance of showers inland. W winds G20-
+25kt.
+
+Monday - Tuesday: VFR. Monday NW winds G20-25kt.  
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+The Small Craft Advisory continues across the ocean waters east
+of Fire Island Inlet ocean segment ending at 6 PM. Otherwise,
+generally weak pressure gradient in place in the short term
+through Saturday with conditions remaining below small craft
+advisory thresholds.
+
+Winds and waves are currently expected to fall below SCA criteria 
+Saturday night through Tuesday. However, wind gusts may near SCA 
+criteria on all waters Sunday under an increased pressure
+gradient. 
+
+&&
+
+.HYDROLOGY...
+Basin averaged amounts with showers and thunderstorms is
+expected to be near quarter to a half inch with locally higher
+amounts through Saturday. Thunderstorms could result in areas
+experiencing minor flooding, especially within urban, low lying
+and poor drainage areas. With increasing translational speed to
+thunderstorms, flash flooding is not expected.
+
+There are currently no hydrologic concerns Saturday night through
+the middle of next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 6 PM EDT this evening for ANZ350-
+     353.
+
+&&
+
+$$
+
+SYNOPSIS...JM/BR
+NEAR TERM...JM
+SHORT TERM...JM
+LONG TERM...BR
+AVIATION...MET
+MARINE...JM/BR
+HYDROLOGY...JM/BR

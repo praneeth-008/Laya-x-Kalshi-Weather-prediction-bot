@@ -1,0 +1,174 @@
+924 
+FXUS61 KOKX 080519
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1219 AM EST Sat Mar 8 2025
+
+.SYNOPSIS...
+Strong low pressure continues to drift north tonight toward 
+Newfoundland. A weakening frontal system otherwise passes to 
+our south early Saturday, with a weakening cold front quickly
+following it from the northwest. High pressure then begins to 
+build in thereafter from the west and largely maintains control
+of the area through next week, though there will be a few weak 
+disturbances that move by.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM THIS MORNING/...
+Lowered dewpoints with this update by several degrees in some areas 
+based on latest observations. With large dewpoint depressions, 
+removed any chances of precip before midnight as well.
+
+A shearing weak area of low pressure with attendant cold front 
+slides south of the region overnight. With little forcing and 
+moisture, not anticipating much more than a mid level cloud deck 
+locally, though can't rule out a few spotty light rain or snow 
+showers, likely confined to Long Island, NYC, and NE NJ if any were 
+to occur. Hi res CAMs keep most dry, with measurable precip confined 
+offshore. Temperatures overnight bottom out just below freezing 
+across the interior, to the mid 30s along the coast.
+
+&&
+
+.SHORT TERM /6 AM THIS MORNING THROUGH 6 PM SUNDAY/...
+Early morning cloud cover erodes by afternoon, setting up abundant 
+sunshine to start the weekend. Conditions remain gusty though, 
+another day with a well mixed BL above 800 mb, thanks to CAA 
+from the north and west. Though the flow aloft is gradually 
+relaxing, still progging up to 40 kt at the top of the layer, 
+which should keep conditions gusty thru the day. Values likely 
+largely fall short of Advisory criteria, so no headline, but 
+expect frequent gusts 30 to 35 mph, with a few likely topping 40
+mph.
+
+Given the CAA, Saturday is likely the coldest day of the next week 
+or so, though nothing notable for March standards. In fact, 
+afternoon highs won't be too far from climo normals this time of 
+year, generally topping out in the low to mid 40s. The blustery 
+conditions will add an extra chill however, so anticipate wind 
+chills in the 30s much of the day.
+
+Conditions will also be dry to start the weekend. Deep mixing in the 
+daytime should bring RH values down to around 30 percent. Coupled 
+with the gusty NW wind, conditions could pose fire weather
+concerns. See Fire Weather section below for further detail.
+
+&&
+
+.LONG TERM /SUNDAY NIGHT THROUGH FRIDAY/...
+The area remains in a subtle longwave trough on Sunday with a low 
+pressure system passing well to the north of the area. Embedded mid-
+level energy passes overhead resulting in a weak surface trough 
+which may briefly tighten the pressure gradient. This would make for 
+an increase in the wind ahead of and behind the surface trough on 
+Sunday. This may also result in localized increased cloud cover but 
+no precipitation.
+
+High pressure then gradually builds over the area through the 
+beginning of the week as the longwave mid-level flow becomes more 
+zonal. An increased S/SW flow remains over the area from the 
+beginning to the middle of the week as another low pressure passes 
+well north of the area. Though a cold front moves through Tuesday 
+into Tuesday night, dry conditions are expected. High pressure then 
+remains in control much of the rest of the week as low pressure 
+systems pass to the north and south of the area. The only chance for 
+some light rain showers is Thursday with the potential for weak mid-
+level energy to break off a developing low over the Central US, but 
+capped this potential at slight chance or a low end chance as there 
+isn't much model consensus as of now.
+
+The most noticeable sensible weather change in the long term is the 
+gradual warm up of the area through much of next week. Highs 
+temperatures on Sunday will be generally in the middle 40s to near 
+50. By Monday, highs will be in the middle 50s to near 60 for the 
+NYC metro and N NJ. The warming trend continues into midweek with 
+highs Tuesday and Wednesday in the upper 50s to middle to upper 60s 
+for western portions of the area under a S/SW flow. Temperatures may 
+moderate a little bit toward the end of the week but should remain 
+in the 50s.
+
+&&
+
+.AVIATION /06Z SATURDAY THROUGH WEDNESDAY/...
+The region remains between strong low pressure to the northeast 
+and high pressure to the southwest.
+
+VFR. West winds at 10kt or less through the pre-dawn hours, then 
+winds begin to increase, especially after around 14z. Gusts to 
+around 30kt by noon, lasting through the afternoon before winds 
+diminish tonight.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No unscheduled amendments expected.
+
+.OUTLOOK FOR 06Z SUNDAY THROUGH WEDNESDAY...
+
+Saturday night: VFR.
+
+Sunday - Monday: VFR.
+
+Tuesday: VFR, SW-S gusts up to 20kt PM.
+
+Wednesday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+SCA in effect for all waters with winds increasing towards daybreak 
+and through the day Saturday. 30 kt gusts likely during the day, and 
+occasional gale force gusts possible. Winds briefly lighten once 
+again Saturday night.
+
+SCA conditions will be possible on the ocean on Sunday with 
+gusts near 25kt as a surface trough moves through the area. Sub-
+SCA conditions are then expected through the beginning of next 
+week. The next chance for SCA conditions will be Tuesday night 
+into Wednesday with a cold frontal passage possibly bringing 
+gusts to near 25 kt again with wave heights on the ocean near 5 
+feet.
+
+&&
+
+.FIRE WEATHER...
+Windy and dry conditions will couple to allow for an increased 
+risk in fire spread on Saturday. Relative humidity values are 
+forecast to sit around 30 percent in the afternoon, with 
+frequent gusts 30 to 35 mph. In coordination with fire weather
+partners, a Special Weather Statement was hoisted across all
+areas tomorrow to highlight this elevated danger should ignition
+occur.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 7 PM EST this evening for ANZ331-
+     332-335-338-340-345.
+     Small Craft Advisory until 1 AM EST Sunday for ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...DR/MW
+NEAR TERM...JC/DR
+SHORT TERM...DR
+LONG TERM...MW
+AVIATION...JC
+MARINE...DR/MW
+FIRE WEATHER...
+HYDROLOGY...DR/MW

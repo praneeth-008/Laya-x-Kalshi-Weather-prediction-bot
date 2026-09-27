@@ -1,0 +1,241 @@
+339 
+FXUS61 KOKX 312339
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+739 PM EDT Mon Mar 31 2025
+
+.SYNOPSIS...
+Low pressure tracks through southeastern Canada tonight dragging 
+a cold front across the region. High pressure builds in from 
+the north Tuesday and Tuesday night. The high over southern 
+Quebec builds southeastward Wednesday, pushing off the New 
+England coast Wednesday. Thereafter, an unsettled pattern sets 
+up with a frontal boundary near or over the area through the end
+of the week into next weekend.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM TUESDAY MORNING/...
+First batch of showers and thunderstorms out ahead of the
+approaching cold front has moved through portions of NYC and 
+northeast NJ. Some training has prompted the issuance of a 
+Flood Advisory for portions of these areas, and is in effect 
+until 8 pm. Otherwise, more showers and thunderstorms have 
+developed to the west of the forecast area, from northern NJ, 
+southwestward into eastern PA. This line was moving into some 
+higher instability in regards to MUCAPE according to the SPC 
+mesoanalysis, but it looks to have decreased over the past 
+couple of hours. 
+
+The threat of strong to locally severe thunderstorms remains 
+across northeastern New Jersey, New York City, the lower Hudson 
+Valley and into portions of southwestern Connecticut and western
+Long Island. The primary threat remains damaging wind gusts, 
+with large hail also possible, and an isolated tornado cannot be
+totally ruled out. With the cold front moving into the region 
+by late evening, the severe thunderstorm threat diminishes and 
+the focus of any thunderstorms will be generally east of New 
+York City and across much of southern Connecticut. And with a 
+marine influence and a low level cap in place, thunderstorms 
+will become more isolated. The CAMs have handled the development
+and track of the thunderstorms rather well for this evening, 
+and leaned toward them for timing and probabilities.
+
+Once the cold front passes through winds shift to a gusty
+northwest flow, and precipitation moves east of the area by
+Tuesday morning.
+
+&&
+
+.SHORT TERM /6 AM TUESDAY MORNING THROUGH TUESDAY NIGHT/...
+Tuesday and Tuesday night will be dry with temperatures bear
+normal Tuesday, and slightly below normal Tuesday night as skies
+will be mainly clear and winds will be diminishing. Temperatures
+will be below freezing outside of the New York City metro area,
+and in the mid to upper 30s in the metropolitan area. The
+growing season begins April 1 for the metro area, and with the
+forecast low Tuesday night, frost headlines will be possible.
+
+&&
+
+.LONG TERM /WEDNESDAY THROUGH MONDAY/...
+An unsettled pattern sets up for much of the long term as 
+frontal boundary lies over or nearby the forecast area, with 
+waves of low pressure riding along the boundary at times, 
+bringing higher chances for precipitation.
+
+Wednesday looks to remain dry during the day as high pressure 
+slides off the New England coast. Meanwhile, a low pressure 
+system over the northern Great Plains lifts northeast into the 
+Great Lakes region, sending a warm front north of the area late 
+Wednesday night into Thursday morning. The associated cold front
+moves through late Thursday night into Friday morning with high
+pressure nosing in from the north for Friday afternoon into 
+Friday night, pushing the cold front farther south. However, the
+front lifts north once again Saturday into Saturday night and 
+remains nearby through the end of the weekend. 
+
+In terms of chances for precipitation, there will be some 
+uncertainty in the placement and timing of the frontal features 
+and any waves of low pressure that move through/nearby the 
+forecast area. However, a weak low that forms along the frontal 
+boundary to our southwest will give the western half of the 
+forecast area a decent chance for rain late Thursday night. The 
+low weakens as it heads east, giving eastern areas less of a 
+chance for precipitation. Friday afternoon into the first half 
+of Friday night looks to be dry as outer fringes of high 
+pressure from the north nose into the area during this time 
+frame. Then better chances for precipitation for the entire area
+late Saturday into Saturday night as another low possibly forms
+along the frontal boundary. Chances for precipitation decrease 
+for Sunday as the warm front lifts north and the cold front 
+approaches from the west. However, the area doesn't totally dry 
+out until sometime Monday afternoon. 
+
+Depending on what side of the frontal boundary the area lies on
+will dictate whether we will be above/below/near normal through
+the period. The warm front lifting north on Thursday will mean 
+warm temperatures, with highs in the 70s away from the coast. 
+Upper 50s to 60s are expected along the coast. Cooler, but still
+above normal temperatures for Friday. Close to normal expected 
+on Saturday with high pressure building in from the north. Then 
+above normal for Sunday as another warm front lifts north.
+
+&&
+
+.AVIATION /00Z TUESDAY THROUGH SATURDAY/...
+A cold front will move through the terminals this evening. High
+pressure will build in on Tuesday.
+
+A few showers/thunderstorms have developed ahead of the main
+line of rain and are expected to remain nearby city terminals
+until the main line of thunderstorms moves in 00-04Z through the
+city. Thunder could make it as far east as KISP. S CT will like
+just be moderate to heavy showers with less of a chance of 
+thunderstorms. Conditions may lower to IFR in thunderstorms and
+MVFR in showers. From 06Z-11Z the main line of 
+showers/thunderstorms should be east of the area with light 
+showers ending west to east across all terminals.
+
+Gradual improvement expected after midnight from west to east.
+VFR for Tuesday.
+
+Winds will be S/SW early tonight around 7-12kt with a few gusts
+near 20 kt, mainly for coastal locations. THunderstorms could 
+lead to temporarily stronger NW winds 20-25 kt with gusts up to 
+40 kt. Winds become NNW behind the cold front tonight and on 
+Tuesday will be 14-18 G23-27KT. Winds drop below 10 kt Tue night
+from a mostly due N direction. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Southerly gusts around 20 kt may be occasional until the front
+passes.
+
+Amendments likely for timing of SHRA/+SHRA/TSRA early tonight.
+
+Thunderstorms in the 0Z-04Z time window could have strong gusty
+winds and hail.
+
+Amendments likely to refine timing of SW to NNW wind direction 
+changes such as with the cold front.
+
+
+.OUTLOOK FOR 00Z TUESDAY THROUGH FRIDAY...
+
+Wednesday: Mainly VFR during most of the day. MVFR or lower 
+possible late afternoon and at night with a chance of showers. 
+SE wind gusts 15-20 kt afternoon into evening.
+
+Thursday: MVFR or lower possible with a chance of showers,
+eventually becoming likely at night. SW wind gusts 15-20kt, 
+highest along the coast day into evening.
+
+Friday: MVFR or lower possible early with a chance of showers.
+Mainly VFR afternoon and at night.
+
+Saturday: MVFR or lower likely in rain showers.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+A small craft advisory remains in effect for all the forecast
+waters into Tuesday morning as strong gusty winds continue ahead
+of a cold front, and then for gusty northwest winds late tonight
+through Tuesday morning behind the front. Winds and gusts
+diminish below advisory levels on the waters by Tuesday
+afternoon, however, ocean seas will remain elevated into 
+Tuesday night, and the advisory was extended.
+
+Winds remain below 25 kt over all waters Wednesday and much of 
+Wednesday night. The approach of a cold front Thursday will 
+bring winds back up to 25 to 30 kt over most if not all waters 
+as a low level jet strengthens over the area. Winds diminish 
+below 25 kt by late Thursday night and remain below 25 kt 
+through the rest of the long term.
+
+5 ft waves on the ocean waters for Wednesday morning fall below 5 ft 
+by late morning into the afternoon. They quickly build to 5 ft again 
+early Wednesday night as southerly flow increases. Waves peak to 5 
+to 9 ft on the ocean waters by Thursday afternoon, then diminish 
+through  Friday morning to less than 5 ft.
+
+&&
+
+.HYDROLOGY...
+Showers and embedded thunderstorms are expected into tonight,
+with widespread rainfall around an inch, and an area of up to 1
+1/2 inches across northeastern New Jersey, across New York City,
+and into portions of the lower Hudson Valley into southwestern
+Connecticut. Locally higher amounts are possible. The primary
+concern if flooding occurs is localized minor 
+nuisance/urban/poor drainage flooding.
+
+After tonight no hydrologic impacts are expected through the
+weekend.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+Water levels have been lower than fcst, and with astronomical
+tide levels trending slightly lower for tonight, this will 
+limit any minor coastal flooding to isolated spots along some 
+shoreline locations of the South Shore Bays of Long Island and
+the western Long Island Sound shoreline along Southern Fairfield
+CT. A coastal flood statement has been issued for these areas
+for tonight.
+
+Timing of wind shift compared to time of high tide does not give
+much factor to offshore flow. Time before high tides will be 
+mostly onshore. Both South Shore Bays and Western Long Island 
+Sound will have high tide pass before more continuous gusty NW 
+offshore flow gets established.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until noon EDT Tuesday for ANZ331-332-335-
+     338-340-345.
+     Small Craft Advisory until 6 AM EDT Wednesday for ANZ350-353-
+     355.
+
+&&
+
+$$
+
+SYNOPSIS...JP/MET
+NEAR TERM...JP/MET
+SHORT TERM...MET
+LONG TERM...JP
+AVIATION...BR
+MARINE...JP/MET
+HYDROLOGY...JP/MET
+TIDES/COASTAL FLOODING...

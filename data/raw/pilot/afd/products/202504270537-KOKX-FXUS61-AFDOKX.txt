@@ -1,0 +1,173 @@
+173 
+FXUS61 KOKX 270537
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+137 AM EDT Sun Apr 27 2025
+
+.SYNOPSIS...
+A cold front has moved southeast of Long Island with low pressure
+remaining nearly stationary over Maine for the rest of tonight.  
+High pressure then builds in from the west Sunday through Sunday
+night, and then across the area on Monday. The high pushes off 
+the Mid-Atlantic Coast Monday night into Tuesday, giving way to 
+an approaching frontal system that moves across the area Tuesday
+night into Wednesday morning. High pressure briefly return 
+returns Wednesday night into Thursday before another frontal 
+system impacts the area for the end of next week.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM THIS MORNING/...
+Cold front has exited southeast of Long Island. Surface flow
+has transitioned to gusty NW winds. Increased clouds across the
+area, especially for the northern half of the forecast area 
+within the interior. This is in response to cyclonic flow aloft 
+as an upper level low moves east through Northern New England. 
+Stratocumulus have moved farther southeast within the forecast 
+region from the Lower Hudson Valley down to NYC Metro and parts
+of NYC.
+
+Minor changes made to temperatures and dewpoints to better 
+match observed trends.
+
+Late tonight winds and gusts increase and blended in the higher
+NBM 90th percentile. Lows will be near normal.
+
+&&
+
+.SHORT TERM /6 AM THIS MORNING THROUGH 6 PM MONDAY/...
+A gusty cyclonic flow will persist through the day Sunday as a
+the upper and surface lows remains over Maine and a upper ridge
+and surface high remain to the west. Once again blended in the
+higher 90th percentile NBM along with the bias corrected 
+CONSALL for gusts Sunday afternoon, and the 90th NBM for 
+sustained winds. During the peak mixing Sunday afternoon a few 
+sustained winds and occasional gusts will be near advisory 
+levels, however, with only a few reports expected have not 
+issued a winds advisory. The upper low and upper ridge begin to 
+track east late Sunday and into Sunday night, and with the loss 
+of peak mixing winds and gusts will be rather quickly 
+diminishing into Sunday evening. Temperatures Sunday and Sunday 
+night will be near seasonal normals.
+
+&&
+
+.LONG TERM /MONDAY NIGHT THROUGH SATURDAY/...
+Global models and their ensembles are in relatively good 
+agreement through the period with some frontal timing issues, in
+particular at the end of next week. Operational GFS is fastest 
+again, similar to what we saw leading up to the most recent 
+frontal system. Thus, stayed close to NBM guidance with minor 
+adjustments to known biases. 
+
+An anomalously strong upper ridge (+1-2SD) from the mid section
+of the country to the eastern seaboard at the start of the 
+forecast period will translate east through Tuesday. Southern 
+branch energy lifting along the backside of the ridge will link 
+up with a digging northern branch across central Canada, sending
+a frontal system over top of the ridge. Warm front lifts across
+the area late Tuesday, followed by a cold frontal passage 
+Wednesday morning. The latter of which looks uneventful with 
+weak forcing and little moisture. High pressure then briefly 
+follows Wednesday night into the first half of Thursday before 
+the front lifts north as a warm front late Thursday, followed by
+a cold frontal passage Friday night. Once again, GFS is on the 
+faster side of the operational envelope. So the consenus 
+approach works best at this time. This is the stronger of the 
+systems with a good chance of showers, possibly thunder. The 
+latter of which will send the warm upper ridge out into the 
+western Atlantic at the end of the week. 
+
+As for temperatures, they will be above normal through the mid 
+week, with Tuesday being the warmest. Highs will be 75-80 away 
+from the coast, and 60s along the coast. Temperatures fall back 
+to seasonable on Thursday, with 60s expected region-wide, with 
+warmer readings expected for Friday ahead of the next frontal 
+system. NBM box and whisker plots show very little spread 
+through Tuesday, but then larger spreads mid week on with some 
+frontal timing issues. Tuesday could be warmer, but a subsidence
+inversion looks to limit the full potential at this time.
+
+&&
+
+.AVIATION /06Z SUNDAY THROUGH THURSDAY/...
+High pressure builds in from the west through tonight.
+
+VFR. NW winds 20G25-30kt increase 25G35kt later this morning 
+and last through around sundown. Winds diminish this evening 
+with gusts ending after midnight. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Peak gusts around 35kt through around 14z with up to 40kt 
+possible thereafter until 00z.
+
+Winds likely favor left/south of 310 magnetic until around
+14-15z, then right/north of it thereafter.
+
+.OUTLOOK FOR 06Z MONDAY THROUGH THURSDAY...
+
+Late tonight: VFR. 
+
+Monday: VFR.
+
+Tuesday: Mainly VFR. Slight chance of MVFR with showers at
+night. SW gusts 20-25 possible in the afternoon and evening.
+
+Wednesday: VFR.
+
+Thursday: VFR during day. MVFR possible with a chance of 
+showers, slight chance of thunderstorms at night.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+SCA in effect for the non-ocean zones until 10PM Sunday 
+evening. SCA in effect for the ocean until 3AM Monday.
+
+Wind gusts are likely to remain near 25 kt on non-ocean waters
+overnight tonight through early Sunday and into Sunday evening.
+
+And for the ocean waters both gusts and seas will remain at 
+advisory levels into late Sunday night. However, conditions may
+be improving earlier across the western ocean waters.
+
+High pressure building over the waters early next week will 
+result in below SCA levels through Tuesday. Wind gusts around 25
+kt are possible over the ocean and south shore bays Tuesday 
+night with the approach and passage of a cold front. Waves build
+to 4 to 7 ft on the ocean waters during this time frame. Waves 
+slowly diminish late Tuesday night, falling below SCA criteria 
+on Wednesday. High pressure then briefly follows into Thursday.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through next week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 10 PM EDT this evening for ANZ331-
+     332-335-338-340-345.
+     Small Craft Advisory until 3 AM EDT Monday for ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...MET/DW
+NEAR TERM...JM/MET/DW
+SHORT TERM...MET
+LONG TERM...DW
+AVIATION...JC
+MARINE...MET/DW
+HYDROLOGY...MET/DW

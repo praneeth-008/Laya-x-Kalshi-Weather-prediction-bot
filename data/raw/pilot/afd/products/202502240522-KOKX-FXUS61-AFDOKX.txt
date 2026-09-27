@@ -1,0 +1,190 @@
+987 
+FXUS61 KOKX 240522
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1222 AM EST Mon Feb 24 2025
+
+.SYNOPSIS...
+High pressure will be in place tonight, and slide east on 
+Monday. A weak cold front then moves through late Tuesday into 
+Tuesday night. Weak high pressure briefly returns Wednesday 
+before a quick moving frontal system affects the region 
+Wednesday night into Thursday. High pressure briefly returns 
+Friday into Friday night before a clipper system and cold front 
+moves through the northeast US next weekend.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM THIS MORNING/...
+Forecast on track through the rest of tonight. Mid level 
+shortwave shifts through the region tonight, accompanied by 
+moisture centered around 500mb. Not enough moisture overall for 
+any precip, but it will leave us with a cloudy sky for much of
+the night. This will also help limit radiational cooling in 
+spite of light to calm winds from a weak surface pressure 
+gradient. Clouds start to diminish towards day break for a 
+brief window of radiational cooling. Lows mostly 30-35 for 
+coastal areas and lower to mid 20s inland and pine barrens of 
+LI.
+
+&&
+
+.SHORT TERM /6 AM THIS MORNING THROUGH 6 PM TUESDAY/...
+High pressure will be centered off the Northeast coast on Monday. 
+This will set up a return southerly flow for the local area. Winds 
+arriving from the cold waters will hold high temperatures in the 40s 
+for most of the area, however some 50 degree readings are 
+anticipated in the urban corridor of NE NJ. Cirrus will begin to 
+filter in by late in the day after a sunny start. 
+
+Surface low pressure and a mid level shortwave pass well to our 
+north tonight, but there could be just enough moisture focused along 
+surface trough to trigger a shower late at night across the far NW 
+portion of the area with some PVA. Another shortwave then approaches 
+from the Ohio Valley on Tuesday and begins to shift through heading 
+into the evening. More low to mid level moisture will arrive with 
+this feature, and the surface trough nearby perhaps strengthens into 
+a weak cold front. This combination the moisture and lift then 
+brings a chance of showers to the entire area, with the better 
+overall chances north and west of the city.
+
+&&
+
+.LONG TERM /TUESDAY NIGHT THROUGH SUNDAY/...
+Key Points:
+
+* Temperatures will likely run 5 to 10 degrees above normal 
+  Wednesday and Thursday. A return to more seasonable temps for 
+  Fri/Sat, and possibly below normal to end the weekend. 
+
+* Mainly dry conditions are expected through mid week. A quick 
+  moving frontal system will likely affect the region Wed Night into 
+  Thursday.
+
+Quasi-zonal upper flow to start the period with PAC jet riding the 
+northern tier of the CONUS around expansive polar trough across 
+southern Canada. Within this flow, a series of shortwaves will 
+traverse the northern tier of the US towards the region and 
+successively amplify eastern US troughing through the late week.
+ 
+First shortwave of note (PAC origin), will eject from the Rockies 
+into northern plains Monday and through the region by Tuesday Night. 
+The result will be a quick moving and weak cold front passing east 
+Tuesday Night, with any light rain shower activity Tue aft/eve 
+coming to an end and a weak shot of caa. 
+
+Thereafter, increasing model agreement over the last 48hrs in 
+further longitudinal amplification of troughing across the eastern 
+1/2 of the US Thu/Fri in response to a phased PAC and polar 
+shortwave digging through the Central US Wed Night/Thu and into the 
+SE US Thu NIght/Fri. ECE and GEFS coming into better agreement with 
+the amplitude/timing of a neutrally tilted trough approaching the 
+east coast, before negatively tilting offshore. The deeper model 
+trend with this trough, with a bit of southern stream interaction, 
+does open the potential for a bit more moisture to be entrained into 
+the resultant frontal system, but overall limited QPF potential with 
+a progressive passage on Thu and WCB not getting going until east of 
+the region. GEFS, GEPS, ECE probs of 1/2" rain in 24 hours are all 
+20% or less at this point. If the trough trends towards a more 
+negative negative tilt orientation, would have potential for a 
+wetter solution than currently forecast, but low prob at this point.
+
+Overall looking at a light rain rain event with the frontal system 
+approaching late Wed night and moving through the region Thu. 
+Unseasonably mild temps Wed Night and Thu in deep SSW flow ahead of 
+the cold front, although cloud cover and onshore flow will likely 
+hold temps in the 50s interior and 40s for south coasts. 
+Deterministic NBM looks reasonable and generally lies near the 75th 
+percentile of the ensemble cdf.
+
+A shot of Canadian air, drying conditions, and return to more 
+seasonable temps Thu Night into Friday in wake of cold frontal 
+passage. Perhaps a few rain/snow showers Friday AM into early aft as 
+trough axis moves through.
+
+General agreement in polar troughing exerting more influence on the 
+NE US for the second half of the weekend into early next week, 
+although there is inherent model spread and run to run inconsistency 
+at this time range on track/intensity of a resultant clipper system 
+tracking through southern Ontario/Quebec and northern New England on 
+Sat/Sat Night, and magnitude of polar intrusion in its wake. This 
+clipper system could bring the next chance for a limited rain/snow 
+threat, with a return to below normal temps likely during this time 
+period.
+
+&&
+
+.AVIATION /06Z MONDAY THROUGH FRIDAY/...
+High pressure continues to move offshore early this morning. A 
+frontal system then approaches from the west late this afternon into 
+tonight. 
+
+VFR. 
+
+Light and variable flow through the early morning. Wind direction 
+becomes SE-S mid to late morning with speeds 10-12 kt by afternoon. 
+Winds veer slightly to the SSW this evening.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Timing of winds becoming SE-S this morning may be off by 1-2 hours.
+
+.OUTLOOK FOR 06Z TUESDAY THROUGH FRIDAY...
+
+Monday Night: VFR.
+
+Tuesday: Mainly VFR. Slight chance of showers and MVFR.
+
+Wednesday: VFR.
+
+Thursday: Showers and MVFR possible. S-SW winds G15-20kt in the 
+afternoon.
+
+Friday: VFR. NW winds G15-20kt.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+The pressure gradient remains weak tonight through Monday with high 
+pressure in control. With the high moving offshore Monday into 
+Monday night, and with the approach of a weak cold front, southerly 
+winds will increase late Monday into Monday night. With warmer air 
+moving over the cold ocean waters during this time mixing will be 
+limited with gusts also limited, with gusts nearing 25 kt for a 
+brief period Monday night. A weak cold front crosses the waters late 
+Tuesday into Tuesday night with sub-advisory conditions continuing 
+through the period.
+
+Next chance for SCA conds on the ocean late Wed Night into Thu with 
+strengthening SSW flow ahead of next approaching frontal system. SCA 
+ocean seas could linger through Friday in wake of frontal system.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts are expected through the end of the week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JC/NV
+NEAR TERM...JC/DS
+SHORT TERM...JC
+LONG TERM...NV
+AVIATION...BR/DS
+MARINE...JC/NV
+HYDROLOGY...JC/NV

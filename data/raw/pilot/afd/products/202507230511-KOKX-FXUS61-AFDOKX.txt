@@ -1,0 +1,172 @@
+315 
+FXUS61 KOKX 230511
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+111 AM EDT Wed Jul 23 2025
+
+.SYNOPSIS...
+High pressure centered over the region on Wednesday will remain
+in control through Thursday. High pressure will slide to the 
+east of the area on Friday. A cold front then moves through late
+Friday into early Saturday with another frontal system possibly
+impacting the area for later in the weekend.
+
+&&
+
+.NEAR TERM /THROUGH TODAY/...
+Mainly clear skies and comfortable for tonight, although not 
+quite as cool in the outlying locations as the previous night 
+with 500 mb heights beginning to ensue. Most lows will be in the
+60s, with some upper half of the 50s in the northern and 
+northwestern interior locations with light to calm winds. There 
+may be a few pockets of radiational patchy fog in some of the 
+valleys late in the overnight across portions of the cooler 
+interior.
+
+On Wednesday the air mass begins to undergo some modification as 500 
+mb heights build to 590 dm with 1000-500mb thicknesses beginning to 
+inch up. Also, later in the day a light return flow attempts to get 
+initiated as the region begins to get on the back side of high 
+pressure which gets further east. Therefore dew point readings begin 
+to inch up some and get back into the lower 60s. Temperatures will 
+also get back to normal levels with mainly middle and upper 80s for 
+day time maxes, with a few spots in urban NE NJ possibly reaching 90.
+
+&&
+
+.SHORT TERM /TONIGHT THROUGH 6 PM THURSDAY/...
+With large scale ridging in place look for warmer temperatures and 
+increasing humidity. Towards early Thursday 500 mb heights get on 
+either side of 594 dm, and by Thursday afternoon global progs have 
+1000-500 mb thicknesses climbing to 576+ dm. This should lead to 
+much of the area approaching middle and upper 90 heat indices. 
+Therefore lows Wednesday night will be noticeably warmer with mainly 
+upper 60s and lower half of the 70s. During the day Thursday look 
+for hot and humid conditions with a good deal of sun. With 850 mb 
+getting to around 18 C temperatures should reach upper 80s and lower 
+90s widespread, with possibly a few middle 90s in the more metro 
+locations of NE NJ and NYC. Thus, at least for now it appears
+that heat advisory criteria does not get met on Thursday, but
+somewhat close in a few of the urban locations. With BUFKIT 
+forecast soundings quite dry in the mid levels and large scale 
+capping in place the region will remain shower and thunderstorm 
+free through mid week.
+
+&&
+
+.LONG TERM /THURSDAY NIGHT THROUGH TUESDAY/...
+The NBM was largely followed with this update with no major changes. 
+
+**Key Messages**
+
+* Hot and humid conditions continue Friday and Saturday with heat 
+  indices in the low 100s Friday and mid/upper 90s Saturday.
+
+* Showers/thunderstorms are possible with a cold front Friday 
+  night/Saturday morning then again from Sunday into Monday.
+
+Upper ridge overhead to start the period with the ridge axis east of 
+the area by Friday evening with a more zonal upper level flow into 
+the weekend. With heights building into Friday, h850 temperatures of 
+18-21C in a well mixed layer should result in surface temperates in 
+the mid to upper 90s, and looks to be the warmest day of the period. 
+These temperatures combined with dewpoints in the mid to upper 70s 
+will yield heat indices in 100-105 degree range. A cold front then 
+approaches later on Friday, which will initiate a round of showers 
+and thunderstorms. The airmass ahead of the front is marginally 
+unstable with PWATS >2.0", though shear is lacking. CSU machine-
+learning guidance does maintain around 15% probabilities of severe 
+thunderstorms across mainly the interior. The front then stalls to 
+our south, given the aforementioned zonal flow aloft.
+
+Saturday is a bit more uncertain with respect to the excessive heat 
+given any lingering cloud cover in the morning. h850 temperatures do 
+tick a few degrees down, resulting in highs in the mid and upper 
+80s, yielding heat indices in the mid and upper 90s.
+
+Heat headlines may be needed Friday and Saturday should the current 
+temperature and dewpoint forecasts hold.
+
+&&
+
+.AVIATION /06Z WEDNESDAY THROUGH SUNDAY/...
+High pressure remains over the region overnight, then slides 
+offshore on Wednesday, and remains offshore into Thursday.
+
+VFR through the forecast period. 
+
+Winds light and variable overnight become S up to 10 kt
+Wednesday. A few gusts up to 20 kt are possible Wednesday 
+afternoon but not confident enough in frequency and occurrence 
+to include in the TAFs at this time. Winds become light SW to
+light and variable Wednesday night. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+A few gusts up to 20 kt possible Wednesday afternoon.
+
+.OUTLOOK FOR 06Z THURSDAY THROUGH SUNDAY... 
+
+Late Wednesday night: VFR.
+
+Thursday: VFR. South winds G20-25kt, highest at the coast.
+
+Friday: VFR likely through morning, possibly followed by periods of 
+sub VFR in showers and thunderstorms for the afternoon and
+evening. Southwest winds G15-20kt.
+
+Saturday: VFR with scattered showers and thunderstorms during the 
+afternoon and at night.
+
+Sunday: Mainly VFR. MVFR or lower possible in any showers or
+thunderstorms.
+
+Detailed information, including hourly TAF wind component 
+forecasts, can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Sub advisory conditions prevail through Wednesday night and most of 
+the day Thursday. Winds may approach SCA gusts on waters as early as 
+late in the day Thursday, or by Thursday evening as ocean seas inch 
+up closer to 4 ft. Winds may approach SCA gusts on the waters again 
+late Friday. Sub-SCA conditions expected thereafter.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns at this time.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+A moderate rip current risk continues at ocean beaches into this 
+evening. The rip current risk remains low on Wednesday as seas and 
+swells subside in combination of a developing light S flow in the 
+afternoon. The rip current risk increases to moderate on Thursday 
+with increasing S flow to 10-15 kt and building S seas to 3-4 ft in 
+the afternoon.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JE/DS
+NEAR TERM...JE
+SHORT TERM...JE
+LONG TERM...DS
+AVIATION...MET
+MARINE...JE/DS
+HYDROLOGY...JE/DS
+TIDES/COASTAL FLOODING...

@@ -1,0 +1,137 @@
+477 
+FXUS61 KOKX 051124
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+724 AM EDT Tue Aug 5 2025
+
+.SYNOPSIS...
+High pressure will remain in control thru the weekend, then 
+slowly weaken next Monday.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+High pres over QC will allow for a lgt ely component flow to 
+develop today. This will produce a little upslope across the 
+interior, with the models suggesting some initiation over 
+terrain as a result. Stuck with the NBM which aligns with the 
+higher res modeling in keeping the pcpn outside of the cwa 
+however. 
+
+Water vapor shows high clouds can be expected today, and the
+HRRR smoke runs keep some haze in as well.
+
+NBM temps yield 80s for all areas today.
+
+&&
+
+.SHORT TERM /WEDNESDAY/...
+High clouds should limit radiational cooling somewhat tngt, so 
+the NBM seemed reasonable for low temps despite winds going calm
+many spots. 
+
+Will keep the fcst dry per the NBM on Wed, with the NAM still 
+focusing the pcpn N of the cwa. There is a bit of a shrtwv that 
+moves thru the weak upr lvl trof per the GFS and ECMWF which 
+could produce a bit more widespread initiation possibly 
+impacting interior zones. May need to add some pops in if the 
+modeling develops some consistency.
+
+High temps a little cooler on Wed with a stronger ely flow from
+the Atlc. All areas progged to drop into the 60s Wed ngt. Both
+highs and lows are expected to be blw normal.
+
+&&
+
+.LONG TERM /WEDNESDAY NIGHT THROUGH MONDAY/...
+A decent stretch of sensible weather is in store as global models 
+advertise persistent surface high pressure and a building upper 
+ridge through much of the period. Temperatures will be near or 
+slightly above average with highs generally in the 80s each day 
+Friday through Sunday.
+
+By Monday, the ridge aloft should start to break down as an upper 
+trough approaches from the west. Temperatures on Monday could reach 
+the upper 80s/lower 90s, with dewpoints rising to the upper 
+60s/lower 70s, yielding heat index values in the lower 90s. The 
+combo of tropical moisture, lift from the approaching upper trough, 
+and some sfc-based instability could lead to some afternoon showers 
+and perhaps a tstm mainly west of NYC.
+
+&&
+
+.AVIATION /12Z TUESDAY THROUGH SATURDAY/...
+High pressure remains over the region through the TAF period.
+
+Mainly VFR is expected. Smoke and haze this morning may result
+in areas of MVFR visibilities. Mostly handled this with TEMPOs
+through 16-19Z. As the wind picks up a bit and becomes SE by
+late morning/early afternoon, near surface haze and smoke 
+should push north and allow visibilities to improve back to VFR 
+for the remainder of the TAF period.
+
+Winds light and variable early this morning become a light SE 
+flow by late morning and continues into the afternoon. Sea 
+breezes are possible late day.
+
+ NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No unscheduled amendments are expected.
+
+Smoke aloft remains in the area through today with slant range 
+visibility restrictions likely. 
+
+.OUTLOOK FOR 12Z WEDNESDAY THROUGH SATURDAY... 
+
+Wednesday - Saturday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Sub-SCA conditions are expected through Wednesday mrng. An 
+easterly swell generated from low pressure out in the western 
+Atlantic (Tropical Storm Dexter) will gradually build through 
+the period with seas building to around 4 ft on Wednesday. Long 
+period easterly swell will likely keep seas on the ocean around 
+4 ft into Friday. Combined seas may approach 5 ft on the 
+outermost ocean waters daytime Thu. The swell should diminish to
+3 ft from late Fri night into Sat.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through the weekend.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+There is a moderate rip risk thru the middle of the week with
+building swell and an east wind around 10kt at times.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...Air Quality Alert from 11 AM this morning to 11 PM EDT this 
+     evening for CTZ005>007-009>011.
+NY...Air Quality Alert until midnight EDT tonight for NYZ067>075-
+     176>179.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...
+NEAR TERM...
+SHORT TERM...
+LONG TERM...
+AVIATION...MW
+MARINE...
+HYDROLOGY...
+TIDES/COASTAL FLOODING...

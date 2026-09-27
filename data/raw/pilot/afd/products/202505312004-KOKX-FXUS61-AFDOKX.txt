@@ -1,0 +1,151 @@
+362 
+FXUS61 KOKX 312004
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+404 PM EDT Sat May 31 2025
+
+.SYNOPSIS...
+Low pressure heads into Quebec through Sunday as high pressure 
+builds southwest of the area into Sunday night. High pressure 
+builds over the area on Monday, then drifts offshore and 
+intensifies through the middle of the week, allowing for a 
+significant warming trend.
+
+
+&&
+
+.NEAR TERM /UNTIL 6 AM SUNDAY MORNING/...
+Showers and an isolated thunderstorm associated with a cold front 
+moving through, mainly eastern areas, will diminish as surface low 
+pressure over southern New England heads into Quebec by Sunday 
+morning. Most CAMs are in agreement with the convection associated 
+with the cold front moving south and west of the area. Tried to
+model this with the POPs, but they may be a overdone this 
+evening, especially across portions of NYC (except Staten 
+Island, which would have the highest chances of seeing showers 
+and an isolated thunderstorm given they are farthest south and 
+west). A surface trough will move through late tonight, bringing
+a stray shower or two for western 2/3 of the forecast area, but
+thereafter dry conditions are expected. Additionally, with the 
+low level jet forecast to already be east of the area, winds are
+expected to diminish. 
+
+Overnight lows will be below normal for this time of year, in the 
+lower 40s inland to lower 50s along the coast and into NYC and 
+surrounding metro area.&&
+
+.SHORT TERM /6 AM SUNDAY MORNING THROUGH SUNDAY NIGHT/...
+Troughing in the mid and upper levels remains over the northeast 
+Sunday into Sunday night with a couple of shortwaves 
+rotating through. In turn, a couple of weak surface troughs will 
+swing through as high pressure tries to build in from the southwest. 
+These features will not result in anything other than some cloud 
+cover. It will also help in keeping running below normal, with highs 
+only in the middle to upper 60s expected.
+
+
+&&
+
+.LONG TERM /MONDAY THROUGH SATURDAY/...
+High pres builds into the region on Mon, then an upr ridge builds in 
+thru Wed. This will keep the region dry thru the period. Temps rise 
+thru the week, with highs approaching 90 on Wed across the interior 
+and swrn hot spots. 
+
+Heights may begin to fall on Thu as the ridge is suppressed. It will 
+still be hot, and possibly the hottest day of the week as the 
+thermal ridge is locked in, but there will also be a chance for 
+aftn/eve shwrs and tstms due to the falling heights. It is a bit far 
+out to have confidence in the falling heights and tstm aspect, but 
+better confidence in the hot temps. 
+
+A sly component llvl flow keeps LI and cstl CT cooler Tue-Thu. 
+
+With the ridge continuing to be suppressed Fri and Sat, more chances 
+for shwrs and tstms, particularly in the aftn/eve, along with 
+gradually lowering high temps. 
+
+&&
+
+.AVIATION /20Z SATURDAY THROUGH THURSDAY/...
+Low pressure continues to depart to the northeast as a trailing
+cold front moves through this afternoon. High pressure gradually
+builds in thereafter.
+
+VFR this afternoon, except KSWF where MVFR may continue until
+this evening. Expected coverage of showers this afternoon has 
+lowered for the NYC terminals. Thinking it will be more of a VCSH 
+situation and have taken out PROB30 of SHRA. Thunder can still not 
+be totally ruled out, but very low chance at this time. If any 
+heavier showers do develop, brief MVFR is possible. VFR tonight 
+through the end of the TAF.
+
+Winds mainly W/NW gusting to 25 to 30 kt now. Occasional higher 
+gusts will still be possible through the afternoon. Winds then 
+diminish this evening. 20-25 kt gusts pick back up Sunday 
+morning.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Expected shower coverage has lowered, with most of the activity 
+passing to the south of the terminals. However, a shower or 
+thunderstorm can still not be completely ruled out.
+
+Occasional gusts up to 35 kt still possible through the afternoon. 
+
+.OUTLOOK FOR 18Z SUNDAY THROUGH THURSDAY... 
+
+Sunday through Wednesday...VFR.
+
+Thursday...Potential for MVFR in showers and thunderstorms in
+the afternoon/evening.
+
+&&
+
+.MARINE...
+SCAs over the harbor and western sound have been cancelled as
+winds have diminished enough to warrant the cancellation.
+Occasional gusts of 25 to 30 kt are still possible through 6 pm,
+but prevailing SCA gusts have ended here. SCA conditions
+continue for all other coastal zones, with all non-ocean waters
+coming down around 8 pm this evening. Ocean waters will continue
+as waves remain above 5 ft through tonight, though waves will be
+diminishing through the night on the ocean. The western ocean
+zone looks to come down below 5 ft by daybreak Sunday, and the
+eastern ocean zone by around sunset Sunday evening. Thereafter,
+conditions remain below SCA for all waters from Sunday night
+through Thursday as a broad area of high pressure remains over 
+the region.
+
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns tonight through the end of 
+next week. 
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...High Risk for Rip Currents until 9 PM EDT this evening for NYZ080-
+     081.
+NJ...None.
+MARINE...Small Craft Advisory until 8 PM EDT this evening for ANZ331-
+     332-340-345.
+     Small Craft Advisory until 6 PM EDT Sunday for ANZ350-353.
+     Small Craft Advisory until 8 AM EDT Sunday for ANZ355.
+
+&&
+
+$$
+
+SYNOPSIS...JMC/JP
+NEAR TERM...JP
+SHORT TERM...JP
+LONG TERM...JMC
+AVIATION...JT
+MARINE...JMC/JP
+HYDROLOGY...JMC/JP

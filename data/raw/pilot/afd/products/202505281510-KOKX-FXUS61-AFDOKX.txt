@@ -1,0 +1,208 @@
+070 
+FXUS61 KOKX 281510
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1110 AM EDT Wed May 28 2025
+
+.SYNOPSIS...
+High pressure will remain offshore today as low pressure and 
+its associated frontal system approach from the south and west. 
+The system impacts the area tonight into Thursday. Another low 
+likely develops near the Middle Atlantic on Friday. The low 
+passes through Friday night on its way to New England on Saturday,
+with a trailing cold front moving through on Saturday. The low 
+will meander over eastern Canada early next week as high 
+pressure slowly builds from the west.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Leading edge of rain across central NJ is greatly struggling
+to work NE due to low-level dry air in place. This will be the 
+theme with gradually increasing chances of light rain. Much of
+the area will not see any rain until tonight.  
+
+Otherwise, offshore high pressure will continue to ridge back 
+over the area into this afternoon. At the same time, ridging 
+aloft will gradually slide to the east of the area through the 
+evening. Surface low pressure over the Mid Atlantic and its 
+associated frontal system gradually lift towards the area from 
+the south and west.
+
+The surface ridging should gradually weaken this afternoon, which 
+will allow rain to slowly develop from southwest to northeast. 
+It will still take several more hours to reach eastern Long 
+Island and southeastern CT, which may remain dry into the early 
+evening. The rain will continue to be light where it does occur 
+this afternoon and early evening. Temperatures should remain 
+below normal in the middle to upper 60s. Cloud cover may be 
+thinnest across interior southern CT where temperatures could 
+reach or slightly exceed 70 degrees.
+
+Shortwave energy will move overhead tonight as a broad trough
+slides across the area. The surface ridging will continue 
+weakening, which will allow more organized forcing to spread 
+northward. A weak secondary area of low pressure will also lift 
+towards the Long Island coast overnight. The combination of 
+these features will bring rain tonight into early Thursday 
+morning. The rain should remain mostly light, but there could be
+a few pockets of brief moderate rain, especially the western 
+half of the area. 
+
+Rainfall amounts look to range from one quarter to under a half
+inch.
+
+&&
+
+.SHORT TERM /THURSDAY THROUGH FRIDAY/...
+The secondary low pressure moves east of the area through  
+Thursday. Steady rain early in the morning should end by midday 
+with just a chance of some spotty rain late morning into the 
+afternoon. Otherwise, the main upper level trough will remain 
+well to our west through Friday. The frontal system impacting 
+the area Wednesday night into Thursday may slide south of the 
+area by Thursday night. Highs on Thursday range from the lower 
+to middle 60s across eastern Long Island and southeast 
+Connecticut to the upper 60s and lower 70s elsewhere. Low clouds
+may hang on through much of the day across the eastern half of 
+the area, which could lead to temperatures ending up a bit 
+cooler than currently forecast.
+
+The upper trough is progged to amplify as it slides slowly towards 
+the east coast through Friday. Models have come into better 
+agreement with another low pressure developing over the Middle 
+Atlantic on Friday in response to the amplifying trough along the 
+nearby frontal boundary. The main synoptic forcing from this system 
+holds off till Friday night, but continued SW flow aloft and subtle 
+areas of energy may pass across the area. This supports the 
+continuation of slight chance PoPs through Friday afternoon. 
+Temperatures Friday look to end up slightly below normal in the 
+lower 70s.
+
+&&
+
+.LONG TERM /FRIDAY NIGHT THROUGH TUESDAY/...
+Guidance coming into sharper focus with evolution of a 
+longwave upper trough over eastern North America and related 
+shortwaves pivoting through it Fri night into Sat. One shortwave
+trough moving from the OH valley to the Mid Atlantic will phase
+with the longwave trough Fri night, with an intensifying sfc 
+low moving over the area Fri night and then heading up into New 
+England on Sat. Guidance shows a stripe of moderate to locally 
+heavy rain just W of the low track as it moves through, with 
+amts over an inch possible inland NW of NYC. Another shortwave 
+trough pivoting around the longer wave trough over the east is 
+likely to generate showers and possibly a few tstms on Sat. 
+
+Improving wx conditions expected for Sunday into early next week as 
+the low moves up into ern Canada and weak high pressure slowly 
+builds from the west.
+
+&&
+
+.AVIATION /15Z WEDNESDAY THROUGH SUNDAY/...
+High pressure to the east will gradually give way to weak
+low pressure this evening.
+
+VFR for most of the day today with SHRA starting early 
+afternoon. MVFR cigs arrive at the NYC metros by about 21Z-22Z, 
+with IFR cigs there and at KISP/KHPN by 03Z. Farther north/east,
+expect cigs to lower to MVFR this evening, with IFR at 
+KBDR/KSWF after midnight. KGON may remain MVFR through the 
+overnight. 
+
+Light S-SW flow should increase to 5-10 kt by this afternoon, 
+then back SE from late afternoon into this evening. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Rain (18-19Z) and IFR cigs could arrive earlier than forecast 
+(00Z-01Z).
+
+.OUTLOOK FOR 12Z THURSDAY THROUGH SUNDAY...
+Thursday: Chance of showers. IFR cond in the morning should
+improve to MVFR in the afternoon, and then to VFR late at the 
+NYC metros. 
+
+Thursday night: MVFR/IFR cigs possible late. 
+
+Friday: MVFR/IFR cigs likely. 
+
+Friday night and Saturday: Chance of showers and possibly a tstm. 
+MVFR cond likely, IFR possible. SW-W winds G15-20kt in the 
+afternoon. 
+
+Sunday...VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Winds and seas will remain below SCA levels today with high 
+pressure in control. Increasing SE flow tonight into early 
+Thursday morning may lead to wind gusts 20-25 kt. Seas will also
+build to 5-6 ft through Thursday. Winds look marginal, but 
+enough confidence in elevated seas for an SCA on the ocean late 
+tonight through Thursday. 5 ft seas may linger Thursday night 
+and the Advisory may need to be extended. Conditions on the 
+waters should then remain below SCA levels on Friday.
+
+A period of stronger WSW-W flow gusting to 25 kt may be possible on 
+Sat in the wake of low pressure passing through Fri night. Hazardous 
+ocean seas over 5 ft are also likely Sat into Sat night, which may 
+may take some time to subside E of Fire Island Inlet daytime
+Sunday.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts expected through Friday afternoon.
+
+A period of moderate to heavy rain is possible Friday night 
+mainly inland NW of NYC as developing low pressure passes 
+through, with amts over an inch possible. No more than nuisance 
+impacts expected.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+Astronomical tides will gradually subside through the end of
+the week. Water levels will remain below minor flood stage at 
+the most vulnerable locations of the south shore back bays and 
+western LI Sound with high tide tonight. A building SE swell 
+Thursday may lead to localized minor flooding for these 
+locations with high tide Thursday night. Additional localized 
+minor coastal flooding is possible Friday night due to a 
+intensifying low pressure passing over the area.
+
+There is a low rip current risk at ocean beaches through this 
+evening with with 1-2 ft seas and winds generally 10 kt or less.
+The risk increases to high on Thursday due to a building seas 
+to 5-6 ft and SE swells.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory from 6 AM to 6 PM EDT Thursday for ANZ350.
+     Small Craft Advisory from 2 AM to 6 PM EDT Thursday for ANZ353-
+     355.
+
+&&
+
+$$
+
+SYNOPSIS...BG/DS
+NEAR TERM...DS/DW
+SHORT TERM...DS
+LONG TERM...BG
+AVIATION...DBR
+MARINE...BG/DS
+HYDROLOGY...BG/DS
+TIDES/COASTAL FLOODING...

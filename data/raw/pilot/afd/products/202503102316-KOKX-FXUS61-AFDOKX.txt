@@ -1,0 +1,185 @@
+101 
+FXUS61 KOKX 102316
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+716 PM EDT Mon Mar 10 2025
+
+.SYNOPSIS...
+It will remain mild on Tuesday ahead of a weak cold frontal 
+passage Tuesday night. High pressure passing to the north on 
+Wednesday will park along the Northeast coast from Thursday into
+Friday while a stationary front remains to the south. A weak 
+frontal system will approach on Saturday, followed by a strong 
+cold front on Sunday. Unsettled weather may linger into Monday.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM TUESDAY MORNING/...
+The sea breeze is showing up well on radar and is ready to put
+an end to the mild temps on Long Island. A developing onshore
+flow along the CT coast will keeps things chillier there as well
+into the eve. Elsewhere, more of a natural diurnal temp swing 
+can be expected this eve.
+
+Mainly skc tngt with stlt currently clear. Some possible high
+clouds may filter in from the low to the S late. 
+
+With temps dropping under a good radiational cooling regime,
+some patchy shallow fog is possible by early Tue mrng in the 
+outlying areas and valleys and has been added to the fcst.
+
+Went colder than the NBM for the sheltered areas, and closer to
+the NBM elsewhere.
+
+&&
+
+.SHORT TERM /6 AM TUESDAY MORNING THROUGH WEDNESDAY NIGHT/...
+S flow on Tue will result in a wide range of temps. Ern areas
+much cooler with the flow off the water. Warmest areas will be
+along and W of the Hudson. The models are not indicating any 
+fog banks or marine stratus, so still allowed temps to warm into
+the 50s for LI and CT. Wrn areas in the mid 60s attm. 
+
+Deep mixing is not expected with veering flow thru the llvls,
+but flow thru h925 is robust enough to produce gusts to around
+20kt.
+
+Went a notch abv the NBM for high temps with a lack of any low
+or mid clouds.
+
+A cfp is modeled for Tue ngt. There could be some patchy fog
+ahead of the front, but the timing of the front may be early 
+enough to keep the fog from developing, especially if prefrontal
+winds are able to stay up. Left the fog out of the fcst attm.
+
+Went close to the NBM for low temps.
+
+&&
+
+.LONG TERM /THURSDAY THROUGH MONDAY/...
+High pressure passing to the north on Wednesday will become
+nearly stationary along the Northeast coast late this week. An
+inverted trough well inland and passing upper level disturbance
+may combine to produce some light wintry precip well inland Wed
+night mainly late. Attm have called it snow/rain showers, while
+WAA aloft and fcst soundings/partial thicknesses atop a colder 
+sfc air mass with low temps in the upper 20s/lower 30s inland 
+suggest potential for some light freezing rain/sleet so this 
+will have to be watched. 
+
+The upper level disturbance moves E on Thu, leaving the area in
+a E maritime flow regime between a stationary front to the 
+south and weak sfc ridging extending down the coast from the 
+high which should be centered over the Canadian Maritimes at 
+that time, with dry but cloudy conditions. Some improvement in 
+sky conditions may take place daytime Fri as weak upper ridging 
+moves across well in advance of expected unsettled wx this 
+weekend as a strong closed low aloft moves across the Plains 
+toward the upper Great Lakes. Should see some showers Sat 
+night/Sunday AM in a developing deep layer WAA regime, then a 
+trailing cold front with moderate to locally heavy rain on 
+Sunday. Winds out ahead of the front could get strong with gusts
+over 40 mph especially for the metro area and along the coast. 
+If the front aligns more with the flow aloft as show by the 
+latest ECMWF the heavy rain potential could end up greater and 
+rain linger into Monday, but these possibilities remain 
+uncertain nearly a week out in time. 
+
+Above normal temps on Wed should return to near normal on Thu
+under maritime cloud cover. These temps should quickly bounce 
+back to above normal on Fri and especially this weekend, with 
+highs in the upper 50s/lower 60s on Sat, in the 60s throughout 
+on Sunday, and at least in the 50s on Mon.
+
+&&
+
+.AVIATION /00Z TUESDAY THROUGH SATURDAY/...
+High pressure remains in control through Tuesday. A cold front 
+approaches late Tuesday and passes through the terminals Tuesday
+evening.
+
+VFR. 
+
+Winds become light S/SW as sea breezes end early this evening,
+with the flow becoming light and variable at all the terminals
+by 03Z. South winds develop Tuesday morning, increasing to 10 to
+13 kt early to mid afternoon. Gusts are possible away from the
+coast, up to 20 kt, for a few hours Tuesday afternoon, and most
+likely at KSWF with gusts up to 22 kt.
+
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+No unscheduled amendments expected.
+
+
+.OUTLOOK FOR 00Z WEDNESDAY THROUGH SATURDAY...
+
+Tuesday night-Wednesday: VFR. S/SW winds early Tuesday evening
+shift to W/NW less than 10 kt with a cold front passage by late
+Tuesday night.
+
+Wednesday night-Thursday: MVFR or lower possible. Slight chance of 
+a rain shower along the coast, and snow showers inland Wednesday
+night.
+
+Friday: VFR.
+
+Saturday: Mainly VFR. Slight chance of rain showers. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Weak high pres over the waters should keep winds and waves blw sca 
+criteria thru Tue. A weak cold front Tue ngt will produce a wind 
+shift, but cond still look to remain blw sca lvls. 
+
+Persistent offshore E flow should lead to ocean seas near 5 ft
+from Wed into Thu night. Quiet cond expected on all waters from
+Fri into daytime Sat, then increasing S flow should lead to 
+SCA cond on the ocean and possibly the Long Island south shore 
+bays Sat night, with gusts 25-30 kt and ocean seas building to 
+5-6 ft. There is some potential for gales especially on the 
+ocean ahead of the approaching front on Sunday.
+
+&&
+
+.FIRE WEATHER...
+Min RH around 30 percent and wind gusts around 20 mph are
+expected for wrn portions of the cwa on Tue. An SPS has been 
+coordinated for portions of the Lower Hudson Valley. RH should 
+be higher across CT, as well as NYC to Long Island with the flow
+off the ocean.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts are expected through the beginning of next
+weekend. There is some potential for heavy rain on Sunday, but
+it is much too early to offer specific details.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JMC/BG
+NEAR TERM...JMC
+SHORT TERM...JMC
+LONG TERM...BG
+AVIATION...MET
+MARINE...JMC/BG
+FIRE WEATHER...
+HYDROLOGY...JMC/BG

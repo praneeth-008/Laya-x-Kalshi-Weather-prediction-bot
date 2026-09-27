@@ -1,0 +1,219 @@
+883 
+FXUS61 KOKX 080803
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+403 AM EDT Tue Apr 8 2025
+
+.SYNOPSIS...
+A strong cold front moves through the region early this 
+morning,, and will be followed by high pressure building in 
+slowly to the south through Wednesday. The high moves offshore 
+of the mid Atlantic coast Wednesday night. Several waves of low 
+pressure impact us Thursday through Sunday. High pressure 
+briefly settles in Sunday night into Monday before another 
+possible frontal system impacts the area Monday night through 
+Tuesday night.
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+A deep upper trough with strong shortwave energy passes to the
+north today, accompanied by a deepening low that tracks through
+update New York and across northern New England, and into the 
+Canadian Maritimes. This low will bring a strong cold front 
+across the region early this morning. Behind the front a strong 
+and gusty west to northwest wind and strong cold advection will 
+keep high temperatures in the 40s, about 10 degrees below 
+normal. For the winds and gusts used a blend of the previous 
+forecast and the NBM 90th percentile. Winds and gusts remain 
+below wind advisory criteria. However, during the mid to late 
+afternoon, with the deepest mixing, the strongest winds and 
+gusts are likely, and a few sustained winds and gusts may 
+briefly reach advisory levels. With weakening cold advection, a 
+weakening pressure gradient, and loss of heating will allow for 
+winds and gusts to rather quickly diminish this evening.
+
+&&
+
+.SHORT TERM /6 PM THIS EVENING THROUGH WEDNESDAY NIGHT/...
+A cold airmass will be over the region tonight with sub-
+freezing temperatures throughout the area, with temperatures
+ranging in the 20s, 10 to 15 degrees below normal. Wind chill
+values will range from around 10 inland to 15 along the coast,
+and around 20 in New York City. With the cold airmass and the
+growing season having started April 1 for the NY/NJ metro area 
+a freezing warning has been issued for late tonight into early
+Wednesday morning. Did not mention any frost as winds do stay up
+and dew point depressions will be around 20 degrees.
+
+Below normal temperatures continue Wednesday and Wednesday 
+night as high pressure builds to the south, and then moves off 
+the Mid Atlantic coast.
+
+&&
+
+.LONG TERM /THURSDAY THROUGH MONDAY/...
+On Thursday, a longwave upper-level trough begins to build over
+the Great Lakes. This sends a weak surface low and associated 
+mid-level shortwave into the northeast which provides us with 
+scattered showers late Thursday afternoon into Thursday night. 
+
+Thursday night into the week the longwave trough over the Great
+Lakes amplifies very sharply over the eastern US into the 
+southern Gulf states. Within this longwave trough, several 
+shortwaves will spin through that may kick off several areas of 
+low pressure at the surface and impact us into the weekend. 
+Right now, 00Z guidance mainly has 2 low pressure systems 
+developing from this that could impact us. 
+
+On Thursday night, a surface low will move over the Mid- 
+Atlantic states. There, it will be guided north up the Atlantic 
+coast by the highly amplified upper-level trough and into our 
+area Friday into Saturday. This will lead to a period of wet and
+active weather Friday into Saturday. While timing discrepancies
+still exist, the latest guidance has really honed into a period
+of when most of the rain will fall. This rainfall will be 
+enhanced by a surge of moisture from the tropics that has been 
+picked up by the highly amplified trough and sent our way up the
+Atlantic coast. The 00Z LREF-TLE (a model blend of 00Z GEFS, 
+00Z GEPS, and time-lagged 12Z ENS) has really honed in on a 
+period of most of the rain occurring Friday evening into Friday 
+night. This is the period most of the ensembles agree on. 
+Because of this, have gone with 70-85% POPs for Friday Night. 
+The LREF shows a 45-60% of 1" of rainfall in 24 hours and a 
+5-10% of 2" in 24 hours. Friday has also been highlighted by WPC
+for a Marginal Risk of Excessive Rainfall. 
+
+As this low exits on Friday, another low will develop and move 
+up the Atlantic coast, towards our area Saturday night into 
+Sunday. Here, the latest guidance varies more in track. While 
+all guidance agrees a second low will arrive, many of the 00Z 
+guidance shows the low too far offshore to bring another likely 
+chance of rainfall. Have gone with chance to slight chance for 
+POPs in this timeframe. 
+
+The trough exits east on Sunday night as a ridge moves in 
+Sunday night into Monday, bringing high pressure back to the 
+area at the surface. This period will likely remain mostly dry. 
+
+Some 00Z guidance indicate another surface low and associated 
+upper level trough in Canada could bring a cold front with 
+another chance for possible precipitation on Monday night into 
+Tuesday night, but there is too much uncertainty this far out to
+be sure. 
+
+Temperatures will remain around seasonal Thursday through the 
+weekend, gradually warming a degree or two each day. Went with 
+the NBM for temperatures on Monday given uncertainty in the 
+outcome which shows highs may surge into the mid/upper-60s. This
+is still very subject to change, however. 
+
+&&
+
+.AVIATION /08Z TUESDAY THROUGH SATURDAY/...
+Low pressure passing along a stalled frontal boundary to our 
+south is exiting east this morning, aided by a strong cold front
+expected to pass this morning. Following the cold front this 
+morning, high pressure settles in through Wednesday. 
+
+TAF sites will continue to flirt with IFR/MVFR ceilings and
+mist through 9Z. Then most sites will begin to improve between
+MVFR and VFR. All sites should be VFR by 11-12Z, with KGON not
+VFR until 13Z. We will then remain VFR for the remainder of the
+day and into Wednesday. 
+
+Winds will remain mostly light and variable through 9-12Z until
+the cold front brings winds up in a steady direction. Winds 
+later this morning will be WNW 10-15 with gusts of 20-25 kt,
+increasing in speed quickly. Winds will prevail this afternoon
+and early evening WNW 22-28 kt with gusts 32-37 kt. Peak gusts
+could be upwards of 40 kt. Winds diminish into the late evening
+and tonight, maintaining a WNW direction, perhaps closer to NW
+tonight. We lose the gusts somewhere around 9-12Z tomorrow with
+sustained winds around 10 kt at this time, give or take a few
+kts. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Timing of improvement to VFR early this morning may be off by 1
+to 3 hours.
+
+Timing of wind shift behind the cold front tonight may be off by 1-3 
+hours.
+
+Peak gusts on Tuesday around 40 kt. 
+
+.OUTLOOK FOR 06Z WEDNESDAY THROUGH SATURDAY...
+
+Wednesday: VFR.
+
+Thursday: MVFR possible late with a chance of showers.
+
+Friday: IFR possible with showers likely. E-SE wind gusts 15-20 kt 
+possible.
+
+Saturday: MVFR or lower possible. Chance of showers. E-SE wind gusts 
+15-20 kt possible.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+The gale warning remains in effect for all the waters today into 
+early this evening, continuing on the ocean waters until late 
+evening. Before then, through 600 AM this morning, a Small Craft
+Advisory is now in effect for the ocean waters east of Fire 
+Island Inlet with lingering 5 ft seas. Low pressure passes well 
+to the north today, and sends a strong cold front across the 
+waters this morning and will be followed by strong and gusty 
+northwest winds. Once gales end a SCA will likely be needed on 
+the non ocean waters into late tonight, and on the ocean waters 
+into Wednesday morning. Once SCA conditions end winds and seas 
+will remain below advisory levels through Wednesday night as 
+high pressure over the waters moves offshore. SCA conditions are
+possible, mainly on the ocean, Thu night through Sat with a 
+slow moving low pressure system.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through Thursday. 
+
+The LREF shows a 45-60% of 1" of rainfall in 24 hours and a 
+5-10% of 2" in 24 hours Friday night. Friday has also been 
+highlighted by WPC for a Marginal Risk of Excessive Rainfall. 
+Timing discrepancies still exist, but some periods of moderate 
+to heavy rainfall are possible Friday evening into Friday night.
+With several rounds of rain expected, its possible we could see
+minor impacts, but major impacts are not expected at this time 
+given much of the rainfall will be spaced out over several days.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...Freeze Warning from midnight tonight to 9 AM EDT Wednesday for 
+     NYZ072>075-176>179.
+NJ...Freeze Warning from midnight tonight to 9 AM EDT Wednesday for 
+     NJZ006-106-108.
+MARINE...Gale Warning until 8 PM EDT this evening for ANZ331-332-335-
+     338-340-345.
+     Small Craft Advisory until 6 AM EDT early this morning for 
+     ANZ350-353.
+     Gale Warning until 11 PM EDT this evening for ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...BR/MET
+NEAR TERM...MET
+SHORT TERM...MET
+LONG TERM...BR
+AVIATION...BR
+MARINE...BR/MET
+HYDROLOGY...BR/MET

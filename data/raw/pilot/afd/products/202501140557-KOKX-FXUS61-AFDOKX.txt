@@ -1,0 +1,203 @@
+839 
+FXUS61 KOKX 140557
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+1257 AM EST Tue Jan 14 2025
+
+.SYNOPSIS...
+A series of cold fronts move across going into the middle of 
+this week. High pressure remains in control through Wednesday 
+night. A frontal system approaches from the northwest Thursday 
+and dissipates over the region Friday. Another more potent 
+frontal system impacts the region over the weekend with the 
+potential for an area of low pressure to impact the region late 
+in the weekend into the beginning of next week.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM THIS MORNING/...
+Skies have cleared with weak low level ridging building into the
+area. In addition, some mid level negative vorticity and near
+zonal flow allows for clear skies into the overnight. Winds
+increasing and gusts developing have been delayed with the
+stronger cold advection late tonight. Updated winds and gusts to
+reflect this. Temperatures have also been running warmer in most
+spots due to weaker winds. While they will warm closer to 
+daybreak, have lowered them in the interim. The rest of the 
+forecast remains on track.
+
+However, boundary layer remains mixed with cold air advection 
+steady through the night. Gusty winds will be occurring that 
+will mitigate radiational cooling. 
+
+Used NBM range of lows, from upper teens to mid 20s for much of
+the region. NYC Metro expected to have lows more in the upper
+20s. Wind chill minima in the single digits to lower teens.
+
+&&
+
+.SHORT TERM /6 AM THIS MORNING THROUGH 6 PM WEDNESDAY/...
+Tuesday will have gusty westerly flow and much colder. Highs 
+struggle to reach freezing. Gusts near 30 mph for most 
+locations. Wind chill maxima upper teens to lower 20s. Tight 
+pressure gradient between low pressure in the Canadian Maritimes
+and high pressure west of the Great Lakes. Another cold front 
+will be approaching from the west. This front will move across 
+late in the day. There will be an increase in clouds and a 
+slight chance of snow showers. This is shown by various 
+mesoscale models with their reflectivity fields but at rather 
+low magnitudes. Still expecting overall mainly dry conditions 
+however.
+
+For Tuesday night, behind the cold front, strong high pressure 
+will gradually build in from the west. Clouds decrease but a 
+tight pressure gradient remains between low pressure in vicinity
+of Canadian Maritimes and high pressure in the Central US, 
+driving a continued gusty northwest flow, gusts up to 30 to 35 
+mph. Dry and very cold conditions expected. Lows forecast from 
+NBM in upper teens to lower 20s for most locations with 
+corresponding wind chill minima in the single digits for most 
+locations. NYC Metro has lows more in the low to mid 20s with 
+wind chill minima around 10.
+
+&&
+
+.LONG TERM /WEDNESDAY NIGHT THROUGH MONDAY/...
+Mainly dry with high pressure building in Wednesday as a 
+surface trough moves through. Meanwhile, a cutoff upper low and 
+associated trough pushes east. No precipitation is expected with
+the surface trough, just a reinforcing shot of cold air. 
+Temperatures through Thursday will be below normal, ranging from
+the upper 20s to just above freezing for high temperatures. 
+Additionally, as the surface low associated with the upper low 
+deepens offshore and the incoming high also strengthens, 
+conditions will be blustery, mainly for Wednesday. NW winds of 
+10 to around 15 mph are expected, with gusts 20-30 mph. Combined
+with the wind, temperatures will feel like the teens and 20s 
+during the day on Wednesday, and it will feel slightly warmer 
+for Thursday as the wind diminish.
+
+Deep layered riding aloft late Thursday night into Friday 
+morning out ahead of an approaching frontal system from central 
+Canada. This deep layered ridging aids in the dissipation of the
+frontal system for Friday, with dry conditions continuing. A SW
+flow Thursday night into Friday morning will allow temperatures
+to warm to near seasonable levels. 
+
+The next chance for widespread precipitation comes next weekend
+as another more cold front impacts the region and moves through
+Saturday night. A weak area of low pressure may form along the 
+frontal boundary to the south of the region on Sunday night and 
+track northeast, passing south and east of Long Island late 
+Sunday night into Monday. As is typically the case, there are 
+timing and placement issues with any features, so stuck close to
+NBM.
+
+&&
+
+.AVIATION /06Z TUESDAY THROUGH SATURDAY/...
+Terminals will be between high pressure to the southwest and a 
+broad area of low pressure across eastern Canada and the
+Northeast. A weak trough passes through the area Tuesday 
+afternoon.
+
+VFR. Snow showers are possible at KSWF and KHPN Tuesday afternoon, 
+and conditions may briefly become MVFR. 
+
+Westerly winds continue through the forecast, becoming more NW, 290 
+to 300 true. Frequent gusts overnight may be delayed until around
+sunrise. Sustained winds and gusts increase during the day Tuesday,
+with gusts to near 30kt. Occasional higher gusts are possible 
+late afternoon into the evening.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+No unscheduled amendments expected. A brief snow shower is possible 
+at KTEB 21Z to 00Z.
+
+.OUTLOOK FOR 06Z WEDNESDAY THROUGH SATURDAY...
+
+Late Tuesday night - Wednesday: VFR. NW winds 15G25-30kt. 
+
+Wednesday night: VFR. NW winds G20kt in the evening. 
+
+Thursday - Friday: VFR.
+
+Saturday: VFR, becoming MVFR with rain showers likely.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+A cold front was east of the forecast waters with high pressure
+building to the west. Cold air advection will allow for 
+frequent gusts tonight through Tuesday. Pressure gradient 
+tightens between low pressure well north of the waters and high 
+pressure well southwest of the waters. BUFKIT shows well mixed 
+boundary layer on all the waters.
+
+SCA already in effect across the ocean and is in effect through
+the day Tuesday. Non-ocean zones have SCA go into effect
+starting 6pm this evening and those continue through the day
+Tuesday.
+
+SCA conditions are likely to continue Tuesday night through 
+Wednesday for all forecast waters. Ocean seas during this time 
+are forecast to be near 5 to 7 ft. Gales will even be possible
+for some time on the ocean Tuesday night. With some upper mixed
+layer gusts possible to near 40 kt, did hoist a gale watch for
+the ocean waters Tuesday night. Feel more confident about 35 kt
+gusts on the ocean Tuesday night. SCA continues for the non-
+ocean waters Tuesday night.
+
+Strong pressure gradient over the waters will likely allow SCAs
+to continue over all waters through much of Wednesday. Non- 
+ocean waters may wind gusts fall below 25 kt by sunset Wednesday
+night and ocean waters a few hours later. Marginal wind gusts 
+are possible Thursday afternoon on the ocean waters.
+
+Waves of 4 to 7 ft on the ocean and 3 to 5 ft on the sound 
+diminish Wednesday, falling below 5 ft over all ocean waters by 
+Wednesday night.
+
+Waves build once again the ocean to above 5 ft Thursday 
+afternoon into Thursday night and diminish to below SCA levels 
+on Friday.
+
+&&
+
+.HYDROLOGY...
+Mainly dry conditions, precipitation under a tenth of an inch,
+through Tuesday night.
+
+No hydrologic impacts expected into the beginning of next
+weekend.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 6 AM EST Wednesday for ANZ331-332-
+     335-338-340-345.
+     Small Craft Advisory until 6 PM EST this evening for ANZ350-
+     353-355.
+     Gale Watch from this evening through late tonight for ANZ350-
+     353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JM/JP
+NEAR TERM...JM/JP/BR/MET
+SHORT TERM...JM
+LONG TERM...JP
+AVIATION...MET/DW
+MARINE...JM/JP
+HYDROLOGY...JM/JP

@@ -1,0 +1,168 @@
+088 
+FXUS61 KOKX 051457
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+957 AM EST Sun Jan 5 2025
+
+.SYNOPSIS...
+The region will be in between low pressure to the northeast and high 
+pressure to the southwest. A quick moving low will pass through the 
+Mid Atlantic region on Monday and offshore Monday night. High 
+pressure then slowly builds in from the west through Friday. An
+area of low pressure may pass nearby next weekend.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Dry, but breezy today with a fairly tight pressure gradient 
+remaining over the area. Winds will diminish more noticeably tonight 
+as a weakening surface ridge axis approaches from the west. Partly 
+to mostly sunny during the day, then clouds increase tonight in 
+association with low pressure well off to our southwest. There
+may be more clouds this morning than previously forecast across
+the Lower Hudson Valley as stratocu streams down from the 
+northwest. Have adjusted forecast for the next few hours to 
+better match satellite and obs. It should remain dry through the
+night with an outside shot of a flurry or light snow sneaking 
+into the extreme SW portion of the forecast area towards 
+daybreak. NBM with minor local adjustments was used for 
+temperatures.
+
+&&
+
+.SHORT TERM /MONDAY THROUGH TUESDAY NIGHT/...
+Models and ensembles remain in very good agreement regarding low 
+pressure which will be passing to our south Monday into Monday 
+night. A trough axis aloft with an embedded shortwave will shift 
+east through the OH and TN Valleys. This will strengthen a surface 
+low which will emerge off the NC coast late in the day Monday into 
+Monday evening and shift ENE through the night with the trough not 
+becoming negatively tilted until the overnight hours. This 
+progressive motion will help keep the heaviest snowfall to our 
+south, with the northern edge of snowfall likely somewhere over the 
+Tri-State area. Liquid equivalent precip and snow amount forecasts 
+are very close to the previous couple of forecasts. Very little to 
+no accumulation north of the city, and under an inch just about 
+everywhere else. Best chance of topping an inch will be in the far SW 
+corner of the forecast area. Period of when snow will be most likely 
+is mid-late Monday morning through late afternoon. 
+
+Winds pick up in the wake of the low Monday night and increase 
+further on Tuesday as high pressure very slowly builds in from the 
+NW. Wind chills late Monday night falling into the single digits for 
+coastal areas and around zero for the northernmost zones. A gusty NW 
+flow continues through Tuesday with gusts 25-35 mph. Dry, but colder 
+than normal temperatures with highs only in the upper 20s to lower 
+30s. Wind chills Tuesday night falling into the single digits for 
+most locations.
+
+&&
+
+.LONG TERM /WEDNESDAY THROUGH SATURDAY/...
+Key Points:
+
+* Cold and windy mid to late next week, daytime wind chills in the 
+  teens for most.
+
+* Next chance for widespread precipitation could arrive next weekend.
+
+By midweek, surface high pressure centered over the Plains begins to 
+build east. This will not only reinforce the cold air mass in place, 
+but maintain a tight pressure gradient between the high and 
+sprawling low pressure anchored over far eastern Canada. With it, 
+blustery conditions are likely to continue Wednesday and Thursday. 
+Temperatures, while not record breaking, will run about 10 degrees 
+below normal and keep much of the region at or below the freezing 
+mark for through at least Thursday. Add the wind component and the 
+region could experience wind chills persistently in the single 
+digits and teens.
+
+By late next week, a closed low near the Southwest may eject east 
+and attempt to interact with a northern branch disturbance diving 
+south. Recent operational runs of the GFS and EC have been flirting 
+with the possibility of deepening low pressure just off the local 
+coast, though their respective ensemble systems continue to offer 
+many different solutions at this point. Will be the period to watch 
+for the next chance of appreciable precipitation should timing of 
+these features line up.
+
+&&
+
+.AVIATION /15Z SUNDAY THROUGH THURSDAY/...
+The region lies in between low pressure to the northeast and 
+high pressure to the southwest today. A quick moving low will 
+pass through the Mid Atlantic on Monday.
+
+VFR through tonight.
+
+W or WNW flow 15-20G30kt today. A few gusts over 30 kt are 
+possible this afternoon. Flow begins to lighten this evening and
+frequent gusts should subside by 3Z Sun. Speeds lower to under 
+10 kt thereafter.
+
+Lowering cigs later Monday morning with light snow possibly 
+developing at NYC terminals toward 12Z, becoming more likely 
+after 15Z. MVFR or lower possible into Monday afternoon.
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Isolated gusts over 30 kt this afternoon.
+
+IFR possible late Monday morning and early afternoon.
+
+OUTLOOK FOR 12Z MONDAY THROUGH THURSDAY...
+
+Monday: Chance of light snow at the NYC metro terminals, KHPN, 
+KISP, and KBDR with MVFR cond likely, IFR possible. Light 
+accumulation up to an inch at NYC metros and KISP.
+
+Tuesday through Thursday: VFR. NW winds 15-20kt with daytime gusts 
+25-30 kt. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+SCA for all waters today, ending at various points tonight as the 
+pressure gradient weakens with diminishing winds and subsiding seas. 
+Occasional gale gusts are possible during the day however across the 
+ocean waters. A relatively tranquil period then follows on Monday 
+before winds and seas ramp up again Monday night with SCA conds by 
+Tuesday morning for all waters. This will be due to a tight 
+pressure gradient between building high pressure from the west 
+and low pressure over eastern Canada. The winds keep SCA
+conditions on all waters through at least Thursday, with gales
+possible on the ocean at times.
+
+&&
+
+.HYDROLOGY...
+No significant hydrologic issues anticipated through this week.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory until 1 AM EST Monday for ANZ331-332-340-
+     355.
+     Small Craft Advisory until 10 PM EST this evening for ANZ335-
+     338-345.
+     Small Craft Advisory until 6 AM EST Monday for ANZ350-353.
+
+&&
+
+$$
+
+SYNOPSIS...JC/DR
+NEAR TERM...JC/JT
+SHORT TERM...JC
+LONG TERM...DR
+AVIATION...JMC/DR
+MARINE...JC/DR
+HYDROLOGY...JC/DR

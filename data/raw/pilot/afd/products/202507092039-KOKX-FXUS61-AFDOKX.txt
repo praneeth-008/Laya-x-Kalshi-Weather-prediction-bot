@@ -1,0 +1,159 @@
+844 
+FXUS61 KOKX 092039
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+439 PM EDT Wed Jul 9 2025
+
+.SYNOPSIS...
+A humid airmass will remain in place through Thursday, allowing for 
+the potential development of showers and thunderstorms. There is
+then a chance of daily showers and thunderstorms expected 
+through Monday. A weak frontal system may pass to the north 
+Sunday into Monday.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM THURSDAY MORNING/...
+The area will continue to destabilize this aftn. SBCAPE generally 
+1000-2500 J/kg per the 17Z HRRR analysis, with CIN eroding. 
+With sea breeze boundaries, a weak trof, and falling heights, 
+isold-sct tstm initiation possible into the early eve. Storm 
+motion is modeled to be around 5kt, so there is a localized 
+flood threat with any storms that develop, especially if 
+redevelopment occurs along storm outflows in a primarily 
+multicellular environment. The NAM models DCAPE in the 500-1000 
+J/kg range, so with the EL at 43k ft in the OKX 12Z sounding, 
+any storms aoa that lvl could produce some svr lvl downbursts. 
+
+Widespread shwrs and tstms expected tngt as an h5 trof comes thru 
+and provides some solid upr lvl support. Perhaps some bowing 
+segments for an isold svr risk. Bands of hvy rainfall could produce 
+some areas of mainly minor flooding as well. Model focus of the hvy 
+rain is generally ern areas of LI where FFG is highest, somewhat 
+limiting the overall threat. However, if the bands were to set up 
+further W over the urban corridor, there would be a flash flood 
+risk.
+
+&&
+
+.SHORT TERM /6 AM THURSDAY MORNING THROUGH THURSDAY NIGHT/...
+Additional chances for shwrs and tstms on Thu as the upr trof and 
+embedded shrtwv energy lingers in the area. Stuck with the NBM 
+timing here, but if activity is robust early in the day as the NAM 
+suggests, there could be limited action in the aftn where the 
+airmass is worked over. However, if a mrng round doesn't develop, 
+more extensive activity seems more likely in the aftn hours. A bit 
+cloudy with onshore flow, so high temps 70s and 80s with max 
+apparent temps mainly in the 80s.
+
+As the upr trof axis passes E of the CWA Thu ngt, decreasing
+chances for rain. With lgt llvl flow, moisture will remain in
+place resulting in a humid ngt.
+
+&&
+
+.LONG TERM /FRIDAY THROUGH WEDNESDAY/...
+Key Messages
+- Showers and thunderstorms are a daily concern through 
+Monday, thanks to a lingering boundary and plenty of moisture from 
+the onshore flow. Western forecast areas are at the greatest risk, 
+as daytime heating will boost instability.
+
+- The greatest uncertainty in the forecast period, particularly for 
+temperatures and PoPs, remains Sunday through Monday. This is 
+attributed to the varied handling of a weak frontal system by the 
+ensembles.
+
+- Next week, temperatures are expected to warm up, reaching the mid 
+80s to around 90 degrees. Lows in the upper 60s to mid-70s. ML 
+guidance is hinting at a low (10-30%) threat for severe weather that 
+will need to be monitored, along with a frontal system late in the 
+week.
+
+No major changes made to the NBM.
+
+&&
+
+.AVIATION /21Z WEDNESDAY THROUGH MONDAY/...
+A stationary frontal boundary remains within the region through the 
+TAF period.
+
+Mainly VFR. MVFR possible in showers and thunderstorms later this 
+evening into Thursday morning. There continues to be uncertainty 
+with the exact timing of showers and thunderstorms.
+There is a chance of MVFR ceilings late tonight into early Thursday 
+morning along the coast, with areal coverage and timing uncertain.
+
+Winds will generally be S to SW this afternoon with sea 
+breezes. Winds become light SW this evening to light and 
+variable outside of the NYC metro terminals. A light southerly 
+flow develops Thursday morning.
+
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+Amendments likely to refine the timing of showers and thunderstorms 
+which could vary by a few hours compared to TAF.
+
+
+.OUTLOOK FOR 18Z THURSDAY THROUGH MONDAY... 
+
+Thursday afternoon: Chance of showers and thunderstorms into the 
+early evening with MVFR possible. Otherwise VFR.
+
+Friday - Sunday: VFR. A chance of showers and thunderstorms during 
+the afternoon and early evening near and northwest of the NYC 
+terminals with MVFR possible.
+
+Monday: VFR. A chance of showers and thunderstorms with MVFR 
+possible. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Outside of tstms, winds and seas are expected to remain blw sca lvls 
+thru Thu. A weak pressure gradient into the upcoming weekend 
+will keep winds and seas below SCA levels.
+
+&&
+
+.HYDROLOGY...
+There is a risk for mainly minor urban and poor drainage flooding 
+thru Thu with rounds of shwrs and tstms expected. Although not 
+currently modeled, if the heaviest bands of rain set up over the 
+more flood prone areas of NJ and the urban corridor, there will be a 
+more substantial flash flood risk there.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+A moderate rip current risk is forecast at all ocean beaches
+into this evening due to to incoming 3-4 ft/7-8s swell. The 
+moderate risk continues for all but the NYC beaches for on
+Thursday.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JMC/99
+NEAR TERM...JMC
+SHORT TERM...JMC
+LONG TERM...99
+AVIATION...MET
+MARINE...JMC/99
+HYDROLOGY...JMC/99
+TIDES/COASTAL FLOODING...

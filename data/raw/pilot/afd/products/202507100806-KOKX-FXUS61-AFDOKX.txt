@@ -1,0 +1,177 @@
+873 
+FXUS61 KOKX 100806
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+406 AM EDT Thu Jul 10 2025
+
+.SYNOPSIS...
+A stationary frontal boundary across the region through tonight 
+eventually shifts farther south heading into the start of the 
+weekend. High pressure builds east of the waters for the latter half 
+of this weekend before weakening early next week.
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+A frontal boundary is stalled out across the region. Not much 
+translational movement is expected through today with the front. 
+Weak waves of low pressure travel along it.
+
+Right rear quadrant of upper level jet is near the region through 
+today. Mid level positive vorticity advection adds further forcing.
+
+POPs for showers and thunderstorms remain through the day. 
+Intermittent nature to the convection. 
+
+Temperatures today with a slight decrease in 850mb temperatures and 
+more shower and thunderstorm activity, a cooler but still very humid 
+day expected.
+
+Added in patchy fog going into early this morning especially in 
+those areas that had more rain and thereby have more moisture laden 
+grounds.
+
+&&
+
+.SHORT TERM /6 PM THIS EVENING THROUGH SATURDAY NIGHT/...
+The convective coverage will be on a downward trend tonight as 
+forcing decreases with the loss of daytime instability.
+
+Upper level forcing decreases with jet streak moving farther 
+northeast of the region tonight. Troughing pattern eventually 
+transitions to more of a ridging pattern.
+
+The frontal boundary weakens at the surface and eventually settles 
+to the south of the region by the weekend.
+
+The showers and thunderstorms have less coverage Friday and Saturday 
+and will be driven more by the daytime instability and daytime 
+troughing as well as low level convergence. The forcing aloft will 
+be minimal as ridging becomes more apparent.
+
+Daytime temperatures on a warming trend but will be limited as flow 
+retains more of an easterly component.
+
+Added in patchy fog for late tonight into early Friday morning with 
+less winds and some radiational cooling allow for more low level 
+saturation considering the continued humid environment.
+
+
+&&
+
+.LONG TERM /SUNDAY THROUGH WEDNESDAY/...
+Key Messages
+- Showers and thunderstorms are a daily concern through 
+Monday, thanks to a lingering boundary and plenty of moisture from 
+the onshore flow. Western forecast areas are at the greatest risk, 
+as daytime heating will boost instability.
+
+- The greatest uncertainty in the forecast period, particularly for 
+temperatures and PoPs, remains Sunday through Monday. This is 
+attributed to the varied handling of a weak frontal system by the 
+ensembles.
+
+- Next week, temperatures are expected to warm up, reaching the mid 
+80s to around 90 degrees. Lows in the upper 60s to mid-70s. ML 
+guidance is hinting at a low (10-30%) threat for severe weather that 
+will need to be monitored, along with a frontal system late in the 
+week.
+
+No major changes made to the NBM.
+
+&&
+
+.AVIATION /08Z THURSDAY THROUGH MONDAY/...
+A stationary frontal boundary remains near the terminals through 
+tonight. 
+
+Mainly VFR to start early this morning with some local IFR-LIFR 
+across eastern Long Island and coastal CT. Complex of showers and 
+thunderstorms has moved east of the area, but lingering showers are 
+possible through at least day break. MVFR is otherwise expected 
+around day break, but confidence in it prevailing is low so have 
+gone with tempos at most sites except east of the NYC metros. 
+
+VFR is anticipated this afternoon with a chance of showers and 
+thunderstorms. Have left the PROB30 in place for NYC metro and Lower 
+Hudson Valley terminals this afternoon and early evening. Coverage 
+however may end up more isolated. Conditions should lower tonight 
+with MVFR most sites and IFR or LIFR possible east of the NYC metro 
+terminals. 
+
+Mainly light winds this morning. A light W or SW flow may develop at 
+NYC terminals after day break but winds should gradually become S-SE 
+late morning into the afternoon remaining under 10 kt. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty... 
+
+MVFR may prevail this morning and could linger a few hours longer 
+than in TAF this afternoon. 
+
+Some variability in wind direction is possible throughout the TAF 
+period as wind speeds will overall be light. 
+
+Amendments likely to refine the timing of showers and thunderstorms 
+this afternoon and evening.
+
+.OUTLOOK FOR 06Z FRIDAY THROUGH MONDAY... 
+
+Thursday night: MVFR or lower possible.
+
+Friday - Sunday: VFR. A chance of showers and thunderstorms during 
+the afternoon and early evening near and northwest of the NYC 
+terminals with MVFR possible.
+
+Monday: VFR. A chance of showers and thunderstorms with MVFR 
+possible. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+No hazards are expected outside of thunderstorms as conditions are 
+expected to remain below SCA thresholds. Some patchy fog will be 
+possible into this morning as well as late tonight into early Friday 
+morning, which could possibly be dense.
+
+&&
+
+.HYDROLOGY...
+Minor risk for flash flooding with otherwise poor drainage, urban 
+and low lying flooding with any thunderstorms in the short term. 
+Today holds relatively higher chance of these thunderstorms with 
+more coverage in the forecast.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+Rip current risk forecast is moderate both for today and Friday
+for the ocean beaches of NYC and Long Island due to onshore flow
+of near 5-10 kts as well as 3 to 4 ft of 7-8 sec period swell as
+well as some smaller onshore long period swell of 1 ft and 
+11-12 sec period.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...JM/99
+NEAR TERM...JM
+SHORT TERM...JM
+LONG TERM...99
+AVIATION...DS
+MARINE...JM/99
+HYDROLOGY...JM/99
+TIDES/COASTAL FLOODING...

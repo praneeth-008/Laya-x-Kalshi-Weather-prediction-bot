@@ -1,0 +1,121 @@
+241 
+FXUS61 KOKX 061834
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+234 PM EDT Wed Aug 6 2025
+
+.SYNOPSIS...
+High pressure will remain in control through the weekend, then 
+slowly weakens as a frontal system approaches by the middle of 
+next week.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+The weather remains quiet as deep high pressure remains in
+control. The surface high moves offshore from Quebec tonight.
+Maintained haze in the forecast into late tonight, following the
+HRRR smoke modeling. A few locations reporting visibilities of 
+3 to 5 statue miles, which will improve into tonight with an 
+easterly flow. Temperatures continue to be a few degrees below 
+seasonal normal.
+
+&&
+
+.SHORT TERM /THURSDAY THROUGH FRIDAY NIGHT/...
+Deep ridging remains in place through Friday night with 
+temperatures remaining just below seasonal normals. Smoke is not
+expected to impact the area.
+
+&&
+
+.LONG TERM /SATURDAY THROUGH WEDNESDAY/...
+High pressure both aloft and at the surface will remain in 
+control through early next week. In fact, 500mb heights on the 
+12Z GFS over the weekend increase to +2-3SD across the Northeast
+and eastern Canada. This is in response to offshore low 
+development over the western Atlantic and an upper trough moving
+into the Northern Plains and upper Midwest. The former is being
+monitored by the NHC for potential tropical cyclone 
+development. Model consensus takes this low well east of the 
+area. The upper trough sends a weak frontal system toward the 
+area by the middle of next week. A late day shower or 
+thunderstorm may be possible mainly NW of NYC Wednesday 
+afternoon/evening.
+
+Thus, looking at a warmup with near normal temperatures to 
+start, but increasing to about 5-8 degrees above normal early 
+next week. Otherwise, it will be mainly dry with plenty of sun. 
+
+&&
+
+.AVIATION /18Z WEDNESDAY THROUGH MONDAY/...
+High pressure remains north and east of the terminals through
+the TAF period. 
+
+Northern terminals (KSWF/KHPN/KEWR/KTEB) may have some 
+visibility restrictions to 4SM-6SM through early this afternoon
+for HZ. Otherwise, mainly VFR conditions are expected through 
+the TAF period.
+
+SE Winds increase to around 10 kt through this afternoon. Winds
+may once again back to the E tonight and fall below 10kt, then
+shift again towards the SE on Thursday. 
+
+  NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+
+Low confidence in duration of HZ conditions.
+
+
+.OUTLOOK FOR 18Z THURSDAY THROUGH MONDAY... 
+
+Thursday - Monday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Sub-SCA conditions are expected through Friday night. Winds 
+will generally remain weak through the weekend. However, a 
+building easterly swell will likely bring SCA seas into the 
+water late Saturday into Sunday. The swell will be emanating 
+from low pressure over the western Atlantic. NHC is monitoring 
+an area for potential tropical cyclone development. Model 
+consensus takes this low well east of the waters. 
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns through the middle of next 
+week.
+
+&&
+
+.TIDES/COASTAL FLOODING...
+There is a moderate rip risk through Friday due a persistent 3-4ft 
+easterly swell.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...Air Quality Alert until midnight EDT tonight for NYZ067-068.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...MET/DW
+NEAR TERM...MET
+SHORT TERM...DS
+LONG TERM...DW
+AVIATION...20
+MARINE...MET/DW
+HYDROLOGY...MET/DW
+TIDES/COASTAL FLOODING...

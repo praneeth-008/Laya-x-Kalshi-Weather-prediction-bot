@@ -1,0 +1,248 @@
+504 
+FXUS61 KOKX 251800
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+200 PM EDT Fri Apr 25 2025
+
+.SYNOPSIS...
+High pressure moves offshore today as a frontal system 
+approaches tonight and impacts the area on Saturday. High 
+pressure builds during the second half of the weekend and 
+settles nearby Monday into Tuesday. The high will give way to 
+the next frontal system late on Tuesday, which moves across the 
+area through Wednesday. High pressure may return next Thursday.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+Made minor adjustments to the probabilities into this evening,
+with the slower timing of the warm front, and weak forcing
+moving in early this evening.
+
+A frontal boundary moves up to the north today across Upstate 
+NY and Northern New England as high pressure at the surface gets
+offshore. Mid and upper level ridging takes shape through the 
+early afternoon, with the ridge axis getting further east late 
+in the day and towards evening. This will lead to a fair amount 
+of sunshine to start, but with ridging shifting east later today
+expect more in the way of mid level clouds during the 
+afternoon. Temperatures will continue to average above normal. 
+There will be more of a departure from normal with respect to 
+temperatures across interior locations with a southerly 
+trajectory to the low level winds. This means coastal sections 
+will experience relatively cooler temperatures with mainly 60s, 
+with middle and upper 70s to around 80 across western and 
+interior locations.
+
+For tonight clouds lower with some shower activity becoming more 
+likely towards and after midnight, although a few showers cannot be 
+completely ruled out during the evening across the western half of 
+the area. As the night wears on look for more widespread shower 
+activity with the approach of a pre-frontal trough and elevated warm 
+front. Overall, light shower activity takes shape from warm 
+advection during the overnight and into early Saturday morning with 
+likely and categorical PoPs after 06z. With dew points slowly 
+climbing though the 50s on a southerly flow it will be quite mild 
+and well above normal temperature wise with NE NJ and the NYC metro 
+hovering around 60 degrees.
+
+&&
+
+.SHORT TERM /SATURDAY THROUGH SUNDAY/...
+Look for the more widespread shower activity to take place during 
+the morning hours. Towards the late morning and mid day the 
+convective allowing models (CAMs) indicate a break in the action 
+with the pre-frontal trough and warm advection related shower 
+activity getting off to the east. This should get followed by a 
+relative break in the action. The actual cold front then begins to 
+swing through during the late afternoon and evening. Most CAMs have 
+scattered shower activity associated with and just ahead of the cold 
+front with enhanced reflectivity and possible convection with a few 
+thunderstorms possible. At this time it appears that any convection 
+would be sub-severe with minimal CAPE indicated in BUFKIT profiles 
+for the most part. The NAM 3km has indicated around 1000 to 1500 
+J/kg in CAPE, but this can often be overdone and is a known bias in 
+the NAM 3km. For now carrying isolated and slight chance wording 
+with respect to any thunderstorm activity. The winds will gust just 
+ahead of the front out of the SW up to 20 to 30 mph along some 
+coastal sections. The winds with the cold frontal passage quickly 
+shift to the WNW with a brief period of 30 to 35 mph gusts possible 
+as deeper mixing gets established quickly Saturday evening. Rainfall 
+totals are expected to average anywhere from a half inch to one inch 
+across the area. Drier air pushes in Saturday night with dew points 
+falling through the 40s. By Sunday morning it will be brisk and 
+noticeably cooler with widespread middle and upper 40s and NW winds 
+gusts to around 25 mph.
+
+During Sunday the upper level gyre / low swings by to the north 
+along the St. Lawrence River Valley. With a cold pool aloft expect 
+fair weather cumulus to develop during the day, with the outside 
+chance of a rogue shower or two across northern sections in closer 
+proximity to the upper level low and steeper mid level lapse rates. 
+Much of the column will be quite dry so it should remain primarily 
+dry, but cannot totally rule out some sprinkles or a quick brief 
+shower up to the north. Brisk and cool despite pockets of late April 
+sunshine with temperatures in the upper 50s to lower 60s which will 
+be around 5 degrees below average for the time of year. Winds may 
+gust to 30 to 35 mph at times as Canadian high pressure builds from 
+the Great Lakes and Ohio Valley.
+
+&&
+
+.LONG TERM /SUNDAY NIGHT THROUGH THURSDAY/...
+No major changes were made to the forecast from Sunday night
+through next Thursday. 
+
+Closed upper low and its associated trough will move off the New
+England coast Sunday night. Ridging will then build over the 
+region through Tuesday. The ridge slides offshore by Tuesday
+night as the next progressive shortwave trough approaches. The
+trough will swing across the northeast Tuesday night through
+Wednesday leaving behind a flatter ridge for next Thursday. At
+the surface, a lingering surface trough from Sunday pushes east
+as high pressure builds overhead Sunday night through Monday.
+The high will shift offshore on Tuesday as the aforementioned
+shortwave sends the next frontal system towards the area. The
+system pushes through on Wednesday followed by the potential of
+another high pressure for next Thursday.
+
+Much of the long term will remain dry with the only chance of
+showers occurring Tuesday night into Wednesday. The main area of
+forcing passes our area to the north and moisture is limited
+with the system. The latest model consensus probabilities 
+remain very low and generally 20-30 percent, highest well NW of 
+the NYC metro. Some weak instability is noted Tuesday evening 
+across the interior, so will carry a slight chance of thunder 
+for these locations. Otherwise, dry conditions likely prevail
+into next Thursday.
+
+Temperatures look to remain above normal through Wednesday with
+Tuesday and Wednesday being the warmest days. Highs on Tuesday 
+should reach the middle and upper 70s away from the NYC metro on
+NW and upper 60s and lower 70s closer to the coast. Winds are 
+likely to become more W on Wednesday allowing the entire area to
+reach the 70s with temperatures close to 80 in NE NJ.
+Temperatures may fall back closer to average levels on Thursday
+in the 60s.
+
+&&
+
+.AVIATION /18Z FRIDAY THROUGH WEDNESDAY/...
+High pressure remains offshore through this evening. A frontal 
+system will impact the terminals tonight into Saturday. 
+
+VFR conditions through 00z Saturday. Conditions should then 
+begin lowering to MVFR by 06z with IFR becoming likely early 
+Saturday morning. There is a chance for LIFR conditions late 
+tonight into early Saturday morning. Showers become widespread 
+overnight into early Saturday. Improvement to MVFR is possible 
+by 15z Saturday then to VFR after 18Z from west to east.  
+Scattered showers and an isolated thunderstorm possible 
+for much of the day. 
+
+S-SE winds into late this afternoon at around 10-15 kt with 
+gusts around 20 kt, especially away from the immediate coast. 
+Gusts should end in the evening, but S-SSE sustained winds 10-13
+kt likely continue overnight. Windy conditions return Saturday
+morning with gusts around 25 kts. 
+
+LLWS possible late tonight/early Saturday morning east of the 
+NYC metro terminals. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+Gusts at KEWR, KLGA, and KTEB may be occasional through late this
+afternoon.
+
+Timing of lowering flight categories and SHRA tonight may be 
+off by 1-3 hours. LIFR conditions possible early Saturday 
+morning. 
+
+.OUTLOOK FOR 18Z SATURDAY THROUGH WEDNESDAY...
+
+Saturday: IFR in the morning, improving to MVFR/VFR late 
+morning into the afternoon. Showers. Isolated thunderstorm
+possible, especially afternoon and evening. SW gusts 15-25 kt, 
+becoming W-NW late day/evening. 
+
+Sunday: VFR. NW gusts 25-30 kt possible.
+
+Monday: VFR.
+
+Tuesday: VFR. SW gusts 20-25 kt possible in the afternoon and
+evening.
+
+Wednesday: VFR.
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+No changes to winds and seas at this time.
+
+With high pressure getting east of the waters sub advisory 
+conditions will prevail through this afternoon with ocean seas 
+not much above 2 to 3 ft. By late this afternoon into this 
+evening the pressure gradient increases some with southerly 
+gusts potentially approaching 20 kt for some of the southern 
+coastal waters, especially further west. Small craft conditions 
+will become increasingly likely during Saturday on the ocean 
+with seas climbing to around 5 to 6 ft, and wind gusts 
+approaching 25 kt for the southern and eastern bays of LI ahead 
+of an approaching cold front. SW winds will switch quickly to 
+the W, then NW from west to east with the passage of a cold 
+front by the late Saturday afternoon and evening. A small craft 
+advisory has been issued for Saturday for the eastern and 
+southern bays of LI along with far eastern LI Sound. For the 
+ocean the small craft advisory goes into Saturday night. The 
+winds switch quickly to the WNW Saturday evening, and then 
+become more NW on Sunday with small craft gusts likely across 
+all waters through the day.
+
+A weak pressure gradient over the waters will lead to conditions
+below SCA levels Sunday night through Tuesday morning.
+Increasing S winds will occur Tuesday afternoon leading to the
+next potential SCA Tuesday night into Wednesday on the ocean.
+
+&&
+
+.FIRE WEATHER...
+A special weather statement for potential wild fire spread has been 
+issued for NE NJ until 7 pm this evening as minimum RH levels 
+approach 30 percent by late morning and afternoon. Southerly winds 
+also increase with gusts up to 20 mph. The risk of fire spread
+ends during the evening with as RH levels climb and a wetting
+rain develops later at night.
+
+&&
+
+.HYDROLOGY...
+There are no hydrologic concerns throughout the forecast period.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...Small Craft Advisory from 6 AM to 8 PM EDT Saturday for ANZ332.
+     Small Craft Advisory from 6 AM to 6 PM EDT Saturday for ANZ340-
+     345.
+     Small Craft Advisory from 6 AM Saturday to 6 AM EDT Sunday for 
+     ANZ350-353-355.
+
+&&
+
+$$
+
+SYNOPSIS...JE/DS
+NEAR TERM...JE/MET
+SHORT TERM...JE
+LONG TERM...DS
+AVIATION...20
+MARINE...JE/DS/MET
+FIRE WEATHER...
+HYDROLOGY...JE/DS

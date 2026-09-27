@@ -1,0 +1,177 @@
+197 
+FXUS61 KOKX 112246
+AFDOKX
+
+Area Forecast Discussion
+National Weather Service New York NY
+646 PM EDT Tue Mar 11 2025
+
+.SYNOPSIS...
+A weak cold front moves through tonight with high pressure building 
+back in for Wednesday. A weak wave of low pressure moves by 
+Wednesday night. High pressure remains in control Thursday and 
+Friday. Thereafter, a warm front lifts through Saturday, before
+a strong cold front moves through the region into Sunday night.
+Behind it, high pressure returns early next week.
+
+&&
+
+.NEAR TERM /UNTIL 6 AM WEDNESDAY MORNING/...
+Advancing cold front, draped across Upstate NY and Central PA 
+at 2230Z, passes thru the region this evening. Little moisture 
+and forcing will keep conditions dry locally, though winds shift
+NW then N into the overnight as surface high pressure builds 
+east behind the fropa. Forecast remains on track and previous 
+discussion follows.
+
+Clear skies and light winds, at least initially, during the 
+evening should promote a decoupling of the BL with some 
+efficient radiational cooling possible for the more outlying 
+areas.
+
+A cold front is expected to move through around midnight which will 
+allow winds to shift out of the NW and increase a bit. This 
+additional mixing may allow for any spots that radiational cool 
+earlier in the evening to warm back up a bit and limit the 
+radiational cooling. Generally mostly clear skies and dry 
+conditions are expected tonight with lows in the 30s, cooler 
+inland and warmer near NYC, which may not drop out of the low 
+40s.
+
+&&
+
+.SHORT TERM /6 AM WEDNESDAY MORNING THROUGH WEDNESDAY NIGHT/...
+High pressure moving north of the area builds back in for Wednesday 
+allowing for mostly clear to partly cloudy skies during much of the 
+day. A light N/NE flow in the morning shifts to an E flow by 
+afternoon. This onshore flow with the high pressure sliding 
+northeast of the area will promote cooler temperatures and an 
+increase in low level moisture. Highs Wednesday are expected to be in 
+the upper 40s to low 50s.
+
+Clouds begin to build into the area late afternoon and into the 
+overnight as a weak surface trough approaches from the west. This 
+will promote some overrunning of warmer air which combined with the 
+increase low level moisture, may produce some shower activity over 
+the area Wednesday late afternoon and through the overnight period. 
+Depending on the exact timing and surface temperatures of any shower 
+activity will determine whether these showers fall in the form of a 
+light rain or light snow/rain mix for interior areas. The thinking 
+is largely any shower activity will fall in the form of mostly rain, 
+but a rain/snow mix or some light snow for the higher elevations to 
+the north can't be ruled out. Little to no snow accumulation is 
+expected and rainfall amounts will be less than a tenth of an inch. 
+Low temperatures Wednesday night will be in the 30s once again with 
+colder locations to the north and warmer spots in and around the NYC 
+metro.
+
+&&
+
+.LONG TERM /THURSDAY THROUGH TUESDAY/...
+High pressure moves into the Canadian Maritimes Thursday while a 
+weak low passes to the south and off the Mid Atlantic coast. With 
+the easterly flow, expect plenty of stratus to develop and move in, 
+with patchy areas of fog possible at times. Appreciable rainfall 
+looks limited however during this time. 
+
+A more unsettled pattern sets up as deepening low pressure cuts 
+through the Central US and into the Upper Great Lakes this weekend 
+with a mid level trough amplifying as it shifts east. This will send 
+an associated warm front thru the local area Saturday, and 
+strengthening southerly flow helps stream in moisture from the Gulf 
+into Sunday. Potential for a period of heavy downpours ahead of the 
+attendant cold frontal passage, though still differences in global 
+guidance timing and placement that will need to be resolved before 
+getting too specific. Conditions should generally start to dry out 
+into Monday as the system exits and high pressure builds in from the 
+South.
+
+Temperatures remain above average through the period. In fact, most 
+should remain above the freezing mark into mid next week. Thursday 
+looks to be the coolest day of the period with onshore flow helping 
+dampen temperatures in the afternoon. Still, highs will be near 
+normal values for mid March, generally in the upper 40s. Thereafter, 
+a milder air mass advects in and keeps daytime temperatures in the 
+50s and 60s, with overnight lows in the 30s, 40s, and even 50s this 
+weekend for some.
+
+&&
+
+.AVIATION /00Z WEDNESDAY THROUGH SUNDAY/...
+A cold front approaches this afternoon and passes through the 
+terminals tonight. High pressure builds across New England on 
+Wednesday.
+
+VFR. 
+
+SSW-SSE winds 10-15 kt this afternoon. Gusts 17-20 kt are possible, 
+especially at KLGA, KEWR, KTEB, KHPN, and KSWF. Wind speeds will 
+weaken this evening as the direction veers to the SW. Wind then 
+shift to the N behind the front 03-05z, under 10 kt. The flow will 
+continue to veer to the NE-ENE Wednesday morning. 
+
+ ...NY Metro (KEWR/KLGA/KJFK/KTEB) TAF Uncertainty...
+End time of gusts this evening may be off by 1-2 hours. 
+
+Timing of wind shift to the N tonight may be off by 1-2 hours.
+
+.OUTLOOK FOR 18Z WEDNESDAY THROUGH SUNDAY...
+
+Wednesday Afternoon: VFR. 
+
+Wednesday night-Thursday: MVFR or lower possible. Slight chance of a 
+rain shower along the coast, and snow showers inland Wednesday night.
+
+Friday: VFR.
+
+Saturday: MVFR possible. Slight chance of rain showers. S gusts 20-
+30 kt Saturday night. 
+
+Sunday: IFR or lower possible with showers, especially in the 
+afternoon and at night. S wind gusts 25-35 kt. 
+
+Detailed information, including hourly TAF wind component forecasts, 
+can be found at: https:/www.weather.gov/zny/n90
+
+&&
+
+.MARINE...
+Sub SCA conditions persist tonight and through much of the day 
+Wednesday with light flow. A more persistent E/SE flow picks up 
+late Wednesday which may generate wave heights near 5 feet on 
+some of the ocean zones by Wednesday night and into Thursday 
+night. All sheltered waters will remain below SCA thresholds.
+
+Ocean seas are expected to lower below SCA criteria Friday, before 
+increasing once again late Saturday with strengthening southerly 
+flow. SCA conditions return to all waters by Sunday with 25 kt gusts 
+developing.
+
+&&
+
+.HYDROLOGY...
+No hydrologic impacts expected into the beginning of this weekend.
+There is potential for heavy downpours ahead of a frontal passage
+Sunday and Sunday night. There remains uncertainty into the 
+duration and placement, but the possibility of nuisance flooding
+cannot be ruled out.
+
+&&
+
+.OKX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+NY...None.
+NJ...None.
+MARINE...None.
+
+&&
+
+$$
+
+SYNOPSIS...DR/MW
+NEAR TERM...DR/MW
+SHORT TERM...MW
+LONG TERM...DR
+AVIATION...DS
+MARINE...DR/MW
+HYDROLOGY...DR/MW
