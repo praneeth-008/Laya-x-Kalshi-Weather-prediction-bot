@@ -18,6 +18,7 @@ hours F00-F48; every other hourly init produces only F00-F18.
 """
 
 import math
+import re
 import time
 from dataclasses import dataclass
 from datetime import datetime, timedelta, timezone
@@ -33,6 +34,13 @@ EXTENDED_MAX_FH = 48
 STANDARD_MAX_FH = 18
 
 NYC_TZ = ZoneInfo("America/New_York")
+
+# HRRR's own distance sanity-check ceiling for decode_message_multi_point,
+# named explicitly here (matching data.gfs.MAX_PATCH_DISTANCE_KM's pattern)
+# rather than relying only on that function's shared default. Unchanged
+# value/derivation from the original grid-cache work: ~3x HRRR's measured
+# ~1km nearest-grid-point distance / 3km native grid spacing.
+MAX_PATCH_DISTANCE_KM = 10.0
 
 
 def max_forecast_hour(run_hour: int) -> int:
@@ -105,12 +113,122 @@ def fetch_idx(grib_key_: str, stats: RequestStats | None = None) -> list[dict]:
 
 def find_message(entries: list[dict], variable: str, level: str) -> dict | None:
     """Locate one variable's message in a parsed .idx list and compute its
-    byte range (end = next message's start - 1, or None for "to EOF")."""
+    byte range (end = next message's start - 1, or None for "to EOF").
+    Safe ONLY for (variable, level) pairs known to be unique in HRRR's idx
+    (verified empirically for every CORE_VARS entry except APCP -- HRRR
+    always publishes exactly two APCP:surface candidates from forecast_hour
+    2 onward: a cumulative-since-run-start total and a direct 1-hour
+    windowed accumulation). For APCP, use select_message_explicit(), which
+    never relies on idx ordering. See docs/gfs_pilot_readiness.md for the
+    GFS analog and docs/hrrr_apcp_backfill.md for HRRR's own investigation."""
     for i, e in enumerate(entries):
         if e["variable"] == variable and e["level"] == level:
             byte_end = entries[i + 1]["byte_start"] - 1 if i + 1 < len(entries) else None
             return {**e, "byte_end": byte_end}
     return None
+
+
+_FORECAST_DESC_INSTANT = re.compile(r"^(\d+) hour fcst$")
+_FORECAST_DESC_WINDOW_HOUR = re.compile(r"^(\d+)-(\d+) hour (acc|ave) fcst$")
+_FORECAST_DESC_WINDOW_DAY = re.compile(r"^(\d+)-(\d+) day (acc|ave) fcst$")
+
+
+def parse_forecast_desc(desc: str) -> dict:
+    """Parse an HRRR .idx forecast_desc field into a structured descriptor:
+    {"kind": "instant" | "accum" | "average", "start_hour": int | None, "end_hour": int}.
+    Same format/parser as data/gfs.py's (duplicated per this project's
+    existing per-source-module convention -- each source owns its own
+    fetch_idx/find_message primitives, unchanged elsewhere). Raises
+    ValueError for any unrecognized format -- never guesses."""
+    desc = desc.strip()
+    m = _FORECAST_DESC_INSTANT.match(desc)
+    if m:
+        return {"kind": "instant", "start_hour": None, "end_hour": int(m.group(1))}
+    m = _FORECAST_DESC_WINDOW_HOUR.match(desc)
+    if m:
+        start, end, kind = int(m.group(1)), int(m.group(2)), m.group(3)
+        return {"kind": "accum" if kind == "acc" else "average", "start_hour": start, "end_hour": end}
+    m = _FORECAST_DESC_WINDOW_DAY.match(desc)
+    if m:
+        start, end, kind = int(m.group(1)) * 24, int(m.group(2)) * 24, m.group(3)
+        return {"kind": "accum" if kind == "acc" else "average", "start_hour": start, "end_hour": end}
+    raise ValueError(f"Unrecognized HRRR forecast_desc format: {desc!r}")
+
+
+def select_message_explicit(entries: list[dict], variable: str, level: str, forecast_hour: int, prefer: str) -> dict | None:
+    """Explicit, documented product selection for HRRR's APCP -- never
+    relies on idx ordering, unlike find_message(). See
+    docs/hrrr_apcp_backfill.md for the full investigation this codifies.
+
+    prefer:
+      "cumulative_since_start" -- select the candidate whose accumulation
+                                  window starts at hour 0 (the quantity
+                                  already persisted in the frozen pilot as
+                                  "APCP").
+      "windowed_1h"             -- select the candidate whose accumulation
+                                  window is exactly 1 hour ending at
+                                  forecast_hour (HRRR's direct NOAA 1-hour
+                                  product -- the "APCP_1H" feature; NEVER
+                                  reconstructed by differencing cumulative
+                                  values, which was empirically shown to be
+                                  inexact in ~47% of tested cases).
+
+    At forecast_hour == 1, HRRR publishes only ONE APCP candidate, whose
+    window is simultaneously [0,1] (satisfies "cumulative_since_start") and
+    exactly 1 hour long (satisfies "windowed_1h") -- both prefer values
+    correctly resolve to this SAME message, since the two definitions
+    describe the same physical interval at this one forecast hour. This is
+    intentional, not a special case in the code.
+
+    Returns None if no candidate exists at all for (variable, level).
+    Raises RuntimeError (fails loudly) if a candidate's forecast_desc can't
+    be parsed, if zero candidates satisfy the rule at this forecast_hour, or
+    if more than one candidate satisfies it with a DIFFERENT accumulation
+    window (a genuine, unexpected ambiguity)."""
+    candidates = [e for e in entries if e["variable"] == variable and e["level"] == level]
+    if not candidates:
+        return None
+
+    parsed = []
+    for e in candidates:
+        try:
+            p = parse_forecast_desc(e["forecast_desc"])
+        except ValueError as exc:
+            raise RuntimeError(
+                f"select_message_explicit: cannot parse forecast_desc for {variable}:{level} "
+                f"(forecast_hour={forecast_hour}): {exc}. All candidates: "
+                f"{[c['forecast_desc'] for c in candidates]}"
+            ) from exc
+        if p["end_hour"] == forecast_hour:
+            parsed.append((e, p))
+
+    if prefer == "cumulative_since_start":
+        matches = [(e, p) for e, p in parsed if p["kind"] == "accum" and (p["start_hour"] or 0) == 0]
+    elif prefer == "windowed_1h":
+        matches = [(e, p) for e, p in parsed if p["kind"] == "accum" and p["end_hour"] - (p["start_hour"] or 0) == 1]
+    else:
+        raise ValueError(f"select_message_explicit: unknown prefer strategy {prefer!r}")
+
+    if not matches:
+        raise RuntimeError(
+            f"select_message_explicit: NO {variable}:{level} candidate satisfies rule "
+            f"prefer={prefer!r} at forecast_hour={forecast_hour}. All candidates seen: "
+            f"{[c['forecast_desc'] for c in candidates]}"
+        )
+    if len(matches) > 1:
+        windows = {(p["start_hour"], p["end_hour"]) for _, p in matches}
+        if len(windows) > 1:
+            raise RuntimeError(
+                f"select_message_explicit: AMBIGUOUS -- {len(matches)} candidates for {variable}:{level} "
+                f"satisfy rule prefer={prefer!r} at forecast_hour={forecast_hour} with DIFFERING "
+                f"accumulation windows: {[e['forecast_desc'] for e, _ in matches]}"
+            )
+        # Same (start_hour, end_hour) window repeated -- not an error.
+
+    chosen_entry, chosen_parsed = matches[0]
+    i = entries.index(chosen_entry)
+    byte_end = entries[i + 1]["byte_start"] - 1 if i + 1 < len(entries) else None
+    return {**chosen_entry, "byte_end": byte_end, "_parsed": chosen_parsed}
 
 
 def fetch_byte_range(grib_key_: str, byte_start: int, byte_end: int | None, stats: RequestStats | None = None) -> tuple[bytes, str | None]:

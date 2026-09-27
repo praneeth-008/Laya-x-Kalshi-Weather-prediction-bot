@@ -23,6 +23,7 @@ objects for 2025-07-01, consistent with GFS's documented schedule):
     structurally different from HRRR's Lambert Conformal ~3km grid.
 """
 
+import re
 import time
 from dataclasses import dataclass
 from datetime import datetime, timedelta, timezone
@@ -39,6 +40,23 @@ EXTENDED_MAX_FH = 384
 EXTENDED_STEP = 3
 
 NYC_TZ = ZoneInfo("America/New_York")
+
+# GFS's 0.25deg regular_ll grid is far coarser than HRRR's ~3km Lambert grid,
+# so the distance sanity-check ceiling used by decode_message_multi_point
+# must be derived from GFS's OWN grid geometry, not inherited from HRRR.
+# DERIVATION (verified against a real decoded message: gridType=regular_ll,
+# Ni=1440, Nj=721, 0.25deg spacing in both dimensions): at Central Park's
+# latitude (~40.78N), one grid cell measures ~27.75km (lat direction,
+# latitude-independent) x ~21.0km (lon direction, scaled by cos(40.78deg)).
+# The theoretical WORST CASE nearest-grid-point distance for any query point
+# is half the cell diagonal: 0.5*sqrt(27.75**2 + 21.0**2) = ~17.4km. 20km
+# gives a deliberate, but not excessive, margin above that theoretical worst
+# case (~15%) -- tight enough that a genuinely wrong grid (e.g. a mismatched
+# projection or a stale/corrupt fingerprint) mapping to a point tens of km
+# away would still be caught, while never rejecting a legitimately correct
+# GFS grid mapping. This is a SAFETY CEILING on plausibility, not a mechanism
+# for choosing between candidate grid points -- see data/pilot_extraction.py.
+MAX_PATCH_DISTANCE_KM = 20.0
 
 
 def available_forecast_hours() -> list[int]:
@@ -107,16 +125,133 @@ def fetch_idx(grib_key_: str, stats: RequestStats | None = None) -> list[dict]:
 
 
 def find_message(entries: list[dict], variable: str, level: str) -> dict | None:
-    """First matching message. NOTE: GFS's pgrb2.0p25 idx has been
-    observed to list APCP:surface:0-N hour acc fcst TWICE, back-to-back,
-    with no other distinguishing text in the simple .idx format. We take
-    the first occurrence and flag this as an OBSERVED anomaly rather than
-    silently guessing which one is "correct" -- see feasibility report."""
+    """First matching message. Safe ONLY for (variable, level) pairs known to
+    be unique in GFS's pgrb2.0p25 idx (verified empirically for every
+    CORE_VARS entry except APCP and TCDC). For APCP and TCDC specifically,
+    GFS publishes multiple distinct products under the identical
+    (variable, level) key -- use select_message_explicit() for those, which
+    never relies on idx ordering. See docs/gfs_pilot_readiness.md."""
     for i, e in enumerate(entries):
         if e["variable"] == variable and e["level"] == level:
             byte_end = entries[i + 1]["byte_start"] - 1 if i + 1 < len(entries) else None
             return {**e, "byte_end": byte_end}
     return None
+
+
+_FORECAST_DESC_INSTANT = re.compile(r"^(\d+) hour fcst$")
+_FORECAST_DESC_WINDOW_HOUR = re.compile(r"^(\d+)-(\d+) hour (acc|ave) fcst$")
+_FORECAST_DESC_WINDOW_DAY = re.compile(r"^(\d+)-(\d+) day (acc|ave) fcst$")
+
+
+def parse_forecast_desc(desc: str) -> dict:
+    """Parse a GFS .idx forecast_desc field into a structured descriptor:
+    {"kind": "instant" | "accum" | "average", "start_hour": int | None, "end_hour": int}.
+    start_hour is None for "instant" (a single instantaneous valid time, no
+    window). Raises ValueError for any format not explicitly recognized --
+    this function NEVER guesses at an unfamiliar format, matching the
+    project's existing policy of raising rather than silently continuing
+    when something isn't understood."""
+    desc = desc.strip()
+    m = _FORECAST_DESC_INSTANT.match(desc)
+    if m:
+        return {"kind": "instant", "start_hour": None, "end_hour": int(m.group(1))}
+    m = _FORECAST_DESC_WINDOW_HOUR.match(desc)
+    if m:
+        start, end, kind = int(m.group(1)), int(m.group(2)), m.group(3)
+        return {"kind": "accum" if kind == "acc" else "average", "start_hour": start, "end_hour": end}
+    m = _FORECAST_DESC_WINDOW_DAY.match(desc)
+    if m:
+        start, end, kind = int(m.group(1)) * 24, int(m.group(2)) * 24, m.group(3)
+        return {"kind": "accum" if kind == "acc" else "average", "start_hour": start, "end_hour": end}
+    raise ValueError(f"Unrecognized GFS forecast_desc format: {desc!r}")
+
+
+def select_message_explicit(entries: list[dict], variable: str, level: str, forecast_hour: int, prefer: str) -> dict | None:
+    """Explicit, documented product selection for GFS variables that publish
+    MULTIPLE distinct products under one (variable, level) idx key -- never
+    relies on idx ordering, unlike find_message().
+
+    prefer:
+      "instant"         -- select the single instantaneous-valid-time entry
+                            (used for TCDC: preserves an instantaneous
+                            atmospheric-state interpretation, consistent with
+                            HRRR's own instantaneous TCDC and with this
+                            project's point-in-time weather_state philosophy).
+      "shortest_window" -- among accumulation-type ("accum") entries whose
+                            window ends at forecast_hour, select the one with
+                            the SMALLEST (end_hour - start_hour) window (used
+                            for APCP: this is the "how much precipitation
+                            fell recently" signal the project wants, as
+                            opposed to a cumulative-since-run-start total that
+                            would conflate all precipitation since forecast
+                            init and lose the ability to see whether
+                            precipitation is recent/ongoing).
+
+    Returns None if no candidate exists at all for (variable, level).
+    Raises RuntimeError (fails loudly, with full diagnostic detail) if:
+      - a candidate's forecast_desc cannot be parsed,
+      - zero candidates satisfy the rule at this forecast_hour, or
+      - more than one candidate satisfies it with a DIFFERENT accumulation
+        window (start_hour, end_hour).
+    A tie between candidates that share the exact same (start_hour, end_hour)
+    is not an error: EMPIRICALLY VERIFIED (see docs/gfs_pilot_readiness.md)
+    that at forecast_hour<=6, GFS's pipeline emits the [0, forecast_hour]
+    accumulation as two separate GRIB messages (different byte offsets) with
+    byte-for-byte identical GRIB metadata (startStep/endStep/stepRange/
+    typeOfStatisticalProcessing) and identical decoded values -- a file-
+    generation artifact, not a second distinct product. Any tie where the
+    windows genuinely differ is a real ambiguity and still fails loudly."""
+    candidates = [e for e in entries if e["variable"] == variable and e["level"] == level]
+    if not candidates:
+        return None
+
+    parsed = []
+    for e in candidates:
+        try:
+            p = parse_forecast_desc(e["forecast_desc"])
+        except ValueError as exc:
+            raise RuntimeError(
+                f"select_message_explicit: cannot parse forecast_desc for {variable}:{level} "
+                f"(forecast_hour={forecast_hour}): {exc}. All candidates: "
+                f"{[c['forecast_desc'] for c in candidates]}"
+            ) from exc
+        if p["end_hour"] == forecast_hour:
+            parsed.append((e, p))
+
+    if prefer == "instant":
+        matches = [(e, p) for e, p in parsed if p["kind"] == "instant"]
+    elif prefer == "shortest_window":
+        accum = [(e, p) for e, p in parsed if p["kind"] == "accum"]
+        if accum:
+            min_window = min(p["end_hour"] - (p["start_hour"] or 0) for _, p in accum)
+            matches = [(e, p) for e, p in accum if (p["end_hour"] - (p["start_hour"] or 0)) == min_window]
+        else:
+            matches = []
+    else:
+        raise ValueError(f"select_message_explicit: unknown prefer strategy {prefer!r}")
+
+    if not matches:
+        raise RuntimeError(
+            f"select_message_explicit: NO {variable}:{level} candidate satisfies rule "
+            f"prefer={prefer!r} at forecast_hour={forecast_hour}. All candidates seen: "
+            f"{[c['forecast_desc'] for c in candidates]}"
+        )
+    if len(matches) > 1:
+        windows = {(p["start_hour"], p["end_hour"]) for _, p in matches}
+        if len(windows) > 1:
+            raise RuntimeError(
+                f"select_message_explicit: AMBIGUOUS -- {len(matches)} candidates for {variable}:{level} "
+                f"satisfy rule prefer={prefer!r} at forecast_hour={forecast_hour} with DIFFERING "
+                f"accumulation windows: {[e['forecast_desc'] for e, _ in matches]}"
+            )
+        # Same (start_hour, end_hour) window repeated across multiple GRIB
+        # messages (verified empirically to carry identical values) -- not
+        # an error; pick the first, they are scientifically equivalent.
+
+    chosen_entry, chosen_parsed = matches[0]
+    i = entries.index(chosen_entry)
+    byte_end = entries[i + 1]["byte_start"] - 1 if i + 1 < len(entries) else None
+    return {**chosen_entry, "byte_end": byte_end, "_parsed": chosen_parsed}
 
 
 def fetch_byte_range(grib_key_: str, byte_start: int, byte_end: int | None, stats: RequestStats | None = None) -> tuple[bytes, str | None]:

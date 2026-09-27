@@ -129,11 +129,22 @@ def _build_cache_entry(search_results: list[dict], grid_ni: int | None, grid_nj:
     }
 
 
-def decode_message_multi_point(raw_bytes: bytes, points: list[tuple[float, float]]) -> list[dict]:
+def decode_message_multi_point(raw_bytes: bytes, points: list[tuple[float, float]],
+                                max_distance_km: float = _MAX_PATCH_DISTANCE_KM) -> list[dict]:
     """Decode one standalone GRIB2 message and extract values at MULTIPLE
     (lat, lon) points, reusing a per-process cache of the Central Park patch's
     grid indices when the message's grid identity has been positively
     validated before (see _grid_fingerprint/_GRID_CACHE below).
+
+    max_distance_km: the distance sanity-check ceiling (see
+    _validate_patch_distances). Defaults to _MAX_PATCH_DISTANCE_KM (10 km,
+    calibrated for HRRR's ~3km native grid) so every existing call site keeps
+    its exact current behavior unchanged. A source with a coarser native grid
+    (e.g. GFS's 0.25deg regular_ll grid, whose theoretical worst-case nearest-
+    point distance is ~17.4km -- see docs/gfs_pilot_readiness.md) MUST pass an
+    explicit, larger value here; this is a safety check on whether the grid
+    mapping is plausible at all, never a mechanism for choosing between grid
+    points.
 
     Decodes directly from the in-memory byte range via
     eccodes.codes_new_from_message() -- no temp file is created at all, which
@@ -192,7 +203,7 @@ def decode_message_multi_point(raw_bytes: bytes, points: list[tuple[float, float
                 lons = eccodes.codes_get_array(gid, "longitudes")
                 lons_wrapped = (lons + 180) % 360 - 180
                 fresh = _full_grid_search(lats, lons_wrapped, points)
-                _validate_patch_distances(fresh, points)
+                _validate_patch_distances(fresh, points, max_km=max_distance_km)
                 if _entries_agree(entry, fresh):
                     entry["hits_since_validation"] = 0
                     entry["validated_at"] = time.time()
@@ -216,7 +227,7 @@ def decode_message_multi_point(raw_bytes: bytes, points: list[tuple[float, float
             lons = eccodes.codes_get_array(gid, "longitudes")
             lons_wrapped = (lons + 180) % 360 - 180
             search_results = _full_grid_search(lats, lons_wrapped, points)
-            _validate_patch_distances(search_results, points)
+            _validate_patch_distances(search_results, points, max_km=max_distance_km)
             if cache_key is not None:
                 grid_ni = _safe_get(gid, "Ni")
                 grid_nj = _safe_get(gid, "Nj")
