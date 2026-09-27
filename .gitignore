@@ -41,6 +41,10 @@ data/processed/pilot/*
 !data/processed/pilot/observations/
 !data/processed/pilot/afd/
 !data/processed/pilot/hrrr/
+# Bulk HRRR Parquet output stays out of Git regardless of source machine --
+# only the checkpoint/report metadata directly under hrrr/ is lightweight
+# enough to track; the actual extracted rows (parts/) are not.
+data/processed/pilot/hrrr/parts/*
 
 !data/processed/weather/
 data/processed/weather/*
