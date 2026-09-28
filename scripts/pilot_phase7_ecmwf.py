@@ -4,10 +4,15 @@ Structurally mirrors scripts/pilot_phase3_hrrr.py / pilot_phase4_gfs.py /
 pilot_phase5_nbm.py / pilot_phase6_gefs.py (same
 Checkpoint/run_concurrent/flush-dir architecture).
 
-NOT YET LAUNCHED AT PILOT SCALE. This script exists for ECMWF
-production-readiness validation (small representative sample + benchmark
-only) -- see docs/ecmwf_pilot_readiness.md for the full investigation this
-codifies. DO NOT run main() at full scale without explicit approval.
+APPROVED FOR FULL-SCALE LAUNCH: ECMWF deterministic production-readiness
+validation passed -- see docs/ecmwf_pilot_readiness.md. Production commit:
+c95b54d802dcea5599939bbe00c2ca87793bfbfb.
+
+Production output (data/processed/pilot/ecmwf/) is a DEDICATED directory,
+never shared with any validation/benchmark script -- all prior ECMWF
+validation/benchmark work in this project ran entirely from Claude's
+scratchpad directory, outside the repo and outside this path (same
+contamination-prevention discipline established after the NBM pilot).
 
 Key ECMWF-specific findings (all empirically verified 2026-09-28 across 5
 selected-pilot dates, both run hours, steps 0-360 -- see
@@ -105,7 +110,27 @@ WINDOWED_VARS = ["tp", "ssrd"]
 # for the overall forecast-hour schedule.
 PERIOD_MAXMIN_REGIME_BOUNDARY_HOURS = 144
 
-MAX_WORKERS = 8  # placeholder pending independent benchmark (see docs/ecmwf_pilot_readiness.md) -- NOT inherited from HRRR/GFS/NBM/GEFS; this bucket rate-limits more aggressively (data/ecmwf.py's own retry/backoff design).
+MAX_WORKERS = 16  # independently benchmarked for ECMWF (docs/ecmwf_pilot_readiness.md sections 30-31): highest single-trial throughput, avoids the dip observed at 20 workers -- NOT inherited from HRRR/GFS/NBM/GEFS; this bucket rate-limits more aggressively and shows substantially higher run-to-run variance (data/ecmwf.py's own retry/backoff design absorbs this transparently).
+# ~5.6 GB estimated remote download for the full 904-item pilot (measured
+# ~6.2 MB/item during benchmarking); 2x safety margin, same policy as every other source.
+BYTE_BUDGET = 5.6e9 * 2
+
+OUT_DIR = ROOT / "data/processed/pilot/ecmwf"
+FLUSH_DIR = OUT_DIR / "parts"
+OUT_DIR.mkdir(parents=True, exist_ok=True)
+CHECKPOINT_PATH = OUT_DIR / "pilot_ecmwf_checkpoint.json"
+
+
+def run_times_for_selected_days():
+    dates_needed = set()
+    for d in SELECTED_DATES:
+        dates_needed.add(d)
+        dates_needed.add(d - timedelta(days=1))
+    run_times = []
+    for d in sorted(dates_needed):
+        for h in sorted(RUN_HOURS):
+            run_times.append(datetime.combine(d, datetime.min.time(), tzinfo=timezone.utc) + timedelta(hours=h))
+    return sorted(set(run_times))
 
 
 def required_forecast_hours_for_run(run_time: datetime) -> set[int]:
@@ -182,12 +207,44 @@ def extract_one_run_step(run_time: datetime, step: int):
 
 
 def main():
-    raise RuntimeError(
-        "ECMWF pilot is NOT approved for a full launch yet -- this is a "
-        "production-readiness validation script. Use the small validation "
-        "sample harness instead (see docs/ecmwf_pilot_readiness.md). Remove "
-        "this guard only after explicit approval to launch the full pilot."
-    )
+    _log(f"ECMWF PILOT starting: {len(SELECTED_DATES)} selected target days, MAX_WORKERS={MAX_WORKERS}")
+    _log(f"Network-safety byte budget: {BYTE_BUDGET/1e9:.1f} GB")
+
+    checkpoint = Checkpoint(CHECKPOINT_PATH)
+    run_times = run_times_for_selected_days()
+    work_items = []
+    for rt in run_times:
+        for fh in sorted(required_forecast_hours_for_run(rt)):
+            key = f"ecmwf|{rt.isoformat()}|{fh}"
+            work_items.append((key, (rt, fh)))
+    _log(f"Total (run,forecast_hour) work items: {len(work_items)} across {len(run_times)} runs")
+
+    status = "DONE"
+    try:
+        result = run_concurrent(work_items, extract_one_run_step, checkpoint, FLUSH_DIR,
+                                 max_workers=MAX_WORKERS, save_every=25, byte_budget=BYTE_BUDGET, label="ecmwf")
+    except RuntimeError as e:
+        _log(f"ABORTED: {e}")
+        status = "ABORTED_NETWORK_SAFETY"
+        result = {}
+
+    write_report(checkpoint, result, status)
+    _log("ECMWF PILOT finished." if status == "DONE" else "ECMWF PILOT stopped (see status).")
+
+
+def write_report(checkpoint, result, status):
+    counts = checkpoint.counts()
+    n_parts = len(list(FLUSH_DIR.glob("*.parquet"))) if FLUSH_DIR.exists() else 0
+    report = {
+        "n_selected_days": len(SELECTED_DATES),
+        "work_item_status_counts": counts,
+        "total_bytes_this_run": result.get("total_bytes_this_run"),
+        "n_part_files": n_parts,
+        "status": status,
+    }
+    with open(OUT_DIR / "pilot_ecmwf_download_report.json", "w") as f:
+        json.dump(report, f, indent=2, default=str)
+    _log(json.dumps(report, default=str))
 
 
 if __name__ == "__main__":

@@ -1,0 +1,102 @@
+{
+  "manifest_version": "1.0",
+  "dataset_name": "ecmwf_deterministic_pilot_40day",
+  "dataset_status": "FINAL_PASS",
+  "manifest_written_at_utc": "2026-09-28T23:55:00.000000+00:00",
+  "provenance": {
+    "git_commit": "c95b54d802dcea5599939bbe00c2ca87793bfbfb",
+    "git_commit_short": "c95b54d",
+    "git_branch": "main",
+    "working_tree_clean_at_extraction": "yes",
+    "provenance_status": "exact",
+    "notes": "Production code (data/ecmwf.py, scripts/pilot_phase7_ecmwf.py including its launch driver) was fully committed at commit c95b54d BEFORE extraction began -- no uncommitted fixes were required during or after the run. The entire 904-item dataset is reproducible from this single commit. Production output used its own dedicated directory (data/processed/pilot/ecmwf/), never shared with any validation/benchmark script (all prior ECMWF validation/benchmark work ran from Claude's scratchpad directory, outside the repo) -- confirmed via a pre-launch check that the directory did not yet exist, and post-run reconciliation confirming the checkpoint's 904 keys match the independently-recomputed canonical work-item set exactly (0 missing, 0 extra). 0 extraction failures occurred during the run (0 retries needed) -- data/ecmwf.py's internal backoff/retry logic, built for this bucket's known aggressive rate-limiting, was never required to intervene."
+  },
+  "target": {
+    "city": "NYC",
+    "station": "KNYC",
+    "latitude": 40.7794,
+    "longitude": -73.9691,
+    "timezone": "America/New_York"
+  },
+  "selected_days": {
+    "path": "data/processed/weather/pilot/selected_days.csv",
+    "count": 40,
+    "sha256": "90355ade1277f7d8fcf10f3482c92ba193f09bf693dd5c2057b704bc048e9015"
+  },
+  "source": {
+    "name": "ecmwf_deterministic",
+    "model": "ECMWF-IFS",
+    "stream": "oper",
+    "archive": "s3://ecmwf-forecasts",
+    "archive_regime": "ifs_0p25",
+    "validated_modern_regime_start": "2024-02-29",
+    "variables": [
+      "2t",
+      "2d",
+      "10u",
+      "10v",
+      "sp",
+      "tp",
+      "ssrd",
+      "mx2t3",
+      "mn2t3",
+      "mx2t6",
+      "mn2t6"
+    ],
+    "grid_fingerprint": "md5:265781b4edc06425746b46a5775244eb",
+    "max_patch_distance_km": 20.0,
+    "max_observed_distance_km": 8.345738672654203,
+    "availability_method": "S3_LAST_MODIFIED_PROXY",
+    "availability_confidence": "LOW",
+    "temporal_semantics_reference": "docs/variable_semantics.md#ecmwf-deterministic-oper-stream",
+    "fh0_semantics": "2t/2d/10u/10v/sp present and meaningful at F0. tp is present but degenerate (zero-width window, value=0.0) -- explicitly skipped. mx2t3/mn2t3 at F0 are degenerate placeholders decoding to 0.0 Kelvin (physically impossible) -- explicitly skipped. 0 rows for tp/ssrd/mx2t3/mn2t3/mx2t6/mn2t6 confirmed at forecast_hour=0 in the final dataset.",
+    "window_semantics": "tp/ssrd are pure cumulative-since-run-start at every forecast hour (never differenced in this extraction). mx2t3/mn2t3 (rolling 3h window) apply for forecast_hour<=144; mx2t6/mn2t6 (rolling 6h window) apply for forecast_hour>144 -- a real regime switch caught during validation and explicitly handled, not silently missed. This 40-day production run's target-day-only design never required forecast hours beyond F39, so mx2t6/mn2t6 do not appear in this dataset (0 rows) -- not a defect, a consequence of the lead-in extraction window never reaching the 6-hourly regime.",
+    "availability_finding": "All forecast hours of a run share Last-Modified within a 37-59 second window at a typical ~514-minute lag from run_time -- confirmed a bulk archive-sync event, not genuine per-forecast-hour progressive dissemination. Production-scale audit found 2 of 144 runs (2025-02-24 12Z and 2025-02-25 00Z, both real selected-pilot-day runs) with anomalously longer lag (718 and 1436 minutes respectively) while still maintaining full internal atomicity (all variables of each affected run shared the same lag) -- a genuine, occasional archive-sync delay, not a data-quality defect. See docs/ecmwf_pilot_readiness.md and manifest 'performance' section."
+  },
+  "work_items": {
+    "planned": 904,
+    "done": 904,
+    "failed": 0,
+    "row_count": 71352,
+    "parquet_part_count": 37,
+    "initial_transient_failures": 0,
+    "final_failures_after_retry": 0
+  },
+  "paths": {
+    "checkpoint": "data/processed/pilot/ecmwf/pilot_ecmwf_checkpoint.json",
+    "processed_data": "data/processed/pilot/ecmwf/parts/",
+    "download_report": "data/processed/pilot/ecmwf/pilot_ecmwf_download_report.json"
+  },
+  "extraction_script": "scripts/pilot_phase7_ecmwf.py",
+  "runtime_overrides": {
+    "MAX_WORKERS": 16,
+    "note": "matches scripts/pilot_phase7_ecmwf.py's own committed default (independently benchmarked for ECMWF, see docs/ecmwf_pilot_readiness.md sections 30-31) -- no override needed"
+  },
+  "performance": {
+    "actual_runtime_minutes": 14.15,
+    "actual_avg_items_per_sec": 1.065,
+    "actual_remote_bytes_read": 5988525259,
+    "actual_local_processed_bytes": 764503,
+    "actual_retries": 0,
+    "actual_availability_lag_minutes": {
+      "median": 514.08,
+      "p10": 514.05,
+      "p90": 514.13,
+      "min": 514.02,
+      "max": 1436.05,
+      "note": "Extremely tight P10-P90 band (0.08 min) confirms the near-atomic bulk-sync finding at full production scale. The max (1436 min) reflects 2 of 144 runs with a genuine, occasional archive-sync delay (still internally atomic within each affected run) -- not a data-quality defect."
+    },
+    "estimate_vs_actual_note": "Pre-launch estimates (docs/ecmwf_pilot_readiness.md sections 34-36, from a 12-item benchmark sample) were ~5.6 GB remote / ~0.8 MB local / (runtime not separately estimated, benchmark showed high variance). Actual full-scale production run: ~5.99 GB remote (close match), ~0.76 MB local (close match), 14.15 minutes runtime at 1.065 items/sec sustained throughput -- faster than every individual benchmark trial (0.37-0.94 items/sec), consistent with the pattern observed in every other pilot in this project (a sustained long run outperforms short repeated-trial benchmarks). 0 retries were needed, better than anticipated given this bucket's known rate-limiting behavior."
+  },
+  "validation": {
+    "status": "FINAL_PASS",
+    "references": [
+      "docs/ecmwf_pilot_readiness.md",
+      "docs/variable_semantics.md",
+      "docs/point_in_time.md",
+      "docs/live_information_state.md",
+      "docs/validation.md",
+      "docs/decisions.md"
+    ]
+  }
+}

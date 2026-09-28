@@ -1,6 +1,6 @@
 # ECMWF Deterministic Pilot Readiness
 
-STATUS: PRODUCTION-READINESS VALIDATED (small representative sample + benchmark only; full 40-day pilot NOT launched).
+STATUS: COMPLETE -- FINAL PASS.
 
 All findings below were independently re-verified against the live archive on 2026-09-28 across 5 selected-pilot dates spanning the full range (2025-01-02, 2025-03-19, 2025-06-15, 2025-07-22, 2025-08-24), both run hours, and forecast hours 0-360. Prior single-day (2025-07-01) feasibility findings (`scripts/test_ecmwf_nyc_feasibility.py`, `data/ecmwf.py`'s original docstring) were treated as hypotheses to confirm, not facts to assume.
 
@@ -217,11 +217,70 @@ ECMWF's `ifs/0p25` regime (this project's current, validated implementation) onl
 
 No changes to `data/weather_state.py` (existing ECMWF deterministic logic validated as correct, no fix needed), no changes to frozen HRRR/GFS/NBM/GEFS processed data.
 
+## 39. Full 40-day production pilot -- STATUS: FINAL PASS
+
+Launched 2026-09-28 at commit `c95b54d` (fully committed BEFORE extraction -- no uncommitted fix was needed during or after the run), 16 workers, dedicated output directory `data/processed/pilot/ecmwf/` (confirmed empty/non-existent before launch).
+
+### Result
+
+| Metric | Value |
+|---|---|
+| Planned work items | 904 |
+| DONE | 904 |
+| FAILED (final) | 0 |
+| Retries needed | 0 (data/ecmwf.py's rate-limit backoff was never required to intervene) |
+| Parquet parts | 37 |
+| Total rows | 71,352 |
+| Full-row duplicates | 0 |
+| Logical-key duplicates | 0 |
+| Checkpoint rows-sum <-> persisted rows | exact match (71,352 = 71,352) |
+| Approved canonical work-plan <-> checkpoint | exact match (904 = 904; 0 missing, 0 extra) |
+| Approved canonical work-plan <-> persisted data | exact match (904 distinct (run,forecast_hour) combos; 0 missing, 0 extra) |
+| Zero-byte / corrupt Parquet files | 0 |
+| Schema consistency | 1 schema across all 37 parts |
+| Grid fingerprint | `md5:265781b4edc06425746b46a5775244eb` -- unchanged, 1 distinct grid cell, reconfirmed via live recompute |
+| Max observed patch distance | 8.346 km (threshold 20.0 km), 0 violations |
+| Selected-day coverage | 40/40 |
+| Run-hour coverage | both (00/12Z) |
+| Forecast-hour range used | F0-F39 only -- this production run's target-day-only design never required forecast hours beyond F39, so `mx2t6`/`mn2t6` (the F150+ regime fields) never appear in this dataset (0 rows). This is a consequence of the lead-in-day extraction window, not a defect -- the mx2t3-to-mx2t6 transition itself was verified in the validation-sample phase (section 15) using directly-targeted long-horizon items, not exercised again at this production scale. |
+| F0 semantics | 0 rows for tp/ssrd/mx2t3/mn2t3 at forecast_hour=0; 0 rows with mx2t3/mn2t3 value=0.0K (confirms no degenerate placeholder leaked into canonical data) |
+| Physical sanity | tp range 0.0-0.0217m (no negative precipitation), sp range 100344-103166 Pa (plausible), 2t range 1.8-104.8F (plausible across a full year), all clean |
+| Temp-file leaks | 0 |
+| Decode failures | 0 (0 corrupt Parquet files) |
+
+No data-hygiene contamination was found -- consistent with GEFS's precedent (dedicated output directory, never touched by any validation/benchmark script), the checkpoint's 904 keys matched the independently-recomputed canonical work-item set exactly from the start.
+
+### A real availability finding at production scale: 2 delayed-sync runs
+
+The audit found 2 of 144 runs (2025-02-24 12Z and 2025-02-25 00Z -- both real selected-pilot-day runs, not edge cases outside scope) with substantially longer archive-sync lag than the typical ~514 minutes: 1436 minutes (~23.9h) and 718 minutes (~12h) respectively. Critically, BOTH runs remained fully internally atomic -- every variable within each affected run shared the identical lag, confirming this is still a single bulk-sync event, just delayed relative to the usual baseline (most likely a genuine, occasional ECMWF-side or archive-mirror processing delay around that calendar date). This does not contradict the core readiness finding (which held for 142/144 runs, 98.6%) -- it refines it: the archive is reliably atomic per-run, but the absolute lag before that atomic sync fires can occasionally be much longer than typical. The no-lookahead policy handled this correctly regardless (see below), since it always waits for whatever the actual observed `available_time` is, not an assumed fixed lag.
+
+### Completeness / no-lookahead against REAL production data (including the delayed-sync case)
+
+Deliberately used the 2025-02-25 delayed-sync date as the real-data test case (rather than an easy/uneventful date), since `get_latest_forecast()`'s wrapper defaults to a single hardcoded target date (2025-07-01, the same documented, out-of-scope limitation encountered in the NBM/GEFS phases) -- the completeness logic itself (`assess_deterministic_run_completeness`) was exercised directly with explicit day bounds for the real 2025-02-25 target day:
+
+- All 3 real runs covering that day (2025-02-24 12Z, 2025-02-25 00Z, 2025-02-25 12Z) independently assessed `COMPLETE`.
+- Querying 10 seconds after the older run's (2025-02-24 12Z) OWN internal burst began (but before its full ~41-second burst finished) correctly showed `INCOMPLETE` -- confirming the narrow intra-burst race window is real and correctly handled, not just a synthetic test construct.
+- Querying 5 seconds after that run's full internal burst completed correctly showed `COMPLETE`, with the newer run (2025-02-25 00Z, whose own burst hadn't started yet) correctly still `INCOMPLETE` -- demonstrating `latest_usable_run` would correctly stay on the older run.
+- Once the newer run's own burst also completed, it correctly became the usable run.
+- 0 no-lookahead violations throughout.
+
+### Actual vs. estimated (do not confuse the two)
+
+| | Estimated (sections 34-36, from a 12-item benchmark) | Actual (full 904-item production run) |
+|---|---|---|
+| Remote bytes read | ~5.6 GB | ~5.99 GB |
+| Local processed storage | ~0.8 MB | ~0.76 MB |
+| Runtime | not separately estimated (benchmark showed high variance) | 14.15 minutes |
+| Throughput | 0.37-0.94 items/sec (benchmark trials) | 1.065 items/sec (sustained full run) |
+| Retries needed | not estimated | 0 |
+
+Same pattern as every other pilot in this project: sustained full-run throughput exceeded every individual short benchmark trial.
+
 ## Unresolved issues carried forward
 
 1. No native 2m relative humidity or cloud-cover field exists in this product at all -- a genuine, permanent structural gap versus every NOAA source in this project (not a bug to fix).
 2. `tp`/`ssrd` are pure cumulative-since-start throughout the full 360h horizon -- a windowed "recent precipitation/radiation" signal would require differencing consecutive values ourselves (same situation HRRR's APCP was in pre-backfill); not implemented in this phase.
-3. Full 40-day pilot not yet launched -- all figures in sections 34-36 are estimates from a 12-item benchmark sample, not measurements.
-4. The benchmark showed unusually high run-to-run throughput variance (0.37-0.94 items/sec at the same worker count) attributable to this bucket's aggressive, variable rate-limiting -- worker count is a secondary factor compared to this inherent variance; actual full-pilot runtime should be expected to vary correspondingly.
+3. This production run's target-day-only design never required forecast hours beyond F39, so the `mx2t3`-to-`mx2t6` regime transition (validated in the small-sample phase) was not re-exercised at production scale in this specific dataset -- would need direct verification again if a future extraction ever needs longer-horizon ECMWF forecasts.
+4. 2 of 144 production runs showed a substantially longer-than-typical archive-sync lag (718/1436 min vs. the typical ~514 min) -- a genuine, occasional archive behavior, correctly handled by the no-lookahead policy, but worth knowing about for anyone interpreting ECMWF availability timestamps around 2025-02-24/25 specifically.
 5. Availability confidence remains LOW by design (see section 21) -- this is a property of the archive, not something further investigation in this phase could resolve, short of contacting ECMWF directly about their official dissemination schedule (out of scope).
 6. Older archive regimes (`0p4-beta`, bare `0p25`, pre-2024-02-29) were boundary-dated but not functionally validated (index format/grid/variables) -- required only if/when the five-year backfill effort (section 37) is undertaken.

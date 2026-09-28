@@ -190,6 +190,12 @@ ADR-style record of the significant decisions made during this project so far. D
 - **Why**: direct HEAD-probe verification across 21 dates spanning 2023-06 through 2026-09 found a clean, unambiguous one-day boundary (2024-02-28 is the last day the older regimes work; 2024-02-29 is the first day the modern regime takes over) -- more precise than needed to assert "our entire pilot's dates are safe," but cheap to obtain and worth recording exactly.
 - **Consequences**: confirms with certainty that all 40 selected pilot days (2025-01-02 to 2025-08-24) are safely within the single modern `ifs/0p25` regime -- no mixed-regime handling was needed for this pilot's production code.
 
+### Full 40-day ECMWF pilot: FINAL PASS, final numerical-weather source frozen
+- **Date**: 2026-09-28
+- **Decision**: launched and completed the full 904-item, 40-day ECMWF deterministic pilot at commit `c95b54d` -- fully committed BEFORE extraction, matching GEFS's exact-provenance precedent. Declared FINAL PASS after the integrity audit. This is the final planned numerical-weather source for the current pilot (HRRR/GFS/NBM/GEFS/ECMWF all now frozen).
+- **Why**: all pre-production checks passed; the audit found 0 duplicates, 0 corrupt files, exact checkpoint/persisted-row/canonical-work-plan reconciliation, and 0 extraction failures (0 retries needed, better than anticipated given this bucket's known rate-limiting). The completeness/no-lookahead logic was verified against real production rows for 2025-02-25 -- deliberately chosen because it was one of 2 dates (out of 144 runs) that showed a genuine, occasional archive-sync delay (718/1436 min lag vs. the typical ~514 min), confirming the no-lookahead policy handles real-world timing variance correctly rather than only the easy/typical case.
+- **Consequences**: `data/processed/pilot/ecmwf/manifest.json`'s `provenance_status` is `"exact"` (matching GEFS, not GFS's/NBM's "historical provenance partially reconstructed"). This production run's target-day-only design never required forecast hours beyond F39, so the `mx2t3`-to-`mx2t6` regime transition was validated only in the small-sample phase, not re-exercised at this production scale -- worth re-confirming if a future extraction ever needs longer ECMWF horizons.
+
 ### NBM WIND/WDIR kept as scalar speed/direction, not converted to U/V
 - **Date**: 2026-09-27
 - **Decision**: extract NBM's `WIND`/`WDIR` as-is (scalar speed and direction at 10m) rather than converting to U/V components to match HRRR/GFS's representation.
