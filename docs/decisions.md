@@ -142,6 +142,30 @@ ADR-style record of the significant decisions made during this project so far. D
 - **A finding along the way**: the post-run audit caught 9 stray checkpoint entries (648 rows) left over from an earlier validation-phase small sample that had written into the same output directory before this launch. This was investigated (root cause: shared output path across two separate runs, not an extraction defect -- checkpoint/resume itself behaved correctly, with 0 duplication of the 3 items that legitimately overlapped), cleaned (stray rows removed from the one affected Parquet part, stray checkpoint keys deleted), and re-verified before the manifest was written. See `nbm_pilot_readiness.md` section 18 and the manifest's provenance notes.
 - **Consequences**: `data/processed/pilot/nbm/manifest.json` is the production provenance record; future pilots should use a dedicated output directory per validation phase rather than reusing the eventual production path, to avoid this class of contamination recurring.
 
+### GEFS: no duplicate-product selection needed; window varies instead
+- **Date**: 2026-09-28
+- **Decision**: use plain `find_message()` (exact var/level match) for every GEFS variable rather than building a `select_message_explicit`/`prefer` mechanism like HRRR/GFS/NBM's APCP.
+- **Why**: empirically confirmed across 21 forecast hours, multiple members/run hours -- GEFS's `pgrb2sp25` product has exactly ONE candidate per (variable, level) at every forecast hour. What varies instead is the single candidate's declared accumulation/average/period window (cumulative-since-start for FH<=6, then resets every 6h synoptic mark). `parse_forecast_desc()` parses this directly from the observed text; no formula is hardcoded into extraction.
+- **Consequences**: simpler extraction code for GEFS than for HRRR/GFS/NBM's APCP; the correctness burden shifts entirely to correct window PARSING rather than product SELECTION.
+
+### GEFS distance threshold independently derived, found identical to GFS's
+- **Date**: 2026-09-28
+- **Decision**: derive `MAX_PATCH_DISTANCE_KM=20.0` for GEFS from its own grid geometry, not copied from GFS.
+- **Why**: GEFS's `pgrb2sp25` grid was independently decoded and its `md5GridSection` fingerprint (`45f3a4a8af23f33a77ab669d0fa1d813`) found to be genuinely identical to GFS's -- both use the same NCEP 0.25deg global lat/lon grid. The independently-derived worst-case-distance formula applied to this confirmed-identical geometry naturally produces the same 20km value GFS uses.
+- **Consequences**: the equality is a confirmed fact about the archive, not an assumption carried over between sources.
+
+### GEFS ensemble completeness: conservative complete-member rule, no code change needed
+- **Date**: 2026-09-28
+- **Decision**: keep the existing `assess_ensemble_run_completeness` logic in `data/weather_state.py` (built in an earlier architecture phase, before this session) unchanged -- a GEFS run is usable only when all 31 members have all expected target-day valid times present.
+- **Why**: 14 targeted tests (schedule sanity, full-completeness, one-member-missing, one-valid-time-missing, newer-partial-run-does-not-replace-older-complete-run, latest_seen-advances-independently, no-lookahead, member-distribution-preserved) all passed against this pre-existing code once independently validated against the real archive's confirmed 3-hourly F0-F240 schedule. No evidence was found to justify relaxing to a partial-member rule for the pilot.
+- **Consequences**: `data/weather_state.py` required no GEFS-related changes in this phase, unlike NBM's completeness gap which did need a fix.
+
+### GEFS work-item granularity: (run, member, forecast_hour)
+- **Date**: 2026-09-28
+- **Decision**: use `(run_time, ensemble_member, forecast_hour)` as the checkpoint/work-item key for the GEFS pilot extraction, rather than fetching all 31 members inside one `(run, forecast_hour)` worker call.
+- **Why**: the archive itself partitions storage this way (one GRIB2 file per member per forecast hour); matching that partitioning keeps one idx-fetch-plus-byte-ranges per work item (same efficiency as every other source) while giving per-member checkpoint granularity and independent retry -- a single slow/failed member never blocks an entire run's other 30 members.
+- **Consequences**: ~62,744 work items for the full 40-day pilot (vs. HRRR's 20,836 / GFS's 5,836 / NBM's 31,578) -- roughly 2x NBM's count, reflecting the 31-member multiplier offset by GEFS's coarser 3-hourly cadence.
+
 ### NBM WIND/WDIR kept as scalar speed/direction, not converted to U/V
 - **Date**: 2026-09-27
 - **Decision**: extract NBM's `WIND`/`WDIR` as-is (scalar speed and direction at 10m) rather than converting to U/V components to match HRRR/GFS's representation.

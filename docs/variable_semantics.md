@@ -145,3 +145,29 @@ NBM's core product has no `UGRD`/`VGRD` entries at all -- wind is published only
 ### F0 does not exist
 
 `forecast_hour=0` is absent from NBM's schedule entirely (confirmed 404 at every run hour/date tested) -- there is no message to select and therefore no ambiguity, unlike HRRR's degenerate F0 APCP entry or GFS's `"anl"`-labeled F0 fields.
+
+## GEFS
+
+### No duplicate products -- unlike HRRR/GFS/NBM's APCP
+
+GEFS's `pgrb2sp25` product has exactly ONE candidate per (variable, level) at every forecast hour, confirmed across 21 forecast hours (F3-F240), multiple members and run hours. `find_message()`'s exact-match lookup is safe here (not idx-ordering-dependent, since there is only ever one candidate to find) -- no `select_message_explicit`/`prefer` mechanism is needed, unlike every other GRIB source in this project.
+
+### The single APCP/TCDC/DSWRF/TMAX/TMIN candidate's WINDOW varies by forecast hour
+
+Since there's no duplicate to select between, the semantic challenge here is not selection but correct window PARSING: the same (variable, level) message's accumulation/average/period window changes with forecast hour, following one shared rule across all 5 of these fields:
+- FH<=6: window=[0,FH] (cumulative since run start).
+- FH>6: resets at every 6-hour synoptic mark: `window_start = 6*floor((FH-1)/6)`, `window_end = FH` (alternating 3h/6h windows, e.g. F009=[6,9], F012=[6,12], F015=[12,15]).
+
+This formula is documentation only -- `data.gefs.parse_forecast_desc()` always parses the actual observed `forecast_desc` text (e.g. `"6-9 hour acc fcst"`), never computes the window from the formula. Do not assume GFS's "shortest-recent-window selected from duplicates" logic applies here; GEFS has no duplicates, just one candidate whose declared window shifts.
+
+### F0: instant fields present, accumulation fields absent, TMAX/TMIN degenerate
+
+TMP/DPT/RH/UGRD/VGRD/PRES ARE present and meaningful at F0 (`forecast_desc='anl'`, same convention as GFS's analysis-time label). APCP/TCDC/DSWRF are structurally absent at F0 entirely (0 idx entries -- not a selection ambiguity, there is no message). TMAX/TMIN at F0 use a degenerate `'0-0 day max/min fcst'` zero-width-window format (`lengthOfTimeRange=0`) that decodes to a real value equal to the instantaneous F0 TMP reading, NOT a genuine period max/min -- explicitly skipped in production code rather than fetched, consistent with HRRR's/GFS's other degenerate-F0 handling.
+
+### Member identity is a first-class column, never collapsed
+
+Every row carries `ensemble_member`/`member_type` -- the canonical processed dataset stores per-member rows, never a pre-aggregated mean/std/quantile summary. Member identity is independently cross-checkable from GRIB-internal metadata (`perturbationNumber`, `typeOfEnsembleForecast`) against the filename-derived member id, confirmed matching. Raw ensemble member frequencies (e.g. "X/31 members predict >=90F") are explicitly NOT calibrated probabilities.
+
+### Grid is identical to GFS's -- confirmed, not assumed
+
+`md5GridSection=45f3a4a8af23f33a77ab669d0fa1d813`, matching GFS exactly (both use the same NCEP 0.25deg global lat/lon grid). The distance threshold (20.0km) was independently re-derived from GEFS's own geometry and happens to equal GFS's value as a consequence, not an inheritance.

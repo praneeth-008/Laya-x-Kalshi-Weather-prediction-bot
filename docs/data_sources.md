@@ -62,14 +62,17 @@ Status labels used below: **PILOT COMPLETE** (representative-day pilot run, FINA
 - **Worker count**: 20, independently benchmarked across 8/12/16/20/24 (workload is network-latency-bound, not CPU-bound -- CPU avg never exceeded ~41% even at 24 workers; throughput flat ~1.4-1.8 items/sec across the whole range with zero errors at every count). See `nbm_pilot_readiness.md` section 17.
 - **Pilot result**: 31,578/31,578 work items DONE, 0 FAILED (7 initial transient S3 `ConnectionResetError`s, retried successfully), 1,265 Parquet parts, 2,026,080 rows, 0 duplicates, 0 corrupt/zero-byte files, grid fingerprint and distance threshold both reconfirmed at full scale. One data-hygiene finding (9 stray checkpoint entries / 648 rows left over from an earlier validation-sample run into the same output directory) was caught by the post-run audit and cleaned before finalizing -- see `nbm_pilot_readiness.md` section 18 and `data/processed/pilot/nbm/manifest.json`'s provenance notes for the full account. Actual: ~316.0GB remote bytes read, ~28.0MB local Parquet storage, ~3.68 hours runtime at 20 workers (faster than the ~5.3h pre-launch estimate -- sustained throughput was higher than the short benchmark trials suggested).
 
-## GEFS -- STATUS: NOT STARTED
+## GEFS -- STATUS: PRODUCTION-READINESS VALIDATED (small sample + benchmark only; full 40-day pilot NOT launched)
 
-- Feasibility-tested only (`scripts/test_gefs_nyc_feasibility.py`).
-- Ensemble source: 31 members (`gec00` control + `gep01`-`gep30`), verified present in one 2025-07-01 test.
-- Product: `pgrb2sp25` (0.25deg "small" compact product).
-- `config/bulk_download_spec.json` records a `PENDING_APPROVAL` "INTERMEDIATE" variable scenario (TMP+DPT for all 31 members; UGRD/VGRD/PRES/APCP for the control member only) as a cost-reduction proposal -- not implemented, not re-verified.
-- Nearest grid point measured ~4.18km from Central Park in feasibility testing (same as GFS, consistent with a similar-resolution grid).
-- Completeness for ensembles requires BOTH forecast-hour coverage AND full member-count coverage (`assess_ensemble_run_completeness` in `data/weather_state.py` already implements this generically, but has not been exercised against any real GEFS pilot data).
+- Provider/archive: `s3://noaa-gefs-pds`, public, unauthenticated HTTPS. Ensemble: 31 members (`gec00` control + `gep01`-`gep30` perturbed), confirmed present and stable across 5 selected-pilot dates x 2 run hours (10 combinations, 310 direct probes). `gep31` confirmed absent; `geavg`/`gespr` (precomputed statistics) confirmed present but correctly excluded from the member set.
+- Product: `pgrb2sp25` (0.25deg "small" compact product), path `gefs.{YYYYMMDD}/{HH}/atmos/pgrb2sp25/{member}.t{HH}z.pgrb2s.0p25.f{FFF}`.
+- Run cadence: 4 runs/day (00/06/12/18Z), forecast schedule uniform 3-hourly F0-F240 for every member/run hour/date tested (not run-hour-dependent, unlike NBM).
+- Grid: `regular_ll`, `Ni=1440, Nj=721`, 0.25deg, `md5GridSection=45f3a4a8af23f33a77ab669d0fa1d813` -- confirmed IDENTICAL to GFS's own grid (independently verified, not assumed). The +/-0.03deg 3x3 patch fully collapses to 1 grid cell (max observed distance 8.35km), same behavior as GFS.
+- Distance threshold: 20.0km, independently derived from GEFS's own grid geometry -- equals GFS's value only because the grids are genuinely identical.
+- Variables: TMP, DPT, RH, UGRD, VGRD, PRES (instant, present incl. F0 via `anl`), APCP, TCDC, DSWRF (accum/average, absent at F0, window resets every 6h synoptic mark for FH>6 -- see `variable_semantics.md`), TMAX, TMIN (period max/min, F0 degenerate and skipped). No duplicate products found for any variable at any forecast hour -- unlike HRRR/GFS/NBM's APCP, `find_message()`'s exact-match lookup is safe here.
+- Availability: `S3_LAST_MODIFIED_PROXY`, substantially longer lag than other sources (~3.8h at FH3, growing to ~5.3-5.5h at FH240, confirmed genuine progressive release). Control member arrives ~1-14 min before the perturbed-member batch; perturbed members cluster tightly (~2-14 min spread). Per-row availability preserved at full member/FH granularity, never collapsed.
+- Completeness: conservative complete-ensemble rule (`assess_ensemble_run_completeness` in `data/weather_state.py`, built in an earlier architecture phase, independently re-validated here against the confirmed real schedule -- no fix needed) -- a run is usable only when all 31 members have all expected target-day valid times.
+- Work-item design: `(run_time, ensemble_member, forecast_hour)`. Worker count: 16 (independently benchmarked, network-latency-bound like NBM). Estimated full 40-day pilot: 62,744 work items, ~396GB estimated remote bytes, ~65MB estimated local storage, ~6.0 hours estimated runtime at 16 workers (all estimates; full pilot not launched). See `gefs_pilot_readiness.md` for full detail.
 
 ## ECMWF (deterministic) -- STATUS: NOT STARTED
 

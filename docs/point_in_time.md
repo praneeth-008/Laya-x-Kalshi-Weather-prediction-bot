@@ -20,7 +20,7 @@ A forecast run labeled `06Z` is not usable at `06:00 UTC`. Numerical weather mod
 |---|---|---|
 | HRRR | `S3_LAST_MODIFIED_PROXY` | NORMAL |
 | GFS | `S3_LAST_MODIFIED_PROXY` | NORMAL |
-| GEFS | `S3_LAST_MODIFIED_PROXY` | NORMAL |
+| GEFS | `S3_LAST_MODIFIED_PROXY` | NORMAL (substantially longer lag than other sources -- ~3.8h at FH3 growing to ~5.3-5.5h at FH240, confirmed genuine progressive release; control member arrives ~1-14 min before the perturbed-member batch. Validated at small-sample scale, full 40-day pilot not yet launched) |
 | NBM | `S3_LAST_MODIFIED_PROXY` | NORMAL (~62-63 min observed lag; validated at small sample + benchmark scale, full 40-day pilot not yet launched) |
 | ECMWF deterministic | `S3_LAST_MODIFIED_PROXY` | **LOW** -- measured ~514 min (~8.6h) average lag in feasibility testing, far larger than every other source (not yet extracted at pilot scale) |
 | Observations (ISD) | `OBSERVATION_TIME_ONLY` | the ISD schema has no independent availability timestamp at all; `observation_time` is used as a proxy under the `proxy` policy only |

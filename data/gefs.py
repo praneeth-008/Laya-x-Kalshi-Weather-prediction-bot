@@ -31,6 +31,7 @@ applied retroactively):
     methodological consistency, but noted for a future design decision).
 """
 
+import re
 import time
 from dataclasses import dataclass
 from datetime import datetime, timedelta, timezone
@@ -49,6 +50,66 @@ EXPECTED_MEMBER_COUNT = len(MEMBERS)
 RUN_HOURS = {0, 6, 12, 18}
 FORECAST_STEP_HOURS = 3
 MAX_FORECAST_HOUR = 240
+
+# Independently derived (production-readiness validation, 2026-09-28) from
+# GEFS's own pgrb2sp25 grid geometry: regular_ll, Ni=1440, Nj=721, 0.25deg
+# (md5GridSection=45f3a4a8af23f33a77ab669d0fa1d813, confirmed via direct
+# decode of a real message) -- worst-case distance from any point inside a
+# 0.25deg cell to its center is 0.5*sqrt(Dx^2+Dy^2), Dy=27.75km,
+# Dx=27.75km*cos(40.7deg)=21.0km at NYC's latitude -> ~17.4km theoretical
+# worst case, 20km chosen. This happens to equal GFS's own value because
+# both sources use the exact same NCEP 0.25deg global lat/lon grid (IDENTICAL
+# md5GridSection to GFS's -- confirmed, not assumed) -- NOT inherited without
+# independent verification.
+MAX_PATCH_DISTANCE_KM = 20.0
+
+
+def parse_forecast_desc(desc: str) -> dict:
+    """Parse a GEFS idx forecast_desc into {kind, start_hour, end_hour}.
+
+    GEFS's pgrb2sp25 product (validated 2026-09-28 across 5 dates, all 4 run
+    hours, control + perturbed members, forecast hours 0-240) has EXACTLY ONE
+    candidate per (variable, level) at every forecast hour -- no duplicate
+    products to disambiguate, unlike HRRR/GFS/NBM's APCP. The only thing that
+    varies is the accumulation/average WINDOW, which must be parsed from the
+    text (never assumed from a formula), and F0 uses 'anl' like GFS's
+    analysis-time format:
+      'anl'                    -> instant, window=0 (F0 only; instant fields)
+      'N hour fcst'             -> instant snapshot at hour N (F>=1)
+      'A-B hour acc fcst'       -> accumulation over [A,B]
+      'A-B hour ave fcst'       -> average over [A,B]
+      'A-B hour max fcst'       -> period max over [A,B] (TMAX)
+      'A-B hour min fcst'       -> period min over [A,B] (TMIN)
+      '0-0 day max/min fcst'    -> DEGENERATE zero-width period, F0 TMAX/TMIN
+                                    only (stepType=max/min, lengthOfTimeRange=0
+                                    -- confirmed via direct decode: a real,
+                                    decodable value equal to the instantaneous
+                                    F0 reading, NOT a genuine period max/min).
+                                    Production code explicitly skips TMAX/TMIN
+                                    at forecast_hour=0 rather than fetch this
+                                    (same convention as HRRR's/GFS's other
+                                    degenerate-F0 accumulation fields).
+    Empirically confirmed window rule (not hardcoded, just informative): for
+    FH<=6 the window is [0,FH] (cumulative since run start); for FH>6 it
+    resets every 6h synoptic mark, window=[6*floor((FH-1)/6), FH] (3h or 6h
+    wide). Production code parses the observed text directly rather than
+    relying on this formula."""
+    desc = desc.strip()
+    if desc == "anl":
+        return {"kind": "instant", "start_hour": None, "end_hour": 0}
+    m = re.match(r"^(\d+) hour fcst$", desc)
+    if m:
+        return {"kind": "instant", "start_hour": None, "end_hour": int(m.group(1))}
+    m = re.match(r"^(\d+)-(\d+) hour (acc|ave|max|min) fcst$", desc)
+    if m:
+        start_hour, end_hour, kind_code = int(m.group(1)), int(m.group(2)), m.group(3)
+        kind = {"acc": "accum", "ave": "average", "max": "max", "min": "min"}[kind_code]
+        return {"kind": kind, "start_hour": start_hour, "end_hour": end_hour}
+    m = re.match(r"^(\d+)-(\d+) day (max|min) fcst$", desc)
+    if m:
+        kind = {"max": "max", "min": "min"}[m.group(3)]
+        return {"kind": kind, "start_hour": int(m.group(1)) * 24, "end_hour": int(m.group(2)) * 24, "degenerate_zero_width": m.group(1) == m.group(2)}
+    raise RuntimeError(f"Unrecognized GEFS forecast_desc format: {desc!r}")
 
 NYC_TZ = ZoneInfo("America/New_York")
 
