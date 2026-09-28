@@ -135,6 +135,13 @@ ADR-style record of the significant decisions made during this project so far. D
 - **Why**: empirically confirmed a 1.46F difference between direct TMAX and max(hourly TMP) over the same window -- not measurement noise, and consistent with TMAX being genuinely post-processed rather than a simple reconstruction.
 - **Consequences**: `TMAX_PERIOD`/`TMIN_PERIOD` extracted only for run_hour in {0, 12} (the only run hours that publish them), with run-hour-dependent max/min alternation handled explicitly, never assumed.
 
+### Full 40-day NBM pilot: FINAL PASS, with a caught-and-fixed data-hygiene issue
+- **Date**: 2026-09-28
+- **Decision**: launched and completed the full 31,578-item, 40-day NBM pilot at commit `cb09e8f` (plus an uncommitted-then-committed script fix removing the deliberate launch guard). Declared FINAL PASS after the integrity audit.
+- **Why**: all pre-production checks passed (see `nbm_pilot_readiness.md` sections 1-17); the audit found 0 duplicates, 0 corrupt files, exact checkpoint/persisted-row reconciliation, grid/distance/F0/APCP_6H/TMAX-TMIN semantics all verified at full production scale.
+- **A finding along the way**: the post-run audit caught 9 stray checkpoint entries (648 rows) left over from an earlier validation-phase small sample that had written into the same output directory before this launch. This was investigated (root cause: shared output path across two separate runs, not an extraction defect -- checkpoint/resume itself behaved correctly, with 0 duplication of the 3 items that legitimately overlapped), cleaned (stray rows removed from the one affected Parquet part, stray checkpoint keys deleted), and re-verified before the manifest was written. See `nbm_pilot_readiness.md` section 18 and the manifest's provenance notes.
+- **Consequences**: `data/processed/pilot/nbm/manifest.json` is the production provenance record; future pilots should use a dedicated output directory per validation phase rather than reusing the eventual production path, to avoid this class of contamination recurring.
+
 ### NBM WIND/WDIR kept as scalar speed/direction, not converted to U/V
 - **Date**: 2026-09-27
 - **Decision**: extract NBM's `WIND`/`WDIR` as-is (scalar speed and direction at 10m) rather than converting to U/V components to match HRRR/GFS's representation.

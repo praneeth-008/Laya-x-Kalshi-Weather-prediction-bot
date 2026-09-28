@@ -1,0 +1,90 @@
+{
+  "manifest_version": "1.0",
+  "dataset_name": "nbm_pilot_40day",
+  "dataset_status": "FINAL_PASS",
+  "manifest_written_at_utc": "2026-09-28T03:30:00.000000+00:00",
+  "provenance": {
+    "git_commit": "cb09e8f25395e0276d7a2168fb10e5c933cf0d71",
+    "git_commit_short": "cb09e8f",
+    "git_branch": "main",
+    "working_tree_clean_at_extraction": "no -- see notes",
+    "provenance_status": "historical provenance partially reconstructed",
+    "notes": "Commit cb09e8f (2026-09-27) contains the validated NBM production-readiness code (data/nbm.py, data/weather_state.py's completeness fix, the pre-production benchmark/validation findings) but scripts/pilot_phase5_nbm.py at that commit still had its deliberate launch guard (main() raised RuntimeError) and no production launch driver. Immediately before launch, an UNCOMMITTED change to scripts/pilot_phase5_nbm.py removed that guard and added the production run_times_for_selected_days()/main()/write_report() driver (mirroring pilot_phase4_gfs.py's structure) -- the extraction logic itself (extract_one_run_hour, required_forecast_hours_for_run) was already validated at commit cb09e8f and unchanged. That same script change is committed together with this manifest, so as of the commit accompanying this manifest, the entire 31,578-item dataset is reproducible from a single commit's code going forward. Separately: the extraction run's output directory (data/processed/pilot/nbm/) was found to contain 9 stray checkpoint entries / 648 rows left over from an earlier production-readiness validation-phase small sample (12 items) that had written into the same path before this launch. This was detected during the post-run integrity audit (checkpoint had 31,587 keys vs. 31,578 planned), traced, and cleaned before this manifest was generated: the 648 out-of-scope rows were removed from the one affected Parquet part, the 9 stray checkpoint keys were deleted, and the checkpoint/persisted-row reconciliation was re-verified to match exactly. 7 of the 31,578 real pilot items also failed on the first pass with transient S3 ConnectionResetError (identical pattern to HRRR/GFS's transient failures); all 7 were retried successfully using the unmodified production extraction path with 0 further failures."
+  },
+  "target": {
+    "city": "NYC",
+    "station": "KNYC",
+    "latitude": 40.7794,
+    "longitude": -73.9691,
+    "timezone": "America/New_York"
+  },
+  "selected_days": {
+    "path": "data/processed/weather/pilot/selected_days.csv",
+    "count": 40,
+    "sha256": "90355ade1277f7d8fcf10f3482c92ba193f09bf693dd5c2057b704bc048e9015"
+  },
+  "source": {
+    "name": "nbm",
+    "variables": [
+      "TMP",
+      "DPT",
+      "RH",
+      "WIND",
+      "WDIR",
+      "TCDC",
+      "APCP_1H",
+      "APCP_6H",
+      "TMAX_PERIOD",
+      "TMIN_PERIOD"
+    ],
+    "grid_fingerprint": "md5:5bb2a8d01d638075eaa2ff7236270d44",
+    "max_patch_distance_km": 5.0,
+    "max_observed_distance_km": 1.2384302897169053,
+    "availability_method": "S3_LAST_MODIFIED_PROXY",
+    "temporal_semantics_reference": "docs/variable_semantics.md#nbm",
+    "fh0_semantics": "forecast_hour=0 does not exist for NBM at all (confirmed 404 at every run hour/date tested, and 0 rows observed at forecast_hour=0 in the final dataset) -- there is no degenerate F0 message to special-case, unlike HRRR/GFS.",
+    "run_hour_schedule": "3-tier schedule keyed by run_hour % 6 (full/medium/short horizons) -- see data.nbm.nbm_schedule_tier() and docs/nbm_pilot_readiness.md. Extraction is target-day-only (bounded by each selected day's UTC window), so observed per-run max forecast_hour in this dataset is well below each tier's theoretical ceiling (F264/F189/F36) by design.",
+    "apcp_6h_semantics": "present only when valid_time's hour is an absolute UTC synoptic hour (00/06/12/18Z), i.e. (run_hour+forecast_hour) % 6 == 0 -- NOT simply forecast_hour % 6 == 0. Verified at full production scale: 40,158/40,158 APCP_6H rows have valid_time.hour % 6 == 0.",
+    "tmax_tmin_semantics": "TMAX_PERIOD/TMIN_PERIOD extracted only for run_hour in {0, 12} (verified: only these two run hours appear among TMAX/TMIN rows). Period is fully reconstructable as [valid_time - temporal_window_hours, valid_time] (temporal_window_hours=12 for both)."
+  },
+  "work_items": {
+    "planned": 31578,
+    "done": 31578,
+    "failed": 0,
+    "row_count": 2026080,
+    "parquet_part_count": 1265,
+    "initial_transient_failures": 7,
+    "final_failures_after_retry": 0,
+    "contamination_removed": {
+      "stray_checkpoint_entries_removed": 9,
+      "stray_rows_removed": 648,
+      "source": "leftover from an earlier 12-item production-readiness validation sample that wrote into the same output directory before this launch"
+    }
+  },
+  "paths": {
+    "checkpoint": "data/processed/pilot/nbm/pilot_nbm_checkpoint.json",
+    "processed_data": "data/processed/pilot/nbm/parts/",
+    "download_report": "data/processed/pilot/nbm/pilot_nbm_download_report.json"
+  },
+  "extraction_script": "scripts/pilot_phase5_nbm.py",
+  "runtime_overrides": {
+    "MAX_WORKERS": 20,
+    "note": "matches scripts/pilot_phase5_nbm.py's own committed default (independently benchmarked for NBM, see docs/nbm_pilot_readiness.md section 17) -- no override needed"
+  },
+  "performance": {
+    "actual_runtime_hours": 3.68,
+    "actual_avg_items_per_sec": 2.386,
+    "actual_remote_bytes_read": 316006966732,
+    "actual_local_processed_bytes": 28031381,
+    "estimate_vs_actual_note": "Pre-launch estimates (docs/nbm_pilot_readiness.md section 17, from a 20-item benchmark sample) were ~314 GB remote / ~32 MB local / ~5.3h runtime. Actual full-scale production run: ~316.0 GB remote (close match), ~28.0 MB local (close match, slightly lower due to real variable-presence mix), ~3.68h runtime (faster than estimated -- the benchmark's repeated-short-trial overhead did not reflect a long sustained run's steady-state throughput, which held at ~2.39 items/sec vs. the benchmark's 1.66-1.82 items/sec)."
+  },
+  "validation": {
+    "status": "FINAL_PASS",
+    "references": [
+      "docs/nbm_pilot_readiness.md",
+      "docs/variable_semantics.md",
+      "docs/validation.md",
+      "docs/decisions.md"
+    ]
+  }
+}

@@ -152,6 +152,50 @@ Using the benchmark's measured ~9.94 MB/work-item (consistent across all trials,
 
 The existing schema already fully preserves the represented interval for any period product: `valid_time` is always the period's END, and `temporal_window_hours` is the period's LENGTH -- so `period_start = valid_time - temporal_window_hours` is always exactly recoverable downstream. Demonstrated directly on a real extracted row: a `TMIN_PERIOD` row with `valid_time=2025-01-15T12:00Z`, `temporal_window_hours=12` correctly derives `period=[2025-01-15T00:00Z, 2025-01-15T12:00Z]`. No schema change was needed; this same mechanism already applies identically to `APCP_1H`/`APCP_6H`'s windows.
 
+## 18. Full 40-day production pilot -- STATUS: FINAL PASS
+
+Launched 2026-09-27 at commit `cb09e8f` (+ an uncommitted script fix, see `manifest.json`'s provenance notes), 20 workers.
+
+### Result
+
+| Metric | Value |
+|---|---|
+| Planned work items | 31,578 |
+| DONE | 31,578 |
+| FAILED (final) | 0 |
+| Initial transient failures (S3 `ConnectionResetError`, retried successfully) | 7 |
+| Parquet parts | 1,265 |
+| Total rows | 2,026,080 |
+| Full-row duplicates | 0 |
+| Logical-key duplicates | 0 |
+| Checkpoint rows-sum <-> persisted rows | exact match |
+| Zero-byte / corrupt Parquet files | 0 |
+| Schema consistency | 1 schema across all parts |
+| Grid fingerprint | `md5:5bb2a8d01d638075eaa2ff7236270d44` (matches small-sample validation; reconfirmed via a live post-run recompute) |
+| Max observed patch distance | 1.238 km (threshold 5.0 km) |
+| `forecast_hour=0` rows | 0 (confirmed structural absence) |
+| APCP_6H synoptic-alignment compliance | 40,158/40,158 rows (100%) have `valid_time.hour % 6 == 0` |
+| TMAX/TMIN run-hour restriction | only run_hour in {0, 12} present, as required |
+| Selected-day coverage | 40/40 |
+| Run-hour coverage | all 24 |
+| Temp-file leaks | 0 |
+| Decode failures | 0 |
+
+### A data-hygiene finding, caught and fixed before manifest creation
+
+The post-run audit found the checkpoint held 31,587 keys, not the planned 31,578. Root cause: an earlier production-readiness validation phase's 12-item small sample had been run through the same `Checkpoint`/`run_concurrent` machinery pointed at this same output directory (`data/processed/pilot/nbm/`) before this launch, so 9 of its items (648 rows, one date -- 2025-01-15 -- not even in the selected/lead-in set at all) were sitting in the checkpoint and in one Parquet part file alongside the real pilot's output. 3 of the old sample's 12 items happened to coincide with real pilot work items and were correctly left in place (checkpoint/resume behaved correctly -- no re-fetch, no duplication). The 648 out-of-scope rows were removed from the one affected part file, the 9 stray checkpoint keys were deleted, and the checkpoint-to-persisted-row reconciliation was re-verified to match exactly before the manifest was written. See `manifest.json`'s provenance notes for the full account.
+
+### Actual vs. estimated (do not confuse the two)
+
+| | Estimated (section 17, from a 20-item benchmark) | Actual (full 31,578-item production run) |
+|---|---|---|
+| Remote bytes read | ~314 GB | ~316.0 GB |
+| Local processed storage | ~32 MB | ~28.0 MB |
+| Runtime | ~5.3 hours | ~3.68 hours |
+| Throughput | 1.66-1.82 items/sec (short repeated trials) | 2.386 items/sec (sustained full run) |
+
+The estimate undershot on throughput because the benchmark's short repeated trials carried more per-trial startup overhead than a single long sustained run does; actual production throughput was consistently higher once warmed up.
+
 ## Unresolved issues carried forward
 
 1. ~~`data/weather_state.py`'s NBM completeness branch does not reflect the validated schedule~~ -- **fixed**, see section 17.
