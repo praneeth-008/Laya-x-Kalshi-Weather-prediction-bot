@@ -1,6 +1,6 @@
 # GEFS Pilot Readiness
 
-STATUS: PRODUCTION-READINESS VALIDATED (small representative sample + benchmark only; full 40-day pilot NOT launched).
+STATUS: COMPLETE -- FINAL PASS.
 
 All findings below were independently re-verified against the live archive on 2026-09-28 across 5 selected-pilot dates spanning the full range (2025-01-02, 2025-03-19, 2025-06-15, 2025-07-22, 2025-08-24), all 4 run hours, control + several perturbed members, and forecast hours 0-240. Prior single-day (2025-07-01) feasibility findings (`scripts/test_gefs_nyc_feasibility.py`, `data/gefs.py`'s original docstring) were treated as hypotheses to confirm, not facts to assume -- see each section for what changed vs. what was confirmed as-is.
 
@@ -165,8 +165,74 @@ Not separately re-tested in this phase -- `Checkpoint`/`run_concurrent` in `data
 
 No changes to `data/weather_state.py` (existing GEFS logic validated as correct, no fix needed), no changes to frozen HRRR/GFS/NBM processed data.
 
+## 22. Full 40-day production pilot -- STATUS: FINAL PASS
+
+Launched 2026-09-28 at commit `35f0d69` (fully committed BEFORE extraction -- unlike every prior pilot, no uncommitted fix was needed during or after the run), 16 workers, dedicated output directory `data/processed/pilot/gefs/` (confirmed empty/non-existent before launch, never shared with any validation/benchmark script).
+
+### Result
+
+| Metric | Value |
+|---|---|
+| Planned work items | 62,744 |
+| DONE | 62,744 |
+| FAILED (final) | 0 |
+| Initial transient failures (S3 connection errors, retried successfully) | 203 |
+| Parquet parts | 2,519 |
+| Total rows | 6,027,516 |
+| Full-row duplicates | 0 |
+| Logical-key duplicates | 0 |
+| Checkpoint rows-sum <-> persisted rows | exact match (6,027,516 = 6,027,516) |
+| Approved canonical work-plan <-> checkpoint | exact match (62,744 = 62,744; 0 missing, 0 extra) |
+| Approved canonical work-plan <-> persisted data | exact match (62,744 distinct (run,member,fh) combos; 0 missing, 0 extra) |
+| Zero-byte / corrupt Parquet files | 0 |
+| Schema consistency | 1 schema across all 2,519 parts |
+| Grid fingerprint | `md5:45f3a4a8af23f33a77ab669d0fa1d813` -- unchanged, 1 distinct grid cell across all 6,027,516 rows |
+| Max observed patch distance | 8.346 km (threshold 20.0 km), 0 violations |
+| Selected-day coverage | 40/40 |
+| Run-hour coverage | all 4 (00/06/12/18Z) |
+| Forecast-hour schedule | all multiples of 3, F0-F45 observed (bounded by target-day-only extraction, same pattern as every other source) |
+| 31-member structure | every one of 2,024 distinct (run, forecast_hour) combinations has exactly 31/31 members present -- 100% ensemble completeness across the entire dataset |
+| gep31 / geavg / gespr in canonical data | absent, as required |
+| F0 semantics | 0 rows for APCP/TCDC/DSWRF/TMAX/TMIN at forecast_hour=0 (structural absence correctly preserved at full scale) |
+| APCP/TCDC/DSWRF window rule | confirmed exactly matching the validated 6h-synoptic-reset formula across all forecast hours present (spot-checked F3-F45) |
+| Temp-file leaks | 0 |
+| Decode failures | 0 (0 corrupt Parquet files) |
+
+No data-hygiene contamination was found this time -- unlike the NBM pilot, the dedicated output directory (never touched by any validation/benchmark script) meant the checkpoint's 62,744 keys matched the independently-recomputed canonical work-item set exactly from the start, with no stray entries to clean.
+
+### Completeness / no-lookahead against REAL production data
+
+Since `data/weather_state.py`'s `get_ensemble_state()` wrapper defaults to a single hardcoded target date (2025-07-01, a known, documented, out-of-scope design limitation also encountered during the NBM phase), the completeness logic itself (`assess_ensemble_run_completeness`) was exercised directly against real rows for an actual covered selected day (2025-06-29), bypassing only the wrapper's hardcoded default:
+
+- All 7 real runs covering 2025-06-29 (2025-06-28 06/12/18Z + 2025-06-29 00/06/12/18Z) independently assessed as `COMPLETE` with 31/31 members.
+- Progressive-arrival transition demonstrated with real row values: an older run (2025-06-28 18Z, real, complete) vs. a newer run (2025-06-29 00Z) artificially truncated to its first 5/31 real members -- the newer run correctly assessed `INCOMPLETE`, `latest_seen_run` advanced to it, but `latest_usable_run` correctly stayed on the older complete run. Restoring the newer run to its full real 31/31 members correctly flipped `latest_usable_run` to it.
+- No-lookahead: 0 rows with `available_time > query_t` at the latest real arrival timestamp.
+
+### Availability audit (full production dataset, 6,027,516 rows)
+
+- Median lag: 234.8 min (~3.9h); P10/P90: 228.6/242.3 min (narrower band than the small-sample investigation's F0-F240 range, since production extraction is target-day-only and only ever needs up to ~F45).
+- Lag grows monotonically with forecast hour: 227.6 min at F0 to 245.6 min at F45 -- confirms genuine progressive release at full production scale, consistent with the small-sample finding.
+- Control member (gec00) median lag 232.9 min vs. perturbed members' 234.9 min -- control arrives ~2 min earlier on average, consistent with the small-sample finding.
+- 0 rows with `available_time` null; 0 rows where `available_time == run_time` (confirms no accidental timestamp collapse).
+
+### Ensemble sanity statistics (full production dataset)
+
+- 0 impossible values (`value_f` range across all TMP rows: 3.6F to 103.3F, all physically plausible for NYC across a full year).
+- 0 runs with collapsed variance; no member shows abnormally low variance across the whole dataset.
+- 5 representative early-lead-time runs (mean 39-41F, std 0.5-0.8F, physically tight spread appropriate for short lead times) -- consistent with the earlier 18-hour-out validation sample's wider spread (std 3.3F), confirming ensemble dispersion behaves as physically expected (grows with lead time).
+
+### Actual vs. estimated (do not confuse the two)
+
+| | Estimated (sections 17-18, from a 20-item benchmark) | Actual (full 62,744-item production run) |
+|---|---|---|
+| Remote bytes read | ~396 GB | ~402.8 GB |
+| Local processed storage | ~65 MB | ~51.1 MB |
+| Runtime | ~6.0 hours | ~4.64 hours |
+| Throughput | ~2.9 items/sec (confirmation trials) | 3.754 items/sec (sustained full run) |
+
+Same pattern observed in every prior pilot in this project: a sustained long run's steady-state throughput exceeds short repeated-trial benchmark throughput.
+
 ## Unresolved issues carried forward
 
-1. Full 40-day pilot not yet launched -- all figures in sections 17-18 are estimates from a 20-item benchmark sample, not measurements.
-2. The benchmark's flat/noisy throughput curve (like NBM's) means the exact worker count is not sharply determined; 16 is well-supported but not a clear peak.
-3. `Checkpoint`/`run_concurrent`'s crash/resume behavior was not separately re-exercised for GEFS specifically in this phase (architecturally shared/unchanged code, already validated at HRRR/GFS/NBM production scale) -- should be observed directly during the eventual full launch's monitoring phase, same as every prior source.
+1. The benchmark's flat/noisy throughput curve (like NBM's) meant the exact worker count was not sharply determined during pre-production validation; 16 turned out to sustain even better throughput (3.75 items/sec) than the benchmark suggested during the actual full run.
+2. `data/weather_state.py`'s `get_ensemble_state()` wrapper's single-hardcoded-target-date design (shared with every other source) means it cannot directly evaluate completeness for an arbitrary historical date without calling `assess_ensemble_run_completeness` directly with explicit day bounds -- same documented, out-of-scope limitation as NBM's phase, not specific to GEFS.

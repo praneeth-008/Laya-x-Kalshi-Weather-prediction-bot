@@ -166,6 +166,12 @@ ADR-style record of the significant decisions made during this project so far. D
 - **Why**: the archive itself partitions storage this way (one GRIB2 file per member per forecast hour); matching that partitioning keeps one idx-fetch-plus-byte-ranges per work item (same efficiency as every other source) while giving per-member checkpoint granularity and independent retry -- a single slow/failed member never blocks an entire run's other 30 members.
 - **Consequences**: ~62,744 work items for the full 40-day pilot (vs. HRRR's 20,836 / GFS's 5,836 / NBM's 31,578) -- roughly 2x NBM's count, reflecting the 31-member multiplier offset by GEFS's coarser 3-hourly cadence.
 
+### Full 40-day GEFS pilot: FINAL PASS, no contamination this time
+- **Date**: 2026-09-28
+- **Decision**: launched and completed the full 62,744-item, 40-day, 31-member GEFS pilot at commit `35f0d69` -- fully committed BEFORE extraction, unlike every prior pilot's provenance. Declared FINAL PASS after the integrity audit.
+- **Why**: all pre-production checks passed; the audit found 0 duplicates, 0 corrupt files, exact checkpoint/persisted-row/canonical-work-plan reconciliation (62,744=62,744=62,744, 0 missing, 0 extra in every direction), 100% ensemble completeness (every one of 2,024 (run,forecast_hour) combinations has all 31 members), grid/distance/F0/window-semantics all verified at full production scale, and the completeness/no-lookahead logic verified against real production rows (not just synthetic data).
+- **Consequences**: `data/processed/pilot/gefs/manifest.json`'s `provenance_status` is `"exact"` (not "historical provenance partially reconstructed" like GFS's or NBM's) -- the first pilot in this project where production code needed zero post-commit fixes. The NBM pilot's earlier lesson (never share a validation-sample output directory with the eventual production path) was applied proactively here: `data/processed/pilot/gefs/` was confirmed empty before launch and no cleanup was needed afterward.
+
 ### NBM WIND/WDIR kept as scalar speed/direction, not converted to U/V
 - **Date**: 2026-09-27
 - **Decision**: extract NBM's `WIND`/`WDIR` as-is (scalar speed and direction at 10m) rather than converting to U/V components to match HRRR/GFS's representation.

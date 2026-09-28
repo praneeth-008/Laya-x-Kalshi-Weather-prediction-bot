@@ -63,6 +63,13 @@ data/processed/pilot/hrrr_apcp_1h/*
 data/processed/pilot/nbm/*
 !data/processed/pilot/nbm/manifest.json
 
+# GEFS: same policy as GFS/NBM -- only the reproducibility manifest is
+# tracked. Own dedicated directory, never shared with validation/benchmark
+# scratch output (see docs/gefs_pilot_readiness.md's contamination check).
+!data/processed/pilot/gefs/
+data/processed/pilot/gefs/*
+!data/processed/pilot/gefs/manifest.json
+
 !data/processed/weather/
 data/processed/weather/*
 !data/processed/weather/pilot/
