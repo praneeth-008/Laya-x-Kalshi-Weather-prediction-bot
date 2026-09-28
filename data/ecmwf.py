@@ -56,8 +56,48 @@ import requests
 BUCKET = "ecmwf-forecasts"
 BASE_URL = f"https://{BUCKET}.s3.eu-central-1.amazonaws.com"
 
-RUN_HOURS = {0, 12}  # OBSERVED: oper/enfo only present at 00z/12z for this date
+RUN_HOURS = {0, 12}  # OBSERVED: oper only present at 00z/12z, confirmed across 5 dates spanning the full 2026-09-28 pilot production-readiness validation (2025-01-02 through 2025-08-24) -- enfo (ensemble) was found present at all 4 hours (00/06/12/18z) but is out of scope for this deterministic-only phase.
 STREAM_SUFFIX = {"oper": "fc", "enfo": "ef"}
+
+# Independently derived (production-readiness validation, 2026-09-28) from
+# ECMWF's own oper grid geometry: regular_ll, Ni=1440, Nj=721, 0.25deg
+# (md5GridSection=265781b4edc06425746b46a5775244eb -- confirmed DIFFERENT
+# from GFS's/GEFS's md5GridSection despite identical 0.25deg resolution,
+# because ECMWF's longitudeOfFirstGridPointInDegrees=180.0 vs GFS/GEFS's
+# 0.0 -- same cell size, different global grid origin/alignment). Worst-case
+# distance from any point inside a 0.25deg cell to its center is the same
+# ~17.4km formula as GFS/GEFS at NYC's latitude, so the same 20km threshold
+# was chosen -- coincidence of identical cell size, NOT inherited without
+# independent verification.
+MAX_PATCH_DISTANCE_KM = 20.0
+
+# Archive path-regime boundaries (independently confirmed 2026-09-28 via
+# direct HEAD probes across 21 dates spanning 2023-06 through 2026-09):
+#   0p4-beta : through 2024-01-31 (exclusively)
+#   0p4-beta AND bare "0p25" coexist: 2024-02-01 through 2024-02-28
+#   ifs/0p25 : 2024-02-29 onward (confirmed stable through 2026-09-27)
+# This module's grib_key() only implements the modern ifs/0p25 regime --
+# every one of this project's 40 selected pilot days (2025-01-02 through
+# 2025-08-24) falls safely within it. Older regimes are NOT implemented
+# here (different path structure, and not independently verified for
+# index format/grid/variable compatibility) -- see docs/ecmwf_pilot_readiness.md
+# for the five-year-backfill implications of this boundary.
+REGIME_IFS_0P25_START = datetime(2024, 2, 29, tzinfo=timezone.utc)
+
+
+def temporal_metadata(gid) -> dict:
+    """Extract (temporal_stat, temporal_window_hours) directly from decoded
+    GRIB metadata (stepType/startStep/endStep) -- ECMWF's .index sidecar
+    carries no forecast_desc-style text to parse (unlike HRRR/GFS/GEFS/NBM),
+    so this reads the authoritative GRIB keys directly instead."""
+    import eccodes
+
+    step_type = eccodes.codes_get(gid, "stepType")
+    start_step = eccodes.codes_get(gid, "startStep")
+    end_step = eccodes.codes_get(gid, "endStep")
+    kind = {"instant": "instant", "accum": "accum", "max": "max", "min": "min", "avg": "average"}.get(step_type, step_type)
+    window = 0 if kind == "instant" else (end_step - start_step)
+    return {"temporal_stat": kind, "temporal_window_hours": window, "start_step": start_step, "end_step": end_step}
 
 # OBSERVED: this bucket enforces S3-level rate limiting more aggressively
 # than the NOAA buckets used elsewhere in this project -- plain sequential

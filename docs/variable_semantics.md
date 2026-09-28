@@ -171,3 +171,29 @@ Every row carries `ensemble_member`/`member_type` -- the canonical processed dat
 ### Grid is identical to GFS's -- confirmed, not assumed
 
 `md5GridSection=45f3a4a8af23f33a77ab669d0fa1d813`, matching GFS exactly (both use the same NCEP 0.25deg global lat/lon grid). The distance threshold (20.0km) was independently re-derived from GEFS's own geometry and happens to equal GFS's value as a consequence, not an inheritance.
+
+## ECMWF (deterministic, `oper` stream)
+
+### Grid resolution matches GFS/GEFS but the fingerprint does NOT
+
+`md5GridSection=265781b4edc06425746b46a5775244eb` -- a DIFFERENT fingerprint from GFS's/GEFS's `45f3a4a8af23f33a77ab669d0fa1d813`, despite the identical 0.25deg cell size, because ECMWF's `longitudeOfFirstGridPointInDegrees=180.0` differs from GFS/GEFS's `0.0` (a different global grid origin/alignment convention). Confirmed by direct decode, not assumed from matching resolution -- do not treat "same resolution" as "same grid."
+
+### tp/ssrd are pure cumulative-since-run-start throughout the ENTIRE forecast horizon
+
+Unlike GEFS's APCP (which resets every 6h synoptic mark beyond FH=6) or GFS's APCP (which offers a shortest-recent-window duplicate candidate), ECMWF's `tp` and `ssrd` have exactly ONE candidate, and its declared window is ALWAYS `[0, step]` -- confirmed at every forecast hour tested including F360, the full 15-day horizon. This is the same situation HRRR's original raw APCP was in before its APCP_1H backfill: a windowed "recent precipitation/radiation" signal would require differencing consecutive values, not implemented for ECMWF in this validation phase.
+
+### mx2t3/mn2t3 are silently REPLACED by mx2t6/mn2t6 beyond F144
+
+`mx2t3`/`mn2t3` (rolling 3-hour period max/min) exist only for forecast hours in the 3-hourly schedule regime (F3-F144). At F150 and beyond (the 6-hourly regime), they are structurally absent and replaced by `mx2t6`/`mn2t6` (a symmetric rolling 6-hour window). This was caught during the production-readiness validation sample -- an initial extraction naively requesting only `mx2t3`/`mn2t3` silently produced zero rows for the three long-horizon items tested, discovered only by inspecting per-item variable coverage rather than trusting a "0 errors" result. Fixed by selecting the param name based on which schedule regime the forecast hour falls in.
+
+### F0: instant fields real, accumulation fields degenerate
+
+2t/2d/10u/10v/sp are present and meaningful at F0. `tp` at F0 has a zero-width declared window (`startStep=endStep=0`) and decodes to 0.0 -- not a real accumulation. `mx2t3`/`mn2t3` at F0 are even more subtly degenerate: they carry the SAME declared window as the eventual real F3 message (`[0,3]`) but decode to **0.0 Kelvin** -- a physically impossible temperature (absolute zero), an unambiguous placeholder/fill value rather than a genuine reading. All three are explicitly skipped at forecast_hour=0.
+
+### No native 2m relative humidity or cloud-cover field exists
+
+Confirmed by exhaustively listing every distinct `param` across the full message index: pressure-level relative humidity (`r`) exists, but no `2r`/surface-level RH field does; no `tcc`/`hcc`/`mcc`/`lcc`/`cc` (cloud cover, any layer) exists at any level. This is a genuine, permanent structural gap versus every NOAA source in this project (all of which have native 2m RH) -- not derived via a computed transform from 2t/2d, consistent with this project's established preference for native fields over derived ones.
+
+### Availability: a bulk archive-sync event, not genuine progressive dissemination
+
+Every forecast hour of a single run (F0 through F360) shares an S3 Last-Modified timestamp within a 37-59 second window, at an almost exactly reproducible 514-minute (~8.57h) lag from run_time -- confirmed across 8 different (date, run_hour) combinations, never varying by more than a minute. Unlike HRRR/GFS/NBM/GEFS (where lag genuinely grows with forecast hour, reflecting real progressive model computation and release), ECMWF's lag here shows essentially zero forecast-hour dependence. This is classified LOW CONFIDENCE as a per-forecast-hour availability signal (it cannot distinguish "F0 available" from "F360 available"), though it is a highly reliable conservative floor. See `point_in_time.md` and `ecmwf_pilot_readiness.md` sections 19-21 for full detail.

@@ -22,7 +22,7 @@ A forecast run labeled `06Z` is not usable at `06:00 UTC`. Numerical weather mod
 | GFS | `S3_LAST_MODIFIED_PROXY` | NORMAL |
 | GEFS | `S3_LAST_MODIFIED_PROXY` | NORMAL (substantially longer lag than other sources -- ~3.8h at FH3 growing to ~5.3-5.5h at FH240, confirmed genuine progressive release; control member arrives ~1-14 min before the perturbed-member batch. Validated at small-sample scale, full 40-day pilot not yet launched) |
 | NBM | `S3_LAST_MODIFIED_PROXY` | NORMAL (~62-63 min observed lag; validated at small sample + benchmark scale, full 40-day pilot not yet launched) |
-| ECMWF deterministic | `S3_LAST_MODIFIED_PROXY` | **LOW** -- measured ~514 min (~8.6h) average lag in feasibility testing, far larger than every other source (not yet extracted at pilot scale) |
+| ECMWF deterministic | `S3_LAST_MODIFIED_PROXY` | **LOW** -- confirmed (production-readiness validation, 2026-09-28) an almost exactly reproducible 514-minute (~8.57h) lag, with ALL forecast hours of a run (F0-F360) syncing within a 37-59 second window across every date/run-hour tested. Best explained as a bulk archive-sync event, not genuine per-forecast-hour progressive dissemination -- see `variable_semantics.md`'s ECMWF section and `ecmwf_pilot_readiness.md`. Validated at small-sample scale, full 40-day pilot not yet launched. |
 | Observations (ISD) | `OBSERVATION_TIME_ONLY` | the ISD schema has no independent availability timestamp at all; `observation_time` is used as a proxy under the `proxy` policy only |
 | NWS AFD | `ISSUANCE_TIME_ONLY` | the AFD schema's `available_time` column exists but is 100% null; `issuance_time` is used as a proxy under the `proxy` policy only |
 
@@ -32,7 +32,7 @@ For HRRR/GFS/GEFS/NBM/ECMWF, "available" is proxied by the S3 object's `Last-Mod
 
 - `Last-Modified` reflects when the *entire underlying GRIB2 file* was last written by NOAA/ECMWF's publishing pipeline, not when the specific message/byte-range we extracted was written. Since one file contains many messages (all variables, all levels), this is necessarily a coarser signal than "this exact value became available."
 - Fetching a *different* candidate message from the same file (e.g. choosing the windowed vs. cumulative APCP product) does not change this timestamp at all -- confirmed during the HRRR APCP_1H work, since both live in the same S3 object.
-- It is an observed proxy, not a documented guarantee from any provider. Confidence is marked `NORMAL` for HRRR/GFS/GEFS (consistent, plausible lag observed) and `LOW` for ECMWF (unusually large, variable lag observed in a small sample).
+- It is an observed proxy, not a documented guarantee from any provider. Confidence is marked `NORMAL` for HRRR/GFS/NBM/GEFS (consistent, plausible, forecast-hour-correlated lag observed) and `LOW` for ECMWF -- not because ECMWF's lag is noisy (it is in fact remarkably precise and reproducible, ~514 minutes to within a minute across every date/run-hour tested), but because it shows essentially ZERO forecast-hour correlation: all of a run's forecast hours (F0 through F360) become available within the same ~40-60 second window, indicating a bulk archive-sync event rather than genuine per-forecast-hour progressive dissemination.
 - `data/weather_state.py` never treats a null/unresolvable timestamp as "available" -- `eligible_mask()` excludes any row whose availability cannot be resolved, rather than assuming it.
 
 ## The no-lookahead rule

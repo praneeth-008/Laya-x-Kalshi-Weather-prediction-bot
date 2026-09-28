@@ -172,6 +172,24 @@ ADR-style record of the significant decisions made during this project so far. D
 - **Why**: all pre-production checks passed; the audit found 0 duplicates, 0 corrupt files, exact checkpoint/persisted-row/canonical-work-plan reconciliation (62,744=62,744=62,744, 0 missing, 0 extra in every direction), 100% ensemble completeness (every one of 2,024 (run,forecast_hour) combinations has all 31 members), grid/distance/F0/window-semantics all verified at full production scale, and the completeness/no-lookahead logic verified against real production rows (not just synthetic data).
 - **Consequences**: `data/processed/pilot/gefs/manifest.json`'s `provenance_status` is `"exact"` (not "historical provenance partially reconstructed" like GFS's or NBM's) -- the first pilot in this project where production code needed zero post-commit fixes. The NBM pilot's earlier lesson (never share a validation-sample output directory with the eventual production path) was applied proactively here: `data/processed/pilot/gefs/` was confirmed empty before launch and no cleanup was needed afterward.
 
+### ECMWF availability classified LOW confidence: bulk archive-sync, not progressive dissemination
+- **Date**: 2026-09-28
+- **Decision**: classify ECMWF's S3 Last-Modified availability proxy as LOW confidence, refining (not overturning) the pre-existing tag already in `data/weather_state.py`'s docstring.
+- **Why**: independently confirmed across 8 (date, run_hour) combinations that ALL forecast hours of a run (F0 through F360) share Last-Modified timestamps within a 37-59 second window, at an almost exactly reproducible 514-minute lag -- essentially zero forecast-hour correlation, unlike every NOAA source in this project. This is best explained as a bulk archive-sync event, not genuine per-forecast-hour progressive dissemination. The classification is LOW not because the signal is noisy (it is remarkably precise) but because it cannot resolve per-forecast-hour timing at all.
+- **Consequences**: `data/weather_state.py` requires no code change (the LOW tag and deterministic completeness logic were already correct); the completeness/no-lookahead tests for ECMWF were built to reflect this real near-atomic bulk-sync pattern rather than a generic hours-long progressive-arrival assumption (an initial test using the generic pattern correctly failed, revealing the modeling mismatch, not a code bug).
+
+### ECMWF mx2t3/mn2t3 silently replaced by mx2t6/mn2t6 beyond F144 -- caught before declaring PASS
+- **Date**: 2026-09-28
+- **Decision**: select `mx2t3`/`mn2t3` for forecast hours <=144 and `mx2t6`/`mn2t6` for forecast hours >144, rather than requesting one fixed param name throughout the full horizon.
+- **Why**: an initial validation-sample extraction naively requested only `mx2t3`/`mn2t3` at every forecast hour and silently produced 0 rows for exactly the three long-horizon items tested (F150/F240/F360) -- caught only by inspecting per-item variable coverage rather than trusting a "0 errors, 12/12 done" result. The two 6-hour fields were confirmed to exist with a symmetric rolling-6h window at every 6-hourly-regime forecast hour tested.
+- **Consequences**: a reminder that "0 errors" from `find_message()` silently returning `None` is not sufficient evidence of correctness -- per-item variable-coverage inspection is now an explicit part of this project's validation checklist for any source with regime-dependent field naming.
+
+### ECMWF archive path-regime boundaries precisely re-dated, not assumed from "approximately"
+- **Date**: 2026-09-28
+- **Decision**: use exact regime boundaries (0p4-beta through 2024-01-31, coexisting with bare 0p25 through 2024-02-28, ifs/0p25 from 2024-02-29 onward) rather than the prior feasibility work's "approximately 2024-02-28" estimate.
+- **Why**: direct HEAD-probe verification across 21 dates spanning 2023-06 through 2026-09 found a clean, unambiguous one-day boundary (2024-02-28 is the last day the older regimes work; 2024-02-29 is the first day the modern regime takes over) -- more precise than needed to assert "our entire pilot's dates are safe," but cheap to obtain and worth recording exactly.
+- **Consequences**: confirms with certainty that all 40 selected pilot days (2025-01-02 to 2025-08-24) are safely within the single modern `ifs/0p25` regime -- no mixed-regime handling was needed for this pilot's production code.
+
 ### NBM WIND/WDIR kept as scalar speed/direction, not converted to U/V
 - **Date**: 2026-09-27
 - **Decision**: extract NBM's `WIND`/`WDIR` as-is (scalar speed and direction at 10m) rather than converting to U/V components to match HRRR/GFS's representation.
