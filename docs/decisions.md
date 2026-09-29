@@ -166,6 +166,12 @@ ADR-style record of the significant decisions made during this project so far. D
 - **Why**: the archive itself partitions storage this way (one GRIB2 file per member per forecast hour); matching that partitioning keeps one idx-fetch-plus-byte-ranges per work item (same efficiency as every other source) while giving per-member checkpoint granularity and independent retry -- a single slow/failed member never blocks an entire run's other 30 members.
 - **Consequences**: ~62,744 work items for the full 40-day pilot (vs. HRRR's 20,836 / GFS's 5,836 / NBM's 31,578) -- roughly 2x NBM's count, reflecting the 31-member multiplier offset by GEFS's coarser 3-hourly cadence.
 
+### GEFS completeness test: fixed a case-sensitivity typo, no production change
+- **Date**: 2026-09-29
+- **Decision**: fixed `scripts/test_gefs_completeness.py`'s one assertion that checked for the lowercase substring `"not calibrated probabilities"` against production's actual (correct, capitalized-for-emphasis) string `"...are NOT calibrated probabilities."` -- the assertion never matched, producing a spurious FAIL unrelated to any real GEFS behavior. Promoted this test from an ephemeral scratch script into the committed repository (`scripts/test_gefs_completeness.py`) as part of the pre-backfill green test baseline.
+- **Why**: the other 13 checks in this suite (schedule, completeness, atomic switch, no-lookahead, member-distribution preservation) all exercise real logic and passed throughout; only this one string-matching assertion was wrong. `data/weather_state.py`'s GEFS completeness/ensemble-state logic, the 31-member requirement, forecast schedule, and availability semantics were NOT touched.
+- **Consequences**: GEFS completeness suite now 14/14 (previously reported 13/14). No GEFS frozen data or methodology changed.
+
 ### Full 40-day GEFS pilot: FINAL PASS, no contamination this time
 - **Date**: 2026-09-28
 - **Decision**: launched and completed the full 62,744-item, 40-day, 31-member GEFS pilot at commit `35f0d69` -- fully committed BEFORE extraction, unlike every prior pilot's provenance. Declared FINAL PASS after the integrity audit.
