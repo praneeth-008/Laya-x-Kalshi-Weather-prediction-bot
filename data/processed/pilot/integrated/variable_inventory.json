@@ -1,0 +1,93 @@
+{
+  "audit_version": "1.0",
+  "audit_date_utc": "2026-09-29",
+  "baseline_commit": "f972424596d50bdf5181d7ccba860a7bc06d775c",
+  "derived_from": "actual persisted frozen pilot Parquet files, not documentation alone",
+  "sources": {
+    "hrrr": {
+      "path": "data/processed/pilot/hrrr/parts/",
+      "primary_grid_rows": 166688,
+      "variables": ["TMP", "DPT", "UGRD", "VGRD", "PRES", "TCDC", "APCP", "DSWRF"],
+      "additional_dataset": {"hrrr_apcp_1h": {"path": "data/processed/pilot/hrrr_apcp_1h/parts/", "rows": 19996, "variables": ["APCP_1H"]}},
+      "not_extracted_but_available": ["RH"],
+      "run_hours": "all 24 UTC",
+      "forecast_hour_range": [0, 46]
+    },
+    "gfs": {
+      "path": "data/processed/pilot/gfs/parts/",
+      "primary_grid_rows": 52260,
+      "variables": ["TMP", "DPT", "RH", "UGRD", "VGRD", "PRES", "TCDC", "APCP", "DSWRF"],
+      "matches_documented_inventory": true,
+      "run_hours": [0, 6, 12, 18],
+      "forecast_hour_range": [0, 46]
+    },
+    "nbm": {
+      "path": "data/processed/pilot/nbm/parts/",
+      "primary_grid_rows": 225120,
+      "variables": ["TMP", "DPT", "RH", "WIND", "WDIR", "TCDC", "APCP_1H", "APCP_6H", "TMAX_PERIOD", "TMIN_PERIOD"],
+      "matches_documented_inventory": true,
+      "run_hours": "all 24 UTC (3-tier schedule)",
+      "forecast_hour_range": [1, 45],
+      "f0_exists": false
+    },
+    "gefs": {
+      "path": "data/processed/pilot/gefs/parts/",
+      "primary_grid_rows": 669724,
+      "variables": ["TMP", "DPT", "RH", "UGRD", "VGRD", "PRES", "TCDC", "APCP", "DSWRF", "TMAX", "TMIN"],
+      "ensemble_member_identity_present": true,
+      "expected_members": 31,
+      "matches_documented_inventory": true,
+      "run_hours": [0, 6, 12, 18],
+      "forecast_hour_range": [0, 45]
+    },
+    "ecmwf_deterministic": {
+      "path": "data/processed/pilot/ecmwf/parts/",
+      "primary_grid_rows": 7928,
+      "variables": ["2t", "2d", "10u", "10v", "sp", "tp", "ssrd", "mx2t3", "mn2t3"],
+      "not_present_in_this_dataset": ["mx2t6", "mn2t6"],
+      "not_present_reason": "target-day-only production run never reaches forecast_hour>144 where these fields replace mx2t3/mn2t3 -- validated separately in the small-sample phase, documented, not a defect",
+      "not_native_to_product": ["relative_humidity", "cloud_cover"],
+      "run_hours": [0, 12],
+      "forecast_hour_range": [0, 39]
+    },
+    "observations": {
+      "path": "data/processed/pilot/observations/pilot_observations_canonical.parquet",
+      "stations": {
+        "KNYC": {"rows": 7413, "relative_humidity_pct_nonnull": 0.0},
+        "KLGA": {"rows": 8512, "relative_humidity_pct_nonnull": 0.0},
+        "KJFK": {"rows": 8415, "relative_humidity_pct_nonnull": 0.0},
+        "KEWR": {"rows": 8292, "relative_humidity_pct_nonnull": 0.0}
+      },
+      "relative_humidity_note": "column exists in schema but is 0% populated at every station across the entire pilot -- ISD's raw record does not carry it directly; derivable from temperature+dewpoint (both 100% present)"
+    },
+    "afd": {
+      "path": "data/processed/pilot/afd/pilot_afd_documents.parquet",
+      "rows": 2269,
+      "full_text_recoverable": true,
+      "sections_table": "data/processed/pilot/afd/pilot_afd_sections.parquet",
+      "sections_rows": 23962
+    }
+  },
+  "pipeline_survival_gap": {
+    "status": "GENUINE_GAP_FOUND",
+    "summary": "Only instantaneous temperature is threaded through from each numerical source into the integrated dataset's model-accessible outputs (structured_features.parquet, forecast_trajectories.parquet, human_readable_states.csv). Dewpoint, wind, pressure, cloud cover, precipitation, solar radiation, and native period Tmax/Tmin are all correctly extracted and present in canonical frozen data for every numerical source (and loaded into memory by data/pilot_loader.py), but are not currently surfaced by any integration-layer output. GEFS member-level trajectories (vs. per-member daily-max scalars) have the same gap.",
+    "introduced_by_2026_09_29_fix": false,
+    "pre_existing_scope_limitation": true,
+    "affected_variables": {
+      "hrrr": ["DPT", "UGRD", "VGRD", "PRES", "TCDC", "APCP", "DSWRF"],
+      "gfs": ["DPT", "RH", "UGRD", "VGRD", "PRES", "TCDC", "APCP", "DSWRF"],
+      "nbm": ["DPT", "RH", "WIND", "WDIR", "TCDC", "APCP_1H", "APCP_6H", "TMAX_PERIOD", "TMIN_PERIOD"],
+      "gefs": ["DPT", "RH", "UGRD", "VGRD", "PRES", "TCDC", "APCP", "DSWRF", "TMAX", "TMIN", "member_level_trajectory"],
+      "ecmwf_deterministic": ["2d", "10u", "10v", "sp", "tp", "ssrd", "mx2t3", "mn2t3"]
+    }
+  },
+  "ml_architecture_readiness": {
+    "traditional_ml_baseline": "PARTIALLY_READY",
+    "mlp_engineered_features": "PARTIALLY_READY",
+    "sequence_model_trajectories": "PARTIALLY_READY",
+    "gefs_ensemble_features": "PARTIALLY_READY",
+    "afd_text_encoder": "READY"
+  },
+  "decision_gate": "NEEDS_REVIEW",
+  "decision_gate_reason": "Pipeline-survival gap: useful non-temperature variables (dewpoint, wind, pressure, cloud, precipitation, radiation, native period Tmax/Tmin) are not yet accessible to the eventual model despite being correctly extracted and frozen. No source methodology, extraction, or schedule was changed in this audit."
+}

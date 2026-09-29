@@ -85,6 +85,7 @@ data/processed/pilot/ecmwf/*
 !data/processed/pilot/integrated/
 data/processed/pilot/integrated/*
 !data/processed/pilot/integrated/manifest.json
+!data/processed/pilot/integrated/variable_inventory.json
 
 !data/processed/weather/
 data/processed/weather/*
