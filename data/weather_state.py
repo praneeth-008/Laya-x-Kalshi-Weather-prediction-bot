@@ -582,6 +582,23 @@ def filter_timeline_to_july1(events: pd.DataFrame) -> pd.DataFrame:
 # PART 7 -- deterministic forecast-source state.
 # ---------------------------------------------------------------------------
 
+# The canonical INSTANTANEOUS air-temperature variable per source, used by
+# get_latest_forecast()/get_ensemble_state() to isolate the temperature
+# series before computing predicted_daily_max_f / target_day_temperature_path
+# / ensemble Tmax statistics. Found necessary (2026-09-29, integration manual-
+# inspection follow-up) because frozen pilot-scale data carries MULTIPLE
+# variables per source in one dataframe (TMP, DPT, and for NBM/ECMWF/GEFS
+# also native period-max/min products like TMAX_PERIOD/mx2t3/mx2t6) -- the
+# single-variable feasibility-test-era CSVs this code originally read never
+# exposed this: without this filter, value_f.max() silently pools every
+# Kelvin-unit variable together (temperature, dewpoint, AND period extrema),
+# which for NBM/ECMWF measurably inflated the reported daily-max forecast
+# (e.g. one real case: NBM 64.67F correct vs 65.95F contaminated by
+# TMAX_PERIOD; ECMWF 64.98F correct vs 65.72F contaminated by mx2t3).
+INSTANTANEOUS_TEMPERATURE_VARIABLE = {"ecmwf_deterministic": "2t", "ecmwf_ensemble": "2t"}
+DEFAULT_INSTANTANEOUS_TEMPERATURE_VARIABLE = "TMP"
+
+
 def get_latest_forecast(df: pd.DataFrame, t: datetime, policy: str, source_name: str, target_date=None) -> dict:
     """Returns latest_seen_run (whatever run has most recently begun
     arriving, regardless of completeness -- raw provenance only, NEVER
@@ -600,6 +617,9 @@ def get_latest_forecast(df: pd.DataFrame, t: datetime, policy: str, source_name:
     day_start_utc, day_end_utc = local_day_utc_bounds(target_date or TARGET_LOCAL_DATE)
     mask = eligible_mask(df, t, policy)
     elig = df[mask]
+    if "variable" in elig.columns:
+        temp_var = INSTANTANEOUS_TEMPERATURE_VARIABLE.get(source_name, DEFAULT_INSTANTANEOUS_TEMPERATURE_VARIABLE)
+        elig = elig[elig["variable"] == temp_var]
     if elig.empty:
         return {
             "source": source_name, "available": False, "usable_for_daily_max": False,
@@ -614,11 +634,19 @@ def get_latest_forecast(df: pd.DataFrame, t: datetime, policy: str, source_name:
         in_day = g[(g["valid_time"] >= day_start_utc) & (g["valid_time"] < day_end_utc)]
         completeness = assess_deterministic_run_completeness(source_name, run_time, in_day, day_start_utc, day_end_utc)
         run_available_time = g["available_time_resolved"].min()
+        # The moment this run's target-day coverage actually became COMPLETE
+        # (the max, not min, available_time among its required valid-time
+        # rows) -- distinct from run_available_time (first message seen) and
+        # from run_time (nominal init) -- used for the information-arrival
+        # timeline (manual-inspection follow-up, 2026-09-29). Only meaningful
+        # once the run is actually complete; None otherwise.
+        usable_since = in_day["available_time_resolved"].max() if completeness["usable_for_daily_max"] and not in_day.empty else None
         path = in_day.sort_values("valid_time")[["valid_time", "forecast_hour", "value_f"]].to_dict("records")
         predicted_max = in_day["value_f"].max() if not in_day.empty else None
         return {
             "run_time": run_time,
             "run_available_time": run_available_time,
+            "usable_since": usable_since,
             "age_since_run": t - run_time.to_pydatetime(),
             "age_since_available": (t - run_available_time.to_pydatetime()) if pd.notna(run_available_time) else None,
             "target_day_temperature_path": path,
@@ -677,6 +705,9 @@ def get_ensemble_state(df: pd.DataFrame, t: datetime, policy: str, expected_memb
     day_start_utc, day_end_utc = local_day_utc_bounds(target_date or TARGET_LOCAL_DATE)
     mask = eligible_mask(df, t, policy)
     elig = df[mask]
+    if "variable" in elig.columns:
+        temp_var = INSTANTANEOUS_TEMPERATURE_VARIABLE.get(source_name, DEFAULT_INSTANTANEOUS_TEMPERATURE_VARIABLE)
+        elig = elig[elig["variable"] == temp_var]
     if elig.empty:
         return {
             "source": source_name, "available": False, "usable_for_daily_max": False,
@@ -700,9 +731,15 @@ def get_ensemble_state(df: pd.DataFrame, t: datetime, policy: str, expected_memb
                 "min_daily_max_f": vals.min(), "max_daily_max_f": vals.max(),
                 "p10": vals.quantile(0.10), "p25": vals.quantile(0.25), "p75": vals.quantile(0.75), "p90": vals.quantile(0.90),
             }
+        # See get_latest_forecast()'s identical field for rationale -- for
+        # GEFS this is the moment the LAST of the required (member,valid_time)
+        # temperature messages arrived, i.e. when the full 31-member x
+        # required-valid-times set actually completed.
+        usable_since = in_day["available_time_resolved"].max() if completeness["usable_for_daily_max"] and not in_day.empty else None
         return {
             "run_time": run_time,
             "run_available_time": run_available_time,
+            "usable_since": usable_since,
             "age_since_run": t - run_time.to_pydatetime(),
             "age_since_available": (t - run_available_time.to_pydatetime()) if pd.notna(run_available_time) else None,
             "member_daily_max_f": member_max.to_dict(),

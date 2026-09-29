@@ -125,6 +125,64 @@ state_strict = bip.build_state(sources, date(2025, 6, 15), arbitrary_t, "strict"
 check("STRICT never includes observations (PROXY does)", state_strict["observations"]["stations"]["725053-94728"].get("available") is False)
 check("PROXY includes observations when available", state["observations"]["stations"]["725053-94728"].get("available") is True)
 
+# ---- 14. Observation tests (manual-inspection follow-up, 2026-09-29) ----
+# Added after investigating an apparent "stale KNYC reading" on 2025-06-15 that
+# turned out to be genuine flat real-world temperature (see
+# docs/integrated_pilot_validation.md's addendum) -- confirms the selection
+# logic itself was always correct; these tests guard that going forward.
+
+# 14a. Latest usable observation selection genuinely ADVANCES across query times
+# (not stuck on one row) -- checked across all 6 standard hours for a day with
+# a real, changing temperature (2025-08-24, not the flat 2025-06-15 morning).
+d_check = date(2025, 8, 24)
+selected_times = []
+for h in [6, 8, 10, 12, 14, 16]:
+    qtl = datetime(d_check.year, d_check.month, d_check.day, h, tzinfo=bip.NYC_TZ)
+    qt = qtl.astimezone(timezone.utc)
+    s = ws.get_observation_state(sources.observations, qt, ws.PROXY_STATE, ws.STATION_IDS, target_date=d_check)
+    knyc_s = s["stations"]["725053-94728"]
+    if knyc_s.get("available"):
+        selected_times.append(knyc_s["latest_observation_time"])
+check("latest usable KNYC observation strictly advances across all 6 standard query times",
+      all(selected_times[i] < selected_times[i + 1] for i in range(len(selected_times) - 1)), str(selected_times))
+
+# 14b. Auxiliary stations (KLGA/KJFK/KEWR) follow the identical cutoff methodology as KNYC
+for sid in ["725030-14732", "744860-94789", "725020-14734"]:  # KLGA, KJFK, KEWR
+    aux_state = ws.get_observation_state(sources.observations, arbitrary_t, ws.PROXY_STATE, [sid], target_date=date(2025, 6, 15))[
+        "stations"
+    ][sid]
+    if aux_state.get("available"):
+        check(f"auxiliary station {sid} latest_observation_time <= query_time (same cutoff as KNYC)",
+              aux_state["latest_observation_time"] <= pd.Timestamp(arbitrary_t))
+
+# 14c. Tmax_so_far never exceeds the final realized Tmax, checked directly (not just via the dataset audit)
+for d_c, h in [(date(2025, 6, 15), 16), (date(2025, 1, 9), 16), (date(2025, 8, 24), 16)]:
+    qtl = datetime(d_c.year, d_c.month, d_c.day, h, tzinfo=bip.NYC_TZ)
+    qt = qtl.astimezone(timezone.utc)
+    knyc_s = ws.get_observation_state(sources.observations, qt, ws.PROXY_STATE, ws.STATION_IDS, target_date=d_c)["stations"]["725053-94728"]
+    label = bip.compute_label(sources, d_c)
+    if knyc_s.get("available") and knyc_s.get("max_temperature_observed_so_far_f") is not None and label["label_tmax_f"] is not None:
+        check(f"KNYC Tmax_so_far <= realized label Tmax for {d_c}",
+              knyc_s["max_temperature_observed_so_far_f"] <= label["label_tmax_f"] + 1e-6,
+              f"{knyc_s['max_temperature_observed_so_far_f']} vs {label['label_tmax_f']}")
+
+# 14d. Regression guard for the variable-mixing fix: get_latest_forecast/get_ensemble_state
+# must isolate the instantaneous-temperature variable, never pool DPT/period-max/min in.
+nbm_check = ws.get_latest_forecast(sources.nbm, arbitrary_t, ws.PROXY_STATE, "nbm", target_date=date(2025, 6, 15))
+if nbm_check.get("latest_usable_run"):
+    run_rows = sources.nbm[sources.nbm["run_time"] == nbm_check["latest_usable_run"]["run_time"]]
+    check("sanity: raw NBM data for this run genuinely has other Kelvin-unit variables besides TMP (so this test is meaningful)",
+          "TMAX_PERIOD" in run_rows["variable"].unique() or "DPT" in run_rows["variable"].unique())
+    path_vts = [p["valid_time"] for p in nbm_check["latest_usable_run"]["target_day_temperature_path"]]
+    check("NBM target_day_temperature_path has no duplicate valid_times (single variable only)",
+          len(path_vts) == len(set(path_vts)), f"{len(path_vts)} points, {len(set(path_vts))} distinct")
+
+ecmwf_check = ws.get_latest_forecast(sources.ecmwf_det, arbitrary_t, ws.PROXY_STATE, "ecmwf_deterministic", target_date=date(2025, 6, 15))
+if ecmwf_check.get("latest_usable_run"):
+    path_vts = [p["valid_time"] for p in ecmwf_check["latest_usable_run"]["target_day_temperature_path"]]
+    check("ECMWF target_day_temperature_path has no duplicate valid_times (single variable only)",
+          len(path_vts) == len(set(path_vts)), f"{len(path_vts)} points, {len(set(path_vts))} distinct")
+
 print(f"\n{len(results['passed'])} passed, {len(results['failed'])} failed")
 for f in results["failed"]:
     print("FAILED:", f)

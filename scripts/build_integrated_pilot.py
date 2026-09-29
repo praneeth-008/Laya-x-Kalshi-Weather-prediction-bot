@@ -161,6 +161,7 @@ def extract_structured_features(state_id: str, state: dict, label: dict) -> dict
         row[f"{prefix}_usable_for_daily_max"] = s.get("usable_for_daily_max", False)
         row[f"{prefix}_newer_run_arriving"] = s.get("newer_run_arriving")
         row[f"{prefix}_run"] = usable["run_time"] if usable else None
+        row[f"{prefix}_usable_since"] = usable.get("usable_since") if usable else None
         row[f"{prefix}_age_hours"] = usable["age_since_run"].total_seconds() / 3600 if usable else None
         row[f"{prefix}_forecast_tmax_f"] = usable["predicted_daily_max_f"] if usable else None
         row[f"{prefix}_previous_run"] = s.get("previous_usable_run", {}).get("run_time") if s.get("previous_usable_run") else None
@@ -175,6 +176,7 @@ def extract_structured_features(state_id: str, state: dict, label: dict) -> dict
     row["gefs_available"] = g.get("available", False)
     row["gefs_usable_for_daily_max"] = g.get("usable_for_daily_max", False)
     row["gefs_run"] = gu["run_time"] if gu else None
+    row["gefs_usable_since"] = gu.get("usable_since") if gu else None
     row["gefs_age_hours"] = gu["age_since_run"].total_seconds() / 3600 if gu else None
     dist = gu.get("distribution") if gu else None
     stat_map = {

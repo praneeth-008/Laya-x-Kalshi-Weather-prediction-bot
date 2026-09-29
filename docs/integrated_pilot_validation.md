@@ -105,6 +105,28 @@ GEFS completeness suite (from the GEFS pilot phase): 13/14 pass -- 1 failure is 
 | `data/processed/pilot/integrated/no_lookahead_failures.json` | -- | Empty list (0 violations found) |
 | `notebooks/inspect_weather_states.ipynb` | -- | Visual inspection notebook, executed end-to-end with 0 errors |
 
+## Manual-inspection follow-up (2026-09-29)
+
+Human visual inspection of the notebook, prior to authorizing historical backfill, surfaced two items requiring investigation.
+
+### A. KNYC observation "staleness" on 2025-06-15 -- investigated, NOT a defect
+
+Manual inspection noticed `KNYC_current_temp_f` reading an identical 60.08F across five consecutive 06:00-14:00 local snapshots. Traced from canonical observations upward: at every one of the 6 standard query times, the state builder selects a genuinely DIFFERENT, freshly-updated observation, each exactly ~9 minutes old (`observation_age` = 0.15h uniformly) -- consistent with the station's real hourly `:51`-past-the-hour METAR schedule. The identical VALUE is a faithful reflection of a real, flat overnight/morning temperature at the station that day (60.08F = 15.6C exactly, a round Celsius reading held across many consecutive distinct reports before the afternoon warm-up began). Checked 5 additional days spanning winter/spring/summer: observation age is uniformly 0.15h (9 minutes) in every single case, 0 rows exceeding a 2-hour staleness threshold -- confirming June 15's flat *value* was a rare-but-real weather characteristic, while the state builder's *behavior* (always selecting the freshest available observation) is completely normal and systematic. **Root cause: Category A/B combined (expected archive reality + expected proxy-availability behavior). No production observation logic was changed.** 10 new observation-focused regression tests were added to `scripts/test_integration.py` to guard this going forward (latest-observation advancement, auxiliary-station cutoff parity, Tmax_so_far-vs-label hard constraint, checked directly rather than only via the dataset-level audit).
+
+### B. Forecast trajectory "vertical lines" -- a REAL defect, found and fixed
+
+Manual inspection of the trajectory plot found what looked like connected-but-unrelated points at shared `valid_time`s. Investigation traced this to `data/weather_state.py`'s `get_latest_forecast()`/`get_ensemble_state()`: neither function filtered its input to a single variable before computing `target_day_temperature_path` / `predicted_daily_max_f` / GEFS's per-member `value_f` aggregation -- a latent assumption from the single-variable feasibility-test-era CSVs these functions originally read, silently violated once fed the frozen pilot data's multi-variable rows (TMP, DPT, and for NBM/ECMWF/GEFS also native period-max/min products, all sharing Kelvin units and therefore all populating `value_f`).
+
+**This was not merely cosmetic.** Quantified impact on `predicted_daily_max_f` across all 480 states: HRRR and GFS were unaffected (0/480 changed -- dewpoint can never physically exceed air temperature, so it never altered their max). **NBM: 62/480 states changed (up to 3.44F, mean 1.73F among changed states), contaminated by `TMAX_PERIOD`. ECMWF: 432/480 states changed (90%, up to 1.78F, mean 0.60F), contaminated by `mx2t3`/`mn2t3`/`mx2t6`/`mn2t6`. GEFS: 480/480 states changed (100%) -- every ensemble mean/std/percentile was affected**, contaminated by its own `TMAX`/`TMIN` products.
+
+**Fix**: both functions now filter to each source's canonical instantaneous-temperature variable (`TMP` for HRRR/GFS/NBM/GEFS, `2t` for ECMWF) immediately after `eligible_mask()`, before completeness assessment, path construction, or max aggregation -- applied via a `variable`-column guard, so it has zero effect on the synthetic single-variable test dataframes used throughout the prior GEFS/ECMWF/NBM completeness test suites (all still pass unchanged). This also incidentally IMPROVED completeness assessment itself: previously, a stray non-temperature row at a given `valid_time` could mask a genuinely missing TMP reading there; now completeness is assessed against the intended variable specifically.
+
+`forecast_trajectories.parquet` shrank from 218,686 to 26,542 rows (removing the 8 non-temperature variables per source that had been silently included) -- now exactly one row per (state, source, valid_time), structurally eliminating the vertical-line artifact. The notebook's trajectory view was rewritten to plot instantaneous temperature only (with GEFS shown as its ensemble-mean daily-max summary point, full ensemble detail remaining in the dedicated GEFS uncertainty plot), and to visually distinguish KNYC observations known by the query time (solid) from future/outcome-only observations (dashed, clearly labeled, never entering `X_t`).
+
+A new `usable_since` field (the moment a run's completeness was actually achieved, distinct from its nominal `run_time`) was added to support a new information-arrival timeline visualization showing `latest_seen` vs. `latest_usable` distinctly where reconstructable.
+
+**Full re-audit after the fix**: 35/35 dataset-level checks, 34/34 unit-level checks (10 new), GEFS 14/14, ECMWF 10/10, NBM 31/31 -- all pass. 0 duplicate state_ids, 0 no-lookahead violations, 0 hybrid runs, 0 partial GEFS ensembles introduced or removed by this fix.
+
 ## Known limitations
 
 1. ECMWF ensemble (`enfo`), AIFS, and any additional numerical-weather provider remain explicitly out of scope for this integration, per instruction.
