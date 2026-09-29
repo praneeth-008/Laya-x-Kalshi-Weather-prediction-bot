@@ -77,6 +77,15 @@ data/processed/pilot/gefs/*
 data/processed/pilot/ecmwf/*
 !data/processed/pilot/ecmwf/manifest.json
 
+# Integrated 40-day point-in-time dataset: only the manifest is tracked.
+# The dataset itself (state_index/structured_features/trajectories/
+# gefs_members/human_readable_states/audit_report) is fully reproducible
+# from frozen source outputs + scripts/build_integrated_pilot.py + this
+# manifest's recorded commit -- see docs/integrated_pilot_validation.md.
+!data/processed/pilot/integrated/
+data/processed/pilot/integrated/*
+!data/processed/pilot/integrated/manifest.json
+
 !data/processed/weather/
 data/processed/weather/*
 !data/processed/weather/pilot/

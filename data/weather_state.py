@@ -93,6 +93,12 @@ PATHS = {
     "afd": PROJECT_ROOT / "data/processed/weather/afd/test/afd_documents.parquet",
 }
 
+def _legacy_source_file(source_name: str) -> str | None:
+    key = "ecmwf_det" if source_name == "ecmwf_deterministic" else source_name
+    path = PATHS.get(key)
+    return str(path.relative_to(PROJECT_ROOT)) if path else None
+
+
 EXPECTED_GEFS_MEMBERS = 31
 EXPECTED_ECMWF_ENS_MEMBERS = 51
 
@@ -576,14 +582,22 @@ def filter_timeline_to_july1(events: pd.DataFrame) -> pd.DataFrame:
 # PART 7 -- deterministic forecast-source state.
 # ---------------------------------------------------------------------------
 
-def get_latest_forecast(df: pd.DataFrame, t: datetime, policy: str, source_name: str) -> dict:
+def get_latest_forecast(df: pd.DataFrame, t: datetime, policy: str, source_name: str, target_date=None) -> dict:
     """Returns latest_seen_run (whatever run has most recently begun
     arriving, regardless of completeness -- raw provenance only, NEVER
     used to compute predicted_daily_max_f) separately from
     latest_usable_run / previous_usable_run (the most recent runs whose
     target-day coverage is actually COMPLETE -- the only ones a model
-    should ever read a forecast value from)."""
-    day_start_utc, day_end_utc = local_day_utc_bounds()
+    should ever read a forecast value from).
+
+    target_date: the NYC-local target day to assess completeness against.
+    Defaults to the module's original single-day TARGET_LOCAL_DATE for
+    backward compatibility -- pass an explicit date (see
+    data/pilot_loader.py + scripts/build_integrated_pilot.py) to evaluate
+    an arbitrary historical day, which the full 40-day point-in-time
+    integration requires and the single-day feasibility-test-era default
+    could not support."""
+    day_start_utc, day_end_utc = local_day_utc_bounds(target_date or TARGET_LOCAL_DATE)
     mask = eligible_mask(df, t, policy)
     elig = df[mask]
     if elig.empty:
@@ -640,7 +654,11 @@ def get_latest_forecast(df: pd.DataFrame, t: datetime, policy: str, source_name:
         "revision_f": revision_f,
         "newer_run_arriving": newer_run_arriving,
         "provenance": {
-            "source_file": str(PATHS[source_name if source_name != "ecmwf_deterministic" else "ecmwf_det"].relative_to(PROJECT_ROOT)),
+            # Best-effort legacy pointer to the single-day feasibility-test
+            # file this source_name originally referenced; callers passing
+            # frozen pilot-scale data (see data/pilot_loader.py) track their
+            # own provenance externally and should not rely on this field.
+            "source_file": _legacy_source_file(source_name),
         },
     }
 
@@ -649,11 +667,14 @@ def get_latest_forecast(df: pd.DataFrame, t: datetime, policy: str, source_name:
 # PART 8 -- GEFS ensemble state.
 # ---------------------------------------------------------------------------
 
-def get_ensemble_state(df: pd.DataFrame, t: datetime, policy: str, expected_members: int = EXPECTED_GEFS_MEMBERS, source_name: str = "gefs") -> dict:
+def get_ensemble_state(df: pd.DataFrame, t: datetime, policy: str, expected_members: int = EXPECTED_GEFS_MEMBERS, source_name: str = "gefs", target_date=None) -> dict:
     """Same latest_seen_run / latest_usable_run / previous_usable_run split
     as get_latest_forecast(), but usability additionally requires full
-    ensemble-member completeness (Part 7's conservative rule)."""
-    day_start_utc, day_end_utc = local_day_utc_bounds()
+    ensemble-member completeness (Part 7's conservative rule).
+
+    target_date: see get_latest_forecast()'s docstring -- same
+    backward-compatible default, same arbitrary-day support."""
+    day_start_utc, day_end_utc = local_day_utc_bounds(target_date or TARGET_LOCAL_DATE)
     mask = eligible_mask(df, t, policy)
     elig = df[mask]
     if elig.empty:
@@ -758,8 +779,8 @@ def get_ecmwf_ensemble_state(df: pd.DataFrame, t: datetime, policy: str) -> dict
 # PART 10 -- observation state.
 # ---------------------------------------------------------------------------
 
-def get_observation_state(obs_df: pd.DataFrame, t: datetime, policy: str, station_ids: list[str]) -> dict:
-    day_start_utc, day_end_utc = local_day_utc_bounds()
+def get_observation_state(obs_df: pd.DataFrame, t: datetime, policy: str, station_ids: list[str], target_date=None) -> dict:
+    day_start_utc, day_end_utc = local_day_utc_bounds(target_date or TARGET_LOCAL_DATE)
     real = obs_df[obs_df["is_real_observation"]] if "is_real_observation" in obs_df.columns else obs_df
     state = {}
     for sid in station_ids:
@@ -885,8 +906,8 @@ def compute_cross_model_diagnostics(state: dict) -> dict:
 # PART 14 -- target-day progress.
 # ---------------------------------------------------------------------------
 
-def get_target_day_progress(t: datetime) -> dict:
-    day_start_utc, day_end_utc = local_day_utc_bounds()
+def get_target_day_progress(t: datetime, target_date=None) -> dict:
+    day_start_utc, day_end_utc = local_day_utc_bounds(target_date or TARGET_LOCAL_DATE)
     t_local = t.astimezone(NYC_TZ)
     local_midnight = datetime(t_local.year, t_local.month, t_local.day, 0, 0, tzinfo=NYC_TZ)
     return {

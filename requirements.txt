@@ -2,3 +2,7 @@ requests
 pandas
 pyarrow
 eccodes
+matplotlib
+jupyter
+nbformat
+nbconvert
