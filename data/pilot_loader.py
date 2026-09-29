@@ -44,6 +44,36 @@ def _load_gridded(name: str) -> pd.DataFrame:
     return df
 
 
+def _load_hrrr_with_rh() -> pd.DataFrame:
+    """HRRR's main pilot (data/processed/pilot/hrrr/) plus the additive RH
+    backfill (data/processed/pilot/hrrr_rh/, scripts/pilot_phase3c_hrrr_rh.py,
+    2026-09-29 pipeline-survival fix) -- concatenated into ONE dataframe so
+    every downstream function (eligible_mask, atmospheric-trajectory
+    extraction) sees RH as just another native HRRR variable, identical in
+    every other respect (schema, availability methodology, grid) to
+    TMP/DPT/UGRD/etc. Never merged with or used to derive GFS/NBM/GEFS RH --
+    each source's RH is independently extracted and kept source-tagged."""
+    base = _load_gridded("hrrr")
+    rh_dir = PILOT_ROOT / "hrrr_rh" / "parts"
+    if not rh_dir.exists() or not any(rh_dir.glob("*.parquet")):
+        return base
+    rh = pd.read_parquet(rh_dir, filters=[("is_primary_central_park_grid", "==", True)])
+    rh["run_time"] = pd.to_datetime(rh["run_time"], utc=True)
+    rh["valid_time"] = pd.to_datetime(rh["valid_time"], utc=True)
+    rh["available_time_resolved"] = pd.to_datetime(rh["available_time"], utc=True)
+    rh["availability_status"] = "S3_LAST_MODIFIED_PROXY"
+    rh["availability_confidence"] = "NORMAL"
+    rh["ensemble_member"] = None
+    rh["member_type"] = None
+    rh["source_name"] = "hrrr"
+    # Align columns exactly (both frames must have identical columns to concat cleanly).
+    for col in base.columns:
+        if col not in rh.columns:
+            rh[col] = None
+    rh = rh[base.columns]
+    return pd.concat([base, rh], ignore_index=True)
+
+
 def _load_observations() -> pd.DataFrame:
     df = pd.read_parquet(PILOT_ROOT / "observations" / "pilot_observations_canonical.parquet")
     df["observation_time"] = pd.to_datetime(df["observation_time"], utc=True)
@@ -84,7 +114,7 @@ def load_pilot_sources(use_cache: bool = True) -> PilotSources:
     if use_cache and _CACHE is not None:
         return _CACHE
     sources = PilotSources(
-        hrrr=_load_gridded("hrrr"),
+        hrrr=_load_hrrr_with_rh(),
         gfs=_load_gridded("gfs"),
         nbm=_load_gridded("nbm"),
         gefs=_load_gridded("gefs"),

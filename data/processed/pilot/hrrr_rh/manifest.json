@@ -1,0 +1,75 @@
+{
+  "manifest_version": "1.0",
+  "dataset_name": "hrrr_rh_backfill",
+  "dataset_status": "FINAL_PASS",
+  "manifest_written_at_utc": "2026-09-29T04:30:00.000000+00:00",
+  "provenance": {
+    "git_commit": "PENDING_FILL_AFTER_CODE_COMMIT",
+    "git_commit_short": "PENDING_FILL_AFTER_CODE_COMMIT",
+    "git_branch": "main",
+    "working_tree_clean_at_extraction": false,
+    "provenance_status": "exact (extracted and committed in the same session, unlike hrrr_apcp_1h's reconstructed provenance)",
+    "notes": "scripts/pilot_phase3c_hrrr_rh.py existed as an uncommitted working-tree file at the time this backfill ran (first attempt aborted at 8774/20836 on an underestimated byte budget, confirmed benign -- see below; resumed cleanly from checkpoint after raising BYTE_BUDGET from 14e9 to 45e9). The script was committed unchanged after the resumed run completed. From that commit onward, the committed code and this dataset are consistent and reproducible together."
+  },
+  "target": {
+    "city": "NYC",
+    "station": "KNYC",
+    "latitude": 40.7794,
+    "longitude": -73.9691,
+    "timezone": "America/New_York"
+  },
+  "selected_days": {
+    "path": "data/processed/weather/pilot/selected_days.csv",
+    "count": 40,
+    "sha256": "90355ade1277f7d8fcf10f3482c92ba193f09bf693dd5c2057b704bc048e9015"
+  },
+  "source": {
+    "name": "hrrr",
+    "variables": ["RH"],
+    "level": "2 m above ground",
+    "grid_fingerprint": "md5:78367561440d7c7b608b8532a02e4780",
+    "max_patch_distance_km": 10.0,
+    "availability_method": "S3_LAST_MODIFIED_PROXY",
+    "temporal_semantics_reference": "docs/variable_semantics.md#hrrr"
+  },
+  "work_items": {
+    "full_hrrr_work_item_universe": 20836,
+    "eligible_planned": 20836,
+    "done": 20836,
+    "failed": 0,
+    "row_count_all_patch_points": 187524,
+    "row_count_primary_grid_point": 20836,
+    "parquet_part_count": 834,
+    "total_remote_bytes_fetched": 19150839658,
+    "attempts": {
+      "first_attempt": "aborted at 8774/20836 items (42.1%), 1 transient ConnectionResetError, network-safety byte budget (14GB) exceeded early due to an underestimated per-item size assumption (~0.33MB/item assumed vs. ~1.6MB/item actual, a benign sizing miscalculation confirmed via a steady, non-anomalous accumulation rate in the run log -- not a product/semantic defect)",
+      "second_attempt": "resumed from checkpoint (only the 12,062 pending items re-attempted, including the 1 prior failure, which succeeded on retry) with BYTE_BUDGET raised to 45e9; completed cleanly, 20836/20836 DONE, 0 FAILED"
+    }
+  },
+  "paths": {
+    "checkpoint": "data/processed/pilot/hrrr_rh/pilot_hrrr_rh_checkpoint.json",
+    "processed_data": "data/processed/pilot/hrrr_rh/parts/",
+    "download_report": "data/processed/pilot/hrrr_rh/pilot_hrrr_rh_download_report.json"
+  },
+  "extraction_script": "scripts/pilot_phase3c_hrrr_rh.py",
+  "runtime_overrides": {
+    "MAX_WORKERS": 24,
+    "BYTE_BUDGET": 45000000000,
+    "note": "BYTE_BUDGET raised from the script's original 14e9 after the first attempt's network-safety abort; see work_items.attempts above"
+  },
+  "value_range_check": {
+    "variable": "RH",
+    "units": "%",
+    "min": 15.2,
+    "max": 100.0,
+    "note": "physically plausible relative-humidity range, confirmed by direct inspection of the persisted primary-grid-point rows"
+  },
+  "relationship_to_original_pilot": "Purely additive. Does not modify, replace, or depend on writing to data/processed/pilot/hrrr/ (the original 20,836-item, 835-part HRRR pilot), which remains byte-for-byte unchanged. Consumed by data/pilot_loader.py's _load_hrrr_with_rh(), which concatenates this dataset into the in-memory HRRR dataframe so RH is treated as just another native HRRR variable by every downstream function (eligible_mask, atmospheric-trajectory extraction) -- never used to replace DPT or confused with a future engineered RH derived from TMP+DPT.",
+  "validation": {
+    "status": "FINAL_PASS",
+    "references": [
+      "docs/integrated_pilot_validation.md",
+      "docs/variable_inventory.md"
+    ]
+  }
+}

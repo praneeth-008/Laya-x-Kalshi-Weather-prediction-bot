@@ -235,9 +235,15 @@ def extract_structured_features(state_id: str, state: dict, label: dict) -> dict
 
 
 def extract_sequences(state_id: str, state: dict) -> tuple[list, list]:
-    """Forecast trajectories (one row per source x valid_time) and GEFS
-    member-level rows -- the richer information the structured layer
-    deliberately does not flatten into scalar columns."""
+    """Forecast trajectories (one row per source x valid_time, INSTANTANEOUS
+    TEMPERATURE ONLY -- see data.weather_state.INSTANTANEOUS_TEMPERATURE_VARIABLE
+    and the 2026-09-29 variable-mixing fix) and GEFS per-member daily-max
+    scalars. Kept deliberately separate from extract_atmospheric_trajectory()/
+    extract_gefs_member_trajectory() below (the 2026-09-29 pipeline-survival
+    fix) -- this function's output must never be touched by that fix's
+    broader multi-variable data, so the protected temperature-only guarantee
+    stays trivially true by construction (different function, different
+    source columns, never merged)."""
     traj_rows = []
     for key in ["hrrr", "gfs", "nbm", "ecmwf_deterministic"]:
         s = state[key]
@@ -260,6 +266,74 @@ def extract_sequences(state_id: str, state: dict) -> tuple[list, list]:
     return traj_rows, gefs_rows
 
 
+# ---------------------------------------------------------------------------
+# Atmospheric (non-temperature) trajectories -- 2026-09-29 pipeline-survival
+# fix. Preserves dewpoint/wind/pressure/cloud/precipitation/radiation/native
+# period-max-min for every deterministic source, and the full per-member
+# trajectory (every variable, every member) for GEFS -- all of which were
+# correctly extracted into canonical frozen data and loaded into memory by
+# data/pilot_loader.py, but never previously reached any integration output.
+#
+# CRITICAL SAFETY PROPERTY: this code NEVER determines which run is "usable"
+# -- that remains governed entirely by the unchanged, temperature-based
+# get_latest_forecast()/get_ensemble_state() (state[key]["latest_usable_run"]
+# is computed upstream in build_state(), before this function ever runs).
+# This code only looks up OTHER variables for the SAME already-determined
+# run_time, re-applying the SAME eligible_mask() no-lookahead filter
+# per-row (never assuming a variable is available just because the run's
+# temperature signal was complete) -- preserving ATOMIC WITHIN SOURCE (one
+# run_time only) and no-lookahead simultaneously.
+# ---------------------------------------------------------------------------
+
+def extract_atmospheric_trajectory(state_id: str, state: dict, sources, t: datetime, policy: str) -> list:
+    rows = []
+    for key, attr in DET_SOURCES:
+        usable = state[key].get("latest_usable_run")
+        if not usable:
+            continue
+        run_time = usable["run_time"]
+        temp_var = ws.INSTANTANEOUS_TEMPERATURE_VARIABLE.get(key, ws.DEFAULT_INSTANTANEOUS_TEMPERATURE_VARIABLE)
+        day_start_utc, day_end_utc = ws.local_day_utc_bounds(state["target_date"])
+
+        raw = getattr(sources, attr)
+        elig = raw[ws.eligible_mask(raw, t, policy)]
+        g = elig[(elig["run_time"] == run_time) & (elig["variable"] != temp_var)]
+        in_day = g[(g["valid_time"] >= day_start_utc) & (g["valid_time"] < day_end_utc)]
+
+        for _, r in in_day.iterrows():
+            rows.append({
+                "state_id": state_id, "source": key, "variable": r["variable"], "level": r.get("level"),
+                "run_time": run_time, "valid_time": r["valid_time"], "forecast_hour": r["forecast_hour"],
+                "value": r["value"], "units": r.get("units"),
+                "temporal_stat": r.get("temporal_stat"), "temporal_window_hours": r.get("temporal_window_hours"),
+            })
+    return rows
+
+
+def extract_gefs_member_trajectory(state_id: str, state: dict, sources, t: datetime, policy: str) -> list:
+    gu = state["gefs"].get("latest_usable_run")
+    if not gu:
+        return []
+    run_time = gu["run_time"]
+    day_start_utc, day_end_utc = ws.local_day_utc_bounds(state["target_date"])
+
+    raw = sources.gefs
+    elig = raw[ws.eligible_mask(raw, t, policy)]
+    g = elig[elig["run_time"] == run_time]
+    in_day = g[(g["valid_time"] >= day_start_utc) & (g["valid_time"] < day_end_utc)]
+
+    rows = []
+    for _, r in in_day.iterrows():
+        rows.append({
+            "state_id": state_id, "run_time": run_time, "ensemble_member": r["ensemble_member"], "member_type": r.get("member_type"),
+            "variable": r["variable"], "level": r.get("level"),
+            "valid_time": r["valid_time"], "forecast_hour": r["forecast_hour"],
+            "value": r["value"], "units": r.get("units"),
+            "temporal_stat": r.get("temporal_stat"), "temporal_window_hours": r.get("temporal_window_hours"),
+        })
+    return rows
+
+
 def main():
     print("Loading frozen pilot sources...")
     sources = load_pilot_sources()
@@ -269,6 +343,7 @@ def main():
     labels_by_date = {d: compute_label(sources, d) for d in dates}
 
     state_index_rows, structured_rows, traj_rows_all, gefs_rows_all = [], [], [], []
+    atmo_rows_all, gefs_member_traj_rows_all = [], []
     no_lookahead_failures = []
 
     for d in dates:
@@ -277,6 +352,8 @@ def main():
             for mode in STATE_MODES:
                 state = build_state(sources, d, qt_utc, mode)
                 sid = make_state_id(d, qt_utc, mode)
+                policy = ws.STRICT_STATE if mode == "strict" else ws.PROXY_STATE
+                t = qt_utc.to_pydatetime() if isinstance(qt_utc, pd.Timestamp) else qt_utc
 
                 nl = ws.validate_no_lookahead(state)
                 nl_pass = nl["overall"] == "PASS"
@@ -292,12 +369,16 @@ def main():
                 traj_rows, gefs_rows = extract_sequences(sid, state)
                 traj_rows_all.extend(traj_rows)
                 gefs_rows_all.extend(gefs_rows)
+                atmo_rows_all.extend(extract_atmospheric_trajectory(sid, state, sources, t, policy))
+                gefs_member_traj_rows_all.extend(extract_gefs_member_trajectory(sid, state, sources, t, policy))
         print(f"  {d}: done")
 
     state_index = pd.DataFrame(state_index_rows)
     structured = pd.DataFrame(structured_rows)
     trajectories = pd.DataFrame(traj_rows_all)
     gefs_members = pd.DataFrame(gefs_rows_all)
+    atmospheric_trajectories = pd.DataFrame(atmo_rows_all)
+    gefs_member_trajectories = pd.DataFrame(gefs_member_traj_rows_all)
 
     dup_ids = state_index["state_id"].duplicated().sum()
     print(f"\nTotal states: {len(state_index)}  duplicate state_ids: {dup_ids}")
@@ -307,6 +388,8 @@ def main():
     structured.to_parquet(OUT_DIR / "structured_features.parquet", index=False)
     trajectories.to_parquet(OUT_DIR / "forecast_trajectories.parquet", index=False)
     gefs_members.to_parquet(OUT_DIR / "gefs_members.parquet", index=False)
+    atmospheric_trajectories.to_parquet(OUT_DIR / "atmospheric_trajectories.parquet", index=False)
+    gefs_member_trajectories.to_parquet(OUT_DIR / "gefs_member_trajectories.parquet", index=False)
     with open(OUT_DIR / "no_lookahead_failures.json", "w") as f:
         json.dump(no_lookahead_failures, f, indent=2, default=str)
 
@@ -331,6 +414,8 @@ def main():
     print(f"structured_features: {len(structured)} rows, {len(structured.columns)} columns")
     print(f"forecast_trajectories: {len(trajectories)} rows")
     print(f"gefs_members: {len(gefs_members)} rows")
+    print(f"atmospheric_trajectories: {len(atmospheric_trajectories)} rows")
+    print(f"gefs_member_trajectories: {len(gefs_member_trajectories)} rows")
     print(f"human_readable_states: {len(human)} rows, {len(human.columns)} columns")
 
 
