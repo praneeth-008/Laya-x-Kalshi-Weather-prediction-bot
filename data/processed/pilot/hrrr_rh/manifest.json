@@ -4,8 +4,8 @@
   "dataset_status": "FINAL_PASS",
   "manifest_written_at_utc": "2026-09-29T04:30:00.000000+00:00",
   "provenance": {
-    "git_commit": "PENDING_FILL_AFTER_CODE_COMMIT",
-    "git_commit_short": "PENDING_FILL_AFTER_CODE_COMMIT",
+    "git_commit": "87cb88de43fe64a6ac52b46f671021c29395fc98",
+    "git_commit_short": "87cb88d",
     "git_branch": "main",
     "working_tree_clean_at_extraction": false,
     "provenance_status": "exact (extracted and committed in the same session, unlike hrrr_apcp_1h's reconstructed provenance)",

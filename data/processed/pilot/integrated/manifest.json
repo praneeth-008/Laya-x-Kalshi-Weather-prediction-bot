@@ -2,23 +2,24 @@
   "manifest_version": "1.0",
   "dataset_name": "integrated_pilot_40day_point_in_time",
   "dataset_status": "FINAL_PASS",
-  "manifest_written_at_utc": "2026-09-29T02:30:00.000000+00:00",
+  "manifest_written_at_utc": "2026-09-29T04:30:00.000000+00:00",
   "provenance": {
-    "integration_code_commit": "d3325d29ee84e513ae098063921488ea6425cd03",
-    "integration_code_commit_short": "d3325d2",
-    "superseded_integration_commit": "b1fd4f761a44d731663c1600841a1daea06fa168",
+    "integration_code_commit": "87cb88de43fe64a6ac52b46f671021c29395fc98",
+    "integration_code_commit_short": "87cb88d",
+    "superseded_integration_commit": "d3325d29ee84e513ae098063921488ea6425cd03",
     "git_branch": "main",
-    "working_tree_clean_at_build": "yes",
+    "working_tree_clean_at_build": "yes (dataset rebuilt before 87cb88d, code committed unchanged from the working-tree state that produced this exact output)",
     "provenance_status": "exact",
     "source_frozen_commits": {
       "hrrr": "36ba8cb (see data/processed/pilot/hrrr/manifest.json)",
       "gfs": "a068fcb / anl-fix retried (see data/processed/pilot/gfs/manifest.json)",
       "hrrr_apcp_1h": "see data/processed/pilot/hrrr_apcp_1h/manifest.json",
+      "hrrr_rh": "additive pilot-scope-only backfill, see data/processed/pilot/hrrr_rh/manifest.json (added by this fix, 2026-09-29)",
       "nbm": "13d150e (see data/processed/pilot/nbm/manifest.json)",
       "gefs": "784f518 (see data/processed/pilot/gefs/manifest.json)",
       "ecmwf_deterministic": "e11c942 (see data/processed/pilot/ecmwf/manifest.json)"
     },
-    "notes": "Built entirely from already-frozen, already-manifested source outputs -- no source extraction occurred during this phase. Fully reproducible via: python scripts/build_integrated_pilot.py (then python scripts/audit_integrated_pilot.py, python scripts/test_integration.py). Supersedes commit b1fd4f7: a manual-inspection follow-up (2026-09-29) found and fixed a genuine variable-mixing defect in data/weather_state.py's get_latest_forecast()/get_ensemble_state() (predicted_daily_max_f previously pooled TMP/DPT/period-max-min products together instead of isolating instantaneous temperature) -- see docs/integrated_pilot_validation.md's manual-inspection-follow-up section for full quantified impact (NBM 62/480 states changed, ECMWF 432/480, GEFS 480/480; HRRR/GFS unaffected). All 480 states were rebuilt from frozen sources after the fix."
+    "notes": "Built entirely from already-frozen, already-manifested source outputs plus the new additive HRRR RH backfill -- no existing source extraction was modified during this phase. Fully reproducible via: python scripts/build_integrated_pilot.py (then python scripts/audit_integrated_pilot.py, python scripts/test_integration.py). Supersedes commit d3325d2: the 2026-09-29 pipeline-survival fix closed the gap found by the pre-backfill variable inventory audit (f972424) -- only instantaneous temperature had been threaded through to the integrated dataset; dewpoint/wind/pressure/cloud/precipitation/radiation/native-period-Tmax-Tmin and GEFS member-level trajectories are now preserved via two new additive tables (atmospheric_trajectories.parquet, gefs_member_trajectories.parquet), without modifying the existing protected temperature-only pipeline. See docs/integrated_pilot_validation.md's 'Pipeline-survival fix (2026-09-29)' section for full details. All 480 states were rebuilt from frozen sources after the fix (row/column counts of all pre-existing outputs are identical to the pre-fix build, confirming the fix is purely additive)."
   },
   "target": {
     "city": "NYC",
@@ -63,8 +64,10 @@
       "A_state_index": {"path": "state_index.parquet", "rows": 480, "purpose": "identity, label, provenance flags"},
       "B_structured_features": {"path": "structured_features.parquet", "rows": 480, "columns": 123, "purpose": "model-friendly scalar features (now includes {source}_usable_since per numerical source)"},
       "C_sequences": {
-        "forecast_trajectories": {"path": "forecast_trajectories.parquet", "rows": 26542, "note": "instantaneous temperature only (TMP/2t) per source -- previously 218686 rows before the variable-mixing fix, which had silently included DPT and period-max/min products"},
-        "gefs_members": {"path": "gefs_members.parquet", "rows": 14880}
+        "forecast_trajectories": {"path": "forecast_trajectories.parquet", "rows": 26542, "note": "instantaneous temperature only (TMP/2t) per source -- previously 218686 rows before the variable-mixing fix, which had silently included DPT and period-max/min products. PROTECTED: unchanged by the 2026-09-29 pipeline-survival fix (row count identical)."},
+        "gefs_members": {"path": "gefs_members.parquet", "rows": 14880, "note": "per-member daily-max scalar, unchanged by the 2026-09-29 pipeline-survival fix"},
+        "atmospheric_trajectories": {"path": "atmospheric_trajectories.parquet", "rows": 199264, "added": "2026-09-29 pipeline-survival fix", "note": "HRRR/GFS/NBM/ECMWF deterministic, every non-temperature variable family, normalized long format (state_id/source/variable/run_time/valid_time/forecast_hour/value/units/temporal_stat/temporal_window_hours)"},
+        "gefs_member_trajectories": {"path": "gefs_member_trajectories.parquet", "rows": 1086302, "added": "2026-09-29 pipeline-survival fix", "note": "GEFS, ALL variables including TMP, full per-member granularity (31/31 members every usable state) -- mean/median/std/quantiles/disagreement/revision are all derivable downstream without re-downloading"}
       },
       "human_readable": {"path": "human_readable_states.csv / .parquet", "rows": 480, "columns": 31}
     }
@@ -87,7 +90,7 @@
     "status": "FINAL_PASS",
     "dataset_level_checks_passed": 35,
     "dataset_level_checks_failed": 0,
-    "unit_level_checks_passed": 34,
+    "unit_level_checks_passed": 55,
     "unit_level_checks_failed": 0,
     "gefs_completeness_suite": "14/14",
     "ecmwf_completeness_suite": "10/10",

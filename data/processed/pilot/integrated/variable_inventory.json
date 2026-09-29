@@ -1,15 +1,18 @@
 {
-  "audit_version": "1.0",
+  "audit_version": "2.0",
   "audit_date_utc": "2026-09-29",
   "baseline_commit": "f972424596d50bdf5181d7ccba860a7bc06d775c",
+  "reaudit_after_pipeline_survival_fix": true,
   "derived_from": "actual persisted frozen pilot Parquet files, not documentation alone",
   "sources": {
     "hrrr": {
       "path": "data/processed/pilot/hrrr/parts/",
       "primary_grid_rows": 166688,
       "variables": ["TMP", "DPT", "UGRD", "VGRD", "PRES", "TCDC", "APCP", "DSWRF"],
-      "additional_dataset": {"hrrr_apcp_1h": {"path": "data/processed/pilot/hrrr_apcp_1h/parts/", "rows": 19996, "variables": ["APCP_1H"]}},
-      "not_extracted_but_available": ["RH"],
+      "additional_dataset": {
+        "hrrr_apcp_1h": {"path": "data/processed/pilot/hrrr_apcp_1h/parts/", "rows": 19996, "variables": ["APCP_1H"]},
+        "hrrr_rh": {"path": "data/processed/pilot/hrrr_rh/parts/", "rows": 20836, "variables": ["RH"], "added_by": "2026-09-29 pipeline-survival fix", "note": "concatenated into the in-memory HRRR dataframe by data/pilot_loader.py:_load_hrrr_with_rh() -- RH is now just another native HRRR variable to every downstream function"}
+      },
       "run_hours": "all 24 UTC",
       "forecast_hour_range": [0, 46]
     },
@@ -69,25 +72,32 @@
     }
   },
   "pipeline_survival_gap": {
-    "status": "GENUINE_GAP_FOUND",
-    "summary": "Only instantaneous temperature is threaded through from each numerical source into the integrated dataset's model-accessible outputs (structured_features.parquet, forecast_trajectories.parquet, human_readable_states.csv). Dewpoint, wind, pressure, cloud cover, precipitation, solar radiation, and native period Tmax/Tmin are all correctly extracted and present in canonical frozen data for every numerical source (and loaded into memory by data/pilot_loader.py), but are not currently surfaced by any integration-layer output. GEFS member-level trajectories (vs. per-member daily-max scalars) have the same gap.",
+    "status": "CLOSED",
+    "closed_by": "2026-09-29 pipeline-survival fix (scripts/build_integrated_pilot.py: extract_atmospheric_trajectory(), extract_gefs_member_trajectory())",
+    "summary_before_fix": "Only instantaneous temperature was threaded through from each numerical source into the integrated dataset's model-accessible outputs (structured_features.parquet, forecast_trajectories.parquet, human_readable_states.csv). Dewpoint, wind, pressure, cloud cover, precipitation, solar radiation, and native period Tmax/Tmin were all correctly extracted and present in canonical frozen data for every numerical source (and loaded into memory by data/pilot_loader.py), but were not surfaced by any integration-layer output. GEFS member-level trajectories (vs. per-member daily-max scalars) had the same gap.",
+    "resolution": "Two new, additive output tables now carry every non-temperature variable family through to the integrated dataset, without touching or risking the existing (protected) temperature-only pipeline: atmospheric_trajectories.parquet (HRRR/GFS/NBM/ECMWF deterministic, all non-temperature variables, normalized long format, run selection reused unchanged from the existing latest_usable_run, no-lookahead re-verified per row via eligible_mask()) and gefs_member_trajectories.parquet (GEFS, ALL variables including TMP, at full per-member granularity for all 31 members -- mean/median/std/quantiles/disagreement/revision are all derivable downstream without re-downloading). forecast_trajectories.parquet, structured_features.parquet, state_index.parquet, gefs_members.parquet, and human_readable_states.csv/.parquet are byte-for-byte unchanged in row/column count after the fix (26542 / 123-cols-480-rows / 480 / 14880 / 31-cols-480-rows respectively, verified identical to the pre-fix manifest) -- confirming the fix is purely additive.",
+    "hrrr_rh_backfill": "RH was not natively extracted by the original HRRR pilot (a deliberate source-identity-preservation choice, not a technical barrier -- see docs/variable_semantics.md). A dedicated, pilot-scope-only backfill (scripts/pilot_phase3c_hrrr_rh.py) added it via the exact same find_message()/Checkpoint/run_concurrent methodology as the original HRRR pilot, in its own directory (data/processed/pilot/hrrr_rh/), confirmed unambiguously selectable (no duplicate-candidate resolution needed) via live probing before extraction. Result: 20836/20836 work items DONE, 0 FAILED, values in [15.2, 100.0]%, units '%'.",
     "introduced_by_2026_09_29_fix": false,
     "pre_existing_scope_limitation": true,
-    "affected_variables": {
-      "hrrr": ["DPT", "UGRD", "VGRD", "PRES", "TCDC", "APCP", "DSWRF"],
+    "affected_variables_now_accessible_via_trajectory_tables": {
+      "hrrr": ["DPT", "UGRD", "VGRD", "PRES", "TCDC", "APCP", "DSWRF", "RH (new, hrrr_rh backfill)"],
       "gfs": ["DPT", "RH", "UGRD", "VGRD", "PRES", "TCDC", "APCP", "DSWRF"],
       "nbm": ["DPT", "RH", "WIND", "WDIR", "TCDC", "APCP_1H", "APCP_6H", "TMAX_PERIOD", "TMIN_PERIOD"],
-      "gefs": ["DPT", "RH", "UGRD", "VGRD", "PRES", "TCDC", "APCP", "DSWRF", "TMAX", "TMIN", "member_level_trajectory"],
+      "gefs": ["DPT", "RH", "UGRD", "VGRD", "PRES", "TCDC", "APCP", "DSWRF", "TMAX", "TMIN", "member_level_trajectory (all 31 members, all variables including TMP)"],
       "ecmwf_deterministic": ["2d", "10u", "10v", "sp", "tp", "ssrd", "mx2t3", "mn2t3"]
+    },
+    "still_not_extracted": {
+      "ecmwf_deterministic": ["mx2t6", "mn2t6"],
+      "reason": "structurally absent from this pilot's forecast_hour range (0-39); not a pipeline defect -- see the 'not_present_reason' field under sources.ecmwf_deterministic above"
     }
   },
   "ml_architecture_readiness": {
-    "traditional_ml_baseline": "PARTIALLY_READY",
-    "mlp_engineered_features": "PARTIALLY_READY",
-    "sequence_model_trajectories": "PARTIALLY_READY",
-    "gefs_ensemble_features": "PARTIALLY_READY",
+    "traditional_ml_baseline": "READY",
+    "mlp_engineered_features": "READY",
+    "sequence_model_trajectories": "READY",
+    "gefs_ensemble_features": "READY",
     "afd_text_encoder": "READY"
   },
-  "decision_gate": "NEEDS_REVIEW",
-  "decision_gate_reason": "Pipeline-survival gap: useful non-temperature variables (dewpoint, wind, pressure, cloud, precipitation, radiation, native period Tmax/Tmin) are not yet accessible to the eventual model despite being correctly extracted and frozen. No source methodology, extraction, or schedule was changed in this audit."
+  "decision_gate": "PASS",
+  "decision_gate_reason": "The pipeline-survival gap identified on 2026-09-29 is closed: every useful non-temperature variable (dewpoint, wind, pressure, cloud, precipitation, radiation, native period Tmax/Tmin) that is correctly extracted and frozen in canonical data is now model-accessible via atmospheric_trajectories.parquet / gefs_member_trajectories.parquet, without flattening semantics or duplicating the protected instantaneous-temperature pipeline. No source methodology, extraction schedule, or existing scalar feature was changed to achieve this."
 }
