@@ -99,6 +99,24 @@ data/processed/weather/*
 data/processed/weather/pilot/*
 !data/processed/weather/pilot/selected_days.csv
 
+# HISTORICAL BACKFILL (2026-09-29 onward, 10 six-month blocks, scripts/backfill_*.py):
+# only each block's own manifest/audit-report is tracked -- same bulk-data
+# policy as every pilot source above. All raw/processed/integrated Parquet,
+# logs, and checkpoints stay local-only; the manifest is enough to
+# reconstruct everything deterministically from frozen sources + code.
+!data/processed/backfill/
+data/processed/backfill/*
+!data/processed/backfill/*/
+data/processed/backfill/*/*
+!data/processed/backfill/*/block_manifest.json
+!data/processed/backfill/*/integrated/
+data/processed/backfill/*/integrated/*
+!data/processed/backfill/*/integrated/audit_report.json
+
+# Raw backfill observations/AFD text (per-year/per-product, not bulk GRIB --
+# but still not tracked; reproducible from the extraction scripts).
+data/raw/backfill/
+
 # Model checkpoints
 *.pt
 *.pth
