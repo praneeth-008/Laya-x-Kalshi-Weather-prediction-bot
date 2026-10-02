@@ -114,10 +114,38 @@ def _six_month_blocks(newest_start: date, n_blocks: int) -> list[BlockSpec]:
     return blocks
 
 
-# Newest-complete-block-first, 10 blocks = exactly 5 years (2020-07-01..2025-06-30).
-# See the module docstring above for why this starts at 2025H1, not 2026H1.
-BLOCKS: list[BlockSpec] = _six_month_blocks(date(2025, 1, 1), 10)
+# Full block REGISTRY (definitions only, not processing order): the original
+# 10 blocks (2020H2..2025H1) plus 2025H2 and 2026H1, added 2026-10-02 at the
+# user's explicit request to temporarily prioritize recent history despite
+# their known partial/zero observations coverage (see PROCESSING_QUEUE and
+# the module docstring addendum below). 12 blocks total, 2020-07-01..2026-06-30.
+BLOCKS: list[BlockSpec] = _six_month_blocks(date(2026, 1, 1), 12)
 BLOCKS_BY_ID = {b.block_id: b for b in BLOCKS}
+
+# PROCESSING QUEUE -- the actual order blocks are run in, distinct from BLOCKS
+# (which is just the registry of valid definitions). Updated 2026-10-02 per
+# explicit user instruction: after 2024H2 freezes, temporarily jump to the
+# two newest blocks (2025H2, 2026H1) instead of continuing the backward
+# sequence to 2024H1, then resume the original backward order. This is ONLY
+# an execution-order change -- no extraction methodology, schema, variable,
+# source, or validation-criteria change is implied or authorized by it.
+#
+# 2025H2 and 2026H1 are known (confirmed via live archive probe, unchanged
+# 2026-09-29 -> 2026-10-02) to have partial (~31%, through ~2025-08-25/27)
+# and zero observations/label coverage respectively. Per explicit user
+# instruction on 2026-10-02: do NOT change observation/label methodology to
+# work around this without further instruction -- the user said they will
+# provide an update about an additional KNYC observation/label source
+# before deciding how 2025H2/2026H1's missing observations are handled.
+# Do not skip, reduce scope, or start investigating a replacement source
+# independently; wait for that update when these two blocks are reached.
+PROCESSING_QUEUE: list[str] = [
+    "2025H1",  # FROZEN (commit 22241b8) -- do not re-extract
+    "2024H2",  # IN PROGRESS as of 2026-10-02 -- finish via the existing unmodified procedure
+    "2025H2",  # next after 2024H2 -- WAIT for the user's KNYC-source update before handling observations
+    "2026H1",  # after 2025H2 -- same wait applies
+    "2024H1", "2023H2", "2023H1", "2022H2", "2022H1", "2021H2", "2021H1", "2020H2",  # resume original backward sequence
+]
 
 
 def calendar_days(start: date, end: date) -> list[date]:
