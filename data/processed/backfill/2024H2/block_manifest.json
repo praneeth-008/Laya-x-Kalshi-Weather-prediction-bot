@@ -10,63 +10,259 @@
   "block_selection_rationale": "Second block in the backward historical sequence from the newest complete block (2025H1). Per the user's 2026-10-02 reordering instruction, after this block freezes the pipeline temporarily jumps to 2025H2 and 2026H1 before resuming the backward sequence at 2024H1. See scripts/backfill_common.py's PROCESSING_QUEUE and module docstring.",
   "source_coverage": {
     "observations": {
-      "stations": ["KNYC", "KLGA", "KJFK", "KEWR"],
+      "stations": [
+        "KNYC",
+        "KLGA",
+        "KJFK",
+        "KEWR"
+      ],
       "status": "DONE",
-      "real_observation_rows": {"KNYC": 5541, "KLGA": 6397, "KJFK": 6290, "KEWR": 6287},
-      "flagged_days": {"KNYC": 1, "KEWR": 4},
+      "real_observation_rows": {
+        "KNYC": 5541,
+        "KLGA": 6397,
+        "KJFK": 6290,
+        "KEWR": 6287
+      },
+      "flagged_days": {
+        "KNYC": 1,
+        "KEWR": 4
+      },
       "flagged_day_detail": "2024-09-24 KNYC: LARGE_GAP (240-minute reporting gap). KEWR: 4/184 days flagged (same documented gap-pattern class as KNYC's). All are real, documented station-reporting characteristics, not fabricated or silently dropped.",
       "status_overall": "WARNING (documented, non-blocking, same class of issue as 2025H1)"
     },
     "afd": {
-      "total_documents": 1866, "missing_days": 0, "duplicate_products": 0, "failed": 0,
+      "total_documents": 1866,
+      "missing_days": 0,
+      "duplicate_products": 0,
+      "failed": 0,
       "status": "PASS"
     },
-    "gfs": {"planned": 27467, "done": 27463, "failed": 4, "success_pct": 99.985, "n_part_files": 1099, "variables": ["TMP", "DPT", "RH", "UGRD", "VGRD", "PRES", "TCDC", "APCP", "DSWRF"], "total_bytes": 187613956996},
-    "hrrr": {"planned": 97393, "done": 97375, "failed": 18, "success_pct": 99.982, "n_part_files": 3896, "variables": ["TMP", "DPT", "UGRD", "VGRD", "PRES", "TCDC", "APCP", "DSWRF"], "total_bytes": 1086509062248},
-    "hrrr_apcp_1h": {"planned": 92981, "done": 92980, "failed": 1, "success_pct": 99.999, "n_part_files": 3720, "variables": ["APCP_1H"], "total_bytes": 33569699792, "note": "additive, not merged into the integrated atmospheric_trajectories output (matches already-approved pilot scope)"},
-    "hrrr_rh": {"planned": 97393, "done": 97389, "failed": 4, "success_pct": 99.996, "n_part_files": 3896, "variables": ["RH"], "total_bytes": 155339074094, "note": "merged into integrated hrrr dataframe as a native HRRR variable"},
-    "nbm": {"planned": 146252, "done": 146212, "failed": 40, "success_pct": 99.973, "n_part_files": 5851, "variables": ["TMP", "DPT", "RH", "WIND", "WDIR", "TCDC", "APCP_1H", "APCP_6H", "TMAX_PERIOD", "TMIN_PERIOD"], "total_bytes": 1459861733056},
+    "gfs": {
+      "planned": 27467,
+      "done": 27463,
+      "failed": 4,
+      "success_pct": 99.985,
+      "n_part_files": 1099,
+      "variables": [
+        "TMP",
+        "DPT",
+        "RH",
+        "UGRD",
+        "VGRD",
+        "PRES",
+        "TCDC",
+        "APCP",
+        "DSWRF"
+      ],
+      "total_bytes": 187613956996
+    },
+    "hrrr": {
+      "planned": 97393,
+      "done": 97375,
+      "failed": 18,
+      "success_pct": 99.982,
+      "n_part_files": 3896,
+      "variables": [
+        "TMP",
+        "DPT",
+        "UGRD",
+        "VGRD",
+        "PRES",
+        "TCDC",
+        "APCP",
+        "DSWRF"
+      ],
+      "total_bytes": 1086509062248
+    },
+    "hrrr_apcp_1h": {
+      "planned": 92981,
+      "done": 92980,
+      "failed": 1,
+      "success_pct": 99.999,
+      "n_part_files": 3720,
+      "variables": [
+        "APCP_1H"
+      ],
+      "total_bytes": 33569699792,
+      "note": "additive, not merged into the integrated atmospheric_trajectories output (matches already-approved pilot scope)"
+    },
+    "hrrr_rh": {
+      "planned": 97393,
+      "done": 97389,
+      "failed": 4,
+      "success_pct": 99.996,
+      "n_part_files": 3896,
+      "variables": [
+        "RH"
+      ],
+      "total_bytes": 155339074094,
+      "note": "merged into integrated hrrr dataframe as a native HRRR variable"
+    },
+    "nbm": {
+      "planned": 146252,
+      "done": 146212,
+      "failed": 40,
+      "success_pct": 99.973,
+      "n_part_files": 5851,
+      "variables": [
+        "TMP",
+        "DPT",
+        "RH",
+        "WIND",
+        "WDIR",
+        "TCDC",
+        "APCP_1H",
+        "APCP_6H",
+        "TMAX_PERIOD",
+        "TMIN_PERIOD"
+      ],
+      "total_bytes": 1459861733056
+    },
     "ecmwf": {
-      "planned": 4414, "done": 4392, "failed": 22, "success_pct": 99.502, "n_part_files": 190,
-      "variables": ["2t", "2d", "10u", "10v", "sp", "tp", "ssrd", "mx2t3", "mn2t3"],
-      "eligible_days": 184, "structurally_unavailable_days": 0,
-      "ecmwf_valid_from": "2024-02-29", "regime": "ifs_0p25 (fully within validated range for this block)",
+      "planned": 4414,
+      "done": 4392,
+      "failed": 22,
+      "success_pct": 99.502,
+      "n_part_files": 190,
+      "variables": [
+        "2t",
+        "2d",
+        "10u",
+        "10v",
+        "sp",
+        "tp",
+        "ssrd",
+        "mx2t3",
+        "mn2t3"
+      ],
+      "eligible_days": 184,
+      "structurally_unavailable_days": 0,
+      "ecmwf_valid_from": "2024-02-29",
+      "regime": "ifs_0p25 (fully within validated range for this block)",
       "total_bytes": 23140891796,
       "known_operational_issue": "Hit the same documented AWS S3 SlowDown throttling as every prior block's ECMWF extraction (pre-existing, known characteristic of this public shared bucket, not a regime change). Original run: 4190/4414 DONE (224 FAILED). Resolved via repeated kill+cooldown+retry cycles (3 retry passes: 224->163->117->22 FAILED). Final: 4392/4414 DONE, 22/4414 FAILED (0.50%, acceptable, consistent with Block 1's 0.37%)."
     },
     "gefs": {
-      "planned": 296546, "done": 296487, "failed": 59, "success_pct": 99.980, "n_part_files": 11862,
-      "variables": ["TMP", "DPT", "RH", "UGRD", "VGRD", "PRES", "APCP", "TCDC", "DSWRF", "TMAX", "TMIN"],
-      "n_members": 31, "members": "gec00 (control) + gep01-gep30 (perturbed), all 31 confirmed present in every usable run",
+      "planned": 296546,
+      "done": 296487,
+      "failed": 59,
+      "success_pct": 99.98,
+      "n_part_files": 11862,
+      "variables": [
+        "TMP",
+        "DPT",
+        "RH",
+        "UGRD",
+        "VGRD",
+        "PRES",
+        "APCP",
+        "TCDC",
+        "DSWRF",
+        "TMAX",
+        "TMIN"
+      ],
+      "n_members": 31,
+      "members": "gec00 (control) + gep01-gep30 (perturbed), all 31 confirmed present in every usable run",
       "total_bytes": 1949111981829,
       "known_operational_issue": "One mid-run interruption with no Python traceback (OS-level, same class of event as Block 1's NBM interruption); resumed cleanly via the existing checkpoint mechanism with no data loss."
     }
   },
   "grid_fingerprints": {
-    "hrrr": {"gridType": "lambert", "Ni": 1799, "Nj": 1059, "md5GridSection": "78367561440d7c7b608b8532a02e4780", "distance_km_from_central_park": 1.0521290284382652},
-    "gfs": {"gridType": "regular_ll", "Ni": 1440, "Nj": 721, "md5GridSection": "45f3a4a8af23f33a77ab669d0fa1d813", "distance_km_from_central_park": 4.170772908399459},
-    "nbm": {"gridType": "lambert", "Ni": 2345, "Nj": 1597, "md5GridSection": "5bb2a8d01d638075eaa2ff7236270d44", "distance_km_from_central_park": 0.4259745439985317},
-    "gefs": {"gridType": "regular_ll", "Ni": 1440, "Nj": 721, "md5GridSection": "45f3a4a8af23f33a77ab669d0fa1d813", "distance_km_from_central_park": 4.170772908399459},
-    "ecmwf": {"gridType": "regular_ll", "Ni": 1440, "Nj": 721, "md5GridSection": "265781b4edc06425746b46a5775244eb", "distance_km_from_central_park": 4.170772908399459}
+    "hrrr": {
+      "gridType": "lambert",
+      "Ni": 1799,
+      "Nj": 1059,
+      "md5GridSection": "78367561440d7c7b608b8532a02e4780",
+      "distance_km_from_central_park": 1.0521290284382652
+    },
+    "gfs": {
+      "gridType": "regular_ll",
+      "Ni": 1440,
+      "Nj": 721,
+      "md5GridSection": "45f3a4a8af23f33a77ab669d0fa1d813",
+      "distance_km_from_central_park": 4.170772908399459
+    },
+    "nbm": {
+      "gridType": "lambert",
+      "Ni": 2345,
+      "Nj": 1597,
+      "md5GridSection": "5bb2a8d01d638075eaa2ff7236270d44",
+      "distance_km_from_central_park": 0.4259745439985317
+    },
+    "gefs": {
+      "gridType": "regular_ll",
+      "Ni": 1440,
+      "Nj": 721,
+      "md5GridSection": "45f3a4a8af23f33a77ab669d0fa1d813",
+      "distance_km_from_central_park": 4.170772908399459
+    },
+    "ecmwf": {
+      "gridType": "regular_ll",
+      "Ni": 1440,
+      "Nj": 721,
+      "md5GridSection": "265781b4edc06425746b46a5775244eb",
+      "distance_km_from_central_park": 4.170772908399459
+    }
   },
   "grid_check_status": "PASS (all 5 numerical sources' fingerprint/dims/distance matched the already-validated pilot-era reference exactly; see data/processed/backfill/2024H2/grid_check_report.json)",
-  "central_park_target": {"latitude": 40.7794, "longitude": -73.9691},
+  "central_park_target": {
+    "latitude": 40.7794,
+    "longitude": -73.9691
+  },
   "target_observation_station": "KNYC",
-  "auxiliary_observation_stations": ["KLGA", "KJFK", "KEWR"],
+  "auxiliary_observation_stations": [
+    "KLGA",
+    "KJFK",
+    "KEWR"
+  ],
   "integration_architecture": {
     "layers": {
-      "state_index": {"rows": 2208, "path": "integrated/state_index.parquet"},
-      "structured_features": {"rows": 2208, "columns": 123, "path": "integrated/structured_features.parquet"},
-      "forecast_trajectories": {"rows": 121492, "path": "integrated/forecast_trajectories.parquet", "note": "PROTECTED, instantaneous-temperature-only"},
-      "gefs_members": {"rows": 68448, "path": "integrated/gefs_members.parquet"},
-      "atmospheric_trajectories": {"rows": 886926, "path": "integrated/atmospheric_trajectories.parquet"},
-      "gefs_member_trajectories": {"rows": 4958264, "path": "integrated/gefs_member_trajectories.parquet"},
-      "human_readable_states": {"rows": 2208, "columns": 31, "path": "integrated/human_readable_states.csv / .parquet"}
+      "state_index": {
+        "rows": 2208,
+        "path": "integrated/state_index.parquet"
+      },
+      "structured_features": {
+        "rows": 2208,
+        "columns": 123,
+        "path": "integrated/structured_features.parquet"
+      },
+      "forecast_trajectories": {
+        "rows": 121492,
+        "path": "integrated/forecast_trajectories.parquet",
+        "note": "PROTECTED, instantaneous-temperature-only"
+      },
+      "gefs_members": {
+        "rows": 68448,
+        "path": "integrated/gefs_members.parquet"
+      },
+      "atmospheric_trajectories": {
+        "rows": 886926,
+        "path": "integrated/atmospheric_trajectories.parquet"
+      },
+      "gefs_member_trajectories": {
+        "rows": 4958264,
+        "path": "integrated/gefs_member_trajectories.parquet"
+      },
+      "human_readable_states": {
+        "rows": 2208,
+        "columns": 31,
+        "path": "integrated/human_readable_states.csv / .parquet"
+      }
     },
     "total_states": 2208,
     "states_per_day": 12,
-    "standard_local_hours": [6, 8, 10, 12, 14, 16],
-    "state_modes": ["strict", "proxy"]
+    "standard_local_hours": [
+      6,
+      8,
+      10,
+      12,
+      14,
+      16
+    ],
+    "state_modes": [
+      "strict",
+      "proxy"
+    ]
   },
   "validation_results": {
     "integrated_dataset_level_checks": "35/35 PASS",
@@ -108,5 +304,12 @@
     "sample_inspections_passed": true,
     "manifest_complete": true
   },
-  "code_commit_for_this_freeze": "24479058fb77ca791e7311197d5b6d7d6e6790d7"
+  "code_commit_for_this_freeze": "24479058fb77ca791e7311197d5b6d7d6e6790d7",
+  "clinyc_label_harmonization": {
+    "applied": true,
+    "note": "Label-only pass; does not alter numerical extraction/freeze status above.",
+    "summary_path": "data/processed/backfill/2024H2/clinyc/harmonization_summary.json",
+    "canonical_label_coverage_pct": 100.0,
+    "missing_canonical_label_dates": []
+  }
 }

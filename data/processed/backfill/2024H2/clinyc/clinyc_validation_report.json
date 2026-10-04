@@ -1,0 +1,49 @@
+{
+  "block_id": "2024H2",
+  "n_days_expected": 184,
+  "n_days_available": 184,
+  "n_days_missing": 0,
+  "coverage_pct": 100.0,
+  "missing_dates": [],
+  "multi_final_days": [
+    {
+      "date": "2024-09-24",
+      "n_candidates": 2,
+      "notes": "MULTI_FINAL_IDENTICAL: 2 final reports, same value, selected latest-issued (202409261240-KOKX-CDUS41-CLINYC)"
+    },
+    {
+      "date": "2024-09-25",
+      "n_candidates": 2,
+      "notes": "MULTI_FINAL_IDENTICAL: 2 final reports, same value, selected latest-issued (202409261232-KOKX-CDUS41-CLINYC)"
+    },
+    {
+      "date": "2024-11-04",
+      "n_candidates": 3,
+      "notes": "MULTI_FINAL_IDENTICAL: 3 final reports, same value, selected latest-issued (202411050857-KOKX-CDUS41-CLINYC)"
+    },
+    {
+      "date": "2024-11-08",
+      "n_candidates": 2,
+      "notes": "MULTI_FINAL_IDENTICAL: 2 final reports, same value, selected latest-issued (202411090652-KOKX-CDUS41-CLINYC-CCA)"
+    },
+    {
+      "date": "2024-11-09",
+      "n_candidates": 2,
+      "notes": "MULTI_FINAL_IDENTICAL: 2 final reports, same value, selected latest-issued (202411100641-KOKX-CDUS41-CLINYC-CCA)"
+    },
+    {
+      "date": "2024-12-16",
+      "n_candidates": 2,
+      "notes": "MULTI_FINAL_IDENTICAL: 2 final reports, same value, selected latest-issued (202412171015-KOKX-CDUS41-CLINYC)"
+    }
+  ],
+  "days_with_preliminary_rejected": 184,
+  "selection_errors": [],
+  "parse_errors": [],
+  "duplicate_target_dates": 0,
+  "impossible_values": [],
+  "provenance_validation": "PASS",
+  "no_lookahead_check": "PASS (enforced inside select_canonical_label: every used final's issuance_time must postdate its own target_date)",
+  "total_requests": 563,
+  "total_bytes": 14243457
+}
