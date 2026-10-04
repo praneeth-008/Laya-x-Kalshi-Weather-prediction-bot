@@ -126,6 +126,60 @@ timeout elapses), at which point it writes `manifest.json` and exits.
 - `COMPLETE` -- full-event capture (not started mid-event), no detected
   gaps, every market got a snapshot, and settlement was confirmed.
 
+## Manifest `opening_capture_classification` (2026-10-04 onward)
+
+A second, separate field assessing specifically how close the recording
+started to the event's own opening (distinct from `capture_completeness`,
+which covers the whole day). Computed from objectively recorded
+timestamps only -- `kalshi_reported_open_time_utc` (the minimum
+`open_time` across the event's markets) versus
+`last_first_snapshot_time_utc` (when the LAST of the event's markets
+received its first `orderbook_snapshot`), never inferred from wall-clock
+proximity to a scheduled time:
+
+- `FULL_OPEN_CAPTURE` -- not started mid-event, and every market's first
+  snapshot arrived within 60s of `open_time`.
+- `NEAR_OPEN_CAPTURE` -- not started mid-event, within 600s of `open_time`.
+- `STARTED_AFTER_OPEN` -- started mid-event, or more than 600s after
+  `open_time`.
+- `PARTIAL`/`INVALID` -- not every market ever received a snapshot.
+
+Added after the KXHIGHNY-26OCT05 event (opened 2026-10-04 14:00:00Z) was
+discovered and subscribed to by the already-running daemon within ~2
+minutes of its own open_time, via its native multi-event discovery loop
+(see below) -- no restart of the running process was needed or used.
+Because this field was added to the code after that day's `EventRecorder`
+instances were already constructed in memory, their own eventual
+`manifest.json` (written at settlement) will lack it; the computed
+assessment for 2026-10-04's two events was instead written directly to
+`data/live_kalshi_weather/{date}/metadata/opening_capture_assessment.json`
+as the authoritative record (KXHIGHNY-26OCT04: `STARTED_AFTER_OPEN`, since
+it was started_mid_event; KXHIGHNY-26OCT05: `NEAR_OPEN_CAPTURE`, ~129s
+from its scheduled open_time to full 6-market snapshot coverage).
+
+## Multi-event / day-rollover discovery already handles overlapping events
+
+`RecorderDaemon._discovery_tick()` polls every `DISCOVERY_POLL_SECONDS`
+(300s) for ALL currently-open KXHIGHNY events and starts an independent
+`EventRecorder` (own output directory, own WS connection, own sid/seq
+state) for every event_ticker not already in `self.active` -- this means
+a second, concurrently-open KXHIGHNY event (e.g. tomorrow's, opened before
+today's settles) is picked up automatically on the daemon's own next poll
+tick, with no code change and no restart. This is also why a SEPARATE
+second recorder process must never be started for an event the daemon
+will also independently discover: two independent WebSocket connections
+subscribing to the same event would each get their own `sid` from Kalshi
+(server-assigned per-connection, so the two connections' sids could
+collide in value while meaning different things), and two processes
+appending to the same `websocket_raw.jsonl` risk interleaved/corrupted
+writes. `scripts/kxhighny_watch_discovery.py` (added 2026-10-04) exists
+specifically to observe an upcoming event's opening with tighter polling
+than the daemon's 5-minute cycle, for latency measurement -- it never
+subscribes to the WebSocket and never writes into the event's own output
+directory, by design, to avoid exactly this collision. Its own output
+lives in `data/live_kalshi_weather/_discovery_logs/`, a sibling directory
+the daemon never touches.
+
 ## Resource safety
 
 Raw messages are appended to disk immediately (never buffered in memory);

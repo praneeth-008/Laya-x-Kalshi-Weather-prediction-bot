@@ -174,6 +174,7 @@ class EventRecorder:
         self._seq_trackers: dict[int, SequenceTracker] = {}
         self._pending_resync: set[str] = set()
         self._finalized = False
+        self._first_snapshot_time_by_market: dict[str, datetime] = {}
         self._setup_dirs()
         self._write_discovery_metadata()
 
@@ -297,6 +298,8 @@ class EventRecorder:
             book.apply_snapshot(msg.get("yes_dollars_fp"), msg.get("no_dollars_fp"))
             self.counts.snapshots += 1
             self._pending_resync.discard(ticker)
+            if ticker not in self._first_snapshot_time_by_market:
+                self._first_snapshot_time_by_market[ticker] = datetime.now(timezone.utc)
             if is_resync:
                 self.counts.resyncs += 1
                 self._log(f"resync complete for {ticker} (new segment {book.segment_id})")
@@ -452,6 +455,40 @@ class EventRecorder:
                 h.update(chunk)
         return h.hexdigest()
 
+    def _opening_capture_assessment(self) -> dict:
+        """Classifies how close this recording started to the event's own
+        market open_time, based only on objectively recorded timestamps --
+        never inferred from wall-clock proximity to a scheduled time alone.
+        Separate from capture_completeness (which covers the whole day)."""
+        open_time = earliest_open_time(self.event)
+        if open_time is None:
+            return {"opening_capture_classification": "INVALID", "opening_capture_reason": "no open_time available on this event's markets"}
+        if len(self._first_snapshot_time_by_market) < len(self.market_tickers):
+            return {
+                "opening_capture_classification": "INVALID" if not self._first_snapshot_time_by_market else "PARTIAL",
+                "opening_capture_reason": "not every market received an initial snapshot",
+                "kalshi_reported_open_time_utc": open_time.isoformat(),
+                "first_snapshot_time_by_market": {k: v.isoformat() for k, v in self._first_snapshot_time_by_market.items()},
+            }
+        last_first_snapshot = max(self._first_snapshot_time_by_market.values())
+        gap_seconds = (last_first_snapshot - open_time).total_seconds()
+        if self.started_mid_event:
+            classification = "STARTED_AFTER_OPEN"
+        elif gap_seconds <= 60:
+            classification = "FULL_OPEN_CAPTURE"
+        elif gap_seconds <= 600:
+            classification = "NEAR_OPEN_CAPTURE"
+        else:
+            classification = "STARTED_AFTER_OPEN"
+        return {
+            "opening_capture_classification": classification,
+            "kalshi_reported_open_time_utc": open_time.isoformat(),
+            "recorder_start_utc": self.start_time.isoformat(),
+            "first_snapshot_time_by_market": {k: v.isoformat() for k, v in self._first_snapshot_time_by_market.items()},
+            "last_first_snapshot_time_utc": last_first_snapshot.isoformat(),
+            "gap_seconds_open_to_full_snapshot_coverage": gap_seconds,
+        }
+
     def _finalize(self, settled: bool) -> None:
         missing_snapshot = [t for t, b in self.books.items() if not b.ever_had_snapshot]
         has_gaps = self.counts.gaps > 0
@@ -491,6 +528,7 @@ class EventRecorder:
             "trades_file_sha256": self._sha256_of(self.trades_path),
             "started_mid_event": self.started_mid_event,
             "capture_completeness": completeness,
+            **self._opening_capture_assessment(),
         }
         with open(self.out_dir / "manifest.json", "w", encoding="utf-8") as f:
             json.dump(manifest, f, indent=2, default=str)
