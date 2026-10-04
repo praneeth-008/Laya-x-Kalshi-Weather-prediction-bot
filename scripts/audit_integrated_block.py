@@ -128,7 +128,15 @@ def main():
     mismatched = pivot[(pivot["strict"] != pivot["proxy"]) & pivot["strict"].notna() & pivot["proxy"].notna()]
     check("HRRR forecast identical between STRICT and PROXY at the same (day,time)", len(mismatched) == 0, str(len(mismatched)))
 
-    feature_cols = [c for c in structured.columns if c not in ("label_tmax_f", "label_time_utc", "label_source", "label_n_observations", "label_quality")]
+    # Known, intentional label columns (both the pre-existing ISD-derived label
+    # and the canonical CLINYC label layer added by scripts/clinyc_harmonize_block.py,
+    # see docs/decisions.md 2026-10-04) are exempt from the leakage-term scan below --
+    # they are the supervised target itself, not a leaked feature.
+    known_label_cols = (
+        "label_tmax_f", "label_time_utc", "label_source", "label_n_observations", "label_quality",
+        "canonical_tmax_label_f", "canonical_label_source", "canonical_label_status",
+    )
+    feature_cols = [c for c in structured.columns if c not in known_label_cols]
     leak_terms = ["label", "realized", "settlement", "kalshi"]
     suspicious = [c for c in feature_cols if any(term in c.lower() for term in leak_terms)]
     check("no leakage-suspicious column names among features", len(suspicious) == 0, str(suspicious))

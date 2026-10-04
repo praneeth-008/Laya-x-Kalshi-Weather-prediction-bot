@@ -1,0 +1,38 @@
+{
+  "block_id": "2025H1",
+  "n_days_expected": 181,
+  "n_days_available": 178,
+  "n_days_missing": 3,
+  "coverage_pct": 98.34,
+  "missing_dates": [
+    "2025-06-02",
+    "2025-06-03",
+    "2025-06-18"
+  ],
+  "multi_final_days": [
+    {
+      "date": "2025-01-19",
+      "n_candidates": 2,
+      "notes": "MULTI_FINAL_IDENTICAL: 2 final reports, same value, selected latest-issued (202501201705-KOKX-CDUS41-CLINYC)"
+    },
+    {
+      "date": "2025-02-02",
+      "n_candidates": 2,
+      "notes": "MULTI_FINAL_IDENTICAL: 2 final reports, same value, selected latest-issued (202502031131-KOKX-CDUS41-CLINYC-CCA)"
+    },
+    {
+      "date": "2025-02-21",
+      "n_candidates": 2,
+      "notes": "MULTI_FINAL_DIFFERING: 2 final reports, values differ [36.0, None], selected latest-issued (202502221033-KOKX-CDUS41-CLINYC)"
+    }
+  ],
+  "days_with_preliminary_rejected": 179,
+  "selection_errors": [],
+  "parse_errors": [],
+  "duplicate_target_dates": 0,
+  "impossible_values": [],
+  "provenance_validation": "PASS",
+  "no_lookahead_check": "PASS (enforced inside select_canonical_label: every used final's issuance_time must postdate its own target_date)",
+  "total_requests": 182,
+  "total_bytes": 12422953
+}

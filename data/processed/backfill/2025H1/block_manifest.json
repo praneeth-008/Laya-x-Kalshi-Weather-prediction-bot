@@ -10,62 +10,263 @@
   "block_selection_rationale": "The newest COMPLETE six-month block is bounded by the NOAA ISD Global Hourly (observations) archive, which supplies the realized-Tmax label and lags well behind the numerical forecast archives. Direct probe (2026-09-29) confirmed the 2026 annual observations file does not exist (HTTP 404) and the 2025 annual file's real content ends at ~2025-08-25..08-27 (per-station). 2025H1 (Jan-Jun 2025) is therefore the true newest complete block, with a ~2-month safety margin before that cutoff. See scripts/backfill_common.py module docstring for the full investigation.",
   "source_coverage": {
     "observations": {
-      "stations": ["KNYC", "KLGA", "KJFK", "KEWR"],
+      "stations": [
+        "KNYC",
+        "KLGA",
+        "KJFK",
+        "KEWR"
+      ],
       "status": "DONE",
-      "real_observation_rows": {"KNYC": 5813, "KLGA": 6601, "KJFK": 6522, "KEWR": 6396},
+      "real_observation_rows": {
+        "KNYC": 5813,
+        "KLGA": 6601,
+        "KJFK": 6522,
+        "KEWR": 6396
+      },
       "flagged_days": 2,
       "flagged_day_detail": "2025-02-13 KNYC: 1 duplicate timestamp (benign ISD report correction); 2025-02-21 KNYC: 270-minute reporting gap. Both documented, real station-reporting characteristics, not fabricated or silently dropped.",
       "status_overall": "WARNING (documented, non-blocking)"
     },
     "afd": {
-      "total_documents": 1790, "missing_days": 0, "duplicate_products": 0,
-      "documents_per_day_mean": 9.84, "status": "PASS"
+      "total_documents": 1790,
+      "missing_days": 0,
+      "duplicate_products": 0,
+      "documents_per_day_mean": 9.84,
+      "status": "PASS"
     },
-    "gfs": {"planned": 27048, "done": 27045, "failed": 3, "success_pct": 99.99, "parts": 1082, "corrupt_parts": 0, "variables": ["TMP", "DPT", "RH", "UGRD", "VGRD", "PRES", "TCDC", "APCP", "DSWRF"], "total_bytes": 182702576462},
-    "hrrr": {"planned": 95806, "done": 95786, "failed": 20, "success_pct": 99.98, "parts": 3833, "corrupt_parts": 0, "variables": ["TMP", "DPT", "UGRD", "VGRD", "PRES", "TCDC", "APCP", "DSWRF"], "total_bytes": 1069072962423},
-    "hrrr_apcp_1h": {"planned": 91467, "done": 91461, "failed": 6, "success_pct": 99.99, "parts": 3659, "corrupt_parts": 0, "variables": ["APCP_1H"], "total_bytes": 38081385936, "note": "additive, not merged into the integrated atmospheric_trajectories output (matches already-approved pilot scope)"},
-    "hrrr_rh": {"planned": 95806, "done": 95801, "failed": 5, "success_pct": 99.99, "parts": 3833, "corrupt_parts": 0, "variables": ["RH"], "total_bytes": 152388560498, "note": "merged into integrated hrrr dataframe as a native HRRR variable"},
-    "nbm": {"planned": 143793, "done": 143790, "failed": 3, "success_pct": 99.998, "parts": 5753, "corrupt_parts": 0, "variables": ["TMP", "DPT", "RH", "WIND", "WDIR", "TCDC", "APCP_1H", "APCP_6H", "TMAX_PERIOD", "TMIN_PERIOD"], "total_bytes": 433162985541},
+    "gfs": {
+      "planned": 27048,
+      "done": 27045,
+      "failed": 3,
+      "success_pct": 99.99,
+      "parts": 1082,
+      "corrupt_parts": 0,
+      "variables": [
+        "TMP",
+        "DPT",
+        "RH",
+        "UGRD",
+        "VGRD",
+        "PRES",
+        "TCDC",
+        "APCP",
+        "DSWRF"
+      ],
+      "total_bytes": 182702576462
+    },
+    "hrrr": {
+      "planned": 95806,
+      "done": 95786,
+      "failed": 20,
+      "success_pct": 99.98,
+      "parts": 3833,
+      "corrupt_parts": 0,
+      "variables": [
+        "TMP",
+        "DPT",
+        "UGRD",
+        "VGRD",
+        "PRES",
+        "TCDC",
+        "APCP",
+        "DSWRF"
+      ],
+      "total_bytes": 1069072962423
+    },
+    "hrrr_apcp_1h": {
+      "planned": 91467,
+      "done": 91461,
+      "failed": 6,
+      "success_pct": 99.99,
+      "parts": 3659,
+      "corrupt_parts": 0,
+      "variables": [
+        "APCP_1H"
+      ],
+      "total_bytes": 38081385936,
+      "note": "additive, not merged into the integrated atmospheric_trajectories output (matches already-approved pilot scope)"
+    },
+    "hrrr_rh": {
+      "planned": 95806,
+      "done": 95801,
+      "failed": 5,
+      "success_pct": 99.99,
+      "parts": 3833,
+      "corrupt_parts": 0,
+      "variables": [
+        "RH"
+      ],
+      "total_bytes": 152388560498,
+      "note": "merged into integrated hrrr dataframe as a native HRRR variable"
+    },
+    "nbm": {
+      "planned": 143793,
+      "done": 143790,
+      "failed": 3,
+      "success_pct": 99.998,
+      "parts": 5753,
+      "corrupt_parts": 0,
+      "variables": [
+        "TMP",
+        "DPT",
+        "RH",
+        "WIND",
+        "WDIR",
+        "TCDC",
+        "APCP_1H",
+        "APCP_6H",
+        "TMAX_PERIOD",
+        "TMIN_PERIOD"
+      ],
+      "total_bytes": 433162985541
+    },
     "ecmwf": {
-      "planned": 4342, "done": 4326, "failed": 16, "success_pct": 99.63, "parts": 197, "corrupt_parts": 0,
-      "variables": ["2t", "2d", "10u", "10v", "sp", "tp", "ssrd", "mx2t3", "mn2t3"],
-      "total_bytes": 681193568, "eligible_days": 181, "structurally_unavailable_days": 0,
-      "ecmwf_valid_from": "2024-02-29", "regime": "ifs_0p25 (fully within validated range for this block)",
+      "planned": 4342,
+      "done": 4326,
+      "failed": 16,
+      "success_pct": 99.63,
+      "parts": 197,
+      "corrupt_parts": 0,
+      "variables": [
+        "2t",
+        "2d",
+        "10u",
+        "10v",
+        "sp",
+        "tp",
+        "ssrd",
+        "mx2t3",
+        "mn2t3"
+      ],
+      "total_bytes": 681193568,
+      "eligible_days": 181,
+      "structurally_unavailable_days": 0,
+      "ecmwf_valid_from": "2024-02-29",
+      "regime": "ifs_0p25 (fully within validated range for this block)",
       "note": "mx2t6/mn2t6 correctly absent (block never reaches the 6-hourly regime, F150+)",
       "known_operational_issue": "First extraction attempt hit sustained AWS S3 SlowDown throttling on this public shared bucket (documented, pre-existing known characteristic of this source, not a regime change). Resolved via cooldown + 2 retry passes at reduced concurrency (16->6 workers). Final: 4326/4342 DONE, 16/4342 FAILED (0.37%, acceptable, documented in source validation)."
     },
     "gefs": {
-      "planned": 291710, "done": 291668, "failed": 42, "success_pct": 99.986, "parts": 11669, "corrupt_parts": 0,
-      "variables": ["TMP", "DPT", "RH", "UGRD", "VGRD", "PRES", "APCP", "TCDC", "DSWRF", "TMAX", "TMIN"],
-      "n_members": 31, "members": "gec00 (control) + gep01-gep30 (perturbed), all 31 confirmed present in every usable run",
+      "planned": 291710,
+      "done": 291668,
+      "failed": 42,
+      "success_pct": 99.986,
+      "parts": 11669,
+      "corrupt_parts": 0,
+      "variables": [
+        "TMP",
+        "DPT",
+        "RH",
+        "UGRD",
+        "VGRD",
+        "PRES",
+        "APCP",
+        "TCDC",
+        "DSWRF",
+        "TMAX",
+        "TMIN"
+      ],
+      "n_members": 31,
+      "members": "gec00 (control) + gep01-gep30 (perturbed), all 31 confirmed present in every usable run",
       "total_bytes": 1918985422678
     }
   },
   "grid_fingerprints": {
-    "hrrr": {"gridType": "lambert", "Ni": 1799, "Nj": 1059, "md5GridSection": "78367561440d7c7b608b8532a02e4780", "distance_km_from_central_park": 1.0521290284382652},
-    "gfs": {"gridType": "regular_ll", "Ni": 1440, "Nj": 721, "md5GridSection": "45f3a4a8af23f33a77ab669d0fa1d813", "distance_km_from_central_park": 4.170772908399459},
-    "nbm": {"gridType": "lambert", "Ni": 2345, "Nj": 1597, "md5GridSection": "5bb2a8d01d638075eaa2ff7236270d44", "distance_km_from_central_park": 0.4259745439985317},
-    "gefs": {"gridType": "regular_ll", "Ni": 1440, "Nj": 721, "md5GridSection": "45f3a4a8af23f33a77ab669d0fa1d813", "distance_km_from_central_park": 4.170772908399459},
-    "ecmwf": {"gridType": "regular_ll", "Ni": 1440, "Nj": 721, "md5GridSection": "265781b4edc06425746b46a5775244eb", "distance_km_from_central_park": 4.170772908399459}
+    "hrrr": {
+      "gridType": "lambert",
+      "Ni": 1799,
+      "Nj": 1059,
+      "md5GridSection": "78367561440d7c7b608b8532a02e4780",
+      "distance_km_from_central_park": 1.0521290284382652
+    },
+    "gfs": {
+      "gridType": "regular_ll",
+      "Ni": 1440,
+      "Nj": 721,
+      "md5GridSection": "45f3a4a8af23f33a77ab669d0fa1d813",
+      "distance_km_from_central_park": 4.170772908399459
+    },
+    "nbm": {
+      "gridType": "lambert",
+      "Ni": 2345,
+      "Nj": 1597,
+      "md5GridSection": "5bb2a8d01d638075eaa2ff7236270d44",
+      "distance_km_from_central_park": 0.4259745439985317
+    },
+    "gefs": {
+      "gridType": "regular_ll",
+      "Ni": 1440,
+      "Nj": 721,
+      "md5GridSection": "45f3a4a8af23f33a77ab669d0fa1d813",
+      "distance_km_from_central_park": 4.170772908399459
+    },
+    "ecmwf": {
+      "gridType": "regular_ll",
+      "Ni": 1440,
+      "Nj": 721,
+      "md5GridSection": "265781b4edc06425746b46a5775244eb",
+      "distance_km_from_central_park": 4.170772908399459
+    }
   },
   "grid_check_status": "PASS (all 5 numerical sources' fingerprint/dims/distance matched the already-validated pilot-era reference exactly; see data/processed/backfill/2025H1/grid_check_report.json -- note: that report file is from the retired 2026H1 attempt's path and was not regenerated for 2025H1 since 2025H1 is a strict subset of the already-exhaustively-validated original 40-day pilot window)",
-  "central_park_target": {"latitude": 40.7794, "longitude": -73.9691},
+  "central_park_target": {
+    "latitude": 40.7794,
+    "longitude": -73.9691
+  },
   "target_observation_station": "KNYC",
-  "auxiliary_observation_stations": ["KLGA", "KJFK", "KEWR"],
+  "auxiliary_observation_stations": [
+    "KLGA",
+    "KJFK",
+    "KEWR"
+  ],
   "integration_architecture": {
     "layers": {
-      "state_index": {"rows": 2172, "path": "integrated/state_index.parquet"},
-      "structured_features": {"rows": 2172, "columns": 123, "path": "integrated/structured_features.parquet"},
-      "forecast_trajectories": {"rows": 120228, "path": "integrated/forecast_trajectories.parquet", "note": "PROTECTED, instantaneous-temperature-only"},
-      "gefs_members": {"rows": 67332, "path": "integrated/gefs_members.parquet"},
-      "atmospheric_trajectories": {"rows": 902292, "path": "integrated/atmospheric_trajectories.parquet"},
-      "gefs_member_trajectories": {"rows": 4885104, "path": "integrated/gefs_member_trajectories.parquet"},
-      "human_readable_states": {"rows": 2172, "columns": 31, "path": "integrated/human_readable_states.csv / .parquet"}
+      "state_index": {
+        "rows": 2172,
+        "path": "integrated/state_index.parquet"
+      },
+      "structured_features": {
+        "rows": 2172,
+        "columns": 123,
+        "path": "integrated/structured_features.parquet"
+      },
+      "forecast_trajectories": {
+        "rows": 120228,
+        "path": "integrated/forecast_trajectories.parquet",
+        "note": "PROTECTED, instantaneous-temperature-only"
+      },
+      "gefs_members": {
+        "rows": 67332,
+        "path": "integrated/gefs_members.parquet"
+      },
+      "atmospheric_trajectories": {
+        "rows": 902292,
+        "path": "integrated/atmospheric_trajectories.parquet"
+      },
+      "gefs_member_trajectories": {
+        "rows": 4885104,
+        "path": "integrated/gefs_member_trajectories.parquet"
+      },
+      "human_readable_states": {
+        "rows": 2172,
+        "columns": 31,
+        "path": "integrated/human_readable_states.csv / .parquet"
+      }
     },
     "total_states": 2172,
     "states_per_day": 12,
-    "standard_local_hours": [6, 8, 10, 12, 14, 16],
-    "state_modes": ["strict", "proxy"]
+    "standard_local_hours": [
+      6,
+      8,
+      10,
+      12,
+      14,
+      16
+    ],
+    "state_modes": [
+      "strict",
+      "proxy"
+    ]
   },
   "validation_results": {
     "integrated_dataset_level_checks": "35/35 PASS",
@@ -105,5 +306,16 @@
     "sample_inspections_passed": true,
     "manifest_complete": true
   },
-  "code_commit_for_this_freeze": "4a7a5188c61e65568eae4d82c6920af01fd5c979"
+  "code_commit_for_this_freeze": "4a7a5188c61e65568eae4d82c6920af01fd5c979",
+  "clinyc_label_harmonization": {
+    "applied": true,
+    "note": "Label-only pass; does not alter numerical extraction/freeze status above.",
+    "summary_path": "data/processed/backfill/2025H1/clinyc/harmonization_summary.json",
+    "canonical_label_coverage_pct": 98.34,
+    "missing_canonical_label_dates": [
+      "2025-06-02",
+      "2025-06-03",
+      "2025-06-18"
+    ]
+  }
 }
