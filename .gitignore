@@ -10,6 +10,8 @@ env/
 # Secrets and API credentials
 .env
 *.env
+*.pem
+private_key.pem
 
 # Jupyter
 .ipynb_checkpoints/
@@ -113,9 +115,25 @@ data/processed/backfill/*/*
 data/processed/backfill/*/integrated/*
 !data/processed/backfill/*/integrated/audit_report.json
 
+# CLINYC canonical label layer (2026-10-04, see docs/decisions.md): only the
+# validation/harmonization JSON reports are tracked, same policy as every
+# other source's manifest above. Raw cached report text and the per-day
+# labels Parquet stay local-only (fully reproducible from data/clinyc.py +
+# scripts/backfill_clinyc.py + the IEM archive).
+!data/processed/backfill/*/clinyc/
+data/processed/backfill/*/clinyc/*
+!data/processed/backfill/*/clinyc/clinyc_validation_report.json
+!data/processed/backfill/*/clinyc/harmonization_summary.json
+
 # Raw backfill observations/AFD text (per-year/per-product, not bulk GRIB --
 # but still not tracked; reproducible from the extraction scripts).
 data/raw/backfill/
+
+# Live KXHIGHNY L2 recorder output (2026-10-04, scripts/kxhighny_recorder.py):
+# raw L2/trade capture and per-day manifests are never committed -- only the
+# recorder CODE, its tests, and docs are. This is intentionally a stricter
+# policy than the historical backfill's manifest-tracking above.
+data/live_kalshi_weather/
 
 # Model checkpoints
 *.pt
