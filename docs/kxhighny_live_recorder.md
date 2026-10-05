@@ -180,6 +180,28 @@ directory, by design, to avoid exactly this collision. Its own output
 lives in `data/live_kalshi_weather/_discovery_logs/`, a sibling directory
 the daemon never touches.
 
+## High-precision opening capture (`kxhighny_opening_capture.py`, added 2026-10-05)
+
+For when "near the open" (the daemon's own ~2-5 minute discovery lag) isn't
+tight enough and the actual first quote/snapshot/trade is wanted: this is
+a one-shot, independent script that sleeps until shortly before an
+event's expected `open_time`, then polls at 1-second intervals (far
+tighter than the daemon's 300s or the watcher's 10s) until the event is
+confirmed active, subscribes within milliseconds, and records for a
+bounded window (`CAPTURE_WINDOW_SECONDS`, default 10 minutes) before
+disconnecting. It writes to a **separate subdirectory**,
+`data/live_kalshi_weather/{date}/opening_capture/{metadata,websocket,trades}/`
+-- a sibling of the daemon's own `{metadata,websocket,trades,logs,validation}/`
+under the same date, never the same files -- so it can never collide with
+the daemon's own eventual full-day recording of the same event. Its
+`metadata/opening_capture_summary.json` extracts the first quote (best
+yes/no bid, level counts, sequence number) per market and the first trade,
+read directly back from its own raw capture, never inferred.
+
+Usage: `python scripts/kxhighny_opening_capture.py --target-date YYYY-MM-DD`
+(the event's own ticker, ending in a date one day later, is discovered
+automatically -- never hardcoded).
+
 ## Resource safety
 
 Raw messages are appended to disk immediately (never buffered in memory);
