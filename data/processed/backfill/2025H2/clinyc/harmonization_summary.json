@@ -1,0 +1,50 @@
+{
+  "block_id": "2025H2",
+  "harmonization_type": "LABEL_ONLY (no numerical source re-extraction)",
+  "canonical_label_definition": "y_d = finalized NWS CLINYC Central Park daily Tmax",
+  "clinyc_label_coverage": {
+    "block_id": "2025H2",
+    "n_days_expected": 184,
+    "n_days_available": 183,
+    "n_days_missing": 1,
+    "coverage_pct": 99.46,
+    "missing_dates": [
+      "2025-11-13"
+    ],
+    "multi_final_days": [
+      {
+        "date": "2025-12-03",
+        "n_candidates": 2,
+        "notes": "MULTI_FINAL_DIFFERING: 2 final reports, values differ [40.0, 41.0], selected latest-issued (202512041421-KOKX-CDUS41-CLINYC)"
+      },
+      {
+        "date": "2025-12-08",
+        "n_candidates": 2,
+        "notes": "MULTI_FINAL_IDENTICAL: 2 final reports, same value, selected latest-issued (202512090623-KOKX-CDUS41-CLINYC)"
+      },
+      {
+        "date": "2025-12-19",
+        "n_candidates": 2,
+        "notes": "MULTI_FINAL_IDENTICAL: 2 final reports, same value, selected latest-issued (202512201717-KOKX-CDUS41-CLINYC)"
+      }
+    ],
+    "days_with_preliminary_rejected": 183,
+    "selection_errors": [],
+    "parse_errors": [],
+    "duplicate_target_dates": 0,
+    "impossible_values": [],
+    "provenance_validation": "PASS",
+    "no_lookahead_check": "PASS (enforced inside select_canonical_label: every used final's issuance_time must postdate its own target_date)",
+    "total_requests": 556,
+    "total_bytes": 14212169
+  },
+  "integrated_rows_with_canonical_label": 2196,
+  "integrated_rows_label_unavailable": 12,
+  "integrated_total_rows": 2208,
+  "isd_vs_clinyc_audit": {
+    "n_days_with_both": 57,
+    "mean_clinyc_minus_isd_f": 0.8221052631578947,
+    "max_abs_clinyc_minus_isd_f": 2.9200000000000017
+  },
+  "no_lookahead_note": "canonical_tmax_label_f is an outcome label (same no-lookahead guarantee as the pre-existing label_tmax_f); it is never used as an input feature for any state on or before its own target_date."
+}
