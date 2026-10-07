@@ -21,6 +21,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
 import pandas as pd
+import requests
 
 from data.observations import STATIONS, fetch_station_year, parse_isd_row, is_real_observation, RequestStats
 from scripts.backfill_common import block_arg_parser, get_block, block_out_dir
@@ -32,12 +33,31 @@ RAW_DIR.mkdir(parents=True, exist_ok=True)
 
 
 def load_or_fetch_year(station, year, stats):
+    """Returns the raw annual ISD CSV text, or None if the archive confirms
+    (via HTTP 404) that this year's file does not exist yet -- a real,
+    anticipated structural-currency limitation (see scripts/backfill_common.py's
+    module docstring), NOT an extraction failure. Any OTHER HTTP error (500,
+    etc.) still propagates and fails loudly -- only a confirmed 404 is ever
+    treated as "doesn't exist", never silently swallowed for other errors."""
     raw_path = RAW_DIR / f"{station['station_id']}_{year}.csv"
     if raw_path.exists():
         return raw_path.read_text(encoding="utf-8")
-    text, _ = fetch_station_year(year, station["usaf"], station["wban"], stats=stats)
+    try:
+        text, _ = fetch_station_year(year, station["usaf"], station["wban"], stats=stats)
+    except requests.exceptions.HTTPError as e:
+        if e.response is not None and e.response.status_code == 404:
+            return None
+        raise
     raw_path.write_text(text, encoding="utf-8")
     return text
+
+
+def empty_observation_frame() -> pd.DataFrame:
+    """A zero-row DataFrame with the exact schema parse_isd_row() produces,
+    for a station-year confirmed structurally unavailable -- never a
+    hand-maintained/guessed column list, so it can't silently drift out of
+    sync with the real parser."""
+    return pd.DataFrame([parse_isd_row({})]).iloc[0:0]
 
 
 def main():
@@ -52,8 +72,44 @@ def main():
     manifest = []
     coverage_rows = []
 
+    n_days = (block.end - block.start).days + 1
+    all_dates = [block.start + timedelta(days=i) for i in range(n_days)]
+
     for st in STATIONS:
         text = load_or_fetch_year(st, year, stats)
+
+        if text is None:
+            # Confirmed structural absence (HTTP 404 on the whole annual file) --
+            # a real, anticipated archive-currency limitation, not a failure.
+            # Every day in the block window is explicitly marked unavailable;
+            # nothing is fabricated, substituted, or forward-filled.
+            manifest.append(
+                {
+                    "station_id": st["station_id"], "icao": st["icao"],
+                    "total_rows_in_block_window": 0, "real_observation_rows": 0,
+                    "status": "STRUCTURALLY_UNAVAILABLE",
+                    "reason": f"NOAA ISD annual file for {year} returned HTTP 404 (not yet published) -- confirmed structural absence, not an extraction failure.",
+                }
+            )
+            for d in all_dates:
+                coverage_rows.append(
+                    {
+                        "station_id": st["station_id"], "date": str(d),
+                        "observation_count": 0, "temperature_observation_count": 0,
+                        "first_timestamp": None, "last_timestamp": None,
+                        "max_temperature_f": None, "time_of_max": None,
+                        "largest_gap_minutes": None, "flag": "STRUCTURALLY_UNAVAILABLE_ARCHIVE_YEAR",
+                    }
+                )
+            all_frames.append(empty_observation_frame().assign(
+                station_id=pd.Series(dtype="object"), station_icao=pd.Series(dtype="object"),
+                station_lat=pd.Series(dtype="float64"), station_lon=pd.Series(dtype="float64"),
+                station_elevation_m=pd.Series(dtype="float64"), is_real_observation=pd.Series(dtype="bool"),
+                obs_date=pd.Series(dtype="object"),
+            ))
+            print(f"[{block.block_id}] {st['icao']}: STRUCTURALLY UNAVAILABLE (annual ISD file for {year} not yet published, HTTP 404)")
+            continue
+
         rows = list(csv.DictReader(io.StringIO(text)))
         parsed = [parse_isd_row(r) for r in rows]
         for p in parsed:
@@ -81,8 +137,6 @@ def main():
             }
         )
 
-        n_days = (block.end - block.start).days + 1
-        all_dates = [block.start + timedelta(days=i) for i in range(n_days)]
         real_by_day = {d: g for d, g in real.groupby("obs_date")}
         for d in all_dates:
             g = real_by_day.get(d)
