@@ -816,6 +816,23 @@ def get_ecmwf_ensemble_state(df: pd.DataFrame, t: datetime, policy: str) -> dict
 # PART 10 -- observation state.
 # ---------------------------------------------------------------------------
 
+# Empirically derived (2026-10-07, see docs/decisions.md): eligible_mask() only
+# enforces no-lookahead (observation_time <= query_time) with NO upper bound on
+# staleness, so it can carry a single real observation forward indefinitely once
+# an archive's real content ends (discovered via 2025H2's KNYC data, which stops
+# at 2025-08-27 -- every state for the rest of that 6-month block was silently
+# exposing that one 2+-month-old reading as "current"). Measured across the two
+# fully-healthy 6-month blocks (2025H1, 2024H2; ~730 station-days, 2190 sampled
+# query times/station): median age at query time is 9 minutes for all 4 stations;
+# the worst observed NORMAL reporting gap is 5 hours (KLGA, 2024H2) and the worst
+# observed age at an actual sampled query time is 4.15h (KLGA). 6 hours gives a
+# ~20% safety margin above the single worst documented normal gap while remaining
+# orders of magnitude below any genuine archive-coverage failure (2025H2's gap is
+# 1000+ hours) -- it cleanly separates "station had a bad reporting hour" from
+# "the archive stopped," which is the actual distinction that matters here.
+OBSERVATION_FRESHNESS_THRESHOLD_HOURS = 6.0
+
+
 def get_observation_state(obs_df: pd.DataFrame, t: datetime, policy: str, station_ids: list[str], target_date=None) -> dict:
     day_start_utc, day_end_utc = local_day_utc_bounds(target_date or TARGET_LOCAL_DATE)
     real = obs_df[obs_df["is_real_observation"]] if "is_real_observation" in obs_df.columns else obs_df
@@ -825,7 +842,10 @@ def get_observation_state(obs_df: pd.DataFrame, t: datetime, policy: str, statio
         g["_elig_mask"] = eligible_mask(g, t, policy)
         elig = g[g["_elig_mask"]].sort_values("observation_time")
         if elig.empty:
-            state[sid] = {"available": False, "reason": "no eligible observation at this state_time"}
+            state[sid] = {
+                "available": False, "has_eligible_observation": False,
+                "reason": "no eligible observation at this state_time",
+            }
             continue
         latest = elig.iloc[-1]
         prev = elig.iloc[-2] if len(elig) > 1 else None
@@ -840,21 +860,40 @@ def get_observation_state(obs_df: pd.DataFrame, t: datetime, policy: str, statio
             max_so_far = in_day.loc[idx, "temperature_f"]
             time_of_max = in_day.loc[idx, "observation_time"]
 
+        # NOTE: eligible_mask() already guarantees latest["observation_time"] <= t
+        # (no-lookahead); observation_age is therefore always >= 0 here. This is a
+        # SEPARATE, orthogonal concept from no-lookahead: "was this knowable by t"
+        # (eligible_mask's job) versus "is this still usable AS a current reading"
+        # (freshness, this block's job). Never conflate the two.
+        observation_age = t - latest["observation_time"].to_pydatetime()
+        is_fresh = observation_age <= timedelta(hours=OBSERVATION_FRESHNESS_THRESHOLD_HOURS)
+
         state[sid] = {
-            "available": True,
+            # "available" specifically means "fresh enough to expose as a current
+            # observation" -- NEVER true for a stale reading, even though one was
+            # technically knowable (has_eligible_observation=True covers that case).
+            "available": is_fresh,
+            "has_eligible_observation": True,
+            "stale": not is_fresh,
             "latest_observation_time": latest["observation_time"],
-            "observation_age": t - latest["observation_time"].to_pydatetime(),
-            "current_temperature_f": latest["temperature_f"],
-            "current_dewpoint_f": latest.get("dewpoint_f"),
-            "current_wind_speed_ms": latest.get("wind_speed_ms"),
-            "current_station_pressure_hpa": latest.get("station_pressure_hpa"),
+            "observation_age": observation_age,  # ALWAYS preserved for audit, fresh or not -- never discarded
+            "current_temperature_f": latest["temperature_f"] if is_fresh else None,
+            "current_dewpoint_f": latest.get("dewpoint_f") if is_fresh else None,
+            "current_wind_speed_ms": latest.get("wind_speed_ms") if is_fresh else None,
+            "current_station_pressure_hpa": latest.get("station_pressure_hpa") if is_fresh else None,
+            # Tmax-so-far is INTENTIONALLY independent of current-observation freshness:
+            # it is derived only from in_day (observations within the target calendar
+            # day, already no-lookahead-filtered via elig), never from "the latest
+            # observation regardless of which day it's from" -- so a stale prior-day
+            # (or prior-archive-era) reading can never leak into it. Confirmed by
+            # regression test and by direct inspection (scripts/test_weather_state.py).
             "max_temperature_observed_so_far_f": max_so_far,
             "time_of_max_so_far": time_of_max,
             "temperature_change_previous_observation_f": (
-                latest["temperature_f"] - prev["temperature_f"] if prev is not None else None
+                latest["temperature_f"] - prev["temperature_f"] if prev is not None and is_fresh else None
             ),
             "temperature_change_approx_1h_f": (
-                latest["temperature_f"] - obs_1h_ago["temperature_f"] if obs_1h_ago is not None else None
+                latest["temperature_f"] - obs_1h_ago["temperature_f"] if obs_1h_ago is not None and is_fresh else None
             ),
             "provenance": {
                 "source_file": str(PATHS["observations"].relative_to(PROJECT_ROOT)),

@@ -29,7 +29,7 @@ def inspect_state(sid, structured, trajectories, gefs_member_traj, atmo_traj):
         age = row.get(f"{src}_age_hours")
         fc = row.get(f"{src}_forecast_tmax_f" if src != "gefs" else "gefs_tmax_mean_f")
         usable = row.get(f"{src}_usable_for_daily_max")
-        ok_run = run is None or pd.Timestamp(run) <= qt
+        ok_run = pd.isna(run) or pd.Timestamp(run) <= qt
         print(f"  {src:20s} usable={usable!s:6s} run={run} age_h={age} fc_tmax_f={fc}  run<=query_time: {ok_run}")
         assert ok_run, f"FUTURE RUN DETECTED for {src} in state {sid}"
 

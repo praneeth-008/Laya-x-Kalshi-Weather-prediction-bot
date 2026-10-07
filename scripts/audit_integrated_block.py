@@ -63,13 +63,45 @@ def main():
 
     check("0 no-lookahead violations", len(nl_failures) == 0, f"{len(nl_failures)} states failed: {nl_failures[:3]}")
 
-    n_labeled = structured["label_tmax_f"].notna().sum()
-    check(f"label coverage == {n_states_expected}/{n_states_expected}", n_labeled == n_states_expected, f"got {n_labeled}/{n_states_expected}")
+    # ISD-derived label_tmax_f is a FEATURE/audit value, not the canonical label, since the
+    # 2026-10-04 CLINYC adoption (see docs/decisions.md) -- it is only guaranteed to be
+    # populated up to wherever the real NOAA ISD Global Hourly archive's content currently
+    # ends, which drifts over time and is NOT safely pinned to a hardcoded date (a direct
+    # check found the real KNYC content for 2025H2 extends one day past the conservative
+    # OBSERVATIONS_ARCHIVE_CONTENT_ENDS constant, which is deliberately conservative for a
+    # different purpose -- extraction safety across all 4 stations, not precise label-day
+    # validation). The robust invariant instead: labeled days must form a clean, contiguous
+    # PREFIX of the block (full coverage, or a gap only at the end where the archive hasn't
+    # caught up yet) -- never sporadic/scattered missing days, which would indicate a real
+    # extraction defect. The canonical label's own coverage (CLINYC) is validated separately
+    # by scripts/backfill_clinyc.py / scripts/clinyc_harmonize_block.py, run after this audit.
+    def _as_iso(d):
+        return d.isoformat() if hasattr(d, "isoformat") else str(d)
+
+    # target_date has been observed stored as either `date` objects or ISO strings
+    # depending on when a block's integration was built -- normalize ONCE here and
+    # use this column for every date-keyed comparison below, rather than re-deriving
+    # ad hoc (an earlier ad hoc .isin() against the raw column silently matched
+    # nothing when the dtypes differed, producing a NaN rate instead of a real one).
+    structured["_target_date_iso"] = structured["target_date"].map(_as_iso)
+
+    days_in_block = [_as_iso(d) for d in calendar_days(block.start, block.end)]
+    labeled_day_set = set(structured.loc[structured["label_tmax_f"].notna(), "_target_date_iso"])
+    n_labeled_days = len(labeled_day_set)
+    expected_prefix = set(days_in_block[:n_labeled_days])
+    check(f"ISD label (feature) coverage is a clean contiguous prefix of the block ({n_labeled_days}/{n_days_expected} days)",
+          labeled_day_set == expected_prefix,
+          f"labeled days are not exactly the first {n_labeled_days} calendar days of the block -- "
+          f"missing from prefix: {sorted(expected_prefix - labeled_day_set)[:5]}, "
+          f"unexpected beyond prefix: {sorted(labeled_day_set - expected_prefix)[:5]}")
     n_days = structured["target_date"].nunique()
     check(f"{n_days_expected} distinct target days", n_days == n_days_expected, f"got {n_days}")
-    label_per_day_nunique = structured.groupby("target_date")["label_tmax_f"].nunique()
-    check("label is identical across all 12 states of the same day", (label_per_day_nunique == 1).all(),
-          str(label_per_day_nunique[label_per_day_nunique != 1]))
+    label_per_day_nunique = structured.groupby("_target_date_iso")["label_tmax_f"].nunique()
+    # nunique()==0 means every state that day has a NaN ISD label -- vacuously consistent
+    # (a real, expected outcome for days beyond the ISD archive's content cutoff), not a defect.
+    check("ISD label is identical (or uniformly absent) across all 12 states of the same day",
+          label_per_day_nunique.isin([0, 1]).all(),
+          str(label_per_day_nunique[~label_per_day_nunique.isin([0, 1])]))
 
     violated = structured[structured["KNYC_tmax_so_far_f"] > structured["label_tmax_f"]]
     check("KNYC_tmax_so_far_f never exceeds label_tmax_f (hard physical constraint)", len(violated) == 0,
@@ -89,7 +121,27 @@ def main():
         strict_pct = structured.loc[strict_mask, f"{icao}_available"].mean() * 100
         proxy_pct = structured.loc[proxy_mask, f"{icao}_available"].mean() * 100
         check(f"{icao} observation available in 0% of STRICT states (excluded by design)", strict_pct == 0, f"got {strict_pct:.1f}%")
-        check(f"{icao} observation available in >90% of PROXY states", proxy_pct > 90, f"got {proxy_pct:.1f}%")
+
+        # Since the 2026-10-07 observation-freshness fix (see docs/decisions.md),
+        # "{icao}_available" means "a FRESH (<=6h old) current observation existed" --
+        # it is only ever expected to be high within this station's own real ISD
+        # coverage window for the block, not necessarily the whole block (a block
+        # with a genuine, documented coverage gap -- e.g. 2025H2 -- correctly shows
+        # low overall availability past that gap). Same "clean contiguous prefix"
+        # reasoning as the ISD label-coverage check above, applied per station.
+        proxy_df = structured.loc[proxy_mask, ["_target_date_iso", f"{icao}_available"]]
+        avail_day_set = set(proxy_df.loc[proxy_df[f"{icao}_available"], "_target_date_iso"])
+        n_avail_days = len(avail_day_set)
+        expected_prefix_icao = set(days_in_block[:n_avail_days])
+        is_clean_prefix = avail_day_set == expected_prefix_icao
+        within_window_pct = (
+            structured.loc[proxy_mask & structured["_target_date_iso"].isin(expected_prefix_icao), f"{icao}_available"].mean() * 100
+            if n_avail_days else None
+        )
+        check(f"{icao} observation availability (within its own {n_avail_days}/{n_days_expected}-day coverage window) is a clean contiguous prefix, >90% available inside it",
+              is_clean_prefix and (within_window_pct is None or within_window_pct > 90),
+              f"clean_prefix={is_clean_prefix}, within_window_pct={within_window_pct}, overall_proxy_pct={proxy_pct:.1f}%")
+        print(f"INFO: {icao} overall PROXY availability (post-freshness-fix): {proxy_pct:.1f}% ({n_avail_days}/{n_days_expected} days have any fresh coverage)")
 
     afd_strict_pct = structured.loc[strict_mask, "afd_available"].mean() * 100
     afd_proxy_pct = structured.loc[proxy_mask, "afd_available"].mean() * 100

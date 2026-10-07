@@ -163,7 +163,14 @@ def extract_structured_features(state_id: str, state: dict, label: dict) -> dict
         row[f"{prefix}_current_pressure_hpa"] = s.get("current_station_pressure_hpa")
         row[f"{prefix}_tmax_so_far_f"] = s.get("max_temperature_observed_so_far_f")
         row[f"{prefix}_time_of_tmax_so_far"] = s.get("time_of_max_so_far")
-        row[f"{prefix}_observation_age_minutes"] = s["observation_age"].total_seconds() / 60 if s.get("available") else None
+        # Age/timestamp/stale status are preserved for audit whenever there was ANY
+        # eligible observation, regardless of freshness -- NEVER gated on "available"
+        # (which now specifically means "fresh"), per the 2026-10-07 freshness fix
+        # (see docs/decisions.md): a stale reading must remain inspectable, not vanish.
+        has_eligible = s.get("has_eligible_observation", False)
+        row[f"{prefix}_observation_age_minutes"] = s["observation_age"].total_seconds() / 60 if has_eligible else None
+        row[f"{prefix}_latest_observation_time_utc"] = s.get("latest_observation_time") if has_eligible else None
+        row[f"{prefix}_observation_stale"] = s.get("stale") if has_eligible else None
     row["knyc_minus_klga_temp_f"] = (
         row["KNYC_current_temp_f"] - row["KLGA_current_temp_f"]
         if row.get("KNYC_current_temp_f") is not None and row.get("KLGA_current_temp_f") is not None else None
