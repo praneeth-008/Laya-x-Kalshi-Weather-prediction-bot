@@ -67,6 +67,9 @@ TERMINAL_ERROR_CODES = {10, 25}  # per Kalshi's AsyncAPI spec: channel error / s
 SUBSCRIBE_CHUNK_SIZE = 20  # defensive: today has 6 buckets, but never assume that holds for every future day
 CLOSE_GRACE_SECONDS = 300  # keep the WS open this long past close_time in case trailing messages arrive
 MAX_SETTLEMENT_WAIT_SECONDS = 2 * 60 * 60
+RESYNC_RETRY_INTERVAL_SECONDS = 5.0  # minimum gap between repeated get_snapshot resync sends for the
+# same still-pending markets -- without this, a resync that doesn't resolve before the next inbound
+# message re-fires on every single message (seen live 2026-10-07: 1.5M+ duplicate sends in ~1h)
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
 
@@ -173,6 +176,7 @@ class EventRecorder:
         self._trade_sid: int | None = None
         self._seq_trackers: dict[int, SequenceTracker] = {}
         self._pending_resync: set[str] = set()
+        self._last_resync_request_time: float = 0.0
         self._finalized = False
         self._first_snapshot_time_by_market: dict[str, datetime] = {}
         self._setup_dirs()
@@ -353,6 +357,10 @@ class EventRecorder:
     async def _request_resyncs(self, ws) -> None:
         if not self._pending_resync or self._orderbook_sid is None:
             return
+        now = time.monotonic()
+        if now - self._last_resync_request_time < RESYNC_RETRY_INTERVAL_SECONDS:
+            return
+        self._last_resync_request_time = now
         tickers = sorted(self._pending_resync)
         msg = {
             "id": self._next_cmd_id(), "cmd": "update_subscription",
