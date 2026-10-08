@@ -270,7 +270,18 @@ class EventRecorder:
         msg = data.get("msg") or {}
         seq = data.get("seq")
 
-        if mtype in ("orderbook_snapshot", "orderbook_delta", "trade"):
+        # orderbook_snapshot is deliberately excluded here. It shares a sid (and
+        # therefore a SequenceTracker) with orderbook_delta, but it answers a
+        # per-market resync out of band from that delta stream. Checking its seq
+        # against the shared tracker raced with any OTHER market's delta traffic
+        # on the same sid: if even one delta for a different market advanced the
+        # tracker while the resync was in flight, the snapshot's own seq looked
+        # "old" and got silently dropped at the DUPLICATE_OR_OLD branch below --
+        # before _pending_resync.discard() ever ran -- leaving that market's
+        # resync stuck forever and its deltas dropped indefinitely. Live incident
+        # 2026-10-08 (KXHIGHNY-26OCT08): confirmed via raw capture that deltas
+        # kept arriving and being written while the in-memory book stayed frozen.
+        if mtype in ("orderbook_delta", "trade"):
             sid = data.get("sid")
             tracker = self._seq_trackers.setdefault(sid, SequenceTracker(sid_label=f"{mtype}:{sid}"))
             anomaly = tracker.check(seq) if seq is not None else None
