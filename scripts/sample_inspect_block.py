@@ -21,7 +21,8 @@ from scripts.backfill_common import block_arg_parser, get_block, BACKFILL_ROOT
 def inspect_state(sid, structured, trajectories, gefs_member_traj, atmo_traj):
     row = structured[structured["state_id"] == sid].iloc[0]
     print(f"\n{'='*70}\nSTATE {sid}  target_date={row['target_date']}  mode={row['state_mode']}  query_time_local={row['query_time_local']}")
-    print(f"  label_tmax_f={row['label_tmax_f']}")
+    canonical = row.get("canonical_tmax_label_f")
+    print(f"  label_tmax_f (legacy ISD-derived)={row['label_tmax_f']}  canonical_tmax_label_f (CLINYC)={canonical}")
     qt = pd.Timestamp(row["query_time_utc"])
 
     for src in ["hrrr", "gfs", "nbm", "ecmwf_deterministic", "gefs"]:
@@ -75,13 +76,32 @@ def main():
 
     dates_sorted = sorted(structured["target_date"].unique())
     first_date, mid_date, last_date = dates_sorted[0], dates_sorted[len(dates_sorted) // 2], dates_sorted[-1]
-    hottest_row = structured.loc[structured["label_tmax_f"].idxmax()]
-    hottest_date = hottest_row["target_date"]
 
-    print(f"Block {block.block_id}: {len(dates_sorted)} days. Sample dates: start={first_date} mid={mid_date} end={last_date} hottest={hottest_date} (Tmax={hottest_row['label_tmax_f']}F)")
+    # Prefer the canonical CLINYC label (post-harmonization) for picking the
+    # "hottest day" sample; fall back to the legacy ISD-derived label_tmax_f
+    # only if canonical isn't present. A block can have zero ISD coverage by
+    # design (e.g. 2026H1, confirmed by the audit) -- label_tmax_f being
+    # entirely null there is expected, not a bug, so this must not crash.
+    if "canonical_tmax_label_f" in structured.columns and structured["canonical_tmax_label_f"].notna().any():
+        label_col = "canonical_tmax_label_f"
+    elif structured["label_tmax_f"].notna().any():
+        label_col = "label_tmax_f"
+    else:
+        label_col = None
+
+    sample_dates = [first_date, mid_date, last_date]
+    if label_col is not None:
+        hottest_row = structured.loc[structured[label_col].idxmax()]
+        hottest_date = hottest_row["target_date"]
+        sample_dates.append(hottest_date)
+        hottest_desc = f" hottest={hottest_date} (Tmax={hottest_row[label_col]}F, via {label_col})"
+    else:
+        hottest_desc = " hottest=N/A (no label values -- ISD absent and CLINYC not yet harmonized)"
+
+    print(f"Block {block.block_id}: {len(dates_sorted)} days. Sample dates: start={first_date} mid={mid_date} end={last_date}{hottest_desc}")
 
     sample_sids = []
-    for d in [first_date, mid_date, last_date, hottest_date]:
+    for d in sample_dates:
         candidates = structured[(structured["target_date"] == d) & (structured["state_mode"] == "proxy") & (structured["local_hour"] == 14)]
         if len(candidates):
             sample_sids.append(candidates.iloc[0]["state_id"])
