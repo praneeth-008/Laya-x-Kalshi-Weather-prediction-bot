@@ -1,0 +1,29 @@
+{
+  "block_id": "2026H1",
+  "n_days_expected": 181,
+  "n_days_available": 181,
+  "n_days_missing": 0,
+  "coverage_pct": 100.0,
+  "missing_dates": [],
+  "multi_final_days": [
+    {
+      "date": "2026-01-01",
+      "n_candidates": 2,
+      "notes": "MULTI_FINAL_IDENTICAL: 2 final reports, same value, selected latest-issued (202601021606-KOKX-CDUS41-CLINYC)"
+    },
+    {
+      "date": "2026-03-04",
+      "n_candidates": 2,
+      "notes": "MULTI_FINAL_IDENTICAL: 2 final reports, same value, selected latest-issued (202603051443-KOKX-CDUS41-CLINYC)"
+    }
+  ],
+  "days_with_preliminary_rejected": 181,
+  "selection_errors": [],
+  "parse_errors": [],
+  "duplicate_target_dates": 0,
+  "impossible_values": [],
+  "provenance_validation": "PASS",
+  "no_lookahead_check": "PASS (enforced inside select_canonical_label: every used final's issuance_time must postdate its own target_date)",
+  "total_requests": 550,
+  "total_bytes": 13987297
+}

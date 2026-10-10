@@ -1,0 +1,116 @@
+{
+  "manifest_version": "1.1",
+  "block_id": "2026H1",
+  "block_start": "2026-01-01",
+  "block_end": "2026-06-30",
+  "n_calendar_days": 181,
+  "block_status": "FROZEN",
+  "freeze_timestamp_utc": "2026-10-10T00:30:00.000000+00:00",
+  "baseline_methodology_commit": "8af8d301e17dee3313e4dbb3dac7f7ddacd30a36",
+  "block_selection_rationale": "Phase B of the backward historical sequence: first block extracted going FORWARD from 2025H2 (the most recent completed half-year) rather than backward, per the user's explicit continuation instruction after the 2025H2 freeze. This is the first block to run entirely without any ISD observation coverage (2026's NOAA ISD annual archive file does not exist yet), exercising the structural-404 handling added to scripts/backfill_observations.py before this block began. Phase C resumes the backward sequence with 2024H1 next.",
+  "source_coverage": {
+    "observations": {
+      "stations": ["KNYC", "KLGA", "KJFK", "KEWR"],
+      "status": "STRUCTURALLY_UNAVAILABLE (whole block)",
+      "real_observation_rows": {"KNYC": 0, "KLGA": 0, "KJFK": 0, "KEWR": 0},
+      "reason": "NOAA ISD annual archive file for 2026 returns HTTP 404 (not yet published by NOAA) -- confirmed structural absence via explicit 404 check, not an extraction failure. Every day of this block is flagged STRUCTURALLY_UNAVAILABLE_ARCHIVE_YEAR.",
+      "status_overall": "WARNING (documented, non-blocking -- ISD is feature-only; CLINYC supplies the canonical label for this block, achieving 100% coverage independently of ISD)"
+    },
+    "afd": {"status": "PASS", "total_documents": 1670, "missing_days": 0, "failed": 0},
+    "gfs": {"planned": 27044, "done": 27034, "failed": 10, "success_pct": 99.963, "n_part_files": 1082, "total_bytes": 181876700943},
+    "hrrr": {"planned": 95802, "done": 95776, "failed": 26, "success_pct": 99.973, "n_part_files": 3833, "total_bytes": 1067865668117},
+    "hrrr_apcp_1h": {"planned": 91463, "done": 91463, "failed": 0, "success_pct": 100.0, "n_part_files": 3659, "total_bytes": 36692679380, "note": "structurally_not_applicable_fh0=4339 (forecast-hour-0 has no accumulated precip by definition, excluded from the planned-item universe, not a failure); additive, not merged into the integrated atmospheric_trajectories output (matches already-approved pilot scope, same as every prior block)"},
+    "hrrr_rh": {"planned": 95802, "done": 95760, "failed": 42, "success_pct": 99.956, "n_part_files": 3833, "total_bytes": 152392884508, "note": "merged into integrated hrrr dataframe as a native HRRR variable"},
+    "nbm": {"planned": 143791, "done": 143422, "failed": 369, "success_pct": 99.743, "n_part_files": 5749, "total_bytes": 1494148170838},
+    "ecmwf": {
+      "planned": 4342, "done": 4333, "failed": 9, "success_pct": 99.793, "n_part_files": 182,
+      "eligible_days": 181, "structurally_unavailable_days": 0, "ecmwf_valid_from": "2024-02-29",
+      "total_bytes": 15890845789,
+      "known_operational_issue": "Hit the same documented AWS S3 SlowDown throttling as every prior block's ECMWF extraction; self-healed without intervention. Final 4333/4342 DONE, 9/4342 FAILED (0.21%) -- the best (lowest failure rate) ECMWF result of any block extracted so far."
+    },
+    "gefs": {
+      "planned": 291710, "done": 285268, "failed": 6442, "success_pct": 97.792, "n_part_files": 11646,
+      "n_members": 31, "members": "gec00 (control) + gep01-gep30 (perturbed), all 31 confirmed present in every usable run",
+      "total_bytes": 1890596983560,
+      "known_operational_issue": "Sustained, gradually-growing-then-stabilizing AWS S3 503/SlowDown throttling across the whole ~34h run (final failure-rate trajectory: 3.7% -> 4.0% -> 4.7% -> 5.6% -> peak, then declining to 2.2% and holding there as DONE caught up) -- self-healed via the extraction script's own retry pass, never required a kill/cooldown/relaunch intervention (unlike 2026H1's earlier ECMWF episode in this same block). 97.79% success is the lowest of the 7 numerical sources in this block but still well within the established pattern for S3-throttled sources; failure breakdown (verified from the checkpoint file): 54% '503 Slow Down' on .idx fetch, 38% '503' on the data range-GET, 8% generic 503, <1% connection resets."
+    }
+  },
+  "grid_check_status": "PASS (confirmed via data/processed/backfill/2026H1/grid_check_report.json, verified before extraction began)",
+  "central_park_target": {"latitude": 40.7794, "longitude": -73.9691},
+  "target_observation_station": "KNYC",
+  "auxiliary_observation_stations": ["KLGA", "KJFK", "KEWR"],
+  "canonical_label": {
+    "source": "NWS CLINYC Central Park daily Tmax (finalized reports only)",
+    "coverage_days": 181,
+    "coverage_total_days": 181,
+    "coverage_pct": 100.0,
+    "missing_dates": [],
+    "integrated_rows_with_canonical_label": 2172,
+    "integrated_rows_label_unavailable": 0,
+    "isd_vs_clinyc_audit": {
+      "n_days_with_both": 0,
+      "mean_clinyc_minus_isd_f": null,
+      "max_abs_clinyc_minus_isd_f": null,
+      "note": "No comparison possible -- ISD has zero coverage in this block (structural archive-currency gap, see source_coverage.observations above). CLINYC is the sole label source for all 181 days, with full (100%) coverage achieved independently of ISD."
+    }
+  },
+  "integration_architecture": {
+    "layers": {
+      "state_index": {"rows": 2172, "path": "integrated/state_index.parquet"},
+      "structured_features": {"rows": 2172, "columns": 130, "path": "integrated/structured_features.parquet"},
+      "forecast_trajectories": {"rows": 119904, "path": "integrated/forecast_trajectories.parquet", "note": "PROTECTED, instantaneous-temperature-only"},
+      "gefs_members": {"rows": 67332, "path": "integrated/gefs_members.parquet"},
+      "atmospheric_trajectories": {"rows": 898728, "path": "integrated/atmospheric_trajectories.parquet"},
+      "gefs_member_trajectories": {"rows": 4984924, "path": "integrated/gefs_member_trajectories.parquet"},
+      "human_readable_states": {"rows": 2172, "columns": 31, "path": "integrated/human_readable_states.csv / .parquet"}
+    },
+    "total_states": 2172,
+    "states_per_day": 12,
+    "standard_local_hours": [6, 8, 10, 12, 14, 16],
+    "state_modes": ["strict", "proxy"]
+  },
+  "validation_results": {
+    "integrated_dataset_level_checks": "35/35 PASS",
+    "duplicate_state_ids": 0,
+    "no_lookahead_violations": 0,
+    "hybrid_run_violations": 0,
+    "partial_gefs_ensemble_violations": 0,
+    "backward_run_selection_moves": 0,
+    "leakage_suspicious_columns": 0,
+    "isd_label_coverage_check": "PASS (clean contiguous prefix of length 0/181 days -- correctly reflects the block's genuine zero ISD coverage, not an error)",
+    "isd_per_station_availability_check": "PASS for all 4 stations (clean contiguous prefix of length 0 within each station's own 0-day coverage window -- trivially satisfied, consistent with the fully-structurally-unavailable ISD archive for this block)",
+    "sample_deep_inspection": "4/4 sample states PASS (block start 2026-01-01, block middle 2026-04-01, block end 2026-06-30, hottest canonical-label day 2026-05-19 Tmax=93.0F) -- confirmed no future information, all 5 forecast sources usable with sane run ages, 31/31 genuinely-distinct GEFS members, plausible trajectory temperature ranges across all four seasons represented in the sample",
+    "sample_inspection_bug_found_and_fixed": "scripts/sample_inspect_block.py originally crashed (KeyError on an all-NaN idxmax) when selecting its 'hottest day' sample, because it hard-coded the legacy ISD-derived label_tmax_f column, which is 100% null for this block by design (zero ISD coverage). Fixed to prefer the canonical CLINYC label (canonical_tmax_label_f) when present, falling back to the legacy ISD label only if canonical is also unavailable, and to degrade gracefully (skip the hottest-day sample, not crash) if neither is available. This is the first block to expose this latent assumption, since every prior block had at least partial ISD coverage."
+  },
+  "known_limitations": [
+    "HRRR APCP_1H is extracted and frozen but not merged into the integrated atmospheric_trajectories output -- matches the already-approved pilot-phase scope exactly, same as every prior block.",
+    "GEFS had a 2.21% failure rate (6442/291710 items) after self-healing from a sustained AWS S3 SlowDown throttling episode across the whole ~34h extraction run -- the highest of any single-source failure rate in this block, but within the documented, self-healing S3-throttling pattern already seen with ECMWF in prior blocks; never required manual intervention.",
+    "ISD observations (KNYC/KLGA/KJFK/KEWR) have ZERO coverage for this entire block -- the 2026 NOAA ISD annual archive file does not exist yet (confirmed HTTP 404, not an extraction defect). ISD is feature-only; CLINYC achieved full (100%) canonical-label coverage independently, so this does not affect the block's labeled-outcome completeness. Any model consuming this block must expect KNYC/KLGA/KJFK/KEWR observation-derived features to be entirely null throughout -- never silently substituted with another source.",
+    "CLINYC has zero gaps for this block (181/181 days) -- better coverage than any prior block."
+  ],
+  "structural_unavailability": {
+    "observations": "ALL 181 days, all 4 stations -- 2026 ISD annual archive not yet published by NOAA (HTTP 404, structural, not an extraction failure). Expected to resolve once NOAA publishes the 2026 annual file; this block will NOT be silently re-extracted or amended if/when that happens -- it is frozen as-is, consistent with every other block's freeze discipline.",
+    "ecmwf": "None for this block -- fully within the validated ifs/0p25 regime (2024-02-29 onward)."
+  },
+  "artifact_paths": {
+    "raw_extraction_logs": "data/processed/backfill/2026H1/logs/",
+    "per_source_output": "data/processed/backfill/2026H1/{source}/",
+    "integrated_output": "data/processed/backfill/2026H1/integrated/",
+    "clinyc_output": "data/processed/backfill/2026H1/clinyc/",
+    "block_manifest": "data/processed/backfill/2026H1/block_manifest.json"
+  },
+  "reproducibility_command": "python scripts/backfill_observations.py --block 2026H1 && python scripts/backfill_afd.py --block 2026H1 && python scripts/backfill_ecmwf.py --block 2026H1 && python scripts/backfill_gfs.py --block 2026H1 && python scripts/backfill_hrrr_apcp_1h.py --block 2026H1 && python scripts/backfill_hrrr_rh.py --block 2026H1 && python scripts/backfill_hrrr.py --block 2026H1 && python scripts/backfill_nbm.py --block 2026H1 && python scripts/backfill_gefs.py --block 2026H1 && python scripts/build_integrated_block.py --block 2026H1 && python scripts/clinyc_harmonize_block.py --block 2026H1 && python scripts/audit_integrated_block.py --block 2026H1 && python scripts/sample_inspect_block.py --block 2026H1",
+  "freeze_criteria_met": {
+    "source_extraction_passed": true,
+    "source_validation_passed": true,
+    "grid_location_sanity_passed": true,
+    "integrated_build_passed": true,
+    "point_in_time_validation_passed": true,
+    "variable_survival_validation_passed": true,
+    "sample_inspections_passed": true,
+    "zero_isd_coverage_handling_validated": true,
+    "canonical_label_coverage_validated": true,
+    "manifest_complete": true
+  },
+  "code_commit_for_this_freeze": "fe425fc0d1e860692965b2eeb823da5a9d434b3d"
+}
